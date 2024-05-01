@@ -36,7 +36,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[Walmart](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1859337?source=Job_Board_LinkedIn&utm_source=Job_Board_LinkedIn&_ccid=1708982661983u5811k6uz)** | 2025 Summer Intern: Software Engineer II | Bentonville, AZ | <a href="https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1859337?source=Job_Board_LinkedIn&utm_source=Job_Board_LinkedIn&_ccid=1708982661983u5811k6uz"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> | Apr 29 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/Ouckah/Summer2025-Internships#the-list-)
