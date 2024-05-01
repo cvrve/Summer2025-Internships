@@ -54,14 +54,10 @@ def getLink(listing):
     return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
 
 
-def create_md_table(listings, offSeason=False):
+def create_md_table(listings):
     table = ""
-    if offSeason:
-        table += "| Company | Role | Location | Terms | Application/Link | Date Posted |\n"
-        table += "| ------- | ---- | -------- | ----- | ---------------- | ----------- |\n"
-    else:
-        table += "| Company | Role | Location | Application/Link | Date Posted |\n"
-        table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
+    table += "| Company | Role | Location | Application/Link | Date Posted |\n"
+    table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
 
     prev_company = None
     prev_date = None
@@ -85,10 +81,7 @@ def create_md_table(listings, offSeason=False):
             prev_company = listing['company_name']
             prev_date = date_posted
         
-        if offSeason:
-            table += f"| {company} | {position} | {location} | {terms} | {link} | {date_posted} |\n"
-        else:
-            table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
+        table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
 
     return table
 
@@ -101,7 +94,7 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
         return listings
 
 
-def embedTable(listings, filepath, offSeason=False):
+def embedTable(listings, filepath):
     newText = ""
     readingTable = False
     with open(filepath, "r") as f:
@@ -116,17 +109,13 @@ def embedTable(listings, filepath, offSeason=False):
                 if "TABLE_START" in line:
                     readingTable = True
                     newText += "\n" + \
-                        create_md_table(listings, offSeason=offSeason) + "\n"
+                        create_md_table(listings) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
 
 def filterSummer(listings):
     return [listing for listing in listings if listing["is_visible"] and any("Summer" in item for item in listing["terms"])]
-
-
-def filterOffSeason(listings):
-    return [listing for listing in listings if listing["is_visible"] and any("Fall" in item or "Winter" in item or "Spring" in item for item in listing["terms"])]
 
 
 def sortListings(listings):
