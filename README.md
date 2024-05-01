@@ -48,4 +48,5 @@ Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Interns
 <a href="https://github.com/Ouckah/Summer2025-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Ouckah/Summer2025-Internships" />
 </a>
-Made with [contrib.rocks](https://contrib.rocks).
+
+Made with [contrib.rocks](https://contrib.rocks)!
