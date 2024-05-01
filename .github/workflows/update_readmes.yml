@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --local user.email action@github.com
           git config --local user.name 'Github Action'
+          git pull
           git add README.md
           git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
 
