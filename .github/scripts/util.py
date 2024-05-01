@@ -67,7 +67,6 @@ def create_md_table(listings):
             company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
-        terms = ", ".join(listing["terms"])
         link = getLink(listing)
 
         year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
@@ -114,10 +113,6 @@ def embedTable(listings, filepath):
         f.write(newText)
 
 
-def filterSummer(listings):
-    return [listing for listing in listings if listing["is_visible"] and any("Summer" in item for item in listing["terms"])]
-
-
 def sortListings(listings):
     oldestListingFromCompany = {}
     linkForCompany = {}
@@ -152,7 +147,7 @@ def sortListings(listings):
 def checkSchema(listings):
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
-             "date_posted", "url", "locations", "company_url", "terms",
+             "date_posted", "url", "locations", "company_url",
              "sponsorship"]
     for listing in listings:
         for prop in props:
