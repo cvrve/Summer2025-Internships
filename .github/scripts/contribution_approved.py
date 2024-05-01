@@ -25,8 +25,6 @@ def getData(body, is_edit, username):
         data["title"] = lines[5]
     if "no response" not in lines[7].lower():
         data["locations"] = [line.strip() for line in lines[7].split("|")]
-    if "no response" not in lines[9].lower():
-        data["terms"] = [line.strip() for line in lines[9].split(",")]
     if "no response" not in lines[11].lower():
         data["sponsorship"] = "Other"
         for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
