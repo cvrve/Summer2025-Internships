@@ -6,10 +6,6 @@ on:
       - '.github/scripts/listings.json'
   workflow_dispatch:
 
-concurrency: 
-  group: listings_update
-  cancel-in-progress: true
-
 
 jobs:
   run-python-script:
