@@ -5,6 +5,21 @@ from datetime import datetime
 import util
 import re
 
+# TODO: fix this object display comment formatting
+# ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Location", "San Franciso, CA | Austin, TX | Remote"]
+LINES = {
+    "url": 1,
+    "company_name": 3,
+    "title": 5,
+    "locations": 7,
+    "sponsorship": 9,
+    "active": 11,
+    "email": 13,
+    "email_is_edit": 15
+}
+
+# lines that require special handling
+SPECIAL_LINES = set(["url", "locations", "sponsorship", "active", "email", "email_is_edit"])
 
 def add_https_to_url(url):
     if not url.startswith(("http://", "https://")):
@@ -15,27 +30,39 @@ def add_https_to_url(url):
 def getData(body, is_edit, username):
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     
-    # ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
     data = {"date_updated": int(datetime.now().timestamp())}
-    if "no response" not in lines[1].lower():
-        data["url"] = add_https_to_url(lines[1].strip())
-    if "no response" not in lines[3].lower():
-        data["company_name"] = lines[3]
-    if "no response" not in lines[5].lower():
-        data["title"] = lines[5]
-    if "no response" not in lines[7].lower():
-        data["locations"] = [line.strip() for line in lines[7].split("|")]
-    if "no response" not in lines[11].lower():
+
+    # url handling
+    if "no response" not in lines[ LINES["url"] ].lower():
+        data["url"] = add_https_to_url(lines[ LINES["url"] ].strip())
+
+    # location handling
+    if "no response" not in lines[ LINES["locations"] ].lower():
+        data["locations"] = [line.strip() for line in lines[ LINES["locations"] ].split("|")]
+
+    # sponsorship handling
+    if "no response" not in lines[ LINES["sponsorship"] ].lower():
         data["sponsorship"] = "Other"
         for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
-            if option in lines[11]:
+            if option in lines[ LINES["sponsorship"] ]:
                 data["sponsorship"] = option
-    if "none" not in lines[13].lower():
-        data["active"] = "yes" in lines[13].lower()
+
+    # active handling
+    if "none" not in lines[ LINES["active"] ].lower():
+        data["active"] = "yes" in lines[ LINES["active"] ].lower()
+
+    # regular field handling (company_name, etc.)
+    for title, line_index in LINES.items():
+        if title in SPECIAL_LINES: continue
+        content = lines[line_index]
+
+        if "no response" not in content.lower():
+            data[title] = content
+
+    # email handling
     if is_edit:
         data["is_visible"] = "[x]" not in lines[15].lower()
-
-    email = lines[17 if is_edit else 15].lower()
+    email = lines[ LINES["email_is_edit"] if is_edit else LINES["email"] ].lower()
     if "no response" not in email:
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)
