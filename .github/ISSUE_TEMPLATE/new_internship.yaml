@@ -42,19 +42,6 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: terms
-    attributes:
-      label: What term(s) is this internship offered for?
-      multiple: true
-      options:
-        - Fall 2023
-        - Winter 2024
-        - Spring 2024
-        - Summer 2024
-        - Fall 2024
-    validations:
-      required: true
-  - type: dropdown
     id: sponsorship
     attributes:
       label: Does this internship offer sponsorship?
