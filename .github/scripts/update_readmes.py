@@ -8,9 +8,7 @@ def main():
 
     util.checkSchema(listings)
     util.sortListings(listings)
-
-    summer_2024_listings = util.filterSummer(listings)
-    util.embedTable(summer_2024_listings, "README.md")
+    util.embedTable(listings, "README.md")
 
     util.setOutput("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
 
