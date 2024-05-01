@@ -1,4 +1,4 @@
-# Summer 2025 Tech Internships by Ouckah (inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships))
+# Summer 2025 Tech Internships by Ouckah & CSCareers (inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships))
 
 The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025**. The list is maintained collaboratively by [CSCareers](https://discord.gg/cscareers)!
 
