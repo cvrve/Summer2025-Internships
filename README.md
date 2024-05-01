@@ -5,7 +5,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
 <div align="center">
