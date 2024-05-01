@@ -15,5 +15,21 @@
         "date_updated": 1691190624,
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035",
         "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1714588234,
+        "url": "https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025?utm_campaign=google_jobs_apply",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Software Engineering Intern",
+        "source": "Ouckah",
+        "id": "17eb6180-04a0-4148-8756-07e5c051123f",
+        "date_posted": 1714588234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
