@@ -44,7 +44,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 ## We love our contributors ❤️❤️
 
 Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)!
+
 <a href="https://github.com/Ouckah/Summer2025-Internships/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pittcsc/Ouckah/Summer2025-Internships&columns=24&max=480" />
+  <img src="https://contrib.rocks/image?repo=Ouckah/Summer2025-Internships" />
 </a>
-_Made with [contrib.rocks](https://contrib.rocks)._
+Made with [contrib.rocks](https://contrib.rocks).
