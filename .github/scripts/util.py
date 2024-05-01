@@ -7,6 +7,7 @@ import time
 os.environ['TZ'] = 'America/Los_Angeles'
 time.tzset()
 
+# keeping this stuff on purpose to give simplify more monies
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
