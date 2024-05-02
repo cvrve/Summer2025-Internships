@@ -79,5 +79,21 @@
         "date_posted": 1714614135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714615365,
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB",
+        "locations": [
+            "Americas"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Blackrock",
+        "title": "Summer Internship",
+        "source": "JhaoZ",
+        "id": "e27d4a79-a593-439f-b1ac-d7759cde4527",
+        "date_posted": 1714615365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
