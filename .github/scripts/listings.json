@@ -110,5 +110,21 @@
         "date_posted": 1714683618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714684041,
+        "url": "https://boards.greenhouse.io/chicagotradingreferral/jobs/4392223005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "Quant Trading Analyst Intern",
+        "source": "sample-resume",
+        "id": "c615f667-eda6-4069-8177-44ec8d5d36da",
+        "date_posted": 1714684041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
