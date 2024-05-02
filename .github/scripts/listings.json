@@ -31,5 +31,21 @@
         "date_posted": 1714588234,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714613432,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Developer Intern",
+        "source": "JhaoZ",
+        "id": "27e18275-9232-498e-b2b3-409d2f248775",
+        "date_posted": 1714613432,
+        "company_url": "",
+        "is_visible": true
     }
 ]
