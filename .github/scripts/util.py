@@ -41,11 +41,12 @@ def getSponsorship(listing):
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
-    link = listing["url"] 
-    if "?" not in link:
-        link += "?utm_source=Simplify&ref=Simplify"
-    else:
-        link += "&utm_source=Simplify&ref=Simplify"
+    link = listing["url"]
+    # Adds Simplify's UTM source and ref on every link inside the table aka thinga-ma-bobber
+    # if "?" not in link:
+    #     link += "?utm_source=Simplify&ref=Simplify"
+    # else:
+    #     link += "&utm_source=Simplify&ref=Simplify"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
