@@ -95,5 +95,21 @@
         "date_posted": 1714615365,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714682261,
+        "url": "https://careers.walmart.com/us/jobs/WD1859337-2025-summer-intern-software-engineer-ii",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "468a9de0-0a08-4ac5-8962-eebc548bff82",
+        "date_posted": 1714682261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
