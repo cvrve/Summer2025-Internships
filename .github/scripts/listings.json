@@ -63,5 +63,21 @@
         "date_posted": 1714613975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714614135,
+        "url": "https://boards.greenhouse.io/chicagotradingreferral/jobs/4392240005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "Software Engineer Intern",
+        "source": "JhaoZ",
+        "id": "9a90f958-e28e-4db7-9b6b-d778e05213a0",
+        "date_posted": 1714614135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
