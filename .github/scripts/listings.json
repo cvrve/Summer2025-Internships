@@ -47,5 +47,21 @@
         "date_posted": 1714613432,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714613975,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5594014",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Global Atlantic",
+        "title": "Technology Intern",
+        "source": "JhaoZ",
+        "id": "7722332c-2cbe-4a92-8729-3e5c44f54c8e",
+        "date_posted": 1714613975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
