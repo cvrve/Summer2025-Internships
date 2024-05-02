@@ -71,8 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)!
 
-<a href="https://github.com/Ouckah/Summer2025-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ouckah/Summer2025-Internships" />
+<a href="https://github.com/ouckah/Summer2025-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ouckah/Summer2025-Internships" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks)!
