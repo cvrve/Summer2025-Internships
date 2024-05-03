@@ -142,5 +142,21 @@
         "date_posted": 1714708953,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714709768,
+        "url": "https://group.bnpparibas/en/careers/job-offer/2025-summer-analyst-internship-technology",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Summer Analyst Internship - Technology",
+        "source": "JhaoZ",
+        "id": "c3fa5b2b-7ed5-4e6f-9a2b-3273268eb5a0",
+        "date_posted": 1714709768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
