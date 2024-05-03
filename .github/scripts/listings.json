@@ -158,5 +158,21 @@
         "date_posted": 1714709768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714763050,
+        "url": "https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624",
+        "locations": [
+            "Verona, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Epic",
+        "title": "Software Engineer Intern",
+        "source": "JhaoZ",
+        "id": "b05926f3-a2cb-4a81-a4ea-937434abc70e",
+        "date_posted": 1714763050,
+        "company_url": "",
+        "is_visible": true
     }
 ]
