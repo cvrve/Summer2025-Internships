@@ -126,5 +126,21 @@
         "date_posted": 1714684041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1714708953,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/765577/algorithm-analyst-intern-2025",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Voloridge",
+        "title": "Algorithm Analyst Intern",
+        "source": "JhaoZ",
+        "id": "531a5b2d-3b1e-460f-be6d-92811170d55a",
+        "date_posted": 1714708953,
+        "company_url": "",
+        "is_visible": true
     }
 ]

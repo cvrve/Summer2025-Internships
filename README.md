@@ -56,6 +56,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Walmart | Software Engineering Intern 🛂 | Bentonville, AR | <a href="https://careers.walmart.com/us/jobs/WD1859337-2025-summer-intern-software-engineer-ii"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
+| Voloridge | Algorithm Analyst Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/765577/algorithm-analyst-intern-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | Chicago Trading Company | Quant Trading Analyst Intern | Chicago, IL | <a href="https://boards.greenhouse.io/chicagotradingreferral/jobs/4392223005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | Bridgewater Associates | Investment Engineer Intern | Westport, CT | <a href="https://boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7239499002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | SIG | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025?utm_campaign=google_jobs_apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
