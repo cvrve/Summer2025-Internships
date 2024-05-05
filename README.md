@@ -25,6 +25,24 @@ The torch has been passed. Use this repo to share and keep track of software, te
 ---
 
 <div align="center">
+	<h3>🔍 Want to discover career path insights effortlessly  🔍</h3>
+	<p>
+			Focus on on the core of what LinkedIn was meant to be: a place to share your career journey with others.
+			<br>
+			<div>
+  			<a href="https://pipelines.lol/">
+            <img src="https://pipelines.lol/pipelines.png" width="100" alt="Pipelines Logo">
+        </a>
+	<h3>⬆️ Click above! ⬆️</h3>
+			</div>
+	</p>
+ <p>
+        
+</div>
+
+---
+
+<div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
 			<b>Applying to internships?</b>
