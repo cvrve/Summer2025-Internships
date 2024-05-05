@@ -36,8 +36,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 	<h3>⬆️ Click above! ⬆️</h3>
 			</div>
 	</p>
- <p>
-        
 </div>
 
 ---
