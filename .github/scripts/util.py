@@ -62,27 +62,31 @@ def create_md_table(listings):
     table += "| Company | Role | Location | Application/Link | Date Posted |\n"
     table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
 
-    prev_company = None
-    prev_date = None
+    curr_company_key = None
     for listing in listings:
+        
+        # parse listing information
         company_url = listing["company_url"]
-        company = f"**[{listing['company_name']}]({company_url})**" if len(
-            company_url) > 0 else listing["company_name"]
+        company = f"**[{listing['company_name']}]({company_url})**" if len(company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         link = getLink(listing)
 
+        # parse listing date
         year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
         day_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
         is_before_july_18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
         date_posted = year_month if is_before_july_18 else day_month
 
-        if prev_company == listing['company_name'] and prev_date == date_posted:
+        # add ↳ to listings with the same company
+        # as "header" company listing (most recent)
+        company_key = listing['company_name'].lower()
+        if curr_company_key == company_key:
             company = "↳"
         else:
-            prev_company = listing['company_name']
-            prev_date = date_posted
-        
+            curr_company_key = company_key
+
+        # create table row
         table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
 
     return table
