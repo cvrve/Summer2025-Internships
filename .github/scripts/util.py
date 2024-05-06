@@ -1,6 +1,7 @@
 import json
 import os
 from datetime import datetime
+from collections import defaultdict
 import time
 
 # Set the TZ environment variable to PST
@@ -115,35 +116,27 @@ def embedTable(listings, filepath):
         f.write(newText)
 
 
-def sortListings(listings):
-    oldestListingFromCompany = {}
-    linkForCompany = {}
+def sort_listings(listings):
+    company_map = defaultdict(list)  # company_name -> list of postings under company
 
-    for listing in listings:
-        date_posted = listing["date_posted"]
-        if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
-            oldestListingFromCompany[listing["company_name"].lower()] = date_posted
-        if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
-            linkForCompany[listing["company_name"]] = listing["company_url"]
-
+    # initial sort by activity and date
     listings.sort(
         key=lambda x: (
-            x["active"],  # Active listings first
-            datetime(
-                datetime.fromtimestamp(x["date_posted"]).year,
-                datetime.fromtimestamp(x["date_posted"]).month,
-                datetime.fromtimestamp(x["date_posted"]).day
-            ),
-            x['company_name'].lower(),
-            x['date_updated']
+            x["active"],  # active listings first
+            datetime.fromtimestamp(x["date_posted"]).date()
         ),
         reverse=True
     )
 
+    # group listings by company name
     for listing in listings:
-        listing["company_url"] = linkForCompany[listing["company_name"]]
+        company_key = listing["company_name"].lower()
+        company_map[company_key].append(listing)
 
-    return listings
+    # flatten the sorted listings by company
+    sorted_listings = [posting for postings in company_map.values() for posting in postings]
+
+    return sorted_listings
 
 
 def checkSchema(listings):
