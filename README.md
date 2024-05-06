@@ -30,7 +30,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 			Focus on on the core of what LinkedIn was meant to be: a place to share your career journey with others.
 			<br>
 			<div>
-  			<a href="https://pipelines.lol/">
+  			<a href="https://pipelines.lol?ref=summer25repo">
             <img src="https://pipelines.lol/pipelines.png" width="100" alt="Pipelines Logo">
         </a>
 	<h3>⬆️ Click above! ⬆️</h3>
