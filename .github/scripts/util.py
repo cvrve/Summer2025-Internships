@@ -116,8 +116,8 @@ def embedTable(listings, filepath):
         f.write(newText)
 
 
-def sort_listings(listings):
-    company_map = defaultdict(list)  # company_name -> list of postings under company
+def sortListings(listings):
+    companyMap = defaultdict(list)  # company_name -> list of postings under company
 
     # initial sort by activity and date
     listings.sort(
@@ -130,13 +130,13 @@ def sort_listings(listings):
 
     # group listings by company name
     for listing in listings:
-        company_key = listing["company_name"].lower()
-        company_map[company_key].append(listing)
+        companyKey = listing["company_name"].lower()
+        companyMap[companyKey].append(listing)
 
     # flatten the sorted listings by company
-    sorted_listings = [posting for postings in company_map.values() for posting in postings]
+    sortedListings = [posting for postings in companyMap.values() for posting in postings]
 
-    return sorted_listings
+    return sortedListings
 
 
 def checkSchema(listings):
