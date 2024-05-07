@@ -174,5 +174,21 @@
         "date_posted": 1714763050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1715100323,
+        "url": "https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Quantitative Research Intern",
+        "source": "raoanmol",
+        "id": "0f147215-ec54-4c33-80de-27ed2e6dff99",
+        "date_posted": 1715100323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
