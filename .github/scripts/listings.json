@@ -190,5 +190,21 @@
         "date_posted": 1715100323,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1715190681,
+        "url": "https://careers.sig.com/job/8255/Quantitative-Systematic-Trading-Intern-Summer-2025",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Quantitative Systematic Trading Intern",
+        "source": "Ouckah",
+        "id": "4a91163d-4eb9-4ae4-8e16-d36e75134bc1",
+        "date_posted": 1715190681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
