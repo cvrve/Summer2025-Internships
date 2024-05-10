@@ -288,5 +288,22 @@
         "date_posted": 1715320659,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1715320846,
+        "url": "https://boards.greenhouse.io/fiveringsllc/jobs/4009043008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Software Developer",
+        "season": "Spring",
+        "source": "Ouckah",
+        "id": "b69edac9-a439-445e-aa27-4250e112af13",
+        "date_posted": 1715320846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
