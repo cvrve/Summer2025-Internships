@@ -254,5 +254,22 @@
         "date_posted": 1715319127,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1715319572,
+        "url": "https://boards.greenhouse.io/fiveringsllc/jobs/4009039008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Researcher",
+        "season": "Spring",
+        "source": "Ouckah",
+        "id": "13d3fa8e-5194-4260-9202-b64897c52f49",
+        "date_posted": 1715319572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
