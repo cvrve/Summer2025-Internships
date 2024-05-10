@@ -146,7 +146,7 @@ def sortListings(listings):
 def checkSchema(listings):
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
-             "date_posted", "url", "locations", "company_url",
+             "date_posted", "url", "locations", "season", "company_url",
              "sponsorship"]
     for listing in listings:
         for prop in props:
