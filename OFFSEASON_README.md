@@ -73,6 +73,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Five Rings | Quantitative Research Analyst | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009257008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| ↳ | Quantitative Trader | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4008995008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/Ouckah/Summer2025-Internships#the-list-)
