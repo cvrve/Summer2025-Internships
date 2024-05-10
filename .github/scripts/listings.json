@@ -271,5 +271,22 @@
         "date_posted": 1715319572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1715320659,
+        "url": "https://boards.greenhouse.io/fiveringsllc/jobs/4008995008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Trader",
+        "season": "Spring",
+        "source": "Ouckah",
+        "id": "f9c0cb5a-ba8c-44fe-8bd7-01c275e843f6",
+        "date_posted": 1715320659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
