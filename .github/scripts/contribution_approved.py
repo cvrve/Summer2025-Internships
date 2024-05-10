@@ -12,10 +12,11 @@ LINES = {
     "company_name": 3,
     "title": 5,
     "locations": 7,
-    "sponsorship": 9,
-    "active": 11,
-    "email": 13,
-    "email_is_edit": 15
+    "season": 9,
+    "sponsorship": 11,
+    "active": 13,
+    "email": 14,
+    "email_is_edit": 17
 }
 
 # lines that require special handling
