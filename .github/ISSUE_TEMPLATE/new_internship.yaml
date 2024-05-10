@@ -42,6 +42,19 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: season
+    attributes:
+      label: What season is this internship for?
+      description: |
+        Select the season during which this internship is available.
+      multiple: false
+      options:
+        - "Summer"
+        - "Fall"
+        - "Spring"
+    validations:
+      required: true
+  - type: dropdown
     id: sponsorship
     attributes:
       label: Does this internship offer sponsorship?
