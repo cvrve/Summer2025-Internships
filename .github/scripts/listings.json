@@ -5,6 +5,7 @@
         "locations": [
             "Bala Cynwyd, PA"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "SIG",
@@ -21,6 +22,7 @@
         "locations": [
             "New York"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Point72",
@@ -37,6 +39,7 @@
         "locations": [
             "New York"
         ],
+        "season": "Summer",
         "sponsorship": "Other",
         "active": true,
         "company_name": "Global Atlantic",
@@ -53,6 +56,7 @@
         "locations": [
             "Chicago, IL"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Chicago Trading Company",
@@ -69,6 +73,7 @@
         "locations": [
             "Americas"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Blackrock",
@@ -85,6 +90,7 @@
         "locations": [
             "Bentonville, AR"
         ],
+        "season": "Summer",
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Walmart",
@@ -101,6 +107,7 @@
         "locations": [
             "Westport, CT"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Bridgewater Associates",
@@ -117,6 +124,7 @@
         "locations": [
             "Chicago, IL"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Chicago Trading Company",
@@ -133,6 +141,7 @@
         "locations": [
             "Jupiter, FL"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "Voloridge",
@@ -149,6 +158,7 @@
         "locations": [
             "Jersey City, NJ"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "BNP Paribas",
@@ -165,6 +175,7 @@
         "locations": [
             "Verona, WI"
         ],
+        "season": "Summer",
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Epic",
@@ -181,6 +192,7 @@
         "locations": [
             "Bala Cynwyd, PA"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "SIG",
@@ -197,6 +209,7 @@
         "locations": [
             "Bala Cynwyd, PA"
         ],
+        "season": "Summer",
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "company_name": "SIG",
@@ -214,6 +227,7 @@
             "Chillicothe, IL",
             "Peoria, IL"
         ],
+        "season": "Summer",
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Caterpillar",
