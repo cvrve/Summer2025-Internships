@@ -15,7 +15,7 @@ LINES = {
     "season": 9,
     "sponsorship": 11,
     "active": 13,
-    "email": 14,
+    "email": 15,
     "email_is_edit": 17
 }
 
