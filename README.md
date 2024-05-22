@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| D. E. Shaw | Fundamental Research Analyst Intern | New York, NY | <a href="https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2025-4988?utm_campaign=summer_2025_repo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 21 |
 | Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
 | SIG | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8255/Quantitative-Systematic-Trading-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Quantitative Research Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 07 |
