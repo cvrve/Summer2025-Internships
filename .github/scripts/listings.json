@@ -322,5 +322,22 @@
         "date_posted": 1715724938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1716348027,
+        "url": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2025-4988?utm_campaign=summer_2025_repo",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D. E. Shaw",
+        "title": "Fundamental Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e57988f-eb02-43b4-9656-3ff97ff2eb3c",
+        "date_posted": 1716348027,
+        "company_url": "",
+        "is_visible": true
     }
 ]
