@@ -339,5 +339,22 @@
         "date_posted": 1716348027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1716403409,
+        "url": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2025-4987",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D. E. Shaw",
+        "title": "Proprietary Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1bc8b3a2-c7b0-4fb6-9724-806e7aecb6b0",
+        "date_posted": 1716403409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
