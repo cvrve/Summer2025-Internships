@@ -356,5 +356,24 @@
         "date_posted": 1716403409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1716546952,
+        "url": "https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025",
+        "locations": [
+            "Bala Cynwyd, PA",
+            "New York City, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "Agnimandur",
+        "id": "161b5ffb-8a9a-4fc0-9bc2-0333a7f3b0c7",
+        "date_posted": 1716546952,
+        "company_url": "",
+        "is_visible": true
     }
 ]
