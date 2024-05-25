@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Radix Trading | Quantitative Technologist (C++ Intern) | Chicago, IL | <a href="https://boards.greenhouse.io/radixuniversity/jobs/7463231002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 25 |
+| Konrad | Software Developer Intern - May 2025 (4 months) | Canada | <a href="https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 25 |
 | SIG | Quantitative Trader Intern | Bala Cynwyd, PA</br>New York City, NY</br>Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | ↳ | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8255/Quantitative-Systematic-Trading-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Quantitative Research Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 07 |
