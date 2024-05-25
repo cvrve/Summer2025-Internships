@@ -392,5 +392,22 @@
         "date_posted": 1716660664,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1716660759,
+        "url": "https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Konrad",
+        "title": "Software Developer Intern - May 2025 (4 months)",
+        "season": "Summer",
+        "source": "davidlin2k",
+        "id": "2e75635a-291f-48cf-9eed-fca90985bedb",
+        "date_posted": 1716660759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
