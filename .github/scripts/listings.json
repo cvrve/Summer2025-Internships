@@ -443,5 +443,28 @@
         "date_posted": 1716997187,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717249049,
+        "url": "https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/11482-Global-Technology-Summer-Analyst-Program-2025/en-GB",
+        "locations": [
+            "Colorado",
+            "Illinois",
+            "New Jersey",
+            "New York",
+            "NC",
+            "Texas",
+            "Virginia"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Technology Summer Analyst Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "f33379fb-38cc-4fbd-92c9-f20978b0f628",
+        "date_posted": 1717249049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
