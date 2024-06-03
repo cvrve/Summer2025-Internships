@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| BILL | Machine Learning Engineer Intern | San Jose, CA</br>Draper, UT</br>Salt Lake City, UT | <a href="https://www.untapped.io/app/discover/jobs/a/a/5f31e1fa-7d65-465f-97e4-2cb7a1506ae7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
 | Bank of America | Global Quantitative Analytics Summer 2025 Analyst | U.S. and Canada | <a href="https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/11660-Global-Quantitative-Analytics-Summer-2025-Analyst/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | ↳ | Technology Summer Analyst Intern | <details><summary>**7 locations**</summary>Colorado</br>Illinois</br>New Jersey</br>New York</br>NC</br>Texas</br>Virginia</details> | <a href="https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/11482-Global-Technology-Summer-Analyst-Program-2025/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
