@@ -501,5 +501,24 @@
         "date_posted": 1717384845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717447694,
+        "url": "https://www.untapped.io/app/discover/jobs/a/a/5f31e1fa-7d65-465f-97e4-2cb7a1506ae7",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT",
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BILL",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "1d96dcfa-e902-4ddd-9ca2-b729eab29041",
+        "date_posted": 1717447694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
