@@ -339,5 +339,167 @@
         "date_posted": 1716348027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1716403409,
+        "url": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2025-4987",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D. E. Shaw",
+        "title": "Proprietary Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1bc8b3a2-c7b0-4fb6-9724-806e7aecb6b0",
+        "date_posted": 1716403409,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1716546952,
+        "url": "https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025",
+        "locations": [
+            "Bala Cynwyd, PA",
+            "New York City, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "Agnimandur",
+        "id": "161b5ffb-8a9a-4fc0-9bc2-0333a7f3b0c7",
+        "date_posted": 1716546952,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1716660664,
+        "url": "https://boards.greenhouse.io/radixuniversity/jobs/7463231002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Radix Trading",
+        "title": "Quantitative Technologist (C++ Intern)",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "43ea188e-1da8-4a39-8747-13ca9b56a50a",
+        "date_posted": 1716660664,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1716660759,
+        "url": "https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Konrad",
+        "title": "Software Developer Intern - May 2025 (4 months)",
+        "season": "Summer",
+        "source": "davidlin2k",
+        "id": "2e75635a-291f-48cf-9eed-fca90985bedb",
+        "date_posted": 1716660759,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1716783304,
+        "url": "https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Ventas, Inc",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "6c1e360c-fc94-439c-9bff-fc451fe6ad78",
+        "date_posted": 1716783304,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1716997187,
+        "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "D.E. Shaw",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "Ouckah",
+        "id": "f8aae913-dc5e-4b6e-b0dd-8e27f7c77c70",
+        "date_posted": 1716997187,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1717249049,
+        "url": "https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/11482-Global-Technology-Summer-Analyst-Program-2025/en-GB",
+        "locations": [
+            "Colorado",
+            "Illinois",
+            "New Jersey",
+            "New York",
+            "NC",
+            "Texas",
+            "Virginia"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Technology Summer Analyst Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "f33379fb-38cc-4fbd-92c9-f20978b0f628",
+        "date_posted": 1717249049,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1717383079,
+        "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/11660-Global-Quantitative-Analytics-Summer-2025-Analyst/en-GB",
+        "locations": [
+            "U.S. and Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Global Quantitative Analytics Summer 2025 Analyst",
+        "season": "Summer",
+        "source": "dhwannni",
+        "id": "7a0e5107-05f0-4783-8b8d-c9e09ae2d357",
+        "date_posted": 1717383079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1717384845,
+        "url": "https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0",
+        "locations": [
+            "San Francisco",
+            "NYC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Software Engineering Intern",
+        "season": "Spring",
+        "source": "MrBulldog25",
+        "id": "796075a8-b82a-4c3c-8642-2a7f8b3a976b",
+        "date_posted": 1717384845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
