@@ -109,7 +109,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Bridgewater Associates",
         "title": "Investment Engineer Intern",
         "source": "sample-resume",
