@@ -520,5 +520,24 @@
         "date_posted": 1717447694,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717447873,
+        "url": "https://www.untapped.io/app/discover/jobs/a/a/5d83f2cf-2ce7-4d1e-a6e8-e5383bee812e",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT",
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BILL",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "45b6e114-c528-47e1-a334-576528a2956d",
+        "date_posted": 1717447873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
