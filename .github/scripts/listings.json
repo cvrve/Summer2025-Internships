@@ -539,5 +539,22 @@
         "date_posted": 1717447873,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717634645,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capstone Investment Advisors",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "665e75f6-01f5-4a30-894a-262be7ffb12a",
+        "date_posted": 1717634645,
+        "company_url": "",
+        "is_visible": true
     }
 ]
