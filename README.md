@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Capstone Investment Advisors | Software Engineer Intern | New York, NY | <a href="https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | BILL | Machine Learning Engineer Intern | San Jose, CA</br>Draper, UT</br>Salt Lake City, UT | <a href="https://www.untapped.io/app/discover/jobs/a/a/5f31e1fa-7d65-465f-97e4-2cb7a1506ae7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
 | ↳ | Software Engineer Intern | San Jose, CA</br>Draper, UT</br>Salt Lake City, UT | <a href="https://www.untapped.io/app/discover/jobs/a/a/5d83f2cf-2ce7-4d1e-a6e8-e5383bee812e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
 | Bank of America | Global Quantitative Analytics Summer 2025 Analyst | U.S. and Canada | <a href="https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/11660-Global-Quantitative-Analytics-Summer-2025-Analyst/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
