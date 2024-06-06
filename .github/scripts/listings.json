@@ -556,5 +556,22 @@
         "date_posted": 1717634645,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717634755,
+        "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470813002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capstone Investment Advisors",
+        "title": "Quantitative Risk",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bea9ce96-8d87-475b-ac65-6f35dc5b341d",
+        "date_posted": 1717634755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
