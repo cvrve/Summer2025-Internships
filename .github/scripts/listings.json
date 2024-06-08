@@ -573,5 +573,22 @@
         "date_posted": 1717634755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1717883665,
+        "url": "https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT",
+        "locations": [
+            "Various Locations within United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Ouckah",
+        "id": "c4b5859a-56ce-455b-9a2f-ff473b33fc88",
+        "date_posted": 1717883665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
