@@ -608,5 +608,22 @@
         "date_posted": 1718171089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718197907,
+        "url": "https://jobs.bytedance.com/en/position/detail/7377863209077917979",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ef7321b1-0418-4dcb-b285-368e6b1cd772",
+        "date_posted": 1718197907,
+        "company_url": "",
+        "is_visible": true
     }
 ]
