@@ -590,5 +590,23 @@
         "date_posted": 1717883665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718171089,
+        "url": "https://jobs.lever.co/1password/781751df-e91a-4cbe-82a6-581e454bbffa/apply?lever-source=Simplify",
+        "locations": [
+            "Canada",
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern - Billing & Payments Growth",
+        "season": "Fall",
+        "source": "yaojiejia",
+        "id": "e5bd891a-08d4-41d1-a2ea-28d0d3b3befd",
+        "date_posted": 1718171089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
