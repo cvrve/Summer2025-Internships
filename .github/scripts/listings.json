@@ -643,5 +643,26 @@
         "date_posted": 1718287035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718287559,
+        "url": "https://careers.moog.com/jobs/fall-2024-software-engineering-internship-13191",
+        "locations": [
+            "Elma, NY",
+            "Torrance, CA",
+            "Arvada, CO",
+            "Gilbert, AZ",
+            "Goleta, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "3f9dc924-7859-446e-bdaf-b698a7d7da72",
+        "date_posted": 1718287559,
+        "company_url": "",
+        "is_visible": true
     }
 ]
