@@ -664,23 +664,5 @@
         "date_posted": 1718287559,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1718297912,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Generalist-Embodied-Agents-Research---Fall-2024_JR1983654",
-        "locations": [
-            "Santa Clara, CA",
-            "Remote"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "company_name": "Nvidia",
-        "title": "Software Engineering Intern, Generalist Embodied Agents Research",
-        "season": "Fall",
-        "source": "yaojiejia",
-        "id": "031a297c-1713-4455-81b2-8cd58a42f51f",
-        "date_posted": 1718297912,
-        "company_url": "",
-        "is_visible": true
     }
 ]
