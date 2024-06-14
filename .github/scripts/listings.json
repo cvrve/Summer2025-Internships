@@ -664,5 +664,22 @@
         "date_posted": 1718287559,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718341040,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7325931002&gh_src=Simplify",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core/Database Engineering)",
+        "season": "Fall",
+        "source": "yaojiejia",
+        "id": "e3544d27-ee88-42ee-ac0c-6cc58a6e924f",
+        "date_posted": 1718341040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
