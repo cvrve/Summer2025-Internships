@@ -732,5 +732,22 @@
         "date_posted": 1718544858,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718545773,
+        "url": "https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Internship",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "559f6ebb-7147-48f8-b2b7-150bdb7b7a54",
+        "date_posted": 1718545773,
+        "company_url": "",
+        "is_visible": true
     }
 ]
