@@ -749,5 +749,22 @@
         "date_posted": 1718545773,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718545876,
+        "url": "https://careers.tiktok.com/position/7266223645327395127/detail?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f3f115a2-d5e1-486c-9c7d-a334ca3aff4e",
+        "date_posted": 1718545876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
