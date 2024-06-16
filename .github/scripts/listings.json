@@ -715,5 +715,22 @@
         "date_posted": 1718544811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718544858,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4d75d542-de2f-417f-985a-84fac94b0d32",
+        "date_posted": 1718544858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
