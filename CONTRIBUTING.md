@@ -24,13 +24,13 @@ Cool! You're ready to add an internship to the list. Follow these steps:
 ## Automatic README.md Updates
 A script will automatically add new contributions to the appropriate README. The row will look something like this:
 ```md
-| Company | Role | Location | Application | Simplify Application |
+| Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
 ```
 
 When rendered, it will look like:
-| Company | Role | Location | Application | Simplify Application |
+| Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
 
