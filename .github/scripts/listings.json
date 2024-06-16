@@ -698,5 +698,22 @@
         "date_posted": 1718544687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718544811,
+        "url": "https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Boring Company",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "685dfc30-1853-4f71-8fa2-bfbd01434e82",
+        "date_posted": 1718544811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
