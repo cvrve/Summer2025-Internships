@@ -766,5 +766,22 @@
         "date_posted": 1718545876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718546312,
+        "url": "https://careers.amd.com/careers-home/jobs/49585",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Design Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "acfd66c6-830f-4cea-ac25-2e28d32cca7b",
+        "date_posted": 1718546312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
