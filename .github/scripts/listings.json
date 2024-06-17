@@ -783,5 +783,24 @@
         "date_posted": 1718546312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718654598,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025",
+        "locations": [
+            "Mountain View, CA, USA",
+            "Atlanta, GA, USA",
+            "+27 more"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Google",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "yawowususnr",
+        "id": "84c02df9-16ab-4d3b-acf9-38fb86786c1c",
+        "date_posted": 1718654598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
