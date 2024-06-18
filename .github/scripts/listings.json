@@ -887,5 +887,22 @@
         "date_posted": 1718689971,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718690164,
+        "url": "https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Audio Systems",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f3ac2fb6-1a82-4c36-819b-3837a8b4be67",
+        "date_posted": 1718690164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
