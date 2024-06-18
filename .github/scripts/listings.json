@@ -980,5 +980,22 @@
         "date_posted": 1718748735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718749641,
+        "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.240000JR.html",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW of North America",
+        "title": "Augmented Reality Engineer Intern",
+        "season": "Fall",
+        "source": "ndg24",
+        "id": "4f01d79c-90b5-47d1-a91f-400b4f66b9fb",
+        "date_posted": 1718749641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
