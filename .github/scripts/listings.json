@@ -599,7 +599,7 @@
             "Remote"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern - Billing & Payments Growth",
         "season": "Fall",
