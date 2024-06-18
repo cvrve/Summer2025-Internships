@@ -802,5 +802,22 @@
         "date_posted": 1718654598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718688564,
+        "url": "https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457033&",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Cloud QA Automation Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "3036c1ab-b798-4cc0-b0d8-bf33c29bb0e1",
+        "date_posted": 1718688564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
