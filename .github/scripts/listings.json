@@ -938,5 +938,22 @@
         "date_posted": 1718731925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718748735,
+        "url": "https://www.tesla.com/careers/search/job/internship-controls-software-automation-engineer-cell-manufacturing-fall-2024-218492",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Controls & Software Automation Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "76e117da-ad05-4d83-bd6a-064be7269e27",
+        "date_posted": 1718748735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
