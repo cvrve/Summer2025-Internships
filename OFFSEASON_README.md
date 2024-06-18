@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Dolby | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457033&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | Autodesk | Software Engineer Intern | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Engineer_23WD72473"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | The Boring Company | Software Engineering Intern | Bastrop, TX | <a href="https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
