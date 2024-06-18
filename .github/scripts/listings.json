@@ -836,5 +836,22 @@
         "date_posted": 1718688738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718688863,
+        "url": "https://volvogroup.dejobs.org/greensboro-nc/internship-software-engineering-fall-2024/620F7BBD51854FE8A5B985F150D4A83E/job/",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a75813e3-0dd8-4d97-8de2-50168ee1443d",
+        "date_posted": 1718688863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
