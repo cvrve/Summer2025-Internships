@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Tesla | Embedded Systems Software Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-embedded-systems-software-engineer-vehicle-firmware-fall-2024-222189"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
+| ↳ | Controls & Software Automation Engineer Intern | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/internship-controls-software-automation-engineer-cell-manufacturing-fall-2024-218492"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-ai-tooling-fall-2024-221971"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | SAP | Software/ML Engineer Intern | San Ramon, CA | <a href="https://jobs.sap.com/job/San-Ramon-SAP-iXp-CXII-Intern-SoftwareML-Engineer-CA-94583/1081937001"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
