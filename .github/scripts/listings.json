@@ -853,5 +853,22 @@
         "date_posted": 1718688863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718689091,
+        "url": "https://careers.ciena.com/us/en/job/R025424/Integration-Developer-Intern-Fall-2024",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Integration Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "00066faa-8342-4529-a33e-54e403a348b8",
+        "date_posted": 1718689091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
