@@ -870,5 +870,22 @@
         "date_posted": 1718689091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718689971,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-ai-tooling-fall-2024-221971",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, AI Tooling",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "af735b50-d97a-490a-aac9-ec3ac6c9cf45",
+        "date_posted": 1718689971,
+        "company_url": "",
+        "is_visible": true
     }
 ]
