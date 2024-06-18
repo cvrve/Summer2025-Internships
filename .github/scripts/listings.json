@@ -819,5 +819,22 @@
         "date_posted": 1718688564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718688738,
+        "url": "https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457032&",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8eec2778-32b8-4e88-b2c3-b4ee842e9c8f",
+        "date_posted": 1718688738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
