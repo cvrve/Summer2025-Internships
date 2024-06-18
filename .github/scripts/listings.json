@@ -921,5 +921,22 @@
         "date_posted": 1718721623,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718731925,
+        "url": "https://jobs.sap.com/job/San-Ramon-SAP-iXp-CXII-Intern-SoftwareML-Engineer-CA-94583/1081937001",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Software/ML Engineer Intern",
+        "season": "Fall",
+        "source": "ndg24",
+        "id": "61689963-6799-4bdb-89cc-07a1331510a4",
+        "date_posted": 1718731925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
