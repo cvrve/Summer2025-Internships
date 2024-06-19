@@ -997,5 +997,22 @@
         "date_posted": 1718749641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718763404,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4389321007?gh_src=Simplify",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Transmarket Group",
+        "title": "Algorithmic Trading Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "98e6c60a-1049-4e99-8cfa-ca9249065be6",
+        "date_posted": 1718763404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
