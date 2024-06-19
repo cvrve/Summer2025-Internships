@@ -1014,5 +1014,22 @@
         "date_posted": 1718763404,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718770308,
+        "url": "https://www.tesla.com/careers/search/job/internship-data-analytics-test-engineer-cell-engineering-fall-2024-217820",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Analytics & Test Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fbb46d07-3529-4892-82e6-5ec0b74ec337",
+        "date_posted": 1718770308,
+        "company_url": "",
+        "is_visible": true
     }
 ]
