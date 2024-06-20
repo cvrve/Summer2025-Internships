@@ -1145,5 +1145,24 @@
         "date_posted": 1718922306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718927093,
+        "url": "https://careers.siriusxm.com/careers/jobs/15793?lang=en-us",
+        "locations": [
+            "Oakland, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Mobile Software Engineer -",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7a9773ae-d884-472a-b7ae-83f370f4c34d",
+        "date_posted": 1718927093,
+        "company_url": "",
+        "is_visible": true
     }
 ]
