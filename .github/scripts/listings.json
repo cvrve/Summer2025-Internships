@@ -1109,5 +1109,23 @@
         "date_posted": 1718845138,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718845334,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Graduate_R44503?source=ouckah",
+        "locations": [
+            "Seattle, WA",
+            "Space Coast, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Origin",
+        "title": "Software Engineering Intern \u2013 Graduate",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "e41c5a80-8200-4e9c-8a96-126b2186222b",
+        "date_posted": 1718845334,
+        "company_url": "",
+        "is_visible": true
     }
 ]
