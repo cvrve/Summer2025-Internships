@@ -1075,5 +1075,22 @@
         "date_posted": 1718838844,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718844578,
+        "url": "https://www.tesla.com/careers/search/job/internship-ai-engineer-self-driving-fall-2024-221939",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer Intern, Self-Driving",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "85da1e5a-49e9-4c3b-8102-f11d0e92bb5f",
+        "date_posted": 1718844578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
