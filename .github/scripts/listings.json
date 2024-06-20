@@ -1092,5 +1092,22 @@
         "date_posted": 1718844578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718845138,
+        "url": "https://www.tesla.com/careers/search/job/internship-fullstack-software-engineer-maps-autopilot-navigation-fall-2024-222614",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Maps & Autopilot Navigation",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f9dc534f-a0ad-46cc-91ee-5b9549909226",
+        "date_posted": 1718845138,
+        "company_url": "",
+        "is_visible": true
     }
 ]
