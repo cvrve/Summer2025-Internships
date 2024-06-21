@@ -1164,5 +1164,22 @@
         "date_posted": 1718927226,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718984183,
+        "url": "https://careers.siriusxm.com/careers/jobs/15803?lang=en-us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Network Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c466a15a-320a-4fd9-918a-b434697ace97",
+        "date_posted": 1718984183,
+        "company_url": "",
+        "is_visible": true
     }
 ]
