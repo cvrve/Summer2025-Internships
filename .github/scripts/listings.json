@@ -1181,5 +1181,22 @@
         "date_posted": 1718984183,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1718984278,
+        "url": "https://careers.siriusxm.com/careers/jobs/15799?lang=en-us",
+        "locations": [
+            "Lawrenceville, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Network & Regulatory Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "87b3d854-ceeb-4718-9ce0-74848380fef1",
+        "date_posted": 1718984278,
+        "company_url": "",
+        "is_visible": true
     }
 ]

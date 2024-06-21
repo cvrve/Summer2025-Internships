@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | SiriusXM | Network Engineering Intern | New York, NY | <a href="https://careers.siriusxm.com/careers/jobs/15803?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
+| ↳ | Network & Regulatory Engineering | Lawrenceville, NJ | <a href="https://careers.siriusxm.com/careers/jobs/15799?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
 | ↳ | Mobile Software Engineer Intern | Oakland, CA</br>New York, NY</br>Atlanta, GA | <a href="https://careers.siriusxm.com/careers/jobs/15793?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 20 |
 | Blue Origin | Software Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Undergraduate_R44510"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 20 |
 | ↳ | Software Engineering Intern – Graduate | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Graduate_R44503?source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 19 |
