@@ -1198,5 +1198,22 @@
         "date_posted": 1718984278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719066963,
+        "url": "https://jobs.lever.co/palantir/0adba6bd-d4b0-4fc2-9014-315f0f0b72b9",
+        "locations": [
+            "New York, NY, US"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Various (Semester at Palantir, Internship)",
+        "season": "Fall",
+        "source": "nishkp",
+        "id": "13751110-f28f-413a-8b7c-0402fde2093e",
+        "date_posted": 1719066963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
