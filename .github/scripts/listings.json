@@ -818,7 +818,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Google",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -1066,7 +1066,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Google",
         "title": "Software Engineering Intern - Masters",
         "season": "Summer",
