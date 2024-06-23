@@ -1266,5 +1266,22 @@
         "date_posted": 1719157722,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719166745,
+        "url": "https://boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482769002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alpha FMC",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "88199e58-38b3-4179-a510-035818d1a0f0",
+        "date_posted": 1719166745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
