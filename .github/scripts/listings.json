@@ -1249,5 +1249,22 @@
         "date_posted": 1719152466,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719157722,
+        "url": "https://boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482799002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alpha FMC",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "771ffd77-ff6b-4e75-9ecb-5f4519c83768",
+        "date_posted": 1719157722,
+        "company_url": "",
+        "is_visible": true
     }
 ]
