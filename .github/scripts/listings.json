@@ -1232,5 +1232,22 @@
         "date_posted": 1719150791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719152466,
+        "url": "https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Machine Learning / AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d8fed623-bc47-4aa2-afc4-d5c7c1a8485d",
+        "date_posted": 1719152466,
+        "company_url": "",
+        "is_visible": true
     }
 ]
