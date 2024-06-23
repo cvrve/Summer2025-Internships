@@ -1215,5 +1215,22 @@
         "date_posted": 1719066963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719150791,
+        "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship",
+        "locations": [
+            "Natick, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MathWorks",
+        "title": "Engineering Development Group Internship",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8a34988f-fb01-4304-bb35-e31882ea491a",
+        "date_posted": 1719150791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
