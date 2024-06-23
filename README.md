@@ -71,10 +71,10 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Apple | Machine Learning / AI Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
+| ↳ | Software Engineer Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
 | Transmarket Group | Algorithmic Trading Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4389321007?gh_src=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | ByteDance | Software Engineer Intern | Seattle, WA | <a href="https://jobs.bytedance.com/en/position/detail/7377863209077917979"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 12 |
-| Apple | Software Engineer Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
-| ↳ | Machine Learning / AI Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
 | Capstone Investment Advisors | Software Engineer Intern | New York, NY | <a href="https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470795002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | ↳ | Quantitative Risk Intern | New York, NY | <a href="https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470813002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | BILL | Machine Learning Engineer Intern | San Jose, CA</br>Draper, UT</br>Salt Lake City, UT | <a href="https://www.untapped.io/app/discover/jobs/a/a/5f31e1fa-7d65-465f-97e4-2cb7a1506ae7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
