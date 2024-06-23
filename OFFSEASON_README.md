@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MathWorks | Engineering Development Group Internship | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | Palantir | Various (Semester at Palantir, Internship) 🛂 | New York, NY, US | <a href="https://jobs.lever.co/palantir/0adba6bd-d4b0-4fc2-9014-315f0f0b72b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 22 |
 | SiriusXM | Network Engineering Intern | New York, NY | <a href="https://careers.siriusxm.com/careers/jobs/15803?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
 | ↳ | Network & Regulatory Engineering | Lawrenceville, NJ | <a href="https://careers.siriusxm.com/careers/jobs/15799?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
