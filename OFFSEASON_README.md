@@ -83,28 +83,28 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Embedded Systems Software Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-embedded-systems-software-engineer-vehicle-firmware-fall-2024-222189"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | ↳ | Controls & Software Automation Engineer Intern | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/internship-controls-software-automation-engineer-cell-manufacturing-fall-2024-218492"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-data-analytics-test-engineer-cell-engineering-fall-2024-217820"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
-| ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-ai-tooling-fall-2024-221971"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
+| ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
 | SAP | Software/ML Engineer Intern | San Ramon, CA | <a href="https://jobs.sap.com/job/San-Ramon-SAP-iXp-CXII-Intern-SoftwareML-Engineer-CA-94583/1081937001"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | BMW of North America | Augmented Reality Engineer Intern | Mountain View, CA | <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.240000JR.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | Dolby | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457033&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457032&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
-| Volvo | Software Engineer Intern | Greensboro, NC | <a href="https://volvogroup.dejobs.org/greensboro-nc/internship-software-engineering-fall-2024/620F7BBD51854FE8A5B985F150D4A83E/job/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
-| Ciena | Integration Developer Intern | Remote | <a href="https://careers.ciena.com/us/en/job/R025424/Integration-Developer-Intern-Fall-2024"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
-| Autodesk | Software Engineer Intern | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Engineer_23WD72473"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | The Boring Company | Software Engineering Intern | Bastrop, TX | <a href="https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Ramp | Software Engineer Internship | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Tiktok | Software Engineer Intern | Seattle, WA | <a href="https://careers.tiktok.com/position/7266223645327395127/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
-| AMD | Software Design Intern/Co-Op | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/49585"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | NVIDIA | Software Engineer Intern | Santa Clara, CA</br>Remote | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Generalist-Embodied-Agents-Research---Fall-2024_JR1983654"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Moog | Software Engineering Intern | <details><summary>**5 locations**</summary>Elma, NY</br>Torrance, CA</br>Arvada, CO</br>Gilbert, AZ</br>Goleta, CA</details> | <a href="https://careers.moog.com/jobs/fall-2024-software-engineering-internship-13191"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
-| Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | <a href="https://boards.greenhouse.io/embed/job_app?token=7325931002&gh_src=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Rippling | Software Engineering Intern | San Francisco</br>NYC | <a href="https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | Five Rings | Quantitative Research Analyst | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009257008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Trader | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4008995008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| Volvo | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
+| Ciena | Integration Developer Intern | Remote | 🔒 | Jun 17 |
+| Autodesk | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
+| AMD | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
+| Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | 🔒 | Jun 13 |
 | 1Password | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
