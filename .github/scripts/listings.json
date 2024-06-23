@@ -672,7 +672,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Snowflake",
         "title": "Software Engineer Intern (Core/Database Engineering)",
         "season": "Fall",
@@ -689,7 +689,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -774,7 +774,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Design Intern/Co-Op",
         "season": "Fall",
@@ -869,7 +869,7 @@
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Volvo",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -886,7 +886,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Integration Developer Intern",
         "season": "Fall",
@@ -903,7 +903,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, AI Tooling",
         "season": "Fall",
