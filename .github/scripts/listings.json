@@ -1283,5 +1283,22 @@
         "date_posted": 1719166745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719240620,
+        "url": "https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23554200",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Video Coding Research Intern -- PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8bf6d0bf-072f-4584-98da-d7b6f9c57b10",
+        "date_posted": 1719240620,
+        "company_url": "",
+        "is_visible": true
     }
 ]
