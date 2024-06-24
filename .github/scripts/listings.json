@@ -1300,5 +1300,22 @@
         "date_posted": 1719240620,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719245828,
+        "url": "https://boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/4410634007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Global Commerce Solutions",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "04188f35-24f8-45f5-86f6-413af2bb60d5",
+        "date_posted": 1719245828,
+        "company_url": "",
+        "is_visible": true
     }
 ]
