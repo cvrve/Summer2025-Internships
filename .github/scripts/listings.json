@@ -1317,5 +1317,22 @@
         "date_posted": 1719245828,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719252009,
+        "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RSM",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6a333156-5b2e-4cdc-88ab-c02cee33f553",
+        "date_posted": 1719252009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
