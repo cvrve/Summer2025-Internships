@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | RSM | Application Development Intern | Des Moines, IA | <a href="https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
+| Uber | Scientist Intern -- PhD | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/132543/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Apple | Machine Learning / AI Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | ↳ | Software Engineer Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
 | Alpha FMC | Technology Intern | New York, NY | <a href="https://boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482799002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
