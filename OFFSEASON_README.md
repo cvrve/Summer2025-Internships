@@ -78,6 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Rippling | Front End Software Engineer Intern | New York, NY, US</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/71e1b000-0b80-40ce-b707-53d546e93295"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Machine Learning Software Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software Engineering Intern | San Francisco</br>NYC | <a href="https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
+| 1Password | Developer Intern - Confidential Computing | Remote | <a href="https://jobs.lever.co/1password/aeafe9f7-de22-40f0-9a0a-550fd4707f81"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
+| ↳ | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
 | MathWorks | Engineering Development Group Internship | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | Palantir | Various (Semester at Palantir, Internship) 🛂 | New York, NY, US | <a href="https://jobs.lever.co/palantir/0adba6bd-d4b0-4fc2-9014-315f0f0b72b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 22 |
 | SiriusXM | Network Engineering Intern | New York, NY | <a href="https://careers.siriusxm.com/careers/jobs/15803?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
@@ -109,7 +111,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Autodesk | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | AMD | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | 🔒 | Jun 13 |
-| 1Password | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/Ouckah/Summer2025-Internships#the-list-)
