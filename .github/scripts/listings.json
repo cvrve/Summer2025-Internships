@@ -1471,5 +1471,22 @@
         "date_posted": 1719291575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719351072,
+        "url": "https://firefly.hrmdirect.com/employment/view.php?req=3051541&",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firefly Aerospace",
+        "title": "Guidance, Navigation, and Control Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "ec9db9c9-da2b-4628-94e8-d1cdca4d46af",
+        "date_posted": 1719351072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
