@@ -1454,5 +1454,22 @@
         "date_posted": 1719291263,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719291575,
+        "url": "https://university-uber.icims.com/jobs/132543/job",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Scientist Intern -- PhD",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ce8d430c-1a6b-48c1-a9ec-7c0850341128",
+        "date_posted": 1719291575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
