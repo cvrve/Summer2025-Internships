@@ -1403,5 +1403,22 @@
         "date_posted": 1719290492,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719290908,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/247422",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "235899b9-a4e8-4eac-b058-ff393f75968a",
+        "date_posted": 1719290908,
+        "company_url": "",
+        "is_visible": true
     }
 ]
