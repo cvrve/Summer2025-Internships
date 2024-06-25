@@ -1369,5 +1369,22 @@
         "date_posted": 1719290006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719290208,
+        "url": "https://jobs.lever.co/1password/aeafe9f7-de22-40f0-9a0a-550fd4707f81",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern - Confidential Computing",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "b6108f80-0536-4e94-92c6-dd096189da66",
+        "date_posted": 1719290208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
