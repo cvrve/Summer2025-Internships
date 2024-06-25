@@ -1488,5 +1488,22 @@
         "date_posted": 1719351072,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719359884,
+        "url": "https://careers.gtri.gatech.edu/cw/en-us/job/499770/software-developer-student-intern-fall-2024-asl",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "GTRI",
+        "title": "Software Developer Student Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1295ea40-0b83-42a9-af2f-5fbff5ff5fda",
+        "date_posted": 1719359884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
