@@ -1437,5 +1437,22 @@
         "date_posted": 1719291014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719291263,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5956912003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celonis",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4f5561e5-55c3-4a2b-a995-a293d3ed24cd",
+        "date_posted": 1719291263,
+        "company_url": "",
+        "is_visible": true
     }
 ]
