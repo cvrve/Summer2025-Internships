@@ -1352,5 +1352,22 @@
         "date_posted": 1719289121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719290006,
+        "url": "https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Machine Learning Software Engineer Intern",
+        "season": "Spring",
+        "source": "nishkp",
+        "id": "5860d848-1d7e-40f6-8f8b-df8de95090f7",
+        "date_posted": 1719290006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
