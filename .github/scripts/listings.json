@@ -1593,5 +1593,22 @@
         "date_posted": 1719430972,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719433177,
+        "url": "https://www.3ds.com/careers/jobs/internship-pipeline-pilot-539798",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Biovia",
+        "title": "Pipeline Pilot Internship",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1cfba020-9bc5-4ebc-80fa-af4114748a46",
+        "date_posted": 1719433177,
+        "company_url": "",
+        "is_visible": true
     }
 ]
