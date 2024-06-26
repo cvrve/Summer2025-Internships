@@ -1539,5 +1539,22 @@
         "date_posted": 1719360436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719361286,
+        "url": "https://cmscareers.jacobs.com/job/20614556/data-quality-machine-learning-intern-huntsville-al/",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jacobs",
+        "title": "Data Quality Machine Learning Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2f268626-c8c0-436f-bf36-8b1fe961352a",
+        "date_posted": 1719361286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
