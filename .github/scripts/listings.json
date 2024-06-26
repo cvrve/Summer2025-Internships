@@ -1556,5 +1556,22 @@
         "date_posted": 1719361286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719410837,
+        "url": "https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercedes-Benz R&D North America",
+        "title": "Engineering Intern, eDrive Core Software",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "68e8142c-708c-43fe-8a79-83c71fde2c53",
+        "date_posted": 1719410837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
