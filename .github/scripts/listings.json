@@ -1505,5 +1505,22 @@
         "date_posted": 1719359884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719360267,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R24-4123-2",
+        "locations": [
+            "Cambridge, ONT, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d3f36a47-fcb0-40b6-8e92-81f06153fa61",
+        "date_posted": 1719360267,
+        "company_url": "",
+        "is_visible": true
     }
 ]
