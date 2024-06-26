@@ -1325,7 +1325,7 @@
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RSM",
         "title": "Application Development Intern",
         "season": "Summer",
@@ -1571,6 +1571,26 @@
         "source": "vanshb03",
         "id": "68e8142c-708c-43fe-8a79-83c71fde2c53",
         "date_posted": 1719410837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719430972,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/66835864048",
+        "locations": [
+            "Dallas, TX",
+            "Tampa, FL",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PwC",
+        "title": "Start Internship - Products & Technology",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1ff419fc-9156-4105-8a9e-7342e0aab5c3",
+        "date_posted": 1719430972,
         "company_url": "",
         "is_visible": true
     }
