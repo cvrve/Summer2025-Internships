@@ -954,7 +954,7 @@
             "San Ramon, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "SAP",
         "title": "Software/ML Engineer Intern",
         "season": "Fall",
@@ -1022,7 +1022,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Tesla",
         "title": "Data Analytics & Test Engineer Intern",
         "season": "Fall",
@@ -1308,7 +1308,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Toshiba Global Commerce Solutions",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -1445,7 +1445,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Celonis",
         "title": "Machine Learning Engineer Intern",
         "season": "Fall",
@@ -1547,7 +1547,7 @@
             "Huntsville, AL"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Jacobs",
         "title": "Data Quality Machine Learning Intern",
         "season": "Fall",
@@ -1620,7 +1620,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Apple",
-        "title": "Hardware Technology Intern",
+        "title": "Hardware Technology",
         "season": "Summer",
         "source": "vanshb03",
         "id": "802c7e6b-5732-48bd-bf2b-6a41a4045237",
