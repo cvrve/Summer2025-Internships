@@ -1522,5 +1522,22 @@
         "date_posted": 1719360267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719360436,
+        "url": "https://careers.ukg.com/careers/JobDetail/Data-Science-Intern-Fall-2024/50365",
+        "locations": [
+            "Weston, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UKG",
+        "title": "Data Science Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "3262ee4a-5e52-4e34-accb-b2d2d79f2d90",
+        "date_posted": 1719360436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
