@@ -1620,6 +1620,23 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Apple",
+        "title": "Hardware Technology",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "802c7e6b-5732-48bd-bf2b-6a41a4045237",
+        "date_posted": 1719437596,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719437596,
+        "url": "https://jobs.apple.com/en-us/details/200554360/hardware-technology-internships?team=STDNT",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
         "title": "Hardware Technology Intern",
         "season": "Summer",
         "source": "vanshb03",
