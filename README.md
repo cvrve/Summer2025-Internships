@@ -72,7 +72,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | PwC | Start Internship - Products & Technology 🛂 | <details><summary>**4 locations**</summary>Dallas, TX</br>Tampa, FL</br>Chicago, IL</br>New York, NY</details> | <a href="https://jobs.us.pwc.com/job/-/-/932/66835864048"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| Apple | Hardware Technology Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554360/hardware-technology-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
+| Apple | Hardware Technology | United States | <a href="https://jobs.apple.com/en-us/details/200554360/hardware-technology-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
+| ↳ | Hardware Technology Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554360/hardware-technology-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | ↳ | Machine Learning / AI Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | ↳ | Software Engineer Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554359/software-engineering-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
 | Alpha FMC | Technology Intern | New York, NY | <a href="https://boards.greenhouse.io/alphaawmnaearlycareers/jobs/7482799002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
