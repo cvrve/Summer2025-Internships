@@ -1816,5 +1816,22 @@
         "date_posted": 1719517271,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719517338,
+        "url": "https://careers.formlabs.com/job/5793114/apply/",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Hardware Test Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1e17a7ee-13e0-4d5b-b323-1eaa7d7b134e",
+        "date_posted": 1719517338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
