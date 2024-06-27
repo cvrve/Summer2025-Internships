@@ -1644,5 +1644,22 @@
         "date_posted": 1719451730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719451906,
+        "url": "https://www.tesla.com/careers/search/job/internship-perception-software-engineer-tesla-bot-fall-2024-222854",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Perception Software Engineer Intern, Tesla Bot",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fc918f81-663f-49b5-9e4e-da5a73286d02",
+        "date_posted": 1719451906,
+        "company_url": "",
+        "is_visible": true
     }
 ]
