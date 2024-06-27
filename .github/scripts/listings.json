@@ -1729,5 +1729,22 @@
         "date_posted": 1719454071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719454697,
+        "url": "https://jobs.lever.co/ChefRobotics/ecabcdf0-d626-42d3-afc8-6d5c4d0dda95",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chef Robotics",
+        "title": "AI Research Intern -- PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c398d1ac-e4b7-43b7-93a3-ba096280626c",
+        "date_posted": 1719454697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
