@@ -85,6 +85,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | 🔒 | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
 | Mayo Clinic | Data Science AI&I Intern -- PhD | Jacksonville, FL | <a href="https://jobs.mayoclinic.org/job/-/-/33647/66813768592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
+| ↳ | Computational Pathology and AI Intern | Rochester, MN | <a href="https://jobs.mayoclinic.org/job/rochester/intern-computational-pathology-and-ai/33647/66631297840"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | <a href="https://firefly.hrmdirect.com/employment/view.php?req=3051541&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
 | GTRI | Software Developer Student Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.gtri.gatech.edu/cw/en-us/job/499770/software-developer-student-intern-fall-2024-asl"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R24-4123-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
