@@ -1695,5 +1695,22 @@
         "date_posted": 1719452927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719453409,
+        "url": "https://jobs.mayoclinic.org/job/-/-/33647/66813768592",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mayo Clinic",
+        "title": "Data Science AI&I Intern -- PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "906ff250-b5ea-4782-87f6-8818539b6075",
+        "date_posted": 1719453409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
