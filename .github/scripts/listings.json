@@ -1678,5 +1678,22 @@
         "date_posted": 1719452759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719452927,
+        "url": "https://www.tesla.com/careers/search/job/internship-product-security-engineer-vehicle-software-fall-2024-222452",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Product Security Engineer Intern, Vehicle Software",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "be358b70-7317-4990-a9ef-36d7d1b2815f",
+        "date_posted": 1719452927,
+        "company_url": "",
+        "is_visible": true
     }
 ]
