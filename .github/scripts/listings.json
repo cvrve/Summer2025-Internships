@@ -1661,5 +1661,22 @@
         "date_posted": 1719451906,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719452759,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-qa-test-engineer-applications-engineering-fall-2024-222850",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA & Test Engineer Intern, Applications Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "976b514f-8439-4665-a303-cf27d5dfb70b",
+        "date_posted": 1719452759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
