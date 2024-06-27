@@ -1763,5 +1763,24 @@
         "date_posted": 1719455372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719499802,
+        "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53fdfbaf0394/candidate/so/pm/1/pl/1/opp/17297-2025-Technology-Summer-Analyst-Program-New-York/en-GB",
+        "locations": [
+            "New York, NY",
+            "Boston, MA",
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morgan Stanley",
+        "title": "2025 Technology Summer Analyst Program (New York)",
+        "season": "Summer",
+        "source": "KingFriizy",
+        "id": "452cd561-abb6-4aeb-a0be-2e84fad69be6",
+        "date_posted": 1719499802,
+        "company_url": "",
+        "is_visible": true
     }
 ]
