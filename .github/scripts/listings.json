@@ -1627,5 +1627,22 @@
         "date_posted": 1719437596,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719451730,
+        "url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-vehicle-software-fall-2024-222554",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Vehicle Software",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d09b9426-4f5f-4cdc-9212-e0b6d95d6d14",
+        "date_posted": 1719451730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
