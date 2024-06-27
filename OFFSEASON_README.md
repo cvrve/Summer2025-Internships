@@ -71,7 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Iridium | Software Engineer Intern | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
+| Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6075232/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
