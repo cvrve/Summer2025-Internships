@@ -1833,5 +1833,22 @@
         "date_posted": 1719517338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719517925,
+        "url": "https://careers.formlabs.com/job/6075232/apply/",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Desktop Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "16f082c3-ebd1-42b4-b20f-012c1c376ca5",
+        "date_posted": 1719517925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
