@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Iridium | Software Engineer Intern | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Mercedes-Benz R&D North America | Engineering Intern, eDrive Core Software | Farmington Hills, MI | <a href="https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Biovia | Pipeline Pilot Internship | San Diego, CA | <a href="https://www.3ds.com/careers/jobs/internship-pipeline-pilot-539798"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Tesla | Embedded Software Engineer Intern, Vehicle Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-vehicle-software-fall-2024-222554"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
