@@ -1712,5 +1712,22 @@
         "date_posted": 1719453409,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719454071,
+        "url": "https://jobs.mayoclinic.org/job/rochester/intern-computational-pathology-and-ai/33647/66631297840",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mayo Clinic",
+        "title": "Computational Pathology and AI Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4f8dd237-5241-4482-95cc-b1220f77922b",
+        "date_posted": 1719454071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
