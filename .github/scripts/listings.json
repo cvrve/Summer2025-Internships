@@ -1782,5 +1782,22 @@
         "date_posted": 1719499802,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719501269,
+        "url": "https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "9f438698-d05d-44ac-8537-735651ea408d",
+        "date_posted": 1719501269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
