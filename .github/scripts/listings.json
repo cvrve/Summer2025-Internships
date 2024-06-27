@@ -1799,5 +1799,22 @@
         "date_posted": 1719501269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719517271,
+        "url": "https://careers.formlabs.com/job/5935884/apply/",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Algorithms Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "07c9f884-cd77-462a-8092-49500c40a9d4",
+        "date_posted": 1719517271,
+        "company_url": "",
+        "is_visible": true
     }
 ]
