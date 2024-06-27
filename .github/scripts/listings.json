@@ -1746,5 +1746,22 @@
         "date_posted": 1719454697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719455372,
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Co-op-Fall-2024-MA/1121911600/?feedId=320000",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Engineering Co-op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c45321a7-51c1-42b5-a968-52b23e6ce80f",
+        "date_posted": 1719455372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
