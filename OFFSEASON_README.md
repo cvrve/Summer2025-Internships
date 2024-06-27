@@ -71,11 +71,12 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Iridium | Software Engineer Intern | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
+| Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6075232/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Tesla | Electrical & Computer Engineer Intern, Vehicle Hardware | Palo Alto, CA</br>Austin, TX | <a href="https://www.tesla.com/careers/search/job/internship-electrical-computer-engineer-vehicle-hardware-fall-2024-217801"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
+| ↳ | Firmware Engineer Intern, Energy Engineering | Palo Alto, CA</br>Fremont, CA</br>Austin, TX | <a href="https://www.tesla.com/careers/search/job/internship-firmware-engineer-energy-engineering-fall-2024-217795"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Embedded Software Engineer Intern, Vehicle Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-vehicle-software-fall-2024-222554"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | ↳ | Perception Software Engineer Intern, Tesla Bot | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-perception-software-engineer-tesla-bot-fall-2024-222854"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | ↳ | Software QA & Test Engineer Intern, Applications Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-qa-test-engineer-applications-engineering-fall-2024-222850"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |

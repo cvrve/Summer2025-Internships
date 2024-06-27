@@ -1789,7 +1789,7 @@
         "locations": [
             "Folsom, CA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Iridium",
         "title": "Software Engineer Intern",
@@ -1866,6 +1866,25 @@
         "source": "vanshb03",
         "id": "cd18f051-9460-43af-b524-5bf289cea683",
         "date_posted": 1719518215,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719531217,
+        "url": "https://www.tesla.com/careers/search/job/internship-firmware-engineer-energy-engineering-fall-2024-217795",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "52988093-fece-4673-9235-6da5a736046a",
+        "date_posted": 1719531217,
         "company_url": "",
         "is_visible": true
     }
