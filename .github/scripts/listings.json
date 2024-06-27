@@ -1850,5 +1850,23 @@
         "date_posted": 1719517925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719518215,
+        "url": "https://www.tesla.com/careers/search/job/internship-electrical-computer-engineer-vehicle-hardware-fall-2024-217801",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Electrical & Computer Engineer Intern, Vehicle Hardware",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cd18f051-9460-43af-b524-5bf289cea683",
+        "date_posted": 1719518215,
+        "company_url": "",
+        "is_visible": true
     }
 ]
