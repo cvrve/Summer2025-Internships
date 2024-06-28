@@ -89,6 +89,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Intel | Software Development Intern | Hillsboro, OR | <a href="https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Volvo | AI Engineer Intern | Greensboro, NC | <a href="https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
+| Samsung Research | Computer Vision Intern - Masters/PhD | Mountain View, CA | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/7499143002?gh_src=9cc1d3cd2us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
