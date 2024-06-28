@@ -88,6 +88,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | 🔒 | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
+| Verkada | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4376295007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Mercedes-Benz R&D North America | Engineering Intern, eDrive Core Software | Farmington Hills, MI | <a href="https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Biovia | Pipeline Pilot Internship | San Diego, CA | <a href="https://www.3ds.com/careers/jobs/internship-pipeline-pilot-539798"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Mayo Clinic | Data Science AI&I Intern -- PhD | Jacksonville, FL | <a href="https://jobs.mayoclinic.org/job/-/-/33647/66813768592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
