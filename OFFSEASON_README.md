@@ -86,6 +86,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | 🔒 | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
+| Intel | Software Development Intern | Hillsboro, OR | <a href="https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
