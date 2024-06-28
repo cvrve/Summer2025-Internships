@@ -1955,5 +1955,22 @@
         "date_posted": 1719584388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719584805,
+        "url": "https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo",
+        "title": "AI Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "91a75c45-bd6f-40bd-bc01-974291be63d0",
+        "date_posted": 1719584805,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -87,6 +87,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | 🔒 | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
 | Intel | Software Development Intern | Hillsboro, OR | <a href="https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
+| Volvo | AI Engineer Intern | Greensboro, NC | <a href="https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
+| ↳ | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
 | Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
@@ -136,7 +138,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Jacobs | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
 | Celonis | Machine Learning Engineer Intern | New York, NY | 🔒 | Jun 24 |
-| Volvo | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
 | Ciena | Integration Developer Intern | Remote | 🔒 | Jun 17 |
 | Autodesk | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | AMD | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
