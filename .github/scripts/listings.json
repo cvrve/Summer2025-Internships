@@ -1972,5 +1972,22 @@
         "date_posted": 1719584805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719585392,
+        "url": "https://boards.greenhouse.io/samsungresearchamericainternship/jobs/7499143002?gh_src=9cc1d3cd2us",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research",
+        "title": "Computer Vision Intern - Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7d8d643c-b821-4b82-8412-4e6e069f4264",
+        "date_posted": 1719585392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
