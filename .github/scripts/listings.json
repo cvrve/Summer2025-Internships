@@ -1921,5 +1921,22 @@
         "date_posted": 1719583225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719583969,
+        "url": "https://www.tesla.com/careers/search/job/internship-rendering-engineer-simulation-222390",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Rendering Engineer Intern, Simulation",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d4166d3a-db30-4d1c-903b-ac1c20b3d288",
+        "date_posted": 1719583969,
+        "company_url": "",
+        "is_visible": true
     }
 ]
