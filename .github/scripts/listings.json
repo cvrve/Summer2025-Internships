@@ -1938,5 +1938,22 @@
         "date_posted": 1719583969,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719584388,
+        "url": "https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Software Development Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0ed0d4a8-86ca-49b8-a72f-a847dafd9894",
+        "date_posted": 1719584388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
