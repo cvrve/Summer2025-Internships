@@ -1904,5 +1904,22 @@
         "date_posted": 1719533353,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719583225,
+        "url": "https://www.tesla.com/careers/search/job/internship-data-analytics-software-engineer-self-driving-fall-2024-223071",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data & Analytics Software Engineer, Self-Driving",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c50f86bd-055a-4643-856a-b3d5a65f171c",
+        "date_posted": 1719583225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
