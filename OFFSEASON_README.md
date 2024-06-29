@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
+| ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | Tesla | Data & Analytics Software Engineer, Self-Driving | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-data-analytics-software-engineer-self-driving-fall-2024-223071"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Rendering Engineer Intern, Simulation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-rendering-engineer-simulation-222390"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Electrical & Computer Engineer Intern, Vehicle Hardware | Palo Alto, CA</br>Austin, TX | <a href="https://www.tesla.com/careers/search/job/internship-electrical-computer-engineer-vehicle-hardware-fall-2024-217801"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
@@ -141,7 +143,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
 | Celonis | Machine Learning Engineer Intern | New York, NY | 🔒 | Jun 24 |
 | Ciena | Integration Developer Intern | Remote | 🔒 | Jun 17 |
-| Autodesk | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | AMD | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | 🔒 | Jun 13 |
 
