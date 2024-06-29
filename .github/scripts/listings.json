@@ -2023,5 +2023,22 @@
         "date_posted": 1719672162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719674116,
+        "url": "https://jobs.lever.co/tri/77937b4e-1cff-4757-a6f5-58444059de89",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Machine Learning Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "382aace9-bcde-45ba-ac30-fd32caea47b9",
+        "date_posted": 1719674116,
+        "company_url": "",
+        "is_visible": true
     }
 ]
