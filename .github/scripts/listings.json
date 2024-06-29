@@ -1989,5 +1989,22 @@
         "date_posted": 1719585392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719620284,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Co-op--Software-Test-Engineer---Cambridge--MA_530642",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Phillips",
+        "title": "Software Test Engineer Co-op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7cdeedad-ab2f-4a0c-a59a-9f57efcda32d",
+        "date_posted": 1719620284,
+        "company_url": "",
+        "is_visible": true
     }
 ]
