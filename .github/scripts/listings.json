@@ -2006,5 +2006,22 @@
         "date_posted": 1719620284,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719672162,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Engineer Intern - Fullstack",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "31f7828a-78a8-46d4-a7f2-dad54d1f1f4d",
+        "date_posted": 1719672162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
