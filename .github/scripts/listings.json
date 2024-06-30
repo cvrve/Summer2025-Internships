@@ -2074,5 +2074,22 @@
         "date_posted": 1719778750,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719778860,
+        "url": "https://boards.greenhouse.io/optiverprivate/jobs/7510221002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f85ad831-6dea-447e-bab2-f570ab499bce",
+        "date_posted": 1719778860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
