@@ -2048,7 +2048,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2065,7 +2065,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2082,7 +2082,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "Quantitative Trader Intern",
         "season": "Summer",
