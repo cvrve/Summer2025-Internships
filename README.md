@@ -75,6 +75,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Palantir | Software Engineer Intern | New York, NY | <a href="https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Washington, DC | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?Wash-DC"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Seattle, WA | <a href="https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| ↳ | Software Engineer Intern | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Optiver | Software Engineer Intern | Austin, TX | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7498434002?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7325586002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7510221002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
