@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| J. P. Morgan | Software Engineer Intern | <details><summary>**11 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>Palo Alto, CA</br>New York, NY</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Austin, TX</details> | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407/?keyword=2025+Software+Engineer+Program+-+Summer+Internship+%E2%80%93+United+States&mode=location"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Optiver | Software Engineer Intern | Austin, TX | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7498434002?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7325586002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/optiverprivate/jobs/7510221002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |

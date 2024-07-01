@@ -2091,5 +2091,32 @@
         "date_posted": 1719778860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719844663,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407/?keyword=2025+Software+Engineer+Program+-+Summer+Internship+%E2%80%93+United+States&mode=location",
+        "locations": [
+            "Atlanta, GA",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "Palo Alto, CA",
+            "New York, NY",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J. P. Morgan",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "21f667c8-3bd7-4761-86c2-1f73853a27a4",
+        "date_posted": 1719844663,
+        "company_url": "",
+        "is_visible": true
     }
 ]
