@@ -2186,5 +2186,22 @@
         "date_posted": 1719852877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719876602,
+        "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "759e506b-d99c-4451-9fe5-0357edbe7834",
+        "date_posted": 1719876602,
+        "company_url": "",
+        "is_visible": true
     }
 ]
