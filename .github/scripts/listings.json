@@ -2261,5 +2261,25 @@
         "date_posted": 1719877493,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719877775,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210530838",
+        "locations": [
+            "New York, NY",
+            "Plano, TX",
+            "Columbus, OH",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J. P. Morgan",
+        "title": "Quantitative Analyst Intern (MS, PHD)",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "13748992-5604-4f20-bf33-89c2b81ab30b",
+        "date_posted": 1719877775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
