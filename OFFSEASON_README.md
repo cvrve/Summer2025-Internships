@@ -82,6 +82,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | RedBlock | AI Engineer Intern | San Ramon, CA | <a href="https://www.linkedin.com/jobs/view/3962902480"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
+| Comcast | Software Developer and Data Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Extreme Reach | Software Development Intern | Dedham, Massachusetts | <a href="https://apply.workable.com/extremereach/j/536FB23BC3/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
