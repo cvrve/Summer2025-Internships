@@ -2281,5 +2281,22 @@
         "date_posted": 1719877775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719879704,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210531228",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J. P. Morgan",
+        "title": "Systematic Trading Analyst Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "275705ca-d4da-4604-8fed-cb74cabb7232",
+        "date_posted": 1719879704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
