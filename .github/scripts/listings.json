@@ -2560,5 +2560,22 @@
         "date_posted": 1719960126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719960973,
+        "url": "https://careers.tiktok.com/position/7369750584636901659/detail?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Research Scientist Intern - LLM - PhD",
+        "season": "Fall",
+        "source": "beakae",
+        "id": "573e849f-15ba-453f-8706-c734f5feaf4e",
+        "date_posted": 1719960973,
+        "company_url": "",
+        "is_visible": true
     }
 ]
