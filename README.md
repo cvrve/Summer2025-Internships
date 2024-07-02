@@ -88,6 +88,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern | Austin, TX | 🔒 | Jun 30 |
 | ↳ | Software Engineer Intern | Chicago, IL | 🔒 | Jun 30 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | 🔒 | Jun 30 |
+| Caterpillar | Engineering Internship | Chillicothe, IL | <a href="https://careers.caterpillar.com/en/jobs/job/r0000262765-2025-summer-corporate-intern-engineering/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| ↳ | Engineer Intern 🛂 | Chillicothe, IL</br>Peoria, IL | 🔒 | May 08 |
 | Morgan Stanley | 2025 Technology Summer Analyst Program (New York) | New York, NY</br>Boston, MA</br>Alpharetta, GA | <a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53fdfbaf0394/candidate/so/pm/1/pl/1/opp/17297-2025-Technology-Summer-Analyst-Program-New-York/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | PwC | Start Internship - Products & Technology 🛂 | <details><summary>**4 locations**</summary>Dallas, TX</br>Tampa, FL</br>Chicago, IL</br>New York, NY</details> | <a href="https://jobs.us.pwc.com/job/-/-/932/66835864048"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Apple | Hardware Technology Intern | United States | <a href="https://jobs.apple.com/en-us/details/200554360/hardware-technology-internships?team=STDNT"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
@@ -124,7 +126,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | RSM | Application Development Intern | Des Moines, IA | 🔒 | Jun 24 |
 | Google | Software Engineering Intern - Masters | <details><summary>**28 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Ryleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington, DC</details> | 🔒 | Jun 19 |
 | ↳ | Software Engineering Intern | <details><summary>**28 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Ryleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington, DC</details> | 🔒 | Jun 17 |
-| Caterpillar | Engineer Intern 🛂 | Chillicothe, IL</br>Peoria, IL | 🔒 | May 08 |
 | Walmart | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | Bridgewater Associates | Investment Engineer Intern | Westport, CT | 🔒 | May 02 |
 | Voloridge | Algorithm Analyst Intern | Jupiter, FL | 🔒 | May 02 |
