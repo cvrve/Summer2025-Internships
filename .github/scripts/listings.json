@@ -2108,7 +2108,7 @@
             "Tampa, FL",
             "Austin, TX"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "J. P. Morgan",
         "title": "Software Engineer Intern",
@@ -2214,7 +2214,7 @@
             "New York, NY",
             "Wilmington, DE"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "J. P. Morgan",
         "title": "Data Science Intern",
@@ -2251,7 +2251,7 @@
             "Wilmington, DE",
             "Plano, TX"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "J. P. Morgan",
         "title": "AI/ML Engineer Intern (MS, PHD)",
@@ -2271,7 +2271,7 @@
             "Columbus, OH",
             "Wilmington, DE"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "J. P. Morgan",
         "title": "Quantitative Analyst Intern (MS, PHD)",
@@ -2288,7 +2288,7 @@
         "locations": [
             "New York, NY"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "J. P. Morgan",
         "title": "Systematic Trading Analyst Intern",
