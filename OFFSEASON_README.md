@@ -76,6 +76,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
 | Siemens | System User Experience Intern 🛂 | Milford, OH | <a href="https://jobs.siemens.com/careers/job/563156119869882?microsite=siemens.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineering Intern/Co-Op 🛂 | Costa Mesa, CA | <a href="https://jobs.siemens.com/careers/job/563156119870253?microsite=siemens.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| Xos | System Engineering Intern | Los Angeles, CA | <a href="https://www.xostrucks.com/careers?gh_jid=5191704004&gh_src=c37b93264us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Extreme Reach | Software Development Intern | Dedham, Massachusetts | <a href="https://apply.workable.com/extremereach/j/536FB23BC3/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
