@@ -2577,5 +2577,22 @@
         "date_posted": 1719960973,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719962487,
+        "url": "https://www.linkedin.com/jobs/view/3962902480",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RedBlock",
+        "title": "AI Engineer Intern",
+        "season": "Fall",
+        "source": "ibrakhimus",
+        "id": "2ff918dd-ccaf-413b-8b68-032e308b870c",
+        "date_posted": 1719962487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
