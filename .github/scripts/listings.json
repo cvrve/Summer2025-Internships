@@ -2349,5 +2349,22 @@
         "date_posted": 1719880947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719892333,
+        "url": "https://careers.caterpillar.com/en/jobs/job/r0000262765-2025-summer-corporate-intern-engineering/",
+        "locations": [
+            "Chillicothe, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Engineering Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "628f5d5b-c19b-4c88-9109-dc20308029d4",
+        "date_posted": 1719892333,
+        "company_url": "",
+        "is_visible": true
     }
 ]
