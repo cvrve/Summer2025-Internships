@@ -2438,5 +2438,22 @@
         "date_posted": 1719932972,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719933346,
+        "url": "https://www.citadel.com/careers/details/investment-trading-2025-intern-us/",
+        "locations": [
+            "Greenwich, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Investment & Trading Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8c3f6268-583c-4215-9bb5-049f9c24c877",
+        "date_posted": 1719933346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
