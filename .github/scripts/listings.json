@@ -2315,5 +2315,22 @@
         "date_posted": 1719879837,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719879962,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498434002/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jhileman07",
+        "id": "555d253e-4220-4cc3-827b-0f10ffe62565",
+        "date_posted": 1719879962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
