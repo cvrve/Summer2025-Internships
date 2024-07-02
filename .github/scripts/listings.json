@@ -2383,5 +2383,22 @@
         "date_posted": 1719892620,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719893144,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-intern-us/",
+        "locations": [
+            "Miami, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f11c3b7-bd49-4bb9-8ea3-db846f60d6f4",
+        "date_posted": 1719893144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
