@@ -2662,5 +2662,22 @@
         "date_posted": 1719964012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719964200,
+        "url": "https://jobs.bytedance.com/en/position/7377867452682078490/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern - Masters",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f2b70048-f80b-4eb1-8977-3c3bc7e3be0f",
+        "date_posted": 1719964200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
