@@ -2332,5 +2332,22 @@
         "date_posted": 1719879962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719880947,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7325586002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "48b8e754-77c0-40f2-9333-36235088a238",
+        "date_posted": 1719880947,
+        "company_url": "",
+        "is_visible": true
     }
 ]

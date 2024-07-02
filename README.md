@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Forward Deployed Software Engineer Intern - US Government | New York, NY | <a href="https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://jobs.lever.co/palantir/c8d45e31-cf15-411e-b085-87d52f602d3c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Optiver | Software Engineering Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498434002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| ↳ | Software Engineer Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7325586002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Austin, TX | 🔒 | Jun 30 |
 | ↳ | Software Engineer Intern | Chicago, IL | 🔒 | Jun 30 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | 🔒 | Jun 30 |
