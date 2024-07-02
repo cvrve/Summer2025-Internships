@@ -2544,5 +2544,22 @@
         "date_posted": 1719952872,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719960126,
+        "url": "https://www.xostrucks.com/careers?gh_jid=5191704004&gh_src=c37b93264us",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xos",
+        "title": "System Engineering Intern",
+        "season": "Fall",
+        "source": "sgtanvi",
+        "id": "5daff35d-55e8-40fa-98fb-4022f47c1429",
+        "date_posted": 1719960126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
