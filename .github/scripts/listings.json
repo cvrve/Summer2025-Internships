@@ -2388,7 +2388,9 @@
         "date_updated": 1719893144,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-2025-intern-us/",
         "locations": [
-            "Miami, NY"
+            "Miami, FL",
+            "Chicago, IL",
+            "New York, NY"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -2415,6 +2417,114 @@
         "source": "vanshb03",
         "id": "6658d0fc-74f7-474a-8bd0-e1ba966947df",
         "date_posted": 1719932111,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719932972,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "70b4e851-35c1-497b-97e0-7d52a266e622",
+        "date_posted": 1719932972,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719933346,
+        "url": "https://www.citadel.com/careers/details/investment-trading-2025-intern-us/",
+        "locations": [
+            "Greenwich, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Investment & Trading Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8c3f6268-583c-4215-9bb5-049f9c24c877",
+        "date_posted": 1719933346,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719933497,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-2025-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "7c1dad37-9c19-420d-a213-5380682df7c2",
+        "date_posted": 1719933497,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719933803,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-2025-intern-us-2/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "6910313e-c871-4b24-a5ba-e556859ae74c",
+        "date_posted": 1719933803,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719934924,
+        "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us-2/",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "0ad920fd-00c5-40aa-be0b-47fa97c9b611",
+        "date_posted": 1719934924,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719936814,
+        "url": "https://jobs.siemens.com/careers/job/563156119869882?microsite=siemens.com",
+        "locations": [
+            "Milford, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "System User Experience Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "ed3b9766-7e1f-4251-a14a-836731aac2ab",
+        "date_posted": 1719936814,
         "company_url": "",
         "is_visible": true
     }
