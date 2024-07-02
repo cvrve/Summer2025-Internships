@@ -2594,5 +2594,22 @@
         "date_posted": 1719962487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719962931,
+        "url": "https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Intern",
+        "season": "Fall",
+        "source": "sgtanvi",
+        "id": "95f940ec-5b74-43a1-ae73-3dd5eb67b11f",
+        "date_posted": 1719962931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
