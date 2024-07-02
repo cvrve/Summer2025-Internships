@@ -2491,5 +2491,24 @@
         "date_posted": 1719933803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719934924,
+        "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us-2/",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "0ad920fd-00c5-40aa-be0b-47fa97c9b611",
+        "date_posted": 1719934924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
