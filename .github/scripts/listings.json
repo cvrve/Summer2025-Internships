@@ -2611,5 +2611,22 @@
         "date_posted": 1719962931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719963200,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Software Developer and Data Engineer Co-op",
+        "season": "Fall",
+        "source": "ibrakhimus",
+        "id": "2eb618f5-daa6-4311-9690-87f9719ba643",
+        "date_posted": 1719963200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
