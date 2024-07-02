@@ -2455,5 +2455,23 @@
         "date_posted": 1719933346,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719933497,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-2025-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "7c1dad37-9c19-420d-a213-5380682df7c2",
+        "date_posted": 1719933497,
+        "company_url": "",
+        "is_visible": true
     }
 ]
