@@ -2526,5 +2526,22 @@
         "date_posted": 1719936814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719952872,
+        "url": "https://jobs.siemens.com/careers/job/563156119870253?microsite=siemens.com",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Software Engineering Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6312d021-4511-4b43-9b44-3154bc4753bb",
+        "date_posted": 1719952872,
+        "company_url": "",
+        "is_visible": true
     }
 ]
