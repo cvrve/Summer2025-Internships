@@ -2510,5 +2510,22 @@
         "date_posted": 1719934924,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719936814,
+        "url": "https://jobs.siemens.com/careers/job/563156119869882?microsite=siemens.com",
+        "locations": [
+            "Milford, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "System User Experience Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "ed3b9766-7e1f-4251-a14a-836731aac2ab",
+        "date_posted": 1719936814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
