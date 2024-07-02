@@ -2473,5 +2473,23 @@
         "date_posted": 1719933497,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719933803,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-2025-intern-us-2/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "6910313e-c871-4b24-a5ba-e556859ae74c",
+        "date_posted": 1719933803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
