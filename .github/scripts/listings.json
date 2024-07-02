@@ -2298,5 +2298,22 @@
         "date_posted": 1719879704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719879837,
+        "url": "https://jobs.lever.co/palantir/c8d45e31-cf15-411e-b085-87d52f602d3c",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "9fe856c6-935b-4a05-a067-c23e3a16b1d4",
+        "date_posted": 1719879837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
