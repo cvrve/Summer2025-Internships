@@ -2645,5 +2645,22 @@
         "date_posted": 1719963744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719964012,
+        "url": "https://boards.greenhouse.io/achronixsemiconductor/jobs/4011616006?gh_src=3eb88b566us",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Achronix Semiconductor",
+        "title": "FPGA Software Engineer Intern",
+        "season": "Fall",
+        "source": "ibrakhimus",
+        "id": "e94f952f-6149-44e5-96a5-7ff8d905bed0",
+        "date_posted": 1719964012,
+        "company_url": "",
+        "is_visible": true
     }
 ]

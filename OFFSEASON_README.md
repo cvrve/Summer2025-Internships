@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
 | Comcast | Software Developer and Data Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Motorola Solutions | Software Engineer, Co-Op | Fresno, CA | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Fresno-CA-CA180/Software-Engineer--Co-Op_R47247"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| Achronix Semiconductor | FPGA Software Engineer Intern | Santa Clara, CA | <a href="https://boards.greenhouse.io/achronixsemiconductor/jobs/4011616006?gh_src=3eb88b566us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Extreme Reach | Software Development Intern | Dedham, Massachusetts | <a href="https://apply.workable.com/extremereach/j/536FB23BC3/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
