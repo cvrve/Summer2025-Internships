@@ -2628,5 +2628,22 @@
         "date_posted": 1719963200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1719963744,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Fresno-CA-CA180/Software-Engineer--Co-Op_R47247",
+        "locations": [
+            "Fresno, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineer, Co-Op",
+        "season": "Fall",
+        "source": "sgtanvi",
+        "id": "17a304b3-d7d7-43f2-b28a-6107b59ca7b8",
+        "date_posted": 1719963744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
