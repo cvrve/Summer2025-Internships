@@ -2679,5 +2679,22 @@
         "date_posted": 1719964200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720014218,
+        "url": "https://careers.tiktok.com/position/7266221020817312056/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern (Privacy and Security)",
+        "season": "Fall",
+        "source": "beakae",
+        "id": "20d72aa9-23e7-4988-9382-620b774fa628",
+        "date_posted": 1720014218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
