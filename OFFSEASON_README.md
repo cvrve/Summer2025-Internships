@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Tiktok | Software Engineer Intern (Privacy and Security) | San Jose, CA | <a href="https://careers.tiktok.com/position/7266221020817312056/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
+| ↳ | Software Engineer Intern, Recommendation Infra | San Jose, CA | <a href="https://careers.tiktok.com/position/7369689750552414501/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | ↳ | Research Scientist Intern - LLM - PhD | San Jose, CA | <a href="https://careers.tiktok.com/position/7369750584636901659/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineer Intern | Seattle, WA | <a href="https://careers.tiktok.com/position/7266223645327395127/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | SAP | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
