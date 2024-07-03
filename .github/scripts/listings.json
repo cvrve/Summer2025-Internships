@@ -2696,5 +2696,22 @@
         "date_posted": 1720014218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720014461,
+        "url": "https://careers.tiktok.com/position/7369689750552414501/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern, Recommendation Infra",
+        "season": "Fall",
+        "source": "beakae",
+        "id": "4abf4d92-5b2f-4f17-a7ba-a8b89491a127",
+        "date_posted": 1720014461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
