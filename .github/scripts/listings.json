@@ -2816,5 +2816,22 @@
         "date_posted": 1720127806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720128508,
+        "url": "https://careers.tiktok.com/position/7332211709085501723/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer Intern, Push Notifcations",
+        "season": "Fall",
+        "source": "beakae",
+        "id": "558ca3bb-6bcb-4594-945d-85563545c2b1",
+        "date_posted": 1720128508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
