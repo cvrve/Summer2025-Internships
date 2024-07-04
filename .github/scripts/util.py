@@ -151,7 +151,7 @@ def embedTable(listings, filepath, isOffseason):
                 if "TABLE_START" in line:
                     readingTable = True
                     newText += "\n" + \
-                        create_md_table(listings) if isOffseason else create_md_table_offseason(listings) + "\n"
+                        create_md_table(listings) if not isOffseason else create_md_table_offseason(listings) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
