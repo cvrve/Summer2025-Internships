@@ -91,6 +91,42 @@ def create_md_table(listings):
 
     return table
 
+def create_md_table_offseason(listings):
+    table = ""
+    table += "| Company | Role | Location | Season | Application/Link | Date Posted |\n"
+    table += "| ------- | ---- | -------- | ------ | ---------------- | ----------- |\n"
+
+    curr_company_key = None
+    for listing in listings:
+        
+        # parse listing information
+        company_url = listing["company_url"]
+        company = f"**[{listing['company_name']}]({company_url})**" if len(company_url) > 0 else listing["company_name"]
+        location = getLocations(listing)
+        position = listing["title"] + getSponsorship(listing)
+        link = getLink(listing)
+
+        # parse listing date
+        year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
+        day_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
+        is_before_july_18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
+        date_posted = year_month if is_before_july_18 else day_month
+
+        # add ↳ to listings with the same company
+        # as "header" company listing (most recent)
+        company_key = listing['company_name'].lower()
+        if curr_company_key == company_key:
+            company = "↳"
+        else:
+            curr_company_key = company_key
+
+        Season = listing['season']
+
+        # create table row
+        table += f"| {company} | {position} | {location} |  {Season} | {link} | {date_posted} |\n"
+
+    return table
+
 
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
@@ -100,7 +136,7 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
         return listings
 
 
-def embedTable(listings, filepath):
+def embedTable(listings, filepath, isOffseason):
     newText = ""
     readingTable = False
     with open(filepath, "r") as f:
@@ -115,7 +151,7 @@ def embedTable(listings, filepath):
                 if "TABLE_START" in line:
                     readingTable = True
                     newText += "\n" + \
-                        create_md_table(listings) + "\n"
+                        create_md_table(listings) if not isOffseason else create_md_table_offseason(listings) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
