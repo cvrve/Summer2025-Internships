@@ -2713,5 +2713,22 @@
         "date_posted": 1720014461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720120361,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Capula",
+        "title": "Trading and Research Summer Intern",
+        "season": "Summer",
+        "source": "JihuiTanUchicago",
+        "id": "0c67d0ae-d064-464f-81a5-45604022c469",
+        "date_posted": 1720120361,
+        "company_url": "",
+        "is_visible": true
     }
 ]
