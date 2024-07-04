@@ -7,3 +7,16 @@ body:
     attributes:
       value: |
         Thanks for taking the time to create this issue!
+  - type: dropdown
+    id: category
+    attributes:
+      label: optionA
+      description: Please select the category that best fits your issue.
+      multiple: false
+      options:
+        - 'Question'
+        - 'Suggestion'
+        - 'Closed Internship'
+        - 'Other'
+    validations:
+      required: true
