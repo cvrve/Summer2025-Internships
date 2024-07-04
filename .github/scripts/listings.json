@@ -2747,5 +2747,22 @@
         "date_posted": 1720125121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720125960,
+        "url": "https://www.scm-lp.com/join?position=721895",
+        "locations": [
+            "Wayne, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Stevens Capital Management",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "JihuiTanUchicago",
+        "id": "7dcea19b-87ee-476d-93df-b6a06fa4c5da",
+        "date_posted": 1720125960,
+        "company_url": "",
+        "is_visible": true
     }
 ]
