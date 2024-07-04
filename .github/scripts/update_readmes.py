@@ -20,8 +20,8 @@ def main():
     offseason_listings = util.sortListings(offseason_listings)
 
     # create table and embed
-    util.embedTable(summer_listings, "README.md")
-    util.embedTable(offseason_listings, "OFFSEASON_README.md")
+    util.embedTable(summer_listings, "README.md", False)
+    util.embedTable(offseason_listings, "OFFSEASON_README.md", True)
 
     util.setOutput("commit_message", "Updating READMEs at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
 

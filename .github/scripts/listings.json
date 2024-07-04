@@ -2714,21 +2714,4 @@
         "company_url": "",
         "is_visible": true
     },
-    {
-        "date_updated": 1720064395,
-        "url": "https://orz.com",
-        "locations": [
-            "Jupiter, FL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "company_name": "orz",
-        "title": "ml intern",
-        "season": "Fall",
-        "source": "JhaoZ",
-        "id": "b1d81e42-6ec5-4623-bb6d-c0928fcd838f",
-        "date_posted": 1720064395,
-        "company_url": "",
-        "is_visible": true
-    }
 ]
