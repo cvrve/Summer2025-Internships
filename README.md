@@ -73,6 +73,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Capula | Trading and Research Summer Intern | New York, NY | <a href="https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Stevens Capital Management | Quantitative Research Analyst Intern 🛂 | Wayne, PA | <a href="https://www.scm-lp.com/join?position=721895"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
+| ↳ | Developer Intern 🛂 | Wayne, PA | <a href="https://www.scm-lp.com/join?position=721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Citadel | Quantitative Research Intern | Chicago, IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Investment & Trading Intern | Greenwich, NY | <a href="https://www.citadel.com/careers/details/investment-trading-2025-intern-us/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineer Intern | Chicago, IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/software-engineer-2025-intern-us-2/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |

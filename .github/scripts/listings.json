@@ -2782,5 +2782,22 @@
         "date_posted": 1720126947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720127300,
+        "url": "https://www.scm-lp.com/join?position=721888",
+        "locations": [
+            "Wayne, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Stevens Capital Management",
+        "title": "Developer Intern",
+        "season": "Summer",
+        "source": "JihuiTanUchicago",
+        "id": "479140a9-9a6a-41f9-aec8-1f523681a713",
+        "date_posted": 1720127300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
