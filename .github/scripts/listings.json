@@ -2764,5 +2764,23 @@
         "date_posted": 1720125960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720126947,
+        "url": "https://jobs.netflix.com/jobs/338884555",
+        "locations": [
+            "Los Gatos, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Machine Learning Intern - Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "126c1bca-b507-4f3b-a64a-caad47d886ff",
+        "date_posted": 1720126947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
