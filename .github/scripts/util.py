@@ -120,7 +120,7 @@ def create_md_table_offseason(listings):
         else:
             curr_company_key = company_key
 
-        Season = listing['Season']
+        Season = listing['season']
 
         # create table row
         table += f"| {company} | {position} | {location} |  {Season} | {link} | {date_posted} |\n"
