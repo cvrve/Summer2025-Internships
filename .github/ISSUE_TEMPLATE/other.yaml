@@ -1,6 +1,6 @@
 name: Other
 description: Use this issue for any questions/suggestions or closed internships.
-title: "<issue>"
+title: "Issue: "
 labels: ["other"]
 body:
   - type: markdown
