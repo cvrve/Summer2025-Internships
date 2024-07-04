@@ -93,8 +93,8 @@ def create_md_table(listings):
 
 def create_md_table_offseason(listings):
     table = ""
-    table += "| Company | Role | Location | Application/Link | Date Posted | Season |\n"
-    table += "| ------- | ---- | -------- | ---------------- | ----------- | ------ |\n"
+    table += "| Company | Role | Location | Season | Application/Link | Date Posted |\n"
+    table += "| ------- | ---- | -------- | ------ | ---------------- | ----------- |\n"
 
     curr_company_key = None
     for listing in listings:
@@ -123,7 +123,7 @@ def create_md_table_offseason(listings):
         Season = listing['Season']
 
         # create table row
-        table += f"| {company} | {position} | {location} | {link} | {date_posted} | {Season} |\n"
+        table += f"| {company} | {position} | {location} |  {Season} | {link} | {date_posted} |\n"
 
     return table
 
