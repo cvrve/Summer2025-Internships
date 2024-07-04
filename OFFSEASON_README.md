@@ -87,6 +87,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-embedded-software-engineer-audio-systems-fall-2024-222557"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Data Analytics & Test Engineer Intern | Palo Alto, CA | 🔒 | Jun 18 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | 🔒 | Jun 17 |
+| Netflix | Machine Learning Intern - Masters/PhD | Los Gatos, CA</br>Los Angeles, CA | <a href="https://jobs.netflix.com/jobs/338884555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Tiktok | Software Engineer Intern (Privacy and Security) | San Jose, CA | <a href="https://careers.tiktok.com/position/7266221020817312056/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | ↳ | Software Engineer Intern, Recommendation Infra | San Jose, CA | <a href="https://careers.tiktok.com/position/7369689750552414501/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | ↳ | Research Scientist Intern - LLM - PhD | San Jose, CA | <a href="https://careers.tiktok.com/position/7369750584636901659/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
