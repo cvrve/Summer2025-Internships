@@ -7,24 +7,3 @@ body:
     attributes:
       value: |
         Thanks for taking the time to create this issue!
-  - type: dropdown
-  id: category
-  attributes:
-    label: optionA
-    description: Please select the category that best fits your issue.
-    multiple: false
-    options:
-      - 'Question'
-      - 'Suggestion'
-      - 'Closed Internship'
-      - 'Other'
-  validations:
-    required: true
-  - type: textarea
-    id: other
-    attributes:
-      label: Issue/Question/Closed Internship
-      description: Please provide a brief description of the issue, question, closed internshipm, or suggestion.
-      placeholder: ex. I have a question about the repo, I have a suggestion for the repo, An internship has been closed, How can I contribute to the repo?, etc.
-    validations:
-      required: true
