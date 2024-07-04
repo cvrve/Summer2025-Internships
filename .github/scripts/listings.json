@@ -40,7 +40,7 @@
             "New York"
         ],
         "season": "Summer",
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Global Atlantic",
         "title": "Technology Intern",
@@ -416,7 +416,7 @@
         "locations": [
             "Chicago, IL"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Ventas, Inc",
         "title": "Software Engineer Intern",
