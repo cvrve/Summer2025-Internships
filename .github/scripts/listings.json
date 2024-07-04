@@ -2730,5 +2730,22 @@
         "date_posted": 1720120361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720125121,
+        "url": "https://www.tesla.com/careers/search/job/223250",
+        "locations": [
+            "Palo Alto, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Reinforcement Learning Engineer Intern, Tesla Bot",
+        "season": "Fall",
+        "source": "sgtanvi",
+        "id": "0bc38650-f773-40e5-959d-bc3c4d4813ee",
+        "date_posted": 1720125121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
