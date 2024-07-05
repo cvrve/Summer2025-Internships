@@ -2884,5 +2884,22 @@
         "date_posted": 1720147055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720147503,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R390274",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "AeGIS/Iris Software Development Co-op",
+        "season": "Fall",
+        "source": "ibrakhimus",
+        "id": "9936f1bf-7422-474a-a038-6fbea2447f39",
+        "date_posted": 1720147503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
