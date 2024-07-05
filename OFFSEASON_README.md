@@ -99,6 +99,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Topgolf | Game Engineer Intern | Remote | <a href="https://careers.topgolf.com/us/en/job/TKFTEGUSJR20235845EXTERNALENUS/Game-Engineer-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Applied Materials | AI/ML Co-op | Gloucester, MA | <a href="https://careers.appliedmaterials.com/careers/job/790296371041"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Splunk | Applied Scientist Intern - PhD | Remote | <a href="https://www.splunk.com/en_us/careers/jobs/applied-scientist-intern-phd-30373.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
+| Numerade | Data Scientist Intern | Remote | <a href="https://www.numerade.com/careers/?gh_jid=5221314004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | SAP | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |

@@ -2901,5 +2901,22 @@
         "date_posted": 1720147503,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720147742,
+        "url": "https://www.numerade.com/careers/?gh_jid=5221314004",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Numerade",
+        "title": "Data Scientist Intern",
+        "season": "Fall",
+        "source": "shoufan",
+        "id": "610799da-0d90-4aa9-bb40-ee98c9ba19b0",
+        "date_posted": 1720147742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
