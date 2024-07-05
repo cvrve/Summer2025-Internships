@@ -96,9 +96,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern 🛂 | <details><summary>**11 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>Palo Alto, CA</br>New York, NY</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Austin, TX</details> | 🔒 | Jul 01 |
 | Optiver | Software Engineering Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7498434002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7325586002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
-| ↳ | Software Engineer Intern | Austin, TX | 🔒 | Jun 30 |
-| ↳ | Software Engineer Intern | Chicago, IL | 🔒 | Jun 30 |
-| ↳ | Quantitative Trader Intern | Chicago, IL | 🔒 | Jun 30 |
 | Caterpillar | Engineering Internship | Chillicothe, IL | <a href="https://careers.caterpillar.com/en/jobs/job/r0000262765-2025-summer-corporate-intern-engineering/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Engineer Intern 🛂 | Chillicothe, IL</br>Peoria, IL | 🔒 | May 08 |
 | Morgan Stanley | 2025 Technology Summer Analyst Program (New York) | New York, NY</br>Boston, MA</br>Alpharetta, GA | <a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53fdfbaf0394/candidate/so/pm/1/pl/1/opp/17297-2025-Technology-Summer-Analyst-Program-New-York/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
