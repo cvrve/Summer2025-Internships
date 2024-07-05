@@ -2867,5 +2867,22 @@
         "date_posted": 1720146963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720147055,
+        "url": "https://www.splunk.com/en_us/careers/jobs/applied-scientist-intern-phd-30373.html",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Applied Scientist Intern - PhD",
+        "season": "Fall",
+        "source": "shoufan",
+        "id": "933541bc-3eb3-4e15-94b8-94622757c3ab",
+        "date_posted": 1720147055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
