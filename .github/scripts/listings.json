@@ -2850,5 +2850,22 @@
         "date_posted": 1720146745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720146858,
+        "url": "https://careers.appliedmaterials.com/careers/job/790296371041",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "2024 Fall AI ML Co-op",
+        "season": "Fall",
+        "source": "shoufan",
+        "id": "0491d07c-7c28-4493-895f-fd81ec418f8e",
+        "date_posted": 1720146858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
