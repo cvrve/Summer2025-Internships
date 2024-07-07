@@ -2765,5 +2765,22 @@
         "date_posted": 1720147742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720357031,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Software-Engineer-Co-op_R390940",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Software Engineer Co-op",
+        "season": "Fall",
+        "source": "ibrakhimus",
+        "id": "9fc42188-3b56-42fc-850a-9d067d3ac3eb",
+        "date_posted": 1720357031,
+        "company_url": "",
+        "is_visible": true
     }
 ]
