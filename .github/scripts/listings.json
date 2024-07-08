@@ -2833,5 +2833,22 @@
         "date_posted": 1720470381,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720477732,
+        "url": "https://boards.greenhouse.io/pdtpartners/jobs/4423823",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PDT Partners",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "peterli135",
+        "id": "27c8340a-9b26-43ed-98cb-26ae0f4a6115",
+        "date_posted": 1720477732,
+        "company_url": "",
+        "is_visible": true
     }
 ]
