@@ -2782,5 +2782,22 @@
         "date_posted": 1720357031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720470189,
+        "url": "https://drw.com/work-at-drw/listings/quantitative-research-intern-2907309",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DRW",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b5380296-e748-4492-9ae9-c3c3e5aa810b",
+        "date_posted": 1720470189,
+        "company_url": "",
+        "is_visible": true
     }
 ]
