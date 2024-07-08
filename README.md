@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | DRW | Quantitative Research Intern | Chicago, IL | <a href="https://drw.com/work-at-drw/listings/quantitative-research-intern-2907309"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
+| ↳ | User-Interface (UI) Engineer Intern | Chicago, IL | <a href="https://drw.com/work-at-drw/listings/user-interface-ui-engineer-intern-2909233"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 08 |
 | Capula | Trading and Research Summer Intern | New York, NY | <a href="https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Stevens Capital Management | Quantitative Research Analyst Intern 🛂 | Wayne, PA | <a href="https://www.scm-lp.com/join?position=721895"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | ↳ | Developer Intern 🛂 | Wayne, PA | <a href="https://www.scm-lp.com/join?position=721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
