@@ -2903,5 +2903,22 @@
         "date_posted": 1720518701,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720518844,
+        "url": "https://www.kognitos.com/careers/?ashby_jid=d63ef3cf-ea29-4259-af85-dd8def262215#apply-now",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kognitos",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "b8747809-56ab-400f-a6e1-1e6d71684943",
+        "date_posted": 1720518844,
+        "company_url": "",
+        "is_visible": true
     }
 ]
