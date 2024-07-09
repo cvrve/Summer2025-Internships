@@ -2886,5 +2886,22 @@
         "date_posted": 1720518447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720518701,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25306",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Research and Design Hardware Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e3d8084f-e5a8-4e26-9fa5-e35ac1cf438b",
+        "date_posted": 1720518701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
