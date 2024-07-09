@@ -2850,5 +2850,22 @@
         "date_posted": 1720477732,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720517709,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Software-Engineer-_R1566-24",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "23be7dba-bd90-4fad-ab08-0d23b6b050b6",
+        "date_posted": 1720517709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
