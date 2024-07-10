@@ -2971,5 +2971,22 @@
         "date_posted": 1720602749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720603170,
+        "url": "https://jobs.sw.siemens.com/costa-mesa-ca/strategic-student-program-software-development-rd-intern-fall-2024/2F5F850EEB0746E3BEB047BE2025D486/job/",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Software Development R&D Intern",
+        "season": "Fall",
+        "source": "beakae",
+        "id": "11b9a32c-027e-4564-a612-60f0e712932a",
+        "date_posted": 1720603170,
+        "company_url": "",
+        "is_visible": true
     }
 ]
