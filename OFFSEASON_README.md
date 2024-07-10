@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| AMD | Software Developer Co-Op/Intern | San Jose, CA | <a href="https://campus-amd.icims.com/jobs/48633/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Microchip | Software Engineer Intern | Chandler, AZ | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Software-Engineer-_R1566-24"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Delta | Research and Design Hardware Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25306"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | ↳ | Innovation and AI Engineering Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25315"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
@@ -165,7 +167,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Jacobs | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
 | Celonis | Machine Learning Engineer Intern | New York, NY | 🔒 | Jun 24 |
-| AMD | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | 🔒 | Jun 13 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
