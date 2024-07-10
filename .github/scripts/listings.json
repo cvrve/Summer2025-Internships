@@ -2937,5 +2937,22 @@
         "date_posted": 1720519762,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720602513,
+        "url": "https://campus-amd.icims.com/jobs/48633/job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Developer Co-Op/Intern",
+        "season": "Fall",
+        "source": "shoufan",
+        "id": "a363cb48-6e3b-48f1-8765-abb0b1366a23",
+        "date_posted": 1720602513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
