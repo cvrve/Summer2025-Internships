@@ -2988,5 +2988,22 @@
         "date_posted": 1720603170,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720603389,
+        "url": "https://jobs.sw.siemens.com/milford-oh/strategic-student-program-software-development-co-op-fall-2024-lcs/662F1C7FD1064526BECE6807D64780CD/job/",
+        "locations": [
+            "Milford, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seimens",
+        "title": "Software Development Co-op",
+        "season": "Fall",
+        "source": "shoufan",
+        "id": "19968f2e-7261-447d-93bd-a6faee55df5a",
+        "date_posted": 1720603389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
