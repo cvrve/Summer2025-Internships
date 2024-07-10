@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tower Research Capital | Quantitative Trader Intern | New York, NY | <a href="https://www.tower-research.com/open-positions/?gh_jid=6072039"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Caterpillar | Corporate Intern, Digital and Analytics | Chicago, IL</br>Peoria, IL</br>Irving, TX | <a href="https://careers.caterpillar.com/en/jobs/job/r0000264456-2025-summer-corporate-intern-digital-and-analytics/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | ↳ | Engineering Internship | Chillicothe, IL | <a href="https://careers.caterpillar.com/en/jobs/job/r0000262765-2025-summer-corporate-intern-engineering/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Engineer Intern 🛂 | Chillicothe, IL</br>Peoria, IL | 🔒 | May 08 |
