@@ -3005,5 +3005,22 @@
         "date_posted": 1720603389,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720641945,
+        "url": "https://careers.amd.com/careers-home/jobs/48633/job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Developer Co-Op/Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a40695ae-5089-4f6a-b3d2-d29e520c1428",
+        "date_posted": 1720641945,
+        "company_url": "",
+        "is_visible": true
     }
 ]

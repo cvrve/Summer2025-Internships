@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | AMD | Software Developer Co-Op/Intern | San Jose, CA | <a href="https://campus-amd.icims.com/jobs/48633/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
+| ↳ | Software Developer Co-Op/Intern | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/48633/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Seimens | Software Development Co-Op | Remote | <a href="https://jobs.sw.siemens.com/milford-oh/strategic-student-program-software-development-co-op-fall-2024-pes/2807D11A4D3D4771B0EE71ECF237364C/job/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Software Development Co-op | Milford, OH | <a href="https://jobs.sw.siemens.com/milford-oh/strategic-student-program-software-development-co-op-fall-2024-lcs/662F1C7FD1064526BECE6807D64780CD/job/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
