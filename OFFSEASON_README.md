@@ -73,6 +73,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | AMD | Software Developer Co-Op/Intern | San Jose, CA | <a href="https://campus-amd.icims.com/jobs/48633/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
+| Seimens | Software Development Co-Op | Remote | <a href="https://jobs.sw.siemens.com/milford-oh/strategic-student-program-software-development-co-op-fall-2024-pes/2807D11A4D3D4771B0EE71ECF237364C/job/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Microchip | Software Engineer Intern | Chandler, AZ | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Software-Engineer-_R1566-24"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Delta | Research and Design Hardware Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25306"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | ↳ | Innovation and AI Engineering Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25315"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
