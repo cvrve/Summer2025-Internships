@@ -3022,5 +3022,22 @@
         "date_posted": 1720641945,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720642140,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern--Vision-Foundation-Model-and-Generative-AI_JR-116685",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sony Electronics",
+        "title": "Research Intern - Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "bf1c58f7-01dd-4487-af9b-fbc6e513e0a3",
+        "date_posted": 1720642140,
+        "company_url": "",
+        "is_visible": true
     }
 ]
