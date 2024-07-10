@@ -3039,5 +3039,22 @@
         "date_posted": 1720642140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720649195,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6072039",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tower Research Capital",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e52b0722-3cf5-4e7d-8ba6-fe12f0e9035c",
+        "date_posted": 1720649195,
+        "company_url": "",
+        "is_visible": true
     }
 ]
