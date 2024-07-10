@@ -3056,5 +3056,22 @@
         "date_posted": 1720649195,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720650754,
+        "url": "https://careers.garmin.com/careers-home/jobs/13514?lang=en-us&iss=linkedin",
+        "locations": [
+            "Yarmouth, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7f0d5be9-b1ca-4a53-9151-70dfcbbd1b34",
+        "date_posted": 1720650754,
+        "company_url": "",
+        "is_visible": true
     }
 ]
