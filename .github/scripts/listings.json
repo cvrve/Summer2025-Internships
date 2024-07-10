@@ -3073,5 +3073,22 @@
         "date_posted": 1720650754,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720651071,
+        "url": "https://apply.workable.com/huggingface/j/0715D7FB4D/",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HuggingFace",
+        "title": "Machine Learning Advocate Engineer Internship",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e8fbe68f-7de2-4ce4-81ce-b24e8f81a1f0",
+        "date_posted": 1720651071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
