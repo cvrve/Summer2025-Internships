@@ -3125,5 +3125,22 @@
         "date_posted": 1720706387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720706509,
+        "url": "https://careers.harris.com/job/-/-/4832/67392284320",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "edd538f5-31dc-4f79-98b4-82ae35cb367c",
+        "date_posted": 1720706509,
+        "company_url": "",
+        "is_visible": true
     }
 ]
