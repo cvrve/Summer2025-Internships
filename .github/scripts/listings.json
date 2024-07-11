@@ -3090,5 +3090,23 @@
         "date_posted": 1720651071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720703412,
+        "url": "https://www.metacareers.com/v2/jobs/1836971113444506/",
+        "locations": [
+            "Sunnyvale, CA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Research Scientist Intern - PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a4a5d318-ef2f-4209-9d02-64feb6ee2f0f",
+        "date_posted": 1720703412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
