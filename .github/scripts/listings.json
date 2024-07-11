@@ -3108,5 +3108,22 @@
         "date_posted": 1720703412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720706387,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Video-Standards---Encoding-Optimization-Intern_R103664",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Video Standards & Encoding Optimization Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "999573c8-9cc6-4c46-8c71-8699719c9736",
+        "date_posted": 1720706387,
+        "company_url": "",
+        "is_visible": true
     }
 ]
