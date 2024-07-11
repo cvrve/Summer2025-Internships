@@ -3142,5 +3142,22 @@
         "date_posted": 1720706509,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720709614,
+        "url": "https://us241.dayforcehcm.com/CandidatePortal/en-US/veranex/Posting/View/1866",
+        "locations": [
+            "Orange, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veranex",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "aef094d3-5e6e-4f8d-983c-63174487dc50",
+        "date_posted": 1720709614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
