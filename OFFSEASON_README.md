@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Western Digital | Software Engineering Co-Op | Rochester, MN | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000000225574"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Meta | Research Scientist Intern - PhD | Sunnyvale, CA</br>Redmond, WA | <a href="https://www.metacareers.com/v2/jobs/1836971113444506/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | Tencent | Video Standards & Encoding Optimization Intern | Palo Alto, CA | <a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Video-Standards---Encoding-Optimization-Intern_R103664"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | L3Harris Technologies | Embedded Software Engineering Intern 🇺🇸 | Salt Lake City, UT | <a href="https://careers.harris.com/job/-/-/4832/67392284320"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
