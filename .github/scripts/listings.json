@@ -3244,5 +3244,73 @@
         "date_posted": 1720946724,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720947903,
+        "url": "https://careers.spglobal.com/jobs/295144",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Quality Engineer Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720947903,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720948164,
+        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2025-Software-Development-Intern-Bachelors-PA-15317/1170758700",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "season": "Spring",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ansys",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720948164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720949779,
+        "url": "https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Software-Engineering-Intern---Cloud-and-Java-Development_234581-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Spring",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Yonder",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720949779,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720950166,
+        "url": "https://boards.greenhouse.io/astranis/jobs/4300139006?gh_src=602966e76us",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Flight Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720950166,
+        "company_url": "",
+        "is_visible": true
     }
 ]
