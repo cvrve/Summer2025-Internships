@@ -3193,5 +3193,56 @@
         "date_posted": 1720945006,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1720946231,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Co-Op--Summer-2024-_R46398",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Android Applications Developer Co-Op",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720946231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720946529,
+        "url": "https://bear-robotics.breezy.hr/p/197a61daf6b6-software-engineer-intern",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bear Robotics",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720946529,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1720946724,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=148317&clientkey=4689D9AB2F6F99AD5F352379B206FD14",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HealthStream",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1720946724,
+        "company_url": "",
+        "is_visible": true
     }
 ]
