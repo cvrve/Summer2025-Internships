@@ -3312,5 +3312,39 @@
         "date_posted": 1720950166,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721014577,
+        "url": "https://boards.greenhouse.io/imc/jobs/4347765101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1721014577,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1721014688,
+        "url": "https://jobs.intel.com/en/job/-/-/599/67393442592",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Computer Engineering Intern - Masters/PhD",
+        "source": "vanshb03",
+        "id": "71957da4-825a-41fb-9111-b307c22379aa",
+        "date_posted": 1721014688,
+        "company_url": "",
+        "is_visible": true
     }
 ]
