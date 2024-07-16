@@ -3363,5 +3363,22 @@
         "date_posted": 1721137329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721137506,
+        "url": "https://akunacapital.com/job-details?gh_jid=6069872",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern - Data Engineering",
+        "season": "Summer",
+        "source": "peterli135",
+        "id": "9fffd597-f5ad-4b16-bd54-7e2c1f271580",
+        "date_posted": 1721137506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
