@@ -3346,5 +3346,22 @@
         "date_posted": 1721014688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721137329,
+        "url": "https://akunacapital.com/job-details?gh_jid=6080090",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern - C++",
+        "season": "Summer",
+        "source": "peterli135",
+        "id": "23eb8090-b522-46d1-9644-ba7e03ca8d3e",
+        "date_posted": 1721137329,
+        "company_url": "",
+        "is_visible": true
     }
 ]
