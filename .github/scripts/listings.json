@@ -3414,5 +3414,22 @@
         "date_posted": 1721192871,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193117,
+        "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "R&D Intern - Tools and Compilers - MS/PHD",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "bdeaab48-a6be-46d8-b9d6-3e65f0a7e7e6",
+        "date_posted": 1721193117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
