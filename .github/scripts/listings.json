@@ -3397,5 +3397,22 @@
         "date_posted": 1721137765,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721192871,
+        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2025-Summer/12685",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Sigma",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "77ed96b6-c40c-44f0-b573-1e5dfc7b5354",
+        "date_posted": 1721192871,
+        "company_url": "",
+        "is_visible": true
     }
 ]
