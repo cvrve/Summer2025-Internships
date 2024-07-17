@@ -3482,5 +3482,22 @@
         "date_posted": 1721193503,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193739,
+        "url": "https://careers.tiktok.com/position/7390487764133234994/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern - Anti Automated Solutions",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f676636a-0472-4962-a83c-1e36e7049da4",
+        "date_posted": 1721193739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
