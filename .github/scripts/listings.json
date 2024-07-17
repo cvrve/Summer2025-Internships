@@ -3431,5 +3431,22 @@
         "date_posted": 1721193117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193213,
+        "url": "https://www.janestreet.com/join-jane-street/position/7527332002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "3554cd01-dcb6-48bf-8367-8bdee5e3c6bc",
+        "date_posted": 1721193213,
+        "company_url": "",
+        "is_visible": true
     }
 ]
