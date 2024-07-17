@@ -3635,5 +3635,22 @@
         "date_posted": 1721194824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194966,
+        "url": "https://akunacapital.com/job-details?gh_jid=5744541",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "bccfbb91-97bf-4de7-9e1c-85191d7c526f",
+        "date_posted": 1721194966,
+        "company_url": "",
+        "is_visible": true
     }
 ]
