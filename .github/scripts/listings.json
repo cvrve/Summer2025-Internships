@@ -3516,5 +3516,22 @@
         "date_posted": 1721193787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193932,
+        "url": "https://careers.tiktok.com/position/7391921273113266441/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Mobile Software Engineer Intern - Multimedia Client",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "ec033bb4-a06e-471d-a1ea-e7eb2a222618",
+        "date_posted": 1721193932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
