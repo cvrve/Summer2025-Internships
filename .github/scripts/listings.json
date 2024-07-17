@@ -3499,5 +3499,22 @@
         "date_posted": 1721193739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193787,
+        "url": "https://careers.tiktok.com/position/7391925058660305162/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Mobile Software Engineer Intern - Video on Demand",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4a97e0e2-d6f9-417d-a630-1ba0a84d94be",
+        "date_posted": 1721193787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
