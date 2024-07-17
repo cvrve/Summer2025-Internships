@@ -3601,5 +3601,22 @@
         "date_posted": 1721194574,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194694,
+        "url": "https://akunacapital.com/job-details?gh_jid=6075208",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "43a97893-1842-4d2d-a4d3-8f4c5b50e97a",
+        "date_posted": 1721194694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
