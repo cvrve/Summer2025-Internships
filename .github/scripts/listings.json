@@ -3584,5 +3584,22 @@
         "date_posted": 1721194449,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194574,
+        "url": "https://akunacapital.com/job-details?gh_jid=5744527",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Development Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4f1d8bab-3bc7-48e9-afaa-fbe23a138d22",
+        "date_posted": 1721194574,
+        "company_url": "",
+        "is_visible": true
     }
 ]
