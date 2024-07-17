@@ -3533,5 +3533,22 @@
         "date_posted": 1721193932,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194302,
+        "url": "https://careers.tiktok.com/position/7391922935051733275/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Backend Software Engineer Intern - Server Architecture",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4b85d332-49f4-4b9f-8408-5dc90164d165",
+        "date_posted": 1721194302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
