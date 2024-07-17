@@ -3618,5 +3618,22 @@
         "date_posted": 1721194694,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194824,
+        "url": "https://akunacapital.com/job-details?gh_jid=5744549",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Strategist Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "6e4a96a0-2b9b-4be5-bbe1-6bc80f6ce553",
+        "date_posted": 1721194824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
