@@ -3465,5 +3465,22 @@
         "date_posted": 1721193383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721193503,
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4345621101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "1347cfe4-2ca2-4694-bede-f4215a7be8af",
+        "date_posted": 1721193503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
