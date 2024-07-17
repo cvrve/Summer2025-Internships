@@ -3567,5 +3567,22 @@
         "date_posted": 1721194355,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194449,
+        "url": "https://careers.tiktok.com/position/7392099728617523507/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern - Effect House",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "81cfde13-8515-4191-a9c6-5b739464d8c6",
+        "date_posted": 1721194449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
