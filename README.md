@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Jane Street | R&D Intern - Tools and Compilers - MS/PHD | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/5869205002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Software Engineer Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7527332002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | IMC | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.eu.greenhouse.io/imc/jobs/4345621101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
+| ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://boards.eu.greenhouse.io/imc/jobs/4347767101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://boards.greenhouse.io/imc/jobs/4347765101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Tiktok | Software Engineer Intern - Anti Automated Solutions | San Jose, CA | <a href="https://careers.tiktok.com/position/7390487764133234994/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Mobile Software Engineer Intern - Video on Demand | San Jose, CA | <a href="https://careers.tiktok.com/position/7391925058660305162/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |

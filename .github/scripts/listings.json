@@ -3550,5 +3550,22 @@
         "date_posted": 1721194302,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721194355,
+        "url": "https://boards.eu.greenhouse.io/imc/jobs/4347767101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "a6663428-06b4-420e-b471-62c439982e56",
+        "date_posted": 1721194355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
