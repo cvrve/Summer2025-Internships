@@ -3693,5 +3693,22 @@
         "date_posted": 1721255487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721271163,
+        "url": "https://careers.tiktok.com/position/7390530196414613811/detail",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Mobile Software Engineer Intern - User Relation",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "78da1fc5-554e-4762-9c5e-516d50ce5925",
+        "date_posted": 1721271163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
