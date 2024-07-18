@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wells Fargo | Software Engineering Intern 🛂 | <details><summary>**8 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Phoenix, AZ</br>Summit, NJ</br>Irving, TX</br>Addison. TX</br>Minneapolis, MN</br>Saint Louis, MO</details> | <a href="https://www.wellsfargojobs.com/en/jobs/r-385829/2025-technology-summer-internship-early-careers-software-or-data-engineer/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Akuna Capital | Software Engineer Intern - C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6080090"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Software Engineer Intern - Data Engineering | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6069872"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Software Engineer Intern - Python | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6037985"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
