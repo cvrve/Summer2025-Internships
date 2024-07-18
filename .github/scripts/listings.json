@@ -3710,5 +3710,22 @@
         "date_posted": 1721271163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721272161,
+        "url": "https://careers.tiktok.com/position/7391930642331830578/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Machine Learning Engineer Intern - AI Innovation Center - PHD",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "22725e8b-007b-40e0-9c8c-fcff7fe99c68",
+        "date_posted": 1721272161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
