@@ -3744,5 +3744,22 @@
         "date_posted": 1721446562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721518319,
+        "url": "https://careers.tiktok.com/position/7391920167514638643/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Research Scientist Intern - AI Innovation Center - PHD",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "9fc13c7e-add1-4864-aaa6-ea49f4ce05b9",
+        "date_posted": 1721518319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
