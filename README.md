@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Databento | Software Engineer Intern | Remote | <a href="https://boards.greenhouse.io/databento/jobs/4374815"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
 | Wells Fargo | Software Engineering Intern 🛂 | <details><summary>**8 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Phoenix, AZ</br>Summit, NJ</br>Irving, TX</br>Addison. TX</br>Minneapolis, MN</br>Saint Louis, MO</details> | <a href="https://www.wellsfargojobs.com/en/jobs/r-385829/2025-technology-summer-internship-early-careers-software-or-data-engineer/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | Tiktok | Mobile Software Engineer Intern - User Relation | Los Angeles, CA | <a href="https://careers.tiktok.com/position/7390530196414613811/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
 | ↳ | Machine Learning Engineer Intern - AI Innovation Center - PHD 🛂 | San Jose, CA | <a href="https://careers.tiktok.com/position/7391930642331830578/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 17 |
