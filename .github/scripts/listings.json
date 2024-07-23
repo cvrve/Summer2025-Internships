@@ -3779,5 +3779,22 @@
         "date_posted": 1721778491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721778623,
+        "url": "https://www.ixl.com/company/careers?gh_jid=7535493002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "IXL",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "srimathivadivel",
+        "id": "314e144a-ed5b-4961-b24c-b6cc138b1845",
+        "date_posted": 1721778623,
+        "company_url": "",
+        "is_visible": true
     }
 ]
