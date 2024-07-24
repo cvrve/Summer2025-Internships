@@ -3796,5 +3796,22 @@
         "date_posted": 1721778623,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721843306,
+        "url": "https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d",
+        "locations": [
+            "Austin, Texas"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quantiq Partners",
+        "title": "Software Developer Internship",
+        "season": "Summer",
+        "source": "importgabriel",
+        "id": "18edd614-4e11-4e42-8a1d-28f7be17fdad",
+        "date_posted": 1721843306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
