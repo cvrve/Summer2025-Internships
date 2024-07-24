@@ -3813,5 +3813,22 @@
         "date_posted": 1721843306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721843386,
+        "url": "https://www.governmentjobs.com/careers/gwinnett/jobs/4429316/intern-full-stack-software-development-public-safety",
+        "locations": [
+            "Lawrenceville, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gwinnett County Government",
+        "title": "Full Stack Software Development Intern",
+        "season": "Fall",
+        "source": "importgabriel",
+        "id": "c0785063-c93d-48a0-8b27-61029864ae22",
+        "date_posted": 1721843386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
