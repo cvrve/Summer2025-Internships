@@ -1524,26 +1524,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1719430972,
-        "url": "https://jobs.us.pwc.com/job/-/-/932/66835864048",
-        "locations": [
-            "Dallas, TX",
-            "Tampa, FL",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "company_name": "PwC",
-        "title": "Start Internship - Products & Technology",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "1ff419fc-9156-4105-8a9e-7342e0aab5c3",
-        "date_posted": 1719430972,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1719433177,
         "url": "https://www.3ds.com/careers/jobs/internship-pipeline-pilot-539798",
         "locations": [
@@ -1591,23 +1571,6 @@
         "source": "vanshb03",
         "id": "fc918f81-663f-49b5-9e4e-da5a73286d02",
         "date_posted": 1719451906,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1719452927,
-        "url": "https://www.tesla.com/careers/search/job/internship-product-security-engineer-vehicle-software-fall-2024-222452",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Product Security Engineer Intern, Vehicle Software",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "be358b70-7317-4990-a9ef-36d7d1b2815f",
-        "date_posted": 1719452927,
         "company_url": "",
         "is_visible": true
     },
@@ -1763,43 +1726,6 @@
         "source": "vanshb03",
         "id": "16f082c3-ebd1-42b4-b20f-012c1c376ca5",
         "date_posted": 1719517925,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1719518215,
-        "url": "https://www.tesla.com/careers/search/job/internship-electrical-computer-engineer-vehicle-hardware-fall-2024-217801",
-        "locations": [
-            "Palo Alto, CA",
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Electrical & Computer Engineer Intern, Vehicle Hardware",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "cd18f051-9460-43af-b524-5bf289cea683",
-        "date_posted": 1719518215,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1719531217,
-        "url": "https://www.tesla.com/careers/search/job/internship-firmware-engineer-energy-engineering-fall-2024-217795",
-        "locations": [
-            "Palo Alto, CA",
-            "Fremont, CA",
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Firmware Engineer Intern, Energy Engineering",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "52988093-fece-4673-9235-6da5a736046a",
-        "date_posted": 1719531217,
         "company_url": "",
         "is_visible": true
     },
@@ -3833,7 +3759,7 @@
     },
     {
         "date_updated": 1721843688,
-        "url": "https://jobs.paycomcareers.com/jobs/job-detail/?id=df8d8f15-4851-44b2-ba5f-380d3bdecea5",
+        "url": "https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=233574&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526",
         "locations": [
             "Oklahoma City, OK"
         ],
