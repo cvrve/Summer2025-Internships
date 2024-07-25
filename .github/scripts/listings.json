@@ -3841,5 +3841,22 @@
         "date_posted": 1721917429,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721917795,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2025-_R862",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CCI",
+        "title": "GenAI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aa7addec-a055-4f58-8957-59e0a2f5f5ba",
+        "date_posted": 1721917795,
+        "company_url": "",
+        "is_visible": true
     }
 ]
