@@ -3807,5 +3807,22 @@
         "date_posted": 1721915419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721917144,
+        "url": "https://www.amazon.jobs/en/jobs/2705684/software-development-engineer-intern?cmpid=DA_INAD200785B",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "597cb7ca-2b04-414d-8533-27b61a546138",
+        "date_posted": 1721917144,
+        "company_url": "",
+        "is_visible": true
     }
 ]

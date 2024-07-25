@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Sotera Health | Database Developer Intern | Oak Brook, IL | <a href="https://eftx.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1007/job/12625"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
+| Amazon | Software Development Engineer Intern | Boston, MA | <a href="https://www.amazon.jobs/en/jobs/2705684/software-development-engineer-intern?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Gwinnett County Government | Full Stack Software Development Intern 🛂 | Lawrenceville, GA | <a href="https://www.governmentjobs.com/careers/gwinnett/jobs/4429316/intern-full-stack-software-development-public-safety"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Tesla | Software Engineer Intern, AI Tooling | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-ai-tooling-fall-2024-221971"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Reinforcement Learning Engineer Intern, Tesla Bot | Palo Alto, California | <a href="https://www.tesla.com/careers/search/job/223250"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
