@@ -1575,23 +1575,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1719452927,
-        "url": "https://www.tesla.com/careers/search/job/internship-product-security-engineer-vehicle-software-fall-2024-222452",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Product Security Engineer Intern, Vehicle Software",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "be358b70-7317-4990-a9ef-36d7d1b2815f",
-        "date_posted": 1719452927,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1719453409,
         "url": "https://jobs.mayoclinic.org/job/-/-/33647/66813768592",
         "locations": [
@@ -1743,43 +1726,6 @@
         "source": "vanshb03",
         "id": "16f082c3-ebd1-42b4-b20f-012c1c376ca5",
         "date_posted": 1719517925,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1719518215,
-        "url": "https://www.tesla.com/careers/search/job/internship-electrical-computer-engineer-vehicle-hardware-fall-2024-217801",
-        "locations": [
-            "Palo Alto, CA",
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Electrical & Computer Engineer Intern, Vehicle Hardware",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "cd18f051-9460-43af-b524-5bf289cea683",
-        "date_posted": 1719518215,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1719531217,
-        "url": "https://www.tesla.com/careers/search/job/internship-firmware-engineer-energy-engineering-fall-2024-217795",
-        "locations": [
-            "Palo Alto, CA",
-            "Fremont, CA",
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Firmware Engineer Intern, Energy Engineering",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "52988093-fece-4673-9235-6da5a736046a",
-        "date_posted": 1719531217,
         "company_url": "",
         "is_visible": true
     },
