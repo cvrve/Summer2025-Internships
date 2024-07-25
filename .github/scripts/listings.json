@@ -3790,5 +3790,22 @@
         "date_posted": 1721843857,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721915419,
+        "url": "https://eftx.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1007/job/12625",
+        "locations": [
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sotera Health",
+        "title": "Database Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f7024fe0-ea1e-43cd-bd73-039e148d35dc",
+        "date_posted": 1721915419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
