@@ -3824,5 +3824,22 @@
         "date_posted": 1721917144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721917429,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2025-_R855",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CCI",
+        "title": "Data Science Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5c3fd0d9-df81-4fa3-bf8b-62e3da943e6b",
+        "date_posted": 1721917429,
+        "company_url": "",
+        "is_visible": true
     }
 ]
