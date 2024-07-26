@@ -3858,5 +3858,23 @@
         "date_posted": 1721917795,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1721972774,
+        "url": "https://wellfound.com/jobs?job_listing_id=3068181",
+        "locations": [
+            "New York City",
+            "San Francisco"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Cole-Hartman",
+        "id": "0f8548d1-71f9-4fbd-a579-69db83ba8500",
+        "date_posted": 1721972774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
