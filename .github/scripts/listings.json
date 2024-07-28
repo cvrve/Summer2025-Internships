@@ -3894,5 +3894,22 @@
         "date_posted": 1721972929,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722125237,
+        "url": "https://www.amazon.jobs/en/jobs/2713490/software-dev-engineer-intern-fall?cmpid=DA_INAD200785B",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "597e690a-f572-4cfc-8ab3-e2962f850246",
+        "date_posted": 1722125237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
