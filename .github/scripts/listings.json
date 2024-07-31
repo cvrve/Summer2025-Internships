@@ -126,7 +126,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Chicago Trading Company",
         "title": "Quant Trading Analyst Intern",
         "source": "sample-resume",
@@ -2045,7 +2045,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "J. P. Morgan",
         "title": "Quantitative Analyst Intern (MS, PHD)",
         "season": "Summer",
