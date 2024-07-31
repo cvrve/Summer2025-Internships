@@ -4014,5 +4014,22 @@
         "date_posted": 1722407360,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722407548,
+        "url": "https://careers.intuitive.com/en/jobs/744000003494761/JOB8770/systems-analyst-research-intern/?rx_campaign=indeed0&rx_ch=jobp4p&rx_group=132957&rx_job=JOB8770&rx_medium=cpc&rx_r=none&rx_source=Indeed&rx_ts=20240731T040006Z&rx_vp=cpc&src=JB-10580&utm_medium=ppc",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive Surgical",
+        "title": "Systems Analyst Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "99d75e13-6b89-4dda-b296-04a1ba771ac1",
+        "date_posted": 1722407548,
+        "company_url": "",
+        "is_visible": true
     }
 ]
