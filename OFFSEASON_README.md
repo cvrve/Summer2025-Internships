@@ -171,21 +171,9 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | San Francisco</br>NYC | <a href="https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | 1Password | Developer Intern - Confidential Computing | Remote | <a href="https://jobs.lever.co/1password/aeafe9f7-de22-40f0-9a0a-550fd4707f81"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
-| Oracle | Software Intern 🛂 | United States | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/247422"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
-| Noah Medical | System Software Engineer Intern | San Carlos, CA | <a href="https://boards.greenhouse.io/noahmedical/jobs/4061117008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
-| Uber | Scientist Intern -- PhD | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/132543/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | MathWorks | Engineering Development Group Internship | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
-| Palantir | Various (Semester at Palantir, Internship) 🛂 | New York, NY, US | <a href="https://jobs.lever.co/palantir/0adba6bd-d4b0-4fc2-9014-315f0f0b72b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 22 |
-| SiriusXM | Network Engineering Intern | New York, NY | <a href="https://careers.siriusxm.com/careers/jobs/15803?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
-| ↳ | Network & Regulatory Engineering | Lawrenceville, NJ | <a href="https://careers.siriusxm.com/careers/jobs/15799?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 21 |
-| ↳ | Mobile Software Engineer Intern | Oakland, CA</br>New York, NY</br>Atlanta, GA | <a href="https://careers.siriusxm.com/careers/jobs/15793?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 20 |
-| Blue Origin | Software Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Undergraduate_R44510"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 20 |
-| ↳ | Software Engineering Intern – Graduate | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2025-Software-Engineering-Intern---Graduate_R44503?source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 19 |
-| BMW of North America | Augmented Reality Engineer Intern | Mountain View, CA | <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.240000JR.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 18 |
 | The Boring Company | Software Engineering Intern | Bastrop, TX | <a href="https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
-| Ramp | Software Engineer Internship | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
-| NVIDIA | Software Engineer Intern | Santa Clara, CA</br>Remote | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Generalist-Embodied-Agents-Research---Fall-2024_JR1983654"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Moog | Software Engineering Intern | <details><summary>**5 locations**</summary>Elma, NY</br>Torrance, CA</br>Arvada, CO</br>Gilbert, AZ</br>Goleta, CA</details> | <a href="https://careers.moog.com/jobs/fall-2024-software-engineering-internship-13191"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Five Rings | Quantitative Research Analyst | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009257008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
@@ -193,7 +181,19 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | Jacobs | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
+| Oracle | Software Intern 🛂 | United States | 🔒 | Jun 24 |
+| Noah Medical | System Software Engineer Intern | San Carlos, CA | 🔒 | Jun 24 |
 | Celonis | Machine Learning Engineer Intern | New York, NY | 🔒 | Jun 24 |
+| Uber | Scientist Intern -- PhD | San Francisco, CA | 🔒 | Jun 24 |
+| Palantir | Various (Semester at Palantir, Internship) 🛂 | New York, NY, US | 🔒 | Jun 22 |
+| SiriusXM | Network Engineering Intern | New York, NY | 🔒 | Jun 21 |
+| ↳ | Network & Regulatory Engineering | Lawrenceville, NJ | 🔒 | Jun 21 |
+| ↳ | Mobile Software Engineer Intern | Oakland, CA</br>New York, NY</br>Atlanta, GA | 🔒 | Jun 20 |
+| Blue Origin | Software Engineering Intern | Seattle, WA</br>Space Coast, FL | 🔒 | Jun 20 |
+| ↳ | Software Engineering Intern – Graduate | Seattle, WA</br>Space Coast, FL | 🔒 | Jun 19 |
+| BMW of North America | Augmented Reality Engineer Intern | Mountain View, CA | 🔒 | Jun 18 |
+| Ramp | Software Engineer Internship | New York, NY | 🔒 | Jun 16 |
+| NVIDIA | Software Engineer Intern | Santa Clara, CA</br>Remote | 🔒 | Jun 13 |
 | Snowflake | Software Engineer Intern (Core/Database Engineering) | Bellevue, WA | 🔒 | Jun 13 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
