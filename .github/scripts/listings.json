@@ -634,7 +634,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -740,7 +740,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ramp",
         "title": "Software Engineer Internship",
         "season": "Fall",
@@ -954,7 +954,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BMW of North America",
         "title": "Augmented Reality Engineer Intern",
         "season": "Fall",
@@ -1067,7 +1067,7 @@
             "Space Coast, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Software Engineering Intern \u2013 Graduate",
         "season": "Spring",
@@ -1085,7 +1085,7 @@
             "Space Coast, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Software Engineering Intern",
         "season": "Spring",
@@ -1104,7 +1104,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SiriusXM",
         "title": "Mobile Software Engineer Intern",
         "season": "Fall",
@@ -1121,7 +1121,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SiriusXM",
         "title": "Network Engineering Intern",
         "season": "Fall",
@@ -1138,7 +1138,7 @@
             "Lawrenceville, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SiriusXM",
         "title": "Network & Regulatory Engineering",
         "season": "Fall",
@@ -1155,7 +1155,7 @@
             "New York, NY, US"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Various (Semester at Palantir, Internship)",
         "season": "Fall",
@@ -1360,7 +1360,7 @@
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Oracle",
         "title": "Software Intern",
         "season": "Fall",
@@ -1377,7 +1377,7 @@
             "San Carlos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Noah Medical",
         "title": "System Software Engineer Intern",
         "season": "Fall",
@@ -1411,7 +1411,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber",
         "title": "Scientist Intern -- PhD",
         "season": "Fall",
@@ -2803,7 +2803,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Caterpillar",
         "title": "Corporate Intern, Digital and Analytics",
         "season": "Summer",
@@ -3696,7 +3696,7 @@
             "Baltimore, MD"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "T. Rowe Price",
         "title": "Software Engineering Intern",
         "season": "Summer",
