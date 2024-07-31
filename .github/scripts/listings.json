@@ -4031,5 +4031,22 @@
         "date_posted": 1722407548,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722437221,
+        "url": "https://jobs.volvogroup.com/job/Shippensburg-Co-Op-Software-%28Spring-2025%29-PA-17257/987746555/?feedId=361555",
+        "locations": [
+            "Shippensburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo",
+        "title": "Software Co-Op",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "b7796f98-9e0a-4f88-a0ef-3df18f41c342",
+        "date_posted": 1722437221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
