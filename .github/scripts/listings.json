@@ -3963,5 +3963,22 @@
         "date_posted": 1722406280,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722406440,
+        "url": "https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=SOF000001&tz=GMT-05%3A00&tzname=America%2FChicago",
+        "locations": [
+            "Belmont, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Volkswagen Group of America",
+        "title": "Software Platforms Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c5082afa-88f1-4be1-8ccc-1ef5589429c4",
+        "date_posted": 1722406440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
