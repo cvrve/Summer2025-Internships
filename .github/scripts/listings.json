@@ -4160,5 +4160,22 @@
         "date_posted": 1722438749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722438932,
+        "url": "https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SAP",
+        "title": "FinOps AI Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4b2973cb-b5db-40a6-aa4e-6ae835985096",
+        "date_posted": 1722438932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
