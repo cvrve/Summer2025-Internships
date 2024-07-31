@@ -1838,7 +1838,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Engineer Intern - Fullstack",
         "season": "Fall",
@@ -2147,7 +2147,7 @@
             "Dedham, Massachusetts"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Extreme Reach",
         "title": "Software Development Intern",
         "season": "Fall",
@@ -2426,7 +2426,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Achronix Semiconductor",
         "title": "FPGA Software Engineer Intern",
         "season": "Fall",
