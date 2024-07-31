@@ -3929,5 +3929,22 @@
         "date_posted": 1722347624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722401111,
+        "url": "https://jobs.newyorklife.com/job/New-York-2025-Technology-Summer-Internship-Program-Technology-Engineer-NY-10001/1191700600/",
+        "locations": [
+            "New York City"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "New York Life Insurance",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "JhaoZ",
+        "id": "ecbc8a54-6bf1-4e8d-8913-720151cc2107",
+        "date_posted": 1722401111,
+        "company_url": "",
+        "is_visible": true
     }
 ]
