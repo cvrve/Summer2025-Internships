@@ -4048,5 +4048,22 @@
         "date_posted": 1722437221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722437319,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48957",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Android Platform Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3c2b3029-cfd4-40f8-9667-5cb27b4a1dc4",
+        "date_posted": 1722437319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
