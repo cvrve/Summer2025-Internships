@@ -4177,5 +4177,22 @@
         "date_posted": 1722438932,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722439110,
+        "url": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDHbufwJ&",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiMa Technologies",
+        "title": "Computer Vision Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6e4ad197-5368-45a4-8daf-7643001e332a",
+        "date_posted": 1722439110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
