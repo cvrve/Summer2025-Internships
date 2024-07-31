@@ -1326,7 +1326,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern - Confidential Computing",
         "season": "Fall",
@@ -1428,7 +1428,7 @@
             "Cedar Park, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Firefly Aerospace",
         "title": "Guidance, Navigation, and Control Intern",
         "season": "Fall",
@@ -1462,7 +1462,7 @@
             "Cambridge, ONT, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "Firmware Engineering Intern",
         "season": "Fall",
@@ -1479,7 +1479,7 @@
             "Weston, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "UKG",
         "title": "Data Science Intern",
         "season": "Fall",
@@ -1632,7 +1632,7 @@
             "North Reading, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Teradyne",
         "title": "Software Engineering Co-op",
         "season": "Fall",
