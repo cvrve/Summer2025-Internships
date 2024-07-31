@@ -3946,5 +3946,22 @@
         "date_posted": 1722401111,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722406280,
+        "url": "https://job-boards.greenhouse.io/incubator/jobs/6146186?gh_src=750b53cb1us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maestro AI",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "808a7ec4-ff96-4787-a646-b80047337ed4",
+        "date_posted": 1722406280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
