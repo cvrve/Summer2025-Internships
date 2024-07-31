@@ -4065,5 +4065,22 @@
         "date_posted": 1722437319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722437451,
+        "url": "https://careers.leidos.com/jobs/14731384-simulation-development-intern?tm_job=R-00140517&tm_event=view&tm_company=2502",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Simulation Development Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "da0f17d5-033c-4147-a72b-8fe6408e4e9b",
+        "date_posted": 1722437451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
