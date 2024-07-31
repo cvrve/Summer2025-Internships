@@ -4143,5 +4143,22 @@
         "date_posted": 1722438131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722438749,
+        "url": "https://jobs.mayoclinic.org/job/-/-/33647/68125088352",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mayo Clinic",
+        "title": "Data Science AI&I Intern - PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d747f594-318f-4a7d-a97e-1acf8b6f72e3",
+        "date_posted": 1722438749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
