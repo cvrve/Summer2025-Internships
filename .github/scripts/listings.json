@@ -4106,5 +4106,22 @@
         "date_posted": 1722437734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722437965,
+        "url": "https://vwgoa.taleo.net/careersection/volkswagen_group_of_america/jobdetail.ftl?job=PER000001&tz=GMT-05%3A00&tzname=America%2FChicago",
+        "locations": [
+            "Belmont, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Volkswagen Group of America",
+        "title": "Machine Learning Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "97930472-3c64-4c08-9c8a-a9004b45fb60",
+        "date_posted": 1722437965,
+        "company_url": "",
+        "is_visible": true
     }
 ]
