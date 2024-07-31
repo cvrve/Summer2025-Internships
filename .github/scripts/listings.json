@@ -3501,7 +3501,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tiktok",
         "title": "Software Engineer Intern - Effect House",
         "season": "Summer",
@@ -3509,7 +3509,7 @@
         "id": "81cfde13-8515-4191-a9c6-5b739464d8c6",
         "date_posted": 1721194449,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1721194574,
@@ -3860,7 +3860,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1721972774,
+        "date_updated": 1722406440,
         "url": "https://app.ripplematch.com/v2/public/company/notion",
         "locations": [
             "New York City",
@@ -3873,7 +3873,7 @@
         "season": "Summer",
         "source": "Cole-Hartman",
         "id": "0f8548d1-71f9-4fbd-a579-69db83ba8500",
-        "date_posted": 1721972774,
+        "date_posted": 1722406440,
         "company_url": "",
         "is_visible": true
     },
