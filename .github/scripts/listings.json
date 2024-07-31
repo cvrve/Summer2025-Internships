@@ -4194,5 +4194,22 @@
         "date_posted": 1722439110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722439165,
+        "url": "https://jobs.intel.com/job/-/-/599/65551930432",
+        "locations": [
+            "Hudson, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "System Architect and Design Engineer Intern - PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "16f5b5ad-8a75-4324-ac85-0fd95ac0de14",
+        "date_posted": 1722439165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
