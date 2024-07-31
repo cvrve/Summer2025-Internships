@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Virtu Financial | Software Developer Intern | New York, NY</br>Austin, TX | <a href="https://job-boards.greenhouse.io/virtu/jobs/7520504002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
+| New York Life Insurance | Technology Intern | New York City | <a href="https://jobs.newyorklife.com/job/New-York-2025-Technology-Summer-Internship-Program-Technology-Engineer-NY-10001/1191700600/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | CCI | Data Science Machine Learning Intern | Stamford, CT | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2025-_R855"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | ↳ | GenAI Intern | Houston, TX | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2025-_R862"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Notion | Software Engineer Intern 🛂 | New York City</br>San Francisco | <a href="https://wellfound.com/jobs?job_listing_id=3068181"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
