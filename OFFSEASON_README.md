@@ -139,10 +139,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | RedBlock | AI Engineer Intern | San Ramon, CA | <a href="https://www.linkedin.com/jobs/view/3962902480"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
-| Achronix Semiconductor | FPGA Software Engineer Intern | Santa Clara, CA | <a href="https://boards.greenhouse.io/achronixsemiconductor/jobs/4011616006?gh_src=3eb88b566us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
-| Extreme Reach | Software Development Intern | Dedham, Massachusetts | <a href="https://apply.workable.com/extremereach/j/536FB23BC3/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
-| Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Engineer-Intern---Fullstack--Fall-2024-_23WD72858-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
-| ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | Toyota Research Institute | Machine Learning Intern | Los Altos, CA | <a href="https://jobs.lever.co/tri/77937b4e-1cff-4757-a6f5-58444059de89"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Volvo | AI Engineer Intern | Greensboro, NC | <a href="https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
@@ -173,6 +169,10 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Trader | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4008995008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| Achronix Semiconductor | FPGA Software Engineer Intern | Santa Clara, CA | 🔒 | Jul 02 |
+| Extreme Reach | Software Development Intern | Dedham, Massachusetts | 🔒 | Jul 01 |
+| Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | 🔒 | Jun 29 |
+| ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
 | Teradyne | Software Engineering Co-op | North Reading, MA | 🔒 | Jun 26 |
 | Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | 🔒 | Jun 25 |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | 🔒 | Jun 25 |
