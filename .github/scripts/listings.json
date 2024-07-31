@@ -3764,7 +3764,7 @@
             "Oklahoma City, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Software",
         "title": "Software Analyst Intern",
         "season": "Summer",
@@ -3861,7 +3861,7 @@
     },
     {
         "date_updated": 1721972774,
-        "url": "https://wellfound.com/jobs?job_listing_id=3068181",
+        "url": "https://app.ripplematch.com/v2/public/company/notion",
         "locations": [
             "New York City",
             "San Francisco"
