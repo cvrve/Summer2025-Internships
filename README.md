@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Notion | Software Engineer Intern 🛂 | New York City</br>San Francisco | <a href="https://app.ripplematch.com/v2/public/company/notion"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | Virtu Financial | Software Developer Intern | New York, NY</br>Austin, TX | <a href="https://job-boards.greenhouse.io/virtu/jobs/7520504002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | New York Life Insurance | Technology Intern | New York City | <a href="https://jobs.newyorklife.com/job/New-York-2025-Technology-Summer-Internship-Program-Technology-Engineer-NY-10001/1191700600/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | TikTok | Machine Learning Engineer Intern | San Jose, CA | <a href="https://careers.tiktok.com/position/7397250703767193882/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
@@ -81,10 +82,9 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Mobile Software Engineer Intern - Video on Demand | San Jose, CA | <a href="https://careers.tiktok.com/position/7391925058660305162/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Mobile Software Engineer Intern - Multimedia Client | San Jose, CA | <a href="https://careers.tiktok.com/position/7391921273113266441/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Backend Software Engineer Intern - Server Architecture | San Jose, CA | <a href="https://careers.tiktok.com/position/7391922935051733275/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
-| ↳ | Software Engineer Intern - Effect House | San Jose, CA | <a href="https://careers.tiktok.com/position/7392099728617523507/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
+| ↳ | Software Engineer Intern - Effect House | San Jose, CA | 🔒 | Jul 16 |
 | CCI | Data Science Machine Learning Intern | Stamford, CT | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2025-_R855"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | ↳ | GenAI Intern | Houston, TX | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2025-_R862"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
-| Notion | Software Engineer Intern 🛂 | New York City</br>San Francisco | <a href="https://app.ripplematch.com/v2/public/company/notion"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Quantiq Partners | Software Developer Internship | Austin, Texas | <a href="https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | T. Rowe Price | Software Engineering Intern 🛂 | Owings Mills, MD</br>Baltimore, MD | <a href="https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2025-Global-Technology---Software-Engineering-Internship-Program_72424"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | IXL | Software Engineering Intern 🛂 | San Mateo, CA | <a href="https://www.ixl.com/company/careers?gh_jid=7535493002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
