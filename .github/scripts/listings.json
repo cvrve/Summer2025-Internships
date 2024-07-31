@@ -3980,5 +3980,22 @@
         "date_posted": 1722406440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722407060,
+        "url": "https://careers.tiktok.com/position/7397250703767193882/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f233397f-6c61-4055-8717-8d01c6842d4b",
+        "date_posted": 1722407060,
+        "company_url": "",
+        "is_visible": true
     }
 ]
