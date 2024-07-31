@@ -158,19 +158,13 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Mayo Clinic | Data Science AI&I Intern -- PhD | Jacksonville, FL | <a href="https://jobs.mayoclinic.org/job/-/-/33647/66813768592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | ↳ | Computational Pathology and AI Intern | Rochester, MN | <a href="https://jobs.mayoclinic.org/job/rochester/intern-computational-pathology-and-ai/33647/66631297840"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Chef Robotics | AI Research Intern -- PhD | San Francisco, CA | <a href="https://jobs.lever.co/ChefRobotics/ecabcdf0-d626-42d3-afc8-6d5c4d0dda95"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| Teradyne | Software Engineering Co-op | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Co-op-Fall-2024-MA/1121911600/?feedId=320000"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | <a href="https://firefly.hrmdirect.com/employment/view.php?req=3051541&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
 | GTRI | Software Developer Student Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.gtri.gatech.edu/cw/en-us/job/499770/software-developer-student-intern-fall-2024-asl"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
-| Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R24-4123-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
-| UKG | Data Science Intern | Weston, FL | <a href="https://careers.ukg.com/careers/JobDetail/Data-Science-Intern-Fall-2024/50365"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
 | Dolby | Video Coding Research Intern -- PhD | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23554200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457033&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457032&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | Rippling | Front End Software Engineer Intern | New York, NY, US</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/71e1b000-0b80-40ce-b707-53d546e93295"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Machine Learning Software Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software Engineering Intern | San Francisco</br>NYC | <a href="https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
-| 1Password | Developer Intern - Confidential Computing | Remote | <a href="https://jobs.lever.co/1password/aeafe9f7-de22-40f0-9a0a-550fd4707f81"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
-| ↳ | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
 | MathWorks | Engineering Development Group Internship | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | The Boring Company | Software Engineering Intern | Bastrop, TX | <a href="https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
@@ -179,8 +173,14 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Trader | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4008995008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| Teradyne | Software Engineering Co-op | North Reading, MA | 🔒 | Jun 26 |
+| Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | 🔒 | Jun 25 |
+| Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | 🔒 | Jun 25 |
+| UKG | Data Science Intern | Weston, FL | 🔒 | Jun 25 |
 | Jacobs | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
+| 1Password | Developer Intern - Confidential Computing | Remote | 🔒 | Jun 24 |
+| ↳ | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
 | Oracle | Software Intern 🛂 | United States | 🔒 | Jun 24 |
 | Noah Medical | System Software Engineer Intern | San Carlos, CA | 🔒 | Jun 24 |
 | Celonis | Machine Learning Engineer Intern | New York, NY | 🔒 | Jun 24 |
