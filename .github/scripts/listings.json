@@ -4123,5 +4123,25 @@
         "date_posted": 1722437965,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722438131,
+        "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Intern-Analytics-Business-Summer-2025/190513",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Minneapolis, MI",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Deloitte",
+        "title": "Risk & Financial Advisory Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cec3a31e-7cd7-431e-a60e-0dc7209fb59d",
+        "date_posted": 1722438131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
