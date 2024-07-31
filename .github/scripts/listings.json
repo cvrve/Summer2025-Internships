@@ -4082,5 +4082,29 @@
         "date_posted": 1722437451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722437734,
+        "url": "https://jobs.jnj.com/en/jobs/2406199309w/technology-intern-2025-summer-jjt-intern/",
+        "locations": [
+            "Raritan, NJ",
+            "New Brunswick, NJ",
+            "Cambridge, MA",
+            "Jacksonville, FL",
+            "Titusville, NJ",
+            "Spring House, PA",
+            "Bridgewater, NJ",
+            "Palm Beach Gardens, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae94d95c-850a-4a7f-9df1-ed00df778f4e",
+        "date_posted": 1722437734,
+        "company_url": "",
+        "is_visible": true
     }
 ]
