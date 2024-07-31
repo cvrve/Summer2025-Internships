@@ -3997,5 +3997,22 @@
         "date_posted": 1722407060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722407360,
+        "url": "https://jobs.bytedance.com/en/position/7397429810932779314/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e0f0cb1d-e405-4bc1-9dfb-108fc466db3c",
+        "date_posted": 1722407360,
+        "company_url": "",
+        "is_visible": true
     }
 ]
