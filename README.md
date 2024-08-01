@@ -25,16 +25,19 @@ The torch has been passed. Use this repo to share and keep track of software, te
 ---
 
 <div align="center">
-	<h3>🔍 Want to discover career path insights effortlessly  🔍</h3>
 	<p>
-			Focus on on the core of what LinkedIn was meant to be: a place to share your career journey with others.
-			<br>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b style="color: #0073e6; font-size: 1.2em;">Looking for other internship applicants?</b>
+				<br style="color: #0073e6; font-size: 1.2em;">
+				Connect with fellow peers and enhance your internship applications!
+				<br>
 			<div>
-  			<a href="https://pipelines.lol?ref=summer25repo">
-            <img src="https://pipelines.lol/pipelines.png" width="100" alt="Pipelines Logo">
+				<a href="https://discord.gg/ouckah-lair-519640186167099402">
+          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Simplify">
         </a>
-	<h3>⬆️ Click above! ⬆️</h3>
 			</div>
+		</a>
+		<sub><i>Join the Discord to connect with fellow peers and streamline your internship search.</i></sub>
 	</p>
 </div>
 
