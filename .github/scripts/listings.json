@@ -4191,5 +4191,22 @@
         "date_posted": 1722471768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722473033,
+        "url": "https://careers.tiktok.com/position/7397543716653091109/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Video Algorithm Engineer Intern",
+        "season": "Summer",
+        "source": "LouisCubero",
+        "id": "33b2bca4-443a-4eb7-9a7c-ea4771088ff4",
+        "date_posted": 1722473033,
+        "company_url": "",
+        "is_visible": true
     }
 ]
