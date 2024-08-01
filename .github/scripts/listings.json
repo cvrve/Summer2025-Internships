@@ -4312,5 +4312,22 @@
         "date_posted": 1722489237,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722489425,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000003629105",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineer Co-Op",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "466394bf-6ca8-47d6-8cdb-baddd6d97cb6",
+        "date_posted": 1722489425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
