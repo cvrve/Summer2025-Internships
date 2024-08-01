@@ -4259,5 +4259,22 @@
         "date_posted": 1722481307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722486006,
+        "url": "https://jobs.jobvite.com/confluent/job/oUUaufwc",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1560250c-1335-45f1-ae6b-a47a3d421cec",
+        "date_posted": 1722486006,
+        "company_url": "",
+        "is_visible": true
     }
 ]
