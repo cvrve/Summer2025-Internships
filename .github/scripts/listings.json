@@ -4225,5 +4225,22 @@
         "date_posted": 1722473764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722475468,
+        "url": "https://careers.tiktok.com/position/7397558722890844466/detail?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Front-End Software Engineer Intern",
+        "season": "Fall",
+        "source": "LouisCubero",
+        "id": "6de2f50c-f090-4d97-8cf7-c225f654fc81",
+        "date_posted": 1722475468,
+        "company_url": "",
+        "is_visible": true
     }
 ]
