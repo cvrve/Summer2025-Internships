@@ -4294,5 +4294,23 @@
         "date_posted": 1722489170,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722489237,
+        "url": "https://app.ripplematch.com/v2/public/job/d716f5ce/details",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "22e4f11d-1b77-4fe2-a200-a937fafb8792",
+        "date_posted": 1722489237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
