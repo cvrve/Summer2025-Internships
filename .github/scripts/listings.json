@@ -3410,23 +3410,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1721193739,
-        "url": "https://careers.tiktok.com/position/7390487764133234994/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tiktok",
-        "title": "Software Engineer Intern - Anti Automated Solutions",
-        "season": "Summer",
-        "source": "beakae",
-        "id": "f676636a-0472-4962-a83c-1e36e7049da4",
-        "date_posted": 1721193739,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1721193787,
         "url": "https://careers.tiktok.com/position/7391925058660305162/detail",
         "locations": [
@@ -3440,40 +3423,6 @@
         "source": "beakae",
         "id": "4a97e0e2-d6f9-417d-a630-1ba0a84d94be",
         "date_posted": 1721193787,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721193932,
-        "url": "https://careers.tiktok.com/position/7391921273113266441/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tiktok",
-        "title": "Mobile Software Engineer Intern - Multimedia Client",
-        "season": "Summer",
-        "source": "beakae",
-        "id": "ec033bb4-a06e-471d-a1ea-e7eb2a222618",
-        "date_posted": 1721193932,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721194302,
-        "url": "https://careers.tiktok.com/position/7391922935051733275/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tiktok",
-        "title": "Backend Software Engineer Intern - Server Architecture",
-        "season": "Summer",
-        "source": "beakae",
-        "id": "4b85d332-49f4-4b9f-8408-5dc90164d165",
-        "date_posted": 1721194302,
         "company_url": "",
         "is_visible": true
     },
@@ -3493,23 +3442,6 @@
         "date_posted": 1721194355,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1721194449,
-        "url": "https://careers.tiktok.com/position/7392099728617523507/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "company_name": "Tiktok",
-        "title": "Software Engineer Intern - Effect House",
-        "season": "Summer",
-        "source": "beakae",
-        "id": "81cfde13-8515-4191-a9c6-5b739464d8c6",
-        "date_posted": 1721194449,
-        "company_url": "",
-        "is_visible": false
     },
     {
         "date_updated": 1721194574,
