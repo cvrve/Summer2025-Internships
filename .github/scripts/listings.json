@@ -4208,5 +4208,22 @@
         "date_posted": 1722473033,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722473764,
+        "url": "https://jobs.dayforcehcm.com/en-US/copart/CANDIDATEPORTAL/jobs/35754",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "DevOps Intern",
+        "season": "Fall",
+        "source": "LouisCubero",
+        "id": "b7e52992-cdbb-471a-916f-7617046f9d6f",
+        "date_posted": 1722473764,
+        "company_url": "",
+        "is_visible": true
     }
 ]

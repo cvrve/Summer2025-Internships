@@ -88,6 +88,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Intel | System Architect and Design Engineer Intern - PhD | Hudson, MA | <a href="https://jobs.intel.com/job/-/-/599/65551930432"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Software Development Intern | Hillsboro, OR | <a href="https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Computer Engineering Intern - Masters/PhD | Albuquerque, NM | 🔒 | Jul 14 |
+| Copart | DevOps Intern | Dallas, TX | <a href="https://jobs.dayforcehcm.com/en-US/copart/CANDIDATEPORTAL/jobs/35754"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Maestro AI | Software Engineering Intern | Seattle, WA | <a href="https://job-boards.greenhouse.io/incubator/jobs/6146186?gh_src=750b53cb1us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | Amazon | Software Dev Engineer Intern | Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2713490/software-dev-engineer-intern-fall?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | Software Development Engineer Intern | Boston, MA | <a href="https://www.amazon.jobs/en/jobs/2705684/software-development-engineer-intern?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
