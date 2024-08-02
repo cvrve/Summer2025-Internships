@@ -4448,5 +4448,22 @@
         "date_posted": 1722579678,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722579751,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069545008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Researcher Intern - PhD",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6af6fde3-cb32-44ad-8681-b1fa469310b1",
+        "date_posted": 1722579751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
