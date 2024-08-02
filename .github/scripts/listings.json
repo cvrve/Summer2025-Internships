@@ -4550,5 +4550,22 @@
         "date_posted": 1722609341,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722609364,
+        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7501415002?gh_src=6df8b42e2us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marshall Wace",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "b013b777-e32f-4f7e-8fb5-e9a7b2303b74",
+        "date_posted": 1722609364,
+        "company_url": "",
+        "is_visible": true
     }
 ]
