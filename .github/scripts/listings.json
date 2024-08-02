@@ -4669,5 +4669,22 @@
         "date_posted": 1722612423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722612524,
+        "url": "https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4564c259-3219-4440-8189-89951b84ef66",
+        "date_posted": 1722612524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
