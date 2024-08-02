@@ -4499,5 +4499,22 @@
         "date_posted": 1722580426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722582685,
+        "url": "https://careers.tiktok.com/position/7397910481962862886/detail?spread=5MWH5CQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "QA Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5fbc8ef6-b83b-4e62-ba5b-60ab1c720653",
+        "date_posted": 1722582685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
