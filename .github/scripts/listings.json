@@ -4329,5 +4329,22 @@
         "date_posted": 1722489425,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722574285,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_161463-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "College to Corporate IT Internship - Application Development",
+        "season": "Summer",
+        "source": "jerhe3",
+        "id": "1ef3f805-04af-4ad1-b6c7-9ab3a05f70e5",
+        "date_posted": 1722574285,
+        "company_url": "",
+        "is_visible": true
     }
 ]
