@@ -81,6 +81,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
+| Dell | Software Engineer - Platform Engineering Intern | Remote | <a href="https://jobs.dell.com/en/job/georgia/fall-intern-software-engineer-platform-engineering-us-remote/375/61565474608"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Volvo | Software Co-Op | Shippensburg, PA | <a href="https://jobs.volvogroup.com/job/Shippensburg-Co-Op-Software-%28Spring-2025%29-PA-17257/987746555/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | AI Engineer Intern | Greensboro, NC | <a href="https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |

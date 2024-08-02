@@ -4448,5 +4448,22 @@
         "date_posted": 1722576812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722577487,
+        "url": "https://jobs.dell.com/en/job/georgia/fall-intern-software-engineer-platform-engineering-us-remote/375/61565474608",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell",
+        "title": "Software Engineer - Platform Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "786a6920-4bfd-44b4-a928-e255884cd7aa",
+        "date_posted": 1722577487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
