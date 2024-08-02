@@ -4397,5 +4397,22 @@
         "date_posted": 1722576353,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722576451,
+        "url": "https://sra.samsung.com/careers/detail/?id=7576053002&type=intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research",
+        "title": "Speech Research Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "784eba93-b326-4a2b-b32d-d633cc6f6fdf",
+        "date_posted": 1722576451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
