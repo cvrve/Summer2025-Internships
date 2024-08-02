@@ -4584,5 +4584,22 @@
         "date_posted": 1722609380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722609419,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2025_R48956?q=intern",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Android Platform Software Engineering Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "30f0c601-66fd-4cb0-b5dd-06c6fa7ee9f2",
+        "date_posted": 1722609419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
