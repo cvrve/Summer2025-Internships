@@ -4380,5 +4380,22 @@
         "date_posted": 1722575988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722576353,
+        "url": "https://sra.samsung.com/careers/detail/?id=7576058002&type=intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research",
+        "title": "DevOps Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "93a33aa6-7109-45cc-8ded-0bafa6cebc68",
+        "date_posted": 1722576353,
+        "company_url": "",
+        "is_visible": true
     }
 ]
