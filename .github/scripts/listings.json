@@ -4567,5 +4567,22 @@
         "date_posted": 1722609364,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722609380,
+        "url": "https://codeium.com/careers/940148d2-14b0-41ff-979e-36a95af038b9",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Codeium",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "a71f1231-b826-430f-b21b-52e3c1124b10",
+        "date_posted": 1722609380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
