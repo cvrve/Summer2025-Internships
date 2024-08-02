@@ -72,6 +72,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Aeva | Software Engineer Intern | Mountain View, CA | <a href="https://jobs.lever.co/aeva/3ed472ef-da21-41c7-b2bc-876d60270671"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
+| Samsung Research | DevOps Engineer Intern | Mountain View, CA | <a href="https://sra.samsung.com/careers/detail/?id=7576058002&type=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
+| ↳ | Computer Vision Intern - Masters/PhD | Mountain View, CA | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/7499143002?gh_src=9cc1d3cd2us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Volvo | Software Co-Op | Shippensburg, PA | <a href="https://jobs.volvogroup.com/job/Shippensburg-Co-Op-Software-%28Spring-2025%29-PA-17257/987746555/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | AI Engineer Intern | Greensboro, NC | <a href="https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineer-%28Fall-2024%29-NC-27409/983438355/?feedId=361555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | ↳ | Software Engineer Intern | Greensboro, NC | 🔒 | Jun 17 |
@@ -151,7 +153,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
 | Toyota Research Institute | Machine Learning Intern | Los Altos, CA | <a href="https://jobs.lever.co/tri/77937b4e-1cff-4757-a6f5-58444059de89"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
-| Samsung Research | Computer Vision Intern - Masters/PhD | Mountain View, CA | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/7499143002?gh_src=9cc1d3cd2us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Phillips | Software Test Engineer Co-op 🛂 | Cambridge, MA | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Co-op--Software-Test-Engineer---Cambridge--MA_530642"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
 | Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
