@@ -4465,5 +4465,22 @@
         "date_posted": 1722577487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722577749,
+        "url": "https://careers.leidos.com/jobs/14741786-junior-software-engineer-intern?tm_job=R-00140738&tm_event=view&tm_company=2502",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4b9a5723-bdbf-4351-a7f0-a0250bc58e16",
+        "date_posted": 1722577749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
