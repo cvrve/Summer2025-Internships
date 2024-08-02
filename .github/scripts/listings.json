@@ -4363,5 +4363,22 @@
         "date_posted": 1722575396,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722575988,
+        "url": "https://jobs.lever.co/aeva/3ed472ef-da21-41c7-b2bc-876d60270671",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aeva",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4ee5910d-5f20-436a-9dc3-f7c6cc635ae1",
+        "date_posted": 1722575988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
