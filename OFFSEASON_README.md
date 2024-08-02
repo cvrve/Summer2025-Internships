@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Codeium | Software Engineer Intern | Mountain View, CA | <a href="https://codeium.com/careers/940148d2-14b0-41ff-979e-36a95af038b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | Aeva | Software Engineer Intern | Mountain View, CA | <a href="https://jobs.lever.co/aeva/3ed472ef-da21-41c7-b2bc-876d60270671"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Samsung Research | DevOps Engineer Intern | Mountain View, CA | <a href="https://sra.samsung.com/careers/detail/?id=7576058002&type=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | ↳ | Speech Research Intern - Masters/PhD | Mountain View, CA | <a href="https://sra.samsung.com/careers/detail/?id=7576053002&type=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
