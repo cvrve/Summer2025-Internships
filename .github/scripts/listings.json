@@ -4704,5 +4704,22 @@
         "date_posted": 1722638225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722638434,
+        "url": "https://jobs.bytedance.com/en/position/7397524632138631433/detail?spread=BSPP2KS",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bytedance",
+        "title": "Front End Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1c6ecbcf-30f3-40f4-b3e7-53a7de49290f",
+        "date_posted": 1722638434,
+        "company_url": "",
+        "is_visible": true
     }
 ]
