@@ -4346,5 +4346,22 @@
         "date_posted": 1722574285,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722575396,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2025-Technology---Data--Software-Engineering-Internship-Program_R-118126",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prudential",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "867a77cf-472f-4dea-8d95-63357d4b4d39",
+        "date_posted": 1722575396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
