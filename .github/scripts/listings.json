@@ -4431,5 +4431,22 @@
         "date_posted": 1722576580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722579678,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069548008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bcf65031-f1ba-48f1-a9f9-5e18fcaf49d4",
+        "date_posted": 1722579678,
+        "company_url": "",
+        "is_visible": true
     }
 ]
