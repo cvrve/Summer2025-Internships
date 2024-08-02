@@ -4353,7 +4353,7 @@
         "locations": [
             "Newark, NJ"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Prudential",
         "title": "Software Engineering Intern",
@@ -4429,57 +4429,6 @@
         "source": "vanshb03",
         "id": "f495ac66-7913-4464-943f-6e641c4ce1bc",
         "date_posted": 1722576580,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1722576812,
-        "url": "https://jobs.sap.com/job/San-Ramon-SAP-iXp-Intern-iOS-Developer-CA-94583/1103830901/?feedId=118200",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "SAP",
-        "title": "SAP iXp Intern - iOS",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "ec6ba663-acc0-4573-b6d7-582793abf3f9",
-        "date_posted": 1722576812,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1722577487,
-        "url": "https://jobs.dell.com/en/job/georgia/fall-intern-software-engineer-platform-engineering-us-remote/375/61565474608",
-        "locations": [
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Dell",
-        "title": "Software Engineer - Platform Engineering Intern",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "786a6920-4bfd-44b4-a928-e255884cd7aa",
-        "date_posted": 1722577487,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1722577749,
-        "url": "https://careers.leidos.com/jobs/14741786-junior-software-engineer-intern?tm_job=R-00140738&tm_event=view&tm_company=2502",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "Leidos",
-        "title": "Junior Software Engineer Intern",
-        "season": "Fall",
-        "source": "vanshb03",
-        "id": "4b9a5723-bdbf-4351-a7f0-a0250bc58e16",
-        "date_posted": 1722577749,
         "company_url": "",
         "is_visible": true
     }
