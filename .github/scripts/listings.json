@@ -4414,5 +4414,22 @@
         "date_posted": 1722576451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722576580,
+        "url": "https://sra.samsung.com/careers/detail/?id=7499143002&type=intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research",
+        "title": "Computer Vision Intern - Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f495ac66-7913-4464-943f-6e641c4ce1bc",
+        "date_posted": 1722576580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
