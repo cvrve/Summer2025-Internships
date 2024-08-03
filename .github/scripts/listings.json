@@ -4721,5 +4721,22 @@
         "date_posted": 1722638434,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722707400,
+        "url": "https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "iXp Intern - AI Development",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d05dee50-0dab-43af-af38-c16429e37aa3",
+        "date_posted": 1722707400,
+        "company_url": "",
+        "is_visible": true
     }
 ]

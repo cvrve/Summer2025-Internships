@@ -71,6 +71,11 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SAP | iXp Intern - AI Development | San Francisco, CA | <a href="https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| ↳ | FinOps AI Developer Intern 🇺🇸 | Herndon, VA | <a href="https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
+| ↳ | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
+| ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
 | Codeium | Software Engineer Intern | Mountain View, CA | <a href="https://codeium.com/careers/940148d2-14b0-41ff-979e-36a95af038b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | Aeva | Software Engineer Intern | Mountain View, CA | <a href="https://jobs.lever.co/aeva/3ed472ef-da21-41c7-b2bc-876d60270671"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Samsung Research | DevOps Engineer Intern | Mountain View, CA | <a href="https://sra.samsung.com/careers/detail/?id=7576058002&type=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
@@ -86,10 +91,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Mayo Clinic | Data Science AI&I Intern - PhD | Rochester, MN | <a href="https://jobs.mayoclinic.org/job/-/-/33647/68125088352"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Data Science AI&I Intern -- PhD | Jacksonville, FL | <a href="https://jobs.mayoclinic.org/job/-/-/33647/66813768592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | ↳ | Computational Pathology and AI Intern | Rochester, MN | <a href="https://jobs.mayoclinic.org/job/rochester/intern-computational-pathology-and-ai/33647/66631297840"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| SAP | FinOps AI Developer Intern 🇺🇸 | Herndon, VA | <a href="https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
-| ↳ | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
-| ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
-| ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
 | SiMa Technologies | Computer Vision Intern | San Jose, CA | <a href="https://app.jobvite.com/CompanyJobs/Job.aspx?j=oDHbufwJ&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Intel | System Architect and Design Engineer Intern - PhD | Hudson, MA | <a href="https://jobs.intel.com/job/-/-/599/65551930432"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Software Development Intern | Hillsboro, OR | <a href="https://jobs.intel.com/en/job/-/-/599/66869441312?source=LinkedIn"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
