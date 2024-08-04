@@ -4817,5 +4817,22 @@
         "date_posted": 1722798435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722798628,
+        "url": "https://careers-origamirisk.icims.com/jobs/3345/software-engineering-intern/job",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Origami Risk",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e80262c-9a45-4b2e-88d7-30e16ac843bb",
+        "date_posted": 1722798628,
+        "company_url": "",
+        "is_visible": true
     }
 ]
