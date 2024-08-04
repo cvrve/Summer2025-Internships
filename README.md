@@ -74,6 +74,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ForeFlight | Software Engineer Intern | Austin, TX | <a href="https://recruiting2.ultipro.com/FOR1029FREF/JobBoard/96ee3e38-47f2-48cc-95d1-5eef02c27844/OpportunityDetail?opportunityId=947c1c49-546e-460f-bf50-34268467f457&postingId=bbadde5c-967a-4a53-8ca4-f62eedc39a2c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Tiktok | QA Engineer Intern | San Jose, CA | <a href="https://careers.tiktok.com/position/7397910481962862886/detail?spread=5MWH5CQ"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | ↳ | Video Algorithm Engineer Intern | San Jose, CA | <a href="https://careers.tiktok.com/position/7397543716653091109/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Machine Learning Engineer Intern | San Jose, CA | <a href="https://careers.tiktok.com/position/7397250703767193882/detail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
