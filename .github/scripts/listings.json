@@ -4796,5 +4796,26 @@
         "date_posted": 1722797078,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722798435,
+        "url": "https://www.wellsfargojobs.com/en/jobs/r-387245/2025-analytics-and-data-summer-internship-early-careers/",
+        "locations": [
+            "Charlotte, NC",
+            "Chandler, AZ",
+            "Dallas, TX",
+            "Minneapolis, MN",
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Wells Fargo",
+        "title": "Analytics and Data Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e51eaf96-f12d-4d2a-83cb-cb8f588ca043",
+        "date_posted": 1722798435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
