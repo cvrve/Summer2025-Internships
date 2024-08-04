@@ -4755,5 +4755,29 @@
         "date_posted": 1722796640,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722796866,
+        "url": "https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Dallas Metro, TX",
+            "Denver, CO",
+            "New York, NY",
+            "Pennington, NJ",
+            "Richmond, VA",
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Global Technology Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c60d9085-4caa-4a33-a11a-2504c68c424c",
+        "date_posted": 1722796866,
+        "company_url": "",
+        "is_visible": true
     }
 ]
