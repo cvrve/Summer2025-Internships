@@ -4779,5 +4779,22 @@
         "date_posted": 1722796866,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722797078,
+        "url": "https://us241.dayforcehcm.com/CandidatePortal/en-US/cnx/Site/CNXCANDIDATEPORTAL/Posting/View/1262",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNX",
+        "title": "Software Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cbbe4775-c72a-4f70-a8b6-4aeeb646394e",
+        "date_posted": 1722797078,
+        "company_url": "",
+        "is_visible": true
     }
 ]
