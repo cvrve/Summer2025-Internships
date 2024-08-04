@@ -4689,12 +4689,12 @@
     },
     {
         "date_updated": 1722638225,
-        "url": "https://www.pepsicojobs.com/main/jobs/315338?",
+        "url": "https://www.pepsicojobs.com/main/jobs/315338?lang=en-us&previousLocale=en-US",
         "locations": [
             "Purchase, NY",
             "Plano, TX"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Pepsi Co.",
         "title": "Software Development & Engineering Intern",
