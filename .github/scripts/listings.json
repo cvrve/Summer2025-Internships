@@ -4999,5 +4999,22 @@
         "date_posted": 1722892899,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722893175,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Investment-Processes-Intern--Summer-2025_R1119",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ArrowStreet Capital",
+        "title": "Investment Processes Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cb3c20fe-1f9d-46f9-8d5e-6fda04f453d1",
+        "date_posted": 1722893175,
+        "company_url": "",
+        "is_visible": true
     }
 ]
