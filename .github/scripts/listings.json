@@ -4982,5 +4982,22 @@
         "date_posted": 1722890157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722892899,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ArrowStreet Capital",
+        "title": "Quantitative Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "db638685-0c67-481a-8d00-5411c1e1811e",
+        "date_posted": 1722892899,
+        "company_url": "",
+        "is_visible": true
     }
 ]
