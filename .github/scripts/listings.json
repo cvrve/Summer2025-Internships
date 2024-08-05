@@ -4912,5 +4912,24 @@
         "date_posted": 1722872076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722873734,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2025_R189727-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX",
+            "Richmond, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Technology Internship Program",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de70964c-bf7d-412e-a84d-6dd41bb627f9",
+        "date_posted": 1722873734,
+        "company_url": "",
+        "is_visible": true
     }
 ]
