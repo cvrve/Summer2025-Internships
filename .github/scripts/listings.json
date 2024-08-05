@@ -4965,5 +4965,22 @@
         "date_posted": 1722890128,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722890157,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6865687002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "47200bc2-5067-451a-a080-728d2a660b3c",
+        "date_posted": 1722890157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
