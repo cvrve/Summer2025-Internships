@@ -5016,5 +5016,27 @@
         "date_posted": 1722893175,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722893455,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/68378296656",
+        "locations": [
+            "Atlanta, GA",
+            "Chicago, IL",
+            "Detroit, MI",
+            "New York, NY",
+            "San Francisco, CA",
+            "Houston, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "PWC",
+        "title": "DAT Tech Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "16336360-0a78-46d3-96a1-d682593e8b59",
+        "date_posted": 1722893455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
