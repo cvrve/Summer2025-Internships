@@ -4869,5 +4869,25 @@
         "date_posted": 1722870497,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722871651,
+        "url": "https://bnymellon.eightfold.ai/careers/job/24237650",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "New York, NY",
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BNY Mellon",
+        "title": "Engineering Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bf399218-fbbd-4336-90b4-9c046b2a07ab",
+        "date_posted": 1722871651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
