@@ -4931,5 +4931,22 @@
         "date_posted": 1722873734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722890017,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866529002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a5183aca-24b7-4513-ac36-2ee486dab528",
+        "date_posted": 1722890017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
