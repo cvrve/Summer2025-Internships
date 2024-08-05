@@ -4851,5 +4851,23 @@
         "date_posted": 1722870255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722870497,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Cyber-Security-Internship-Program---Summer-2025_R189629-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7e2fcbde-44f2-4c0d-9b55-557dccc2f46e",
+        "date_posted": 1722870497,
+        "company_url": "",
+        "is_visible": true
     }
 ]
