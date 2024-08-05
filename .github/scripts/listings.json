@@ -4889,5 +4889,28 @@
         "date_posted": 1722871651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722872076,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2025_R189634-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
+        "locations": [
+            "McLean, VA",
+            "Cambridge, MA",
+            "Richmond, VA",
+            "Chicago, IL",
+            "Plano, TX",
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Data Science Intern - Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b65204d0-21a4-4575-b657-d965277d944a",
+        "date_posted": 1722872076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
