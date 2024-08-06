@@ -5079,5 +5079,22 @@
         "date_posted": 1722950343,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722950446,
+        "url": "https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10648/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ambarella",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c77ef902-acf9-4718-a84c-346436e5700d",
+        "date_posted": 1722950446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
