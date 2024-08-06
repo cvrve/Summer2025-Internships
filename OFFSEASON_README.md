@@ -71,13 +71,14 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Leonardo DRS | Embedded Software Engineer Intern 🇺🇸 | Bridgeton, MO | <a href="https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1199126700/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
-| CNX | Software Developer Intern | Canonsburg, PA | <a href="https://us241.dayforcehcm.com/CandidatePortal/en-US/cnx/Site/CNXCANDIDATEPORTAL/Posting/View/1262"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
-| SAP | iXp Intern - AI Development | San Francisco, CA | <a href="https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| SAP | Software/ML Engineer Intern | San Ramon, CA | <a href="https://jobs.sap.com/job/San-Ramon-SAP-iXp-CXII-Intern-SoftwareML-Engineer-CA-94583/1081937001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| ↳ | iXp Intern - AI Development | San Francisco, CA | <a href="https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | ↳ | FinOps AI Developer Intern 🇺🇸 | Herndon, VA | <a href="https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | SAP iXp Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Cloud-Identity-Access-Governance-Developer-CA-94304/1089145001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
+| Leonardo DRS | Embedded Software Engineer Intern 🇺🇸 | Bridgeton, MO | <a href="https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1199126700/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| CNX | Software Developer Intern | Canonsburg, PA | <a href="https://us241.dayforcehcm.com/CandidatePortal/en-US/cnx/Site/CNXCANDIDATEPORTAL/Posting/View/1262"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Codeium | Software Engineer Intern | Mountain View, CA | <a href="https://codeium.com/careers/940148d2-14b0-41ff-979e-36a95af038b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | Aeva | Software Engineer Intern | Mountain View, CA | <a href="https://jobs.lever.co/aeva/3ed472ef-da21-41c7-b2bc-876d60270671"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | Samsung Research | DevOps Engineer Intern | Mountain View, CA | <a href="https://sra.samsung.com/careers/detail/?id=7576058002&type=intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
