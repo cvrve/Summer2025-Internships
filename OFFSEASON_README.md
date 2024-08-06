@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Leonardo DRS | Embedded Software Engineer Intern 🇺🇸 | Bridgeton, MO | <a href="https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1199126700/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | CNX | Software Developer Intern | Canonsburg, PA | <a href="https://us241.dayforcehcm.com/CandidatePortal/en-US/cnx/Site/CNXCANDIDATEPORTAL/Posting/View/1262"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | SAP | iXp Intern - AI Development | San Francisco, CA | <a href="https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | ↳ | FinOps AI Developer Intern 🇺🇸 | Herndon, VA | <a href="https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
