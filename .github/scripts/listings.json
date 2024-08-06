@@ -5096,5 +5096,22 @@
         "date_posted": 1722950446,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722979081,
+        "url": "https://careers.roblox.com/jobs/6086765/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Ouckah",
+        "id": "e2fc545c-fb95-41d6-a21f-e356f69b1c89",
+        "date_posted": 1722979081,
+        "company_url": "",
+        "is_visible": true
     }
 ]
