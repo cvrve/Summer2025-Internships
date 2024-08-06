@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Science Intern | Vancouver, Canada | <a href="https://asana.com/jobs/apply/6151419"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | ↳ | Software Engineering Intern | Vancouver, Canada | <a href="https://asana.com/jobs/apply/6151401"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Palantir | Software Engineer Intern - Defense Tech 🇺🇸 | Washington, DC | <a href="https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| ↳ | Software Engineer Intern - Defense Tech 🇺🇸 | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | ↳ | Software Engineer Intern | New York, NY | <a href="https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Washington, DC | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0?Wash-DC"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Seattle, WA | <a href="https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |

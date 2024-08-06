@@ -5232,5 +5232,22 @@
         "date_posted": 1722981774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722981968,
+        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern - Defense Tech",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b3c36e0d-e69e-41fc-a625-80cd25080c4e",
+        "date_posted": 1722981968,
+        "company_url": "",
+        "is_visible": true
     }
 ]
