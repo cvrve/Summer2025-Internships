@@ -5147,5 +5147,22 @@
         "date_posted": 1722980685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722981346,
+        "url": "https://asana.com/jobs/apply/6151422",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cd287ff6-5090-4a21-92d8-cc97d5dfae05",
+        "date_posted": 1722981346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
