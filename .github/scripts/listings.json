@@ -5038,5 +5038,22 @@
         "date_posted": 1722893455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722908468,
+        "url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1199126700/",
+        "locations": [
+            "Bridgeton, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "55bf0d23-94e4-401d-9457-790012ade0aa",
+        "date_posted": 1722908468,
+        "company_url": "",
+        "is_visible": true
     }
 ]
