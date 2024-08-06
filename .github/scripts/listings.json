@@ -5055,5 +5055,29 @@
         "date_posted": 1722908468,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722950343,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2",
+        "locations": [
+            "Atlanta, GA",
+            "Dallas, TX",
+            "Burlington, MA",
+            "Seattle, WA",
+            "Boston, MA",
+            "San Francisco, CA",
+            "Bellevue, WA",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "06b1ace5-2c9b-4465-bfb1-b314632446bd",
+        "date_posted": 1722950343,
+        "company_url": "",
+        "is_visible": true
     }
 ]
