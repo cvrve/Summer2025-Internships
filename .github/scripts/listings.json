@@ -5198,5 +5198,22 @@
         "date_posted": 1722981601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722981667,
+        "url": "https://asana.com/jobs/apply/6151401",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ebe4b84-1f34-4d07-8e7a-b015a8ee6342",
+        "date_posted": 1722981667,
+        "company_url": "",
+        "is_visible": true
     }
 ]
