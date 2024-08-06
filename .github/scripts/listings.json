@@ -5181,5 +5181,22 @@
         "date_posted": 1722981523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1722981601,
+        "url": "https://asana.com/jobs/apply/6151419",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8eb81649-1e98-43be-8459-e61d23ce44c9",
+        "date_posted": 1722981601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
