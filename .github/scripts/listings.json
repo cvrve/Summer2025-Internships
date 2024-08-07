@@ -5340,5 +5340,23 @@
         "date_posted": 1723004720,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723006980,
+        "url": "https://app.eightfold.ai/careers/job?domain=mlp.com&pid=755938458240&domain=mlp.com&sort_by=relevance&microsite=campus-site&job_index=0",
+        "locations": [
+            "New York, NY",
+            "Miami, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e582e1a-b85f-49d8-b9f3-c5a1c3933b1e",
+        "date_posted": 1723006980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
