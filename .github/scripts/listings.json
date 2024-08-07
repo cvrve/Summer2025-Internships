@@ -5465,5 +5465,22 @@
         "date_posted": 1723061015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723072182,
+        "url": "https://jobs.ashbyhq.com/airwallex/ea995984-1069-405c-87b8-f69b823fb6aa",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airwallex",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e18517a4-402a-4661-9f71-39ed0cd007b4",
+        "date_posted": 1723072182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
