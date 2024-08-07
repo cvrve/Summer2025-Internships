@@ -5448,5 +5448,22 @@
         "date_posted": 1723041909,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723061015,
+        "url": "https://careers.clarivate.com/job/CLACLAGBJREQ128567EXTERNALENGB/Product-Management-Analyst-Futures-Business-Intern",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarivate",
+        "title": "Product Management Analyst",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f4191723-aeec-429d-a0ac-0204ee74860a",
+        "date_posted": 1723061015,
+        "company_url": "",
+        "is_visible": true
     }
 ]
