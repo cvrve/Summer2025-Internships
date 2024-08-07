@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | SAP iXp Intern | Newtown Square, PA | <a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Global-Industry-Community-Hub-Program-Newtown-Square%2C-PA-PA-19073/1086579801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software/ML Engineer Intern | San Ramon, CA | 🔒 | Jun 18 |
 | Pison | Software Engineer Intern | Boston, MA | <a href="https://jobs.lever.co/pison/17d1b96d-eee2-4825-9c4c-6acb95a550bd"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| SRC Inc | Software Engineer Intern | Syracuse, NY | <a href="https://jobs.jobvite.com/src-inc/job/o5fgufwO"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Leonardo DRS | Embedded Software Engineer Intern 🇺🇸 | Bridgeton, MO | <a href="https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1199126700/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | CNX | Software Developer Intern | Canonsburg, PA | <a href="https://us241.dayforcehcm.com/CandidatePortal/en-US/cnx/Site/CNXCANDIDATEPORTAL/Posting/View/1262"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Codeium | Software Engineer Intern | Mountain View, CA | <a href="https://codeium.com/careers/940148d2-14b0-41ff-979e-36a95af038b9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
