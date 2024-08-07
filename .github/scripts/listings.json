@@ -2392,7 +2392,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "Software Developer and Data Engineer Co-op",
         "season": "Fall",
@@ -2871,7 +2871,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Developer Co-Op/Intern",
         "season": "Fall",
