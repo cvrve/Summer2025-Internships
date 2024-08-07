@@ -133,10 +133,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Ansys | Software Development Intern | Canonsburg, PA | <a href="https://careers.ansys.com/job/Canonsburg-Spring-2025-Software-Development-Intern-Bachelors-PA-15317/1170758700"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Astranis | Flight Software Engineer Intern | San Francisco, CA | <a href="https://boards.greenhouse.io/astranis/jobs/4300139006?gh_src=602966e76us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Tencent | Video Standards & Encoding Optimization Intern | Palo Alto, CA | <a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Video-Standards---Encoding-Optimization-Intern_R103664"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
-| AMD | Software Developer Co-Op/Intern | San Jose, CA | <a href="https://campus-amd.icims.com/jobs/48633/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| ↳ | AI/ML Co-Op/Intern | Austin, TX | 🔒 | Jul 14 |
-| ↳ | Software Developer Co-Op/Intern | San Jose, CA | 🔒 | Jul 10 |
-| ↳ | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Siemens | Software Development R&D Intern | Costa Mesa, CA | <a href="https://jobs.sw.siemens.com/costa-mesa-ca/strategic-student-program-software-development-rd-intern-fall-2024/2F5F850EEB0746E3BEB047BE2025D486/job/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | System User Experience Intern 🛂 | Milford, OH | <a href="https://jobs.siemens.com/careers/job/563156119869882?microsite=siemens.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineering Intern/Co-Op 🛂 | Costa Mesa, CA | <a href="https://jobs.siemens.com/careers/job/563156119870253?microsite=siemens.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
@@ -155,10 +151,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Xos | System Engineering Intern | Los Angeles, CA | <a href="https://www.xostrucks.com/careers?gh_jid=5191704004&gh_src=c37b93264us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
-| Comcast | Software Developer and Data Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
-| ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 07 |
-| ↳ | Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 04 |
-| ↳ | AeGIS/Iris Software Development Co-op | Philadelphia, PA | 🔒 | Jul 04 |
 | Toyota Research Institute | Machine Learning Intern | Los Altos, CA | <a href="https://jobs.lever.co/tri/77937b4e-1cff-4757-a6f5-58444059de89"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6075232/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
@@ -181,12 +173,20 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Quantitative Researcher | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009039008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Quantitative Trader | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4008995008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| AMD | AI/ML Co-Op/Intern | Austin, TX | 🔒 | Jul 14 |
+| ↳ | Software Developer Co-Op/Intern | San Jose, CA | 🔒 | Jul 10 |
+| ↳ | Software Developer Co-Op/Intern | San Jose, CA | 🔒 | Jul 10 |
+| ↳ | Software Design Intern/Co-Op | Austin, TX | 🔒 | Jun 16 |
 | Bear Robotics | Software Engineer Intern | Redwood City, CA | 🔒 | Jul 14 |
 | Blue Yonder | Software Engineering Intern | Dallas, TX | 🔒 | Jul 14 |
 | Meta | Research Scientist Intern - PhD | Sunnyvale, CA</br>Redmond, WA | 🔒 | Jul 11 |
 | L3Harris Technologies | Embedded Software Engineering Intern 🇺🇸 | Salt Lake City, UT | 🔒 | Jul 11 |
 | Veranex | Software Engineer Intern | Orange, CA | 🔒 | Jul 11 |
 | Microchip | Software Engineer Intern | Chandler, AZ | 🔒 | Jul 09 |
+| Comcast | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 07 |
+| ↳ | Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 04 |
+| ↳ | AeGIS/Iris Software Development Co-op | Philadelphia, PA | 🔒 | Jul 04 |
+| ↳ | Software Developer and Data Engineer Co-op | Philadelphia, PA | 🔒 | Jul 02 |
 | Topgolf | Game Engineer Intern | Remote | 🔒 | Jul 04 |
 | RedBlock | AI Engineer Intern | San Ramon, CA | 🔒 | Jul 02 |
 | Achronix Semiconductor | FPGA Software Engineer Intern | Santa Clara, CA | 🔒 | Jul 02 |
