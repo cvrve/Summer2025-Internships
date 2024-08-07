@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Jacobs | Software Engineering Intern | Houston, TX | <a href="https://cmscareers.jacobs.com/job/20827437/fall-2024-software-engineering-intern-houston-tx/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
+| ↳ | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | SAP | Software/ML Engineer Intern | San Ramon, CA | <a href="https://jobs.sap.com/job/San-Ramon-SAP-iXp-CXII-Intern-SoftwareML-Engineer-CA-94583/1081937001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | ↳ | iXp Intern - AI Development | San Francisco, CA | <a href="https://jobs.sap.com/job/San-Francisco-SAP-iXp-Intern-AI-Development-CA-94107/1104309401/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | ↳ | FinOps AI Developer Intern 🇺🇸 | Herndon, VA | <a href="https://jobs.sap.com/job/Herndon-SAP-NS2-FinOps-AI-Developer-Intern-HybridHerndon-VA-VA-20171/1101317801/?feedId=118200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
@@ -200,7 +202,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | 🔒 | Jun 25 |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | 🔒 | Jun 25 |
 | UKG | Data Science Intern | Weston, FL | 🔒 | Jun 25 |
-| Jacobs | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
 | Toshiba Global Commerce Solutions | Software Engineer Intern | Durham, NC | 🔒 | Jun 24 |
 | 1Password | Developer Intern - Confidential Computing | Remote | 🔒 | Jun 24 |
 | ↳ | Developer Intern - Billing & Payments Growth | Canada</br>Remote | 🔒 | Jun 11 |
