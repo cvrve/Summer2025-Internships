@@ -5317,5 +5317,28 @@
         "date_posted": 1723004474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723004720,
+        "url": "https://eaton.eightfold.ai/careers/job/687218981672?domain=eaton.com",
+        "locations": [
+            "Raleigh, NC",
+            "Franksville, WI",
+            "Menomonee Falls, WI",
+            "Moon Township, PA",
+            "Peachtree City, GA",
+            "Torrance, CA",
+            "Southfield, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Embedded Systems Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ea71b97b-16ba-4b07-acd4-adcd72ddeb18",
+        "date_posted": 1723004720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
