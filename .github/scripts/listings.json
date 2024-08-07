@@ -1292,7 +1292,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rippling",
         "title": "Front End Software Engineer Intern",
         "season": "Spring",
@@ -1530,7 +1530,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Biovia",
         "title": "Pipeline Pilot Internship",
         "season": "Fall",
@@ -1668,7 +1668,7 @@
             "Folsom, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Iridium",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -1702,7 +1702,7 @@
             "Somerville, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Formlabs",
         "title": "Hardware Test Engineering Intern",
         "season": "Fall",
@@ -1821,7 +1821,7 @@
             "Cambridge, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Phillips",
         "title": "Software Test Engineer Co-op",
         "season": "Fall",
@@ -2358,7 +2358,7 @@
             "San Ramon, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RedBlock",
         "title": "AI Engineer Intern",
         "season": "Fall",
@@ -2580,7 +2580,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "Software Engineer Co-op",
         "season": "Fall",
@@ -2614,7 +2614,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Topgolf",
         "title": "Game Engineer Intern",
         "season": "Fall",
@@ -2665,7 +2665,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "AeGIS/Iris Software Development Co-op",
         "season": "Fall",
@@ -2699,7 +2699,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "Comcast Software Engineer Co-op",
         "season": "Fall",
