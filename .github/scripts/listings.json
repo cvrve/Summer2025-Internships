@@ -5392,5 +5392,27 @@
         "date_posted": 1723008054,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723008752,
+        "url": "https://eaton.eightfold.ai/careers/job/687218974969?domain=eaton.com",
+        "locations": [
+            "Raleigh, NC",
+            "Franksville, WI",
+            "Menomonee Falls, WI",
+            "Moon Township, PA",
+            "Peachtree City, GA",
+            "Southfield, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d4ec0e5d-9dc4-429d-9d23-9cd46ff076a1",
+        "date_posted": 1723008752,
+        "company_url": "",
+        "is_visible": true
     }
 ]
