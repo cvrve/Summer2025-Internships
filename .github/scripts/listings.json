@@ -5431,5 +5431,22 @@
         "date_posted": 1723041740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723041909,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/68428746112",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PwC",
+        "title": "Tax Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "014a4e9b-dbd5-4035-9077-65c618417ba4",
+        "date_posted": 1723041909,
+        "company_url": "",
+        "is_visible": true
     }
 ]
