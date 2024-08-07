@@ -5414,5 +5414,22 @@
         "date_posted": 1723008752,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723041740,
+        "url": "https://cmscareers.jacobs.com/job/20827437/fall-2024-software-engineering-intern-houston-tx/",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jacobs",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a6ea53f4-4ffe-4706-8d05-6d98075cd1f4",
+        "date_posted": 1723041740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
