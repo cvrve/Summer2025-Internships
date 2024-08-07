@@ -148,36 +148,31 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Delta | Research and Design Hardware Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25306"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | ↳ | Innovation and AI Engineering Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25315"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Kognitos | Software Engineer Intern | San Jose, CA | <a href="https://www.kognitos.com/careers/?ashby_jid=d63ef3cf-ea29-4259-af85-dd8def262215#apply-now"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
-| Comcast | Comcast Software Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Software-Engineer-Co-op_R390940"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
-| ↳ | Software Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R390254?workerSubType=285386867dd90195ab83a6087e0b8419"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
-| ↳ | AeGIS/Iris Software Development Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R390274"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
-| ↳ | Software Developer and Data Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Netflix | Machine Learning Intern - Masters/PhD | Los Gatos, CA</br>Los Angeles, CA | <a href="https://jobs.netflix.com/jobs/338884555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
-| Topgolf | Game Engineer Intern | Remote | <a href="https://careers.topgolf.com/us/en/job/TKFTEGUSJR20235845EXTERNALENUS/Game-Engineer-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Applied Materials | AI/ML Co-op | Gloucester, MA | <a href="https://careers.appliedmaterials.com/careers/job/790296371041"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Splunk | Applied Scientist Intern - PhD | Remote | <a href="https://www.splunk.com/en_us/careers/jobs/applied-scientist-intern-phd-30373.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Numerade | Data Scientist Intern | Remote | <a href="https://www.numerade.com/careers/?gh_jid=5221314004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Xos | System Engineering Intern | Los Angeles, CA | <a href="https://www.xostrucks.com/careers?gh_jid=5191704004&gh_src=c37b93264us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
-| RedBlock | AI Engineer Intern | San Ramon, CA | <a href="https://www.linkedin.com/jobs/view/3962902480"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Integration Developer Intern | Remote | 🔒 | Jun 17 |
+| Comcast | Software Developer and Data Engineer Co-op | Philadelphia, PA | <a href="https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Developer-and-Data-Engineer-Co-op_R390275"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| ↳ | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 07 |
+| ↳ | Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 04 |
+| ↳ | AeGIS/Iris Software Development Co-op | Philadelphia, PA | 🔒 | Jul 04 |
 | Toyota Research Institute | Machine Learning Intern | Los Altos, CA | <a href="https://jobs.lever.co/tri/77937b4e-1cff-4757-a6f5-58444059de89"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
-| Phillips | Software Test Engineer Co-op 🛂 | Cambridge, MA | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Co-op--Software-Test-Engineer---Cambridge--MA_530642"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 28 |
-| Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | <a href="https://careers-iridium.icims.com/jobs/3698/intern%2c-software-engineering/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
-| ↳ | Hardware Test Engineering Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5793114/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6075232/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
+| ↳ | Hardware Test Engineering Intern | Somerville, MA | 🔒 | Jun 27 |
 | Verkada | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4376295007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Mercedes-Benz R&D North America | Engineering Intern, eDrive Core Software | Farmington Hills, MI | <a href="https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| Biovia | Pipeline Pilot Internship | San Diego, CA | <a href="https://www.3ds.com/careers/jobs/internship-pipeline-pilot-539798"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Chef Robotics | AI Research Intern -- PhD | San Francisco, CA | <a href="https://jobs.lever.co/ChefRobotics/ecabcdf0-d626-42d3-afc8-6d5c4d0dda95"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | GTRI | Software Developer Student Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.gtri.gatech.edu/cw/en-us/job/499770/software-developer-student-intern-fall-2024-asl"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
 | Dolby | Video Coding Research Intern -- PhD | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23554200"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457033&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.dolby.com/careers/job?domain=dolby.com&pid=23457032&"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 17 |
-| Rippling | Front End Software Engineer Intern | New York, NY, US</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/71e1b000-0b80-40ce-b707-53d546e93295"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
-| ↳ | Machine Learning Software Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
+| Rippling | Machine Learning Software Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | ↳ | Software Engineering Intern | San Francisco</br>NYC | <a href="https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
+| ↳ | Front End Software Engineer Intern | New York, NY, US</br>San Francisco, CA | 🔒 | Jun 24 |
 | MathWorks | Engineering Development Group Internship | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 23 |
 | The Boring Company | Software Engineering Intern | Bastrop, TX | <a href="https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
@@ -192,10 +187,15 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | L3Harris Technologies | Embedded Software Engineering Intern 🇺🇸 | Salt Lake City, UT | 🔒 | Jul 11 |
 | Veranex | Software Engineer Intern | Orange, CA | 🔒 | Jul 11 |
 | Microchip | Software Engineer Intern | Chandler, AZ | 🔒 | Jul 09 |
+| Topgolf | Game Engineer Intern | Remote | 🔒 | Jul 04 |
+| RedBlock | AI Engineer Intern | San Ramon, CA | 🔒 | Jul 02 |
 | Achronix Semiconductor | FPGA Software Engineer Intern | Santa Clara, CA | 🔒 | Jul 02 |
 | Extreme Reach | Software Development Intern | Dedham, Massachusetts | 🔒 | Jul 01 |
 | Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | 🔒 | Jun 29 |
 | ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
+| Phillips | Software Test Engineer Co-op 🛂 | Cambridge, MA | 🔒 | Jun 28 |
+| Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | 🔒 | Jun 27 |
+| Biovia | Pipeline Pilot Internship | San Diego, CA | 🔒 | Jun 26 |
 | Teradyne | Software Engineering Co-op | North Reading, MA | 🔒 | Jun 26 |
 | Firefly Aerospace | Guidance, Navigation, and Control Intern | Cedar Park, TX | 🔒 | Jun 25 |
 | Rockwell Automation | Firmware Engineering Intern | Cambridge, ONT, Canada | 🔒 | Jun 25 |
