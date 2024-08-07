@@ -5358,5 +5358,22 @@
         "date_posted": 1723006980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723007894,
+        "url": "https://app.eightfold.ai/careers/job?domain=mlp.com&pid=755938458241&domain=mlp.com&sort_by=relevance&microsite=campus-site&location_distance_km=0&triggerGoButton=false&job_index=5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b3261388-7ce1-4c4a-ab90-859347ab8799",
+        "date_posted": 1723007894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
