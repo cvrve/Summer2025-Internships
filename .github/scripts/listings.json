@@ -3518,7 +3518,7 @@
             "Houston, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Axiom Space",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -3954,7 +3954,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuitive Surgical",
         "title": "Systems Analyst Research Intern",
         "season": "Summer",
@@ -4029,7 +4029,7 @@
             "Palm Beach Gardens, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Technology Intern",
         "season": "Summer",
@@ -4066,7 +4066,7 @@
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Deloitte",
         "title": "Risk & Financial Advisory Intern",
         "season": "Summer",
