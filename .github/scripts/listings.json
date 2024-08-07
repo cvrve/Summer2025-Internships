@@ -5375,5 +5375,22 @@
         "date_posted": 1723007894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723008054,
+        "url": "https://aexp.eightfold.ai/careers/job/24205300",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Product Management Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fceb3a1f-2575-4e39-8a3f-da8e911f209c",
+        "date_posted": 1723008054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
