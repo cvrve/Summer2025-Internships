@@ -5482,5 +5482,22 @@
         "date_posted": 1723072182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723170641,
+        "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R003072",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entrust",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "33793b47-3e8f-4f51-97e1-4c908544032b",
+        "date_posted": 1723170641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
