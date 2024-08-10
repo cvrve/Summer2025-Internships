@@ -5601,5 +5601,22 @@
         "date_posted": 1723302716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723303275,
+        "url": "https://careers.qualcomm.com/careers/job?domain=qualcomm.com&pid=446700989859&domain=qualcomm.com&sort_by=relevance&job_index=0",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Embedded Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d83a0894-6b0b-4fe6-a9ea-762a1566c4e6",
+        "date_posted": 1723303275,
+        "company_url": "",
+        "is_visible": true
     }
 ]
