@@ -76,6 +76,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Jump Trading | Web Dev/UI Software Engineer Intern | Chicago | <a href="https://boards.greenhouse.io/embed/job_app?token=6165570"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | ↳ | Quantitative Researcher Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=6142397"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
+| ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=6163189"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | PwC | Tax Technology Intern 🛂 | Los Angeles, CA | <a href="https://jobs.us.pwc.com/job/-/-/932/68428746112"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | DAT Tech Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Detroit, MI</br>New York, NY</br>San Francisco, CA</br>Houston, TX</details> | <a href="https://jobs.us.pwc.com/job/-/-/932/68378296656"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | Clarivate | Product Management Analyst | Alexandria, VA | <a href="https://careers.clarivate.com/job/CLACLAGBJREQ128567EXTERNALENGB/Product-Management-Analyst-Futures-Business-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
