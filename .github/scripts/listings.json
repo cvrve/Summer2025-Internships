@@ -5584,5 +5584,22 @@
         "date_posted": 1723302369,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723302716,
+        "url": "https://careers.qualcomm.com/careers/job/446700989850?domain=qualcomm.com",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3b3da4cd-6127-4ea3-9ad0-8935de7044a0",
+        "date_posted": 1723302716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
