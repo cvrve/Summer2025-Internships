@@ -5567,5 +5567,22 @@
         "date_posted": 1723301930,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723302369,
+        "url": "https://careers.cargill.com/en/job/-/-/23251/68562383440",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cargill",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "21fb3ef0-3a07-4fd3-bc06-88d18a535423",
+        "date_posted": 1723302369,
+        "company_url": "",
+        "is_visible": true
     }
 ]
