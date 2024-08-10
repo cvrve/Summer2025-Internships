@@ -5550,5 +5550,22 @@
         "date_posted": 1723301487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723301930,
+        "url": "https://www.amazon.jobs/en/jobs/2728680/software-dev-engineer-intern-machine-learning-chip-architect-annapurna?cmpid=SPLICX0248M",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09621761-1fc5-43a1-a8e7-043055794bdd",
+        "date_posted": 1723301930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
