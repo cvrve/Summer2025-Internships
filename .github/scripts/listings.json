@@ -4879,7 +4879,7 @@
             "New York, NY",
             "Jersey City, NJ"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "BNY Mellon",
         "title": "Engineering Internship",
@@ -5330,7 +5330,7 @@
             "Torrance, CA",
             "Southfield, MI"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Eaton",
         "title": "Embedded Systems Intern",
