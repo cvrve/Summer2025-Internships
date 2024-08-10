@@ -5499,5 +5499,22 @@
         "date_posted": 1723170641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723301295,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6165570",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Web Dev/UI Software Engineer Intern",
+        "season": "Summer",
+        "source": "ShreyashDhamane",
+        "id": "e5ce763d-3b9c-47ec-8d6d-0115948fe7ef",
+        "date_posted": 1723301295,
+        "company_url": "",
+        "is_visible": true
     }
 ]
