@@ -5516,5 +5516,22 @@
         "date_posted": 1723301295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723301439,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6142397",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Quantitative Researcher Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dd57f95f-cd03-4b41-bdcf-3e34d5807dfa",
+        "date_posted": 1723301439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
