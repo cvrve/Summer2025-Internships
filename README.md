@@ -74,6 +74,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Microsoft | Software Engineering Intern | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/us/en/job/1751922/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Jump Trading | Web Dev/UI Software Engineer Intern | Chicago | <a href="https://boards.greenhouse.io/embed/job_app?token=6165570"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | ↳ | Quantitative Researcher Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=6142397"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=6163189"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |

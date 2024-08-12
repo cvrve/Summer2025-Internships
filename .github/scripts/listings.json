@@ -5618,5 +5618,22 @@
         "date_posted": 1723303275,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723495065,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1751922/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-Redmond",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "748715bb-8609-4f8a-a86e-be9a364e2d28",
+        "date_posted": 1723495065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
