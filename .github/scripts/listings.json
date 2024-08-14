@@ -5730,5 +5730,22 @@
         "date_posted": 1723594380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723594902,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25672",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Enterprise Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f34d6e51-0066-4e2d-bbee-8c87e6b82c94",
+        "date_posted": 1723594902,
+        "company_url": "",
+        "is_visible": true
     }
 ]
