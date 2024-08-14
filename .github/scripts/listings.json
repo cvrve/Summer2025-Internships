@@ -5747,5 +5747,22 @@
         "date_posted": 1723594902,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723595042,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25671",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Reliability Architecture and Infrastructure Services Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d2f2d424-8371-44c0-90fb-09a7f01aaa04",
+        "date_posted": 1723595042,
+        "company_url": "",
+        "is_visible": true
     }
 ]
