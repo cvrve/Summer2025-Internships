@@ -5679,5 +5679,22 @@
         "date_posted": 1723593958,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723594184,
+        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Delivery-Engineering-Intern-Fall-2024/59586",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "Software Delivery Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2e0352c8-ab28-4b0e-be43-314500adfb1e",
+        "date_posted": 1723594184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
