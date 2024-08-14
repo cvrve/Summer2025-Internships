@@ -69,6 +69,10 @@ The torch has been passed. Use this repo to share and keep track of software, te
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Internship application is closed
 
+> For off-season internships, please see the [Off-Season README](./OFFSEASON_README.md).
+
+> For new-grad tech jobs, check out [New-Grad-Positions](https://github.com/cvrve/New-Grad).
+
 [⬇️ Jump to bottom ⬇️](https://github.com/Ouckah/Summer2025-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
