@@ -5764,5 +5764,23 @@
         "date_posted": 1723595042,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723595199,
+        "url": "https://careers.phillips66.com/job/Houston-2025-University-Intern-Information-Technology-TX-77042/1201805500/?feedId=401600&utm_campaign=customer_DEA&jobPipeline=Indeed",
+        "locations": [
+            "Houston, TX",
+            "Bartlesville, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phillips66",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "699e29c5-ef5c-4cd0-b5ec-3f66a57e8b94",
+        "date_posted": 1723595199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
