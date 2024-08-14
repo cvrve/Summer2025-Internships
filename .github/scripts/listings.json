@@ -1206,7 +1206,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alpha FMC",
         "title": "Technology Intern",
         "season": "Summer",
@@ -1223,7 +1223,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alpha FMC",
         "title": "Technology Intern",
         "season": "Summer",
@@ -5772,7 +5772,7 @@
             "Houston, TX",
             "Bartlesville, OK"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Phillips66",
         "title": "Information Technology Intern",
