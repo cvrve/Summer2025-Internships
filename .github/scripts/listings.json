@@ -5816,5 +5816,22 @@
         "date_posted": 1723668920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723673487,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-qa-engineer-vehicle-software-winter-spring-2025-225143",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "16c6d5bc-efb7-4ca3-a1c0-861258a4168f",
+        "date_posted": 1723673487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
