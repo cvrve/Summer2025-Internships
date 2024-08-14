@@ -5833,5 +5833,22 @@
         "date_posted": 1723673487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723675178,
+        "url": "https://join.sephora.com/careers/job/790298408779",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Data Scientist Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1c4338dd-56d5-4539-8c8a-b4a95939bb8c",
+        "date_posted": 1723675178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
