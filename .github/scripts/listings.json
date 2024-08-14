@@ -5799,5 +5799,22 @@
         "date_posted": 1723659306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723668920,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "alecishuman",
+        "id": "9445ec1b-e204-4510-8586-01b5b5947a31",
+        "date_posted": 1723668920,
+        "company_url": "",
+        "is_visible": true
     }
 ]
