@@ -5558,7 +5558,7 @@
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Dev Engineer Intern",
         "season": "Summer",
@@ -5592,7 +5592,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Software Engineering Intern",
         "season": "Summer",
