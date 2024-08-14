@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lenovo | Software Delivery Engineering Intern | Morrisville, NC | <a href="https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Delivery-Engineering-Intern-Fall-2024/59586"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Entrust | Software Engineering Intern | Sunrise, FL | <a href="https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R003072"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Jacobs | Software Engineering Intern | Houston, TX | <a href="https://cmscareers.jacobs.com/job/20827437/fall-2024-software-engineering-intern-houston-tx/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | Data Quality Machine Learning Intern | Huntsville, AL | 🔒 | Jun 25 |
