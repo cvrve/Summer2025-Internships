@@ -5816,5 +5816,144 @@
         "date_posted": 1723668920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723673487,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-qa-engineer-vehicle-software-winter-spring-2025-225143",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "16c6d5bc-efb7-4ca3-a1c0-861258a4168f",
+        "date_posted": 1723673487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723675178,
+        "url": "https://join.sephora.com/careers/job/790298408779",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Data Scientist Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1c4338dd-56d5-4539-8c8a-b4a95939bb8c",
+        "date_posted": 1723675178,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723681518,
+        "url": "https://jbhunt.wd5.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Engineering-and-Technology--Application-Development-Fall-Internship-2024_00558185",
+        "locations": [
+            "Lowell, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J.B. Hunt",
+        "title": "Application Development Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "5c475955-de24-470c-8574-2f443fa2ff31",
+        "date_posted": 1723681518,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723681685,
+        "url": "https://eyglobal.yello.co/jobs/zd6kNvC0YAgO6ejlQ5WE4w?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Atlanta, GA",
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EY",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2a5ce400-04dd-4b56-ba60-b9ac767caa11",
+        "date_posted": 1723681685,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723681977,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Macquarie",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2719bd50-21ee-4cae-9769-8d671e7c99bf",
+        "date_posted": 1723681977,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723682356,
+        "url": "https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Ohio/Beavercreek/R10167313/2025-college-technical-intern-beavercreek-oh?code=JB-17946&rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=288254&rx_job=R10167313",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "College Technical Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "949929b7-f5c2-4bc7-a1a2-d817c3d4e796",
+        "date_posted": 1723682356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723698738,
+        "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637156575391?hl=en",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ST",
+        "title": "Software Engineering Algorithm Intern",
+        "season": "Summer",
+        "source": "Sarthakischauhan",
+        "id": "22e1a4cc-dd84-4d4d-9924-f10116229f7d",
+        "date_posted": 1723698738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723698840,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4393829006",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Full-Stack Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ecddb6a-f7c8-45d3-9bfe-aef75ffca2ab",
+        "date_posted": 1723698840,
+        "company_url": "",
+        "is_visible": true
     }
 ]
