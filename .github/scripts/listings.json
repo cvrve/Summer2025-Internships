@@ -5867,5 +5867,25 @@
         "date_posted": 1723681518,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723681685,
+        "url": "https://eyglobal.yello.co/jobs/zd6kNvC0YAgO6ejlQ5WE4w?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Atlanta, GA",
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EY",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2a5ce400-04dd-4b56-ba60-b9ac767caa11",
+        "date_posted": 1723681685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
