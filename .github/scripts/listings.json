@@ -5850,5 +5850,22 @@
         "date_posted": 1723675178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723681518,
+        "url": "https://jbhunt.wd5.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Engineering-and-Technology--Application-Development-Fall-Internship-2024_00558185",
+        "locations": [
+            "Lowell, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J.B. Hunt",
+        "title": "Application Development Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "5c475955-de24-470c-8574-2f443fa2ff31",
+        "date_posted": 1723681518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
