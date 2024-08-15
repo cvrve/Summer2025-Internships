@@ -5887,5 +5887,22 @@
         "date_posted": 1723681685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723681977,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Macquarie",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2719bd50-21ee-4cae-9769-8d671e7c99bf",
+        "date_posted": 1723681977,
+        "company_url": "",
+        "is_visible": true
     }
 ]
