@@ -5938,5 +5938,22 @@
         "date_posted": 1723698738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723698840,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4393829006",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Full-Stack Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ecddb6a-f7c8-45d3-9bfe-aef75ffca2ab",
+        "date_posted": 1723698840,
+        "company_url": "",
+        "is_visible": true
     }
 ]
