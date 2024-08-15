@@ -5904,5 +5904,22 @@
         "date_posted": 1723681977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723682356,
+        "url": "https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/Ohio/Beavercreek/R10167313/2025-college-technical-intern-beavercreek-oh?code=JB-17946&rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=288254&rx_job=R10167313",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "College Technical Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "949929b7-f5c2-4bc7-a1a2-d817c3d4e796",
+        "date_posted": 1723682356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
