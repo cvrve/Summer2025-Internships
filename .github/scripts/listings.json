@@ -5921,5 +5921,22 @@
         "date_posted": 1723682356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723698738,
+        "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637156575391?hl=en",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ST",
+        "title": "Software Engineering Algorithm Intern",
+        "season": "Summer",
+        "source": "Sarthakischauhan",
+        "id": "22e1a4cc-dd84-4d4d-9924-f10116229f7d",
+        "date_posted": 1723698738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
