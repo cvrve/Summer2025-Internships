@@ -6167,5 +6167,22 @@
         "date_posted": 1723791169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723791426,
+        "url": "https://www.tesla.com/careers/search/job/internship-backend-engineer-ai-inference-winter-spring-2025-225219",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "00a27182-27ad-46ea-b643-27d57c54edfb",
+        "date_posted": 1723791426,
+        "company_url": "",
+        "is_visible": true
     }
 ]
