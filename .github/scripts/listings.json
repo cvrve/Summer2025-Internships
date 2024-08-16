@@ -6026,5 +6026,25 @@
         "date_posted": 1723790137,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790243,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer_JR263200-1",
+        "locations": [
+            "Bellevue, WA",
+            "Seattle, WA",
+            "Atlanta, GA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4cb673da-9dda-45dc-a678-5b2fd5346889",
+        "date_posted": 1723790243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
