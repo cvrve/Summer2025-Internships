@@ -6269,5 +6269,22 @@
         "date_posted": 1723791846,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723792034,
+        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL300424EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2025",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe3b33b0-9c7c-4a08-8fc3-4e1f5621a597",
+        "date_posted": 1723792034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
