@@ -6252,5 +6252,22 @@
         "date_posted": 1723791787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723791846,
+        "url": "https://jobs.boeing.com/job/richmond/data-science-intern/185/68796050496",
+        "locations": [
+            "Richmond, BC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boeing Canada",
+        "title": "Data Science Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "32b4e79a-0024-4bc6-9a3b-b5a6be0f9fd0",
+        "date_posted": 1723791846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
