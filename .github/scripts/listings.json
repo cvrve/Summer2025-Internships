@@ -6063,5 +6063,24 @@
         "date_posted": 1723790284,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790362,
+        "url": "https://higher.gs.com/campus?DIVISION=Engineering%20Division&EDUCATION_LEVEL=Bachelors%20or%20Masters%20%28or%20equivalent%29&LOCATION=Los%20Angeles|Newport%20Beach|San%20Francisco|Norwalk|Wilmington|Washington|Miami|West%20Palm%20Beach|Atlanta|Chicago|Boston|Detroit|Parsippany|Albany|New%20York|Philadelphia|Pittsburgh|Dallas|Houston|Salt%20Lake%20City|Seattle&graduationYear=2026-05-01&page=1&sort=RELEVANCE",
+        "locations": [
+            "New York, NY",
+            "Dallas, TX",
+            "Albany, NY, Sale Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Goldman Sachs",
+        "title": "Engineering Analyst Intern",
+        "season": "Summer",
+        "source": "dchen024",
+        "id": "914bdc76-92f8-4a6b-b5e8-41b107b6d813",
+        "date_posted": 1723790362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
