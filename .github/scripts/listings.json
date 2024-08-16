@@ -6082,5 +6082,22 @@
         "date_posted": 1723790362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790731,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/San-Diego/Junior-Web-Front-End-Developer-Intern_JR-116850-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sony",
+        "title": "Front End Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f3fefd32-93ac-4a15-9950-5c51a3855c24",
+        "date_posted": 1723790731,
+        "company_url": "",
+        "is_visible": true
     }
 ]
