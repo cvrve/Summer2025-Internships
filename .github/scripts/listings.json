@@ -6201,5 +6201,22 @@
         "date_posted": 1723791520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723791681,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10179/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Service Router Platform Test Dev Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "e288edde-44e4-4954-8e64-2876f70afdd3",
+        "date_posted": 1723791681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
