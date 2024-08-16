@@ -6184,5 +6184,22 @@
         "date_posted": 1723791426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723791520,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/68787622912",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate QA Analyst",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "98a78be8-0596-4ad0-a300-5cfa37b2a491",
+        "date_posted": 1723791520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
