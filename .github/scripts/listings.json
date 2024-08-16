@@ -6286,5 +6286,22 @@
         "date_posted": 1723792034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723801495,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10171/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Deep Packet Inspection QA Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "8a03dc03-7a8e-449a-9001-828be9510c7b",
+        "date_posted": 1723801495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
