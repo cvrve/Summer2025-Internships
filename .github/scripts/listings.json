@@ -5989,5 +5989,23 @@
         "date_posted": 1723782606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723782716,
+        "url": "https://www.pepsicojobs.com/main/jobs/315338",
+        "locations": [
+            "Purchase, NY",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pepsico",
+        "title": "Technology Software Development & Engineering Intern",
+        "season": "Summer",
+        "source": "haozhou1919",
+        "id": "f479c470-6a48-4bae-8fc7-9bcf1a5251eb",
+        "date_posted": 1723782716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
