@@ -6218,5 +6218,22 @@
         "date_posted": 1723791681,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723791730,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10181/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Service Router Networking Test Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "35ab594d-4d3c-4d70-81f1-7cc22579b610",
+        "date_posted": 1723791730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
