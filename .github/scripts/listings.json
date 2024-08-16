@@ -6007,5 +6007,24 @@
         "date_posted": 1723782716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790137,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829",
+        "locations": [
+            "San Jose, CA",
+            "RTP, North Carolina",
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer II (Intern) - MS",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "a845e97e-0d9b-416a-9580-8b436c2aa034",
+        "date_posted": 1723790137,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Cisco | Software Engineer I (Intern) | San Jose, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387?user=1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Software Engineer II (Intern) - MS | San Jose, CA</br>RTP, North Carolina</br>Hillsboro, OR | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Intern-United-States/1426829"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | CACI | Software Engineering Intern – Summer 2025 | Lisle, IL | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Pepsico | Technology Software Development & Engineering Intern 🛂 | Purchase, NY</br>Plano, TX | <a href="https://www.pepsicojobs.com/main/jobs/315338"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Duolingo | Software Engineer Intern | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7582859002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
