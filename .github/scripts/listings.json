@@ -6337,5 +6337,22 @@
         "date_posted": 1723801907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723802017,
+        "url": "https://www.pgcareers.com/global/en/job/R000113345/Site-Digital-Technology-Intern",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Procter & Gamble",
+        "title": "Site Digital Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cd8b1ae9-276b-43ad-8292-d04772f4b265",
+        "date_posted": 1723802017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
