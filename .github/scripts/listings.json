@@ -6046,5 +6046,22 @@
         "date_posted": 1723790243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790284,
+        "url": "https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kohler",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "53a86a9d-db7d-4f63-8fd7-fd398cae5b11",
+        "date_posted": 1723790284,
+        "company_url": "",
+        "is_visible": true
     }
 ]
