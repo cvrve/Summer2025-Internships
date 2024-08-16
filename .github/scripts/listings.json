@@ -6133,5 +6133,22 @@
         "date_posted": 1723790877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790964,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/68787623616",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Assoc DevOps Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "30ec24d2-1c12-4d6e-b441-be7d1c0783a2",
+        "date_posted": 1723790964,
+        "company_url": "",
+        "is_visible": true
     }
 ]
