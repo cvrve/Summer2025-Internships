@@ -77,6 +77,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Boeing Canada | Data Science Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/richmond/data-science-intern/185/68796050496"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | Microchip | Software Wireless Intern | San Diego, CA | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Diego---Bernardo-Center-Dr/Intern--Software-Wireless-_R1893-24"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | ↳ | Software Engineer Intern | Chandler, AZ | 🔒 | Jul 09 |
+| Phillips | kantorskibrandon1@gmail.com | Cambridge, MA | <a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge/Co-op---Software-Engineer---Cambridge--MA---January---August-2025_533786/?source=Linkedin"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
+| ↳ | Software Test Engineer Co-op 🛂 | Cambridge, MA | 🔒 | Jun 28 |
 | Kohler | Software Engineering Intern | Palo Alto, CA | <a href="https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Sony | Front End Developer Intern | San Diego, CA | <a href="https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/San-Diego/Junior-Web-Front-End-Developer-Intern_JR-116850-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Tesla | Backend Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-backend-engineer-ai-inference-winter-spring-2025-225219"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
@@ -209,7 +211,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Extreme Reach | Software Development Intern | Dedham, Massachusetts | 🔒 | Jul 01 |
 | Autodesk | Software Engineer Intern - Fullstack | Toronto, Canada | 🔒 | Jun 29 |
 | ↳ | Software Engineer Intern | Toronto, Canada | 🔒 | Jun 16 |
-| Phillips | Software Test Engineer Co-op 🛂 | Cambridge, MA | 🔒 | Jun 28 |
 | Iridium | Software Engineer Intern 🇺🇸 | Folsom, CA | 🔒 | Jun 27 |
 | Biovia | Pipeline Pilot Internship | San Diego, CA | 🔒 | Jun 26 |
 | Teradyne | Software Engineering Co-op | North Reading, MA | 🔒 | Jun 26 |
