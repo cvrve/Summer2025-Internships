@@ -75,6 +75,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Web Portal Developer Co-op/Intern | Ottawa, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9923/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | ↳ | Deep Packet Inspection QA Intern | Ottawa, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10171/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | Boeing Canada | Data Science Intern | Richmond, BC | <a href="https://jobs.boeing.com/job/richmond/data-science-intern/185/68796050496"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
+| Microchip | Software Wireless Intern | San Diego, CA | <a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Diego---Bernardo-Center-Dr/Intern--Software-Wireless-_R1893-24"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
+| ↳ | Software Engineer Intern | Chandler, AZ | 🔒 | Jul 09 |
 | Kohler | Software Engineering Intern | Palo Alto, CA | <a href="https://kohler.csod.com/ux/ats/careersite/16/home/requisition/63255?c=kohler&lang=en-US"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Sony | Front End Developer Intern | San Diego, CA | <a href="https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/San-Diego/Junior-Web-Front-End-Developer-Intern_JR-116850-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Tesla | Backend Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-backend-engineer-ai-inference-winter-spring-2025-225219"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
@@ -197,7 +199,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Meta | Research Scientist Intern - PhD | Sunnyvale, CA</br>Redmond, WA | 🔒 | Jul 11 |
 | L3Harris Technologies | Embedded Software Engineering Intern 🇺🇸 | Salt Lake City, UT | 🔒 | Jul 11 |
 | Veranex | Software Engineer Intern | Orange, CA | 🔒 | Jul 11 |
-| Microchip | Software Engineer Intern | Chandler, AZ | 🔒 | Jul 09 |
 | Comcast | Comcast Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 07 |
 | ↳ | Software Engineer Co-op | Philadelphia, PA | 🔒 | Jul 04 |
 | ↳ | AeGIS/Iris Software Development Co-op | Philadelphia, PA | 🔒 | Jul 04 |

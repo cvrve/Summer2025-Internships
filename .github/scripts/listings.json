@@ -6303,5 +6303,22 @@
         "date_posted": 1723801495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723801745,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Diego---Bernardo-Center-Dr/Intern--Software-Wireless-_R1893-24",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip",
+        "title": "Software Wireless Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "ebbad884-d815-4164-bfe4-95cefc720de1",
+        "date_posted": 1723801745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
