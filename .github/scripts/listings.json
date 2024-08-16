@@ -6099,5 +6099,22 @@
         "date_posted": 1723790731,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723790798,
+        "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2025-Summer-Intern---Software-Engineering-Analyst_R104464",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PIMCO",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c8891b46-284c-413b-84fc-67e1f59076fe",
+        "date_posted": 1723790798,
+        "company_url": "",
+        "is_visible": true
     }
 ]
