@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Cisco | Software Engineer I (Intern) | San Jose, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1427387?user=1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| CACI | Software Engineering Intern – Summer 2025 | Lisle, IL | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Duolingo | Software Engineer Intern | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7582859002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Microsoft | Software Engineer Intern | Vancouver, BC, Canada | <a href="https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Software Engineering Intern | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/us/en/job/1751922/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |

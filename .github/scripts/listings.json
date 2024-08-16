@@ -5972,5 +5972,22 @@
         "date_posted": 1723762071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1723782606,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Intern \u2013 Summer 2025",
+        "season": "Summer",
+        "source": "jiejun-j",
+        "id": "54f8c13b-601d-4791-bced-7568250ce3f8",
+        "date_posted": 1723782606,
+        "company_url": "",
+        "is_visible": true
     }
 ]
