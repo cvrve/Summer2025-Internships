@@ -6388,5 +6388,22 @@
         "date_posted": 1723998578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724026611,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00141899",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "NotJerwee",
+        "id": "cc862ef9-2a27-407d-9e3b-0fa5921bb5a4",
+        "date_posted": 1724026611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
