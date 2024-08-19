@@ -6405,5 +6405,22 @@
         "date_posted": 1724026611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724026656,
+        "url": "https://boards.greenhouse.io/hudl/jobs/6176329",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Hudi",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "NotJerwee",
+        "id": "6cce7aec-8202-40b7-a115-a17a4f397f99",
+        "date_posted": 1724026656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
