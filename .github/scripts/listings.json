@@ -6458,5 +6458,22 @@
         "date_posted": 1724117191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724117214,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7600132002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "mohammedbari45",
+        "id": "174762f3-0f34-44a4-b5b5-e54d012580c3",
+        "date_posted": 1724117214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
