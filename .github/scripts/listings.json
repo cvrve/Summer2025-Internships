@@ -313,7 +313,7 @@
             "Short Hills, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cranium",
         "title": "AI/ML Engineer Intern",
         "season": "Summer",
@@ -5456,7 +5456,7 @@
             "Alexandria, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clarivate",
         "title": "Product Management Analyst",
         "season": "Summer",
@@ -5473,7 +5473,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Airwallex",
         "title": "Software Engineer Intern",
         "season": "Summer",
