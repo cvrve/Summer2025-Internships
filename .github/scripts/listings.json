@@ -6535,5 +6535,22 @@
         "date_posted": 1724118199,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724118265,
+        "url": "https://phf.tbe.taleo.net/phf03/ats/careers/v2/viewRequisition?org=INFINITECAMPUS&cws=44&rid=1716",
+        "locations": [
+            "St. Paul, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Infinite Campus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "907fc2d3-2660-491c-884a-2d327b568b55",
+        "date_posted": 1724118265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
