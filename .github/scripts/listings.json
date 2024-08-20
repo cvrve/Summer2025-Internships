@@ -6441,5 +6441,134 @@
         "date_posted": 1724097177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724117191,
+        "url": "https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/",
+        "locations": [
+            "Chicago, IL",
+            "Boulder, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SalarCheema",
+        "id": "755223b5-9590-407b-97a1-7f6781c3bc93",
+        "date_posted": 1724117191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724117214,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7600132002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "mohammedbari45",
+        "id": "174762f3-0f34-44a4-b5b5-e54d012580c3",
+        "date_posted": 1724117214,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724117251,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4477721007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "ba8eb9c2-90fc-49ca-9962-a41195697f5a",
+        "date_posted": 1724117251,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724118134,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d91f6e23-792f-4966-b33a-5b4d60dc3eec",
+        "date_posted": 1724118134,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724118199,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147906EXTERNALENUS/2025-Intern-Machine-Learning-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "53e019b2-fc9a-4ffc-a661-c7438e5a914f",
+        "date_posted": 1724118199,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724118265,
+        "url": "https://phf.tbe.taleo.net/phf03/ats/careers/v2/viewRequisition?org=INFINITECAMPUS&cws=44&rid=1716",
+        "locations": [
+            "St. Paul, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Infinite Campus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "907fc2d3-2660-491c-884a-2d327b568b55",
+        "date_posted": 1724118265,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724118373,
+        "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2025-6883068002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09799e5f-325e-4483-aee5-8d9d14f65c07",
+        "date_posted": 1724118373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
