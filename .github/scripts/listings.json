@@ -6513,5 +6513,27 @@
         "date_posted": 1724118134,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724118199,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147906EXTERNALENUS/2025-Intern-Machine-Learning-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "53e019b2-fc9a-4ffc-a661-c7438e5a914f",
+        "date_posted": 1724118199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
