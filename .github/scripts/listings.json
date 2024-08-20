@@ -6604,5 +6604,22 @@
         "date_posted": 1724121701,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121748,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4484581007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "iOS Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "93c1c8a6-7295-42a0-a88f-fe1af601be83",
+        "date_posted": 1724121748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
