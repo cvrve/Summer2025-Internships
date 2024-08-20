@@ -6757,5 +6757,22 @@
         "date_posted": 1724124064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724124111,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755486/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Cambridge",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d3630544-7905-4435-84b0-2f1a759dcbe2",
+        "date_posted": 1724124111,
+        "company_url": "",
+        "is_visible": true
     }
 ]
