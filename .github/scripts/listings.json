@@ -6723,5 +6723,22 @@
         "date_posted": 1724123504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724124023,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755487/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Lehi",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "391f7b4d-d023-4380-8a84-34acf958b18d",
+        "date_posted": 1724124023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
