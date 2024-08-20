@@ -6740,5 +6740,22 @@
         "date_posted": 1724124023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724124064,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1755485/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6b9a76e0-46aa-4e35-a47e-d5c4959231f0",
+        "date_posted": 1724124064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
