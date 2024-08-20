@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Verkada | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4482665007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| ↳ | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4376295007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Nokia | Service Router Platform Test Dev Intern | Ottawa, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10179/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | ↳ | Service Router Networking Test Intern | Ottawa, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10181/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | ↳ | Web Portal Developer Co-op/Intern | Ottawa, Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9923/?lastSelectedFacet=TITLES&location=Canada&locationId=300000000471544&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
@@ -175,7 +177,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Formlabs | Algorithms Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/5935884/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6075232/apply/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | ↳ | Hardware Test Engineering Intern | Somerville, MA | 🔒 | Jun 27 |
-| Verkada | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4376295007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |
 | Mercedes-Benz R&D North America | Engineering Intern, eDrive Core Software | Farmington Hills, MI | <a href="https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Chef Robotics | AI Research Intern -- PhD | San Francisco, CA | <a href="https://jobs.lever.co/ChefRobotics/ecabcdf0-d626-42d3-afc8-6d5c4d0dda95"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | GTRI | Software Developer Student Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.gtri.gatech.edu/cw/en-us/job/499770/software-developer-student-intern-fall-2024-asl"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 25 |
