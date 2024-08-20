@@ -6552,5 +6552,22 @@
         "date_posted": 1724118265,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724118373,
+        "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2025-6883068002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09799e5f-325e-4483-aee5-8d9d14f65c07",
+        "date_posted": 1724118373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
