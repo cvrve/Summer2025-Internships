@@ -6638,5 +6638,22 @@
         "date_posted": 1724121799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121841,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4482665007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Software Engineering Intern, Backend",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "2e4a1825-c298-4a83-b171-f664fd25af83",
+        "date_posted": 1724121841,
+        "company_url": "",
+        "is_visible": true
     }
 ]
