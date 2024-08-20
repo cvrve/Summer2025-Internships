@@ -6809,5 +6809,22 @@
         "date_posted": 1724124799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724125122,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7302611002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Machine Learning Researcher Intern - PhD",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3feeb35f-d85e-4235-aab7-2a83b351f631",
+        "date_posted": 1724125122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
