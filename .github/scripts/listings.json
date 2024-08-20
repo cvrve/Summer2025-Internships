@@ -6774,5 +6774,40 @@
         "date_posted": 1724124111,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724124799,
+        "url": "https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Software-Development-Intern_R0051950",
+        "locations": [
+            "Chevy Chase, MD",
+            "Virginia Beach, VA",
+            "Getzville, NY",
+            "Poway, CA",
+            "Richardson, TX",
+            "North Liberty, IA",
+            "Katy, TX",
+            "Renton, WA",
+            "Lakeland, FL",
+            "Fredericksburg, VA",
+            "Lenexa, KS",
+            "Marlton, NJ",
+            "Anchorage, AK",
+            "Woodbury, NY",
+            "Jacksonville, FL",
+            "Indianapolis, IN",
+            "Tucson, AZ",
+            "Macon, GA",
+            "Springfield, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GEICO",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "310d4f3d-74cf-4e0c-bd12-2adf10e08c72",
+        "date_posted": 1724124799,
+        "company_url": "",
+        "is_visible": true
     }
 ]
