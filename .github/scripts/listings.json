@@ -6475,5 +6475,22 @@
         "date_posted": 1724117214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724117251,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4477721007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "ba8eb9c2-90fc-49ca-9962-a41195697f5a",
+        "date_posted": 1724117251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
