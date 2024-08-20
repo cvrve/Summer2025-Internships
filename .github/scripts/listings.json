@@ -6440,5 +6440,23 @@
         "date_posted": 1724097177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724117191,
+        "url": "https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/",
+        "locations": [
+            "Chicago, IL",
+            "Boulder, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SalarCheema",
+        "id": "755223b5-9590-407b-97a1-7f6781c3bc93",
+        "date_posted": 1724117191,
+        "company_url": "",
+        "is_visible": true
     }
 ]

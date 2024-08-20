@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Figma | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5232157004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Belvedere Trading | Software Engineer Intern | Chicago, IL</br>Boulder, CO | <a href="https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Stoke Space | Software Intern | Kent, WA | <a href="https://www.stokespace.com/careers/current-openings/?gh_jid=5258722004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Leidos | Software Engineer Intern | Arlington, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00141899"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Hudi | Software Engineer Intern | Lincoln, NE | <a href="https://boards.greenhouse.io/hudl/jobs/6176329"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
