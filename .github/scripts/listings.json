@@ -5648,7 +5648,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PayPal",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5670,7 +5670,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5721,7 +5721,7 @@
             "Chambersburg, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Martin's Famous Pastry Shoppe Inc",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -5735,7 +5735,8 @@
         "date_updated": 1723594902,
         "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25672",
         "locations": [
-            "Atlanta, GA"
+            "Atlanta, GA",
+            "St. Paul, MN"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -6229,7 +6230,7 @@
         "active": true,
         "company_name": "Nokia",
         "title": "Service Router Networking Test Intern",
-        "season": "Summer",
+        "season": "Spring",
         "source": "vanshb03",
         "id": "35ab594d-4d3c-4d70-81f1-7cc22579b610",
         "date_posted": 1723791730,
