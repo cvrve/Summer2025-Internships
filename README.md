@@ -127,8 +127,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | San Diego, CA | 🔒 | Aug 10 |
 | PwC | Tax Technology Intern 🛂 | Los Angeles, CA | <a href="https://jobs.us.pwc.com/job/-/-/932/68428746112"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | DAT Tech Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Detroit, MI</br>New York, NY</br>San Francisco, CA</br>Houston, TX</details> | <a href="https://jobs.us.pwc.com/job/-/-/932/68378296656"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
-| Clarivate | Product Management Analyst | Alexandria, VA | <a href="https://careers.clarivate.com/job/CLACLAGBJREQ128567EXTERNALENGB/Product-Management-Analyst-Futures-Business-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
-| Airwallex | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/airwallex/ea995984-1069-405c-87b8-f69b823fb6aa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | Ambarella | Software Engineer Intern | Santa Clara, CA | <a href="https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10648/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Roblox | Software Engineer Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/6086765/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Asana | Data Science Intern | New York, NY | <a href="https://asana.com/jobs/apply/6151418"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
@@ -261,7 +259,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8255/Quantitative-Systematic-Trading-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Quantitative Research Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 07 |
 | ↳ | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025?utm_campaign=google_jobs_apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
-| Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
 | Epic | Software Engineer Intern 🛂 | Verona, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | BNP Paribas | Summer Analyst Internship - Technology | Jersey City, NJ | <a href="https://group.bnpparibas/en/careers/job-offer/2025-summer-analyst-internship-technology"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
@@ -270,6 +267,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | Martin's Famous Pastry Shoppe Inc | Software Engineering Intern | Chambersburg, PA | 🔒 | Aug 13 |
 | Amazon | Software Dev Engineer Intern | Cupertino, CA | 🔒 | Aug 10 |
+| Clarivate | Product Management Analyst | Alexandria, VA | 🔒 | Aug 07 |
+| Airwallex | Software Engineer Intern | San Francisco, CA | 🔒 | Aug 07 |
 | Johnson & Johnson | Technology Intern 🛂 | <details><summary>**8 locations**</summary>Raritan, NJ</br>New Brunswick, NJ</br>Cambridge, MA</br>Jacksonville, FL</br>Titusville, NJ</br>Spring House, PA</br>Bridgewater, NJ</br>Palm Beach Gardens, FL</details> | 🔒 | Jul 31 |
 | Intuitive Surgical | Systems Analyst Research Intern | Sunnyvale, CA | 🔒 | Jul 30 |
 | Software | Software Analyst Intern | Oklahoma City, OK | 🔒 | Jul 24 |
@@ -281,6 +280,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Google | Software Engineering Intern - Masters | <details><summary>**28 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Ryleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington, DC</details> | 🔒 | Jun 19 |
 | ↳ | Software Engineering Intern | <details><summary>**28 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Ryleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington, DC</details> | 🔒 | Jun 17 |
 | Ventas, Inc | Software Engineer Intern 🛂 | Chicago, IL | 🔒 | May 26 |
+| Cranium | AI/ML Engineer Intern | Short Hills, NJ | 🔒 | May 14 |
 | Walmart | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | Bridgewater Associates | Investment Engineer Intern | Westport, CT | 🔒 | May 02 |
 | Chicago Trading Company | Quant Trading Analyst Intern | Chicago, IL | 🔒 | May 02 |
