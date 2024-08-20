@@ -6570,5 +6570,22 @@
         "date_posted": 1724118373,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724121585,
+        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139035?",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5928eef2-f459-4a76-a821-31c30f56b0c5",
+        "date_posted": 1724121585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
