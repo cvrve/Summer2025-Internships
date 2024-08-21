@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Toyota Material Handling | Computer Vision Software Engineer Intern | Columbus, IN | <a href="https://myjobs.adp.com/tmhcareers/?__tx_annotation=false&c=1138141&d=TMHUCareerSite&r=5001064759300&rb=INDEED&sor=adprm"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
+| Micron | AI/ML Algorithms Intern - Masters/PhD | San Jose, CA | <a href="https://careers.micron.com/careers/job/24611257"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Verkada | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4482665007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineering Intern, Frontend | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4482688007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://boards.greenhouse.io/verkada/jobs/4376295007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 27 |

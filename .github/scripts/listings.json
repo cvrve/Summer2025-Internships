@@ -6993,5 +6993,22 @@
         "date_posted": 1724220148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724223139,
+        "url": "https://careers.micron.com/careers/job/24611257",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Micron",
+        "title": "AI/ML Algorithms Intern - Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "87d0e00a-8dcb-48e6-9ba0-97bf4cdb4513",
+        "date_posted": 1724223139,
+        "company_url": "",
+        "is_visible": true
     }
 ]
