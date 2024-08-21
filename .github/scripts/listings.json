@@ -6826,5 +6826,22 @@
         "date_posted": 1724125122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724208208,
+        "url": "https://aexp.eightfold.ai/careers/job/24562584",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2095197d-4df4-431d-bfc5-0a6f8c05e935",
+        "date_posted": 1724208208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
