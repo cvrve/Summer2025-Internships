@@ -7010,5 +7010,22 @@
         "date_posted": 1724223139,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724223358,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25316",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Innovation and AI Engineering Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "a083d3e0-d936-44c2-8aff-5015b1f74214",
+        "date_posted": 1724223358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
