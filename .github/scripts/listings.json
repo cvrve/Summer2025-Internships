@@ -6860,5 +6860,22 @@
         "date_posted": 1724209702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724209902,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Intern---Design-Assurance-Engineer---Summer-2025_R030224",
+        "locations": [
+            "locations Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Design Assurance Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ed376e59-02fd-4058-aff0-b22b4cce43a2",
+        "date_posted": 1724209902,
+        "company_url": "",
+        "is_visible": true
     }
 ]
