@@ -7061,5 +7061,22 @@
         "date_posted": 1724223450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724259003,
+        "url": "https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/Software-Engineer-Intern_R22298",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amadeus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b3102f81-21ad-48c4-aa6b-6a623e49f1a1",
+        "date_posted": 1724259003,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Amadeus | Software Engineer Intern | Irving, TX | <a href="https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/Software-Engineer-Intern_R22298"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | American Express | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24562584"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Product Management Analyst Intern | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24205300"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Plexus | Product Engineer Intern | Buffalo Grove, IL | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer---Summer-2025_R030205"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
