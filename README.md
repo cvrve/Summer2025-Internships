@@ -80,6 +80,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | American Express | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24562584"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Product Management Analyst Intern | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24205300"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
+| Plexus | Product Engineer Intern | Buffalo Grove, IL | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer---Summer-2025_R030205"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Figma | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5232157004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Belvedere Trading | Software Engineer Intern | Chicago, IL</br>Boulder, CO | <a href="https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Point72 | Data Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/point72/jobs/7600132002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
