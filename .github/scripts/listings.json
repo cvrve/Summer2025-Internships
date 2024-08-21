@@ -7078,5 +7078,22 @@
         "date_posted": 1724259003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724259730,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gecko Robotics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd05e25d-dc87-458a-8c64-5f8e7e10dee7",
+        "date_posted": 1724259730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
