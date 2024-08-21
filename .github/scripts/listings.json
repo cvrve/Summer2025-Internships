@@ -7112,5 +7112,22 @@
         "date_posted": 1724259744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724259987,
+        "url": "https://www.geckorobotics.com/careers?ashby_jid=f4fc0a1d-5ecc-45f9-a186-616052a7928e#open-positions",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gecko Robotics",
+        "title": "Field Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "84db8825-9792-4e8c-add4-1650fff44b53",
+        "date_posted": 1724259987,
+        "company_url": "",
+        "is_visible": true
     }
 ]
