@@ -26,13 +26,13 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 <div align="center">
 	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+		<a href="https://bit.ly/ouckah">
 			<b style="color: #0073e6; font-size: 1.2em;">Looking for other internship applicants?</b>
 				<br style="color: #0073e6; font-size: 1.2em;">
 				Connect with fellow peers and enhance your internship applications!
 				<br>
 			<div>
-				<a href="https://discord.gg/ouckah-lair-519640186167099402">
+				<a href="https://bit.ly/ouckah">
           <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Simplify">
         </a>
 			</div>
