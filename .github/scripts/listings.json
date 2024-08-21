@@ -7044,5 +7044,22 @@
         "date_posted": 1724223403,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724223450,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=25310",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Innovation Ventures and Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "acd2bb76-5720-4f08-8e61-a5ef11111a3b",
+        "date_posted": 1724223450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
