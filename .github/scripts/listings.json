@@ -6843,5 +6843,22 @@
         "date_posted": 1724208208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724209702,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Buffalo-Grove-IL/Intern---Product-Engineer---Summer-2025_R030205",
+        "locations": [
+            "Buffalo Grove, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b0dc329a-0f3f-4fac-a8ac-21d28f59b81e",
+        "date_posted": 1724209702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
