@@ -6877,5 +6877,22 @@
         "date_posted": 1724209902,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724212951,
+        "url": "https://myjobs.adp.com/tmhcareers/?__tx_annotation=false&c=1138141&d=TMHUCareerSite&r=5001064759300&rb=INDEED&sor=adprm",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Material Handling",
+        "title": "Computer Vision Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a27dead7-22d7-4be9-887c-9ece26c7d1a6",
+        "date_posted": 1724212951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
