@@ -7129,5 +7129,22 @@
         "date_posted": 1724259987,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724306439,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-044048",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "093cf56f-0ba9-45ed-99f0-11e7ba7dd4ed",
+        "date_posted": 1724306439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
