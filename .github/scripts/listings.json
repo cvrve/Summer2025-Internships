@@ -7146,5 +7146,22 @@
         "date_posted": 1724306439,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724306459,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-044039",
+        "locations": [
+            "locations Champaign, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Computer Graphics Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "95a281a9-4ca4-41a7-80c6-e1fc30a7188a",
+        "date_posted": 1724306459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
