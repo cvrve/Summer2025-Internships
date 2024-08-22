@@ -7181,5 +7181,23 @@
         "date_posted": 1724369312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724369331,
+        "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Intern---Data-Science_R8720?workerSubType=831d1538442f014d2d2badf7c52a6e07",
+        "locations": [
+            "Denver, CO",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "peterli135",
+        "id": "23591ae8-acd0-468f-b961-6e630ff2a22a",
+        "date_posted": 1724369331,
+        "company_url": "",
+        "is_visible": true
     }
 ]
