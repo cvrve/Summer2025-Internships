@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Workiva | Machine Learning Engineering Intern 🛂 | Denver, CO</br>Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/Intern---Machine-Learning-Engineering_R8718-1?workerSubType=831d1538442f014d2d2badf7c52a6e07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
+| ↳ | Data Science Intern 🛂 | Denver, CO</br>Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Intern---Data-Science_R8720?workerSubType=831d1538442f014d2d2badf7c52a6e07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | Amadeus | Software Engineer Intern | Irving, TX | <a href="https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/Software-Engineer-Intern_R22298"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Gecko Robotics | Software Engineer Intern | Boston, MA | <a href="https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | ↳ | Embedded Software Engineer Intern | Pittsburgh, PA | <a href="https://www.geckorobotics.com/careers?ashby_jid=23c70fb7-0cf2-4d16-b081-aa2286f09c53#open-positions"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
