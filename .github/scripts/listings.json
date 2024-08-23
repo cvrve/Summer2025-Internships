@@ -7324,5 +7324,22 @@
         "date_posted": 1724384228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384289,
+        "url": "https://app.ripplematch.com/v2/public/job/6ddcb3e2/details?from_page=company_branded_page",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Backend",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccd26d9b-8c90-4f2f-b70e-77be22d3a004",
+        "date_posted": 1724384289,
+        "company_url": "",
+        "is_visible": true
     }
 ]
