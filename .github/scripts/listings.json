@@ -7426,5 +7426,24 @@
         "date_posted": 1724430371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724430384,
+        "url": "https://stripe.com/jobs/listing/software-engineer-intern/6142753",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Mudit-Arora",
+        "id": "59c9db6a-a35f-405f-88d2-12e7a1703a4f",
+        "date_posted": 1724430384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
