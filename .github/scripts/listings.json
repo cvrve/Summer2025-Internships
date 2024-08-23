@@ -7217,5 +7217,23 @@
         "date_posted": 1724383947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384129,
+        "url": "https://boards.greenhouse.io/hereio/jobs/6190877?gh_src=259a162a1us",
+        "locations": [
+            "New York City",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HERE Technologies",
+        "title": "Full-Stack Engineering Intern",
+        "season": "Summer",
+        "source": "NotJerwee",
+        "id": "ac9c1409-98a0-48c9-9c71-5143e4d532f7",
+        "date_posted": 1724384129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
