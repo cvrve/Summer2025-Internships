@@ -7392,5 +7392,22 @@
         "date_posted": 1724430302,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724430352,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/details/Intern--Engineering---Test-Automation--Summer-2025-_JR27862?workerSubType=a1d19ddc127d10332f2265ab00be635b",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Chamberlain Group",
+        "title": "Test Automation Engineering Intern",
+        "season": "Summer",
+        "source": "Mudit-Arora",
+        "id": "f4f93d6b-683d-4141-bf88-022b7b22bbfd",
+        "date_posted": 1724430352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
