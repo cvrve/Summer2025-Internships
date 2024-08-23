@@ -7358,5 +7358,22 @@
         "date_posted": 1724384391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384439,
+        "url": "https://app.ripplematch.com/v2/public/job/521ba288/details?from_page=company_branded_page",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Android",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1b2d77cd-ec55-460c-ae57-ad944ea6f066",
+        "date_posted": 1724384439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
