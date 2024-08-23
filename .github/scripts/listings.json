@@ -7307,5 +7307,22 @@
         "date_posted": 1724384188,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384228,
+        "url": "https://app.ripplematch.com/v2/public/job/e5771210/details?from_page=company_branded_page",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Web",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7ff0e5f1-0494-46ac-8adb-f170a589badc",
+        "date_posted": 1724384228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
