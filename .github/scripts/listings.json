@@ -7253,5 +7253,23 @@
         "date_posted": 1724384143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384165,
+        "url": "https://app.ripplematch.com/v2/public/job/61af82f4/details?from_page=company_branded_page",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, iOS",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a6762081-1529-49bb-8f30-3ee520411849",
+        "date_posted": 1724384165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
