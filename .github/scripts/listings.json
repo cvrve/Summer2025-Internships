@@ -7375,5 +7375,22 @@
         "date_posted": 1724384439,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724430302,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2025_24739539",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Citi Bank",
+        "title": "Quantitative Analysis",
+        "season": "Summer",
+        "source": "lsgordon",
+        "id": "dd15b416-434a-46eb-9879-a7fee7a33d14",
+        "date_posted": 1724430302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
