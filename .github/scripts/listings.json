@@ -7199,5 +7199,23 @@
         "date_posted": 1724369331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724383947,
+        "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/XMLNAME-2025-Summer-Intern---Software-Engineer_R9088?workerSubType=831d1538442f014d2d2badf7c52a6e07",
+        "locations": [
+            "Ames, IA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "peterli135",
+        "id": "6531de7b-d6c0-4d64-b63f-62609ecf74f6",
+        "date_posted": 1724383947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
