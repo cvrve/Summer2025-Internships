@@ -7341,5 +7341,22 @@
         "date_posted": 1724384289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724384391,
+        "url": "https://app.ripplematch.com/v2/public/job/b6752219/details?from_page=company_branded_page",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, iOS",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6a20b01d-2ca6-44b3-889c-3df89dc4ecfb",
+        "date_posted": 1724384391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
