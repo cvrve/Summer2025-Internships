@@ -7905,5 +7905,22 @@
         "date_posted": 1724475774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475864,
+        "url": "https://careers.mastercard.com/us/en/job/R-226684/Software-Quality-Engineering-Intern-Summer-2025-United-States",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "QA Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f0bac752-fb3e-44fd-bbe1-2645cd31a04d",
+        "date_posted": 1724475864,
+        "company_url": "",
+        "is_visible": true
     }
 ]
