@@ -7973,5 +7973,22 @@
         "date_posted": 1724478523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724478578,
+        "url": "https://careers.mastercard.com/us/en/job/R-226992/Data-Scientist-Intern-Summer-2025-United-States",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "910de3b9-2850-4358-9f73-9ef621da9542",
+        "date_posted": 1724478578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
