@@ -7871,5 +7871,22 @@
         "date_posted": 1724475680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475714,
+        "url": "https://careers.freddiemac.com/us/en/job/JR13564/Technology-Intern-Summer-2025-Hybrid-3-Days-in-Office",
+        "locations": [
+            "Mclean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freddie Mac",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "05539bf0-d542-419d-9a7f-3418264437aa",
+        "date_posted": 1724475714,
+        "company_url": "",
+        "is_visible": true
     }
 ]
