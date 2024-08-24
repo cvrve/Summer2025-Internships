@@ -7547,5 +7547,22 @@
         "date_posted": 1724473475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473523,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10496/?keyword=co-op&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000480126",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Development Co-op",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "01510ede-1565-4b1f-aaac-4d2f9010867e",
+        "date_posted": 1724473523,
+        "company_url": "",
+        "is_visible": true
     }
 ]
