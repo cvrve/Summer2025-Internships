@@ -7701,5 +7701,22 @@
         "date_posted": 1724473730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473752,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Raise-Reliability-Architecture-and-Infrastructure-Services-Summer-2025/25671?jobId=25671",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Infrastructure Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "51b84f6b-08ba-42ce-b3b9-4f003a7b3f31",
+        "date_posted": 1724473752,
+        "company_url": "",
+        "is_visible": true
     }
 ]
