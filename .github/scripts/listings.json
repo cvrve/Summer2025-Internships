@@ -7582,5 +7582,22 @@
         "date_posted": 1724473550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473573,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Operations-Research-Data-Science-Summer-2025/25668?jobId=25668",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "1514b3da-6369-424d-af8c-b40930549bc3",
+        "date_posted": 1724473573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
