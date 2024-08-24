@@ -7667,5 +7667,22 @@
         "date_posted": 1724473674,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473702,
+        "url": "https://job-boards.greenhouse.io/semgrep/jobs/4489641007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Semgrep",
+        "title": "Software Engineer Intern - Program Analysis",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f3836173-625c-4ad0-afcd-eff2e798515a",
+        "date_posted": 1724473702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
