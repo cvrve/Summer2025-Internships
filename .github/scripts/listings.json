@@ -7684,5 +7684,22 @@
         "date_posted": 1724473702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473730,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4394953006",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Flight Software Engineer Intern",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "90912acc-aa5d-4393-9975-a9c2ae9cac6d",
+        "date_posted": 1724473730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
