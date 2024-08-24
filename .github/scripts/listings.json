@@ -7735,5 +7735,22 @@
         "date_posted": 1724473807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473839,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4393048006?gh_src=Simplify",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4f57a19b-b44c-4d2d-99a2-3d2b9503eb40",
+        "date_posted": 1724473839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
