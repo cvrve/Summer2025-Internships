@@ -7888,5 +7888,22 @@
         "date_posted": 1724475714,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475774,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Spring-2025_R-00142183-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "c05f6c93-76db-430f-9ef4-f307b5f55563",
+        "date_posted": 1724475774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
