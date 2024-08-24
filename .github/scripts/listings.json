@@ -7820,5 +7820,22 @@
         "date_posted": 1724475552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475622,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008172836-campus-technology-program-intern-flexible-hybrid-?trid=71aac5e2-1b61-4d2c-aaf2-a4d9fb603d26",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fannie Mae",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "1575f51a-a7a6-4422-9676-57b0988ea475",
+        "date_posted": 1724475622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
