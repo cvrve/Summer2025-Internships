@@ -7769,5 +7769,22 @@
         "date_posted": 1724474069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724474085,
+        "url": "https://job-boards.greenhouse.io/semgrep/jobs/4489670007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Semgrep",
+        "title": "Security Researcher Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "3ac8618b-ca08-491c-8b52-1278ef23f4e3",
+        "date_posted": 1724474085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
