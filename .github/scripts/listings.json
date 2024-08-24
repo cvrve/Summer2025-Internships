@@ -7650,5 +7650,22 @@
         "date_posted": 1724473656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473674,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Information-Security-Summer-2025/25670?jobId=25670",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Security Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8b0a2c51-c15d-46eb-a9da-aa9ca66e2e75",
+        "date_posted": 1724473674,
+        "company_url": "",
+        "is_visible": true
     }
 ]
