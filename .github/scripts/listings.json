@@ -7616,5 +7616,22 @@
         "date_posted": 1724473609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473622,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Revenue-Tech-and-Data-Analytics-Summer-2025/25666?jobId=25666",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Data Analytics Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8c0e02c3-68e5-41f5-bd28-4c49b570f8e7",
+        "date_posted": 1724473622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
