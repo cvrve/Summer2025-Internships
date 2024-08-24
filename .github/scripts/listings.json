@@ -7922,5 +7922,22 @@
         "date_posted": 1724475864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475919,
+        "url": "https://careers.mastercard.com/us/en/job/R-228646/Data-Engineering-Intern-Summer-2025-United-States",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "dcbadda7-45fd-4ed7-9bef-29bc40da96fb",
+        "date_posted": 1724475919,
+        "company_url": "",
+        "is_visible": true
     }
 ]
