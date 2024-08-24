@@ -7837,5 +7837,22 @@
         "date_posted": 1724475622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475639,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008172571-campus-technology-program-intern-flexible-hybrid-?trid=71aac5e2-1b61-4d2c-aaf2-a4d9fb603d26",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fannie Mae",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "c56ae867-ae1e-42e5-9211-7295f344e2ad",
+        "date_posted": 1724475639,
+        "company_url": "",
+        "is_visible": true
     }
 ]
