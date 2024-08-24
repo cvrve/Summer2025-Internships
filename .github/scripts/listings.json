@@ -7633,5 +7633,22 @@
         "date_posted": 1724473622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473656,
+        "url": "https://www.shopify.com/careers/engineering-internships-winter-2025_4c5d6050-9a66-4b7e-8873-13b892846e66",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Software Engineer Intern - Canada",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "f6580a1c-834b-4cb6-a217-d4da7c773ae7",
+        "date_posted": 1724473656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
