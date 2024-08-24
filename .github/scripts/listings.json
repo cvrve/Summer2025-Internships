@@ -7786,5 +7786,22 @@
         "date_posted": 1724474085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724474125,
+        "url": "https://careers.hpe.com/us/en/job/1177592/Software-Engineering-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "ab950160-d6f2-4205-920c-1920c693e749",
+        "date_posted": 1724474125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
