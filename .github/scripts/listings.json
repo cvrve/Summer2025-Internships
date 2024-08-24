@@ -7564,5 +7564,23 @@
         "date_posted": 1724473523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473550,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10486/?keyword=co-op&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000480126",
+        "locations": [
+            "Sunnyvale, CA",
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "QA Intern",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "9c41c6de-1b96-4c31-9ce7-e48a4acf0782",
+        "date_posted": 1724473550,
+        "company_url": "",
+        "is_visible": true
     }
 ]
