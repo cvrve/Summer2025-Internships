@@ -7479,5 +7479,22 @@
         "date_posted": 1724473362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473389,
+        "url": "https://www.careers.philips.com/student/global/en/job/533682/Co-op-Data-Engineering-Reedsville-PA-June-December-2025",
+        "locations": [
+            "Reedsville, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phillips",
+        "title": "Data Engineer Co-op",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "6ddc593d-60f1-4a6a-bce1-892beb992323",
+        "date_posted": 1724473389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
