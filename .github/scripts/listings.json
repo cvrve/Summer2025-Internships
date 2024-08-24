@@ -8007,5 +8007,22 @@
         "date_posted": 1724478602,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724478629,
+        "url": "https://jobs.lever.co/belvederetrading/123fcb8a-ad4b-4c12-8de7-87a3d22f531a",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8e2ba6dc-c424-440c-8e60-ad19748029d4",
+        "date_posted": 1724478629,
+        "company_url": "",
+        "is_visible": true
     }
 ]
