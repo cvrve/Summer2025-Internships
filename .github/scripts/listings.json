@@ -7990,5 +7990,22 @@
         "date_posted": 1724478578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724478602,
+        "url": "https://careers.mastercard.com/us/en/job/R-228370/Software-Engineer-Intern-Summer-2025-United-States",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "730f9086-1dd5-4ea4-bd93-5ae90a65e1c7",
+        "date_posted": 1724478602,
+        "company_url": "",
+        "is_visible": true
     }
 ]
