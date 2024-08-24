@@ -7803,5 +7803,22 @@
         "date_posted": 1724474125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475552,
+        "url": "https://careers.mastercard.com/us/en/job/R-226967/Data-Scientist-Intern-Summer-2025-United-States",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "56ec7259-83f6-422c-8419-2b668a502f1b",
+        "date_posted": 1724475552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
