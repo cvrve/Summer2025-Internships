@@ -7513,5 +7513,22 @@
         "date_posted": 1724473418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473459,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Software-Engineering-Summer-2025/25638?jobId=25638",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4c675737-b832-4c14-a9a0-6f77d7306f10",
+        "date_posted": 1724473459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
