@@ -7530,5 +7530,22 @@
         "date_posted": 1724473459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473475,
+        "url": "https://www.careers.philips.com/student/global/en/job/534202/Intern-Software-Engineer-Plymouth-MN-Summer-2025",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phillips",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "848f2ec8-b352-4fbf-8c29-51dfb27d9d9a",
+        "date_posted": 1724473475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
