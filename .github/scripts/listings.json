@@ -7854,5 +7854,22 @@
         "date_posted": 1724475639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724475680,
+        "url": "https://jobs.smartrecruiters.com/FannieMae/744000008167625-campus-technology-program-intern-flexible-hybrid-?trid=71aac5e2-1b61-4d2c-aaf2-a4d9fb603d26",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fannie Mae",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4b3ce90d-7fef-4eaa-8a8c-db2b4d937115",
+        "date_posted": 1724475680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
