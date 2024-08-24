@@ -7939,5 +7939,22 @@
         "date_posted": 1724475919,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724476011,
+        "url": "https://careers.mastercard.com/us/en/job/R-227508/Data-Engineering-Intern-Summer-2025-United-States",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "accb989e-b8cc-43a1-ba46-3cd8f95803ad",
+        "date_posted": 1724476011,
+        "company_url": "",
+        "is_visible": true
     }
 ]
