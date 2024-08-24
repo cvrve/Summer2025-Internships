@@ -7752,5 +7752,22 @@
         "date_posted": 1724473839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724474069,
+        "url": "https://job-boards.greenhouse.io/semgrep/jobs/4489659007",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Semgrep",
+        "title": "Software Engineer Intern - Cloud Platform",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "0ced5d1b-32e3-4e5c-aff1-3a3446f1b442",
+        "date_posted": 1724474069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
