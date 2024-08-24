@@ -7496,5 +7496,22 @@
         "date_posted": 1724473389,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473418,
+        "url": "https://www.careers.philips.com/student/global/en/job/534552/Co-op-Software-System-Integration-Cambridge-MA-January-August-2025",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Phillips",
+        "title": "Systems Engineer Co-op",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "54ca7dc2-50cc-4651-a7a8-376e5b1d0d5f",
+        "date_posted": 1724473418,
+        "company_url": "",
+        "is_visible": true
     }
 ]
