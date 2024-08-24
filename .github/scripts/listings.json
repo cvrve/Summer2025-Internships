@@ -7599,5 +7599,22 @@
         "date_posted": 1724473573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473609,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4989/?keyword=co-op&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000480126",
+        "locations": [
+            "Murray Hill, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "R&D Intern - MS",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "f00446d9-4583-4a2f-905d-e642d4a96ee8",
+        "date_posted": 1724473609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
