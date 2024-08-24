@@ -7445,5 +7445,22 @@
         "date_posted": 1724430384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724473311,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Data-Scientist-Spring-2025/25925?jobId=25925",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta",
+        "title": "Data Scientist Intern - MS",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "26db07e0-c74c-42b9-a44a-417d748506ef",
+        "date_posted": 1724473311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
