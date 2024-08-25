@@ -8143,5 +8143,22 @@
         "date_posted": 1724546652,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546702,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Hardware Engineer Co-op - Winter",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "77dd1469-c49d-42f5-bb53-85ecee488a0e",
+        "date_posted": 1724546702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
