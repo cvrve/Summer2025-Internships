@@ -8126,5 +8126,22 @@
         "date_posted": 1724546626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546652,
+        "url": "https://amazon.jobs/en/jobs/2739024/systems-development-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8321dd89-c8d5-43fd-8fff-28a5d302588d",
+        "date_posted": 1724546652,
+        "company_url": "",
+        "is_visible": true
     }
 ]
