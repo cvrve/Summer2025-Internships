@@ -8024,5 +8024,22 @@
         "date_posted": 1724478629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546469,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1748409/Data-Science%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "2f322f6f-c269-4ae6-a1d9-addbd327488e",
+        "date_posted": 1724546469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
