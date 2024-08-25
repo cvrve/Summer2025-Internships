@@ -6851,7 +6851,7 @@
             "Buffalo Grove, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plexus",
         "title": "Product Engineer Intern",
         "season": "Summer",
@@ -6868,7 +6868,7 @@
             "locations Neenah, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plexus",
         "title": "Design Assurance Engineer Intern",
         "season": "Summer",
@@ -7069,7 +7069,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amadeus",
         "title": "Software Engineer Intern",
         "season": "Summer",
