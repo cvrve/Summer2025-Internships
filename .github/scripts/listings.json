@@ -8211,5 +8211,22 @@
         "date_posted": 1724559410,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724603942,
+        "url": "https://aexp.eightfold.ai/careers?query=intern&pid=24562583&domain=aexp.com&sort_by=relevance",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "e745b79b-01da-42e5-aa77-2a1dbc820f6f",
+        "date_posted": 1724603942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
