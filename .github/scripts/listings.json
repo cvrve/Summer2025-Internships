@@ -8041,5 +8041,22 @@
         "date_posted": 1724546469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546500,
+        "url": "https://search.jobs.barclays/job/new-york/electronic-trading-associate-summer-internship-program-2025-new-york/13015/69010955584",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Electronic Trading Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "65c23efe-268e-4c97-a7a6-21405a579448",
+        "date_posted": 1724546500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
