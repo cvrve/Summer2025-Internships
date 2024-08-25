@@ -8160,5 +8160,22 @@
         "date_posted": 1724546702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546818,
+        "url": "https://amazon.jobs/en/jobs/2737010/hardware-development-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Hardware Development Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "98499350-cfc6-48cb-a993-1afd4db1dc96",
+        "date_posted": 1724546818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
