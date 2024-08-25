@@ -8075,5 +8075,22 @@
         "date_posted": 1724546525,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546567,
+        "url": "https://amazon.jobs/en/jobs/2729980/hardware-development-engineer-winter-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Hardware Development Engineer Intern - Winter",
+        "season": "Spring",
+        "source": "beakae",
+        "id": "8c713689-96a8-43ef-86c1-8aa741fc8ddf",
+        "date_posted": 1724546567,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -71,6 +71,9 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Amazon | Hardware Development Engineer Intern - Winter | Seattle, WA | <a href="https://amazon.jobs/en/jobs/2729980/hardware-development-engineer-winter-internship-2025-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
+| ↳ | Software Dev Engineer Intern | Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2713490/software-dev-engineer-intern-fall?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| ↳ | Software Development Engineer Intern | Boston, MA | <a href="https://www.amazon.jobs/en/jobs/2705684/software-development-engineer-intern?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Delta | Data Scientist Intern - MS | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Data-Scientist-Spring-2025/25925?jobId=25925"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Innovation and AI Engineering Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25316"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Research and Design Hardware Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail?jobId=25306"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
@@ -160,8 +163,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Western Digital | Software Engineer Co-Op | Rochester, MN | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000003629105"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Software Engineering Co-Op | Rochester, MN | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000000225574"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Maestro AI | Software Engineering Intern | Seattle, WA | <a href="https://job-boards.greenhouse.io/incubator/jobs/6146186?gh_src=750b53cb1us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
-| Amazon | Software Dev Engineer Intern | Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2713490/software-dev-engineer-intern-fall?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| ↳ | Software Development Engineer Intern | Boston, MA | <a href="https://www.amazon.jobs/en/jobs/2705684/software-development-engineer-intern?cmpid=DA_INAD200785B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Sotera Health | Database Developer Intern | Oak Brook, IL | <a href="https://eftx.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1007/job/12625"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Gwinnett County Government | Full Stack Software Development Intern 🛂 | Lawrenceville, GA | <a href="https://www.governmentjobs.com/careers/gwinnett/jobs/4429316/intern-full-stack-software-development-public-safety"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Jane Street | Software Engineer Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7108437002/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
