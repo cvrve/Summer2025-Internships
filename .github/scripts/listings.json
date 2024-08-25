@@ -8109,5 +8109,22 @@
         "date_posted": 1724546591,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546626,
+        "url": "https://amazon.jobs/en/jobs/2738657/security-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Security Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "7330f39b-5599-4504-99dc-2b306afcf163",
+        "date_posted": 1724546626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
