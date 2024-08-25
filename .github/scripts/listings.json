@@ -8092,5 +8092,22 @@
         "date_posted": 1724546567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546591,
+        "url": "https://amazon.jobs/en/jobs/2736987/quality-assurance-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "QA Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "996a2fc9-e414-4b8a-853a-2c587da67eb5",
+        "date_posted": 1724546591,
+        "company_url": "",
+        "is_visible": true
     }
 ]

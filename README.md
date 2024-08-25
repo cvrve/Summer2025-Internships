@@ -87,6 +87,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | Redmond, Washington | <a href="https://jobs.careers.microsoft.com/us/en/job/1751922/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 12 |
 | Barclays | Electronic Trading Intern | New York, NY | <a href="https://search.jobs.barclays/job/new-york/electronic-trading-associate-summer-internship-program-2025-new-york/13015/69010955584"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | ↳ | Quantitative Analytics Intern | New York, NY | <a href="https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-summer-internship-program-2025-new-york/13015/68828535536"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
+| Amazon | QA Intern | Seattle, WA | <a href="https://amazon.jobs/en/jobs/2736987/quality-assurance-engineer-summer-internship-2025-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
+| ↳ | Software Dev Engineer Intern | Cupertino, CA | 🔒 | Aug 10 |
 | Citi Bank | Quantitative Analysis | New York, NY | <a href="https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2025_24739539"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Chamberlain Group | Test Automation Engineering Intern | Elmhurst, IL | <a href="https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/details/Intern--Engineering---Test-Automation--Summer-2025-_JR27862?workerSubType=a1d19ddc127d10332f2265ab00be635b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | myQ Front End Engineer Intern 🛂 | Oak Brook, IL | <a href="https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/details/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800?workerSubType=a1d19ddc127d10332f2265ab00be635b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
@@ -334,7 +336,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | PayPal | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | Martin's Famous Pastry Shoppe Inc | Software Engineering Intern | Chambersburg, PA | 🔒 | Aug 13 |
-| Amazon | Software Dev Engineer Intern | Cupertino, CA | 🔒 | Aug 10 |
 | Clarivate | Product Management Analyst | Alexandria, VA | 🔒 | Aug 07 |
 | Airwallex | Software Engineer Intern | San Francisco, CA | 🔒 | Aug 07 |
 | Johnson & Johnson | Technology Intern 🛂 | <details><summary>**8 locations**</summary>Raritan, NJ</br>New Brunswick, NJ</br>Cambridge, MA</br>Jacksonville, FL</br>Titusville, NJ</br>Spring House, PA</br>Bridgewater, NJ</br>Palm Beach Gardens, FL</details> | 🔒 | Jul 31 |
