@@ -8194,5 +8194,22 @@
         "date_posted": 1724558924,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724559410,
+        "url": "https://careers.hpe.com/us/en/job/HPE1US1177592EXTERNALENUS/Software-Engineering-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HP",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "959fbe6c-77e7-4fbc-b085-24889f7182b4",
+        "date_posted": 1724559410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
