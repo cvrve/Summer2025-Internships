@@ -8058,5 +8058,22 @@
         "date_posted": 1724546500,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724546525,
+        "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-associate-summer-internship-program-2025-new-york/13015/68828535536",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Quantitative Analytics Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f530cda0-04fe-47bd-94a3-7cfcfcf37ae2",
+        "date_posted": 1724546525,
+        "company_url": "",
+        "is_visible": true
     }
 ]
