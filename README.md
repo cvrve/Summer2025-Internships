@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | American Express | Software Engineer Intern | Sunrise, FL | <a href="https://aexp.eightfold.ai/careers?query=intern&pid=24562583&domain=aexp.com&sort_by=relevance"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
+| ↳ | Software Engineer Intern | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers?query=intern&pid=24674562&domain=aexp.com&sort_by=relevance&triggerGoButton=false"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24562584"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Product Management Analyst Intern | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24205300"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Microsoft | Data Science Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1748409/Data-Science%3A-Internship-Opportunities---Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |

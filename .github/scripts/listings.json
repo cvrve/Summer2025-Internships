@@ -8228,5 +8228,22 @@
         "date_posted": 1724603942,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724605219,
+        "url": "https://aexp.eightfold.ai/careers?query=intern&pid=24674562&domain=aexp.com&sort_by=relevance&triggerGoButton=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "8a2cb2a9-bee5-4a1a-b87e-247c57d12610",
+        "date_posted": 1724605219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
