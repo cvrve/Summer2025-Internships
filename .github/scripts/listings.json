@@ -8349,5 +8349,22 @@
         "date_posted": 1724703252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724708961,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000097371EXTERNALENCA/2025-Winter-GRM-PM-CS-Risk-Modelling-and-Machine-Learning-Intern-4-Months",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RBC",
+        "title": "Risk Modelling and Machine Learning Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "d8d788fc-1c74-4bfe-a665-06f6714da2d2",
+        "date_posted": 1724708961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
