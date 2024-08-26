@@ -8262,5 +8262,22 @@
         "date_posted": 1724610858,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724671650,
+        "url": "https://boards.greenhouse.io/dvtrading/jobs/4443921005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Energy",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a3ed0316-c518-413d-b7ec-8b659199d943",
+        "date_posted": 1724671650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
