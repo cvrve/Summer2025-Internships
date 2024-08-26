@@ -8313,5 +8313,23 @@
         "date_posted": 1724681643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724689837,
+        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2024-2025-Campus-Internship---Information-Systems-Information-Technology_R2050597",
+        "locations": [
+            "Midland, MI",
+            "Houston, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Dow",
+        "title": "Information Systems Intern",
+        "season": "Summer",
+        "source": "srimathivadivel",
+        "id": "d9a89cf3-5089-4853-bfc3-eb5464184e8d",
+        "date_posted": 1724689837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
