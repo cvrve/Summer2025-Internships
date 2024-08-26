@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | DV Energy | Software Developer Intern | New York, NY | <a href="https://boards.greenhouse.io/dvtrading/jobs/4443921005"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
+| Thomson Reuters | Software Engineering Intern | Eagan, MN | <a href="https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ181909EXTERNALENUS/Software-Engineering-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | American Express | Software Engineer Intern | Sunrise, FL | <a href="https://aexp.eightfold.ai/careers?query=intern&pid=24562583&domain=aexp.com&sort_by=relevance"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Engineer Intern | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers?query=intern&pid=24674562&domain=aexp.com&sort_by=relevance&triggerGoButton=false"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/24562584"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
