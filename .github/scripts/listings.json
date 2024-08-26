@@ -8296,5 +8296,22 @@
         "date_posted": 1724671696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724681643,
+        "url": "https://careers.thomsonreuters.com/us/en/job/THTTRUUSJREQ181909EXTERNALENUS/Software-Engineering-Intern-Summer-2025",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thomson Reuters",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2ff25724-04d0-493c-a9c8-e13868a3aa53",
+        "date_posted": 1724681643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
