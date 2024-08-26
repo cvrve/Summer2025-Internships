@@ -8279,5 +8279,22 @@
         "date_posted": 1724671650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724671696,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Computer-Science---Computer-Engineering-Intern--Spring-2025_10097903",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ESPN",
+        "title": "Computer Science & Computer Engineering Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "57923ca6-981d-42dd-bf62-ce2f52fe7eb6",
+        "date_posted": 1724671696,
+        "company_url": "",
+        "is_visible": true
     }
 ]
