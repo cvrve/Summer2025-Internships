@@ -8366,5 +8366,24 @@
         "date_posted": 1724708961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724777561,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco Meraki",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "c80b2fe3-8d27-42be-ac94-4bc3129db8ea",
+        "date_posted": 1724777561,
+        "company_url": "",
+        "is_visible": true
     }
 ]
