@@ -8423,5 +8423,24 @@
         "date_posted": 1724779554,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724779658,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-QA-Intern-FY25-Summer-2025/1427979",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco Meraki",
+        "title": "QA Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "64dfb2b6-97e0-412e-8b2b-044cc236cb4b",
+        "date_posted": 1724779658,
+        "company_url": "",
+        "is_visible": true
     }
 ]
