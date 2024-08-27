@@ -8385,5 +8385,24 @@
         "date_posted": 1724777561,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724779501,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1426569",
+        "locations": [
+            "San Jose, CA",
+            "RTP, NC",
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Hardware Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "f2cb704b-ad80-444b-9c92-4a15a57e199c",
+        "date_posted": 1724779501,
+        "company_url": "",
+        "is_visible": true
     }
 ]
