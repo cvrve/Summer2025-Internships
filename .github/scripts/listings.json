@@ -8404,5 +8404,24 @@
         "date_posted": 1724779501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724779554,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-FY25-Summer-2025-Meraki/1427976",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco Meraki",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "4222b58f-5f59-4c70-8ba6-198c777f8030",
+        "date_posted": 1724779554,
+        "company_url": "",
+        "is_visible": true
     }
 ]
