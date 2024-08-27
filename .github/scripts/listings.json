@@ -8461,5 +8461,22 @@
         "date_posted": 1724779737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724780026,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?NTKN=c&clid=21001&page=jobdetails&JobId=J0824-1757&lang=1",
+        "locations": [
+            "Multiple"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "jeffreywangzhi",
+        "id": "95539415-a5d4-4593-99cd-5c2a82c27924",
+        "date_posted": 1724780026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
