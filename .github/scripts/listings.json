@@ -8442,5 +8442,24 @@
         "date_posted": 1724779658,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724779737,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Intern-FY25-Summer-2025-Meraki/1427978",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco Meraki",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "295828ee-cbfb-40a2-9d9d-5393e02564af",
+        "date_posted": 1724779737,
+        "company_url": "",
+        "is_visible": true
     }
 ]
