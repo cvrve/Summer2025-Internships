@@ -8634,5 +8634,22 @@
         "date_posted": 1724874023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724874043,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4174194004",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garda Capital Partners",
+        "title": "Software Engineer Intern(Python)",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dec49917-ea70-4607-ac5d-10a8c24f41e7",
+        "date_posted": 1724874043,
+        "company_url": "",
+        "is_visible": true
     }
 ]
