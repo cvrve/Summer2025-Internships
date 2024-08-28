@@ -8478,5 +8478,22 @@
         "date_posted": 1724780026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724803438,
+        "url": "https://careers.equifax.com/en/jobs/j00160958/site-reliability-engineer-intern/",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Equifax",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8d50c99-96a0-4215-9a53-167a546e085b",
+        "date_posted": 1724803438,
+        "company_url": "",
+        "is_visible": true
     }
 ]
