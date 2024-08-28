@@ -8495,5 +8495,22 @@
         "date_posted": 1724803438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724823192,
+        "url": "https://careers.equifax.com/en/jobs/j00160869/software-engineering-intern/",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Equifax",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a4555e8d-2f18-417d-9a1d-d1b70569da32",
+        "date_posted": 1724823192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
