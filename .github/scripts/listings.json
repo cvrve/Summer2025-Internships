@@ -8583,5 +8583,22 @@
         "date_posted": 1724859806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724859871,
+        "url": "https://www.jobs-ups.com/job/-/-/1187/69216247280",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UPS",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0b006ca1-b886-4fed-8d64-65187c222860",
+        "date_posted": 1724859871,
+        "company_url": "",
+        "is_visible": true
     }
 ]
