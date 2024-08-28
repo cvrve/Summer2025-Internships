@@ -8617,5 +8617,22 @@
         "date_posted": 1724859931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724874023,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4445441004",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garda Capital Partners",
+        "title": "Software Engineer Intern(.NET)",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "75a035f6-172f-49bc-99d6-04550ad60adb",
+        "date_posted": 1724874023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
