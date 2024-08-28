@@ -8532,5 +8532,22 @@
         "date_posted": 1724825919,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724826118,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R49642-1",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "30ce8fdf-787a-46a5-8fc3-4b7554df325e",
+        "date_posted": 1724826118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
