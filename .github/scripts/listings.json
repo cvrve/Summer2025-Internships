@@ -8512,5 +8512,25 @@
         "date_posted": 1724823192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724825919,
+        "url": "https://ea.gr8people.com/jobs/185566/software-engineer-intern",
+        "locations": [
+            "Redwood City, CA",
+            "Orlando, FL",
+            "Austin, TX",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe90b5a1-16bd-4d53-a74a-64d9f44e8365",
+        "date_posted": 1724825919,
+        "company_url": "",
+        "is_visible": true
     }
 ]
