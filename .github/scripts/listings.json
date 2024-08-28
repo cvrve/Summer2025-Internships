@@ -8600,5 +8600,22 @@
         "date_posted": 1724859871,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724859931,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/job/public-investments-quantitative-analyst-internship-undergraduate-level-milwaukee-wi-corporate-jr-41641/",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwest Mutual",
+        "title": "Quantitative Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fcd83299-0ff1-4c66-954a-acf750cd5b0c",
+        "date_posted": 1724859931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
