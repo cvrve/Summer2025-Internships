@@ -8723,5 +8723,23 @@
         "date_posted": 1724906764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724906895,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Computer-Architecture_JR1986532",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Computer Architecture Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e886d9ae-7648-4cce-a9d9-3ef1c6fe1a5b",
+        "date_posted": 1724906895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
