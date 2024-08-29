@@ -8813,5 +8813,22 @@
         "date_posted": 1724909691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909731,
+        "url": "https://careers.deere.com/careers/job/137463726881",
+        "locations": [
+            "Moline, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "23be7daa-e5ed-48dc-b036-c968d110eab9",
+        "date_posted": 1724909731,
+        "company_url": "",
+        "is_visible": true
     }
 ]
