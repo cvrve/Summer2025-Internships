@@ -8794,5 +8794,24 @@
         "date_posted": 1724909631,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909691,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255786",
+        "locations": [
+            "Santa Clara, CA",
+            "Pleasanton, CA",
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5051a9e2-e621-42cd-8056-65acbe680f3b",
+        "date_posted": 1724909691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
