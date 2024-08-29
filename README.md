@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MongoDB | Software Engineering Intern, Product | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Keysight | AI/ML Software Developer Intern | Santa Rosa, CA | <a href="https://jobs.keysight.com/external/jobs/44103/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Ericsson | Software Developer Intern 🛂 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job/563121760620475?domain=ericsson.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | UPS | Technology Intern | Parsippany, NJ | <a href="https://www.jobs-ups.com/job/-/-/1187/69216247280"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |

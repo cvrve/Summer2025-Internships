@@ -8919,5 +8919,22 @@
         "date_posted": 1724909934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724944254,
+        "url": "https://app.ripplematch.com/v2/public/job/09e1dc0b/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineering Intern, Product",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7ae15911-14c1-4277-8372-bff679f2931b",
+        "date_posted": 1724944254,
+        "company_url": "",
+        "is_visible": true
     }
 ]
