@@ -8669,5 +8669,23 @@
         "date_posted": 1724904267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724904344,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Hardware-Physical-Design---VLSI_JR1986529",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware Physical Design Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "150d706e-60cb-44c6-b440-28e9fd4c4d61",
+        "date_posted": 1724904344,
+        "company_url": "",
+        "is_visible": true
     }
 ]
