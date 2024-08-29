@@ -8776,5 +8776,23 @@
         "date_posted": 1724909616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909631,
+        "url": "https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-remote/",
+        "locations": [
+            "Poughkeepsie, NY",
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Back End Developer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "e51c8520-86a6-4e61-84cd-fcf9556316ad",
+        "date_posted": 1724909631,
+        "company_url": "",
+        "is_visible": true
     }
 ]
