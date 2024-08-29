@@ -8759,5 +8759,22 @@
         "date_posted": 1724908977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909616,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5267671004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Capture Technician Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5e53b122-2d1f-4322-89ec-f7449d2be813",
+        "date_posted": 1724909616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
