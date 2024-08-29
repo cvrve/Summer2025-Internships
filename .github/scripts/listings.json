@@ -8741,5 +8741,23 @@
         "date_posted": 1724906895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724908977,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Hardware-Engineering_JR1986530",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b1b3f8aa-c47b-4029-b4d4-b6fc4837b667",
+        "date_posted": 1724908977,
+        "company_url": "",
+        "is_visible": true
     }
 ]
