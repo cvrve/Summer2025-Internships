@@ -8953,5 +8953,22 @@
         "date_posted": 1724959063,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724966042,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6201998",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Squarepoint Capital",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5d1165d0-d1e4-4b3e-a869-9443e40ff566",
+        "date_posted": 1724966042,
+        "company_url": "",
+        "is_visible": true
     }
 ]
