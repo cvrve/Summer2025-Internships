@@ -8830,5 +8830,23 @@
         "date_posted": 1724909731,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909804,
+        "url": "https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Greif-Pkwy/Summer-2025-Data-Engineering-Intern_028133",
+        "locations": [
+            "Delaware, OH",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Greif",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "845b1a0e-44b7-4761-84cc-ca93ee6f2587",
+        "date_posted": 1724909804,
+        "company_url": "",
+        "is_visible": true
     }
 ]
