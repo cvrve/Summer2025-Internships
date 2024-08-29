@@ -8883,5 +8883,23 @@
         "date_posted": 1724909879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909908,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Artificial-Intelligence-and-Deep-Learning_JR1986536",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Artificial Intelligence and Deep Learning",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3a36adf-f980-4f76-985a-de5479cb7a69",
+        "date_posted": 1724909908,
+        "company_url": "",
+        "is_visible": true
     }
 ]
