@@ -8848,5 +8848,22 @@
         "date_posted": 1724909804,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909821,
+        "url": "https://ripple.com/careers/all-jobs/job/6213647/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ripple",
+        "title": "Blockchain Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c9dec75b-1867-4ceb-8d0c-501193bbba05",
+        "date_posted": 1724909821,
+        "company_url": "",
+        "is_visible": true
     }
 ]
