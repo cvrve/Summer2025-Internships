@@ -8865,5 +8865,23 @@
         "date_posted": 1724909821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724909879,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Systems-Software-Engineering_JR1986534",
+        "locations": [
+            "Santa Clara, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Systems Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6d24b3a8-139e-4282-84d8-6fff2d56b1a6",
+        "date_posted": 1724909879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
