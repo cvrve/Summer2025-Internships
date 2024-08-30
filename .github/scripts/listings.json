@@ -9408,5 +9408,22 @@
         "date_posted": 1725024015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725024212,
+        "url": "https://careers.micron.com/careers/job/24788526-intern-ai-ml-algorithms-silicon-systems-ai-san-jose-california-united-states-of-america?domain=micron.com",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "AI/ML Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d327a04c-88ae-4834-bb31-5dda1d8a257a",
+        "date_posted": 1725024212,
+        "company_url": "",
+        "is_visible": true
     }
 ]
