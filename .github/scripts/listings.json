@@ -9075,5 +9075,22 @@
         "date_posted": 1724991617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724991978,
+        "url": "https://www.allstate.jobs/job/20945059/machine-learning-engineer-intern-north-carolina-nc/",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AllState",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9fc7c19e-a51d-44c9-abc2-c70fa63cf7a8",
+        "date_posted": 1724991978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
