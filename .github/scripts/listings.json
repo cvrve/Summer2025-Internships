@@ -9092,5 +9092,23 @@
         "date_posted": 1724991978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992148,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210548057",
+        "locations": [
+            "New York, NY",
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J. P. Morgan",
+        "title": "Immersive Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d2784364-c8d8-406a-9d5f-6bd4daab940f",
+        "date_posted": 1724992148,
+        "company_url": "",
+        "is_visible": true
     }
 ]
