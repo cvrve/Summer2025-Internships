@@ -9269,5 +9269,22 @@
         "date_posted": 1724992794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992854,
+        "url": "https://careers.keurigdrpepper.com/en/job/frisco/summer-2025-intern-information-technology-project-management-office/42849/69250020880",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KDP",
+        "title": "Project Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1f280bc0-d44e-428e-afd3-45ba8b34089b",
+        "date_posted": 1724992854,
+        "company_url": "",
+        "is_visible": true
     }
 ]
