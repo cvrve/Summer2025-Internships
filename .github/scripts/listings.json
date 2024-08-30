@@ -9161,5 +9161,24 @@
         "date_posted": 1724992404,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992529,
+        "url": "https://careers.ibm.com/job/20939607/associate-data-scientist-intern-2025-remote/?&codes=Appcast_Indeed_O&ccuid=56363043820&_ccid=17249923517446jid0q3co&ittk=PLQM00HIRD",
+        "locations": [
+            "New York, NY",
+            "Washington D.C",
+            "Sandy Springs, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Associate Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ef60251f-4979-44e1-a95f-6956709dbcb1",
+        "date_posted": 1724992529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
