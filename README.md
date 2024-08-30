@@ -78,6 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Walmart | Product Manager Intern | Bentonville, AR | <a href="https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Legacy-I-A---Product-Manager-II---Evergreen-_R-1974921"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| ↳ | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | MongoDB | Software Engineering Intern, Product | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Workiva | Data Engineering Intern | Denver, CO | <a href="https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/XMLNAME-2025-Summer-Intern---Data-Engineering_R9028"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Machine Learning Engineering Intern 🛂 | Denver, CO</br>Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/Intern---Machine-Learning-Engineering_R8718-1?workerSubType=831d1538442f014d2d2badf7c52a6e07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
@@ -415,7 +417,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | <details><summary>**28 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Ryleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington, DC</details> | 🔒 | Jun 17 |
 | Ventas, Inc | Software Engineer Intern 🛂 | Chicago, IL | 🔒 | May 26 |
 | Cranium | AI/ML Engineer Intern | Short Hills, NJ | 🔒 | May 14 |
-| Walmart | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | Bridgewater Associates | Investment Engineer Intern | Westport, CT | 🔒 | May 02 |
 | Chicago Trading Company | Quant Trading Analyst Intern | Chicago, IL | 🔒 | May 02 |
 | ↳ | Software Engineer Intern | Chicago, IL | 🔒 | May 01 |
