@@ -9235,5 +9235,22 @@
         "date_posted": 1724992654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992757,
+        "url": "https://careers.ibm.com/job/20942917/federal-developer-intern-washington-dc/?&codes=Appcast_Indeed_O&ccuid=56363088915&_ccid=1724992652421ferb0vo9c&ittk=XJHBT4G8MA",
+        "locations": [
+            "Washington D.C"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Federal Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3fd2959d-5fe8-4832-80e2-abfdad899eae",
+        "date_posted": 1724992757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
