@@ -71,6 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Splunk | Product Manager Intern | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/or8pufwc?__jvst=Job%20Board&__jvsd=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
+| ↳ | Applied Scientist Intern - PhD | Remote | <a href="https://www.splunk.com/en_us/careers/jobs/applied-scientist-intern-phd-30373.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | IBM | Back End Developer Intern | Poughkeepsie, NY</br>Austin, TX | <a href="https://careers.ibm.com/job/20939608/back-end-developer-intern-2025-remote/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | ESPN | Computer Science & Computer Engineering Intern | Lake Buena Vista, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Computer-Science---Computer-Engineering-Intern--Spring-2025_10097903"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | RBC | Risk Modelling and Machine Learning Intern | Toronto, Canada | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000097371EXTERNALENCA/2025-Winter-GRM-PM-CS-Risk-Modelling-and-Machine-Learning-Intern-4-Months"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
@@ -187,7 +189,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Kognitos | Software Engineer Intern | San Jose, CA | <a href="https://www.kognitos.com/careers/?ashby_jid=d63ef3cf-ea29-4259-af85-dd8def262215#apply-now"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Netflix | Machine Learning Intern - Masters/PhD | Los Gatos, CA</br>Los Angeles, CA | <a href="https://jobs.netflix.com/jobs/338884555"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Applied Materials | AI/ML Co-op | Gloucester, MA | <a href="https://careers.appliedmaterials.com/careers/job/790296371041"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
-| Splunk | Applied Scientist Intern - PhD | Remote | <a href="https://www.splunk.com/en_us/careers/jobs/applied-scientist-intern-phd-30373.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Numerade | Data Scientist Intern | Remote | <a href="https://www.numerade.com/careers/?gh_jid=5221314004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Xos | System Engineering Intern | Los Angeles, CA | <a href="https://www.xostrucks.com/careers?gh_jid=5191704004&gh_src=c37b93264us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Ciena | Software Intern | Atlanta, GA | <a href="https://careers.ciena.com/us/en/job/CIENUSR025525ENUS/Software-Intern-Fall-2024?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
