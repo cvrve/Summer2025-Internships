@@ -9442,5 +9442,23 @@
         "date_posted": 1725024298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725024397,
+        "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2025-Summer-Intern---Software-Developer_R8998",
+        "locations": [
+            "Salut St.Marie, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "119b0c28-aa83-40c3-9c3c-5c43b2646d6e",
+        "date_posted": 1725024397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
