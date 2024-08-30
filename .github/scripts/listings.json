@@ -9041,5 +9041,22 @@
         "date_posted": 1724990352,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724990726,
+        "url": "https://careers.zebra.com/careers/job/343621712678?domain=zebra.com",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a809d967-47f9-40e0-8b7c-d0e3bbd5b82c",
+        "date_posted": 1724990726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
