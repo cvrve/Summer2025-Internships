@@ -9373,5 +9373,22 @@
         "date_posted": 1725023853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725023928,
+        "url": "https://careers.zebra.com/careers/job/343621793737?domain=zebra.com",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bee604e1-bd72-41f3-abbd-703887933a78",
+        "date_posted": 1725023928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
