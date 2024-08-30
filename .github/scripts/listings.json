@@ -9425,5 +9425,22 @@
         "date_posted": 1725024212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725024298,
+        "url": "https://careers.ti.com/job/20929684/information-technology-intern-infrastructure-dallas-tx/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "502c6ccc-a573-4daf-a68d-28730dd5740d",
+        "date_posted": 1725024298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
