@@ -9216,5 +9216,24 @@
         "date_posted": 1724992608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992654,
+        "url": "https://careers.ibm.com/job/20939602/associate-consultant-intern-2025-remote/?&codes=Appcast_Indeed_O&ccuid=56363053993&_ccid=1724992420350y7h9zdm0r&ittk=1H54RBF6OR",
+        "locations": [
+            "New York, NY",
+            "Washington D.C",
+            "Sandy Springs, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Associate Consultant Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "551884e8-0335-47f8-9e6f-74bbbdf9f76d",
+        "date_posted": 1724992654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
