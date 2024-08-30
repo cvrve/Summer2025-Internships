@@ -9477,5 +9477,22 @@
         "date_posted": 1725024480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725029162,
+        "url": "https://jobs.jnj.com/en/jobs/2406207321w/summer-2025-product-management-intern/",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d53d9931-f45e-4b78-8697-85a1d768031c",
+        "date_posted": 1725029162,
+        "company_url": "",
+        "is_visible": true
     }
 ]

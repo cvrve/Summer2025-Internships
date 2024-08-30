@@ -97,6 +97,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Science Intern 🛂 | Denver, CO</br>Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Denver/Intern---Data-Science_R8720?workerSubType=831d1538442f014d2d2badf7c52a6e07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | ↳ | Software Engineer Intern 🛂 | Ames, IA</br>Remote | <a href="https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/XMLNAME-2025-Summer-Intern---Software-Engineer_R9088?workerSubType=831d1538442f014d2d2badf7c52a6e07"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | SAP | DevOps iXp Intern | Montreal, Canada | <a href="https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-CX-Cloud-Operation-DevOps-Queb-H3B-0B3/1086526001/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| Johnson & Johnson | Product Management Intern | Jacksonville, FL | <a href="https://jobs.jnj.com/en/jobs/2406207321w/summer-2025-product-management-intern/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| ↳ | Technology Intern 🛂 | <details><summary>**8 locations**</summary>Raritan, NJ</br>New Brunswick, NJ</br>Cambridge, MA</br>Jacksonville, FL</br>Titusville, NJ</br>Spring House, PA</br>Bridgewater, NJ</br>Palm Beach Gardens, FL</details> | 🔒 | Jul 31 |
 | MongoDB | Software Engineering Intern, Product | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Squarepoint Capital | Software Developer Intern | Montreal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6201998"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | TD Bank | Software Engineer Intern | Mount Laurel, NJ</br>Fort Lauderdale, FL | <a href="https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2025-Summer-Internship-Program----Platforms---Technology---Software-Engineer_R_1365598"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
@@ -411,7 +413,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Martin's Famous Pastry Shoppe Inc | Software Engineering Intern | Chambersburg, PA | 🔒 | Aug 13 |
 | Clarivate | Product Management Analyst | Alexandria, VA | 🔒 | Aug 07 |
 | Airwallex | Software Engineer Intern | San Francisco, CA | 🔒 | Aug 07 |
-| Johnson & Johnson | Technology Intern 🛂 | <details><summary>**8 locations**</summary>Raritan, NJ</br>New Brunswick, NJ</br>Cambridge, MA</br>Jacksonville, FL</br>Titusville, NJ</br>Spring House, PA</br>Bridgewater, NJ</br>Palm Beach Gardens, FL</details> | 🔒 | Jul 31 |
 | Intuitive Surgical | Systems Analyst Research Intern | Sunnyvale, CA | 🔒 | Jul 30 |
 | Software | Software Analyst Intern | Oklahoma City, OK | 🔒 | Jul 24 |
 | T. Rowe Price | Software Engineering Intern 🛂 | Owings Mills, MD</br>Baltimore, MD | 🔒 | Jul 23 |
