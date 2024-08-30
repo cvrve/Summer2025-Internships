@@ -9338,5 +9338,23 @@
         "date_posted": 1724993195,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724993256,
+        "url": "https://careers.carmax.com/us/en/job/CARMUSJR142734/Technology-Intern",
+        "locations": [
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CarMax",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3849123f-dc6a-4c9e-a5cd-93f422f1d775",
+        "date_posted": 1724993256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
