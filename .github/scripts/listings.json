@@ -9252,5 +9252,22 @@
         "date_posted": 1724992757,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992794,
+        "url": "https://careers.ibm.com/job/20942918/federal-consultant-intern-washington-dc/?&codes=Appcast_Indeed_O&ccuid=56363089657&_ccid=17249926570655ywe9xe6i&ittk=LMLXQDKGWQ",
+        "locations": [
+            "Washington, D.C"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Federal Consultant Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7b7f918c-686a-487a-a464-db0736c996bb",
+        "date_posted": 1724992794,
+        "company_url": "",
+        "is_visible": true
     }
 ]
