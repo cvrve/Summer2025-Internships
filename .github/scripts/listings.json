@@ -9356,5 +9356,22 @@
         "date_posted": 1724993256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725023853,
+        "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Legacy-I-A---Product-Manager-II---Evergreen-_R-1974921",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "14a588ce-24a3-4218-a8db-e6ec97f4b51b",
+        "date_posted": 1725023853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
