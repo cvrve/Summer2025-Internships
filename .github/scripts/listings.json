@@ -9144,5 +9144,22 @@
         "date_posted": 1724992264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992404,
+        "url": "https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822?lang=en-us",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Est\u00e9e Lauder",
+        "title": "Information Technology A.I. Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75a38914-021c-4b35-8785-a732eaddeda6",
+        "date_posted": 1724992404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
