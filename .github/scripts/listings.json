@@ -9110,5 +9110,22 @@
         "date_posted": 1724992148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992221,
+        "url": "https://jobs.keysight.com/external/jobs/44214/job",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "afd47652-fee1-49de-b9fc-521f10de76b9",
+        "date_posted": 1724992221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
