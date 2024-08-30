@@ -9024,5 +9024,22 @@
         "date_posted": 1724977550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724990352,
+        "url": "https://careers.garmin.com/careers-home/jobs/14220?lang=en-us&previousLocale=en-US",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern - Non-Embedded",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5eaa0ee4-1ee6-4a01-b5a1-583126d02d8e",
+        "date_posted": 1724990352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
