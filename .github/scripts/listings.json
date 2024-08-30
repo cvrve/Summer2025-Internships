@@ -9286,5 +9286,22 @@
         "date_posted": 1724992854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992895,
+        "url": "https://careers.keurigdrpepper.com/en/job/frisco/summer-2025-intern-it-automation-prompt-engineer/42849/69245653728",
+        "locations": [
+            "Frisco. TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "KDP",
+        "title": "Prompt Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "85d65836-8299-4aac-897a-0e069e45dacd",
+        "date_posted": 1724992895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
