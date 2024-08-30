@@ -9006,5 +9006,23 @@
         "date_posted": 1724977487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724977550,
+        "url": "https://jobs.dropbox.com/listing/6209863",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dropbox",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b80a37a8-08b0-49d5-ae6e-4b96e2d7b3db",
+        "date_posted": 1724977550,
+        "company_url": "",
+        "is_visible": true
     }
 ]
