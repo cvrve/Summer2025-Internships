@@ -9320,5 +9320,23 @@
         "date_posted": 1724993088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724993195,
+        "url": "https://jobs.eversource.com/job/-/-/7774/69245540608",
+        "locations": [
+            "Berlin, CT",
+            "Westwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eversource",
+        "title": "Engineering Data Science Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "895589eb-71c4-435f-8483-2f6b41bda134",
+        "date_posted": 1724993195,
+        "company_url": "",
+        "is_visible": true
     }
 ]
