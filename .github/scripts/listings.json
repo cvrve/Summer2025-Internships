@@ -9197,5 +9197,24 @@
         "date_posted": 1724992561,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992608,
+        "url": "https://careers.ibm.com/job/20939612/product-management-intern-2025-remote/?&codes=Appcast_Indeed_O&ccuid=56363053262&_ccid=1724992416037k5hycrfqc&ittk=ZSE3KU36VI",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Lowell, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4529a602-6756-4537-8782-8d2908be933b",
+        "date_posted": 1724992608,
+        "company_url": "",
+        "is_visible": true
     }
 ]
