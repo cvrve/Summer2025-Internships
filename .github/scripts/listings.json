@@ -9180,5 +9180,22 @@
         "date_posted": 1724992529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724992561,
+        "url": "https://careers.ibm.com/job/20942919/federal-data-engineer-intern-reston-va/?&codes=Appcast_Indeed_O&ccuid=56363052805&_ccid=1724992413022gnmsk3rzt&ittk=IIS7VTKAM1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Federal Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f494b865-623b-4910-9395-87873fa82fb5",
+        "date_posted": 1724992561,
+        "company_url": "",
+        "is_visible": true
     }
 ]
