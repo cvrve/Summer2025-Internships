@@ -9460,5 +9460,22 @@
         "date_posted": 1725024397,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725024480,
+        "url": "https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-CX-Cloud-Operation-DevOps-Queb-H3B-0B3/1086526001/",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "DevOps iXp Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9b9a14e2-9649-45cc-af59-e88f5b17f15e",
+        "date_posted": 1725024480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
