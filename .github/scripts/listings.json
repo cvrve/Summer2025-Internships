@@ -9857,5 +9857,22 @@
         "date_posted": 1725082051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725082432,
+        "url": "https://careers.deere.com/careers/job/137463726880",
+        "locations": [
+            "Moline, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "41968ad8-5c58-4dce-9ef2-0deaa994b304",
+        "date_posted": 1725082432,
+        "company_url": "",
+        "is_visible": true
     }
 ]
