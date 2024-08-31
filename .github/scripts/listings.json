@@ -9738,5 +9738,22 @@
         "date_posted": 1725081034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081748,
+        "url": "https://www.amazon.jobs/en/jobs/2750005/amazon-robotics-software-development-engineer-co-op-spring-2025-toronto",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Co-Op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "db473258-5785-4b71-80a1-73da5357dcc8",
+        "date_posted": 1725081748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
