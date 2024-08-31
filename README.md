@@ -217,8 +217,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Chamberlain Group | Test Automation Engineering Intern | Elmhurst, IL | <a href="https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/details/Intern--Engineering---Test-Automation--Summer-2025-_JR27862?workerSubType=a1d19ddc127d10332f2265ab00be635b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | myQ Front End Engineer Intern 🛂 | Oak Brook, IL | <a href="https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/details/Intern--myQ-Front-End-Engineer--Android-or-iOS---Summer-2025-_JR27800?workerSubType=a1d19ddc127d10332f2265ab00be635b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Stripe | Software Engineering Intern | Seattle, WA</br>New York, NY</br>San Francisco, CA | <a href="https://stripe.com/jobs/listing/software-engineer-intern/6142753"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
-| Phillips | Data Engineer Co-op | Reedsville, PA | <a href="https://www.careers.philips.com/student/global/en/job/533682/Co-op-Data-Engineering-Reedsville-PA-June-December-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
-| ↳ | Software Engineer Intern | Plymouth, MN | 🔒 | Aug 23 |
 | Delta | Software Engineer Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Intern-Software-Engineering-Summer-2025/25638?jobId=25638"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Data Science Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Operations-Research-Data-Science-Summer-2025/25668?jobId=25668"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Data Analytics Intern | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Revenue-Tech-and-Data-Analytics-Summer-2025/25666?jobId=25666"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
@@ -425,6 +423,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Ripple | Blockchain Data Scientist Intern | Toronto, Canada | 🔒 | Aug 28 |
+| Phillips | Data Engineer Co-op | Reedsville, PA | 🔒 | Aug 23 |
+| ↳ | Software Engineer Intern | Plymouth, MN | 🔒 | Aug 23 |
 | Amadeus | Software Engineer Intern | Irving, TX | 🔒 | Aug 21 |
 | Plexus | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
