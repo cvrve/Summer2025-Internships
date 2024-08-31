@@ -9996,5 +9996,22 @@
         "date_posted": 1725140560,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725140957,
+        "url": "https://www.schwabjobs.com/job/-/-/33727/69363543616",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Model Risk Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2194ad2b-ad97-4b21-a3e1-e82ad23b543d",
+        "date_posted": 1725140957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
