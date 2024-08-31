@@ -9823,5 +9823,22 @@
         "date_posted": 1725081914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081931,
+        "url": "https://careers.micron.com/careers/job/24775191",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Product Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "567d2365-96ce-4186-a224-8edecbc21552",
+        "date_posted": 1725081931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
