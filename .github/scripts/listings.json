@@ -9772,5 +9772,22 @@
         "date_posted": 1725081817,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081831,
+        "url": "https://www.allstate.jobs/job/20950600/arity-data-science-intern-north-carolina-nc",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AllState - Arity",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2896d730-ea6f-4534-967c-f24ada9b098f",
+        "date_posted": 1725081831,
+        "company_url": "",
+        "is_visible": true
     }
 ]
