@@ -330,7 +330,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | BNY Mellon | Engineering Internship 🛂 | <details><summary>**4 locations**</summary>Pittsburgh, PA</br>Lake Mary, FL</br>New York, NY</br>Jersey City, NJ</details> | <a href="https://bnymellon.eightfold.ai/careers/job/24237650"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | ArrowStreet Capital | Quantitative Developer Intern | Boston, MA | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | ↳ | Investment Processes Intern | Boston, MA | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Investment-Processes-Intern--Summer-2025_R1119"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
-| ForeFlight | Software Engineer Intern | Austin, TX | <a href="https://recruiting2.ultipro.com/FOR1029FREF/JobBoard/96ee3e38-47f2-48cc-95d1-5eef02c27844/OpportunityDetail?opportunityId=947c1c49-546e-460f-bf50-34268467f457&postingId=bbadde5c-967a-4a53-8ca4-f62eedc39a2c"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Bank of America | Global Technology Analyst Intern | <details><summary>**8 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Dallas Metro, TX</br>Denver, CO</br>New York, NY</br>Pennington, NJ</br>Richmond, VA</br>Washington, DC</details> | <a href="https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | ↳ | Global Quantitative Analytics Summer 2025 Analyst | U.S. and Canada | <a href="https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/11660-Global-Quantitative-Analytics-Summer-2025-Analyst/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 02 |
 | ↳ | Technology Summer Analyst Intern | <details><summary>**7 locations**</summary>Colorado</br>Illinois</br>New Jersey</br>New York</br>NC</br>Texas</br>Virginia</details> | <a href="https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/11482-Global-Technology-Summer-Analyst-Program-2025/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
@@ -438,6 +437,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Martin's Famous Pastry Shoppe Inc | Software Engineering Intern | Chambersburg, PA | 🔒 | Aug 13 |
 | Clarivate | Product Management Analyst | Alexandria, VA | 🔒 | Aug 07 |
 | Airwallex | Software Engineer Intern | San Francisco, CA | 🔒 | Aug 07 |
+| ForeFlight | Software Engineer Intern | Austin, TX | 🔒 | Aug 04 |
 | Intuitive Surgical | Systems Analyst Research Intern | Sunnyvale, CA | 🔒 | Jul 30 |
 | Software | Software Analyst Intern | Oklahoma City, OK | 🔒 | Jul 24 |
 | T. Rowe Price | Software Engineering Intern 🛂 | Owings Mills, MD</br>Baltimore, MD | 🔒 | Jul 23 |
