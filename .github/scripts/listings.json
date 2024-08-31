@@ -9891,5 +9891,24 @@
         "date_posted": 1725082469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725082527,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Sales-Systems-Engineer-Summer-2025-Internship-Program_R49569",
+        "locations": [
+            "Linthicum, MD",
+            "Washington D.C",
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Sales Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7897c725-cc80-4b9b-9971-655edee86f18",
+        "date_posted": 1725082527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
