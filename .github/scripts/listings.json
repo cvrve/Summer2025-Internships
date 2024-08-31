@@ -9580,5 +9580,22 @@
         "date_posted": 1725079705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725079771,
+        "url": "https://jobportal.martinbrower.com/mb/jobs/16593/job",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin Brower",
+        "title": "IT Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "397bb79b-385a-406c-a4b3-ff8f7d06aa06",
+        "date_posted": 1725079771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
