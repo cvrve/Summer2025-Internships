@@ -9494,5 +9494,23 @@
         "date_posted": 1725029162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725068014,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256285",
+        "locations": [
+            "Austin, TX",
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - NetSuite",
+        "season": "Summer",
+        "source": "wanhaozhou",
+        "id": "114c4708-656e-4e48-9624-a6d7709e7f92",
+        "date_posted": 1725068014,
+        "company_url": "",
+        "is_visible": true
     }
 ]
