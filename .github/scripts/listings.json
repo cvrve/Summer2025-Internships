@@ -9979,5 +9979,22 @@
         "date_posted": 1725139605,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725140560,
+        "url": "https://job-boards.greenhouse.io/zip/jobs/5268304004",
+        "locations": [
+            "San Francisco. CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zip",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f3129b92-688e-4114-9c24-fe525529271c",
+        "date_posted": 1725140560,
+        "company_url": "",
+        "is_visible": true
     }
 ]
