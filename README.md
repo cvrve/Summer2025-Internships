@@ -283,7 +283,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Hudson River Trading | Software Engineering Intern 🛂 | New York, NY | <a href="https://boards.greenhouse.io/wehrtyou/jobs/6139035?"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | GEICO | Software Development Intern | <details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>North Liberty, IA</br>Katy, TX</br>Renton, WA</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Marlton, NJ</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details> | <a href="https://geico.wd1.myworkdayjobs.com/External/job/Chevy-Chase-MD/Software-Development-Intern_R0051950"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Stoke Space | Software Intern | Kent, WA | <a href="https://www.stokespace.com/careers/current-openings/?gh_jid=5258722004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
-| Leidos | Software Engineer Intern | Arlington, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern---Summer-2025_R-00141899"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Hudl | Software Engineer Intern | Lincoln, NE | <a href="https://boards.greenhouse.io/hudl/jobs/6176329"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | CACI | Software Engineering Intern 🛂 | Lisle, IL | <a href="https://careers.caci.com/global/en/job/CACIGLOBAL300424EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 16 |
 | ↳ | Software Engineering Intern – Summer 2025 | Lisle, IL | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2025_300424-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
@@ -432,6 +431,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Amadeus | Software Engineer Intern | Irving, TX | 🔒 | Aug 21 |
 | Plexus | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
+| Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
 | Duolingo | Software Engineer Intern | Pittsburgh, PA | 🔒 | Aug 14 |
 | PayPal | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
