@@ -9546,5 +9546,22 @@
         "date_posted": 1725070874,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725071184,
+        "url": "https://careers.zebra.com/careers/job/343621946480?domain=zebra.com",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "66f160c7-c117-4cf7-a4e5-2d2a82c7e6bb",
+        "date_posted": 1725071184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
