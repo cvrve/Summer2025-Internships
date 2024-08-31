@@ -187,7 +187,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | Santa Clara, CA</br>Remote | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Internships--Software-Engineering_JR1986535"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Epic Games | Capture Technician Intern | Cary, NC | <a href="https://boards.greenhouse.io/embed/job_app?token=5267671004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Greif | Data Engineering Intern | Delaware, OH</br>Remote | <a href="https://greif.wd5.myworkdayjobs.com/Greif/job/Delaware-OH-Greif-Pkwy/Summer-2025-Data-Engineering-Intern_028133"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
-| Ripple | Blockchain Data Scientist Intern | Toronto, Canada | <a href="https://ripple.com/careers/all-jobs/job/6213647/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Cisco Meraki | Software Engineer Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Intern-FY25-Summer-2025-Meraki/1427972"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Firmware Engineer Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Firmware-Features-Intern-FY25-Summer-2025-Meraki/1427976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | QA Intern 🛂 | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Test-Automation-QA-Intern-FY25-Summer-2025/1427979"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
@@ -425,6 +424,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | BNP Paribas | Summer Analyst Internship - Technology | Jersey City, NJ | <a href="https://group.bnpparibas/en/careers/job-offer/2025-summer-analyst-internship-technology"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| Ripple | Blockchain Data Scientist Intern | Toronto, Canada | 🔒 | Aug 28 |
 | Amadeus | Software Engineer Intern | Irving, TX | 🔒 | Aug 21 |
 | Plexus | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
