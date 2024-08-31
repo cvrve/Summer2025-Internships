@@ -296,8 +296,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern | <details><summary>**8 locations**</summary>Atlanta, GA</br>Dallas, TX</br>Burlington, MA</br>Seattle, WA</br>Boston, MA</br>San Francisco, CA</br>Bellevue, WA</br>Indianapolis, IN</details> | <a href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Goldman Sachs | Engineering Analyst Intern | New York, NY</br>Dallas, TX</br>Albany, NY, Sale Lake City, UT | <a href="https://bit.ly/4dLtR8F"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | PIMCO | Software Engineering Intern | Newport Beach, CA | <a href="https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2025-Summer-Intern---Software-Engineering-Analyst_R104464"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| CCC | Software Engineer Intern | Chicago, IL | <a href="https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0013369"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| ↳ | Data Science & R&D Intern | Chicago, IL | <a href="https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Data-Science---R-D-Internship_0013368"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Spectrum | Assoc DevOps Engineer | Charlotte, NC | <a href="https://jobs.spectrum.com/job/-/-/4673/68787623616"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | Associate QA Analyst | Maryland Heights, MO | <a href="https://jobs.spectrum.com/job/-/-/4673/68787622912"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | EY | Technology Intern | <details><summary>**4 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Kansas City, MO</br>Dallas, TX</details> | <a href="https://eyglobal.yello.co/jobs/zd6kNvC0YAgO6ejlQ5WE4w?job_board_id=c1riT--B2O-KySgYWsZO1Q"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
@@ -431,6 +429,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Plexus | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
 | Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
+| CCC | Software Engineer Intern | Chicago, IL | 🔒 | Aug 15 |
+| ↳ | Data Science & R&D Intern | Chicago, IL | 🔒 | Aug 15 |
 | Duolingo | Software Engineer Intern | Pittsburgh, PA | 🔒 | Aug 14 |
 | PayPal | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
