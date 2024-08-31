@@ -9614,5 +9614,23 @@
         "date_posted": 1725079925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080108,
+        "url": "https://careers-iridium.icims.com/jobs/4071/job",
+        "locations": [
+            "Chandler, AZ",
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae209f9f-2542-4c62-8d0f-3e2c58b2d7da",
+        "date_posted": 1725080108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
