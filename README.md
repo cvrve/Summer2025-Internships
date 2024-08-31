@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ally | Software Engineering Intern | Charlotte, NC</br>Detroit, MI | <a href="https://ally.avature.net/careers/JobDetail?jobId=11925"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Walmart | Product Manager Intern | Bentonville, AR | <a href="https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Legacy-I-A---Product-Manager-II---Evergreen-_R-1974921"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | Zebra | Product Manager Intern | Austin, TX | <a href="https://careers.zebra.com/careers/job/343621793737?domain=zebra.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
