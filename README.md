@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Zip | Software Engineer Intern | San Francisco. CA | <a href="https://job-boards.greenhouse.io/zip/jobs/5268304004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Charles Schwab | Model Risk Intern | Lone Tree, CO | <a href="https://www.schwabjobs.com/job/-/-/33727/69363543616"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Butterball | Support Engineer Intern | Garner, NC | <a href="https://careers.butterball.com/us/en/job/15342"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
+| Santander | Data & Analytics Intern | Boston, MA | <a href="https://www.santandercareers.com/job/-/-/1771/69366865184"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Walmart | Product Manager Intern | Bentonville, AR | <a href="https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME-2025-Summer-Intern--Legacy-I-A---Product-Manager-II---Evergreen-_R-1974921"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Software Engineering Intern 🛂 | Bentonville, AR | 🔒 | May 02 |
 | Zebra | Product Manager Intern | Austin, TX | <a href="https://careers.zebra.com/careers/job/343621793737?domain=zebra.com"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |

@@ -10030,5 +10030,22 @@
         "date_posted": 1725141056,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725141200,
+        "url": "https://www.santandercareers.com/job/-/-/1771/69366865184",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "Data & Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac9fe9e7-f43d-4946-a2df-a1360b9989ca",
+        "date_posted": 1725141200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
