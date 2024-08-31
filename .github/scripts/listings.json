@@ -9597,5 +9597,22 @@
         "date_posted": 1725079771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725079925,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenRewards/job/Toronto-Canada/Intern---Software-Engineer_1020526",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rakuten",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0a72cb2b-dc9e-4990-8b77-40d9550263c6",
+        "date_posted": 1725079925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
