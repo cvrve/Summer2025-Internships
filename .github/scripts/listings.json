@@ -9910,5 +9910,22 @@
         "date_posted": 1725082527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725082557,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Sales-Engineering-2025-Summer-Intern_R49568",
+        "locations": [
+            "Linthicum, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Sales Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "225c3d28-ccbf-45d6-832f-1201889029a1",
+        "date_posted": 1725082557,
+        "company_url": "",
+        "is_visible": true
     }
 ]
