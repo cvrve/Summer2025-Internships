@@ -9721,5 +9721,22 @@
         "date_posted": 1725080563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081034,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/161753",
+        "locations": [
+            "Rochester Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Molex",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "65595f0e-d25e-4362-8095-2cf82fc71872",
+        "date_posted": 1725081034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
