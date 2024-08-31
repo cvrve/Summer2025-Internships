@@ -9666,5 +9666,22 @@
         "date_posted": 1725080256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080391,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1762400/Technology-Consultant-Internship-Opportunities?jobsource=cvrve",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Technology Consultant Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b33f6c0c-ce6d-4ac0-b196-d14c21463804",
+        "date_posted": 1725080391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
