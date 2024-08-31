@@ -9840,5 +9840,22 @@
         "date_posted": 1725081931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725082051,
+        "url": "https://careers.micron.com/careers/job/24757420",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "IP Information Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "babc220d-0de9-4279-ae9f-eb43aa13ceea",
+        "date_posted": 1725082051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
