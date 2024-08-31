@@ -9806,5 +9806,22 @@
         "date_posted": 1725081846,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081914,
+        "url": "https://bba.csod.com/ux/ats/careersite/4/home/requisition/2138?c=bba",
+        "locations": [
+            "Mont-Saint-Hilaire, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BBA",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "19c6547a-e315-47f3-9e4b-1d6cc728d4ad",
+        "date_posted": 1725081914,
+        "company_url": "",
+        "is_visible": true
     }
 ]
