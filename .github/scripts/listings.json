@@ -9789,5 +9789,22 @@
         "date_posted": 1725081831,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081846,
+        "url": "https://www.allstate.jobs/job/20951054/arity-product-management-intern-north-carolina-nc",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AllState - Arity",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "910b1239-be94-41d4-a8c5-6dcf00511d73",
+        "date_posted": 1725081846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
