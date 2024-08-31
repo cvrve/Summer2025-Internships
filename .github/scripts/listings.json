@@ -9927,5 +9927,23 @@
         "date_posted": 1725082557,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725137149,
+        "url": "https://ally.avature.net/careers/JobDetail?jobId=11925",
+        "locations": [
+            "Charlotte, NC",
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ally",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac566a9b-e975-4624-beb0-fe87b05ea47c",
+        "date_posted": 1725137149,
+        "company_url": "",
+        "is_visible": true
     }
 ]
