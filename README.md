@@ -128,6 +128,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Molex | Product Management Intern | Rochester Hills, MI | <a href="https://koch.avature.net/en_US/careers/JobDetail/161753"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | BBA | Software Developer Intern | Mont-Saint-Hilaire, Canada | <a href="https://bba.csod.com/ux/ats/careersite/4/home/requisition/2138?c=bba"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | John Deere | Cyber Security Intern | Moline, IL | <a href="https://careers.deere.com/careers/job/137463726880"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| ↳ | Data Analytics Intern | Moline, IL | <a href="https://careers.deere.com/careers/job/137463726673"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Software Engineering Intern | Moline, IL | <a href="https://careers.deere.com/careers/job/137463726881"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | MongoDB | Software Engineering Intern, Product | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Squarepoint Capital | Software Developer Intern | Montreal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6201998"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
