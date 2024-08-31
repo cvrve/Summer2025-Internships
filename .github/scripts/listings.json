@@ -9962,5 +9962,22 @@
         "date_posted": 1725139057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725139605,
+        "url": "https://job-boards.greenhouse.io/ibkr/jobs/7607414002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interactive Brokers",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2d8bb536-0e17-40f6-a616-c2b6dbb60fb2",
+        "date_posted": 1725139605,
+        "company_url": "",
+        "is_visible": true
     }
 ]
