@@ -9632,5 +9632,22 @@
         "date_posted": 1725080108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080212,
+        "url": "https://careers-iridium.icims.com/jobs/4032",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5358506f-5e57-4e84-ab1a-7c8a0d684888",
+        "date_posted": 1725080212,
+        "company_url": "",
+        "is_visible": true
     }
 ]
