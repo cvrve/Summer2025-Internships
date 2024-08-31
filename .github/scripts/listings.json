@@ -6125,7 +6125,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CCC",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -6159,7 +6159,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CCC",
         "title": "Data Science & R&D Intern",
         "season": "Summer",
