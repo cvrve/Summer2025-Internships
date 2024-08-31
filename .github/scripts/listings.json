@@ -9874,5 +9874,22 @@
         "date_posted": 1725082432,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725082469,
+        "url": "https://careers.deere.com/careers/job/137463726673",
+        "locations": [
+            "Moline, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7ae583b6-f702-459e-96e5-10f44df6e64b",
+        "date_posted": 1725082469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
