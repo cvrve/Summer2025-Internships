@@ -9755,5 +9755,22 @@
         "date_posted": 1725081748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725081817,
+        "url": "https://www.allstate.jobs/job/20950599/arity-customer-success-implementation-engineer-intern-north-carolina-nc/",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AllState - Arity",
+        "title": "Customer Success Implementation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6ccad05-9605-43d3-9ca9-b4d17d5d4b26",
+        "date_posted": 1725081817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
