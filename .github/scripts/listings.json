@@ -9512,5 +9512,22 @@
         "date_posted": 1725068014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725070431,
+        "url": "https://bit.ly/arity-swe",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AllState - Arity",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4a105591-56ee-4078-b1a1-d9e9c5ede0f9",
+        "date_posted": 1725070431,
+        "company_url": "",
+        "is_visible": true
     }
 ]
