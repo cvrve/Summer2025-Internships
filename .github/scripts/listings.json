@@ -9704,5 +9704,22 @@
         "date_posted": 1725080519,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080563,
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1762507/",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Penetration Testing Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9e58502-a3a0-47a3-b241-52ad45563be5",
+        "date_posted": 1725080563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
