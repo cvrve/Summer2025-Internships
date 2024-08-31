@@ -10013,5 +10013,22 @@
         "date_posted": 1725140957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725141056,
+        "url": "https://careers.butterball.com/us/en/job/15342",
+        "locations": [
+            "Garner, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Butterball",
+        "title": "Support Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "27a6237a-7979-4a10-88a8-51ca240c503e",
+        "date_posted": 1725141056,
+        "company_url": "",
+        "is_visible": true
     }
 ]
