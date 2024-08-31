@@ -9649,5 +9649,22 @@
         "date_posted": 1725080212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080256,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1748452/Applied-Science-Internship-Opportunities-Redmond?jobsource=cvrve",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Applied Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d30ddd46-2386-4ad0-913b-85cea6fbcc4b",
+        "date_posted": 1725080256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
