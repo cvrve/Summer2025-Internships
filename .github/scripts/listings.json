@@ -9683,5 +9683,26 @@
         "date_posted": 1725080391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725080519,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1762528/Silicon-Engineering-Internship-Opportunities",
+        "locations": [
+            "Raleigh, NC",
+            "Austin, TX",
+            "Hillsboro, OR",
+            "Mountain View, CA",
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Silicon Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "041b4a96-858d-4078-8407-4208130e45fe",
+        "date_posted": 1725080519,
+        "company_url": "",
+        "is_visible": true
     }
 ]
