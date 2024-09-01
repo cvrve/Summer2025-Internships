@@ -10092,5 +10092,22 @@
         "date_posted": 1725160713,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725160735,
+        "url": "https://careers.ibm.com/job/20954175/qa-test-developer-intern-2025-poughkeepsie-ny",
+        "locations": [
+            "Poughkeepsie, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "QA/Test Developer Intern",
+        "season": "Summer",
+        "source": "LouisCubero",
+        "id": "e7459701-455a-4e95-bdb1-fdfe4a64653d",
+        "date_posted": 1725160735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
