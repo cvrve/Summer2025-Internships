@@ -10109,5 +10109,22 @@
         "date_posted": 1725160735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725160750,
+        "url": "https://careers.ibm.com/job/20954174/user-experience-ux-design-intern-2025-cloud-austin-tx/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "User Experience (UX) Design Intern",
+        "season": "Summer",
+        "source": "LouisCubero",
+        "id": "a4b49a56-44ca-457f-820e-0bbbb460b811",
+        "date_posted": 1725160750,
+        "company_url": "",
+        "is_visible": true
     }
 ]
