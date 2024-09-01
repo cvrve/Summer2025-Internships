@@ -155,7 +155,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Sales Engineering Intern | Linthicum, MD | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Sales-Engineering-2025-Summer-Intern_R49568"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ↳ | Embedded Software Engineer Intern | Schaumburg, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R49642-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | MongoDB | Software Engineering Intern, Product | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/apply"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
-| Squarepoint Capital | Software Developer Intern | Montreal, Canada | <a href="https://boards.greenhouse.io/embed/job_app?token=6201998"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | TD Bank | Software Engineer Intern | Mount Laurel, NJ</br>Fort Lauderdale, FL | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2025-Summer-Internship-Program----Platforms---Technology---Software-Engineer_R_1365598"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | Dropbox | Software Engineer Intern | Remote</br>United States | <a href="https://jobs.dropbox.com/listing/6209859"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | ↳ | Software Engineer Intern | Remote</br>Canada | <a href="https://jobs.dropbox.com/listing/6209863"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
@@ -436,6 +435,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | BNP Paribas | Summer Analyst Internship - Technology | Jersey City, NJ | <a href="https://group.bnpparibas/en/careers/job-offer/2025-summer-analyst-internship-technology"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 02 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| Squarepoint Capital | Software Developer Intern | Montreal, Canada | 🔒 | Aug 29 |
 | Ripple | Blockchain Data Scientist Intern | Toronto, Canada | 🔒 | Aug 28 |
 | Phillips | Data Engineer Co-op | Reedsville, PA | 🔒 | Aug 23 |
 | ↳ | Software Engineer Intern | Plymouth, MN | 🔒 | Aug 23 |
