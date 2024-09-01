@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Textron | Software Engineering Intern 🇺🇸 | Fort Worth, TX | <a href="https://careers.textron.com/fort-worth-tx/2025-summer-intern-softwarecomputer-science-engineering-fort-worth/99FFADEADA434295A69136EAEF999AA1/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Ally | Software Engineering Intern | Charlotte, NC</br>Detroit, MI | <a href="https://ally.avature.net/careers/JobDetail?jobId=11925"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Watershed | Software Engineer Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Interactive Brokers | Software Engineer Intern | Greenwich, CT | <a href="https://job-boards.greenhouse.io/ibkr/jobs/7607414002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |

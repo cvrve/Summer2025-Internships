@@ -10177,5 +10177,22 @@
         "date_posted": 1725162775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725230601,
+        "url": "https://careers.textron.com/fort-worth-tx/2025-summer-intern-softwarecomputer-science-engineering-fort-worth/99FFADEADA434295A69136EAEF999AA1/job",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Textron",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aead8689-1f90-4597-8c6b-42e430ffc47a",
+        "date_posted": 1725230601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
