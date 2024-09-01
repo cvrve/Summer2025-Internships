@@ -10160,5 +10160,22 @@
         "date_posted": 1725162235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725162775,
+        "url": "https://careers-berkley.icims.com/jobs/11058/job",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkley",
+        "title": "Product Management Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "418838d9-b408-483d-b622-a907e58d7a7d",
+        "date_posted": 1725162775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
