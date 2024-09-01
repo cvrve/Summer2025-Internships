@@ -10143,5 +10143,22 @@
         "date_posted": 1725161287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725162235,
+        "url": "https://careers.mohawkind.com/job/Calhoun-Product-Management-Intern-%28RetailBMF%29-Spring-2024-Geor-30701/1208255100/",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mohawk Industries",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4163ef00-37cc-4967-b299-a3af07f42204",
+        "date_posted": 1725162235,
+        "company_url": "",
+        "is_visible": true
     }
 ]
