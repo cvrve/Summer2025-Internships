@@ -10047,5 +10047,33 @@
         "date_posted": 1725141200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725160648,
+        "url": "https://www.amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA",
+            "Redmond, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Santa Clara, CA",
+            "Washington, DC",
+            "Maryland, MD",
+            "Virginia, VA",
+            "Austin, TX",
+            "New York City, NY",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Data Engineer Summer Internship",
+        "season": "Summer",
+        "source": "LouisCubero",
+        "id": "4b557d5b-6df3-4938-bbdd-d3d42fc56f6d",
+        "date_posted": 1725160648,
+        "company_url": "",
+        "is_visible": true
     }
 ]
