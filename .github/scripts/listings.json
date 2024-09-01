@@ -10075,5 +10075,22 @@
         "date_posted": 1725160648,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725160713,
+        "url": "https://careers.ibm.com/job/20954180/back-end-qa-developer-intern-2025-houston-tx/",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Back-end /QA Developer Intern",
+        "season": "Summer",
+        "source": "LouisCubero",
+        "id": "f1094fb1-f62f-4f5b-bcc6-4212107bb806",
+        "date_posted": 1725160713,
+        "company_url": "",
+        "is_visible": true
     }
 ]
