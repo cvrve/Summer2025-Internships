@@ -10126,5 +10126,22 @@
         "date_posted": 1725160750,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725161287,
+        "url": "https://www.amazon.jobs/en/jobs/2737011/technical-program-manager-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Technical Program Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "66a150ab-7460-4bdd-9459-263b0009f851",
+        "date_posted": 1725161287,
+        "company_url": "",
+        "is_visible": true
     }
 ]
