@@ -10228,5 +10228,22 @@
         "date_posted": 1725289847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725290101,
+        "url": "https://careers.southwestair.com/job/R-2024-46361/Technology-Analyst-Spring-2025-Intern-Remote",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwest Airlines",
+        "title": "Technology Analyst Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "eb9a9474-195a-4b75-81db-08d823ffe4a9",
+        "date_posted": 1725290101,
+        "company_url": "",
+        "is_visible": true
     }
 ]
