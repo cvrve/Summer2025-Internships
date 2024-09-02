@@ -10194,5 +10194,22 @@
         "date_posted": 1725230601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725289541,
+        "url": "https://careers.adobe.com/us/en/job/R148139/2025-SAMI-Intern-DX-Product-Manager",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3c98ce88-6afe-4e5a-832c-a3aecd8c5431",
+        "date_posted": 1725289541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
