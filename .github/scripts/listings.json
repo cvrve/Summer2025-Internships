@@ -10211,5 +10211,22 @@
         "date_posted": 1725289541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725289847,
+        "url": "https://careers.southwestair.com/job/R-2024-46360/Software-Engineer-Spring-2025-Intern-Remote",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwest Airlines",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "4ece7b00-aa9c-413d-a527-6aad50ae893d",
+        "date_posted": 1725289847,
+        "company_url": "",
+        "is_visible": true
     }
 ]
