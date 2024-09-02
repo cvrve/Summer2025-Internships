@@ -81,6 +81,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Adobe | Product Manager Intern | Remote | <a href="https://careers.adobe.com/us/en/job/R148139/2025-SAMI-Intern-DX-Product-Manager"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Software Engineer Intern | <details><summary>**5 locations**</summary>San Jose, CA</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Machine Learning Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147906EXTERNALENUS/2025-Intern-Machine-Learning-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Duolingo | Software Engineer Intern | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingo/jobs/7582860002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
+| ↳ | Software Engineer Intern | Pittsburgh, PA | 🔒 | Aug 14 |
 | Textron | Software Engineering Intern 🇺🇸 | Fort Worth, TX | <a href="https://careers.textron.com/fort-worth-tx/2025-summer-intern-softwarecomputer-science-engineering-fort-worth/99FFADEADA434295A69136EAEF999AA1/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Ally | Software Engineering Intern | Charlotte, NC</br>Detroit, MI | <a href="https://ally.avature.net/careers/JobDetail?jobId=11925"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Watershed | Software Engineer Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
@@ -446,7 +448,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
 | CCC | Software Engineer Intern | Chicago, IL | 🔒 | Aug 15 |
 | ↳ | Data Science & R&D Intern | Chicago, IL | 🔒 | Aug 15 |
-| Duolingo | Software Engineer Intern | Pittsburgh, PA | 🔒 | Aug 14 |
 | PayPal | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |
 | Martin's Famous Pastry Shoppe Inc | Software Engineering Intern | Chambersburg, PA | 🔒 | Aug 13 |

@@ -10245,5 +10245,22 @@
         "date_posted": 1725290101,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725313467,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7582860002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "BinhL3",
+        "id": "b0126cd2-7558-4dda-b36b-219e00380005",
+        "date_posted": 1725313467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
