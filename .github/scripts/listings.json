@@ -10745,5 +10745,22 @@
         "date_posted": 1725400183,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725400255,
+        "url": "https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb?lever-source=cvrve",
+        "locations": [
+            "Westfield, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SEP",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "68df3980-f2e1-432c-b0ec-1a035e654b64",
+        "date_posted": 1725400255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
