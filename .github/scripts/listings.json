@@ -10297,5 +10297,22 @@
         "date_posted": 1725380870,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725381125,
+        "url": "https://bit.ly/datadog-pm-summer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "67890c34-e859-4c48-946a-414b1d04dc20",
+        "date_posted": 1725381125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
