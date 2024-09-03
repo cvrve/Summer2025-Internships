@@ -10677,5 +10677,22 @@
         "date_posted": 1725399774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399861,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2025-Intern---Software-Engineering---New-Jersey_R527314",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6d71a825-8570-48c5-8c03-89e365b35fa1",
+        "date_posted": 1725399861,
+        "company_url": "",
+        "is_visible": true
     }
 ]
