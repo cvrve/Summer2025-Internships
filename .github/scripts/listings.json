@@ -11017,5 +11017,22 @@
         "date_posted": 1725402230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725402705,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01276438/Software-Development-Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ThermoFisher Scientific",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5f75e93e-49ed-4270-b4bc-a380990fadb7",
+        "date_posted": 1725402705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
