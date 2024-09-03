@@ -10591,5 +10591,22 @@
         "date_posted": 1725399531,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399583,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2025-Intern---Software-Digital-Engineering---Florida_R527507",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Digital Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "52287bdf-d8cf-4fdc-91e3-25dc7e1e7e1b",
+        "date_posted": 1725399583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
