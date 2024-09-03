@@ -10932,5 +10932,22 @@
         "date_posted": 1725401304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725401502,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612318002?gh_jid=7612318002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Test Engineer Intern, Electrical",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2dca9219-71ae-40b3-8278-e5e06353cc7b",
+        "date_posted": 1725401502,
+        "company_url": "",
+        "is_visible": true
     }
 ]
