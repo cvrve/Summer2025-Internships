@@ -10659,5 +10659,23 @@
         "date_posted": 1725399721,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399774,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2025-Intern---Software-Engineering---California_R527308",
+        "locations": [
+            "San Jose, CA",
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "087b17dc-f669-4252-af8a-ec32b463df83",
+        "date_posted": 1725399774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
