@@ -10711,5 +10711,22 @@
         "date_posted": 1725399928,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725400034,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2025-Intern---Software-Engineering---Michigan_R527279",
+        "locations": [
+            "Portage, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Engineer Inter",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "eac939d0-171e-41be-a45e-5a76766dda36",
+        "date_posted": 1725400034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
