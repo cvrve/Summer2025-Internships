@@ -10983,5 +10983,22 @@
         "date_posted": 1725402033,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725402180,
+        "url": "https://boards.greenhouse.io/devtechnology/jobs/7601786002?gh_src=46cf95d32us",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Dev Technology",
+        "title": "React/Node Application Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "452b3f59-32ea-4fac-93dd-c81f7690dc63",
+        "date_posted": 1725402180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
