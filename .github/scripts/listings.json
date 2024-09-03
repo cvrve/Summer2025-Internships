@@ -11034,5 +11034,22 @@
         "date_posted": 1725402705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725406987,
+        "url": "https://nutanix.eightfold.ai/careers/job/24594978",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "Systems Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "61c1dabe-f603-439d-9946-d0ae5078b6cd",
+        "date_posted": 1725406987,
+        "company_url": "",
+        "is_visible": true
     }
 ]
