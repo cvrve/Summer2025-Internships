@@ -10331,5 +10331,22 @@
         "date_posted": 1725391806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398054,
+        "url": "https://explore.jobs.netflix.net/careers/job?query=Intern&pid=790298739171&domain=netflix.com&sort_by=relevance",
+        "locations": [
+            "Los Gatos, California, United States of America"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Software Engineer Intern - Summer 2025",
+        "season": "Summer",
+        "source": "BinhL3",
+        "id": "b986e20b-c9aa-4c7a-94dc-10400ed735a7",
+        "date_posted": 1725398054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
