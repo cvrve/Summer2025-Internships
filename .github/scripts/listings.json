@@ -10539,5 +10539,23 @@
         "date_posted": 1725399323,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399418,
+        "url": "https://careers-cnhind.icims.com/jobs/26242/system-engineer-intern/job",
+        "locations": [
+            "Lombard, IL",
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNH",
+        "title": "System Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "438097b2-8d41-41e7-9ab0-e065facb2437",
+        "date_posted": 1725399418,
+        "company_url": "",
+        "is_visible": true
     }
 ]
