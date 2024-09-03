@@ -10966,5 +10966,22 @@
         "date_posted": 1725401791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725402033,
+        "url": "https://careers.textron.com/augusta-ga/2025-software-engineer-intern/1F1F3307F9E744D59C54774772635219/job/",
+        "locations": [
+            "Augusta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Textron",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "acc9101b-a678-4859-aff3-5c7528fc2d6b",
+        "date_posted": 1725402033,
+        "company_url": "",
+        "is_visible": true
     }
 ]
