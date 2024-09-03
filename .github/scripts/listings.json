@@ -10949,5 +10949,22 @@
         "date_posted": 1725401502,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725401791,
+        "url": "https://talent.lowes.com/us/en/job/JR-01879299/Exploratory-Software-Engineer-Undergraduate-Internship",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lowes",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1aa0627d-7475-46e1-831b-fc37c52cb617",
+        "date_posted": 1725401791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
