@@ -10522,5 +10522,22 @@
         "date_posted": 1725399235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399323,
+        "url": "https://careers-cnhind.icims.com/jobs/26237/software-test-engineer-intern/job",
+        "locations": [
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNH",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e6f099b6-4664-42da-810f-e527c1e642f7",
+        "date_posted": 1725399323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
