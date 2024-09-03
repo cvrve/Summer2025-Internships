@@ -10452,5 +10452,22 @@
         "date_posted": 1725398835,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398872,
+        "url": "https://c3.ai/job-description/?gh_jid=7575558002",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C3",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0694041c-7fab-4481-a29e-9ad2ad0b824f",
+        "date_posted": 1725398872,
+        "company_url": "",
+        "is_visible": true
     }
 ]
