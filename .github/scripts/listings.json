@@ -10262,5 +10262,22 @@
         "date_posted": 1725313467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725360758,
+        "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Target",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "edb19b7c-5436-40fa-b667-52c54bd009f7",
+        "date_posted": 1725360758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
