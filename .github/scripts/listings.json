@@ -10608,5 +10608,22 @@
         "date_posted": 1725399583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399631,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2025-Intern---Data-Science---Texas_R527620",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "06573b45-2fba-4346-9312-20bc58f068c4",
+        "date_posted": 1725399631,
+        "company_url": "",
+        "is_visible": true
     }
 ]
