@@ -10574,5 +10574,22 @@
         "date_posted": 1725399484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399531,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278841004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Programming Language Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b7408d02-8316-48b0-8035-04b88eeef10c",
+        "date_posted": 1725399531,
+        "company_url": "",
+        "is_visible": true
     }
 ]
