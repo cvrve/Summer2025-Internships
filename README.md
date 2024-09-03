@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Target | Software Engineer Intern | Minneapolis, MN | <a href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Adobe | Product Manager Intern | Remote | <a href="https://careers.adobe.com/us/en/job/R148139/2025-SAMI-Intern-DX-Product-Manager"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Software Engineer Intern | <details><summary>**5 locations**</summary>San Jose, CA</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Machine Learning Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | <a href="https://careers.adobe.com/us/en/job/ADOBUSR147906EXTERNALENUS/2025-Intern-Machine-Learning-Engineer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
