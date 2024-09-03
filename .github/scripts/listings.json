@@ -10881,5 +10881,22 @@
         "date_posted": 1725400981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725401090,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612333002?gh_jid=7612333002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Avionics Hardware Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "958d3989-95e8-40ac-b085-4fbb0ca07583",
+        "date_posted": 1725401090,
+        "company_url": "",
+        "is_visible": true
     }
 ]
