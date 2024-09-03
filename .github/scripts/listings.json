@@ -11068,5 +11068,22 @@
         "date_posted": 1725407144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725407202,
+        "url": "https://careers.united.com/us/en/job/UAIUADUSWHQ00023950EXTERNALENUSTALEO/Intern-Machine-Learning-Summer-2025",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "66144bdf-2701-41a6-84c8-e84a3711b30c",
+        "date_posted": 1725407202,
+        "company_url": "",
+        "is_visible": true
     }
 ]
