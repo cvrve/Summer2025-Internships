@@ -10314,5 +10314,22 @@
         "date_posted": 1725381125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725391806,
+        "url": "https://www.riotgames.com/en/work-with-us/job/6176784/software-engineering-intern-summer-2025-remote-los-angeles-usa",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Riot Games",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "081edef9-a0a4-44cf-a6f4-b64b7654da2a",
+        "date_posted": 1725391806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
