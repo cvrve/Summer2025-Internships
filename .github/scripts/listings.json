@@ -10435,5 +10435,22 @@
         "date_posted": 1725398785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398835,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Development-Intern---Summer-2025_301106-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "06d73834-6907-4afd-bf2f-20c66f5d799f",
+        "date_posted": 1725398835,
+        "company_url": "",
+        "is_visible": true
     }
 ]
