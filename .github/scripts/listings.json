@@ -11085,5 +11085,23 @@
         "date_posted": 1725407202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725407268,
+        "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2025-R-D-Summer-Intern---Track-2_R-2024-34753",
+        "locations": [
+            "Fort Worth, TX",
+            "Lake Forest, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "R&D Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ed1f8b6e-9186-4966-896d-613713ac2088",
+        "date_posted": 1725407268,
+        "company_url": "",
+        "is_visible": true
     }
 ]
