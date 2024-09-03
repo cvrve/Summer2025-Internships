@@ -10417,5 +10417,23 @@
         "date_posted": 1725398748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398785,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Avionics-Software-Engineering-Intern---Undergraduate_R46733",
+        "locations": [
+            "Seattle, WA",
+            "Space Coast, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Blue Origin",
+        "title": "Avionics Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "daf96444-1d1e-43bb-b99b-12e66827365c",
+        "date_posted": 1725398785,
+        "company_url": "",
+        "is_visible": true
     }
 ]
