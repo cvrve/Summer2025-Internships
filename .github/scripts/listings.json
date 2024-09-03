@@ -10625,5 +10625,22 @@
         "date_posted": 1725399631,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399668,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2025-Intern---Data-Science---Michigan_R527632",
+        "locations": [
+            "Portage, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a88a5ef2-11f9-4a03-bec9-19d467e74f08",
+        "date_posted": 1725399668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
