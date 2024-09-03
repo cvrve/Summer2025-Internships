@@ -10557,5 +10557,22 @@
         "date_posted": 1725399418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399484,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278324004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Gameplay Programmer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9a924c2-8f3e-4d24-b61b-5de9db5922e4",
+        "date_posted": 1725399484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
