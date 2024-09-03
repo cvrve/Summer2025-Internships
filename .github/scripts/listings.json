@@ -10504,5 +10504,23 @@
         "date_posted": 1725399082,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399235,
+        "url": "https://careers-cnhind.icims.com/jobs/26236/software-engineer-intern/job",
+        "locations": [
+            "Sioux Falls, SD",
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNH",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ab6cf15e-d4f9-4920-8e48-4e9efafef967",
+        "date_posted": 1725399235,
+        "company_url": "",
+        "is_visible": true
     }
 ]
