@@ -10642,5 +10642,22 @@
         "date_posted": 1725399668,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399721,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Summer-2025-Intern---Software-Engineering---Washington_R527618",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "44a0dc2b-323b-4786-8b6b-4ed1f98cbe6e",
+        "date_posted": 1725399721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
