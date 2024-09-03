@@ -10365,5 +10365,22 @@
         "date_posted": 1725398099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398687,
+        "url": "https://job-boards.greenhouse.io/yext/jobs/6204204",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Yext",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d3bcfb31-c382-4f44-89a6-ac44c0f48302",
+        "date_posted": 1725398687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
