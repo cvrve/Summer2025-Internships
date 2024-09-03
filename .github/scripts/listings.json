@@ -10762,5 +10762,22 @@
         "date_posted": 1725400255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725400344,
+        "url": "https://recruiting.adp.com/srccar/public/RTI.home?c=1171851&d=Confidential&rb=cvrve&r=5001067002806#/",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MCPHS",
+        "title": "Application Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "307322bf-a5a2-4d03-9cfc-75c34f548656",
+        "date_posted": 1725400344,
+        "company_url": "",
+        "is_visible": true
     }
 ]
