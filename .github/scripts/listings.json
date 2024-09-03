@@ -10487,5 +10487,22 @@
         "date_posted": 1725398923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399082,
+        "url": "https://careers-iridium.icims.com/jobs/4049/intern%2c-software-development/job",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "565c6e1d-e46a-4339-8de4-2a553076db58",
+        "date_posted": 1725399082,
+        "company_url": "",
+        "is_visible": true
     }
 ]
