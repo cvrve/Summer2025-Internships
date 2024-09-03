@@ -10779,5 +10779,22 @@
         "date_posted": 1725400344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725400414,
+        "url": "https://careers.jhuapl.edu/jobs/55816?lang=en-us&mode=job&iis=job+board&iisn=Appcast_cvrve",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Johns Hopkins University Applied Physics Laboratory",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1d174d1d-a780-4c15-ad6d-58d00ced006a",
+        "date_posted": 1725400414,
+        "company_url": "",
+        "is_visible": true
     }
 ]
