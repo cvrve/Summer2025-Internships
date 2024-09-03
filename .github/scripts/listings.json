@@ -10796,5 +10796,22 @@
         "date_posted": 1725400414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725400600,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612335002?gh_jid=7612335002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Data Science & Simulation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7832ef98-024c-4fa2-ae96-3261ddc706c5",
+        "date_posted": 1725400600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
