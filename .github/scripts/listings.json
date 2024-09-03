@@ -11051,5 +11051,22 @@
         "date_posted": 1725406987,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725407144,
+        "url": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin--Headquarters/Data-Engineer-Intern--Summer-and-Fall-2025-_R24-02907",
+        "locations": [
+            "Austin"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TEL",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e68dcf8a-bf11-475f-ae52-38935e24f402",
+        "date_posted": 1725407144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
