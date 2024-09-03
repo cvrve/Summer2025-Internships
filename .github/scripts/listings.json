@@ -10348,5 +10348,22 @@
         "date_posted": 1725398054,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398099,
+        "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-undergraduate-at-linkedin-4014178595",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7bd38cbc-b7c2-45ff-a382-4975d5bac4b4",
+        "date_posted": 1725398099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
