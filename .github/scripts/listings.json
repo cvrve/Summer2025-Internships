@@ -10694,5 +10694,22 @@
         "date_posted": 1725399861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725399928,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Summer-2025-Intern---Software-Engineering---Indiana_R527310",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dc8b3cf7-fb4f-4a28-8c59-dbb4625d99cd",
+        "date_posted": 1725399928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
