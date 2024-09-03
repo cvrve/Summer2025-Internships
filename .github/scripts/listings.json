@@ -10382,5 +10382,22 @@
         "date_posted": 1725398687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725398701,
+        "url": "https://job-boards.greenhouse.io/yext/jobs/6204273",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Yext",
+        "title": "Software Engineer Intern, Product",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c3ed3e05-ddb3-4159-9a07-6f30ec148d0d",
+        "date_posted": 1725398701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
