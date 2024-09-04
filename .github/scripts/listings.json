@@ -11154,5 +11154,23 @@
         "date_posted": 1725425148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425457,
+        "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Software-Engineer---Intern_20086",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silicon Labs",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "62f48aca-1cbf-481d-baca-ed392f12abdc",
+        "date_posted": 1725425457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
