@@ -11404,5 +11404,22 @@
         "date_posted": 1725465146,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465178,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2025_R030226",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7cfff7ee-6176-472c-94ac-b3b45b59ea9e",
+        "date_posted": 1725465178,
+        "company_url": "",
+        "is_visible": true
     }
 ]

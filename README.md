@@ -83,6 +83,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern(.NET) | Wayzata, MN | <a href="https://job-boards.greenhouse.io/gardacp/jobs/4445441004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | ↳ | Software Engineer Intern(Python) | New York, NY | <a href="https://job-boards.greenhouse.io/gardacp/jobs/4174194004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Plexus | Software Engineer Intern | Raleigh, NC | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Summer-2025_R030238"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
+| ↳ | Software Engineer Intern | Neenah, WI | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer---Summer-2025_R030226"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | ↳ | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
 | Target | Software Engineer Intern | Minneapolis, MN | <a href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
