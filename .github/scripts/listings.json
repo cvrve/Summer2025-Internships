@@ -11259,5 +11259,22 @@
         "date_posted": 1725426473,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725426608,
+        "url": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4012955EXTERNALENGLOBAL/Software-Engineering-Intern-2025",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Healthcare",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "539af9bc-485e-4cc4-8e51-d8a9701dd169",
+        "date_posted": 1725426608,
+        "company_url": "",
+        "is_visible": true
     }
 ]
