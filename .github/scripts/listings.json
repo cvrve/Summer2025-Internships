@@ -11137,5 +11137,22 @@
         "date_posted": 1725421392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425148,
+        "url": "https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "56a72dfc-5a59-4030-82ac-8d02401cca00",
+        "date_posted": 1725425148,
+        "company_url": "",
+        "is_visible": true
     }
 ]
