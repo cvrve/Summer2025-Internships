@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Groq | Software Engineer Intern - Winter | Mountain View, CA | <a href="https://groq.com/careers/?gh_jid=6107171003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Southwest Airlines | Software Engineer Intern | Remote | <a href="https://careers.southwestair.com/job/R-2024-46360/Software-Engineer-Spring-2025-Intern-Remote"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Technology Analyst Intern | Remote | <a href="https://careers.southwestair.com/job/R-2024-46361/Technology-Analyst-Spring-2025-Intern-Remote"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Amazon | Software Development Engineer Co-Op | Toronto, Canada | <a href="https://www.amazon.jobs/en/jobs/2750005/amazon-robotics-software-development-engineer-co-op-spring-2025-toronto"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
