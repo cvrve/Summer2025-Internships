@@ -11120,5 +11120,22 @@
         "date_posted": 1725418374,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725421392,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7623213002",
+        "locations": [
+            "Multiple"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "554df74d-c60c-4ccd-9e80-5557101c4fab",
+        "date_posted": 1725421392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
