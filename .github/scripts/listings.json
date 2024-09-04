@@ -11438,5 +11438,22 @@
         "date_posted": 1725465255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465293,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Engineer-Internship_R-041161",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "43113b08-0ae5-42da-b274-6512cd829126",
+        "date_posted": 1725465293,
+        "company_url": "",
+        "is_visible": true
     }
 ]
