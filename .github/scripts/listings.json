@@ -11474,5 +11474,22 @@
         "date_posted": 1725465656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465810,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/Fortrea/job/USA---NC---Durham---10-Moore-Drive/AIML-Rapid-Development-Studio-Intern--Remote-_2433766",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fortrea",
+        "title": "AIML Rapid Development Studio Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "874d0fbe-adac-4e28-b2d1-ca633d52e725",
+        "date_posted": 1725465810,
+        "company_url": "",
+        "is_visible": true
     }
 ]
