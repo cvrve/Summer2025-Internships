@@ -11311,5 +11311,22 @@
         "date_posted": 1725428603,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725428658,
+        "url": "https://internship-cspire.icims.com/jobs/11017/job",
+        "locations": [
+            "Ridgeland, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CSpire",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "66472e66-24dc-4a7c-837f-9979f6a8d81e",
+        "date_posted": 1725428658,
+        "company_url": "",
+        "is_visible": true
     }
 ]
