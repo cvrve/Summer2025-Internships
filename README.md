@@ -82,6 +82,9 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Garda Capital Partners | Trading Intern | New York, NY | <a href="https://job-boards.greenhouse.io/gardacp/jobs/4158626004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | ↳ | Software Engineer Intern(.NET) | Wayzata, MN | <a href="https://job-boards.greenhouse.io/gardacp/jobs/4445441004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | ↳ | Software Engineer Intern(Python) | New York, NY | <a href="https://job-boards.greenhouse.io/gardacp/jobs/4174194004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
+| Plexus | Software Engineer Intern | Raleigh, NC | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Summer-2025_R030238"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
+| ↳ | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
+| ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
 | Target | Software Engineer Intern | Minneapolis, MN | <a href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Datadog | Software Engineer Intern | Boston, MA</br>New York, NY | <a href="https://bit.ly/datadog-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | ↳ | Product Manager Intern | New York, NY | <a href="https://bit.ly/datadog-pm-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
@@ -507,8 +510,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Phillips | Data Engineer Co-op | Reedsville, PA | 🔒 | Aug 23 |
 | ↳ | Software Engineer Intern | Plymouth, MN | 🔒 | Aug 23 |
 | Amadeus | Software Engineer Intern | Irving, TX | 🔒 | Aug 21 |
-| Plexus | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
-| ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
 | Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
 | CCC | Software Engineer Intern | Chicago, IL | 🔒 | Aug 15 |
 | ↳ | Data Science & R&D Intern | Chicago, IL | 🔒 | Aug 15 |
