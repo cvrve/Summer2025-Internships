@@ -11508,5 +11508,22 @@
         "date_posted": 1725471825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725484480,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/6165255?gh_src=ien3oy1",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ZipRecruiter",
+        "title": "Software Engineer - Intern",
+        "season": "Summer",
+        "source": "owenkyang",
+        "id": "8d664582-9c36-4258-a0f6-faa87b772d9b",
+        "date_posted": 1725484480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
