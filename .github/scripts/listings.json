@@ -11190,5 +11190,23 @@
         "date_posted": 1725425896,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725425943,
+        "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineer---Intern_20090?q=Intern",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silicon Labs",
+        "title": "Applications Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6abeb045-e9c4-447f-bec3-c53af5b8d0b1",
+        "date_posted": 1725425943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
