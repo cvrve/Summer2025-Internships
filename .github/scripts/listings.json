@@ -11370,5 +11370,22 @@
         "date_posted": 1725464895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465110,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4158626004",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garda Capital Partners",
+        "title": "Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a28073b2-e40a-43cd-bc31-74921838cee3",
+        "date_posted": 1725465110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
