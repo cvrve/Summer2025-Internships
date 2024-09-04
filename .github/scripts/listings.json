@@ -11242,5 +11242,22 @@
         "date_posted": 1725426372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725426473,
+        "url": "https://jobs.coxenterprises.com/en/jobs/job/r202449383-software-engineering-intern-summer-2025",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "82a05b36-7a30-427b-b7f8-bf8d334ff817",
+        "date_posted": 1725426473,
+        "company_url": "",
+        "is_visible": true
     }
 ]
