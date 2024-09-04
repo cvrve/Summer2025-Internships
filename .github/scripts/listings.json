@@ -11208,5 +11208,22 @@
         "date_posted": 1725425943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725426036,
+        "url": "https://careers.micron.com/careers/job/24788931",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "System Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "31a81b66-b6bf-4c3e-b078-47c65d191326",
+        "date_posted": 1725426036,
+        "company_url": "",
+        "is_visible": true
     }
 ]
