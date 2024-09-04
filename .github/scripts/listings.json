@@ -11328,5 +11328,23 @@
         "date_posted": 1725428658,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725428798,
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineering-Internship_R-041167",
+        "locations": [
+            "Boston, MA",
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "16519c17-b3e3-4c1a-90fd-404aebe600fa",
+        "date_posted": 1725428798,
+        "company_url": "",
+        "is_visible": true
     }
 ]
