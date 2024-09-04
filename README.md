@@ -87,6 +87,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Product Engineer Intern | Buffalo Grove, IL | 🔒 | Aug 20 |
 | ↳ | Design Assurance Engineer Intern | locations Neenah, WI | 🔒 | Aug 20 |
 | Red Hat | Data Science Intern | Raleigh, NC | <a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Science-Internship_R-041162"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
+| ↳ | Data Engineer Intern | Raleigh, NC | <a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Engineer-Internship_R-041161"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | ↳ | Software Engineering Intern | Boston, MA</br>Raleigh, NC | <a href="https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineering-Internship_R-041167"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Target | Software Engineer Intern | Minneapolis, MN | <a href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Datadog | Software Engineer Intern | Boston, MA</br>New York, NY | <a href="https://bit.ly/datadog-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
