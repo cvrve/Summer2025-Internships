@@ -11491,5 +11491,22 @@
         "date_posted": 1725465810,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725471825,
+        "url": "https://fa-esbp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gallup",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9cc64e79-2c28-4d54-a259-4a000c560770",
+        "date_posted": 1725471825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
