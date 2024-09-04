@@ -11294,5 +11294,22 @@
         "date_posted": 1725426804,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725428603,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2405336EXTERNALENGLOBAL/Software-Engineering-Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "\u202fTrane Technologies",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae9c2652-c301-4367-ab4d-91fd2dace38d",
+        "date_posted": 1725428603,
+        "company_url": "",
+        "is_visible": true
     }
 ]
