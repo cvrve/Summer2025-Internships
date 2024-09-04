@@ -11225,5 +11225,22 @@
         "date_posted": 1725426036,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725426372,
+        "url": "https://careers-iridium.icims.com/jobs/4072/job",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a08f8724-156b-46b6-b52e-f13ebf4d55aa",
+        "date_posted": 1725426372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
