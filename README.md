@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Slack | Software Engineer Intern | <details><summary>**8 locations**</summary>San Francisco, CA</br>Boston, MA</br>Seattle, WA</br>Burlington, MA</br>Bellevue, WA</br>Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN</details> | <a href="https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Target | Software Engineer Intern | Minneapolis, MN | <a href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Datadog | Software Engineer Intern | Boston, MA</br>New York, NY | <a href="https://bit.ly/datadog-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | ↳ | Product Manager Intern | New York, NY | <a href="https://bit.ly/datadog-pm-summer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
