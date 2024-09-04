@@ -11103,5 +11103,22 @@
         "date_posted": 1725407268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725418374,
+        "url": "https://groq.com/careers/?gh_jid=6107171003",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Groq",
+        "title": "Software Engineer Intern - Winter",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "a0e395a5-2bd4-4928-b09a-9c5297c7220b",
+        "date_posted": 1725418374,
+        "company_url": "",
+        "is_visible": true
     }
 ]
