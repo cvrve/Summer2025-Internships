@@ -11421,5 +11421,22 @@
         "date_posted": 1725465178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465255,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Science-Internship_R-041162",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f22b44b1-511b-43f3-b53f-a677876d531b",
+        "date_posted": 1725465255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
