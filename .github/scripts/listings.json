@@ -11387,5 +11387,22 @@
         "date_posted": 1725465110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725465146,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Summer-2025_R030238",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8e7b33df-c2c4-4bd1-8b9b-280f7af283b5",
+        "date_posted": 1725465146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
