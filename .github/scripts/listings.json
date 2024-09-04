@@ -11276,5 +11276,23 @@
         "date_posted": 1725426608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725426804,
+        "url": "https://jobs.keysight.com/external/jobs/44241/job",
+        "locations": [
+            "Santa Rosa, CA",
+            "Calabasas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D EDA Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dfc6fc4e-c68c-4926-9084-4b06920869d2",
+        "date_posted": 1725426804,
+        "company_url": "",
+        "is_visible": true
     }
 ]
