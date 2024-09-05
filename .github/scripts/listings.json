@@ -11975,5 +11975,22 @@
         "date_posted": 1725574311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725576445,
+        "url": "https://careers.amd.com/careers-home/jobs/52591?lang=en-us",
+        "locations": [
+            "Markham, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "ecebf719-1027-4f30-b96f-c1b7622e651c",
+        "date_posted": 1725576445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
