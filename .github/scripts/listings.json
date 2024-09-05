@@ -11525,5 +11525,22 @@
         "date_posted": 1725484480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725562562,
+        "url": "https://www.linkedin.com/jobs/view/system-verification-intern-at-shure-incorporated-4015122474",
+        "locations": [
+            "Niles, Illinois"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "System Verification Intern",
+        "season": "Summer",
+        "source": "cookacola",
+        "id": "f6c40c0f-1f1e-45ef-8365-aad4a0aae501",
+        "date_posted": 1725562562,
+        "company_url": "",
+        "is_visible": true
     }
 ]
