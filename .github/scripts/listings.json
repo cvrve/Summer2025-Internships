@@ -11559,5 +11559,403 @@
         "date_posted": 1725562587,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725494498,
+        "url": "https://matroid.breezy.hr/p/79e27f665d2b/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Matroid",
+        "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5b88431b-c2d7-4bde-9683-761298005dba",
+        "date_posted": 1725494498,
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725499733,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR30301",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Summer Intern - Software Operations Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a058cee2-2cc1-4c18-9645-e46d73baf553",
+        "date_posted": 1725499733,
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725499689,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Engineering-Intern---Autonomy_R32219",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Engineering Intern - Autonomy - Summer 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d80fd5a2-9d51-40ec-80ff-3e729e30bf02",
+        "date_posted": 1725477781,
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725500281,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR30257",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Summer Intern - Software Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5b7b0de1-a710-4d8e-be4b-fef2497d8d4a",
+        "date_posted": 1725500281,
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725503557,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000011666405",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Utg \u2013 Software Engineer Internships - Summer 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "de783f42-46cb-49b6-934d-b1b46e3e2e3e",
+        "date_posted": 1725503557,
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725508536,
+        "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145292007",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Openmesh Networks",
+        "title": "Mathematician Intern - Quantitative Analysis and Problem-Solving",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6604aa9a-7b7f-4e48-89bb-415b3cd500f5",
+        "date_posted": 1725508536,
+        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725508531,
+        "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145229007",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Openmesh Networks",
+        "title": "Networking Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6d74d97-da13-4b88-b29c-8ca7f87c3c54",
+        "date_posted": 1725508531,
+        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725508549,
+        "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145290007",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Openmesh Networks",
+        "title": "Smart Contract Development Intern - Blockchain Technology and Security",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7e72bc16-ba0e-4047-b7a7-7c8f4f620d66",
+        "date_posted": 1725508549,
+        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725508503,
+        "url": "https://job-boards.greenhouse.io/openmesh/jobs/4145268007",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Openmesh Networks",
+        "title": "Front-End Development Intern - Web Interface and User Experience",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d092d9a9-a861-45fd-a620-1dbf4edff0e1",
+        "date_posted": 1725508503,
+        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725509566,
+        "url": "https://jobs.keysight.com/external/jobs/44329?mode=apply",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Internship",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1d390d27-ae34-40f7-8ecf-711dc492503d",
+        "date_posted": 1725509566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725034545,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5321473003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras",
+        "title": "Performance Engineer \u2013 Internship - PEY 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
+        "date_posted": 1725034545,
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725517006,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Intern-Conversion---2025-Return-Intern--Sr-Data-Scientist_R-1961846",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
+        "date_posted": 1725515164,
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1725514461,
+        "url": "https://boards.greenhouse.io/fortrobotics/jobs/4293779005",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fort Robotics",
+        "title": "Co-Op & Internship Resume Submissions",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "982c6174-ef84-478e-98f5-49ba6e75c190",
+        "date_posted": 1725514461,
+        "company_url": "https://simplify.jobs/c/Fort-Robotics",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722930369,
+        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
+        "date_posted": 1722930369,
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725477776,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineering-Intern---Autonomy_R32222",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Engineering Intern - Autonomy - Summer 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
+        "date_posted": 1725477776,
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725393896,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2025-Intern---Software-Documentation-Design---Texas_R527512",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Summer 2025 Intern - Software Documentation Design - Texas",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "22acdd5c-fcf3-4201-a6ec-66c42aed2968",
+        "date_posted": 1725393896,
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723167202,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5744549",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Strategist Intern - Summer 2025",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36410d58-e379-40c3-aa0c-726b28199c7f",
+        "date_posted": 1721085367,
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725554697,
+        "url": "https://boards.greenhouse.io/datagrail/jobs/6109859003",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DataGrail",
+        "title": "Managed Services Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1e61ef39-2c60-4b6d-b8d7-40133822f452",
+        "date_posted": 1725554697,
+        "company_url": "https://simplify.jobs/c/DataGrail",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725555722,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235211",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "title": "Intern \u2013 Software Development - IOS",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
+        "date_posted": 1725555722,
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725555529,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6138297",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "title": "Intern \u2013 Software Development",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
+        "date_posted": 1725555529,
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725555350,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235377",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "title": "Intern \u2013 Database Conversion Programming",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "27d647d4-4a79-466a-934e-52a80965af92",
+        "date_posted": 1725555350,
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725555021,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235244",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
+        "date_posted": 1725555021,
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725556058,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Data---Analytics---PDM--Supply-Chain---Manufacturing-_R0042294",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead Sciences",
+        "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
+        "date_posted": 1725556058,
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true
     }
 ]
