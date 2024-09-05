@@ -11542,5 +11542,22 @@
         "date_posted": 1725562562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725562587,
+        "url": "https://careers.amd.com/careers-home/jobs/52553?lang=en-us",
+        "locations": [
+            "Markham, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Test Engineer Intern",
+        "season": "Summer",
+        "source": "beakae",
+        "id": "98cb7cb7-2b19-4294-a4c3-2bc9c04d11c2",
+        "date_posted": 1725562587,
+        "company_url": "",
+        "is_visible": true
     }
 ]
