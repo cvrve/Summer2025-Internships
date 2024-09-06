@@ -12130,5 +12130,22 @@
         "date_posted": 1725652506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725652520,
+        "url": "https://jobs.nike.com/job/R-37999?from=job%20search%20funnel",
+        "locations": [
+            "Beaverton, Oregon"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Nike",
+        "title": "SWE Intern",
+        "season": "Summer",
+        "source": "nicolasgarza",
+        "id": "c37fab52-9b79-4a2c-8285-45a2eac27e66",
+        "date_posted": 1725652520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
