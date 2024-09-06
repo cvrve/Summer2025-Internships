@@ -12113,5 +12113,22 @@
         "date_posted": 1725615824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725652506,
+        "url": "https://jobs.nike.com/job/R-38030?from=job%20search%20funnel",
+        "locations": [
+            "Beaverton, Oregon"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Nike",
+        "title": "Data & Machine Learning Engineer",
+        "season": "Summer",
+        "source": "nicolasgarza",
+        "id": "3983078e-0534-4592-84bb-aaf410d15ac0",
+        "date_posted": 1725652506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
