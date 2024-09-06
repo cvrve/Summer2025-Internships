@@ -5963,7 +5963,7 @@
         "locations": [
             "San Jose, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Cisco",
         "title": "Software Engineer I (Intern)",
@@ -6017,7 +6017,7 @@
             "RTP, North Carolina",
             "Hillsboro, OR"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Cisco",
         "title": "Software Engineer II (Intern) - MS",
@@ -7997,7 +7997,7 @@
         "locations": [
             "O'Fallon, MO"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Mastercard",
         "title": "Software Engineer Intern",
@@ -8591,7 +8591,7 @@
             "Parsippany, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "UPS",
         "title": "Technology Intern",
         "season": "Summer",
@@ -10218,7 +10218,7 @@
         "locations": [
             "Remote"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Southwest Airlines",
         "title": "Software Engineer Intern",
@@ -10270,7 +10270,7 @@
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Target",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -11515,7 +11515,7 @@
         "locations": [
             "Santa Monica, CA"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "company_name": "ZipRecruiter",
         "title": "Software Engineer - Intern",
@@ -11566,15 +11566,15 @@
         "locations": [
             "Palo Alto, CA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Matroid",
-        "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2025",
+        "title": "Full Stack Engineer Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "5b88431b-c2d7-4bde-9683-761298005dba",
         "date_posted": 1725494498,
-        "company_url": "https://simplify.jobs/c/Matroid",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11591,7 +11591,7 @@
         "source": "cvrve-bot",
         "id": "a058cee2-2cc1-4c18-9645-e46d73baf553",
         "date_posted": 1725499733,
-        "company_url": "https://simplify.jobs/c/allegion",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11608,7 +11608,7 @@
         "source": "cvrve-bot",
         "id": "d80fd5a2-9d51-40ec-80ff-3e729e30bf02",
         "date_posted": 1725477781,
-        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11625,7 +11625,7 @@
         "source": "cvrve-bot",
         "id": "5b7b0de1-a710-4d8e-be4b-fef2497d8d4a",
         "date_posted": 1725500281,
-        "company_url": "https://simplify.jobs/c/allegion",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11642,7 +11642,7 @@
         "source": "cvrve-bot",
         "id": "de783f42-46cb-49b6-934d-b1b46e3e2e3e",
         "date_posted": 1725503557,
-        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11659,7 +11659,7 @@
         "source": "cvrve-bot",
         "id": "6604aa9a-7b7f-4e48-89bb-415b3cd500f5",
         "date_posted": 1725508536,
-        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11676,7 +11676,7 @@
         "source": "cvrve-bot",
         "id": "e6d74d97-da13-4b88-b29c-8ca7f87c3c54",
         "date_posted": 1725508531,
-        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11693,7 +11693,7 @@
         "source": "cvrve-bot",
         "id": "7e72bc16-ba0e-4047-b7a7-7c8f4f620d66",
         "date_posted": 1725508549,
-        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11710,7 +11710,7 @@
         "source": "cvrve-bot",
         "id": "d092d9a9-a861-45fd-a620-1dbf4edff0e1",
         "date_posted": 1725508503,
-        "company_url": "https://simplify.jobs/c/Openmesh-Networks",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11744,7 +11744,7 @@
         "source": "cvrve-bot",
         "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
         "date_posted": 1725034545,
-        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11761,7 +11761,7 @@
         "source": "cvrve-bot",
         "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
         "date_posted": 1725515164,
-        "company_url": "https://simplify.jobs/c/Walmart",
+        "company_url": "",
         "is_visible": false
     },
     {
@@ -11778,7 +11778,7 @@
         "source": "cvrve-bot",
         "id": "982c6174-ef84-478e-98f5-49ba6e75c190",
         "date_posted": 1725514461,
-        "company_url": "https://simplify.jobs/c/Fort-Robotics",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11795,7 +11795,7 @@
         "source": "cvrve-bot",
         "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
         "date_posted": 1722930369,
-        "company_url": "https://simplify.jobs/c/Palantir",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11812,7 +11812,7 @@
         "source": "cvrve-bot",
         "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
         "date_posted": 1725477776,
-        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11829,7 +11829,7 @@
         "source": "cvrve-bot",
         "id": "22acdd5c-fcf3-4201-a6ec-66c42aed2968",
         "date_posted": 1725393896,
-        "company_url": "https://simplify.jobs/c/Stryker",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11846,7 +11846,7 @@
         "source": "cvrve-bot",
         "id": "36410d58-e379-40c3-aa0c-726b28199c7f",
         "date_posted": 1721085367,
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11863,7 +11863,7 @@
         "source": "cvrve-bot",
         "id": "1e61ef39-2c60-4b6d-b8d7-40133822f452",
         "date_posted": 1725554697,
-        "company_url": "https://simplify.jobs/c/DataGrail",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11882,7 +11882,7 @@
         "source": "cvrve-bot",
         "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
         "date_posted": 1725555722,
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11901,7 +11901,7 @@
         "source": "cvrve-bot",
         "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
         "date_posted": 1725555529,
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11919,7 +11919,7 @@
         "source": "cvrve-bot",
         "id": "27d647d4-4a79-466a-934e-52a80965af92",
         "date_posted": 1725555350,
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11938,7 +11938,7 @@
         "source": "cvrve-bot",
         "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
         "date_posted": 1725555021,
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "company_url": "",
         "is_visible": true
     },
     {
@@ -11955,7 +11955,7 @@
         "source": "cvrve-bot",
         "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
         "date_posted": 1725556058,
-        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "company_url": "",
         "is_visible": true
     },
     {
