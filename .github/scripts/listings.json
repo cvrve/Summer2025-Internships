@@ -12147,5 +12147,22 @@
         "date_posted": 1725652520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725652538,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7608809002?gh_jid=7608809002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineering Intern (Backend)",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "bed4442d-892d-4831-970e-7edbe9ed79ca",
+        "date_posted": 1725652538,
+        "company_url": "",
+        "is_visible": true
     }
 ]
