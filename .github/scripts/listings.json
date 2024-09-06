@@ -12096,5 +12096,22 @@
         "date_posted": 1725615782,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725615824,
+        "url": "https://jobs.arup.com/jobs/software-development-intern-available-june-2025-23626",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arup",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "07882bf5-cbdb-469f-8ddc-0bd7b2dcfddc",
+        "date_posted": 1725615824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
