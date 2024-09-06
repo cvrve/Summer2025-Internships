@@ -12164,5 +12164,22 @@
         "date_posted": 1725652538,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725652554,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7617883002?gh_jid=7617883002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineering Intern (Frontend)",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "d678d109-10ed-4fdb-983f-b873558aa947",
+        "date_posted": 1725652554,
+        "company_url": "",
+        "is_visible": true
     }
 ]
