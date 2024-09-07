@@ -12422,5 +12422,22 @@
         "date_posted": 1725682551,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682618,
+        "url": "https://jobs.lever.co/reliable/0e4ad15e-ef30-4a91-a48f-65f352f8a936",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliable Robotics",
+        "title": "Embedded Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0afebdb1-ca1c-4e9b-bdd3-ba561b23d69c",
+        "date_posted": 1725682618,
+        "company_url": "",
+        "is_visible": true
     }
 ]
