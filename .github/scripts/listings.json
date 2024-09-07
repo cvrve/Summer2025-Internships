@@ -13108,5 +13108,22 @@
         "date_posted": 1725687110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725687150,
+        "url": "https://jobs.ericsson.com/careers/job/563121760623154?domain=ericsson.com",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "AIML Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2b3284cc-3333-4301-a192-63c2deb09c37",
+        "date_posted": 1725687150,
+        "company_url": "",
+        "is_visible": true
     }
 ]
