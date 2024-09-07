@@ -12972,5 +12972,22 @@
         "date_posted": 1725685131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685231,
+        "url": "https://jobs.volvogroup.com/job/Hagerstown-Intern-Embedded-Software-Engineering-%28Summer-2025%29-MD-21742/990750555/?feedId=361555",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo Group",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aab1c189-46a5-480c-a01c-f357f613733f",
+        "date_posted": 1725685231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
