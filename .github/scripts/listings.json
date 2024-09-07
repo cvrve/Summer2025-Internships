@@ -12747,5 +12747,22 @@
         "date_posted": 1725684102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684173,
+        "url": "https://careers.usventure.com/us/en/job/USVEUSREQ019856/Software-Development-Engineer-Intern-IGEN",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "USVenture",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ccba260-9984-4238-a383-6570721b7afd",
+        "date_posted": 1725684173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
