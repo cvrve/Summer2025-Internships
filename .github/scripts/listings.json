@@ -12524,5 +12524,22 @@
         "date_posted": 1725683023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683079,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3141362-1?source=cvrve-Sponsored",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HP",
+        "title": "Personal Systems Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebed57e7-051c-4f23-96e0-c29fca4a5944",
+        "date_posted": 1725683079,
+        "company_url": "",
+        "is_visible": true
     }
 ]
