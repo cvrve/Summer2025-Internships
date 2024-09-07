@@ -12679,5 +12679,22 @@
         "date_posted": 1725683728,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683845,
+        "url": "https://careers.skyworksinc.com/job/Austin-DSP-Firmware-Engineering-Summer-Intern-TX-73301/1209749300/?feedId=177100",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "DSP Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "03263b69-b524-4df5-8c4c-536c19838049",
+        "date_posted": 1725683845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
