@@ -12883,5 +12883,23 @@
         "date_posted": 1725684841,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684890,
+        "url": "https://ally.avature.net/careers/JobDetail/United-States-Summer-2025-Internship-Technology-Software-Engineering-Software-Development/11917",
+        "locations": [
+            "Woodward Avenue, MI",
+            "Tryon Street, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ally",
+        "title": "Summer 2025 Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "212ff55e-b9cf-426f-8d57-b773e38762a5",
+        "date_posted": 1725684890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
