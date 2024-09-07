@@ -12832,5 +12832,22 @@
         "date_posted": 1725684634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684699,
+        "url": "https://jobs.keysight.com/external/jobs/44329/job",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ceaac69c-ea30-49f7-a6e7-a4df4e6dbc76",
+        "date_posted": 1725684699,
+        "company_url": "",
+        "is_visible": true
     }
 ]
