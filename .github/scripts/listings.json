@@ -13057,5 +13057,22 @@
         "date_posted": 1725686977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725687020,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/en-US/Search/job/Chicago/Summer-Intern---Application-Development_R2400296",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FHLBC",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dea663b8-0c2e-446a-b7cd-aabdd9b8d47c",
+        "date_posted": 1725687020,
+        "company_url": "",
+        "is_visible": true
     }
 ]
