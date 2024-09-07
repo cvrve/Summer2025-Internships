@@ -13091,5 +13091,22 @@
         "date_posted": 1725687060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725687110,
+        "url": "https://careersus-shure.icims.com/jobs/3815/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Application Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "71b2d85b-273c-4440-8587-6cbc40834f2c",
+        "date_posted": 1725687110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
