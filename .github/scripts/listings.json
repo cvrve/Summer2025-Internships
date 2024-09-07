@@ -12815,5 +12815,22 @@
         "date_posted": 1725684467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684634,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24008359",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2f135cc9-5302-4972-9e64-cede1d982d04",
+        "date_posted": 1725684634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
