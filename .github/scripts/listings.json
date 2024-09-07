@@ -12592,5 +12592,22 @@
         "date_posted": 1725683336,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683437,
+        "url": "https://careers.joincambridge.com/jobs/2613/job",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge",
+        "title": "Salesforce Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d438fb95-17ac-4d5f-a80e-9f583f8c954f",
+        "date_posted": 1725683437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
