@@ -12645,5 +12645,22 @@
         "date_posted": 1725683556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683616,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24009465",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Process Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "da4b10a5-2f80-4e96-84f2-8a51c07fff6f",
+        "date_posted": 1725683616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
