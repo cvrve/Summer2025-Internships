@@ -12181,5 +12181,22 @@
         "date_posted": 1725652554,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725681692,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/Baton-Rouge-LA/Software-Engineer-Intern_HR101072",
+        "locations": [
+            "locations Baton Rouge, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "893a8e18-60be-4690-bb87-c7732b6945de",
+        "date_posted": 1725681692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
