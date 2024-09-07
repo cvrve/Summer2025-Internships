@@ -12266,5 +12266,22 @@
         "date_posted": 1725682102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682117,
+        "url": "https://www.saab.com/career/job-opportunities/software-engineer-co-op-summer-2025",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAAB",
+        "title": "Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "962a7913-7e6b-458e-acf0-a87896b5bc78",
+        "date_posted": 1725682117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
