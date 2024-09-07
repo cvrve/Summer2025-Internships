@@ -12730,5 +12730,22 @@
         "date_posted": 1725684047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684102,
+        "url": "https://jobs.infarmbureau.com/indianapolis-in/software-development-intern-summer-2025/CCD035D51B2B4491BD0CBCBD11704DDC/job/?vs=10",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Indiana Farm Bureau Insurance",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2901411b-2a32-4fa2-ac17-6230d6e5dff5",
+        "date_posted": 1725684102,
+        "company_url": "",
+        "is_visible": true
     }
 ]
