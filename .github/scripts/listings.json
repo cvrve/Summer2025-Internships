@@ -12937,5 +12937,23 @@
         "date_posted": 1725685013,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685051,
+        "url": "https://ally.avature.net/careers/JobDetail?jobId=11914",
+        "locations": [
+            "Woodward Avenue, MI",
+            "Tryon Street, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ally",
+        "title": "IT & Cyber Risk Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fcee9677-0eb0-4988-b656-cdc8817e4798",
+        "date_posted": 1725685051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
