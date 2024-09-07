@@ -13006,5 +13006,22 @@
         "date_posted": 1725685313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685398,
+        "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/software-developer-cyber-intern/694/69572556224",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "48d6cbc6-2b6a-4894-87fb-e9bb5774cbe8",
+        "date_posted": 1725685398,
+        "company_url": "",
+        "is_visible": true
     }
 ]
