@@ -13023,5 +13023,22 @@
         "date_posted": 1725685398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725686511,
+        "url": "https://careers.micron.com/careers/job/24775186",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "SSD FW Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74fbae9c-0a15-4644-88eb-a417325308ad",
+        "date_posted": 1725686511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
