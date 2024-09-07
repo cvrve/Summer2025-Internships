@@ -12198,5 +12198,22 @@
         "date_posted": 1725681692,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725681727,
+        "url": "https://job-boards.greenhouse.io/avidxchangeinc/jobs/4511996007?gh_src=4e3b12367us",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "avidxchange",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "da57e837-0829-4131-bf2c-1e20997457f7",
+        "date_posted": 1725681727,
+        "company_url": "",
+        "is_visible": true
     }
 ]
