@@ -12507,5 +12507,22 @@
         "date_posted": 1725682933,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683023,
+        "url": "https://www.tesla.com/careers/search/job/internship-ml-performance-software-engineer-dojo-winter-spring-2025-226976",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "ML Performance Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "d36200cd-e029-4960-9956-f7da0d0cfc02",
+        "date_posted": 1725683023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
