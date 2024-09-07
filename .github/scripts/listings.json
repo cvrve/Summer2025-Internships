@@ -12662,5 +12662,22 @@
         "date_posted": 1725683616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683728,
+        "url": "https://www.okta.com/company/careers/engineering/machine-learning-engineer-intern-summer-2025-6202021/",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Okta",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1160d8dc-fe90-4c6d-8c8a-247656fb85fd",
+        "date_posted": 1725683728,
+        "company_url": "",
+        "is_visible": true
     }
 ]
