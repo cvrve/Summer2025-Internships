@@ -12351,5 +12351,22 @@
         "date_posted": 1725682205,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682286,
+        "url": "https://careers.garmin.com/careers-home/jobs/14353/job",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0e8ae061-6495-4188-b70a-b4f5f37147b5",
+        "date_posted": 1725682286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
