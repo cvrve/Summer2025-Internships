@@ -12919,5 +12919,23 @@
         "date_posted": 1725684966,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685013,
+        "url": "https://ally.avature.net/careers/JobDetail?jobId=11913",
+        "locations": [
+            "Woodward Avenue, MI",
+            "Tryon Street, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ally",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a68fcdf5-7239-40ba-b652-2e92f9b4fb74",
+        "date_posted": 1725685013,
+        "company_url": "",
+        "is_visible": true
     }
 ]
