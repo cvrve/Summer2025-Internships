@@ -12849,5 +12849,22 @@
         "date_posted": 1725684699,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684771,
+        "url": "https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2400619&tz=GMT-05%3A00&tzname=America%2FChicago",
+        "locations": [
+            "Fairfield, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Cincinnati Insurance Companies",
+        "title": "IT Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "432ffe67-ec1c-4857-b5b0-32f9e9c40e5c",
+        "date_posted": 1725684771,
+        "company_url": "",
+        "is_visible": true
     }
 ]
