@@ -12798,5 +12798,22 @@
         "date_posted": 1725684361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684467,
+        "url": "https://munichre-jobs.com/de/MunichRe/job/112706-data-engineer-intern-software-engineering-2025-summer-new-york-4-months",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Munich RE",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "13d599ac-bc57-4e9d-8f74-473d6261f83d",
+        "date_posted": 1725684467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
