@@ -12541,5 +12541,22 @@
         "date_posted": 1725683079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683114,
+        "url": "https://careers.appliedmaterials.com/careers/job/790298844662",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer Intern - Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fd705ad8-a476-483c-b608-6792a0f5610e",
+        "date_posted": 1725683114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
