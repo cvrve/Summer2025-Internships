@@ -12989,5 +12989,22 @@
         "date_posted": 1725685231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685313,
+        "url": "https://uscareers-lennox.icims.com/jobs/45287/job",
+        "locations": [
+            "Carrollton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lennox",
+        "title": "Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e7b70d0-aaf1-4668-ad6c-fb79caeee7c6",
+        "date_posted": 1725685313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
