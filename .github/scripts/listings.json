@@ -12456,5 +12456,22 @@
         "date_posted": 1725682677,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682748,
+        "url": "https://tel.wd3.myworkdayjobs.com/en-US/TEL-Careers/job/Chaska/Software-Engineer-Intern--Summer-2025-_R24-02822",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TEL",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2f0b6e7d-76bd-42a0-8543-e9df9bea4609",
+        "date_posted": 1725682748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
