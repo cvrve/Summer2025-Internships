@@ -12439,5 +12439,22 @@
         "date_posted": 1725682618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682677,
+        "url": "https://demiurgestudios.com/job-details/?jobid=2a36847f-cd25-474c-a20c-a3626ea3f9a5",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Demiurge",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b1e7a1ff-20e3-4b7b-bbb2-c5f4421e8b11",
+        "date_posted": 1725682677,
+        "company_url": "",
+        "is_visible": true
     }
 ]
