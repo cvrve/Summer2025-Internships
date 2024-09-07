@@ -12696,5 +12696,22 @@
         "date_posted": 1725683845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683991,
+        "url": "https://recruiting.adp.com/srccar/public/RTI.home?c=1138141&d=BASCareerSite&rb=INDEED&r=5001067534300#/",
+        "locations": [
+            "Meridian, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bastian Solutions",
+        "title": "Embedded Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "134b8e82-e672-4f9d-8228-99ab1b2e51c8",
+        "date_posted": 1725683991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
