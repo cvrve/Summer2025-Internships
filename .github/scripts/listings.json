@@ -12955,5 +12955,22 @@
         "date_posted": 1725685051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725685131,
+        "url": "https://jobs.keysight.com/external/jobs/44331/job",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Manufacturing Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "155e9327-8009-47dd-9798-215a6b6e1d8f",
+        "date_posted": 1725685131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
