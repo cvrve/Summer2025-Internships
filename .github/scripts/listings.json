@@ -12901,5 +12901,23 @@
         "date_posted": 1725684890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684966,
+        "url": "https://ally.avature.net/careers/JobDetail?jobId=11912",
+        "locations": [
+            "Woodward Avenue, MI",
+            "Tryon Street, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ally",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f92723e4-1fc6-40bc-8bbd-f4331e94f3b1",
+        "date_posted": 1725684966,
+        "company_url": "",
+        "is_visible": true
     }
 ]
