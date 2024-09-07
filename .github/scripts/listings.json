@@ -12317,5 +12317,22 @@
         "date_posted": 1725682163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682182,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Software-Engineering-Intern--Design-Enablement--Summer-2025-_JR-2403210",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "101bbfe6-d223-4cc9-bca3-7feed5a6d499",
+        "date_posted": 1725682182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
