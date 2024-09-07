@@ -12781,5 +12781,22 @@
         "date_posted": 1725684313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684361,
+        "url": "https://careers.skyworksinc.com/job/Austin-Firmware-DevOps-Summer-Intern-TX-73301/1209750900/?feedId=177100",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Firmware DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f9b2c67a-5e87-4c14-b775-3cfef77c3e50",
+        "date_posted": 1725684361,
+        "company_url": "",
+        "is_visible": true
     }
 ]
