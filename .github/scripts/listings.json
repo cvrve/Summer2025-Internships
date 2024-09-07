@@ -13040,5 +13040,22 @@
         "date_posted": 1725686511,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725686977,
+        "url": "https://careers.micron.com/careers/job/24862868",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Systems Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a13db39e-2ce5-487d-ac33-65b35da04ad3",
+        "date_posted": 1725686977,
+        "company_url": "",
+        "is_visible": true
     }
 ]
