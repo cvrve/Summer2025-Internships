@@ -12300,5 +12300,22 @@
         "date_posted": 1725682143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682163,
+        "url": "https://www.pega.com/about/careers/21009/software-engineer-summer-intern-ui",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PEGA",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "de109e49-32f7-4f30-839f-253ce4e42088",
+        "date_posted": 1725682163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
