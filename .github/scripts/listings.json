@@ -12232,5 +12232,22 @@
         "date_posted": 1725682073,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682088,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69642850064",
+        "locations": [
+            "St Louis, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b00b2ef0-5c63-4621-a13d-1fae3d6bd748",
+        "date_posted": 1725682088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
