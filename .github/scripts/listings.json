@@ -12609,5 +12609,22 @@
         "date_posted": 1725683437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683491,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2025_R49633",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Android Applications Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "16f9eb6d-1664-484b-b27a-4ac72b4a0793",
+        "date_posted": 1725683491,
+        "company_url": "",
+        "is_visible": true
     }
 ]
