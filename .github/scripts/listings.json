@@ -12558,5 +12558,22 @@
         "date_posted": 1725683114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683157,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/en-US/Delta_Dental_of_Michigan/job/Okemos-MI/Internship--Application-Development_JR100499",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Dental",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8e2e8575-ea15-4ebf-938e-998cc75d3d0d",
+        "date_posted": 1725683157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
