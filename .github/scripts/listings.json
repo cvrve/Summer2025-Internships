@@ -12575,5 +12575,22 @@
         "date_posted": 1725683157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683336,
+        "url": "https://careers.corteva.com/job-en/20978353/r-d-software-engineering-intern-johnston-ia/?src=JB-10421",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva",
+        "title": "R&D Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "938c2138-699b-464e-ab8e-f19cac4f67b9",
+        "date_posted": 1725683336,
+        "company_url": "",
+        "is_visible": true
     }
 ]
