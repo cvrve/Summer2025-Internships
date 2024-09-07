@@ -12866,5 +12866,22 @@
         "date_posted": 1725684771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684841,
+        "url": "https://jobs.hii-tsd.com/job/San-Antonio%252C-TX-Summer-2025-Internship-Software-Engineer-%2528Hybrid%2529-20516-Texa/1208872900/",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HII",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "83d1fa54-c356-4f20-93c5-19166d0e2b2f",
+        "date_posted": 1725684841,
+        "company_url": "",
+        "is_visible": true
     }
 ]
