@@ -12713,5 +12713,22 @@
         "date_posted": 1725683991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684047,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69642849904",
+        "locations": [
+            "Maryland Heights, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ba5fbacf-e501-42e5-9317-98d0102078ab",
+        "date_posted": 1725684047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
