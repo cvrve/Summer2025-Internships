@@ -12368,5 +12368,22 @@
         "date_posted": 1725682286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682443,
+        "url": "https://recruiting.adp.com/srccar/public/RTI.home?c=1138141&d=BASCareerSite&rb=INDEED&r=5001067543500#/",
+        "locations": [
+            "Meridian, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bastian Solution",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36159a91-f03f-434b-837c-cdd143b40126",
+        "date_posted": 1725682443,
+        "company_url": "",
+        "is_visible": true
     }
 ]
