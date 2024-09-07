@@ -12764,5 +12764,22 @@
         "date_posted": 1725684173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725684313,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2025-Software-Engineering-Undergraduate-Intern_R010983",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1fa7805f-73af-40b0-9a0b-32b210e885a0",
+        "date_posted": 1725684313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
