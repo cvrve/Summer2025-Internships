@@ -12334,5 +12334,22 @@
         "date_posted": 1725682182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682205,
+        "url": "https://ats.rippling.com/en-GB/apexanalytix-careers/jobs/d51b7162-b72c-4cf5-af6e-a20b60e275c8",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Data Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "675d8c1c-4468-4ca0-9ab8-f3c3df86fac2",
+        "date_posted": 1725682205,
+        "company_url": "",
+        "is_visible": true
     }
 ]
