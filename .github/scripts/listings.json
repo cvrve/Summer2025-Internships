@@ -12626,5 +12626,24 @@
         "date_posted": 1725683491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725683556,
+        "url": "https://jobs.thecignagroup.com/us/en/job/CIGNUS24011232EXTERNALENUS/Machine-Learning-Engineer-Intern-Summer-2025",
+        "locations": [
+            "St. Louis, MI",
+            "Austin, TX",
+            "Morris Plains, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Cigna Group",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f4e6cdc3-86db-4788-90b1-7eed39580f1b",
+        "date_posted": 1725683556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
