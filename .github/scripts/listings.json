@@ -12473,5 +12473,22 @@
         "date_posted": 1725682748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725682798,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Digital-and-Transformation-Software-Internship_3141294-1?source=cvrve-Sponsored",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HP",
+        "title": "Digital and Transformation Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "329d90ce-0300-48c5-9e67-abf06bf9bc3a",
+        "date_posted": 1725682798,
+        "company_url": "",
+        "is_visible": true
     }
 ]
