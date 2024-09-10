@@ -13534,5 +13534,22 @@
         "date_posted": 1725947627,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947711,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469169007?gh_src=e427182c7us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Mobile Application Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a14628ab-cdcb-4998-9f63-ffb5a6b251a0",
+        "date_posted": 1725947711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
