@@ -13568,5 +13568,22 @@
         "date_posted": 1725947744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947815,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-machine-learning-infrastructure-winter-spring-2025-227092",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "95b835f0-cd09-4d5e-9904-490f9118ecb3",
+        "date_posted": 1725947815,
+        "company_url": "",
+        "is_visible": true
     }
 ]
