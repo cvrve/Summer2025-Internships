@@ -13278,5 +13278,22 @@
         "date_posted": 1725946848,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946884,
+        "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10623",
+        "locations": [
+            "Westfield Center, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westfield",
+        "title": "Application Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8b7f6b97-1ef5-46cc-8022-5579477437d7",
+        "date_posted": 1725946884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
