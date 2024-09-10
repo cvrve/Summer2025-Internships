@@ -13722,5 +13722,24 @@
         "date_posted": 1725948599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948882,
+        "url": "https://careers.peraton.com/jobs/summer-2025-software-engineer-intern-internal-research-development-herndon-virginia-148511-jobs",
+        "locations": [
+            "Herndon , VA",
+            "Blacksburg , VA",
+            "West Lafayette , IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fdb7b655-bd83-458b-b37e-38c35c55d0c4",
+        "date_posted": 1725948882,
+        "company_url": "",
+        "is_visible": true
     }
 ]
