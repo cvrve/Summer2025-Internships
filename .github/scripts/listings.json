@@ -13295,5 +13295,22 @@
         "date_posted": 1725946884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946944,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/software-engineering-intern-2025-4428536006?gh_jid=4400248006",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MarketAxess",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1bcd8f34-e8a1-481e-9636-9fb514271a82",
+        "date_posted": 1725946944,
+        "company_url": "",
+        "is_visible": true
     }
 ]
