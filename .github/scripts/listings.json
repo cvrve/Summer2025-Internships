@@ -13687,5 +13687,23 @@
         "date_posted": 1725948411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948463,
+        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL301565EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2025",
+        "locations": [
+            "Herndon, VA",
+            "Oxnard, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cbdfea27-cc3b-4270-b521-b504e71aaf1e",
+        "date_posted": 1725948463,
+        "company_url": "",
+        "is_visible": true
     }
 ]
