@@ -13670,5 +13670,22 @@
         "date_posted": 1725948369,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948411,
+        "url": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=DCSCORP2&cws=37&rid=6568",
+        "locations": [
+            "Belcamp, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DCS Corp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c6e97d0b-0ee9-470e-affa-0b845aebe032",
+        "date_posted": 1725948411,
+        "company_url": "",
+        "is_visible": true
     }
 ]
