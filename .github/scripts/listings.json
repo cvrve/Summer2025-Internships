@@ -13758,5 +13758,22 @@
         "date_posted": 1725948948,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725949017,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4468130007?gh_src=74563e8f7us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Android Applications Software Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3f2108ed-1dc5-45dd-ac7d-3170a705ca2a",
+        "date_posted": 1725949017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
