@@ -13312,5 +13312,22 @@
         "date_posted": 1725946944,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946978,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Front-End-Software-Engineer_R3927",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Front End Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "935b72b8-1224-4567-803c-832bbed091f4",
+        "date_posted": 1725946978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
