@@ -13329,5 +13329,22 @@
         "date_posted": 1725946978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947010,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Back-End-Software-Engineer_R3928",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Back End Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a8354235-b349-4996-8f4f-05277cfe399e",
+        "date_posted": 1725947010,
+        "company_url": "",
+        "is_visible": true
     }
 ]
