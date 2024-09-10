@@ -13619,5 +13619,22 @@
         "date_posted": 1725947923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948085,
+        "url": "https://www.grammarly.com/jobs/engineering/software-engineering-intern-summer-2025-?gh_jid=6232386",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grammarly",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3c23c2c7-19c1-4d2c-baad-46d5c4a9b8e7",
+        "date_posted": 1725948085,
+        "company_url": "",
+        "is_visible": true
     }
 ]
