@@ -13381,5 +13381,22 @@
         "date_posted": 1725947123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947196,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2025_R49599",
+        "locations": [
+            "locations Plantation, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8f35df1-7026-423d-8116-8df941ec3638",
+        "date_posted": 1725947196,
+        "company_url": "",
+        "is_visible": true
     }
 ]
