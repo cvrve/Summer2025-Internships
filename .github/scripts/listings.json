@@ -13602,5 +13602,22 @@
         "date_posted": 1725947865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947923,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---TechEdge-Program---Summer-2025_R-0000025874",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Reserve Bank",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fab97201-8b07-4faf-9059-940a2c827118",
+        "date_posted": 1725947923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
