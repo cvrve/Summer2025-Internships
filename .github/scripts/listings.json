@@ -13705,5 +13705,22 @@
         "date_posted": 1725948463,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948599,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01264994/Software-Engineering-Intern?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=123525&rx_job=R-01264994-1&rx_medium=cp",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "61b07591-24dd-4ad7-b1c3-26895c5b4db9",
+        "date_posted": 1725948599,
+        "company_url": "",
+        "is_visible": true
     }
 ]
