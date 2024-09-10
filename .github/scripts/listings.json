@@ -13210,5 +13210,22 @@
         "date_posted": 1725946669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946713,
+        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/243909",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pella",
+        "title": "Digital Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ef0913d4-9e6c-4257-9966-bdeeac0bf8bf",
+        "date_posted": 1725946713,
+        "company_url": "",
+        "is_visible": true
     }
 ]
