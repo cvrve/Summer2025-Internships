@@ -13653,5 +13653,22 @@
         "date_posted": 1725948321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948369,
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5251372004?gh_src=e29dd8de4us",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f6f554b6-956c-48c3-88f3-2e97545e0681",
+        "date_posted": 1725948369,
+        "company_url": "",
+        "is_visible": true
     }
 ]
