@@ -13142,5 +13142,22 @@
         "date_posted": 1725946289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946373,
+        "url": "https://jobs.colgate.com/job/Piscataway-Software-Development-Internship-NJ/1211210000",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Colgate",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a16081cd-7281-436c-8bff-5c301451a7b9",
+        "date_posted": 1725946373,
+        "company_url": "",
+        "is_visible": true
     }
 ]
