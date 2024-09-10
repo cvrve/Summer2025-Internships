@@ -13364,5 +13364,22 @@
         "date_posted": 1725947072,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947123,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4470774007?gh_src=63fd27437us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1a9a25db-0320-4535-bd39-aeb156118af6",
+        "date_posted": 1725947123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
