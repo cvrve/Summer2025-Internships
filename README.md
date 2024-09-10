@@ -77,6 +77,9 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Skyworks | Firmware Engineer Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-Firmware-Engineering-Summer-Intern-TX-73301/1211260100"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | DSP Firmware Engineering Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-DSP-Firmware-Engineering-Summer-Intern-TX-73301/1209749300/?feedId=177100"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
+| ↳ | Firmware DevOps Intern | Austin, TX | 🔒 | Sep 06 |
 | Blue Origin | Honeybee Robotics Software Engineering Intern 🛂 | Los Angeles, CA | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Los-Angeles-CA/Summer-2025-Honeybee-Robotics-Software-Engineering-Intern---Undergraduate_R46845"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | ↳ | Software Applications Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Software-Applications-Engineering-Intern---Undergraduate_R46737"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | ↳ | Avionics Software Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Avionics-Software-Engineering-Intern---Undergraduate_R46733"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
@@ -123,8 +126,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Emerson | Process Automation Engineer Intern | Houston, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24009465"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | ↳ | Software Engineer Intern | Round Rock, TX | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24008359"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | Okta | Machine Learning Engineer Intern | United States | <a href="https://www.okta.com/company/careers/engineering/machine-learning-engineer-intern-summer-2025-6202021/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
-| Skyworks | DSP Firmware Engineering Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-DSP-Firmware-Engineering-Summer-Intern-TX-73301/1209749300/?feedId=177100"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
-| ↳ | Firmware DevOps Intern | Austin, TX | 🔒 | Sep 06 |
 | Bastian Solutions | Embedded Systems Engineer Intern | Meridian, ID | <a href="https://recruiting.adp.com/srccar/public/RTI.home?c=1138141&d=BASCareerSite&rb=INDEED&r=5001067534300#/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | Indiana Farm Bureau Insurance | Software Development Intern | Indianapolis, IN | <a href="https://jobs.infarmbureau.com/indianapolis-in/software-development-intern-summer-2025/CCD035D51B2B4491BD0CBCBD11704DDC/job/?vs=10"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | USVenture | Software Development Engineer Intern | Green Bay, WI | <a href="https://careers.usventure.com/us/en/job/USVEUSREQ019856/Software-Development-Engineer-Intern-IGEN"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
