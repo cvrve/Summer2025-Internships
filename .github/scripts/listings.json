@@ -13193,5 +13193,22 @@
         "date_posted": 1725946614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946669,
+        "url": "https://jobs-noblis.icims.com/jobs/24090/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": "Full Stack Web Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e224d7ee-9937-4427-bec2-0c55034c5840",
+        "date_posted": 1725946669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
