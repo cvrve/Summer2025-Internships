@@ -13346,5 +13346,23 @@
         "date_posted": 1725947010,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947072,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Software-Engineering-Intern--DevOps-_JR30457-1",
+        "locations": [
+            "Golden, CO",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bffbb92e-e54f-46a3-8973-5f9e33ecd4b8",
+        "date_posted": 1725947072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
