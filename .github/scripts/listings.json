@@ -13415,5 +13415,22 @@
         "date_posted": 1725947258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947285,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25451&siteid=5592&PageType=JobDetails&jobid=3602302#jobDetails=3602302_5592",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Ensco",
+        "title": "HPC Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "509c7548-1aa5-4257-b7ce-58d96991411a",
+        "date_posted": 1725947285,
+        "company_url": "",
+        "is_visible": true
     }
 ]
