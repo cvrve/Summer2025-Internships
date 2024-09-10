@@ -13244,5 +13244,22 @@
         "date_posted": 1725946763,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946791,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Software-Engineer-Intern_R104033-1",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6f2434bb-46ab-4f68-9b10-4166d2291b48",
+        "date_posted": 1725946791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
