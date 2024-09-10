@@ -13775,5 +13775,23 @@
         "date_posted": 1725949017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725949169,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2025-Modeling-and-Simulation-Undergraduate-Intern_R011014",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Modeling and Simulation Undergraduate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6607d41c-9c6f-4fe8-a19d-c6bce363ee16",
+        "date_posted": 1725949169,
+        "company_url": "",
+        "is_visible": true
     }
 ]
