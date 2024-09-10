@@ -13500,5 +13500,22 @@
         "date_posted": 1725947473,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947558,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472055007?gh_src=4cda23f97us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "DevOps Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e1239bfd-6bed-4d1d-880f-6dd66d44a024",
+        "date_posted": 1725947558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
