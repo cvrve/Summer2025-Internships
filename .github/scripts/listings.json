@@ -13227,5 +13227,22 @@
         "date_posted": 1725946713,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946763,
+        "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---IT--Software-Engineer_R0042297",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75619a34-876b-4780-b265-972e55b44e90",
+        "date_posted": 1725946763,
+        "company_url": "",
+        "is_visible": true
     }
 ]
