@@ -115,6 +115,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Ensco | HPC Software Engineer Intern 🇺🇸 | Melbourne, FL | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25451&siteid=5592&PageType=JobDetails&jobid=3602302#jobDetails=3602302_5592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Gordon | Cloud DevOps Intern | Atlanta, GA | <a href="https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps---Internship---Atlanta_R-29980-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Wayfair | Software Engineering Intern | Boston, MA | <a href="https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/7630459002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| Leidos | Embedded Design Engineer Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.leidos.com/jobs/14896418-embedded-design-engineer-intern-firmware?tm_job=R-00142951&tm_event=view&tm_company=2502"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
 | Blue Origin | Honeybee Robotics Software Engineering Intern 🛂 | Los Angeles, CA | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Los-Angeles-CA/Summer-2025-Honeybee-Robotics-Software-Engineering-Intern---Undergraduate_R46845"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | ↳ | Software Applications Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Software-Applications-Engineering-Intern---Undergraduate_R46737"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | ↳ | Avionics Software Engineering Intern | Seattle, WA</br>Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Seattle-WA/Summer-2025-Avionics-Software-Engineering-Intern---Undergraduate_R46733"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
@@ -629,7 +631,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineer Intern | Plymouth, MN | 🔒 | Aug 23 |
 | Amadeus | Software Engineer Intern | Irving, TX | 🔒 | Aug 21 |
 | Stoke Space | Software Intern | Kent, WA | 🔒 | Aug 18 |
-| Leidos | Software Engineer Intern | Arlington, VA | 🔒 | Aug 18 |
 | CCC | Software Engineer Intern | Chicago, IL | 🔒 | Aug 15 |
 | ↳ | Data Science & R&D Intern | Chicago, IL | 🔒 | Aug 15 |
 | PayPal | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | 🔒 | Aug 13 |

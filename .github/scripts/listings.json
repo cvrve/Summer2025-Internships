@@ -13585,5 +13585,22 @@
         "date_posted": 1725947815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947865,
+        "url": "https://careers.leidos.com/jobs/14896418-embedded-design-engineer-intern-firmware?tm_job=R-00142951&tm_event=view&tm_company=2502",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Embedded Design Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7d2002d-a6c9-4de5-a4ee-13f68918f7cc",
+        "date_posted": 1725947865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
