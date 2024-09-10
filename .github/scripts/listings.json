@@ -13517,5 +13517,22 @@
         "date_posted": 1725947558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947627,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475740007?gh_src=42d615467us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Embedded and Platform Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ca9f98f9-5572-48ce-8efc-f0345ee0d375",
+        "date_posted": 1725947627,
+        "company_url": "",
+        "is_visible": true
     }
 ]
