@@ -13466,5 +13466,22 @@
         "date_posted": 1725947358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947391,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4468123007?gh_src=ede164207us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ad98c641-7edc-44f2-ac48-c47ff561fbdb",
+        "date_posted": 1725947391,
+        "company_url": "",
+        "is_visible": true
     }
 ]
