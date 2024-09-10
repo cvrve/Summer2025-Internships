@@ -13159,5 +13159,22 @@
         "date_posted": 1725946373,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946542,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69749522000",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "04beb430-cdc2-408f-9a21-ceed3615f325",
+        "date_posted": 1725946542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
