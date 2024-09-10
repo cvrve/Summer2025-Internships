@@ -13398,5 +13398,22 @@
         "date_posted": 1725947196,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947258,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469192007?gh_src=39adb71c7us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Android Infotainment Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e92d4627-160f-4608-b4b5-3cb34e7adeb7",
+        "date_posted": 1725947258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
