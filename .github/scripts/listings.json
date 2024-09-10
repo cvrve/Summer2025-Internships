@@ -13432,5 +13432,22 @@
         "date_posted": 1725947285,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947321,
+        "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps---Internship---Atlanta_R-29980-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gordon",
+        "title": "Cloud DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1494c207-6776-4f9c-b427-d1e894e10022",
+        "date_posted": 1725947321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
