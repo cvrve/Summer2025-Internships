@@ -13551,5 +13551,22 @@
         "date_posted": 1725947711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725947744,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer-Intern---Summer-2025_R49989",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Audio Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c6e3f1c4-adc7-4180-aef3-7fe36a2819a0",
+        "date_posted": 1725947744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
