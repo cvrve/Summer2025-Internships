@@ -13793,5 +13793,22 @@
         "date_posted": 1725949169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725949244,
+        "url": "https://careers.boozallen.com/careers/JobDetail?jobId=102160",
+        "locations": [
+            "Atlanta,GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae661f7c-4b5b-46d4-a600-ebdba78e0f37",
+        "date_posted": 1725949244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
