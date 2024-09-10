@@ -13176,5 +13176,22 @@
         "date_posted": 1725946542,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725946614,
+        "url": "https://jobs-noblis.icims.com/jobs/24083/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": ".NET Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "04daa12c-86cb-4440-bece-37cca792575b",
+        "date_posted": 1725946614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
