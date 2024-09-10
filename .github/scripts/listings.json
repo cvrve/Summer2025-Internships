@@ -13636,5 +13636,22 @@
         "date_posted": 1725948085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725948321,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2025-Software-Tools-and-Assurance-Graduate-Intern_R011016",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Software Tools and Assurance Graduate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4f6038f6-ab7b-453a-bb18-52b05bb197bf",
+        "date_posted": 1725948321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
