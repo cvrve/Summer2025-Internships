@@ -13878,5 +13878,22 @@
         "date_posted": 1726096065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096089,
+        "url": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1270631EXTERNALENGLOBAL/Intern-Application-Development",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Beckman Coulter Life Sciences",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b3c117a3-7209-405a-afc8-19f6d352cca3",
+        "date_posted": 1726096089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
