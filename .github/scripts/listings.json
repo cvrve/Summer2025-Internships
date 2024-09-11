@@ -13895,5 +13895,22 @@
         "date_posted": 1726096089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096799,
+        "url": "https://careers.ti.com/job/20998898/software-engineering-intern-dallas-tx",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a6da1cbb-d892-4257-906a-7254bac70df4",
+        "date_posted": 1726096799,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Texas Instruments | Software Engineer Intern | Dallas, TX | <a href="https://careers.ti.com/job/20998898/software-engineering-intern-dallas-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Pearson | Software Engineer Intern | Columbia, SC | <a href="https://pearson.jobs/columbia-sc/intern-engineering/F076FE0D101D4FFF866885F3EFC38FAC/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Optiver | Trading Operations Analyst Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7632445002/?gh_jid=7632445002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Danaher | IDT Applications Developer Intern | Coralville, IA | <a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1272175EXTERNALENGLOBAL/IDT-Applications-Developer-Intern-Coralville-Iowa-Remote"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
