@@ -13861,5 +13861,22 @@
         "date_posted": 1726096007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096065,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Software-Systems-Engineering-Intern_JR30489-1",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Systems Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e6ac5fe9-1b58-496d-825b-5bfd584aa511",
+        "date_posted": 1726096065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
