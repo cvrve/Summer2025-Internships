@@ -71,7 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | ML Performance Software Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-ml-performance-software-engineer-dojo-winter-spring-2025-226976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
+| Tesla | Software Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-machine-learning-infrastructure-winter-spring-2025-227092"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | ML Performance Software Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-ml-performance-software-engineer-dojo-winter-spring-2025-226976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |
 | ↳ | Backend Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-backend-engineer-ai-inference-winter-spring-2025-225219"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | Software QA Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-qa-engineer-vehicle-software-winter-spring-2025-225143"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Software Engineer Intern, AI Tooling | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-ai-tooling-fall-2024-221971"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
