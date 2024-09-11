@@ -13827,5 +13827,22 @@
         "date_posted": 1726095065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726095977,
+        "url": "https://pearson.jobs/columbia-sc/intern-engineering/F076FE0D101D4FFF866885F3EFC38FAC/job",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pearson",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a8939895-00ce-42da-a4dc-8324defbf56b",
+        "date_posted": 1726095977,
+        "company_url": "",
+        "is_visible": true
     }
 ]
