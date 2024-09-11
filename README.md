@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Walmart | Software Engineer Intern | Bentonville, AR</br>Sunnyvale, CA | <a href="https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Trane Technologies | Software Engineer Intern | La Crosse, WI | <a href="https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2406760EXTERNALENGLOBAL/Software-Development-Engineering-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Texas Instruments | Software Engineer Intern | Dallas, TX | <a href="https://careers.ti.com/job/20998898/software-engineering-intern-dallas-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Spectrum | Quality Automation Engineer | Greenwood, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/69803068176"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |

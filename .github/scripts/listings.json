@@ -13980,5 +13980,23 @@
         "date_posted": 1726096946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096970,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "afe9ea02-6a2f-4058-a6e7-6791fb496951",
+        "date_posted": 1726096970,
+        "company_url": "",
+        "is_visible": true
     }
 ]
