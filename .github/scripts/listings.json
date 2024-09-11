@@ -13963,5 +13963,22 @@
         "date_posted": 1726096863,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096946,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2406760EXTERNALENGLOBAL/Software-Development-Engineering-Intern",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "99eeeb8c-2334-4303-88cb-e12b84d58d4b",
+        "date_posted": 1726096946,
+        "company_url": "",
+        "is_visible": true
     }
 ]

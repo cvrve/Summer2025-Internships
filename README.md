@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Trane Technologies | Software Engineer Intern | La Crosse, WI | <a href="https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2406760EXTERNALENGLOBAL/Software-Development-Engineering-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Texas Instruments | Software Engineer Intern | Dallas, TX | <a href="https://careers.ti.com/job/20998898/software-engineering-intern-dallas-tx"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Spectrum | Quality Automation Engineer | Greenwood, CO | <a href="https://jobs.spectrum.com/job/-/-/4673/69803068176"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Pearson | Software Engineer Intern | Columbia, SC | <a href="https://pearson.jobs/columbia-sc/intern-engineering/F076FE0D101D4FFF866885F3EFC38FAC/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
