@@ -13912,5 +13912,22 @@
         "date_posted": 1726096799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096831,
+        "url": "https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail",
+        "locations": [
+            "Tampa, Florida"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fintech",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9b691a34-4600-43ab-89ea-6d4d742c1b2c",
+        "date_posted": 1726096831,
+        "company_url": "",
+        "is_visible": true
     }
 ]
