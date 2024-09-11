@@ -14035,5 +14035,22 @@
         "date_posted": 1726097388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726097407,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385728101",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeam",
+        "title": "Data & Analytics Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "69ae59bc-1668-4f6f-b174-82450571b213",
+        "date_posted": 1726097407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
