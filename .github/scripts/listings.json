@@ -13946,5 +13946,22 @@
         "date_posted": 1726096850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726096863,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69803068176",
+        "locations": [
+            "Greenwood, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Quality Automation Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0e307686-d1d0-43b9-87e1-5188445c8724",
+        "date_posted": 1726096863,
+        "company_url": "",
+        "is_visible": true
     }
 ]
