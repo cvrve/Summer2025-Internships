@@ -1069,7 +1069,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "Blue Origin",
-        "title": "Software Engineering Intern \u2013 Graduate",
+        "title": "Software Engineering Intern – Graduate",
         "season": "Spring",
         "source": "vanshb03",
         "id": "e41c5a80-8200-4e9c-8a96-126b2186222b",
@@ -4337,7 +4337,7 @@
             "Charlotte, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Vanguard",
         "title": "College to Corporate IT Internship - Application Development",
         "season": "Summer",
@@ -5983,7 +5983,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "CACI",
-        "title": "Software Engineering Intern \u2013 Summer 2025",
+        "title": "Software Engineering Intern – Summer 2025",
         "season": "Summer",
         "source": "jiejun-j",
         "id": "54f8c13b-601d-4791-bced-7568250ce3f8",
@@ -9153,7 +9153,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Est\u00e9e Lauder",
+        "company_name": "Estée Lauder",
         "title": "Information Technology A.I. Intern",
         "season": "Summer",
         "source": "vanshb03",
@@ -9623,7 +9623,7 @@
             "Tempe, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Iridium",
         "title": "Information Technology Intern",
         "season": "Summer",
@@ -10253,7 +10253,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -11058,7 +11058,7 @@
         "locations": [
             "Austin"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "TEL",
         "title": "Data Engineer Intern",
@@ -11233,7 +11233,7 @@
             "Tempe, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Iridium",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -11303,7 +11303,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "\u202fTrane Technologies",
+        "company_name": " Trane Technologies",
         "title": "Software Engineering Intern",
         "season": "Summer",
         "source": "vanshb03",
@@ -11532,7 +11532,7 @@
         "locations": [
             "Niles, Illinois"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Shure",
         "title": "System Verification Intern",
@@ -11637,7 +11637,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "ServiceNow",
-        "title": "Utg \u2013 Software Engineer Internships - Summer 2025",
+        "title": "Utg – Software Engineer Internships - Summer 2025",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "de783f42-46cb-49b6-934d-b1b46e3e2e3e",
@@ -11739,7 +11739,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Cerebras",
-        "title": "Performance Engineer \u2013 Internship - PEY 2025",
+        "title": "Performance Engineer – Internship - PEY 2025",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
@@ -11756,7 +11756,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "Walmart",
-        "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
+        "title": "2024 Intern Conversion – 2025 Return Intern: Sr. Data Scientist",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
@@ -11790,7 +11790,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Palantir",
-        "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
+        "title": "Forward Deployed Software Engineer – Internship - Defense Tech",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
@@ -11877,7 +11877,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development - IOS",
+        "title": "Intern – Software Development - IOS",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
@@ -11896,7 +11896,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development",
+        "title": "Intern – Software Development",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
@@ -11914,7 +11914,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Database Conversion Programming",
+        "title": "Intern – Database Conversion Programming",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "27d647d4-4a79-466a-934e-52a80965af92",
@@ -11933,7 +11933,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development - Machine Learning",
+        "title": "Intern – Software Development - Machine Learning",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
@@ -11950,7 +11950,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Gilead Sciences",
-        "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
+        "title": "Intern – IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
@@ -12104,7 +12104,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arup",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -12189,7 +12189,7 @@
             "locations Baton Rouge, LA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Radiance Technologies",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -12273,7 +12273,7 @@
         "locations": [
             "Syracuse, NY"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "SAAB",
         "title": "Software Engineer Co-Op",
@@ -12463,7 +12463,7 @@
         "locations": [
             "Chaska, MN"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "TEL",
         "title": "Software Engineer Intern",
@@ -12497,7 +12497,7 @@
         "locations": [
             "Hillsboro, OR"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "TEL",
         "title": "Software Development Engineer Intern",
@@ -12653,7 +12653,7 @@
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Emerson",
         "title": "Process Automation Engineer Intern",
         "season": "Summer",
@@ -12738,7 +12738,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Indiana Farm Bureau Insurance",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -12755,7 +12755,7 @@
             "Green Bay, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "USVenture",
         "title": "Software Development Engineer Intern",
         "season": "Summer",
@@ -12772,7 +12772,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Aerospace Corporation",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -12839,8 +12839,8 @@
         "locations": [
             "Colorado Springs, CO"
         ],
-        "sponsorship": "Other",
-        "active": true,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Full Stack Software Development Intern",
         "season": "Summer",
@@ -12874,7 +12874,7 @@
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HII",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13013,7 +13013,7 @@
         "locations": [
             "Annapolis Junction, MD"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Lockheed Martin",
         "title": "Software Developer Intern",
@@ -13081,7 +13081,7 @@
         "locations": [
             "Niles, IL"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Shure",
         "title": "Embedded Software Intern",
@@ -13098,7 +13098,7 @@
         "locations": [
             "Niles, IL"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Shure",
         "title": "Application Software Development Intern",
@@ -13123,691 +13123,6 @@
         "source": "vanshb03",
         "id": "2b3284cc-3333-4301-a192-63c2deb09c37",
         "date_posted": 1725687150,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946289,
-        "url": "https://careers.skyworksinc.com/job/Austin-Firmware-Engineering-Summer-Intern-TX-73301/1211260100",
-        "locations": [
-            "Austin, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Skyworks",
-        "title": "Firmware Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "fb9e2207-3360-4d41-bed2-f9885c5194d8",
-        "date_posted": 1725946289,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946373,
-        "url": "https://jobs.colgate.com/job/Piscataway-Software-Development-Internship-NJ/1211210000",
-        "locations": [
-            "Piscataway, NJ"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Colgate",
-        "title": "Software Development Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "a16081cd-7281-436c-8bff-5c301451a7b9",
-        "date_posted": 1725946373,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946542,
-        "url": "https://jobs.spectrum.com/job/-/-/4673/69749522000",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Spectrum",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "04beb430-cdc2-408f-9a21-ceed3615f325",
-        "date_posted": 1725946542,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946614,
-        "url": "https://jobs-noblis.icims.com/jobs/24083/job",
-        "locations": [
-            "Reston, VA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Noblis",
-        "title": ".NET Software Developer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "04daa12c-86cb-4440-bece-37cca792575b",
-        "date_posted": 1725946614,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946669,
-        "url": "https://jobs-noblis.icims.com/jobs/24090/job",
-        "locations": [
-            "Reston, VA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Noblis",
-        "title": "Full Stack Web Developer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "e224d7ee-9937-4427-bec2-0c55034c5840",
-        "date_posted": 1725946669,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946713,
-        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/243909",
-        "locations": [
-            "Pella, IA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Pella",
-        "title": "Digital Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "ef0913d4-9e6c-4257-9966-bdeeac0bf8bf",
-        "date_posted": 1725946713,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946763,
-        "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---IT--Software-Engineer_R0042297",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Gilead",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "75619a34-876b-4780-b265-972e55b44e90",
-        "date_posted": 1725946763,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946791,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Software-Engineer-Intern_R104033-1",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tencent",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "6f2434bb-46ab-4f68-9b10-4166d2291b48",
-        "date_posted": 1725946791,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946848,
-        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5314128004?gh_src=760e10a94us",
-        "locations": [
-            "State College, PA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "KCF Technologies",
-        "title": "DevOps Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "581c6dea-589a-4468-a103-7472edddc01b",
-        "date_posted": 1725946848,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946884,
-        "url": "https://fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10623",
-        "locations": [
-            "Westfield Center, OH"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Westfield",
-        "title": "Application Development Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "8b7f6b97-1ef5-46cc-8022-5579477437d7",
-        "date_posted": 1725946884,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946944,
-        "url": "https://www.marketaxess.com/careers/current-openings/detail/software-engineering-intern-2025-4428536006?gh_jid=4400248006",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "MarketAxess",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "1bcd8f34-e8a1-481e-9636-9fb514271a82",
-        "date_posted": 1725946944,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725946978,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Front-End-Software-Engineer_R3927",
-        "locations": [
-            "Wilmington, MA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Symbotic",
-        "title": "Front End Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "935b72b8-1224-4567-803c-832bbed091f4",
-        "date_posted": 1725946978,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947010,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Back-End-Software-Engineer_R3928",
-        "locations": [
-            "Wilmington, MA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Symbotic",
-        "title": "Back End Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "a8354235-b349-4996-8f4f-05277cfe399e",
-        "date_posted": 1725947010,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947072,
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Software-Engineering-Intern--DevOps-_JR30457-1",
-        "locations": [
-            "Golden, CO",
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Allegion",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "bffbb92e-e54f-46a3-8973-5f9e33ecd4b8",
-        "date_posted": 1725947072,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947123,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4470774007?gh_src=63fd27437us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Cloud Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "1a9a25db-0320-4535-bd39-aeb156118af6",
-        "date_posted": 1725947123,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947196,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2025_R49599",
-        "locations": [
-            "locations Plantation, FL"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Motorola Solutions",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "e8f35df1-7026-423d-8116-8df941ec3638",
-        "date_posted": 1725947196,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947258,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469192007?gh_src=39adb71c7us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Android Infotainment Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "e92d4627-160f-4608-b4b5-3cb34e7adeb7",
-        "date_posted": 1725947258,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947285,
-        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25451&siteid=5592&PageType=JobDetails&jobid=3602302#jobDetails=3602302_5592",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "Ensco",
-        "title": "HPC Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "509c7548-1aa5-4257-b7ce-58d96991411a",
-        "date_posted": 1725947285,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947321,
-        "url": "https://gfs.wd5.myworkdayjobs.com/en-US/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps---Internship---Atlanta_R-29980-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Gordon",
-        "title": "Cloud DevOps Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "1494c207-6776-4f9c-b427-d1e894e10022",
-        "date_posted": 1725947321,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947358,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469216007?gh_src=867dd5c67us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Software Automation Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "c27c11ef-1e0e-4065-bf85-2df2c13e873c",
-        "date_posted": 1725947358,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947391,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4468123007?gh_src=ede164207us",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Embedded Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "ad98c641-7edc-44f2-ac48-c47ff561fbdb",
-        "date_posted": 1725947391,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947473,
-        "url": "https://www.wayfair.com/careers/job/software-engineering-intern---summer-----/7630459002",
-        "locations": [
-            "Boston, MA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Wayfair",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "b64baf5e-47f0-4aee-969a-c2c8ad66f1a7",
-        "date_posted": 1725947473,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947558,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472055007?gh_src=4cda23f97us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "DevOps Automation Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "e1239bfd-6bed-4d1d-880f-6dd66d44a024",
-        "date_posted": 1725947558,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947627,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475740007?gh_src=42d615467us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Embedded and Platform Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "ca9f98f9-5572-48ce-8efc-f0345ee0d375",
-        "date_posted": 1725947627,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947711,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469169007?gh_src=e427182c7us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Mobile Application Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "a14628ab-cdcb-4998-9f63-ffb5a6b251a0",
-        "date_posted": 1725947711,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947744,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer-Intern---Summer-2025_R49989",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Motorola Solutions",
-        "title": "Audio Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "c6e3f1c4-adc7-4180-aef3-7fe36a2819a0",
-        "date_posted": 1725947744,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947815,
-        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-machine-learning-infrastructure-winter-spring-2025-227092",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Tesla",
-        "title": "Software Engineer Intern",
-        "season": "Spring",
-        "source": "vanshb03",
-        "id": "95b835f0-cd09-4d5e-9904-490f9118ecb3",
-        "date_posted": 1725947815,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947865,
-        "url": "https://careers.leidos.com/jobs/14896418-embedded-design-engineer-intern-firmware?tm_job=R-00142951&tm_event=view&tm_company=2502",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "Leidos",
-        "title": "Embedded Design Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "f7d2002d-a6c9-4de5-a4ee-13f68918f7cc",
-        "date_posted": 1725947865,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725947923,
-        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Software-Engineer-Intern---TechEdge-Program---Summer-2025_R-0000025874",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Federal Reserve Bank",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "fab97201-8b07-4faf-9059-940a2c827118",
-        "date_posted": 1725947923,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948085,
-        "url": "https://www.grammarly.com/jobs/engineering/software-engineering-intern-summer-2025-?gh_jid=6232386",
-        "locations": [
-            "United States"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Grammarly",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "3c23c2c7-19c1-4d2c-baad-46d5c4a9b8e7",
-        "date_posted": 1725948085,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948321,
-        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2025-Software-Tools-and-Assurance-Graduate-Intern_R011016",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "The Aerospace Corporation",
-        "title": "Software Tools and Assurance Graduate Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "4f6038f6-ab7b-453a-bb18-52b05bb197bf",
-        "date_posted": 1725948321,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948369,
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5251372004?gh_src=e29dd8de4us",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "f6f554b6-956c-48c3-88f3-2e97545e0681",
-        "date_posted": 1725948369,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948411,
-        "url": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=DCSCORP2&cws=37&rid=6568",
-        "locations": [
-            "Belcamp, MD"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "DCS Corp",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "c6e97d0b-0ee9-470e-affa-0b845aebe032",
-        "date_posted": 1725948411,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948463,
-        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL301565EXTERNALENGLOBAL/Software-Engineering-Intern-Summer-2025",
-        "locations": [
-            "Herndon, VA",
-            "Oxnard, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "CACI",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "cbdfea27-cc3b-4270-b521-b504e71aaf1e",
-        "date_posted": 1725948463,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948599,
-        "url": "https://jobs.thermofisher.com/global/en/job/R-01264994/Software-Engineering-Intern?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=123525&rx_job=R-01264994-1&rx_medium=cp",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Thermo Fisher Scientific",
-        "title": "Software Engineering Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "61b07591-24dd-4ad7-b1c3-26895c5b4db9",
-        "date_posted": 1725948599,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948882,
-        "url": "https://careers.peraton.com/jobs/summer-2025-software-engineer-intern-internal-research-development-herndon-virginia-148511-jobs",
-        "locations": [
-            "Herndon , VA",
-            "Blacksburg , VA",
-            "West Lafayette , IN"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Peraton",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "fdb7b655-bd83-458b-b37e-38c35c55d0c4",
-        "date_posted": 1725948882,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725948948,
-        "url": "https://www.okta.com/company/careers/software-engineer-intern-summer-2025-6233281/",
-        "locations": [
-            "United States"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Okta",
-        "title": "Software Engineer Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "c1ddcb7b-e8cd-43b8-8262-eb3b7517aad5",
-        "date_posted": 1725948948,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725949017,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4468130007?gh_src=74563e8f7us",
-        "locations": [
-            "Newark, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lucid Motors",
-        "title": "Android Applications Software Engineer",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "3f2108ed-1dc5-45dd-ac7d-3170a705ca2a",
-        "date_posted": 1725949017,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725949169,
-        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2025-Modeling-and-Simulation-Undergraduate-Intern_R011014",
-        "locations": [
-            "El Segundo, CA",
-            "Chantilly, VA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "The Aerospace Corporation",
-        "title": "Modeling and Simulation Undergraduate Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "6607d41c-9c6f-4fe8-a19d-c6bce363ee16",
-        "date_posted": 1725949169,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1725949244,
-        "url": "https://careers.boozallen.com/careers/JobDetail?jobId=102160",
-        "locations": [
-            "Atlanta,GA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Booz Allen",
-        "title": "Data Scientist Intern",
-        "season": "Summer",
-        "source": "vanshb03",
-        "id": "ae661f7c-4b5b-46d4-a600-ebdba78e0f37",
-        "date_posted": 1725949244,
         "company_url": "",
         "is_visible": true
     }
