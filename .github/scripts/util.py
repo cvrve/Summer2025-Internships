@@ -123,26 +123,31 @@ def embedTable(listings, filepath):
 
 
 def sortListings(listings):
-    companyMap = defaultdict(list)  # company_name -> list of postings under company
-
-    # initial sort by activity and date
+    oldestListingFromCompany = {}
+    linkForCompany = {}
+    for listing in listings:
+        date_posted = listing["date_posted"]
+        if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
+            oldestListingFromCompany[listing["company_name"].lower()] = date_posted
+        if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
+            linkForCompany[listing["company_name"]] = listing["company_url"]
+            
     listings.sort(
         key=lambda x: (
-            x["active"],  # active listings first
-            datetime.fromtimestamp(x["date_posted"]).date()
+            x["active"],  # Active listings first
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
+            x['company_name'].lower(),
+            x['date_updated']
         ),
         reverse=True
     )
-
-    # group listings by company name
     for listing in listings:
-        companyKey = listing["company_name"].lower()
-        companyMap[companyKey].append(listing)
-
-    # flatten the sorted listings by company
-    sortedListings = [posting for postings in companyMap.values() for posting in postings]
-
-    return sortedListings
+        listing["company_url"] = linkForCompany[listing["company_name"]]
+    return listings
 
 
 def checkSchema(listings):
