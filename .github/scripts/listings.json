@@ -13998,5 +13998,25 @@
         "date_posted": 1726096970,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726097366,
+        "url": "https://jobs.statefarm.com/main/jobs/38712/job",
+        "locations": [
+            "Bloomington, IL",
+            "Dunwoody, GA",
+            "Tempe, AZ",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Statefarm",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e20d70c8-6de1-4d64-84dc-feb51c482ed5",
+        "date_posted": 1726097366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
