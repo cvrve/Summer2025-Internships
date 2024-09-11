@@ -14018,5 +14018,22 @@
         "date_posted": 1726097366,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726097388,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Ames-Iowa-USA/Embedded-Software-Engineer-Intern_REQ-18664",
+        "locations": [
+            "Ames, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vermeer",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ea59d200-7e21-4142-93f6-3bf010a98a6d",
+        "date_posted": 1726097388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
