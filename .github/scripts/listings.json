@@ -14052,5 +14052,22 @@
         "date_posted": 1726097407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726097420,
+        "url": "https://alston.wd1.myworkdayjobs.com/en-US/ExternalCareer/job/Atlanta/Developer-Intern_JR100570",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alston & Bird",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "443ee8f2-4800-44c2-8be2-5e03ac3e2b45",
+        "date_posted": 1726097420,
+        "company_url": "",
+        "is_visible": true
     }
 ]
