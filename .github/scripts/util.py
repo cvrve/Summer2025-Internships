@@ -63,6 +63,7 @@ def create_md_table(listings):
     table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
 
     curr_company_key = None
+    curr_date = None
     for listing in listings:
         
         # parse listing information
@@ -81,10 +82,11 @@ def create_md_table(listings):
         # add ↳ to listings with the same company
         # as "header" company listing (most recent)
         company_key = listing['company_name'].lower()
-        if curr_company_key == company_key:
+        if curr_company_key == company_key and curr_date == date_posted:
             company = "↳"
         else:
             curr_company_key = company_key
+            curr_date = date_posted
 
         # create table row
         table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
