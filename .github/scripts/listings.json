@@ -15026,5 +15026,22 @@
         "date_posted": 1726105894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726105946,
+        "url": "https://www.d2l.com/careers/jobs/test-developer-winter-2025-co-op/5941680/",
+        "locations": [
+            "Kitchener, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D2L",
+        "title": "Test Developer Intern - Winter",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "adcf41e9-a07e-404b-b465-d1bf6debf61f",
+        "date_posted": 1726105946,
+        "company_url": "",
+        "is_visible": true
     }
 ]
