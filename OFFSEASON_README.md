@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | SAP | Software Developer Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Software-Developer-Palo-Alto%2C-CA-CA-94304/1119280301"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
+| Ericsson | 5G Software Developer Intern | Ottawa, Canada | <a href="https://jobs.ericsson.com/careers/job/563121760892821"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Anduril | Mission Software Engineer Co-op | Quincy, MA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4512401007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Tesla | Software Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-machine-learning-infrastructure-winter-spring-2025-227092"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Tesla | ML Performance Software Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-ml-performance-software-engineer-dojo-winter-spring-2025-226976"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 06 |

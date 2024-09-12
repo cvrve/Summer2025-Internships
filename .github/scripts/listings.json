@@ -14460,5 +14460,22 @@
         "date_posted": 1726100717,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100749,
+        "url": "https://jobs.ericsson.com/careers/job/563121760892821",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "5G Software Developer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "57d77a89-0a45-4c53-ad0a-7f61ea31d590",
+        "date_posted": 1726100749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
