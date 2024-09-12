@@ -14834,5 +14834,23 @@
         "date_posted": 1726104691,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104718,
+        "url": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0277731EXTERNAL/Intern-Business-Application-Developer-Winter-2025",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FIS",
+        "title": "Business Application Developer Intern - Winter",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a003671c-81db-4c9a-b448-49e2b4711bd7",
+        "date_posted": 1726104718,
+        "company_url": "",
+        "is_visible": true
     }
 ]
