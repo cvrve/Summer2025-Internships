@@ -14749,5 +14749,22 @@
         "date_posted": 1726104146,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104174,
+        "url": "https://jobs.ericsson.com/careers/job/563121760784836-software-developer-intern-victoria-british-columbia-canada",
+        "locations": [
+            "Victoria, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "96b60ef7-ef6a-406a-ae99-7db3fa18be41",
+        "date_posted": 1726104174,
+        "company_url": "",
+        "is_visible": true
     }
 ]
