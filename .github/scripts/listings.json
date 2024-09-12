@@ -14307,5 +14307,22 @@
         "date_posted": 1726100177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100231,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_3514-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Badger Meter",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f27b4965-2b23-4cc7-b6b0-a042d46791df",
+        "date_posted": 1726100231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
