@@ -14137,5 +14137,22 @@
         "date_posted": 1726099662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099681,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/XMLNAME-2025-Software-Engineer-Internship_R83592-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LexisNexis",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d3e08c5b-9bdf-4658-855a-f392ff7db8f4",
+        "date_posted": 1726099681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
