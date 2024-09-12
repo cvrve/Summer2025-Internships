@@ -14817,5 +14817,22 @@
         "date_posted": 1726104665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104691,
+        "url": "https://careers.thalesgroup.com/global/en/job/R0252763/Mobile-Application-Developer-COOP-Starts-on-Jan-6-2025-for-3-months-fixed-term",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thales",
+        "title": "Mobile Application Developer Co-op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "33d1c13f-1a80-4805-bc7f-8ed28d03f228",
+        "date_posted": 1726104691,
+        "company_url": "",
+        "is_visible": true
     }
 ]
