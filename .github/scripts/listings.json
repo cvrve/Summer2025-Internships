@@ -14154,5 +14154,22 @@
         "date_posted": 1726099681,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099700,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469216007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Software Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b32a4f3e-d6f1-4930-ac7f-79cc8b50c1c8",
+        "date_posted": 1726099700,
+        "company_url": "",
+        "is_visible": true
     }
 ]
