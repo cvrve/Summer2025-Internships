@@ -14800,5 +14800,22 @@
         "date_posted": 1726104392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104665,
+        "url": "https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Student--Digital-Applications-Development--Winter-2025-Co-op-Term-_J53269",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Digital Applications Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bb60f35f-00ca-4559-ae12-b7e51857756f",
+        "date_posted": 1726104665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
