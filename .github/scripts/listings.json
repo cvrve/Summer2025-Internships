@@ -14992,5 +14992,22 @@
         "date_posted": 1726105719,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726105816,
+        "url": "https://jobs.ericsson.com/careers/job/563121760892821-5g-software-developer-co-op-ottawa-ontario-canada",
+        "locations": [
+            "Kitchener, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D2L",
+        "title": "User Experience Researcher Intern - Winter",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "210ddc99-e59e-462d-b5ff-217383d62e2c",
+        "date_posted": 1726105816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
