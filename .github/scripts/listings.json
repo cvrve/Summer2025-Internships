@@ -14290,5 +14290,22 @@
         "date_posted": 1726100157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100177,
+        "url": "https://jobs.aligntech.com/jobs/41153",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align",
+        "title": "Software Developer & Testing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fff34958-b3f5-4657-a10c-0c68cb035fc2",
+        "date_posted": 1726100177,
+        "company_url": "",
+        "is_visible": true
     }
 ]
