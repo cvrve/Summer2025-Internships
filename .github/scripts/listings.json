@@ -14511,5 +14511,22 @@
         "date_posted": 1726100813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100916,
+        "url": "https://careers-empiricalfoods.icims.com/jobs/2271/job",
+        "locations": [
+            "Dakota Dunes, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "empirical",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8f28a2bf-13d0-4ebe-b0eb-ab38d2e423cf",
+        "date_posted": 1726100916,
+        "company_url": "",
+        "is_visible": true
     }
 ]
