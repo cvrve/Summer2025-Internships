@@ -14324,5 +14324,22 @@
         "date_posted": 1726100231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100262,
+        "url": "https://www.allstate.jobs/job/20998521/arity-software-engineering-intern-north-carolina-nc",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arity",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "66a3a46e-a1ce-4192-bea7-c4aa4ed099d2",
+        "date_posted": 1726100262,
+        "company_url": "",
+        "is_visible": true
     }
 ]
