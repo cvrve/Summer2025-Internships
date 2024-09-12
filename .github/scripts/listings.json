@@ -14664,5 +14664,22 @@
         "date_posted": 1726102367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726102393,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475933007?gh_src=4cda23f97us",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "IT Infrastructure Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6118c8ca-ba5d-40e1-ab99-29b608688e88",
+        "date_posted": 1726102393,
+        "company_url": "",
+        "is_visible": true
     }
 ]
