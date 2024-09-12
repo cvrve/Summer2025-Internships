@@ -14647,5 +14647,22 @@
         "date_posted": 1726102344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726102367,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4486879007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "IT TPM Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4ca9e935-ce1e-4d2c-b5b2-4edfe1b82401",
+        "date_posted": 1726102367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
