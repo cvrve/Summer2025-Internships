@@ -14975,5 +14975,22 @@
         "date_posted": 1726105686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726105719,
+        "url": "https://www.tesla.com/careers/search/job/227004",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Haskell Software Developer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "c250ca98-1a10-4e79-9e80-2749ac87b069",
+        "date_posted": 1726105719,
+        "company_url": "",
+        "is_visible": true
     }
 ]
