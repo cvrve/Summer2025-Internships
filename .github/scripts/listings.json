@@ -14715,5 +14715,22 @@
         "date_posted": 1726102436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726102609,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4470611007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Drive Unit Test and Validation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de867b98-16c2-428c-a4c1-c9bacf94b106",
+        "date_posted": 1726102609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
