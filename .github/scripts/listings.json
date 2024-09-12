@@ -14852,5 +14852,24 @@
         "date_posted": 1726104718,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104742,
+        "url": "https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025",
+        "locations": [
+            "Montr\u00e9al",
+            "Qu\u00e9bec",
+            "St-Hyacinthe, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intact",
+        "title": "Fullstack Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dedf84c3-9685-4229-ac78-6cb18e9e1c29",
+        "date_posted": 1726104742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
