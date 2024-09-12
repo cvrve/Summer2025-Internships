@@ -15009,5 +15009,22 @@
         "date_posted": 1726105816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726105894,
+        "url": "https://www.d2l.com/careers/jobs/software-developer-winter-2025-co-op/5941677/",
+        "locations": [
+            "Kitchener, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D2L",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1f170336-bced-4825-8c9d-3aa22f5e6359",
+        "date_posted": 1726105894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
