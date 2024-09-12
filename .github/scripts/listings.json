@@ -14256,5 +14256,22 @@
         "date_posted": 1726100004,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100022,
+        "url": "https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?src=SNS-102&job=1372046",
+        "locations": [
+            "Hunt Valley, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Textron",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3874ec58-3d23-47d1-8540-2d1a06a8af71",
+        "date_posted": 1726100022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
