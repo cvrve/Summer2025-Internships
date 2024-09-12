@@ -14222,5 +14222,22 @@
         "date_posted": 1726099797,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099989,
+        "url": "https://careers.principal.com/us/jobs/44261/job",
+        "locations": [
+            "Software Engineer Intern"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Principal",
+        "title": "Des Moines, IA",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "14648dc3-ba4d-4a29-9db9-88b5f20755c5",
+        "date_posted": 1726099989,
+        "company_url": "",
+        "is_visible": true
     }
 ]
