@@ -72,6 +72,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Thales | Mobile Application Developer Co-op | Ottawa, Canada | <a href="https://careers.thalesgroup.com/global/en/job/R0252763/Mobile-Application-Developer-COOP-Starts-on-Jan-6-2025-for-3-months-fixed-term"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
+| Tesla | Haskell Software Developer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/227004"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | TD Bank | User Experience Designer/Strategist Intern - Winter | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Intern---Co-Op-III_R_1365672"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | SAP | Software Developer Intern | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Software-Developer-Palo-Alto%2C-CA-CA-94304/1119280301"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Intact | DevOps Engineer Intern - Winter | Montréal</br>Toronto, Canada | <a href="https://careers.intactfc.com/ca/en/job/R142710/DevOps-4-Month-Co-op-Internship-Winter-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
