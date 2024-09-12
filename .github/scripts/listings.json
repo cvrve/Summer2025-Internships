@@ -14409,5 +14409,22 @@
         "date_posted": 1726100594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100652,
+        "url": "https://www.okta.com/company/careers/software-engineer-intern-summer-2025-6246072/",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Okta",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "97dfb9d8-8731-4f26-a6de-9055a4e6f0a6",
+        "date_posted": 1726100652,
+        "company_url": "",
+        "is_visible": true
     }
 ]
