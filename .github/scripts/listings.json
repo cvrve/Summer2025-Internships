@@ -14205,5 +14205,22 @@
         "date_posted": 1726099747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099797,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/US-PA-Newtown-TTC/Firmware-Engineering-Intern_JR6456",
+        "locations": [
+            "Newtown, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Curtiss Wright",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b2c7e8cc-a07d-4556-9f09-3c84dedb62ba",
+        "date_posted": 1726099797,
+        "company_url": "",
+        "is_visible": true
     }
 ]
