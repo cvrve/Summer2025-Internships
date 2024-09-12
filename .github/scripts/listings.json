@@ -14086,5 +14086,22 @@
         "date_posted": 1726099612,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099630,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4512401007",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Mission Software Engineer Co-op",
+        "season": "Fall",
+        "source": "cvrve-bot",
+        "id": "317fd8af-2d0a-4ea2-8702-fbc135b3fbc6",
+        "date_posted": 1726099630,
+        "company_url": "",
+        "is_visible": true
     }
 ]
