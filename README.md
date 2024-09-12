@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Two Sigma | Software Engineer Intern | New York, NY | <a href="https://careers.twosigma.com/careers/Careers?jobId=12601"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Walmart | Software Engineer Intern | Bentonville, AR</br>Sunnyvale, CA | <a href="https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Vermeer | Embedded Software Engineer Intern | Ames, IA | <a href="https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Ames-Iowa-USA/Embedded-Software-Engineer-Intern_REQ-18664"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Veeam | Data & Analytics Engineering Intern | Alpharetta, GA | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4385728101"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
