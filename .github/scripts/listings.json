@@ -14906,5 +14906,23 @@
         "date_posted": 1726104787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104802,
+        "url": "https://careers.intactfc.com/ca/en/job/R142710/DevOps-4-Month-Co-op-Internship-Winter-2025",
+        "locations": [
+            "Montr\u00e9al",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intact",
+        "title": "DevOps Engineer Intern - Winter",
+        "season": "Fall",
+        "source": "cvrve-bot",
+        "id": "d39759f2-09e6-4ac9-960f-0ca725bf92bb",
+        "date_posted": 1726104802,
+        "company_url": "",
+        "is_visible": true
     }
 ]
