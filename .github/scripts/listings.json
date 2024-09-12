@@ -14120,5 +14120,22 @@
         "date_posted": 1726099645,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099662,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2025-Corporate-Internship_202414503-1",
+        "locations": [
+            "Multiple"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dicks Sporting Goods",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "285221ab-de24-48c9-85f4-62da9ed59119",
+        "date_posted": 1726099662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
