@@ -14613,5 +14613,22 @@
         "date_posted": 1726101541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726101666,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473464007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "ADAS Tooling Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b49a5a0e-4c59-4b57-a090-0fb1682282ab",
+        "date_posted": 1726101666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
