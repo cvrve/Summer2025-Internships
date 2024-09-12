@@ -14477,5 +14477,22 @@
         "date_posted": 1726100749,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100769,
+        "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-big-data-2",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Huawei",
+        "title": "AI & Big Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4bdf26bc-e964-43e3-a334-539bec81f971",
+        "date_posted": 1726100769,
+        "company_url": "",
+        "is_visible": true
     }
 ]
