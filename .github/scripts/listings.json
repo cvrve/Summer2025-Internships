@@ -14545,5 +14545,22 @@
         "date_posted": 1726100941,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726101490,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473444007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "ADAS Perception Algorithm Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d68d159f-8f67-456c-82a2-b5f190926bc1",
+        "date_posted": 1726101490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
