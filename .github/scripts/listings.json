@@ -14069,5 +14069,22 @@
         "date_posted": 1726097420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099612,
+        "url": "https://careers.garmin.com/careers-home/jobs/14453",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6643aa0b-11f0-4679-8ca5-198369f92e6d",
+        "date_posted": 1726099612,
+        "company_url": "",
+        "is_visible": true
     }
 ]
