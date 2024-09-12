@@ -14375,5 +14375,22 @@
         "date_posted": 1726100345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100560,
+        "url": "https://jobs.aligntech.com/jobs/41154",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align",
+        "title": "Software Developer & Testing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a71e100a-c81d-448b-8982-a8842d0e7c92",
+        "date_posted": 1726100560,
+        "company_url": "",
+        "is_visible": true
     }
 ]
