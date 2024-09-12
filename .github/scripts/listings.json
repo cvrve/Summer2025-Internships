@@ -14358,5 +14358,22 @@
         "date_posted": 1726100325,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100345,
+        "url": "https://jobs.lever.co/saviynt/04d8dcbd-9c1f-4500-9c4f-a5e5756e0372",
+        "locations": [
+            "Los Angeles"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Saviynt",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "30530d0f-0de5-42a6-ad4f-cad88f06bd64",
+        "date_posted": 1726100345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
