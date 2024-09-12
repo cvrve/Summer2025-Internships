@@ -14239,5 +14239,22 @@
         "date_posted": 1726099989,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100004,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301042",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Distributed Systems Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b4db6a49-6227-434d-bdcd-fb96320b51ce",
+        "date_posted": 1726100004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
