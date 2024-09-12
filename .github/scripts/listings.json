@@ -14596,5 +14596,22 @@
         "date_posted": 1726101523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726101541,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473454007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "ADAS Sensor Hardware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7844a8a7-d085-4252-a9d7-236321517bca",
+        "date_posted": 1726101541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
