@@ -14494,5 +14494,22 @@
         "date_posted": 1726100769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100813,
+        "url": "https://generaldynamics-us-careers.ttcportals.com/jobs/14903375-summer-intern-software-engineering-relocation-eligible",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f9360268-e099-4fb7-987c-5c8bfcefbb2d",
+        "date_posted": 1726100813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
