@@ -14273,5 +14273,22 @@
         "date_posted": 1726100022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100157,
+        "url": "https://careers.ibm.com/job/21000011/software-deloper-intern-may-2025-16-months-markham-ca",
+        "locations": [
+            "Markham, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9ff78a5d-aa73-4f20-b6a8-063a8d100779",
+        "date_posted": 1726100157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
