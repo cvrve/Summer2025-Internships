@@ -14732,5 +14732,22 @@
         "date_posted": 1726102609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104146,
+        "url": "https://jobs.intuit.com/job/-/-/27595/69774929120",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Developer Co-op - Winter",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "865962d9-f5fb-41b8-918a-e88b6f468e73",
+        "date_posted": 1726104146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
