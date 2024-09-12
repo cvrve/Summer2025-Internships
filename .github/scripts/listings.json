@@ -14783,5 +14783,22 @@
         "date_posted": 1726104367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726104392,
+        "url": "https://careers.se.com/jobs/76853",
+        "locations": [
+            "Dollard, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Automation Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4a665aff-3e12-4c45-9f99-b63e04f41fa0",
+        "date_posted": 1726104392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
