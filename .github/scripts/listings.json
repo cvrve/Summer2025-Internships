@@ -14341,5 +14341,22 @@
         "date_posted": 1726100262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100325,
+        "url": "https://www.3ds.com/careers/jobs/internship-simulia-customer-success-web-applications-engineer-541022",
+        "locations": [
+            "Johnston, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "3DS",
+        "title": "Web Applications Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f54e5e8d-21c0-4abc-a036-c8ef4cd0df8f",
+        "date_posted": 1726100325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
