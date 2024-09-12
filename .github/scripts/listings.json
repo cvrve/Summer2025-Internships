@@ -15043,5 +15043,22 @@
         "date_posted": 1726105946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726184397,
+        "url": "https://careers.twosigma.com/careers/Careers?jobId=12601",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Sigma",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2b3fb0e8-4dfb-4bc1-9c47-b90501e81b92",
+        "date_posted": 1726184397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
