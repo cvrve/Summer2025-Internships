@@ -14941,5 +14941,22 @@
         "date_posted": 1726105642,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726105657,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2025-Blackstone-Software-Engineer-Summer-Analyst_33872",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackstone",
+        "title": "Software Engineer Summer Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1331b9d3-8ffd-44af-a9d9-35a797c54df7",
+        "date_posted": 1726105657,
+        "company_url": "",
+        "is_visible": true
     }
 ]
