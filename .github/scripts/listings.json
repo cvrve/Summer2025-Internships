@@ -14562,5 +14562,22 @@
         "date_posted": 1726101490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726101510,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4473458007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "ADAS Mapping and Navigation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "327fa023-3b1f-414f-8a3f-c22e2f8fe9eb",
+        "date_posted": 1726101510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
