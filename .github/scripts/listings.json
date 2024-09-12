@@ -14103,5 +14103,22 @@
         "date_posted": 1726099630,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726099645,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4512223007",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fa4bd77e-52fd-4c96-aefb-46f74eea51e4",
+        "date_posted": 1726099645,
+        "company_url": "",
+        "is_visible": true
     }
 ]
