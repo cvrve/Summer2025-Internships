@@ -14426,5 +14426,22 @@
         "date_posted": 1726100652,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726100678,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/69789109488",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "755e965a-b58d-4395-a11d-885b41617e7a",
+        "date_posted": 1726100678,
+        "company_url": "",
+        "is_visible": true
     }
 ]
