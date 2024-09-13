@@ -15281,5 +15281,22 @@
         "date_posted": 1726190259,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190399,
+        "url": "https://www.tesla.com/careers/search/job/-internship-software-embedded-systems-engineer-vehicle-hardware-winter-spring-2025-227283",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software & Embedded Systems Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "096a69ee-b91a-4b01-995d-3ab86d47d636",
+        "date_posted": 1726190399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
