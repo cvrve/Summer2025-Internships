@@ -15077,5 +15077,22 @@
         "date_posted": 1726188383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726188461,
+        "url": "https://www.epirusinc.com/open-roles?gh_jid=5320594004",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epirus",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "91a205d4-bc79-468b-b712-b46f80f770ca",
+        "date_posted": 1726188461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
