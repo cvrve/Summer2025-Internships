@@ -15488,5 +15488,25 @@
         "date_posted": 1726262977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726263066,
+        "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Associate-Technical-Account-Manager_R149277",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "Lehi, UT",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Associate Technical Account Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "81579086-444f-4e54-b9f2-ec8092ebbc2c",
+        "date_posted": 1726263066,
+        "company_url": "",
+        "is_visible": true
     }
 ]
