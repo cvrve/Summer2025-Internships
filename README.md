@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Aquatic | Software Engineer, Intern | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Upper Hand | Machine Learning Engineer & Data Science Intern | Indianapolis, IN | <a href="https://jobs.gusto.com/postings/upper-hand-internship-machine-learning-engineer-data-science-444949fa-8932-479e-a63e-9b52ed7236ff"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Two Sigma | Software Engineer Intern | New York, NY | <a href="https://careers.twosigma.com/careers/Careers?jobId=12601"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | The Cigna Group | Software Engineering Intern | Newton, MA | <a href="https://jobs.thecignagroup.com/us/en/job/CIGNUS24009592EXTERNALENUS/Software-Engineering-Intern-Summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
