@@ -15832,5 +15832,23 @@
         "date_posted": 1726271355,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726271399,
+        "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2025_307246",
+        "locations": [
+            "Cambridge, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kensho",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6c8a51d2-3a0f-4d44-a908-7c3c150309f5",
+        "date_posted": 1726271399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
