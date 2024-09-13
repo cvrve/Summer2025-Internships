@@ -79,7 +79,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Splunk | Product Manager Intern - Winter | Remote | <a href="https://jobs.jobvite.com/splunk-careers/job/or8pufwc"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | SPAN | Device Software Engineering Intern | San Francisco, CA | <a href="https://boards.greenhouse.io/spanio/jobs/6144559003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
-| Schonfeld | Software Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/6253829"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| Schonfeld | Quant Research Intern | New York, NY | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/6250099"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| ↳ | Software Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/6253829"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Lyft | Mobile Software Engineer Intern, iOS | Toronto, Canada | <a href="https://app.careerpuck.com/job-board/lyft/job/7629311002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | ↳ | Software Engineer Intern, Backend | Montréal, Canada | <a href="https://app.careerpuck.com/job-board/lyft/job/7619583002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | ↳ | Mobile Software Engineer Intern, Android | San Francisco, CA | <a href="https://app.careerpuck.com/job-board/lyft/job/7632834002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |

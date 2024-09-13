@@ -15678,5 +15678,22 @@
         "date_posted": 1726269588,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269601,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6250099",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Quant Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a73410c3-fb8c-441c-9a41-b69e8267e831",
+        "date_posted": 1726269601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
