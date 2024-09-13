@@ -15315,5 +15315,22 @@
         "date_posted": 1726190445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190677,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Hazel-Park---Michigan---USA/Software-Applications-Engineer-Intern_R2024-3900",
+        "locations": [
+            "Hazel Park, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Software Applications Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2af8ef1f-7c36-40be-9d89-0c3de0e06b04",
+        "date_posted": 1726190677,
+        "company_url": "",
+        "is_visible": true
     }
 ]
