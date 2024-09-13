@@ -15576,5 +15576,22 @@
         "date_posted": 1726263480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269423,
+        "url": "https://boards.greenhouse.io/spanio/jobs/6144559003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SPAN",
+        "title": "Device Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "31a32b0a-1bd3-401b-b513-efc2dfc83e32",
+        "date_posted": 1726269423,
+        "company_url": "",
+        "is_visible": true
     }
 ]
