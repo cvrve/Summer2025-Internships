@@ -119,8 +119,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Schneider Electric | Automation Test Engineer Intern | Dollard, CA | <a href="https://careers.se.com/jobs/76853"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Saviynt | Software Engineer Intern | Los Angeles | <a href="https://jobs.lever.co/saviynt/04d8dcbd-9c1f-4500-9c4f-a5e5756e0372"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Roche | DevSecOps Intern | Mississauga, Canada | <a href="https://careers.roche.com/global/en/job/ROCHGLOBAL202409122611EXTERNALENGLOBAL/DevSecOps-Intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Principal | Des Moines, IA | Software Engineer Intern | <a href="https://careers.principal.com/us/jobs/44261/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Pearson | Software Engineer Intern | Columbia, SC | <a href="https://pearson.jobs/columbia-sc/intern-engineering/F076FE0D101D4FFF866885F3EFC38FAC/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
+| Principal | Software Engineer Intern | Des Moines, IA | <a href="https://careers.principal.com/us/jobs/44261/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Optiver | Trading Operations Analyst Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7632445002/?gh_jid=7632445002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Okta | Software Engineer Intern | Canada | <a href="https://www.okta.com/company/careers/software-engineer-intern-summer-2025-6246072/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Microsoft | Technical Program Manager Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1748094/Technical-Program-Manager-Internship-Opportunities-Redmond"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
@@ -137,16 +136,13 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | ADAS Perception Algorithm Engineer Intern | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4473444007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | ↳ | DevOps Automation Engineer Intern | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4472055007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | ↳ | Software Automation Engineer Intern | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/4469216007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| LexisNexis | Software Engineer Intern | Raleigh, NC | <a href="https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/XMLNAME-2025-Software-Engineer-Internship_R83592-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | L3Harris | Software Engineer Intern | Plano, TX | <a href="https://careers.l3harris.com/en/job/-/-/4832/69789109488"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Intuit | Software Developer Co-op - Winter | Toronto, Canada | <a href="https://jobs.intuit.com/job/-/-/27595/69774929120"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Intact | Fullstack Developer Intern | Montréal</br>Québec</br>St-Hyacinthe, Canada | <a href="https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | IBM | Software Developer Intern | Markham, CA | <a href="https://careers.ibm.com/job/21000011/software-deloper-intern-may-2025-16-months-markham-ca"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Huawei | AI & Big Data Engineer Intern | Vancouver, Canada | <a href="https://huaweicanada.recruitee.com/o/co-op-engineer-big-data-2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| GE | Software Engineering Intern | Sterling Heights, MI | <a href="https://generaldynamics-us-careers.ttcportals.com/jobs/14903375-summer-intern-software-engineering-relocation-eligible"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Garmin | Software Engineer Intern | Cary, NC | <a href="https://careers.garmin.com/careers-home/jobs/14453"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | FIS | Business Application Developer Intern - Winter | Remote</br>Canada | <a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0277731EXTERNAL/Intern-Business-Application-Developer-Winter-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Fintech | Software Engineer Intern | Tampa, Florida | <a href="https://recruiting.ultipro.com/FIN1008FICT/JobBoard/c0ae7303-ee90-41c6-b44a-abf63303ceb4/OpportunityDetail"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Fidelity | Digital Applications Development Intern | Toronto, Canada | <a href="https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Student--Digital-Applications-Development--Winter-2025-Co-op-Term-_J53269"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Ericsson | Software Developer Intern | Victoria, Canada | <a href="https://jobs.ericsson.com/careers/job/563121760784836-software-developer-intern-victoria-british-columbia-canada"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | ↳ | Software Developer Intern | Victoria, Canada | <a href="https://jobs.ericsson.com/careers/job/563121760784836"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
@@ -689,6 +685,10 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Point72 | Quantitative Developer Intern | New York | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| Pearson | Software Engineer Intern | Columbia, SC | 🔒 | Sep 11 |
+| LexisNexis | Software Engineer Intern | Raleigh, NC | 🔒 | Sep 11 |
+| GE | Software Engineering Intern | Sterling Heights, MI | 🔒 | Sep 11 |
+| Fintech | Software Engineer Intern | Tampa, Florida | 🔒 | Sep 11 |
 | USVenture | Software Development Engineer Intern | Green Bay, WI | 🔒 | Sep 06 |
 | The Aerospace Corporation | Software Engineer Intern | Chantilly, VA | 🔒 | Sep 06 |
 | Skyworks | Firmware DevOps Intern | Austin, TX | 🔒 | Sep 06 |
