@@ -15452,5 +15452,22 @@
         "date_posted": 1726262620,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726262697,
+        "url": "https://jobs.comcast.com/job/-/-/45483/69899788384",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "35088b72-5762-4ce6-9118-ac2080216917",
+        "date_posted": 1726262697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
