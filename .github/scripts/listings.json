@@ -15610,5 +15610,22 @@
         "date_posted": 1726269437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269462,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7632834002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Mobile Software Engineer Intern, Android",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7ecc61c-59e6-4314-9051-c25b3791afc3",
+        "date_posted": 1726269462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
