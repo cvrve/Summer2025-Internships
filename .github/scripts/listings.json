@@ -15730,5 +15730,22 @@
         "date_posted": 1726269907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269956,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1748102/Product-Manager%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "75159beb-f21e-425f-8ef4-8a6300ae6c9a",
+        "date_posted": 1726269956,
+        "company_url": "",
+        "is_visible": true
     }
 ]
