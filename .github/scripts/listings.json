@@ -15145,5 +15145,22 @@
         "date_posted": 1726188730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726188859,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Hagerstown-Maryland-United-States/AI-Autonomy-Engineering-Intern_R30897",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Autonomy Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "175f2e27-f212-4074-8dab-9a4ddf213217",
+        "date_posted": 1726188859,
+        "company_url": "",
+        "is_visible": true
     }
 ]
