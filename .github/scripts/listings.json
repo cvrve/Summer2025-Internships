@@ -13835,7 +13835,7 @@
             "Columbia, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pearson",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13920,7 +13920,7 @@
             "Tampa, Florida"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fintech",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14145,7 +14145,7 @@
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LexisNexis",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14227,12 +14227,12 @@
         "date_updated": 1726099989,
         "url": "https://careers.principal.com/us/jobs/44261/job",
         "locations": [
-            "Software Engineer Intern"
+            "Des Moines, IA"
         ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "Principal",
-        "title": "Des Moines, IA",
+        "title": "Software Engineer Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "14648dc3-ba4d-4a29-9db9-88b5f20755c5",
@@ -14502,7 +14502,7 @@
             "Sterling Heights, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE",
         "title": "Software Engineering Intern",
         "season": "Summer",
