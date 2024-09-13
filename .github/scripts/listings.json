@@ -15695,5 +15695,23 @@
         "date_posted": 1726269601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269891,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1769194",
+        "locations": [
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2b35df89-8395-4878-ad32-09924911356a",
+        "date_posted": 1726269891,
+        "company_url": "",
+        "is_visible": true
     }
 ]
