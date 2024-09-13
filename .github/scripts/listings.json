@@ -15264,5 +15264,22 @@
         "date_posted": 1726190056,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190259,
+        "url": "https://jobs.jobvite.com/careers/src-inc/job/oXOuufwt",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SRC",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "560872d9-d79b-4bbf-8f05-727081b4275b",
+        "date_posted": 1726190259,
+        "company_url": "",
+        "is_visible": true
     }
 ]
