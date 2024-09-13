@@ -15764,5 +15764,22 @@
         "date_posted": 1726270017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726270590,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Summer-2025-Technology-Undergraduate-Intern---Boston_R91208",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wellington Management",
+        "title": "Technology Undergraduate Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59bd62e9-d714-4e55-92d2-7c4b02c25e9c",
+        "date_posted": 1726270590,
+        "company_url": "",
+        "is_visible": true
     }
 ]
