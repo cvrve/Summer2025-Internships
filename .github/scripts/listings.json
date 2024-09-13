@@ -15661,5 +15661,22 @@
         "date_posted": 1726269522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269588,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6253829",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b0945a54-593f-46ed-b953-82864899452d",
+        "date_posted": 1726269588,
+        "company_url": "",
+        "is_visible": true
     }
 ]
