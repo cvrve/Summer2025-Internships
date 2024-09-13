@@ -15469,5 +15469,24 @@
         "date_posted": 1726262697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726262977,
+        "url": "https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Product-Management-Intern_JR6596",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR",
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CDK",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e5f9ef63-81bd-4d06-89bd-78b59957a8fc",
+        "date_posted": 1726262977,
+        "company_url": "",
+        "is_visible": true
     }
 ]

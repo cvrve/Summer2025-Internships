@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Comcast | Product Manager Intern | Philadelphia, PA | <a href="https://jobs.comcast.com/job/-/-/45483/69899788384"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| CDK | Product Management Intern | Austin, TX</br>Portland, OR</br>Hoffman Estates, IL | <a href="https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Product-Management-Intern_JR6596"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Aquatic | Software Engineer, Intern | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Amazon | Program Manager Intern | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2713207/2025-program-manager-intern"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Upper Hand | Machine Learning Engineer & Data Science Intern | Indianapolis, IN | <a href="https://jobs.gusto.com/postings/upper-hand-internship-machine-learning-engineer-data-science-444949fa-8932-479e-a63e-9b52ed7236ff"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
