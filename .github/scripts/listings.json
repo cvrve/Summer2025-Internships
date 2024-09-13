@@ -15400,5 +15400,22 @@
         "date_posted": 1726190951,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726191052,
+        "url": "https://jobs.gusto.com/postings/upper-hand-internship-machine-learning-engineer-data-science-444949fa-8932-479e-a63e-9b52ed7236ff",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Upper Hand",
+        "title": "Machine Learning Engineer & Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2fc66c37-a0fc-4c1a-989b-969ef3acf00d",
+        "date_posted": 1726191052,
+        "company_url": "",
+        "is_visible": true
     }
 ]
