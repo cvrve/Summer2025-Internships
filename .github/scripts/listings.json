@@ -15713,5 +15713,22 @@
         "date_posted": 1726269891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269907,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1764819/Software-for-Hardware-Engineer%3A-Internship-Opportunities",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Hardware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "63b036ba-1287-476e-b215-c62599b8ff34",
+        "date_posted": 1726269907,
+        "company_url": "",
+        "is_visible": true
     }
 ]
