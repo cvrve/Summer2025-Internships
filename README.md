@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wellington Management | Technology Undergraduate Intern | Boston, MA | <a href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Summer-2025-Technology-Undergraduate-Intern---Boston_R91208"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Splunk | Product Manager Intern - Winter | Remote | <a href="https://jobs.jobvite.com/splunk-careers/job/or8pufwc"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | SPAN | Device Software Engineering Intern | San Francisco, CA | <a href="https://boards.greenhouse.io/spanio/jobs/6144559003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Schonfeld | Quant Research Intern | New York, NY | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/6250099"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
