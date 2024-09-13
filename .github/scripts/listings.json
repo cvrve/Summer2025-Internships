@@ -15850,5 +15850,22 @@
         "date_posted": 1726271399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726271423,
+        "url": "https://careers.qorvo.com/job/Software-Characterization-Engineering-Intern-NC/1207464500",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Characterization Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab8ef63c-2d71-499b-aa94-f02d8f3c240a",
+        "date_posted": 1726271423,
+        "company_url": "",
+        "is_visible": true
     }
 ]
