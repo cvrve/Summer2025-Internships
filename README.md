@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Splunk | Product Manager Intern - Winter | Remote | <a href="https://jobs.jobvite.com/splunk-careers/job/or8pufwc"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| IBM | Product Management Intern | Remote | <a href="https://careers.ibm.com/job/20939612/product-management-intern-2025-remote"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Datadog | Product Manager Intern | New York, NY | <a href="https://careers.datadoghq.com/detail/6175982"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Comcast | Product Manager Intern | Philadelphia, PA | <a href="https://jobs.comcast.com/job/-/-/45483/69899788384"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | CDK | Product Management Intern | Austin, TX</br>Portland, OR</br>Hoffman Estates, IL | <a href="https://cdk.wd1.myworkdayjobs.com/CDK/job/Austin-TX-USA/Product-Management-Intern_JR6596"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |

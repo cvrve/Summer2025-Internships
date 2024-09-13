@@ -15559,5 +15559,22 @@
         "date_posted": 1726263413,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726263480,
+        "url": "https://careers.ibm.com/job/20939612/product-management-intern-2025-remote",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "10f24895-f9d4-476f-926b-58b3fb7b0d8d",
+        "date_posted": 1726263480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
