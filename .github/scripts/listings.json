@@ -15798,5 +15798,22 @@
         "date_posted": 1726270618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726271294,
+        "url": "https://careers.autozone.com/jobs/240006M4",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autozone",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "26dfaa5e-385a-446f-8129-dc934df53b4f",
+        "date_posted": 1726271294,
+        "company_url": "",
+        "is_visible": true
     }
 ]
