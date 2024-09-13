@@ -15593,5 +15593,22 @@
         "date_posted": 1726269423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269437,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7629317002",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Mobile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "636b4d97-2d76-4ca8-b28a-877facf2fbbb",
+        "date_posted": 1726269437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
