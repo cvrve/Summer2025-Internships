@@ -15417,5 +15417,23 @@
         "date_posted": 1726191052,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726253824,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Aquatic",
+        "title": "Software Engineer, Intern",
+        "season": "Summer",
+        "source": "gvithub",
+        "id": "1a40e7f8-83bf-42e8-8e4a-dca1f20c8447",
+        "date_posted": 1726253824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
