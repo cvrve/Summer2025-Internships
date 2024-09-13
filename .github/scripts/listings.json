@@ -15298,5 +15298,22 @@
         "date_posted": 1726190399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190445,
+        "url": "https://www.tesla.com/careers/search/job/-internship-audio-software-algorithms-engineer-electronic-devices-winter-spring-2025-227306",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Audio Software Algorithms Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d925f05c-7afd-4efa-8d0c-7a188fd5ab0b",
+        "date_posted": 1726190445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
