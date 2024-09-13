@@ -15781,5 +15781,22 @@
         "date_posted": 1726270590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726270618,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1748094/Technical-Program-Manager%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Technical Program Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0c4421e7-d811-4b81-8c95-a42c4b0a6b15",
+        "date_posted": 1726270618,
+        "company_url": "",
+        "is_visible": true
     }
 ]
