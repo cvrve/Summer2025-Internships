@@ -15747,5 +15747,22 @@
         "date_posted": 1726269956,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726270017,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1766916/Software-Engineer%3A-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "12ddce0d-c36c-480c-8691-1b8cb637e1fd",
+        "date_posted": 1726270017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
