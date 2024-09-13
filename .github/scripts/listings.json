@@ -15060,5 +15060,22 @@
         "date_posted": 1726184397,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726188383,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6120149003",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras Systems",
+        "title": "Applied Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9b9fb84-3870-4321-8164-6f2a5dd5fd60",
+        "date_posted": 1726188383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
