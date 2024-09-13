@@ -15627,5 +15627,22 @@
         "date_posted": 1726269462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726269506,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7619583002",
+        "locations": [
+            "Montr\u00e9al, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Backend",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e622bf2f-50fc-4b22-b0b7-5b34467328e4",
+        "date_posted": 1726269506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
