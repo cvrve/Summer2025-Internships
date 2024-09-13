@@ -15525,5 +15525,22 @@
         "date_posted": 1726263209,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726263332,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/7579341002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "84.51\u00b0",
+        "title": "Consultant Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c1d8ee76-ba9b-4828-b121-b8eae11af76b",
+        "date_posted": 1726263332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
