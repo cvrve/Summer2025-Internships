@@ -15366,5 +15366,22 @@
         "date_posted": 1726190836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190906,
+        "url": "https://careers.interstates.com/jobs/3468/job",
+        "locations": [
+            "Omaha, NB"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interstates",
+        "title": "Apps Programmer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b4ba5985-fa07-4c0a-81b2-9fe692dfb42d",
+        "date_posted": 1726190906,
+        "company_url": "",
+        "is_visible": true
     }
 ]
