@@ -15111,5 +15111,22 @@
         "date_posted": 1726188522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726188676,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Advance-Technologies-Engineering-Intern_R30899",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Advance Technologies Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b18316d1-7541-4db5-b341-39b17587ca35",
+        "date_posted": 1726188676,
+        "company_url": "",
+        "is_visible": true
     }
 ]
