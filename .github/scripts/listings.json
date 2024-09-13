@@ -15383,5 +15383,22 @@
         "date_posted": 1726190906,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190951,
+        "url": "https://jobs.thecignagroup.com/us/en/job/CIGNUS24009592EXTERNALENUS/Software-Engineering-Intern-Summer-2025",
+        "locations": [
+            "Newton, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Cigna Group",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a6bfb9d7-a8ae-487d-9ad2-8cfd96acce92",
+        "date_posted": 1726190951,
+        "company_url": "",
+        "is_visible": true
     }
 ]
