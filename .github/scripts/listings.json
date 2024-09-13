@@ -15213,5 +15213,22 @@
         "date_posted": 1726189922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726189972,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2025-_R158349",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Full Stack Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8d5d025e-9128-4542-a232-d39beb1c507a",
+        "date_posted": 1726189972,
+        "company_url": "",
+        "is_visible": true
     }
 ]
