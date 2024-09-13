@@ -15815,5 +15815,22 @@
         "date_posted": 1726271294,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726271355,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/111218",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Technology Modernization Associate Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "97ba739d-07c3-4235-91e1-44a7f6250494",
+        "date_posted": 1726271355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
