@@ -15332,5 +15332,22 @@
         "date_posted": 1726190677,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726190758,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job/Holmdel/XMLNAME-2025-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000104443",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Guardian",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "17b9efb3-09ed-48c7-a4ca-6a4f38eb190e",
+        "date_posted": 1726190758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
