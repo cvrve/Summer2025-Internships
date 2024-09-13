@@ -78,7 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Two Sigma | Software Engineer Intern | New York, NY | <a href="https://careers.twosigma.com/careers/Careers?jobId=12601"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| Relativity Space | Test Engineer Intern | Long Beach, CA | <a href="https://boards.greenhouse.io/rsinternboard/jobs/7612316002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| Relativity Space | Software Engineer Intern | Long Beach, CA | <a href="https://boards.greenhouse.io/rsinternboard/jobs/7612314002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| ↳ | Test Engineer Intern | Long Beach, CA | <a href="https://boards.greenhouse.io/rsinternboard/jobs/7612316002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Qumulo | Software Development Engineer Intern | Seattle, WA | <a href="https://boards.greenhouse.io/qumulo/jobs/6252299"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Pendo | Software Engineering Intern | Raleigh, NC | <a href="https://boards.greenhouse.io/pendo/jobs/7636210002"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Parsons | Full Stack Software Developer Intern | Annapolis, MD | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---MD-Annapolis-Junction/Full-Stack-Software-Developer-Intern--Summer-2025-_R158349"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
