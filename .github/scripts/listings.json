@@ -15937,5 +15937,23 @@
         "date_posted": 1726341463,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726341488,
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Product-Management-Internship_R-041214",
+        "locations": [
+            "Boston, MA",
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "752a83d4-3279-4d38-876b-c812f5531dd2",
+        "date_posted": 1726341488,
+        "company_url": "",
+        "is_visible": true
     }
 ]
