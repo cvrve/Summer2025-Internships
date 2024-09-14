@@ -15867,5 +15867,23 @@
         "date_posted": 1726271423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726272362,
+        "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2025_307256",
+        "locations": [
+            "Cambridge, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kensho",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce8a1bd7-6012-44ed-ab47-5c5406b73680",
+        "date_posted": 1726272362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
