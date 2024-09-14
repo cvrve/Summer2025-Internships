@@ -15903,5 +15903,22 @@
         "date_posted": 1726272460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726272580,
+        "url": "https://careers.qorvo.com/job/Software-Engineering-Intern-FL/1212741000/?eresc=cvrve",
+        "locations": [
+            "Apopka, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1783b93b-6a9e-41b7-bec1-f7906c941a13",
+        "date_posted": 1726272580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
