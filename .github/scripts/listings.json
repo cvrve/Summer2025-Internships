@@ -15955,5 +15955,23 @@
         "date_posted": 1726341488,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726341503,
+        "url": "https://job-boards.greenhouse.io/wurl/jobs/6124612003",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Wurl",
+        "title": "Adtech Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd721589-6da5-48c8-a567-260619536273",
+        "date_posted": 1726341503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
