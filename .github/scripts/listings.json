@@ -15885,5 +15885,23 @@
         "date_posted": 1726272362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726272460,
+        "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Research-Scientist---Summer-Intern-2025_307254",
+        "locations": [
+            "Cambridge, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kensho",
+        "title": "Research Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7b89d3ee-2f1c-4793-ab18-a4937d805f69",
+        "date_posted": 1726272460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
