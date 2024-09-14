@@ -15973,5 +15973,22 @@
         "date_posted": 1726341503,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726345825,
+        "url": "https://jobs.comcast.com/job/-/-/45483/69873352288",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6fab3f0a-019c-44cf-b20e-a5fc36fc8a94",
+        "date_posted": 1726345825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
