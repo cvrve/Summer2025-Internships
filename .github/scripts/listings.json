@@ -16160,5 +16160,22 @@
         "date_posted": 1726431611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431667,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4393052006",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Software Systems Hardware Integration Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "66d76ec8-0cf0-42f6-9372-c02ce11e0da3",
+        "date_posted": 1726431667,
+        "company_url": "",
+        "is_visible": true
     }
 ]
