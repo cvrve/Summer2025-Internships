@@ -16265,5 +16265,22 @@
         "date_posted": 1726432172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726432480,
+        "url": "https://careers.rtx.com/global/en/job/01723009",
+        "locations": [
+            "Burnsville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8e1f2bd3-522f-4c79-849c-e0497efce6cb",
+        "date_posted": 1726432480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
