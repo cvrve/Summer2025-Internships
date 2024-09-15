@@ -16231,5 +16231,22 @@
         "date_posted": 1726431898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726432050,
+        "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Machine-Learning-Software-Engineer-Intern--Summer-2025-_REQ2024044586",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valeo",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "30eff91a-febe-4881-93af-f1366572bdaa",
+        "date_posted": 1726432050,
+        "company_url": "",
+        "is_visible": true
     }
 ]
