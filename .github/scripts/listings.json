@@ -16211,5 +16211,25 @@
         "date_posted": 1726431789,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431898,
+        "url": "https://jobs.citizensbank.com/job/johnston/software-engineer-intern-enterprise-technology-and-security-summer-internship/288/69866529408",
+        "locations": [
+            "Johnston, RI",
+            "Iselin, NJ",
+            "Phoenix, AZ",
+            "Westwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "859b68d2-dea6-4d24-9289-d7fdb6419e56",
+        "date_posted": 1726431898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
