@@ -16075,5 +16075,22 @@
         "date_posted": 1726428976,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726429022,
+        "url": "https://www.tanium.com/careers/6187797?gh_jid=cvrve",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tanium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a31c4bc6-aa85-49d3-8ed8-af82cd51e85d",
+        "date_posted": 1726429022,
+        "company_url": "",
+        "is_visible": true
     }
 ]

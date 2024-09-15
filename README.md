@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | The Trade Desk | Software Engineering Intern | Los Angeles, CA | <a href="https://careers.thetradedesk.com/jobs/4467901007/2025-north-america-software-engineering-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Tanium | Software Engineer Intern | Durham, NC | <a href="https://www.tanium.com/careers/6187797?gh_jid=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Suno | Software Engineer Intern | Boston, MA | <a href="https://jobs.ashbyhq.com/suno/6237a7a4-2b5c-4f24-8616-1e2c437d4c2e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Staples | Software Engineer Intern | Framingham, MA | <a href="https://careers.staples.com/en/job/-/-/44412/69911530592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Seimens | R&D Software Engineering Intern | Louisville, KT | <a href="https://jobs.siemens.com/careers/job/563156120786209"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
