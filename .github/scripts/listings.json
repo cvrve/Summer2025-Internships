@@ -16092,5 +16092,22 @@
         "date_posted": 1726429022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431371,
+        "url": "https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Playground",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "27ffd4a3-7727-450a-a42e-3037dd16313e",
+        "date_posted": 1726431371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
