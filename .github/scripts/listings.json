@@ -16007,5 +16007,22 @@
         "date_posted": 1726423876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726423943,
+        "url": "https://careers.thetradedesk.com/jobs/4467901007/2025-north-america-software-engineering-internship",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Trade Desk",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92382f0b-b261-4b46-8fe3-e3012a38bdff",
+        "date_posted": 1726423943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
