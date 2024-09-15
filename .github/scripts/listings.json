@@ -16058,5 +16058,22 @@
         "date_posted": 1726425970,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726428976,
+        "url": "https://job-boards.greenhouse.io/duolingouniversityrecruitment/jobs/7632140002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fbc75bd0-d49c-407e-a96d-fb583ac2c8e3",
+        "date_posted": 1726428976,
+        "company_url": "",
+        "is_visible": true
     }
 ]
