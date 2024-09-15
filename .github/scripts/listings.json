@@ -16024,5 +16024,22 @@
         "date_posted": 1726423943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726425288,
+        "url": "https://jobs.siemens.com/careers/job/563156120786209",
+        "locations": [
+            "Louisville, KT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seimens",
+        "title": "R&D Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9839bd1f-f77f-4422-b80c-336089e942ef",
+        "date_posted": 1726425288,
+        "company_url": "",
+        "is_visible": true
     }
 ]
