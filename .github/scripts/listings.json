@@ -16143,5 +16143,22 @@
         "date_posted": 1726431567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431611,
+        "url": "https://jobs.danfoss.com/job/Tallahassee-Software-Engineer-Intern-FL-32301/803132302",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danfoss",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3b08f998-82e7-410b-aa7a-2b1664d9be5b",
+        "date_posted": 1726431611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
