@@ -15990,5 +15990,22 @@
         "date_posted": 1726345825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726423876,
+        "url": "https://jobs.ashbyhq.com/suno/6237a7a4-2b5c-4f24-8616-1e2c437d4c2e",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Suno",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "60e5a00e-5f39-4b36-991b-f0ce6bdc1629",
+        "date_posted": 1726423876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
