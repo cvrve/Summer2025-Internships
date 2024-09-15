@@ -16126,5 +16126,22 @@
         "date_posted": 1726431490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431567,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24009372",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Firmware Design Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac93d84c-3336-4119-98d4-28d2805109c1",
+        "date_posted": 1726431567,
+        "company_url": "",
+        "is_visible": true
     }
 ]
