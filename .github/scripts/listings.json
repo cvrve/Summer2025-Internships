@@ -16248,5 +16248,22 @@
         "date_posted": 1726432050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726432172,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/Home?partnerid=25632&siteid=5798",
+        "locations": [
+            "Richfield, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Best Buy",
+        "title": "Associate Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1ac99fdb-80f6-40b3-a462-65a7b9b78758",
+        "date_posted": 1726432172,
+        "company_url": "",
+        "is_visible": true
     }
 ]
