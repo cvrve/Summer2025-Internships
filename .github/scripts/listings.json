@@ -16177,5 +16177,22 @@
         "date_posted": 1726431667,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431720,
+        "url": "https://icr-team.com/?gnk=job&gni=8a7887a87d80d755017da06e8b9b3ac3&&&gns",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICR",
+        "title": "Cyber Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4d469dde-2fc4-4867-95c1-dd9d095080b0",
+        "date_posted": 1726431720,
+        "company_url": "",
+        "is_visible": true
     }
 ]
