@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Suno | Software Engineer Intern | Boston, MA | <a href="https://jobs.ashbyhq.com/suno/6237a7a4-2b5c-4f24-8616-1e2c437d4c2e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Wurl | Adtech Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/wurl/jobs/6124612003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Red Hat | Product Management Intern | Boston, MA</br>Raleigh, NC | <a href="https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Product-Management-Internship_R-041214"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Qorvo | Software Engineering Intern 🛂 | San Jose, CA | <a href="https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/?eresc=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
