@@ -16109,5 +16109,22 @@
         "date_posted": 1726431371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726431490,
+        "url": "https://jobs.comcast.com/job/-/-/45483/69906097360",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3ee1d484-5532-4b0a-ac54-b084a2b0c6c7",
+        "date_posted": 1726431490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
