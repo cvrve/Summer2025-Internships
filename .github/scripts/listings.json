@@ -16299,5 +16299,22 @@
         "date_posted": 1726450856,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726451407,
+        "url": "http://redirect.cvrve.me/5caa0d1710dab29cb5c7",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f551241c-7cff-4b3f-9b57-3c3498c4e55f",
+        "date_posted": 1726451407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
