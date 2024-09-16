@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NVIDIA | Hardware Engineering Intern - Ignite | Santa Clara, CA | <a href="http://redirect.cvrve.me/9d3f8d1bda3cf2ae2ed3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Valeo | Machine Learning Intern | San Mateo, CA | <a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Machine-Learning-Software-Engineer-Intern--Summer-2025-_REQ2024044586"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | The Trade Desk | Software Engineering Intern | Los Angeles, CA | <a href="https://careers.thetradedesk.com/jobs/4467901007/2025-north-america-software-engineering-internship"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Tanium | Software Engineer Intern | Durham, NC | <a href="https://www.tanium.com/careers/6187797?gh_jid=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
