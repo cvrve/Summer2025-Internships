@@ -16350,5 +16350,22 @@
         "date_posted": 1726462496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726462597,
+        "url": "http://redirect.cvrve.me/1e9c8700ecdb98019306",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ibotta",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d444428-f9f7-4e61-b453-57b2ac337b3e",
+        "date_posted": 1726462597,
+        "company_url": "",
+        "is_visible": true
     }
 ]
