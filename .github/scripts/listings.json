@@ -16316,5 +16316,22 @@
         "date_posted": 1726451407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726462326,
+        "url": "http://redirect.cvrve.me/468b7de1ef311b5169b3",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d716c06-992f-4588-ab8e-9cbc1b9c5925",
+        "date_posted": 1726462326,
+        "company_url": "",
+        "is_visible": true
     }
 ]
