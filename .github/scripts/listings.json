@@ -16384,5 +16384,22 @@
         "date_posted": 1726509097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726509143,
+        "url": "http://redirect.cvrve.me/147f03497b41d8a9ac36",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern - Ignite",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "58840892-6f59-423a-b2b4-7d56f9b1e34d",
+        "date_posted": 1726509143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
