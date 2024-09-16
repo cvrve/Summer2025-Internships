@@ -16333,5 +16333,22 @@
         "date_posted": 1726462326,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726462496,
+        "url": "http://redirect.cvrve.me/2d655c268657db9eed16",
+        "locations": [
+            "Franksville, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b66576a7-7e42-42c6-9f56-0b256c7d364e",
+        "date_posted": 1726462496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
