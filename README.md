@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Staples | Software Engineer Intern | Framingham, MA | <a href="https://careers.staples.com/en/job/-/-/44412/69911530592"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Seimens | R&D Software Engineering Intern | Louisville, KT | <a href="https://jobs.siemens.com/careers/job/563156120786209"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | RTX | Software Engineering Intern | Burnsville, MN | <a href="https://careers.rtx.com/global/en/job/01723009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Rockwell Automation | DevOps Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/5caa0d1710dab29cb5c7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Playground | Software Engineer Intern | New York, NY | <a href="https://app.dover.com/apply/Playground/96774945-7637-4834-adb5-29e1edef1179/?rs=76643084"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Noah Medical | Software Engineer Intern 🛂 | San Carlos, CA | <a href="https://boards.greenhouse.io/noahmedical/jobs/4126024008"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | ICR | Cyber Engineer Intern | San Antonio, TX | <a href="https://icr-team.com/?gnk=job&gni=8a7887a87d80d755017da06e8b9b3ac3&&&gns"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
