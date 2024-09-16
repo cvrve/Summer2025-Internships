@@ -16401,5 +16401,22 @@
         "date_posted": 1726509143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726509194,
+        "url": "http://redirect.cvrve.me/13a4c343a3596346e3b7",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Embedded Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f735eb03-8e31-4c14-9f05-7c035115cade",
+        "date_posted": 1726509194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
