@@ -16547,5 +16547,23 @@
         "date_posted": 1726577064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577090,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Engineer-Intern---Summer-2025_R50049",
+        "locations": [
+            "Schaumburg, IL",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b0bcc7f6-8c65-4d64-ba27-906fdbdb06b7",
+        "date_posted": 1726577090,
+        "company_url": "",
+        "is_visible": true
     }
 ]
