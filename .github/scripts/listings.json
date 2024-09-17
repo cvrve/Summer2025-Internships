@@ -16470,5 +16470,22 @@
         "date_posted": 1726576988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577015,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4517665007",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Expedition Technology",
+        "title": "Deep Learning and Computer Vision Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0694fa6b-53f4-4949-87ce-2b5c4dd9bac6",
+        "date_posted": 1726577015,
+        "company_url": "",
+        "is_visible": true
     }
 ]
