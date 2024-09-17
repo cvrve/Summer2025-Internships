@@ -16894,5 +16894,22 @@
         "date_posted": 1726578151,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578188,
+        "url": "https://careers-daytonfreight.icims.com/jobs/14298/job",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dayton Freight",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "58065e96-b7b6-45e6-b230-ec00f7c93b24",
+        "date_posted": 1726578188,
+        "company_url": "",
+        "is_visible": true
     }
 ]
