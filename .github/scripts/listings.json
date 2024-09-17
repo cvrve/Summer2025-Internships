@@ -16487,5 +16487,23 @@
         "date_posted": 1726577015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577034,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209636003",
+        "locations": [
+            "Birmingham, AL",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "iOS Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6c818974-8a52-414f-b221-65e835fea613",
+        "date_posted": 1726577034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
