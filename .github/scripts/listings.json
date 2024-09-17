@@ -16617,5 +16617,22 @@
         "date_posted": 1726577135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577152,
+        "url": "https://boards.greenhouse.io/scm/jobs/721888",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stevens Capital Management",
+        "title": "Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c2204785-8be4-40bc-8b09-7bc5a54e8ea1",
+        "date_posted": 1726577152,
+        "company_url": "",
+        "is_visible": true
     }
 ]
