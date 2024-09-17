@@ -16687,5 +16687,22 @@
         "date_posted": 1726577199,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577346,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op_R27474-1",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Embedded Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0a76c1a2-8918-422f-b073-96063b5c1f06",
+        "date_posted": 1726577346,
+        "company_url": "",
+        "is_visible": true
     }
 ]
