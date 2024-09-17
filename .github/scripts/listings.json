@@ -16634,5 +16634,22 @@
         "date_posted": 1726577152,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577168,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineering-Intern---Software--Summer-2025-_R32558",
+        "locations": [
+            "Murfreesboro, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e532007a-103f-4c84-92c9-b3e824e7a1fa",
+        "date_posted": 1726577168,
+        "company_url": "",
+        "is_visible": true
     }
 ]
