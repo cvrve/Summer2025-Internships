@@ -16826,5 +16826,22 @@
         "date_posted": 1726577826,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577959,
+        "url": "https://ea.gr8people.com/jobs/185913/software-engineer-intern-summer-2025",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EA",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "03de61da-020a-4f0d-a244-854b3a3f0d99",
+        "date_posted": 1726577959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
