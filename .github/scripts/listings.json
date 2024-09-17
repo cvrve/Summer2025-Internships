@@ -17030,5 +17030,22 @@
         "date_posted": 1726579019,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726597607,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403107006&gh_src=ec5455116us",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NinjaTrader",
+        "title": "Web Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7d5d4e26-676b-4294-a4d3-6e57a80ca87f",
+        "date_posted": 1726597607,
+        "company_url": "",
+        "is_visible": true
     }
 ]
