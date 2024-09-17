@@ -16979,5 +16979,22 @@
         "date_posted": 1726578952,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578994,
+        "url": "https://careers-spscommerce.icims.com/jobs/8937/technology-internship/job",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SPS",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6d0ca43e-5e99-4704-9540-07aa4d052158",
+        "date_posted": 1726578994,
+        "company_url": "",
+        "is_visible": true
     }
 ]
