@@ -16911,5 +16911,22 @@
         "date_posted": 1726578188,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578216,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/70008941344",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Labor Systems Web Integration Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "f5813c63-0c5d-4e0d-ab7c-291f0a8bac4f",
+        "date_posted": 1726578216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
