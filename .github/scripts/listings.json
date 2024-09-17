@@ -16809,5 +16809,22 @@
         "date_posted": 1726577814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577826,
+        "url": "https://careers-gdms.icims.com/jobs/63924/job",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a22a67af-cd15-4a5f-93ef-fdeb6a71f026",
+        "date_posted": 1726577826,
+        "company_url": "",
+        "is_visible": true
     }
 ]
