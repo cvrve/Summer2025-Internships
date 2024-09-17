@@ -16790,5 +16790,24 @@
         "date_posted": 1726577593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577814,
+        "url": "https://www.appfolio.com/open-roles?p=job%2FoaXwufwR",
+        "locations": [
+            "Santa Barbara, CA",
+            "San Diego, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "appfolio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "344c5d15-5daa-43e6-b42b-d0f719a9be27",
+        "date_posted": 1726577814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
