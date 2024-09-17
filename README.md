@@ -78,7 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Motorola Solutions | Supply Chain Data Analytics Intern | Chicago, IL</br>Schaumburg, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| Fetch | iOS Software Engineering Intern | Birmingham, AL</br>Madison, WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/6209636003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Fetch | Android Software Engineer Intern | Birmingham, AL</br>Madison, WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/6209561003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| ↳ | iOS Software Engineering Intern | Birmingham, AL</br>Madison, WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/6209636003"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Expedition Technology | Deep Learning and Computer Vision Intern 🇺🇸 | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4517665007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Software Engineering Intern 🇺🇸 | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4518627007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Machine Learning and RF Signal Processing Intern | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4518608007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
