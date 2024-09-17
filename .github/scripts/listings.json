@@ -16651,5 +16651,23 @@
         "date_posted": 1726577168,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577180,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209637003",
+        "locations": [
+            "Birmingham, AL",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "Front-end Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "592f310c-6666-4de0-9c04-ce0779ba43c4",
+        "date_posted": 1726577180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
