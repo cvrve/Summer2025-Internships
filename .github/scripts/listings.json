@@ -16843,5 +16843,22 @@
         "date_posted": 1726577959,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577980,
+        "url": "https://www.pega.com/about/careers/21002/software-engineer-summer-intern-shared-user-services",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PEGA",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2a466358-0733-406b-bbd6-1648df0416bd",
+        "date_posted": 1726577980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
