@@ -16704,5 +16704,23 @@
         "date_posted": 1726577346,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577360,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209640003",
+        "locations": [
+            "Birmingham, AL",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "Backend Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7316e25-dda6-4852-9961-d1099ae22112",
+        "date_posted": 1726577360,
+        "company_url": "",
+        "is_visible": true
     }
 ]
