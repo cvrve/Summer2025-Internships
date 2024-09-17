@@ -16582,5 +16582,23 @@
         "date_posted": 1726577106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577120,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern--Summer-2025-_R32419",
+        "locations": [
+            "Oshkosh, WI",
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Computer/Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1e71f70b-5cce-4ae4-b76f-2bc0e8239610",
+        "date_posted": 1726577120,
+        "company_url": "",
+        "is_visible": true
     }
 ]
