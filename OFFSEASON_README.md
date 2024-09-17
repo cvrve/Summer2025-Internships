@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Disney | Labor Systems Web Integration Intern | Lake Buena Vista, FL | <a href="https://www.disneycareers.com/en/job/-/-/391/70008941344"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Tesla | Audio Software Algorithms Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-audio-software-algorithms-engineer-electronic-devices-winter-spring-2025-227306"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | ↳ | Software & Embedded Systems Engineer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/-internship-software-embedded-systems-engineer-vehicle-hardware-winter-spring-2025-227283"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | SRC | Software Engineer Intern | Herndon, VA | <a href="https://jobs.jobvite.com/careers/src-inc/job/oXOuufwt"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
