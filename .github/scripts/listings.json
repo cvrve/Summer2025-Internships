@@ -16505,5 +16505,23 @@
         "date_posted": 1726577034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577049,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209561003",
+        "locations": [
+            "Birmingham, AL",
+            "Madison, WI"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "Android Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "622e5b28-aadc-47b2-a084-e0d98f912eeb",
+        "date_posted": 1726577049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
