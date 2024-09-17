@@ -16436,5 +16436,22 @@
         "date_posted": 1726575457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726576954,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4518608007",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedition Technology",
+        "title": "Machine Learning and RF Signal Processing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59da3258-0fa9-40a9-a625-fb81ff9a97d4",
+        "date_posted": 1726576954,
+        "company_url": "",
+        "is_visible": true
     }
 ]
