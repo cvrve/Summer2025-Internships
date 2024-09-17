@@ -16860,5 +16860,22 @@
         "date_posted": 1726577980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578117,
+        "url": "https://careers.spglobal.com/jobs/307760",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "56cb96f6-f5bf-41bf-9d7b-86b0ee7cf31c",
+        "date_posted": 1726578117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
