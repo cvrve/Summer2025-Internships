@@ -16669,5 +16669,23 @@
         "date_posted": 1726577180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577199,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209641003",
+        "locations": [
+            "Birmingham, AL",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "Machine Learning Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a6443264-bf2c-4475-92ff-e0616a3493ca",
+        "date_posted": 1726577199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
