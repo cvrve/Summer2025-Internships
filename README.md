@@ -78,7 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Motorola Solutions | Supply Chain Data Analytics Intern | Chicago, IL</br>Schaumburg, IL | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| Expedition Technology | Software Engineering Intern 🇺🇸 | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4518627007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Expedition Technology | Deep Learning and Computer Vision Intern 🇺🇸 | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4517665007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| ↳ | Software Engineering Intern 🇺🇸 | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4518627007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Machine Learning and RF Signal Processing Intern | Herndon, VA | <a href="https://www.exptechinc.com/careers/?gh_jid=4518608007"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | NVIDIA | Software Engineering Intern - Ignite | Santa Clara, CA | <a href="http://redirect.cvrve.me/147f03497b41d8a9ac36"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | ↳ | Hardware Engineering Intern - Ignite | Santa Clara, CA | <a href="http://redirect.cvrve.me/9d3f8d1bda3cf2ae2ed3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
