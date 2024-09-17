@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | Firmware Engineering Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343621822837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Stevens Capital Management | Developer Intern | Radnor, PA | <a href="https://boards.greenhouse.io/scm/jobs/721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| SPS | Technology Intern | Minneapolis, MN | <a href="https://careers-spscommerce.icims.com/jobs/8937/technology-internship/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Service Now | Digital Technology Intern | Santa Clara, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000014302725"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | S&P Global | Software Engineer Intern | Princeton, NJ | <a href="https://careers.spglobal.com/jobs/307760"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | PEGA | Software Engineer Intern | Waltham, MA | <a href="https://www.pega.com/about/careers/21002/software-engineer-summer-intern-shared-user-services"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
