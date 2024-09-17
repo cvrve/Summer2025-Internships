@@ -16945,5 +16945,22 @@
         "date_posted": 1726578918,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578936,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2727359",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Tools",
+        "title": "Manufacturing Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fa7bc9d6-8e76-4420-bf07-d400f1f738e0",
+        "date_posted": 1726578936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
