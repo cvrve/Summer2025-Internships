@@ -16928,5 +16928,22 @@
         "date_posted": 1726578216,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578918,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403076006&gh_src=d77af50e6us",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NinjaTrader",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1792be76-a6db-4fd8-a4aa-bf16cfe2f613",
+        "date_posted": 1726578918,
+        "company_url": "",
+        "is_visible": true
     }
 ]
