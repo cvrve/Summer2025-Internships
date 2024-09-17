@@ -16739,5 +16739,22 @@
         "date_posted": 1726577375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577427,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R27512",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Data Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d2ccaccc-a85d-4807-986a-11e8046509e8",
+        "date_posted": 1726577427,
+        "company_url": "",
+        "is_visible": true
     }
 ]
