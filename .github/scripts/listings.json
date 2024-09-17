@@ -16962,5 +16962,22 @@
         "date_posted": 1726578936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578952,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403117006&gh_src=1fdcc62d6us",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NinjaTrader",
+        "title": "Software Developer in Test Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1de18324-7886-4419-a540-332293626e5a",
+        "date_posted": 1726578952,
+        "company_url": "",
+        "is_visible": true
     }
 ]
