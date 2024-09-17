@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zebra | Firmware Engineering Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343621822837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Stevens Capital Management | Developer Intern | Radnor, PA | <a href="https://boards.greenhouse.io/scm/jobs/721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Service Now | Digital Technology Intern | Santa Clara, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000014302725"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | S&P Global | Software Engineer Intern | Princeton, NJ | <a href="https://careers.spglobal.com/jobs/307760"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
