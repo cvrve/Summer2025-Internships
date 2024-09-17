@@ -16877,5 +16877,22 @@
         "date_posted": 1726578117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726578151,
+        "url": "https://careers.zebra.com/careers/job/343621822837",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c150b05-9233-41b5-b4fe-25bc38c5d5d1",
+        "date_posted": 1726578151,
+        "company_url": "",
+        "is_visible": true
     }
 ]
