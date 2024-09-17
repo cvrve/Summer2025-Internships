@@ -16600,5 +16600,22 @@
         "date_posted": 1726577120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577135,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000014302725",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Service Now",
+        "title": "Digital Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a445a492-7895-4a86-883a-0445dbe3b614",
+        "date_posted": 1726577135,
+        "company_url": "",
+        "is_visible": true
     }
 ]
