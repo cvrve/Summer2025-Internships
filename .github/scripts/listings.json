@@ -16523,5 +16523,29 @@
         "date_posted": 1726577049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577064,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2098649",
+        "locations": [
+            "Boston, MA",
+            "Covington, KY",
+            "Westlake, TX",
+            "Salt Lake City, UT",
+            "Durham, NC",
+            "Jersey City, NJ",
+            "Merrimack, NH",
+            "Smithfield, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91fcd66b-1045-4f5f-9e09-4d1931b2cb8c",
+        "date_posted": 1726577064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
