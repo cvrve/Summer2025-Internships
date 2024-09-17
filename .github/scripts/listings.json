@@ -17013,5 +17013,22 @@
         "date_posted": 1726579007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726579019,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2727460",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Tools",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "315f16f3-31cc-4f9f-b58e-898ce2ced35e",
+        "date_posted": 1726579019,
+        "company_url": "",
+        "is_visible": true
     }
 ]
