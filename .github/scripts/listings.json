@@ -16565,5 +16565,22 @@
         "date_posted": 1726577090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577106,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5320664004",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Galaxy",
+        "title": "Sales & Trading Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0c6bd3ed-d449-40ae-94c0-aaee4aaa1531",
+        "date_posted": 1726577106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
