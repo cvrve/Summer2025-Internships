@@ -16756,5 +16756,22 @@
         "date_posted": 1726577427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726577558,
+        "url": "https://careers.ameriprise.com/search-jobs/r24_0000002716/investments-intern-quantitative-research",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ameriprise Financial",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6e098dc6-9443-4d34-a87e-32560832c482",
+        "date_posted": 1726577558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
