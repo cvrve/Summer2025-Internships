@@ -17356,5 +17356,22 @@
         "date_posted": 1726637466,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637490,
+        "url": "http://redirect.cvrve.me/a89e0814430785c5a4cb",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SRC",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7a2f8e0c-caed-4697-b4d5-6ba896f63b6f",
+        "date_posted": 1726637490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
