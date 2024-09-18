@@ -17047,5 +17047,24 @@
         "date_posted": 1726597607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726626943,
+        "url": "http://redirect.cvrve.me/1064dcf5ac7eb421c350",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "02ff82b3-99c4-4e3b-83ce-d033844f2d7c",
+        "date_posted": 1726626943,
+        "company_url": "",
+        "is_visible": true
     }
 ]
