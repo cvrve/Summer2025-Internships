@@ -17237,5 +17237,22 @@
         "date_posted": 1726636091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726636118,
+        "url": "http://redirect.cvrve.me/15d507b0c01a629a96b9",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Accenture",
+        "title": "Technology Summer Analyst",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e707d8ff-9e8e-462a-94e7-93444c1267a7",
+        "date_posted": 1726636118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
