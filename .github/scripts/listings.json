@@ -17696,5 +17696,23 @@
         "date_posted": 1726641180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726641445,
+        "url": "http://redirect.cvrve.me/c88a795e2bf75421b05c",
+        "locations": [
+            "San Francisco, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Machine Learning Intern/Co-op - Winter",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "676330db-4fe4-42dc-af40-7f56d6c7ce05",
+        "date_posted": 1726641445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
