@@ -17390,5 +17390,22 @@
         "date_posted": 1726637540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637838,
+        "url": "http://redirect.cvrve.me/2f33d04007392bcae480",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9552f525-6d86-4044-8c07-275a900d8be2",
+        "date_posted": 1726637838,
+        "company_url": "",
+        "is_visible": true
     }
 ]
