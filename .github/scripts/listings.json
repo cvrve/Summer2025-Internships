@@ -17714,5 +17714,22 @@
         "date_posted": 1726641445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726641667,
+        "url": "http://redirect.cvrve.me/db400c6bf5cb4546436b",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pella Corporation",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aff376d5-3e5e-4898-b937-cfb31341ca08",
+        "date_posted": 1726641667,
+        "company_url": "",
+        "is_visible": true
     }
 ]
