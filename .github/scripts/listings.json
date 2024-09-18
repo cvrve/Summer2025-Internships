@@ -17441,5 +17441,22 @@
         "date_posted": 1726637958,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726638200,
+        "url": "http://redirect.cvrve.me/b5b2bc83457f3f073f6e",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f5baf7e-01cc-4a24-ac2e-3122ea82257a",
+        "date_posted": 1726638200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
