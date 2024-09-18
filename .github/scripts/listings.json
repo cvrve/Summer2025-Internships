@@ -17492,5 +17492,22 @@
         "date_posted": 1726638477,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726638624,
+        "url": "http://redirect.cvrve.me/05ff9d7cc134a592f753",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ee87d86f-07cd-40de-87ab-0fe7542ba34d",
+        "date_posted": 1726638624,
+        "company_url": "",
+        "is_visible": true
     }
 ]
