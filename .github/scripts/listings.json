@@ -17066,5 +17066,22 @@
         "date_posted": 1726626943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726626967,
+        "url": "http://redirect.cvrve.me/b1c4d6bb6168653cde58",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d946d061-f1e1-4e1b-a457-1f5241bfc660",
+        "date_posted": 1726626967,
+        "company_url": "",
+        "is_visible": true
     }
 ]
