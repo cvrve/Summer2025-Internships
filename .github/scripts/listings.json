@@ -17152,5 +17152,22 @@
         "date_posted": 1726627760,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726627912,
+        "url": "http://redirect.cvrve.me/a353538eb8f57adabbab",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "648ee533-861f-418b-a440-c8c508473d2c",
+        "date_posted": 1726627912,
+        "company_url": "",
+        "is_visible": true
     }
 ]
