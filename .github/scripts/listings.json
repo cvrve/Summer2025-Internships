@@ -17305,5 +17305,22 @@
         "date_posted": 1726637191,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637213,
+        "url": "http://redirect.cvrve.me/ee05637c4259fd19fed6",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarity Partners",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b9c73fb-e75c-44bc-8f5f-b0a46af501b4",
+        "date_posted": 1726637213,
+        "company_url": "",
+        "is_visible": true
     }
 ]
