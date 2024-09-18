@@ -17768,5 +17768,22 @@
         "date_posted": 1726655681,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655714,
+        "url": "http://redirect.cvrve.me/885a4c1c37a640fd04de",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Project Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59dfb046-0971-405e-b3ee-bc7945ba60e5",
+        "date_posted": 1726655714,
+        "company_url": "",
+        "is_visible": true
     }
 ]

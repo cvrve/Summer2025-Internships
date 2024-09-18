@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | IBM | Network Services Automation Engineer & Technician Intern | <details><summary>**4 locations**</summary>Yorktown Heights, NY</br>San Jose, CA</br>Cambridge, MA</br>Albany, NY</details> | <a href="http://redirect.cvrve.me/d09f92b314435f61c91e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| Garmin | Project Manager Intern | Olathe, KS | <a href="http://redirect.cvrve.me/885a4c1c37a640fd04de"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | ABB | Test Automation Engineer Intern | Bartlesville, OK | <a href="http://redirect.cvrve.me/205a86678c527d12d32d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Zebra | Firmware Engineering Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343621822837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Tiktok | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b383b993d6f3e6ed82bf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
