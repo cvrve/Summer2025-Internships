@@ -17424,5 +17424,22 @@
         "date_posted": 1726637919,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637958,
+        "url": "http://redirect.cvrve.me/d2839523e989f60a63a3",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Echo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "56db6570-df92-4811-96ff-ae45b6a21755",
+        "date_posted": 1726637958,
+        "company_url": "",
+        "is_visible": true
     }
 ]
