@@ -17407,5 +17407,22 @@
         "date_posted": 1726637838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637919,
+        "url": "http://redirect.cvrve.me/4f8216be863195c21470",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer in DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "646189fd-5f0b-425e-a175-4fd90e14cd4b",
+        "date_posted": 1726637919,
+        "company_url": "",
+        "is_visible": true
     }
 ]
