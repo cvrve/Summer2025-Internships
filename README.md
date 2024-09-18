@@ -82,6 +82,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Stevens Capital Management | Developer Intern | Radnor, PA | <a href="https://boards.greenhouse.io/scm/jobs/721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | SRC | Firmware Engineer Intern | Herndon, VA | <a href="http://redirect.cvrve.me/a89e0814430785c5a4cb"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | SPS | Technology Intern | Minneapolis, MN | <a href="https://careers-spscommerce.icims.com/jobs/8937/technology-internship/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Spectrum | Network Engineer Intern | Englewood, CO | <a href="http://redirect.cvrve.me/a11453b238d0673e2462"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Service Now | Digital Technology Intern | Santa Clara, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000014302725"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | S&P Global | Software Engineer Intern | Princeton, NJ | <a href="https://careers.spglobal.com/jobs/307760"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Pinterest | Mobile Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/c9f4eab077818b6ce319"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
