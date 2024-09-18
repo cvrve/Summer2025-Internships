@@ -17628,5 +17628,22 @@
         "date_posted": 1726639467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726640922,
+        "url": "http://redirect.cvrve.me/32d21e1b4d42f8272fa2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Tax Digital Consulting Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f4ebe99a-60c0-4e12-9b95-07797a543f4d",
+        "date_posted": 1726640922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
