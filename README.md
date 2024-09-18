@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Sierra Space | Ground Software Engineering Intern | Louisville, CO</br>Centennial, CO | <a href="http://redirect.cvrve.me/900b609abdbcf17863db"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Micron | GEL Software Intern | Boise, ID | <a href="http://redirect.cvrve.me/6a3508477130b5254808"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | ↳ | Technical Product Manager Intern | Boise, ID | <a href="http://redirect.cvrve.me/880fc7e32ed7c3218bb6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Lockheed Martin | Software Engineer Intern | Littleton, CO | <a href="http://redirect.cvrve.me/c211e077714a0896d509"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
