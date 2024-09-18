@@ -121,6 +121,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | EA | Software Engineer Intern | Orlando, FL | <a href="https://ea.gr8people.com/jobs/185913/software-engineer-intern-summer-2025"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Dow Jones | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/2f33d04007392bcae480"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Software Development Intern | Remote | <a href="http://redirect.cvrve.me/08361743f12d4d2de866"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Delta Dental | Application Development Intern | Okemos, MI | <a href="http://redirect.cvrve.me/3700356ded3ee809b527"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Dayton Freight | Software Developer Intern | Dayton, OH | <a href="https://careers-daytonfreight.icims.com/jobs/14298/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Cvent | Software Engineer Intern | Tysons Corner, VA | <a href="http://redirect.cvrve.me/a8e4f59abda0de2bfb1f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Clarity Partners | Software Development Intern | Chicago, IL | <a href="http://redirect.cvrve.me/ee05637c4259fd19fed6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
