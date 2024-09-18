@@ -17288,5 +17288,22 @@
         "date_posted": 1726637049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637191,
+        "url": "http://redirect.cvrve.me/a38cfa085ddd3ef8b4fd",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ideas",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b3b91960-cae8-4014-a23c-01f5ea918ee9",
+        "date_posted": 1726637191,
+        "company_url": "",
+        "is_visible": true
     }
 ]
