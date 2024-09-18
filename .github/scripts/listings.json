@@ -17322,5 +17322,22 @@
         "date_posted": 1726637213,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637309,
+        "url": "http://redirect.cvrve.me/08361743f12d4d2de866",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f5edb5a3-bc94-4d70-9804-e0ead259f7c7",
+        "date_posted": 1726637309,
+        "company_url": "",
+        "is_visible": true
     }
 ]
