@@ -17271,5 +17271,22 @@
         "date_posted": 1726636136,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637049,
+        "url": "http://redirect.cvrve.me/fb6d060f3e62c5956353",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Development Engineer in Test Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "842c4b0f-01a9-4ee9-ab3d-9ea6f81fedaf",
+        "date_posted": 1726637049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
