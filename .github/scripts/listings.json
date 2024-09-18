@@ -17785,5 +17785,22 @@
         "date_posted": 1726655714,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655763,
+        "url": "http://redirect.cvrve.me/880fc7e32ed7c3218bb6",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Technical Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b710d9e0-ac7c-4f11-94ae-bed9a651e5a2",
+        "date_posted": 1726655763,
+        "company_url": "",
+        "is_visible": true
     }
 ]
