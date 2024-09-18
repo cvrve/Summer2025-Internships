@@ -17645,5 +17645,22 @@
         "date_posted": 1726640922,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726641002,
+        "url": "http://redirect.cvrve.me/a11453b238d0673e2462",
+        "locations": [
+            "Englewood, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Network Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8d1efc69-6ba3-443a-a3b3-a42489be145d",
+        "date_posted": 1726641002,
+        "company_url": "",
+        "is_visible": true
     }
 ]
