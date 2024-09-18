@@ -17339,5 +17339,22 @@
         "date_posted": 1726637309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637466,
+        "url": "http://redirect.cvrve.me/a8e4f59abda0de2bfb1f",
+        "locations": [
+            "Tysons Corner, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cvent",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e4b60172-4f4e-46fb-b860-e180c4cbe94f",
+        "date_posted": 1726637466,
+        "company_url": "",
+        "is_visible": true
     }
 ]
