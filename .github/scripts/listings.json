@@ -17819,5 +17819,25 @@
         "date_posted": 1726655786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655853,
+        "url": "http://redirect.cvrve.me/3dbb2434eda8b7203c51",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5c25ed01-f85b-4726-a469-3cfa29182b93",
+        "date_posted": 1726655853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
