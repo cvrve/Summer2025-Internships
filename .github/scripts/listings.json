@@ -17731,5 +17731,25 @@
         "date_posted": 1726641667,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655649,
+        "url": "http://redirect.cvrve.me/d09f92b314435f61c91e",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Network Services Automation Engineer & Technician Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "540b1607-127e-47fc-a70f-3a5f8e480591",
+        "date_posted": 1726655649,
+        "company_url": "",
+        "is_visible": true
     }
 ]
