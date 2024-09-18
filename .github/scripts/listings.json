@@ -17254,5 +17254,22 @@
         "date_posted": 1726636118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726636136,
+        "url": "http://redirect.cvrve.me/9bac71c993807795c2fd",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Accenture",
+        "title": "Consulting Summer Analyst",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bc56d4cb-9b63-4e2f-b933-66a416d6a58f",
+        "date_posted": 1726636136,
+        "company_url": "",
+        "is_visible": true
     }
 ]
