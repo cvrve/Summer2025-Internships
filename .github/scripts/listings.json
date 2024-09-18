@@ -17751,5 +17751,22 @@
         "date_posted": 1726655649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655681,
+        "url": "http://redirect.cvrve.me/205a86678c527d12d32d",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Test Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7ac6693b-c7f9-4db6-ae3a-ddf5834c116b",
+        "date_posted": 1726655681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
