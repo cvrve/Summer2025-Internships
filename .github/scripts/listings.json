@@ -17373,5 +17373,22 @@
         "date_posted": 1726637490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726637540,
+        "url": "http://redirect.cvrve.me/b383b993d6f3e6ed82bf",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75843c10-12cb-43e0-a5a8-76b2a6a87358",
+        "date_posted": 1726637540,
+        "company_url": "",
+        "is_visible": true
     }
 ]

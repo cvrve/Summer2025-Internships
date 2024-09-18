@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | Firmware Engineering Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343621822837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Tiktok | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b383b993d6f3e6ed82bf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Stevens Capital Management | Developer Intern | Radnor, PA | <a href="https://boards.greenhouse.io/scm/jobs/721888"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | SRC | Firmware Engineer Intern | Herndon, VA | <a href="http://redirect.cvrve.me/a89e0814430785c5a4cb"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | SPS | Technology Intern | Minneapolis, MN | <a href="https://careers-spscommerce.icims.com/jobs/8937/technology-internship/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
