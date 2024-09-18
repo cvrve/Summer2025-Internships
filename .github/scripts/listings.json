@@ -17839,5 +17839,25 @@
         "date_posted": 1726655853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726655871,
+        "url": "http://redirect.cvrve.me/932f476a6ebad5e3b43b",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e96f1354-bb3e-4dbe-9c98-6406e9073fc3",
+        "date_posted": 1726655871,
+        "company_url": "",
+        "is_visible": true
     }
 ]
