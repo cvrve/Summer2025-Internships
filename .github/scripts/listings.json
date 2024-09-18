@@ -17859,5 +17859,22 @@
         "date_posted": 1726655871,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726690387,
+        "url": "http://redirect.cvrve.me/6a3508477130b5254808",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "GEL Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "87a363a8-4fad-47eb-ad40-44a836b33548",
+        "date_posted": 1726690387,
+        "company_url": "",
+        "is_visible": true
     }
 ]
