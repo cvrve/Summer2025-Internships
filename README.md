@@ -82,7 +82,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | SPS | Technology Intern | Minneapolis, MN | <a href="https://careers-spscommerce.icims.com/jobs/8937/technology-internship/job"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Service Now | Digital Technology Intern | Santa Clara, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000014302725"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | S&P Global | Software Engineer Intern | Princeton, NJ | <a href="https://careers.spglobal.com/jobs/307760"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| Pinterest | Mobile Engineer Intern | Remote | <a href="http://redirect.cvrve.me/b62adc3a0cd4262099f7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| Pinterest | Mobile Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/c9f4eab077818b6ce319"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
+| ↳ | Mobile Engineer Intern | Remote | <a href="http://redirect.cvrve.me/b62adc3a0cd4262099f7"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Software Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/b1c4d6bb6168653cde58"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Software Engineering Intern | San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA | <a href="http://redirect.cvrve.me/1064dcf5ac7eb421c350"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | PEGA | Software Engineer Intern | Waltham, MA | <a href="https://www.pega.com/about/careers/21002/software-engineer-summer-intern-shared-user-services"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
