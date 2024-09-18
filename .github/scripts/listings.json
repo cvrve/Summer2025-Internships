@@ -17577,5 +17577,22 @@
         "date_posted": 1726639282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726639358,
+        "url": "http://redirect.cvrve.me/b97e1a4c058085227869",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a670d3ca-8853-4e8b-9ec5-25f36fda3f5c",
+        "date_posted": 1726639358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
