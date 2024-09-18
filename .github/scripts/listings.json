@@ -17458,5 +17458,22 @@
         "date_posted": 1726638200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726638454,
+        "url": "http://redirect.cvrve.me/3700356ded3ee809b527",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Dental",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2429d487-ff96-4009-b09a-a28355a4029a",
+        "date_posted": 1726638454,
+        "company_url": "",
+        "is_visible": true
     }
 ]
