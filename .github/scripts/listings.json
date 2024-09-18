@@ -17526,5 +17526,22 @@
         "date_posted": 1726638733,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726638890,
+        "url": "http://redirect.cvrve.me/0d4fca22c84dc34b1fa1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlueYonder",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "070dcbe8-e239-4990-95ed-2a88d63b9b3d",
+        "date_posted": 1726638890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
