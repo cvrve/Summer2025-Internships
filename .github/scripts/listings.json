@@ -17662,5 +17662,22 @@
         "date_posted": 1726641002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726641108,
+        "url": "http://redirect.cvrve.me/4eb37eadb3cc9372de3b",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlueYonder",
+        "title": "GenAI Prompt Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4f8549ac-28d3-4c46-9b3b-7ac843f5cfde",
+        "date_posted": 1726641108,
+        "company_url": "",
+        "is_visible": true
     }
 ]
