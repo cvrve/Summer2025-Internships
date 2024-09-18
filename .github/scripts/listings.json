@@ -17560,5 +17560,22 @@
         "date_posted": 1726638971,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726639282,
+        "url": "http://redirect.cvrve.me/47ab3d3cdbc832e52b94",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Early Warning",
+        "title": "DevOps/Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "5aef991c-1302-428a-8a80-f2f48c2c9f81",
+        "date_posted": 1726639282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
