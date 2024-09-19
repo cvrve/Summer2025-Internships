@@ -18212,5 +18212,22 @@
         "date_posted": 1726741969,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726742080,
+        "url": "http://redirect.cvrve.me/6394a0d7cf70eac7d137",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "IT Cloud Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab88ce00-b058-4dcb-b1b5-3cce52f1bf3d",
+        "date_posted": 1726742080,
+        "company_url": "",
+        "is_visible": true
     }
 ]
