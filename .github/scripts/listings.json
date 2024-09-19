@@ -18348,5 +18348,22 @@
         "date_posted": 1726743263,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726744669,
+        "url": "http://redirect.cvrve.me/db143cb09ae2f0477d4d",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fairlife",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b2d17f44-d909-4664-af13-3d8c02633725",
+        "date_posted": 1726744669,
+        "company_url": "",
+        "is_visible": true
     }
 ]

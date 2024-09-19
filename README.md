@@ -83,6 +83,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Pacific Life | Data Engineering Intern | Newport Beach, CA | <a href="http://redirect.cvrve.me/bd7bc2fee1ee860c2b3f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | KLA | Research Scientist Intern | locations Milpitas, CA | <a href="http://redirect.cvrve.me/5f190f02978a63464ff6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Four Hands | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/6a9b1ea36e1f72a688d2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Fairlife | Data Engineering Intern | United States | <a href="http://redirect.cvrve.me/db143cb09ae2f0477d4d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Burns & McDonnell | Software Developer Intern | Kansas City, MO | <a href="http://redirect.cvrve.me/5d0f2d7ac2c1c5ee53a3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ASML | Software Development Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/4251ea4c7bef840c573a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/d961caad8f8920b4e267"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
