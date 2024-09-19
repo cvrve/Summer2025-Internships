@@ -18110,5 +18110,22 @@
         "date_posted": 1726723751,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726723830,
+        "url": "http://redirect.cvrve.me/0910f7a3f59f51a30b75",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Data Science Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "06c4b549-6fb1-4b9e-9021-b00b83db7904",
+        "date_posted": 1726723830,
+        "company_url": "",
+        "is_visible": true
     }
 ]
