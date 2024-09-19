@@ -18314,5 +18314,22 @@
         "date_posted": 1726742221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726742928,
+        "url": "http://redirect.cvrve.me/bd7bc2fee1ee860c2b3f",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pacific Life",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7af90a55-981f-4007-8608-4a15d39d53a0",
+        "date_posted": 1726742928,
+        "company_url": "",
+        "is_visible": true
     }
 ]
