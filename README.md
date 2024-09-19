@@ -94,6 +94,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Confluent | Software Engineering Intern | Ontario, Canada</br>Remote | <a href="http://redirect.cvrve.me/c591ea4b4b78370eec5e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Awardco | Front-End Software Engineer Intern | Lindon, UT | <a href="http://redirect.cvrve.me/93da3db6ea923036e858"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | ↳ | Back-End Software Engineer Intern | Lindon, UT | <a href="http://redirect.cvrve.me/7d4c8ac929d3286348ad"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| ASML | Data Visualization & Analytics Engineer Intern | Wilton, CT | <a href="http://redirect.cvrve.me/544a1d4e4da1cc977105"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | ABB | Test Automation Engineer Intern | Bartlesville, OK | <a href="http://redirect.cvrve.me/205a86678c527d12d32d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Zebra | Firmware Engineering Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343621822837"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Tiktok | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b383b993d6f3e6ed82bf"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
