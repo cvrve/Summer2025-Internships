@@ -18280,5 +18280,22 @@
         "date_posted": 1726742186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726742202,
+        "url": "http://redirect.cvrve.me/9207f7b43b13a2a70b06",
+        "locations": [
+            "Pomona, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southern California Edison",
+        "title": "Data Analytics and Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a99cf6c4-e1d2-47bd-b33e-27208fdefdeb",
+        "date_posted": 1726742202,
+        "company_url": "",
+        "is_visible": true
     }
 ]

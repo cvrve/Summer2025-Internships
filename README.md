@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Southern California Edison | Data Analytics and Data Science Intern | Pomona, CA | <a href="http://redirect.cvrve.me/9207f7b43b13a2a70b06"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Q2 | Engineering/Data Science Intern | Austin, TX | <a href="http://redirect.cvrve.me/d62bb3876df451a88c94"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | KLA | Research Scientist Intern | locations Milpitas, CA | <a href="http://redirect.cvrve.me/5f190f02978a63464ff6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Burns & McDonnell | Software Developer Intern | Kansas City, MO | <a href="http://redirect.cvrve.me/5d0f2d7ac2c1c5ee53a3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
