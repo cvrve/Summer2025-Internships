@@ -18436,5 +18436,22 @@
         "date_posted": 1726788537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726788600,
+        "url": "http://redirect.cvrve.me/68cac9d95a6e284a5735",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wayfair",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "52c25786-eb3a-4dbc-bbf5-6438d79432a8",
+        "date_posted": 1726788600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
