@@ -18365,5 +18365,22 @@
         "date_posted": 1726744669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726746121,
+        "url": "http://redirect.cvrve.me/09a1819cf8d9342c909b",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CCC",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cb2c8f10-829d-4780-a15d-e7cff77484da",
+        "date_posted": 1726746121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
