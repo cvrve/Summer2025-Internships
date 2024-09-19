@@ -17984,5 +17984,29 @@
         "date_posted": 1726720596,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726722061,
+        "url": "http://redirect.cvrve.me/14474e0a114a7ce2336f",
+        "locations": [
+            "Salt Lake City, UT, USA",
+            "Boston, MA, USA",
+            "Westlake, TX, USA",
+            "Durham, NC, USA",
+            "Smithfield, RI, USA",
+            "Merrimack, NH, USA",
+            "New York, NY, USA",
+            "Cincinnati, OH, USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Quantitative Development & Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "496658de-97ee-4e18-8190-bee230a9f2bd",
+        "date_posted": 1726722061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
