@@ -18127,5 +18127,22 @@
         "date_posted": 1726723830,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726723922,
+        "url": "http://redirect.cvrve.me/cf2b2c2dfb518484c59b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0b22cec1-9bba-4fa9-a865-8c43a23ae58d",
+        "date_posted": 1726723922,
+        "company_url": "",
+        "is_visible": true
     }
 ]
