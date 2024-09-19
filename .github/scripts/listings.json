@@ -18042,5 +18042,22 @@
         "date_posted": 1726722965,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726723341,
+        "url": "http://redirect.cvrve.me/693740fd92ff130d15d5",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enova",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "658d3d4e-e286-4f43-a0f6-4af7ab6452d5",
+        "date_posted": 1726723341,
+        "company_url": "",
+        "is_visible": true
     }
 ]
