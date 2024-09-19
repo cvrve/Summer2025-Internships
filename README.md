@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Southern California Edison | Data Analytics and Data Science Intern | Pomona, CA | <a href="http://redirect.cvrve.me/9207f7b43b13a2a70b06"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Q2 | Engineering/Data Science Intern | Austin, TX | <a href="http://redirect.cvrve.me/d62bb3876df451a88c94"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Perpay | Data Engineering Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/a46258a395fb17b0ae41"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Pacific Life | Data Engineering Intern | Newport Beach, CA | <a href="http://redirect.cvrve.me/bd7bc2fee1ee860c2b3f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | KLA | Research Scientist Intern | locations Milpitas, CA | <a href="http://redirect.cvrve.me/5f190f02978a63464ff6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Four Hands | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/6a9b1ea36e1f72a688d2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
