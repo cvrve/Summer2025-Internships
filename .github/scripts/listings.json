@@ -18195,5 +18195,22 @@
         "date_posted": 1726741934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726741969,
+        "url": "http://redirect.cvrve.me/5f190f02978a63464ff6",
+        "locations": [
+            "locations Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Research Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c8a3bdfa-e913-45b9-882b-5d43a055f72c",
+        "date_posted": 1726741969,
+        "company_url": "",
+        "is_visible": true
     }
 ]
