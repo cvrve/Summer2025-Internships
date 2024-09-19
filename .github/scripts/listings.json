@@ -18093,5 +18093,22 @@
         "date_posted": 1726723634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726723751,
+        "url": "http://redirect.cvrve.me/d1099f5998a11edd728a",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "78d27628-0be5-4935-b994-64732caeae0f",
+        "date_posted": 1726723751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
