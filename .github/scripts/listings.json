@@ -18382,5 +18382,25 @@
         "date_posted": 1726746121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726773772,
+        "url": "http://redirect.cvrve.me/be321f78737c67a8a096",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "BinhL3",
+        "id": "2b0cd21e-aee7-4ec3-b46a-d87f634a70d8",
+        "date_posted": 1726773772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
