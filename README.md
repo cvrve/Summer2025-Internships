@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Burns & McDonnell | Software Developer Intern | Kansas City, MO | <a href="http://redirect.cvrve.me/5d0f2d7ac2c1c5ee53a3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Sierra Space | Ground Software Engineering Intern | Louisville, CO</br>Centennial, CO | <a href="http://redirect.cvrve.me/900b609abdbcf17863db"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Sentry Insurance | Software Engineer Intern | Stevens Point, WI | <a href="http://redirect.cvrve.me/bac1930b984361fd1c8a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Schonfeld | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/94a7aa9edb312c19cc3e"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
