@@ -18229,5 +18229,22 @@
         "date_posted": 1726742080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726742098,
+        "url": "http://redirect.cvrve.me/b4fca85e05b918989f39",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Source Mask Optimization Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f6c5f564-dd2f-41e5-94ee-73b623583b9b",
+        "date_posted": 1726742098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
