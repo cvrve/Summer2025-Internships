@@ -77,7 +77,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Visa | Data Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/34e18fb950d538a7e679"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Visa | Data Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/4eb873c67f78dfdf95fa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| ↳ | Data Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/34e18fb950d538a7e679"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Southern California Edison | Data Analytics and Data Science Intern | Pomona, CA | <a href="http://redirect.cvrve.me/9207f7b43b13a2a70b06"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Q2 | Engineering/Data Science Intern | Austin, TX | <a href="http://redirect.cvrve.me/d62bb3876df451a88c94"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Perpay | Data Engineering Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/a46258a395fb17b0ae41"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
