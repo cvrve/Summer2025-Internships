@@ -18521,5 +18521,22 @@
         "date_posted": 1726809938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726810199,
+        "url": "http://redirect.cvrve.me/c5683380da6178274dc5",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "693bcaf8-e1dc-43e2-b609-4b8be9e726b0",
+        "date_posted": 1726810199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
