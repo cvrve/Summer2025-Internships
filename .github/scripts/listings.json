@@ -18674,5 +18674,22 @@
         "date_posted": 1726812013,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726812127,
+        "url": "http://redirect.cvrve.me/dd1cb41eea977232a79d",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Beckman Coulter Diagnostics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f9114932-69b4-456a-aa2f-b0364566180f",
+        "date_posted": 1726812127,
+        "company_url": "",
+        "is_visible": true
     }
 ]
