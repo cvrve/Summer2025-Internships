@@ -18776,5 +18776,22 @@
         "date_posted": 1726823967,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726824004,
+        "url": "http://redirect.cvrve.me/37d26ea8f7cb01b5255a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Software Systems Hardware Integration Engineer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "d4403ab8-885b-49fa-9dca-c1a8bfe1e8d8",
+        "date_posted": 1726824004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
