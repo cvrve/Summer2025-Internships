@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zions Bank | Frontend Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7bb3dbbede9886532ab3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Wayfair | Data Scientist Intern | Boston, MA | <a href="http://redirect.cvrve.me/d5cfaac70aa2442747b4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Machine Learning Intern | Boston, MA | <a href="http://redirect.cvrve.me/0e4e84ac522e0a2683ba"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Data Scientist Intern | Boston, MA | <a href="http://redirect.cvrve.me/68cac9d95a6e284a5735"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
