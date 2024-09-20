@@ -92,7 +92,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Perpay | Data Engineering Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/a46258a395fb17b0ae41"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Pacific Life | Data Engineering Intern | Newport Beach, CA | <a href="http://redirect.cvrve.me/bd7bc2fee1ee860c2b3f"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | nCino | Software Engineer Intern | Lehi, UT | <a href="http://redirect.cvrve.me/3473a3e1602da2e5c282"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| Microsoft | Product Manager Intern 🇺🇸 | Reston, VA | <a href="http://redirect.cvrve.me/ab9ba3e317771e1ba4c8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Microsoft | Software Hardware Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/43b844c631584ff36746"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| ↳ | Product Manager Intern 🇺🇸 | Reston, VA | <a href="http://redirect.cvrve.me/ab9ba3e317771e1ba4c8"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Cloud Solution Architect Intern | Chicago, IL | <a href="http://redirect.cvrve.me/24670d28c899b7f7e3ba"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Microchip Technology | Engineering Intern | Houston, TX | <a href="http://redirect.cvrve.me/c5683380da6178274dc5"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Marvell | Product Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/6b1f7796125592ad34fa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
