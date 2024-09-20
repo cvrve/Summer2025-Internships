@@ -18708,5 +18708,22 @@
         "date_posted": 1726812251,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726812711,
+        "url": "http://redirect.cvrve.me/24670d28c899b7f7e3ba",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Solution Architect Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c6149a18-e0ab-4a43-82d7-78d3f2e51107",
+        "date_posted": 1726812711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
