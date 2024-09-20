@@ -103,6 +103,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Electronic Arts | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/6b1d2263be93c874bc91"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | CCC | Data Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/09a1819cf8d9342c909b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Burns & McDonnell | Software Developer Intern | Kansas City, MO | <a href="http://redirect.cvrve.me/5d0f2d7ac2c1c5ee53a3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Beckman Coulter Diagnostics | Software Engineer Intern | Chaska, MN | <a href="http://redirect.cvrve.me/dd1cb41eea977232a79d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ASML | Software Development Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/4251ea4c7bef840c573a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/d961caad8f8920b4e267"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Source Mask Optimization Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b4fca85e05b918989f39"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
