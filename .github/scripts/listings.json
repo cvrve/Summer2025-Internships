@@ -18487,5 +18487,22 @@
         "date_posted": 1726789350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726804526,
+        "url": "http://redirect.cvrve.me/6b1d2263be93c874bc91",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "67886e93-c532-403e-b49e-026b7538ff5a",
+        "date_posted": 1726804526,
+        "company_url": "",
+        "is_visible": true
     }
 ]
