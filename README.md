@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Scientist Intern | Boston, MA | <a href="http://redirect.cvrve.me/68cac9d95a6e284a5735"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Visa | Data Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/4eb873c67f78dfdf95fa"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Data Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/34e18fb950d538a7e679"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Stanley Black & Decker | Embedded Software Engineering Intern | Towson, MD | <a href="http://redirect.cvrve.me/66752f32df3f9a4bbba6"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Southern California Edison | Data Analytics and Data Science Intern | Pomona, CA | <a href="http://redirect.cvrve.me/9207f7b43b13a2a70b06"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Ricoh | Software Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/d505c7433707588182f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Qorvo | Software Engineering Intern | Richardson, TX | <a href="http://redirect.cvrve.me/a57c59d2773dcab605fb"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
