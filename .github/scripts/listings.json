@@ -18589,5 +18589,22 @@
         "date_posted": 1726810354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726810559,
+        "url": "http://redirect.cvrve.me/05a68f44e9ce46c6a1fe",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EMC Insurance",
+        "title": "Release Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "09f6f392-1120-4a3b-8f0c-436f02d913be",
+        "date_posted": 1726810559,
+        "company_url": "",
+        "is_visible": true
     }
 ]

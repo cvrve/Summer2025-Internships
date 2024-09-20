@@ -95,6 +95,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Gannett Fleming | Application Development Intern | Richmond, VA | <a href="http://redirect.cvrve.me/528dff26be646331aaa4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Four Hands | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/6a9b1ea36e1f72a688d2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Fairlife | Data Engineering Intern | United States | <a href="http://redirect.cvrve.me/db143cb09ae2f0477d4d"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| EMC Insurance | Release Engineering Intern | Remote | <a href="http://redirect.cvrve.me/05a68f44e9ce46c6a1fe"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Electronic Arts | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/6b1d2263be93c874bc91"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | CCC | Data Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/09a1819cf8d9342c909b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Burns & McDonnell | Software Developer Intern | Kansas City, MO | <a href="http://redirect.cvrve.me/5d0f2d7ac2c1c5ee53a3"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
