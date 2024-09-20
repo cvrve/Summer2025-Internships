@@ -71,7 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Astranis | Software Systems Hardware Integration Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/37d26ea8f7cb01b5255a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| Astranis | Software Developer Intern - Winter | San Francisco, CA | <a href="http://redirect.cvrve.me/"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| ↳ | Software Systems Hardware Integration Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/37d26ea8f7cb01b5255a"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Software Systems Hardware Integration Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/b526aa5ee49ce3ea337b"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Tesla | Fullstack Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/1fa59e523086e89111e9"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Early Warning | DevOps/Software Engineer Intern | Scottsdale, AZ | <a href="http://redirect.cvrve.me/47ab3d3cdbc832e52b94"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
