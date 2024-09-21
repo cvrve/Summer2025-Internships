@@ -18997,5 +18997,22 @@
         "date_posted": 1726908378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726908492,
+        "url": "https://redirect.cvrve.me/067bdb6e20a835f886e9",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge Investment Management",
+        "title": "Research Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dca8b174-37a4-41e9-9e44-2617fcce62ca",
+        "date_posted": 1726908492,
+        "company_url": "",
+        "is_visible": true
     }
 ]
