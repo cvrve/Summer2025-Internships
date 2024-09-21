@@ -18878,5 +18878,22 @@
         "date_posted": 1726905927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726905981,
+        "url": "https://redirect.cvrve.me/65933ee58df9afe57868",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Integration Engineer Chassis Systems Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "389857e9-7931-42b8-a4e7-3c0b229b1e4c",
+        "date_posted": 1726905981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
