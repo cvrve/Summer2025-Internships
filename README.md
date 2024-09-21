@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Exelon | Cyber Security Intern | Multiple Locations | <a href="https://redirect.cvrve.me/645cbb5198ed580f13c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| Atlassian | Software Engineer Intern | Mountain View, CA | <a href="https://redirect.cvrve.me/17fb1c531ee98b3d28b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Zions Bank | Frontend Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7bb3dbbede9886532ab3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Zions Bancorporation | Software Engineer Intern 🛂 | Midvale, UT | <a href="http://redirect.cvrve.me/febea268b899beb7cf7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Wayfair | Data Scientist Intern | Boston, MA | <a href="http://redirect.cvrve.me/d5cfaac70aa2442747b4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
