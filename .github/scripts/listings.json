@@ -18895,5 +18895,22 @@
         "date_posted": 1726905981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726906046,
+        "url": "https://redirect.cvrve.me/fdcfc8001146cbb8fc55",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Cybersecurity Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6de8a9fc-9735-4e53-9d45-cca8f9fbf751",
+        "date_posted": 1726906046,
+        "company_url": "",
+        "is_visible": true
     }
 ]
