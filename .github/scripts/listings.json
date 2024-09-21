@@ -18827,5 +18827,22 @@
         "date_posted": 1726888522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726889097,
+        "url": "https://redirect.cvrve.me/17fb1c531ee98b3d28b2",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "897fadd7-5b24-4f54-81d6-78a3ce097bf9",
+        "date_posted": 1726889097,
+        "company_url": "",
+        "is_visible": true
     }
 ]
