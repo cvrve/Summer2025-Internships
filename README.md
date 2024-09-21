@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Viasat | Cybersecurity Software Engineer Intern 🇺🇸 | Germantown, MD | <a href="https://redirect.cvrve.me/fdcfc8001146cbb8fc55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Altruist | Software Engineering Intern | Los Angeles, CA | <a href="https://redirect.cvrve.me/2ab69809fb2a5f5cdb06?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Exelon | Cyber Security Intern | Multiple Locations | <a href="https://redirect.cvrve.me/645cbb5198ed580f13c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Atlassian | Software Engineer Intern | Mountain View, CA | <a href="https://redirect.cvrve.me/17fb1c531ee98b3d28b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
