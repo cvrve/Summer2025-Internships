@@ -19136,5 +19136,22 @@
         "date_posted": 1726911527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726911583,
+        "url": "https://redirect.cvrve.me/65b75a61093961a9f106",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge Investment Management",
+        "title": "Trading Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b933be74-4227-46fe-9c61-5c61db4b0b23",
+        "date_posted": 1726911583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
