@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viasat | Cybersecurity Software Engineer Intern 🇺🇸 | Germantown, MD | <a href="https://redirect.cvrve.me/fdcfc8001146cbb8fc55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| Thrivent | Software Developer Intern | Remote | <a href="https://redirect.cvrve.me/16ae9481c4793abccc99?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Nsight Telservices | Network DevOps Intern | Green Bay, WI | <a href="https://redirect.cvrve.me/f9f50caf03445037a298?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Northrop Grumman | Embedded Software Engineer Intern 🇺🇸 | Charlottesville, VA | <a href="https://redirect.cvrve.me/a2c176fa1a1f795b890c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Holland America Line | Software Engineering Intern | Seattle, WA | <a href="https://redirect.cvrve.me/47f4d4f9732a1d9bc298?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
