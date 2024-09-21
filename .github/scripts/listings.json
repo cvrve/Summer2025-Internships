@@ -18963,5 +18963,22 @@
         "date_posted": 1726906328,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726906508,
+        "url": "https://redirect.cvrve.me/a2c176fa1a1f795b890c",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c0d49f35-4f06-42c3-b325-28a5235228bf",
+        "date_posted": 1726906508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
