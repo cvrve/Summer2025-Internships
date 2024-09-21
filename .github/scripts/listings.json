@@ -19051,5 +19051,22 @@
         "date_posted": 1726908840,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726908934,
+        "url": "https://redirect.cvrve.me/5ec3ca9ec565b33f83c2",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Data Science Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "36510568-9d81-4a55-84bc-24db201eca9b",
+        "date_posted": 1726908934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
