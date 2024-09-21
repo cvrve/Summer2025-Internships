@@ -18844,5 +18844,22 @@
         "date_posted": 1726889097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726905828,
+        "url": "https://redirect.cvrve.me/2ab69809fb2a5f5cdb06",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "58b6ba16-8bb9-46fa-8bd0-d0a3df8721fc",
+        "date_posted": 1726905828,
+        "company_url": "",
+        "is_visible": true
     }
 ]
