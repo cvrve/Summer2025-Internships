@@ -19068,5 +19068,22 @@
         "date_posted": 1726908934,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726909011,
+        "url": "https://redirect.cvrve.me/180d2a8b0b84657bd65e",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "AI/Machine Learning Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3bcb8af0-c877-4dfa-adc3-d12b0908587f",
+        "date_posted": 1726909011,
+        "company_url": "",
+        "is_visible": true
     }
 ]
