@@ -18810,5 +18810,22 @@
         "date_posted": 1726824062,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726888522,
+        "url": "https://redirect.cvrve.me/645cbb5198ed580f13c7",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exelon",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3104532d-47da-4cb2-89c1-4e8b3f013d43",
+        "date_posted": 1726888522,
+        "company_url": "",
+        "is_visible": true
     }
 ]
