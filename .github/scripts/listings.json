@@ -18980,5 +18980,22 @@
         "date_posted": 1726906508,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726908378,
+        "url": "https://redirect.cvrve.me/16ae9481c4793abccc99",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thrivent",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a12bd642-57aa-4f01-94e8-26986a1956f4",
+        "date_posted": 1726908378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
