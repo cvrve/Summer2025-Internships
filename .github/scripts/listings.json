@@ -18912,5 +18912,22 @@
         "date_posted": 1726906046,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726906116,
+        "url": "https://redirect.cvrve.me/47f4d4f9732a1d9bc298",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Holland America Line",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "45591c72-ea87-4040-bddf-257037bdd9cb",
+        "date_posted": 1726906116,
+        "company_url": "",
+        "is_visible": true
     }
 ]
