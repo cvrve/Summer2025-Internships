@@ -3297,7 +3297,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Software Engineer Intern - Data Engineering",
         "season": "Summer",
@@ -9432,7 +9432,7 @@
         "locations": [
             "Dallas, TX"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Texas Instruments",
         "title": "Information Technology Intern",
@@ -13902,7 +13902,7 @@
         "locations": [
             "Dallas, TX"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Texas Instruments",
         "title": "Software Engineer Intern",
@@ -14281,7 +14281,7 @@
             "Markham, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IBM",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -16642,7 +16642,7 @@
             "Murfreesboro, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oshkosh",
         "title": "Engineer Intern",
         "season": "Summer",
@@ -17383,7 +17383,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Tiktok",
-        "title": "Software Engineer Intern",
+        "title": "Software Engineer Intern - Masters",
         "season": "Summer",
         "source": "vanshb03",
         "id": "75843c10-12cb-43e0-a5a8-76b2a6a87358",
@@ -17884,7 +17884,7 @@
             "Louisville, CO",
             "Centennial, CO"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Sierra Space",
         "title": "Ground Software Engineering Intern",
