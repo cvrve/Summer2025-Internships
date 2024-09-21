@@ -18946,5 +18946,22 @@
         "date_posted": 1726906208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726906328,
+        "url": "https://redirect.cvrve.me/f9f50caf03445037a298",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nsight Telservices",
+        "title": "Network DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "79ad6079-69cc-4cc8-b007-68709056b914",
+        "date_posted": 1726906328,
+        "company_url": "",
+        "is_visible": true
     }
 ]
