@@ -18861,5 +18861,22 @@
         "date_posted": 1726905828,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726905927,
+        "url": "https://redirect.cvrve.me/1c8ada10ecbf44c37c5e",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Developer Chassis Controls Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "fa1d128c-0583-4847-a894-9bab811e98e3",
+        "date_posted": 1726905927,
+        "company_url": "",
+        "is_visible": true
     }
 ]
