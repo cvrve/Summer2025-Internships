@@ -71,7 +71,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | Embedded Developer Chassis Controls Intern | Palo Alto, CA | <a href="https://redirect.cvrve.me/1c8ada10ecbf44c37c5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| Tesla | Integration Engineer Chassis Systems Intern | Palo Alto, CA | <a href="https://redirect.cvrve.me/65933ee58df9afe57868?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| ↳ | Embedded Developer Chassis Controls Intern | Palo Alto, CA | <a href="https://redirect.cvrve.me/1c8ada10ecbf44c37c5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Astranis | Software Developer Intern - Winter | San Francisco, CA | <a href="http://redirect.cvrve.me/be6e923adaee41c5b01b?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Software Systems Hardware Integration Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/37d26ea8f7cb01b5255a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Software Systems Hardware Integration Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/b526aa5ee49ce3ea337b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
