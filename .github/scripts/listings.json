@@ -19014,5 +19014,25 @@
         "date_posted": 1726908492,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1726908764,
+        "url": "https://redirect.cvrve.me/c2c33841ae8c4321f273",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6df1ef1a-7bef-4962-b210-df8b3e80b77e",
+        "date_posted": 1726908764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
