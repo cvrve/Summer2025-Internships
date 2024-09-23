@@ -19404,5 +19404,22 @@
         "date_posted": 1727124975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727126583,
+        "url": "http://redirect.cvrve.me/9ac4b65a94da1304e0b0",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Holland America Line",
+        "title": "Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e9907bb8-99ee-4ef1-bfd4-db16e8d834f0",
+        "date_posted": 1727126583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
