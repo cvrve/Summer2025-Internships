@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Expedia | Technical Program Management Intern | Seattle, WA</br>Austin, TX</br>Chicago, IL | <a href="http://redirect.cvrve.me/434a68aebae77a026953?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Voloridge Investment Management | Trading Engineer Intern | Jupiter, FL | <a href="https://redirect.cvrve.me/65b75a61093961a9f106?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | ↳ | Software Engineer Intern | Jupiter, FL | <a href="https://redirect.cvrve.me/dbe55e77e009e538acbd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | ↳ | Research Software Engineer Intern | Jupiter, FL | <a href="https://redirect.cvrve.me/067bdb6e20a835f886e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
