@@ -19302,5 +19302,22 @@
         "date_posted": 1727066478,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727106601,
+        "url": "http://redirect.cvrve.me/24788c8f32bb366c8c2e",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenAI",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b2c265b2-0b0a-49bf-a8cf-7b8d86918d46",
+        "date_posted": 1727106601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
