@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thrivent | Data Analyst Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/884dad1bed8109a421e8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | The Home Depot | Software Engineer Intern | Remote | <a href="http://redirect.cvrve.me/362cdd99036535e1e40e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | SAIC | Software Engineer Intern | Omaha, NE | <a href="http://redirect.cvrve.me/76b9589ef88844a8ad31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Expedia | Software Development Engineering Intern | Seattle, WA</br>Austin, TX</br>Chicago, IL | <a href="http://redirect.cvrve.me/fa225248696cf7644bb8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
