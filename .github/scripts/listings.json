@@ -19191,5 +19191,31 @@
         "date_posted": 1727065480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727065985,
+        "url": "http://redirect.cvrve.me/cb3fdead7dd50faa0d29",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA",
+            "Redmond, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Santa Clara, CA",
+            "Greater DMV (DC, MD, VA)",
+            "Austin, TX",
+            "New York City, NY",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "REDact324",
+        "id": "cea9e0aa-1e65-4c4b-a53e-eeb31cb525f3",
+        "date_posted": 1727065985,
+        "company_url": "",
+        "is_visible": true
     }
 ]
