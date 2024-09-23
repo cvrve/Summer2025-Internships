@@ -19336,5 +19336,22 @@
         "date_posted": 1727109417,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727123182,
+        "url": "http://redirect.cvrve.me/2f16d6f97a9cec4bfb8b",
+        "locations": [
+            "College Park, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Immuta",
+        "title": "Product Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e05afc93-81c4-47aa-8c7f-dac7a9d1aca7",
+        "date_posted": 1727123182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
