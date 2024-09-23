@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | The Home Depot | Software Engineer Intern | Remote | <a href="http://redirect.cvrve.me/362cdd99036535e1e40e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
+| SAIC | Software Engineer Intern | Omaha, NE | <a href="http://redirect.cvrve.me/76b9589ef88844a8ad31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Expedia | Software Development Engineering Intern | Seattle, WA</br>Austin, TX</br>Chicago, IL | <a href="http://redirect.cvrve.me/fa225248696cf7644bb8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | ↳ | Technical Program Management Intern | Seattle, WA</br>Austin, TX</br>Chicago, IL | <a href="http://redirect.cvrve.me/434a68aebae77a026953?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Amazon | Data Engineer Intern | <details><summary>**10 locations**</summary>Seattle, WA</br>Bellevue, WA</br>Redmond, WA</br>San Francisco, CA</br>Sunnyvale, CA</br>Santa Clara, CA</br>Greater DMV (DC, MD, VA)</br>Austin, TX</br>New York City, NY</br>Minneapolis, MN</details> | <a href="http://redirect.cvrve.me/cb3fdead7dd50faa0d29?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
