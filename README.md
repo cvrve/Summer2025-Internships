@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/24788c8f32bb366c8c2e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Immuta | Product Engineering Intern | College Park, MD | <a href="http://redirect.cvrve.me/2f16d6f97a9cec4bfb8b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| Holland America Line | Artificial Intelligence Intern | Seattle, WA | <a href="http://redirect.cvrve.me/9ac4b65a94da1304e0b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Duolingo | Software Engineer Intern, Thrive | Pittsburgh, PA | <a href="http://redirect.cvrve.me/985a532b967ee3b1eb3b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Bose | Wearables Software Intern | Framingham, MA | <a href="http://redirect.cvrve.me/7a5fdb99bc0837eebb76?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Autodesk | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/94a164c3cefd567035e7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
