@@ -19387,5 +19387,22 @@
         "date_posted": 1727124805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727124975,
+        "url": "http://redirect.cvrve.me/7a5fdb99bc0837eebb76",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Wearables Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5c827ced-a840-4d7d-b433-53db21e88faa",
+        "date_posted": 1727124975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
