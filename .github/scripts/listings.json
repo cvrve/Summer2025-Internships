@@ -19217,5 +19217,22 @@
         "date_posted": 1727065985,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727066131,
+        "url": "http://redirect.cvrve.me/362cdd99036535e1e40e",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Home Depot",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "66a2efc9-7931-4f9e-9aba-a5d62d34cdea",
+        "date_posted": 1727066131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
