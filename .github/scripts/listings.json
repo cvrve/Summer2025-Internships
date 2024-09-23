@@ -19319,5 +19319,22 @@
         "date_posted": 1727106601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727109417,
+        "url": "http://redirect.cvrve.me/985a532b967ee3b1eb3b",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern, Thrive",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cd6e14a2-0c63-4c6a-91d0-c22ff8dff7f9",
+        "date_posted": 1727109417,
+        "company_url": "",
+        "is_visible": true
     }
 ]

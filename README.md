@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/24788c8f32bb366c8c2e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| Duolingo | Software Engineer Intern, Thrive | Pittsburgh, PA | <a href="http://redirect.cvrve.me/985a532b967ee3b1eb3b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Thrivent | IT Application Engineer Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/2c942fd29a67dc37ab2f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | ↳ | Data Analyst Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/884dad1bed8109a421e8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | The Home Depot | Software Engineer Intern | Remote | <a href="http://redirect.cvrve.me/362cdd99036535e1e40e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
