@@ -19153,5 +19153,24 @@
         "date_posted": 1726911583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727065408,
+        "url": "http://redirect.cvrve.me/434a68aebae77a026953",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia",
+        "title": "Technical Program Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7a06dccb-4b6a-411c-8f5e-da5ed57f3dd9",
+        "date_posted": 1727065408,
+        "company_url": "",
+        "is_visible": true
     }
 ]
