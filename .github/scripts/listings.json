@@ -19251,5 +19251,22 @@
         "date_posted": 1727066160,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727066176,
+        "url": "http://redirect.cvrve.me/fbf01db29dc3053cabc1",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kodiak",
+        "title": "Full Stack Software Engineer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "cc436725-6196-42c7-a4ed-5003f8800a5d",
+        "date_posted": 1727066176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
