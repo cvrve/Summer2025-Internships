@@ -108,7 +108,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Research Software Engineer Intern | Jupiter, FL | <a href="https://redirect.cvrve.me/067bdb6e20a835f886e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Viasat | Cybersecurity Software Engineer Intern 🇺🇸 | Germantown, MD | <a href="https://redirect.cvrve.me/fdcfc8001146cbb8fc55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Thrivent | Software Developer Intern | Remote | <a href="https://redirect.cvrve.me/16ae9481c4793abccc99?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
-| Steely | Software Engineering Intern | Reston, VA | <a href="https://redirect.cvrve.me/f3c47135255bb9209b3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| Steely | Software Engineering Intern 🇺🇸 | Reston, VA | <a href="https://redirect.cvrve.me/f3c47135255bb9209b3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Qorvo | AI/Machine Learning Engineering Intern | Richardson, TX | <a href="https://redirect.cvrve.me/180d2a8b0b84657bd65e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | ↳ | Data Science Engineering Intern | Richardson, TX | <a href="https://redirect.cvrve.me/5ec3ca9ec565b33f83c2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Nsight Telservices | Network DevOps Intern | Green Bay, WI | <a href="https://redirect.cvrve.me/f9f50caf03445037a298?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
@@ -243,7 +243,6 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Software Engineering Intern | Dallas, TX | <a href="http://redirect.cvrve.me/0d4fca22c84dc34b1fa1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Bloomberg | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/a2616b1acad83fb3c33b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ASML | Software Engineer in DevOps Intern | San Jose, CA | <a href="http://redirect.cvrve.me/4f8216be863195c21470?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| ↳ | Software Development Engineer in Test Intern | San Jose, CA | <a href="http://redirect.cvrve.me/fb6d060f3e62c5956353?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | appfolio | Software Engineer Intern | Santa Barbara, CA</br>San Diego, CA</br>Remote | <a href="https://www.appfolio.com/open-roles?p=job%2FoaXwufwR&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Ameriprise Financial | Technology Intern | Minneapolis, MN | <a href="https://careers.ameriprise.com/search-jobs/r24_0000002803/technology-intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ↳ | Quantitative Research Intern | Boston, MA | <a href="https://careers.ameriprise.com/search-jobs/r24_0000002716/investments-intern-quantitative-research?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
@@ -906,6 +905,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Oshkosh | Engineer Intern | Murfreesboro, TN | 🔒 | Sep 17 |
+| ASML | Software Development Engineer in Test Intern | San Jose, CA | 🔒 | Sep 17 |
 | Pearson | Software Engineer Intern | Columbia, SC | 🔒 | Sep 11 |
 | LexisNexis | Software Engineer Intern | Raleigh, NC | 🔒 | Sep 11 |
 | IBM | Software Developer Intern | Markham, CA | 🔒 | Sep 11 |
