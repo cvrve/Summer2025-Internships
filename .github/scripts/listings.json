@@ -19438,5 +19438,23 @@
         "date_posted": 1727128339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727173583,
+        "url": "http://redirect.cvrve.me/453adb0e4706adae024a",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1660a307-0bcf-4bdf-b341-83d49eefb621",
+        "date_posted": 1727173583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
