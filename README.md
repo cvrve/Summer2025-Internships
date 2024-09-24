@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Viasat | Software Engineer Intern | Carlsbad, CA | <a href="http://redirect.cvrve.me/643b8615fac3e60e6fd4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Rippling | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/453adb0e4706adae024a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Allied Solutions | Software Engineer Intern | Carmel, IN | <a href="http://redirect.cvrve.me/841dda406b34d6064f6f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/24788c8f32bb366c8c2e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
