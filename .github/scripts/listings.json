@@ -17279,7 +17279,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Software Development Engineer in Test Intern",
         "season": "Summer",
@@ -19041,7 +19041,7 @@
         "locations": [
             "Reston, VA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Steely",
         "title": "Software Engineering Intern",
