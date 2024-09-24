@@ -19592,5 +19592,23 @@
         "date_posted": 1727187244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727187330,
+        "url": "http://redirect.cvrve.me/d0ad03e91c48ab41b71d",
+        "locations": [
+            "Owego, NY",
+            "Stratford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c0690ad9-802f-41a1-9d58-7fcc720e64f4",
+        "date_posted": 1727187330,
+        "company_url": "",
+        "is_visible": true
     }
 ]
