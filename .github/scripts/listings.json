@@ -19524,5 +19524,22 @@
         "date_posted": 1727185997,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727186211,
+        "url": "http://redirect.cvrve.me/968b19c622626f78f578",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Indiana Farm Bureau Insurance",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "27dc7211-5f76-4cce-afa0-b58850bf1a39",
+        "date_posted": 1727186211,
+        "company_url": "",
+        "is_visible": true
     }
 ]
