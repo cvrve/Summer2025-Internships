@@ -19558,5 +19558,22 @@
         "date_posted": 1727186337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727187173,
+        "url": "http://redirect.cvrve.me/edcd58ac1082b5596577",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Developer Support Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0fe2df66-64f2-4ad1-b709-98441894c24d",
+        "date_posted": 1727187173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
