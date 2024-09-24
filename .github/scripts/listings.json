@@ -19507,5 +19507,22 @@
         "date_posted": 1727185966,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727185997,
+        "url": "http://redirect.cvrve.me/a6f0ec33990361e90b88",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Frontend Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "336bf500-a0ac-41c6-b141-9803e9d5e107",
+        "date_posted": 1727185997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
