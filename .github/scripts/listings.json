@@ -19456,5 +19456,22 @@
         "date_posted": 1727173583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727178162,
+        "url": "http://redirect.cvrve.me/841dda406b34d6064f6f",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allied Solutions",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dddc5584-ae68-4a84-91a6-e534345734d1",
+        "date_posted": 1727178162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
