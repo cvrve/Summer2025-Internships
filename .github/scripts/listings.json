@@ -19911,5 +19911,22 @@
         "date_posted": 1727246225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727246341,
+        "url": "http://redirect.cvrve.me/42a91b685a2a6d4ca91b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wispr",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c93fcac2-5093-4a51-b4aa-ecb1c4cc52b0",
+        "date_posted": 1727246341,
+        "company_url": "",
+        "is_visible": true
     }
 ]

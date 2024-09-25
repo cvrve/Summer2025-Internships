@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | Android Software Engineer Intern | Holtsville, NY | <a href="http://redirect.cvrve.me/4a794fb8a8577ae461bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
+| Wispr | Software Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/42a91b685a2a6d4ca91b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Wayfair | Software Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/b682c0b123660113a390?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Viasat | Software Engineer Intern | Carlsbad, CA | <a href="http://redirect.cvrve.me/643b8615fac3e60e6fd4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Tyler Technologies | Software Development Intern | Yarmouth, ME | <a href="http://redirect.cvrve.me/40acdf7bdf386136b57c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
