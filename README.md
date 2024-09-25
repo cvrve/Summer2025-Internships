@@ -94,6 +94,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Dow Jones | Developer Support Intern | Princeton, NJ | <a href="http://redirect.cvrve.me/edcd58ac1082b5596577?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Ciena | Waveserver Software Intern | Remote | <a href="http://redirect.cvrve.me/5ec3b0e81d562b6a00d3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Chick-fil-A | Software Engineer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/ea696e473dcd91b995d8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
+| Carters | DC Analytics Intern | Braselton, GA | <a href="http://redirect.cvrve.me/c04ff7ae9031540eed97?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | ASML | Frontend Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/a6f0ec33990361e90b88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Allied Solutions | Software Engineer Intern | Carmel, IN | <a href="http://redirect.cvrve.me/841dda406b34d6064f6f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/24788c8f32bb366c8c2e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
