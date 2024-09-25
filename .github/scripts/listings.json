@@ -19773,5 +19773,22 @@
         "date_posted": 1727245576,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727245778,
+        "url": "http://redirect.cvrve.me/c04ff7ae9031540eed97",
+        "locations": [
+            "Braselton, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Carters",
+        "title": "DC Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "833a6329-1520-4d1f-a6da-3621b3f70c0f",
+        "date_posted": 1727245778,
+        "company_url": "",
+        "is_visible": true
     }
 ]
