@@ -19877,5 +19877,22 @@
         "date_posted": 1727246135,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727246182,
+        "url": "http://redirect.cvrve.me/2338d0dcbe4a1a135192",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f26c9846-ea6b-49ad-8b54-e7e552498f0a",
+        "date_posted": 1727246182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
