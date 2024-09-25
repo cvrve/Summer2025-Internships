@@ -19894,5 +19894,22 @@
         "date_posted": 1727246182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727246225,
+        "url": "http://redirect.cvrve.me/b682c0b123660113a390",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wayfair",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab7a90d2-4c8b-4189-bf84-86413c195971",
+        "date_posted": 1727246225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
