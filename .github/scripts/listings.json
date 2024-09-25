@@ -19733,5 +19733,23 @@
         "date_posted": 1727245448,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727245489,
+        "url": "http://redirect.cvrve.me/b012aa37b131f689c2c7",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Somos",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f1df0556-b619-474a-ab7e-3514b5b6123a",
+        "date_posted": 1727245489,
+        "company_url": "",
+        "is_visible": true
     }
 ]
