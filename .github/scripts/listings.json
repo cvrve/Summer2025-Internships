@@ -19661,5 +19661,23 @@
         "date_posted": 1727245282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727245325,
+        "url": "http://redirect.cvrve.me/881b1046f87f109217eb",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Somos",
+        "title": "Cloud Operations Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0c4fc5d-f0f0-4b36-8fb4-01c5c55c14b7",
+        "date_posted": 1727245325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
