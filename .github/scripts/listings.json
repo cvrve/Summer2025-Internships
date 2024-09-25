@@ -19807,5 +19807,22 @@
         "date_posted": 1727245801,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727245880,
+        "url": "http://redirect.cvrve.me/9f137d30160aec200144",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "K2 Space",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77b9b52b-980d-4255-8c42-6b7804d9d2ce",
+        "date_posted": 1727245880,
+        "company_url": "",
+        "is_visible": true
     }
 ]
