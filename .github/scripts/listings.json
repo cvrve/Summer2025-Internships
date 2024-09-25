@@ -19790,5 +19790,22 @@
         "date_posted": 1727245778,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727245801,
+        "url": "http://redirect.cvrve.me/d13e4f9d555781e77ed3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Galaxy",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fead83a0-a318-4467-a587-33f9004edd90",
+        "date_posted": 1727245801,
+        "company_url": "",
+        "is_visible": true
     }
 ]
