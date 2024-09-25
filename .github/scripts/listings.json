@@ -19928,5 +19928,22 @@
         "date_posted": 1727246341,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727291853,
+        "url": "http://redirect.cvrve.me/37758bea3687d311d0c1",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta University",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e7ae507-3958-44bd-a0b7-500fa1318a87",
+        "date_posted": 1727291853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
