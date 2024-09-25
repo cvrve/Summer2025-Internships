@@ -19842,5 +19842,23 @@
         "date_posted": 1727246044,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727246092,
+        "url": "http://redirect.cvrve.me/86657223875f15182acb",
+        "locations": [
+            "Aurora, CO",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d883a739-85eb-42e9-aec7-97f5062d075b",
+        "date_posted": 1727246092,
+        "company_url": "",
+        "is_visible": true
     }
 ]
