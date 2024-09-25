@@ -19627,5 +19627,22 @@
         "date_posted": 1727187431,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727244925,
+        "url": "http://redirect.cvrve.me/ea696e473dcd91b995d8",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chick-fil-A",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f442ac3d-da75-4abb-b4da-b5a858146ee5",
+        "date_posted": 1727244925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
