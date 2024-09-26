@@ -19962,5 +19962,27 @@
         "date_posted": 1727322543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727322569,
+        "url": "http://redirect.cvrve.me/358771164c7e9792112b",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Omaha, NE",
+            "Scottsdale, AZ",
+            "New York City, NY",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Mobile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d1743de-e09b-42fb-8f3a-bc7ecf561131",
+        "date_posted": 1727322569,
+        "company_url": "",
+        "is_visible": true
     }
 ]
