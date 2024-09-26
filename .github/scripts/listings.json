@@ -20180,5 +20180,23 @@
         "date_posted": 1727326241,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727326340,
+        "url": "http://redirect.cvrve.me/5042f42000c8e310e488",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Associate DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "15c27cf4-1ca8-49ae-a006-e9bd99fe8687",
+        "date_posted": 1727326340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
