@@ -20268,5 +20268,22 @@
         "date_posted": 1727330783,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727330860,
+        "url": "http://redirect.cvrve.me/c6dbb43f9aa822688b02",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d5176d5e-1689-4576-b1b6-fef82d5d7247",
+        "date_posted": 1727330860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
