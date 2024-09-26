@@ -20394,5 +20394,22 @@
         "date_posted": 1727379203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727384129,
+        "url": "http://redirect.cvrve.me/782992015f044d091f5c",
+        "locations": [
+            "Atlanta, GA,"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwire",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3c77e707-1e1d-490c-8565-0ac9db225a00",
+        "date_posted": 1727384129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
