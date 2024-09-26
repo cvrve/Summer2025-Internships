@@ -19945,5 +19945,22 @@
         "date_posted": 1727291853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727322543,
+        "url": "https://us241.dayforcehcm.com/CandidatePortal/en-US/thg/Site/ALLCAREERS/Posting/View/31418",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Hanover Insurance Group",
+        "title": "Intern - Data Engineer",
+        "season": "Summer",
+        "source": "Saurav-Ubarhande",
+        "id": "0295d9ff-c5fe-4e25-a776-b993992bdcde",
+        "date_posted": 1727322543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
