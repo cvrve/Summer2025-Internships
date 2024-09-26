@@ -20377,5 +20377,22 @@
         "date_posted": 1727379174,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727379203,
+        "url": "http://redirect.cvrve.me/0d71296a768dd40c32ad",
+        "locations": [
+            "Menasha, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FTI",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a4b39fd8-353d-405d-b242-232bf7e58c44",
+        "date_posted": 1727379203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
