@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Uber | Software Engineering Intern | <details><summary>**4 locations**</summary>San Francisco</br>New York</br>Sunnyvale</br>Seattle</details> | <a href="http://redirect.cvrve.me/748abe2ff37f62d6b9de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| Teradata | Software Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0c18529d28924dee2f66?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Meta | Software Engineer Intern | <details><summary>**4 locations**</summary>Menlo Park, CA</br>New York, NY</br>Seattle, WA</br>Bellevue, WA</details> | <a href="http://redirect.cvrve.me/55d2f08614375f3258dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | TSC | Software Engineer Intern | Silver Spring, MD | <a href="http://redirect.cvrve.me/abd610da92d8e14b5ee3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | The Toro Company | Microsoft .Net Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/1e49da137b3c70f807b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
