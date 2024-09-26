@@ -20360,5 +20360,22 @@
         "date_posted": 1727379126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727379174,
+        "url": "http://redirect.cvrve.me/730503c0e3066eb4da66",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Manufacturing Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "161b9276-f211-4972-b5c5-fd2c82fdfc53",
+        "date_posted": 1727379174,
+        "company_url": "",
+        "is_visible": true
     }
 ]
