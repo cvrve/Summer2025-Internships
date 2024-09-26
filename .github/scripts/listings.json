@@ -20251,5 +20251,22 @@
         "date_posted": 1727330734,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727330783,
+        "url": "http://redirect.cvrve.me/e720a72e6fd7be5ab398",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Embedded Firmware Summer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b3fc86e8-8056-4c02-bbb8-96483c52502f",
+        "date_posted": 1727330783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
