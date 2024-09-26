@@ -20088,5 +20088,23 @@
         "date_posted": 1727323624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727323972,
+        "url": "http://redirect.cvrve.me/b8644b039a053f62aa59",
+        "locations": [
+            "Sioux Falls, SD",
+            "Sioux Center, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interstates",
+        "title": "Apps Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "382856be-7523-4c3b-91d1-ba8144f83b2e",
+        "date_posted": 1727323972,
+        "company_url": "",
+        "is_visible": true
     }
 ]
