@@ -20285,5 +20285,22 @@
         "date_posted": 1727330860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727330937,
+        "url": "http://redirect.cvrve.me/32839653d33b9a882c62",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Athene",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ea80c53a-2101-4ccc-bba8-e966a4610c04",
+        "date_posted": 1727330937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
