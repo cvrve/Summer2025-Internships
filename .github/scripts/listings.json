@@ -20106,5 +20106,22 @@
         "date_posted": 1727323972,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727325049,
+        "url": "http://redirect.cvrve.me/a315eff55caa8bd189e9",
+        "locations": [
+            "LocationUnited States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Embedded Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "38e39c64-3576-4869-8090-7f2493c92f80",
+        "date_posted": 1727325049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
