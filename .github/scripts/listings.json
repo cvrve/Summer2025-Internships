@@ -20198,5 +20198,22 @@
         "date_posted": 1727326340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727330512,
+        "url": "http://redirect.cvrve.me/61c1c2f44a37686965e8",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a4cd5170-0c04-4719-9108-7509293405af",
+        "date_posted": 1727330512,
+        "company_url": "",
+        "is_visible": true
     }
 ]
