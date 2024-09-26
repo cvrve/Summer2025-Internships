@@ -20215,5 +20215,22 @@
         "date_posted": 1727330512,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727330633,
+        "url": "http://redirect.cvrve.me/ef81995dc0f95d9c0630",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Frontend Development Undergrad Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1fa4a2e4-f5c4-4942-8bde-2a9eb571e16e",
+        "date_posted": 1727330633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
