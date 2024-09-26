@@ -20302,5 +20302,25 @@
         "date_posted": 1727330937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727378726,
+        "url": "http://redirect.cvrve.me/748abe2ff37f62d6b9de",
+        "locations": [
+            "San Francisco",
+            "New York",
+            "Sunnyvale",
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "simku22",
+        "id": "ca72977a-b137-441e-bffa-4dc99953fa2f",
+        "date_posted": 1727378726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
