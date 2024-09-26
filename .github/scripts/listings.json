@@ -20019,5 +20019,23 @@
         "date_posted": 1727322693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727323403,
+        "url": "http://redirect.cvrve.me/6b7b9fae4cbd312bc290",
+        "locations": [
+            "Raleigh, NC",
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Firmware Engineer Intern/Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3dea0e18-abdd-4185-94ac-29e7ffa6ad6f",
+        "date_posted": 1727323403,
+        "company_url": "",
+        "is_visible": true
     }
 ]
