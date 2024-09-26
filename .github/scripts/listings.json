@@ -20054,5 +20054,22 @@
         "date_posted": 1727323436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727323469,
+        "url": "http://redirect.cvrve.me/38cc31841befd445772e",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Platform Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "109abebc-b49d-4d13-86dc-d8333adf01c7",
+        "date_posted": 1727323469,
+        "company_url": "",
+        "is_visible": true
     }
 ]
