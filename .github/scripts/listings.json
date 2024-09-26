@@ -20071,5 +20071,22 @@
         "date_posted": 1727323469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727323624,
+        "url": "http://redirect.cvrve.me/abd610da92d8e14b5ee3",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TSC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "88ac5735-dcac-4257-90e2-7ec87497808c",
+        "date_posted": 1727323624,
+        "company_url": "",
+        "is_visible": true
     }
 ]
