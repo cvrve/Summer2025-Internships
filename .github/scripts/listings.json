@@ -20957,5 +20957,22 @@
         "date_posted": 1727462696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727462734,
+        "url": "http://redirect.cvrve.me/6d8219215b178b86de09",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva Agriscience",
+        "title": "R&D Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2e783c71-992c-4d6b-961a-eed69eb5d22b",
+        "date_posted": 1727462734,
+        "company_url": "",
+        "is_visible": true
     }
 ]
