@@ -20855,5 +20855,22 @@
         "date_posted": 1727461678,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727462082,
+        "url": "http://redirect.cvrve.me/a76daf2e13df59c0077a",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d65c5fb-64f9-42fe-aad7-4ef35cc6ac7a",
+        "date_posted": 1727462082,
+        "company_url": "",
+        "is_visible": true
     }
 ]
