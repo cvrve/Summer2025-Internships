@@ -20530,5 +20530,22 @@
         "date_posted": 1727418708,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727419146,
+        "url": "http://redirect.cvrve.me/d5946bcabd61493ce0dc",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fa3b53fc-5e95-479e-b772-f9c3e4147ed5",
+        "date_posted": 1727419146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
