@@ -20702,5 +20702,22 @@
         "date_posted": 1727420071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727420582,
+        "url": "http://redirect.cvrve.me/4bb39b5e9794239a973f",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist",
+        "title": "Quantitative Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3c56977e-7933-444c-b180-5bb6c93ab40f",
+        "date_posted": 1727420582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
