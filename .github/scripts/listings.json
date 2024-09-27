@@ -20462,5 +20462,22 @@
         "date_posted": 1727418398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727418626,
+        "url": "http://redirect.cvrve.me/aa9689a91e4c13571c87",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Video Game Engineer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "c185bab4-1b12-4ab3-9722-b1291746b890",
+        "date_posted": 1727418626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
