@@ -20411,5 +20411,22 @@
         "date_posted": 1727384129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727418201,
+        "url": "http://redirect.cvrve.me/634e9fe3ea0a4f5ed446",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cbaa2edc-7041-4139-8173-4ce60826f733",
+        "date_posted": 1727418201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
