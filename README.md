@@ -77,7 +77,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| GM Financial | API Development Intern | Arlington, TX | <a href="http://redirect.cvrve.me/d312b53f8a53ca89fbb3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
+| GM Financial | DevOps Engineer Intern | Arlington, TX | <a href="http://redirect.cvrve.me/569ca1311306ecc340c0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
+| ↳ | API Development Intern | Arlington, TX | <a href="http://redirect.cvrve.me/d312b53f8a53ca89fbb3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Altruist | Software Engineering Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/b3c7519213904c0a7123?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | ↳ | Quantitative Engineering Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/4bb39b5e9794239a973f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Uber | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/634e9fe3ea0a4f5ed446?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
