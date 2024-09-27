@@ -20906,5 +20906,22 @@
         "date_posted": 1727462273,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727462324,
+        "url": "http://redirect.cvrve.me/ab3e56676a4a8b8c4870",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "Software Testing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6ba323fd-1eec-474b-84fc-e0857e5720db",
+        "date_posted": 1727462324,
+        "company_url": "",
+        "is_visible": true
     }
 ]
