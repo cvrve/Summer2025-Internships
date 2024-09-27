@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Video Game Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/aa9689a91e4c13571c87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | NimbleRx | Software Engineer Intern | Redwood City, CA | <a href="http://redirect.cvrve.me/6a129415ad021a586cf5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Kodiak | Full Stack Software Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/fbf01db29dc3053cabc1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Tesla | Integration Engineer Chassis Systems Intern | Palo Alto, CA | <a href="https://redirect.cvrve.me/65933ee58df9afe57868?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
