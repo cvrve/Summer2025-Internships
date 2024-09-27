@@ -20804,5 +20804,22 @@
         "date_posted": 1727461162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727461396,
+        "url": "http://redirect.cvrve.me/3f673447cb83087c3253",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "05ccd796-a722-4b96-bbde-db74c5daaea5",
+        "date_posted": 1727461396,
+        "company_url": "",
+        "is_visible": true
     }
 ]
