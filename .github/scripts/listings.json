@@ -20496,5 +20496,22 @@
         "date_posted": 1727418675,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727418692,
+        "url": "http://redirect.cvrve.me/c1cdf9a82d99df6f3338",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Linux Update Systems",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "b4dd26fe-269f-472e-b2b3-9c0317fcf92a",
+        "date_posted": 1727418692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
