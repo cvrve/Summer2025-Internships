@@ -20684,5 +20684,23 @@
         "date_posted": 1727420060,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727420071,
+        "url": "http://redirect.cvrve.me/1fc36141c79265601127",
+        "locations": [
+            "Seattle, WA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia",
+        "title": "Mobile Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c95026d0-38ad-43ab-aabc-526d2388aae9",
+        "date_posted": 1727420071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
