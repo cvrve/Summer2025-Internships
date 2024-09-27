@@ -20616,5 +20616,22 @@
         "date_posted": 1727419305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727419662,
+        "url": "http://redirect.cvrve.me/6fb9dbf34824b6f491cd",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Solution Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "14a87823-e3f4-40ec-a669-8de68face2f4",
+        "date_posted": 1727419662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
