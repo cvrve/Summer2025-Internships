@@ -20872,5 +20872,22 @@
         "date_posted": 1727462082,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727462147,
+        "url": "http://redirect.cvrve.me/10c6ea6d912e6c715d5e",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MISO",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62a8513e-c0a9-4ad5-baf9-373167d3156a",
+        "date_posted": 1727462147,
+        "company_url": "",
+        "is_visible": true
     }
 ]
