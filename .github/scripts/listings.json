@@ -21008,5 +21008,22 @@
         "date_posted": 1727516088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727516120,
+        "url": "http://redirect.cvrve.me/5da67b09853668cc4628",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starbucks",
+        "title": "Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aeb83b9b-419f-4a45-bcc0-6ba74edfe72b",
+        "date_posted": 1727516120,
+        "company_url": "",
+        "is_visible": true
     }
 ]
