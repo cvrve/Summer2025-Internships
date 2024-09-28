@@ -78,7 +78,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zocdoc | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/4b37702115f420d3ba3c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| Starbucks | Data Analyst Intern - Undergrad | Seattle, WA | <a href="http://redirect.cvrve.me/e4dc2fdbbe41f95c8f97?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| Starbucks | Data Analyst Intern - Graduate | Seattle, WA | <a href="http://redirect.cvrve.me/a0b9ab4d2fd89ea307e7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| ↳ | Data Analyst Intern - Undergrad | Seattle, WA | <a href="http://redirect.cvrve.me/e4dc2fdbbe41f95c8f97?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | ↳ | Analytics Intern | Seattle, WA | <a href="http://redirect.cvrve.me/5da67b09853668cc4628?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | ↳ | Human Centered Design Intern | Seattle, WA | <a href="http://redirect.cvrve.me/557b24b43a0b2c48c7d3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Veeam | Salesforce Engineer Intern | Alpharetta, GA | <a href="http://redirect.cvrve.me/eb7bf7b2297590b2475a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |

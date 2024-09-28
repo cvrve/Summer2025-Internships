@@ -21042,5 +21042,22 @@
         "date_posted": 1727516144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727516163,
+        "url": "http://redirect.cvrve.me/a0b9ab4d2fd89ea307e7",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starbucks",
+        "title": "Data Analyst Intern - Graduate",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ff1d1217-2a25-4b2c-8934-54747d0c521b",
+        "date_posted": 1727516163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
