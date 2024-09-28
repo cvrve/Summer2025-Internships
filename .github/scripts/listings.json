@@ -20991,5 +20991,22 @@
         "date_posted": 1727516061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727516088,
+        "url": "http://redirect.cvrve.me/557b24b43a0b2c48c7d3",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starbucks",
+        "title": "Human Centered Design Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "da14ef2a-5100-4b92-845f-f0a27704e7d5",
+        "date_posted": 1727516088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
