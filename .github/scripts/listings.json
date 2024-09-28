@@ -21059,5 +21059,22 @@
         "date_posted": 1727516163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727516237,
+        "url": "http://redirect.cvrve.me/d91bcb6c44198e32c3d2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starbucks",
+        "title": "Project Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "07011cd8-8757-446e-aa30-771290aee1ad",
+        "date_posted": 1727516237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
