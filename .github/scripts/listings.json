@@ -21150,5 +21150,22 @@
         "date_posted": 1727579821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727579925,
+        "url": "http://redirect.cvrve.me/09a9c61e17881d771c98",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pearson",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebe11a59-a42e-45e9-8b5c-73a1e4bc64f7",
+        "date_posted": 1727579925,
+        "company_url": "",
+        "is_visible": true
     }
 ]
