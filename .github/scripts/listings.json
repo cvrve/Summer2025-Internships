@@ -21218,5 +21218,22 @@
         "date_posted": 1727580203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727580286,
+        "url": "http://redirect.cvrve.me/3f33843a3c8955d2ce58",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dcadc987-0409-4af1-8ce2-94929129f9be",
+        "date_posted": 1727580286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
