@@ -21116,5 +21116,22 @@
         "date_posted": 1727570406,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727570523,
+        "url": "http://redirect.cvrve.me/f7dbd26afec93125eae4",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Front-End Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7d049d0-f147-448c-aa26-1a5be7762da2",
+        "date_posted": 1727570523,
+        "company_url": "",
+        "is_visible": true
     }
 ]
