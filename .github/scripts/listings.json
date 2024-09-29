@@ -21167,5 +21167,22 @@
         "date_posted": 1727579925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727580008,
+        "url": "http://redirect.cvrve.me/c1ab6530f98ccffcce76",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pearson",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ae3fe06-50e9-437c-a2c6-6282173b081a",
+        "date_posted": 1727580008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
