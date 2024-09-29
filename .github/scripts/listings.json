@@ -21201,5 +21201,22 @@
         "date_posted": 1727580114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727580203,
+        "url": "http://redirect.cvrve.me/8b773bb0ba9e6eacacc9",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7a8a0df1-9244-4270-aaa1-0c279e4ebf4b",
+        "date_posted": 1727580203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
