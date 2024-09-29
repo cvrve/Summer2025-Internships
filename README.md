@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Software Development Engineer in Test Intern | Foster City, CA | <a href="http://redirect.cvrve.me/c3007fea0e65fdc76542?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Zocdoc | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/4b37702115f420d3ba3c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Starbucks | Project Manager Intern | Seattle, WA | <a href="http://redirect.cvrve.me/d91bcb6c44198e32c3d2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | ↳ | Data Analyst Intern - Graduate | Seattle, WA | <a href="http://redirect.cvrve.me/a0b9ab4d2fd89ea307e7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
