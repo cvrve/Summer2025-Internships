@@ -21093,5 +21093,28 @@
         "date_posted": 1727570278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727570406,
+        "url": "http://redirect.cvrve.me/869cc34a07a4c57fa71c",
+        "locations": [
+            "Pittsburgh, PA",
+            "Sunnyvale, CA",
+            "Seattle, WA",
+            "Redmond, WA",
+            "Bellevue, WA",
+            "Irvine, CA",
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bd484667-0a22-40b8-b848-0be6f4a4893e",
+        "date_posted": 1727570406,
+        "company_url": "",
+        "is_visible": true
     }
 ]
