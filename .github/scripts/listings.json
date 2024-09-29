@@ -21184,5 +21184,22 @@
         "date_posted": 1727580008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727580114,
+        "url": "http://redirect.cvrve.me/288edf576f279b85715b",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Streyten",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fb398fc6-ac38-48be-a9e5-0840da21cbd9",
+        "date_posted": 1727580114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
