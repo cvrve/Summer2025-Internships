@@ -21133,5 +21133,22 @@
         "date_posted": 1727570523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727579821,
+        "url": "http://redirect.cvrve.me/9eed9ed009e2e50dae0f",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Bank & Trust",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c0ab669d-ef4f-46c4-8057-59cf7805389c",
+        "date_posted": 1727579821,
+        "company_url": "",
+        "is_visible": true
     }
 ]
