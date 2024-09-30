@@ -22318,5 +22318,22 @@
         "date_posted": 1727730766,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727731261,
+        "url": "http://redirect.cvrve.me/b0d238f0fd84e4185ec1",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Corteva Agriscience",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "188db2ac-6e6c-4edd-9a5b-d2c9ff514b87",
+        "date_posted": 1727731261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
