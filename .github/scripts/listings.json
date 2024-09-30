@@ -22086,5 +22086,23 @@
         "date_posted": 1727728696,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729022,
+        "url": "http://redirect.cvrve.me/71b040c1552ea8d2a946",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Data Science, Engineering, & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7a75314d-9b57-4a70-866d-2a0546f0601a",
+        "date_posted": 1727729022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
