@@ -21989,5 +21989,28 @@
         "date_posted": 1727724610,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724639,
+        "url": "http://redirect.cvrve.me/36be7704ddd47a361e83",
+        "locations": [
+            "Mountain View, CA",
+            "New York, NY",
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Redwood City, CA",
+            "San Bruno, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "BOLD Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d68d9e6a-6fb1-4f65-a8fe-1a4f4a7c4b48",
+        "date_posted": 1727724639,
+        "company_url": "",
+        "is_visible": true
     }
 ]
