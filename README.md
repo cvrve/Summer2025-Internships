@@ -77,7 +77,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zoox | Test Automation Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/46bfd4d0738919d80dd9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Zoox | Enterprise Data Governance Intern | Foster City, CA | <a href="http://redirect.cvrve.me/3bf33739e234611c2f72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| ↳ | Test Automation Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/46bfd4d0738919d80dd9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Xcel Energy | Data Science Intern | Denver, CO</br>Minneapolis, MN | <a href="http://redirect.cvrve.me/48e1fd8739488ec6ab2c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Workday | Software Application Development Engineer Intern | Atlanta, GA</br>Pleasanton, CA | <a href="http://redirect.cvrve.me/ad327be3d9120541ba9e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Software Development Engineer Intern | <details><summary>**6 locations**</summary>Atlanta, GA</br>McLean, VA</br>Beaverton, OR</br>Mason, OH</br>Boulder, CO</br>Pleasanton, CA</details> | <a href="http://redirect.cvrve.me/77aad14470c048e1b4b7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
