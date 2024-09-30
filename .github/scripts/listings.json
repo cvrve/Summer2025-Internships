@@ -22508,5 +22508,22 @@
         "date_posted": 1727735152,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727735179,
+        "url": "http://redirect.cvrve.me/d23e28cf8b0af9f2a52e",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Market Intelligence Data Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e666768c-6133-47b0-a4f2-672c3add7fb5",
+        "date_posted": 1727735179,
+        "company_url": "",
+        "is_visible": true
     }
 ]
