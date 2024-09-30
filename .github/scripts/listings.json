@@ -22069,5 +22069,22 @@
         "date_posted": 1727724723,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727728696,
+        "url": "http://redirect.cvrve.me/042309fe29ceeba36ed4",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bd6921bd-6ea2-4dbe-b04a-aeb4f5fe2fcb",
+        "date_posted": 1727728696,
+        "company_url": "",
+        "is_visible": true
     }
 ]
