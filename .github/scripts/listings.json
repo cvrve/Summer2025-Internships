@@ -21502,5 +21502,22 @@
         "date_posted": 1727689197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727692866,
+        "url": "http://redirect.cvrve.me/2cf280ed943042b5600d",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pearson",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "496f0a97-de4d-4d84-8d7d-f36cbd2db238",
+        "date_posted": 1727692866,
+        "company_url": "",
+        "is_visible": true
     }
 ]
