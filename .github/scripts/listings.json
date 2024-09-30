@@ -22173,5 +22173,27 @@
         "date_posted": 1727729302,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729627,
+        "url": "http://redirect.cvrve.me/fcd55f98fc0c0f24d07a",
+        "locations": [
+            "Kenosha, WI",
+            "Greenwood, IN",
+            "Warminster, PA",
+            "Houston - Greenspoint, TX",
+            "Broken Arrow, OK",
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alfa Laval",
+        "title": "Channel Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3626556-b54a-4903-ad38-7b97a0a48075",
+        "date_posted": 1727729627,
+        "company_url": "",
+        "is_visible": true
     }
 ]
