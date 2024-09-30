@@ -22559,5 +22559,22 @@
         "date_posted": 1727735225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727735322,
+        "url": "http://redirect.cvrve.me/71651b102b0001615495",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Data & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0938dc1b-bd18-4013-9341-60dd4547ff87",
+        "date_posted": 1727735322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
