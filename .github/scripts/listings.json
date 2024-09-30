@@ -22491,5 +22491,22 @@
         "date_posted": 1727734523,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727735152,
+        "url": "http://redirect.cvrve.me/b1d6903058f804294af6",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Android Automotive Mobile Full Stack Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "86348389-4040-429c-ae7d-257ef7931e6c",
+        "date_posted": 1727735152,
+        "company_url": "",
+        "is_visible": true
     }
 ]
