@@ -21768,5 +21768,22 @@
         "date_posted": 1727706814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727723234,
+        "url": "http://redirect.cvrve.me/fd0c956e7e7e6c930e7d",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Solution Architecture Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "511acaa9-bfb8-4f0a-b310-e3173e848b03",
+        "date_posted": 1727723234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
