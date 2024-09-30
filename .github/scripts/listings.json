@@ -22139,5 +22139,22 @@
         "date_posted": 1727729145,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729258,
+        "url": "http://redirect.cvrve.me/dec132e6574e9ddc08fa",
+        "locations": [
+            "locations Farmingdale, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TTM Technologies, Inc",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "53d17abf-4ca0-4976-b96b-daa2bd0a3fb9",
+        "date_posted": 1727729258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
