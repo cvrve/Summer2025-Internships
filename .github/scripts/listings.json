@@ -21565,5 +21565,24 @@
         "date_posted": 1727706344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727706397,
+        "url": "http://redirect.cvrve.me/bec5991ee3a539b35793",
+        "locations": [
+            "Waterloo, ON",
+            "Toronto, ON",
+            "Montreal, QC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Google",
+        "title": "STEP Intern, Second Year Bachelor's Student, Summer 2025 (Canada)",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "146f7474-9936-444d-b8f5-777e0148b229",
+        "date_posted": 1727706397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
