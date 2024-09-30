@@ -80,6 +80,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Xcel Energy | Data Science Intern | Denver, CO</br>Minneapolis, MN | <a href="http://redirect.cvrve.me/48e1fd8739488ec6ab2c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Vectra | Data Science Intern | Boston, MA | <a href="http://redirect.cvrve.me/10d0972a1bbbfcc76673?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Data Science Intern | San Jose, CA | <a href="http://redirect.cvrve.me/ee8989bb4c9623eb4247?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Vast | Software Engineering Intern | Long Beach, CA | <a href="http://redirect.cvrve.me/d0508f66fcb87c86c509?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Prospect Equities | Software Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/f0ec35d0fa83cfd1fd68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Pegasystems | Software Engineering Intern | Waltham, MA | <a href="http://redirect.cvrve.me/6230dba50bb542beea47?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Pearson | Data Analyst Intern | Durham, NC | <a href="http://redirect.cvrve.me/2cf280ed943042b5600d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
