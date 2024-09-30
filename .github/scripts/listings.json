@@ -21921,5 +21921,22 @@
         "date_posted": 1727724443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724460,
+        "url": "http://redirect.cvrve.me/b0ca8075762d2d0bd2a8",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Embedded Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d6c43e1-3b57-4efd-a657-81897fa7e911",
+        "date_posted": 1727724460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
