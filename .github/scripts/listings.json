@@ -21287,5 +21287,22 @@
         "date_posted": 1727688679,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727688702,
+        "url": "http://redirect.cvrve.me/f4158b87e882786a6c8a",
+        "locations": [
+            "Reno, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Generac",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dd45a856-4774-4d70-bbf3-0c5772dd2c02",
+        "date_posted": 1727688702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
