@@ -24,11 +24,12 @@ The torch has been passed. Use this repo to share and keep track of software, te
 ---
 
 <div align="center">
+	<h3 >Want notifications when new internships open? </h3>
 	<p>
+		Join the ⬇️ <strong> discord <strong/> ⬇️ and get your internship applications in right when they open!
 		<a href="https://bit.ly/ouckah">
-			<b style="color: #0073e6; font-size: 1.2em;">Looking for other internship applicants?</b>
+			<b style="color: #0073e6; font-size: 1.2em;"></b>
 				<br style="color: #0073e6; font-size: 1.2em;">
-				Connect with fellow peers and enhance your internship applications!
 				<br>
 			<div>
 				<a href="https://bit.ly/ouckah">
