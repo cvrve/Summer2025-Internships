@@ -22404,5 +22404,23 @@
         "date_posted": 1727732547,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727732634,
+        "url": "http://redirect.cvrve.me/d3025916ebeeb8c79417",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Infrastructure Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d95d3ff7-e859-4691-a497-f9f6e72a07f2",
+        "date_posted": 1727732634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
