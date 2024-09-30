@@ -22122,5 +22122,22 @@
         "date_posted": 1727729055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729145,
+        "url": "http://redirect.cvrve.me/505c326e8e118d4c2cf2",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MISO",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "41658db6-753f-4901-836b-6ad77ee75490",
+        "date_posted": 1727729145,
+        "company_url": "",
+        "is_visible": true
     }
 ]
