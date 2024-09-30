@@ -22266,5 +22266,23 @@
         "date_posted": 1727730047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727730061,
+        "url": "http://redirect.cvrve.me/09beb5b03acdc3265dca",
+        "locations": [
+            "Carmel, IN",
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MISO",
+        "title": "Data Science/Data Analytics",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd70a41a-24bf-47f9-a946-ce257698a101",
+        "date_posted": 1727730061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
