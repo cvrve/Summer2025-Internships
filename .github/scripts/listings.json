@@ -22052,5 +22052,22 @@
         "date_posted": 1727724697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724723,
+        "url": "http://redirect.cvrve.me/78c843da3dd25dd9da74",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Applications Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7ef8ff2b-954b-4be9-b833-1e97a411a280",
+        "date_posted": 1727724723,
+        "company_url": "",
+        "is_visible": true
     }
 ]
