@@ -21252,5 +21252,23 @@
         "date_posted": 1727688609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727688655,
+        "url": "http://redirect.cvrve.me/48e1fd8739488ec6ab2c",
+        "locations": [
+            "Denver, CO",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xcel Energy",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b5251129-bf93-4b5f-81e2-9098c284b7da",
+        "date_posted": 1727688655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
