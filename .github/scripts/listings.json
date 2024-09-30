@@ -21819,5 +21819,22 @@
         "date_posted": 1727723688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727723704,
+        "url": "http://redirect.cvrve.me/a964cd6032411933588a",
+        "locations": [
+            "Pennsauken, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Subaru",
+        "title": "Field Quality Assurance Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "96a878f9-a289-42fa-baca-fca843277c21",
+        "date_posted": 1727723704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
