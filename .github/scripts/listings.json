@@ -21304,5 +21304,22 @@
         "date_posted": 1727688702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727688723,
+        "url": "http://redirect.cvrve.me/f0ec35d0fa83cfd1fd68",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prospect Equities",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e0b80465-ae44-468d-b5d1-73ca3991fcf0",
+        "date_posted": 1727688723,
+        "company_url": "",
+        "is_visible": true
     }
 ]

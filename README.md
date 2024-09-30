@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Xcel Energy | Data Science Intern | Denver, CO</br>Minneapolis, MN | <a href="http://redirect.cvrve.me/48e1fd8739488ec6ab2c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Prospect Equities | Software Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/f0ec35d0fa83cfd1fd68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Pegasystems | Software Engineering Intern | Waltham, MA | <a href="http://redirect.cvrve.me/6230dba50bb542beea47?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | LPGA | Information Technology Intern | Daytona Beach, FL | <a href="http://redirect.cvrve.me/ebc20cb04494df5d971b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Generac | Firmware Engineer Intern | Reno, NV | <a href="http://redirect.cvrve.me/f4158b87e882786a6c8a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
