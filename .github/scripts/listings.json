@@ -22542,5 +22542,22 @@
         "date_posted": 1727735213,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727735225,
+        "url": "http://redirect.cvrve.me/ca07cfb69e0249c97baa",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "812dcc35-6de8-4a07-8b97-42788a9c1864",
+        "date_posted": 1727735225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
