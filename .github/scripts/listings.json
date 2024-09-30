@@ -21356,5 +21356,22 @@
         "date_posted": 1727688761,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727688783,
+        "url": "http://redirect.cvrve.me/19d8a0b4bf37a8089e80",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "30cff8fd-6754-49bb-b2a9-9c3bce12b17e",
+        "date_posted": 1727688783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
