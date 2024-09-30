@@ -22301,5 +22301,22 @@
         "date_posted": 1727730164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727730766,
+        "url": "http://redirect.cvrve.me/407fc39f143578b102c7",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva Agriscience",
+        "title": "Enterprise Information Technology (EIT) Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d32ddfc3-9930-4bd5-84d9-977e73815d23",
+        "date_posted": 1727730766,
+        "company_url": "",
+        "is_visible": true
     }
 ]
