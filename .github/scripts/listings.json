@@ -22439,5 +22439,23 @@
         "date_posted": 1727733258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727733280,
+        "url": "http://redirect.cvrve.me/1787f0452b57569e126b",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "IT Release Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb435cfb-94e1-460d-b38c-f6f49638079a",
+        "date_posted": 1727733280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
