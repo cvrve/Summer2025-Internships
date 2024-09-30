@@ -22012,5 +22012,27 @@
         "date_posted": 1727724639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724666,
+        "url": "http://redirect.cvrve.me/77aad14470c048e1b4b7",
+        "locations": [
+            "Atlanta, GA",
+            "McLean, VA",
+            "Beaverton, OR",
+            "Mason, OH",
+            "Boulder, CO",
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "28c13998-87d1-4254-a8ab-cc3eea0e4bb8",
+        "date_posted": 1727724666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
