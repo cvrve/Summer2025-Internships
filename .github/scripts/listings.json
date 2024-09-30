@@ -21853,5 +21853,22 @@
         "date_posted": 1727723725,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724390,
+        "url": "http://redirect.cvrve.me/10aa666dd6f76a02b71c",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KeyBank",
+        "title": "Key Technology, Operations and Services Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cc3bd239-4d39-4e7f-a195-145919994fe7",
+        "date_posted": 1727724390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
