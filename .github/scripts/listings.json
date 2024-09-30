@@ -21235,5 +21235,22 @@
         "date_posted": 1727580286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727688609,
+        "url": "http://redirect.cvrve.me/ebc20cb04494df5d971b",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LPGA",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3fcb796b-18c1-40a6-9494-e412be0653f8",
+        "date_posted": 1727688609,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -77,6 +77,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| LPGA | Information Technology Intern | Daytona Beach, FL | <a href="http://redirect.cvrve.me/ebc20cb04494df5d971b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Zoox | Software Development Engineer in Test Intern | Foster City, CA | <a href="http://redirect.cvrve.me/c3007fea0e65fdc76542?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Zocdoc | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/4b37702115f420d3ba3c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Streyten | Embedded Software Engineer Intern | Alpharetta, GA | <a href="http://redirect.cvrve.me/288edf576f279b85715b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
