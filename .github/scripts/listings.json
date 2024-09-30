@@ -22525,5 +22525,22 @@
         "date_posted": 1727735179,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727735213,
+        "url": "http://redirect.cvrve.me/ba3fcd03c5749c8f0529",
+        "locations": [
+            "Smyrna, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "SCM Data Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d193775d-f327-461f-9cbd-94fbb17ee42f",
+        "date_posted": 1727735213,
+        "company_url": "",
+        "is_visible": true
     }
 ]
