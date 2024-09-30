@@ -21785,5 +21785,22 @@
         "date_posted": 1727723234,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727723279,
+        "url": "http://redirect.cvrve.me/d0508f66fcb87c86c509",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vast",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ba6f0c3d-4bea-4650-a708-6be593ecc8b5",
+        "date_posted": 1727723279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
