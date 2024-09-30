@@ -22247,5 +22247,24 @@
         "date_posted": 1727729983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727730047,
+        "url": "http://redirect.cvrve.me/b73a2efd8616384d0c70",
+        "locations": [
+            "Carmel, IN",
+            "Eagan, MN",
+            "Little Rock, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MISO",
+        "title": "Computer Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "55d17ff1-4939-4b8a-a827-a4085a82d32b",
+        "date_posted": 1727730047,
+        "company_url": "",
+        "is_visible": true
     }
 ]
