@@ -22386,5 +22386,23 @@
         "date_posted": 1727732460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727732547,
+        "url": "http://redirect.cvrve.me/18bc66989ec4ef752278",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dfbd9636-1729-4297-b53d-b9bb5645d434",
+        "date_posted": 1727732547,
+        "company_url": "",
+        "is_visible": true
     }
 ]
