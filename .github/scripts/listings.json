@@ -21972,5 +21972,22 @@
         "date_posted": 1727724580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724610,
+        "url": "http://redirect.cvrve.me/1d7af2d982b150581003",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Data Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e2a2b5ea-2e03-4fc4-a41b-57c6ddff5927",
+        "date_posted": 1727724610,
+        "company_url": "",
+        "is_visible": true
     }
 ]
