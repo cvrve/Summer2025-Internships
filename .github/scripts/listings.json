@@ -22034,5 +22034,23 @@
         "date_posted": 1727724666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724697,
+        "url": "http://redirect.cvrve.me/ad327be3d9120541ba9e",
+        "locations": [
+            "Atlanta, GA",
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Software Application Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "675794e1-8fa0-4639-a665-cb3640f5ece1",
+        "date_posted": 1727724697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
