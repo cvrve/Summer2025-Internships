@@ -21802,5 +21802,22 @@
         "date_posted": 1727723279,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727723688,
+        "url": "http://redirect.cvrve.me/892874961963ec2efd91",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, CIS Privacy and Security",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a52c32f2-7d3c-46ac-8fe2-3a46afcda61d",
+        "date_posted": 1727723688,
+        "company_url": "",
+        "is_visible": true
     }
 ]
