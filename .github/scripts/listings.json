@@ -22229,5 +22229,23 @@
         "date_posted": 1727729923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729983,
+        "url": "http://redirect.cvrve.me/717a682633e1ef15cd08",
+        "locations": [
+            "Carmel, IN",
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MISO",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9670757e-4c8f-4297-842e-92c3b383aacc",
+        "date_posted": 1727729983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
