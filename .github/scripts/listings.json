@@ -21870,5 +21870,22 @@
         "date_posted": 1727724390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727724403,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/USA-Indiana-Technical-Center/Embedded-Software-Intern_J000671905",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Embedded Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8a9edee-3508-4552-8676-3a6d3b89d72d",
+        "date_posted": 1727724403,
+        "company_url": "",
+        "is_visible": true
     }
 ]
