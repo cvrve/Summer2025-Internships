@@ -22212,5 +22212,22 @@
         "date_posted": 1727729755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729923,
+        "url": "http://redirect.cvrve.me/a1fd600672d6400e3dd2",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acord",
+        "title": "Generative AI IT Summer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "177f1328-974d-40f7-9a76-ed972f249215",
+        "date_posted": 1727729923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
