@@ -22104,5 +22104,23 @@
         "date_posted": 1727729022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727729055,
+        "url": "http://redirect.cvrve.me/5370f2f43852c9fbd480",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Embedded Software/Firmware Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d9f6070-8a72-42ba-b9c9-f29bd5f4b486",
+        "date_posted": 1727729055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
