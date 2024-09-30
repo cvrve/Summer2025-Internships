@@ -21451,5 +21451,22 @@
         "date_posted": 1727689064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727689095,
+        "url": "http://redirect.cvrve.me/b84735ed9a1842a3b26a",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Yield Optimization Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e0152999-4412-48bc-bf6c-19c29c529207",
+        "date_posted": 1727689095,
+        "company_url": "",
+        "is_visible": true
     }
 ]
