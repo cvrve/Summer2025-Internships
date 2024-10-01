@@ -22576,5 +22576,22 @@
         "date_posted": 1727735322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727770498,
+        "url": "http://redirect.cvrve.me/f4949113c1ffe140703d",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3dd059ce-e8cc-4aa9-9e84-86d341696dce",
+        "date_posted": 1727770498,
+        "company_url": "",
+        "is_visible": true
     }
 ]
