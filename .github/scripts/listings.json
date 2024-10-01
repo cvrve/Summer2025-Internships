@@ -22593,5 +22593,23 @@
         "date_posted": 1727770498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727825439,
+        "url": "http://redirect.cvrve.me/ec0d80de9ccd128f8157",
+        "locations": [
+            "Remote, US",
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Khan Academy",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "cd4ef6f6-78e5-4eaa-988c-26308a240005",
+        "date_posted": 1727825439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
