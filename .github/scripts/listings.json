@@ -22679,5 +22679,22 @@
         "date_posted": 1727826438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727826470,
+        "url": "http://redirect.cvrve.me/ed9a313abf7c4cfc9a94",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Grey",
+        "title": "Software Applications Co-op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "3b8fcad9-3620-45b5-aa6d-e860aeebe08a",
+        "date_posted": 1727826470,
+        "company_url": "",
+        "is_visible": true
     }
 ]
