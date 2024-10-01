@@ -22662,5 +22662,22 @@
         "date_posted": 1727825976,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727826438,
+        "url": "http://redirect.cvrve.me/ac49f4d1b6850f40526a",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Grey",
+        "title": "Software UIUX Co-Op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "7684074a-4132-4d0c-972e-ac5a82f15b2e",
+        "date_posted": 1727826438,
+        "company_url": "",
+        "is_visible": true
     }
 ]
