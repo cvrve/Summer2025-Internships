@@ -22628,5 +22628,22 @@
         "date_posted": 1727825457,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727825956,
+        "url": "http://redirect.cvrve.me/73944a1ee8a76f4a096a",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Yahoo",
+        "title": "Software Engineering Internships",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "332e2e90-6cb9-41e7-89bf-6e9352609e75",
+        "date_posted": 1727825956,
+        "company_url": "",
+        "is_visible": true
     }
 ]
