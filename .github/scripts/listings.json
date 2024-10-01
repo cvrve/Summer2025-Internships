@@ -22713,5 +22713,22 @@
         "date_posted": 1727826495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727826533,
+        "url": "http://redirect.cvrve.me/72dedc8be17dfaf8376b",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b78dfa83-47cd-4d5d-8d1e-00a2fa488f9b",
+        "date_posted": 1727826533,
+        "company_url": "",
+        "is_visible": true
     }
 ]
