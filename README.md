@@ -79,6 +79,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Microsoft | Explore Program Intern | Redmond, WA | <a href="http://redirect.cvrve.me/f4949113c1ffe140703d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
+| KKR | 2025 Technology Summer Intern | New York, NY | <a href="http://redirect.cvrve.me/9fe35cd1ef620d82d44b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Khan Academy | Software Engineer Intern | Remote, US</br>Remote, Canada | <a href="http://redirect.cvrve.me/ec0d80de9ccd128f8157?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Zoox | Enterprise Data Governance Intern | Foster City, CA | <a href="http://redirect.cvrve.me/3bf33739e234611c2f72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Test Automation Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/46bfd4d0738919d80dd9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
