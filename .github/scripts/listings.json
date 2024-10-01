@@ -22611,5 +22611,22 @@
         "date_posted": 1727825439,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727825457,
+        "url": "http://redirect.cvrve.me/9fe35cd1ef620d82d44b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "KKR",
+        "title": "2025 Technology Summer Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "3ec9b9e8-baca-40e1-9f98-cd6d6ccc116c",
+        "date_posted": 1727825457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
