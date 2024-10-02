@@ -23026,5 +23026,25 @@
         "date_posted": 1727839262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727839338,
+        "url": "http://redirect.cvrve.me/ee3507f70ed2c36e9816",
+        "locations": [
+            "Lincoln, NE",
+            "Madison, WI",
+            "Centennial, CO",
+            "Sidney, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "IT Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5e7ac23f-bfce-4410-ac79-1abff9cfc503",
+        "date_posted": 1727839338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
