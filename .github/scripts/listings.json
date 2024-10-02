@@ -22990,5 +22990,22 @@
         "date_posted": 1727839070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727839123,
+        "url": "http://redirect.cvrve.me/0c81e8ea914922727202",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d99a744f-9c74-4319-b0a2-fac1540ca376",
+        "date_posted": 1727839123,
+        "company_url": "",
+        "is_visible": true
     }
 ]
