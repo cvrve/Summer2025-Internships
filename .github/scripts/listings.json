@@ -23148,5 +23148,22 @@
         "date_posted": 1727844483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727844500,
+        "url": "http://redirect.cvrve.me/2dde34a5e4bbdf4b8be9",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Full Stack Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62310618-010b-4e48-a650-baa31b240b95",
+        "date_posted": 1727844500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
