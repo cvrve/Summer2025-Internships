@@ -22801,5 +22801,22 @@
         "date_posted": 1727828983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727830026,
+        "url": "http://redirect.cvrve.me/0a73c774a3c65baa7e5c",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "65d85620-f471-47aa-a6e4-b50bdf341d30",
+        "date_posted": 1727830026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
