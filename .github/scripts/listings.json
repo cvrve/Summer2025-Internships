@@ -22869,5 +22869,23 @@
         "date_posted": 1727830927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727830954,
+        "url": "http://redirect.cvrve.me/d96fc6e21b837d7a8ce2",
+        "locations": [
+            "Dallas, TX",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwest Airlines",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5980a0b-79a9-486d-9f45-35bb88f01ec4",
+        "date_posted": 1727830954,
+        "company_url": "",
+        "is_visible": true
     }
 ]
