@@ -23097,5 +23097,22 @@
         "date_posted": 1727843960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727844434,
+        "url": "http://redirect.cvrve.me/16023b631702003abf80",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a62d40c9-fd3d-44be-a9c5-62f8a159be9e",
+        "date_posted": 1727844434,
+        "company_url": "",
+        "is_visible": true
     }
 ]
