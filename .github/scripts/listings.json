@@ -22835,5 +22835,22 @@
         "date_posted": 1727830190,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727830878,
+        "url": "http://redirect.cvrve.me/8b2616f93393bb56ecac",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Data Analytics Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f56e8810-6cc3-4284-b8c6-d1f48ab764ac",
+        "date_posted": 1727830878,
+        "company_url": "",
+        "is_visible": true
     }
 ]
