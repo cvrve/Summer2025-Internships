@@ -22921,5 +22921,22 @@
         "date_posted": 1727838641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727838656,
+        "url": "http://redirect.cvrve.me/19deb745694ddf98db59",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SeatGeek",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0eb9eef-d4d5-44ea-9eaa-e782a858e7f3",
+        "date_posted": 1727838656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
