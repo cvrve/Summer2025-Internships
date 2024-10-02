@@ -22938,5 +22938,22 @@
         "date_posted": 1727838656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727838669,
+        "url": "http://redirect.cvrve.me/014fd7589dea93dda3a3",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7d9c26b4-b932-47cb-9654-270e211680b9",
+        "date_posted": 1727838669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
