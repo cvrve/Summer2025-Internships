@@ -80,6 +80,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Yahoo | Software Engineering Internships | United States | <a href="http://redirect.cvrve.me/73944a1ee8a76f4a096a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Western Digital | Software Engineering Intern | Roseville, CA | <a href="http://redirect.cvrve.me/72dedc8be17dfaf8376b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
+| Target | Software Engineer Intern | Brooklyn Park,MN | <a href="http://redirect.cvrve.me/a380ecfd675349f383b7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Splunk | Software Engineer Intern, Frontend | Boulder, CO | <a href="http://redirect.cvrve.me/51345e217b01d0be4911?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Software Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/385983a78c9b6e33102b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Southwest Airlines | Software Engineer Intern | Dallas, TX</br>Remote | <a href="http://redirect.cvrve.me/d96fc6e21b837d7a8ce2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
