@@ -22765,5 +22765,24 @@
         "date_posted": 1727828818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727828895,
+        "url": "http://redirect.cvrve.me/41fee97152e292365b0d",
+        "locations": [
+            "San Francisco, CA",
+            "Durham, NC",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clever",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a711e865-7c10-4a3f-9d84-0921e708e899",
+        "date_posted": 1727828895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
