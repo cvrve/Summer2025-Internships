@@ -74,6 +74,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Berkshire Grey | Software Co-op | Bedford, MA | <a href="http://redirect.cvrve.me/3fe78debd5d209568c5d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Software Applications Co-op | Bedford, MA | <a href="http://redirect.cvrve.me/ed9a313abf7c4cfc9a94?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Software UIUX Co-Op | Bedford, MA | <a href="http://redirect.cvrve.me/ac49f4d1b6850f40526a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
+| Amazon | Reliability Engineer Co-op | North Reading, MA | <a href="http://redirect.cvrve.me/2dbb85a90234756897ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="http://redirect.cvrve.me/c1cdf9a82d99df6f3338?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | ↳ | Video Game Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/aa9689a91e4c13571c87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | NimbleRx | Software Engineer Intern | Redwood City, CA | <a href="http://redirect.cvrve.me/6a129415ad021a586cf5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
