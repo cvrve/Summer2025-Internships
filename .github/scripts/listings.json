@@ -23165,5 +23165,25 @@
         "date_posted": 1727844500,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727904190,
+        "url": "http://redirect.cvrve.me/5ae8e45a11748bae4d8f",
+        "locations": [
+            "New York, NY",
+            "Bellevue, WA",
+            "Los Angeles, CA",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "405178c7-7d16-4a4d-b7e3-7142d93fbc68",
+        "date_posted": 1727904190,
+        "company_url": "",
+        "is_visible": true
     }
 ]
