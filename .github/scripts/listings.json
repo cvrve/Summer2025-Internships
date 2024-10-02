@@ -23185,5 +23185,23 @@
         "date_posted": 1727904190,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727904209,
+        "url": "http://redirect.cvrve.me/2ca21b832f998fae70ae",
+        "locations": [
+            "New York, NY",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "fa16a322-11fe-49a0-ab55-883b70abb19b",
+        "date_posted": 1727904209,
+        "company_url": "",
+        "is_visible": true
     }
 ]
