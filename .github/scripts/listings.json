@@ -23131,5 +23131,22 @@
         "date_posted": 1727844467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727844483,
+        "url": "http://redirect.cvrve.me/e914e389fa94b335e562",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regent",
+        "title": "Vehicle Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9b22d7f7-01d2-42bd-9541-837b6b52a5e6",
+        "date_posted": 1727844483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
