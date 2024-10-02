@@ -23203,5 +23203,25 @@
         "date_posted": 1727904209,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727904225,
+        "url": "http://redirect.cvrve.me/fe2db2c3987a03820009",
+        "locations": [
+            "New York, NY",
+            "Bellevue, WA",
+            "Los Angeles, CA",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "72d656d1-30db-4be2-a29d-d1c149dab6c2",
+        "date_posted": 1727904225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
