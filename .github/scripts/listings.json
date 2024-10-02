@@ -22818,5 +22818,22 @@
         "date_posted": 1727830026,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727830190,
+        "url": "http://redirect.cvrve.me/4305f4f8c86d35992717",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac291092-0779-46c0-9283-e63437263be3",
+        "date_posted": 1727830190,
+        "company_url": "",
+        "is_visible": true
     }
 ]
