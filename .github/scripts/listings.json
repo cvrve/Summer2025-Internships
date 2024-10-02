@@ -22730,5 +22730,23 @@
         "date_posted": 1727826533,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727827780,
+        "url": "http://redirect.cvrve.me/a0607ab7bc0c247959b7",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "27c05021-134c-4f7b-91e1-f332ca92b509",
+        "date_posted": 1727827780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
