@@ -22973,5 +22973,22 @@
         "date_posted": 1727839055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727839070,
+        "url": "http://redirect.cvrve.me/a380ecfd675349f383b7",
+        "locations": [
+            "Brooklyn Park,MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Target",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8db23e29-164b-48ce-9a6f-ac9c3b9bb3ea",
+        "date_posted": 1727839070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
