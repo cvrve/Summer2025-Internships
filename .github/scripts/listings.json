@@ -23589,5 +23589,22 @@
         "date_posted": 1727964129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727964202,
+        "url": "https://careers.viasat.com/jobs/3572",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6786e1d-7334-44d2-a57e-5bcdeb6a79d2",
+        "date_posted": 1727964202,
+        "company_url": "",
+        "is_visible": true
     }
 ]
