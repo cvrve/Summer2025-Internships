@@ -23498,5 +23498,22 @@
         "date_posted": 1727963710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963768,
+        "url": "http://redirect.cvrve.me/829cc62874b5b585e553",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "NI LabVIEW Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "da0b3f63-b519-4f58-a9e1-a4e5bef07f44",
+        "date_posted": 1727963768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
