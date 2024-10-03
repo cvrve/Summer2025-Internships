@@ -23660,5 +23660,22 @@
         "date_posted": 1727980421,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727980485,
+        "url": "http://redirect.cvrve.me/237982efd27c59da595e",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern - Compiler, Annapurna ML",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "5b181b0e-5bbd-497c-ae84-661aaa752d91",
+        "date_posted": 1727980485,
+        "company_url": "",
+        "is_visible": true
     }
 ]
