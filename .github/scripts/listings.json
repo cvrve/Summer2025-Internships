@@ -23361,5 +23361,22 @@
         "date_posted": 1727939217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727939264,
+        "url": "http://redirect.cvrve.me/30a0fb06ae035c00adfa",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reyes Coca-Cola Bottling",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fa7dbd1a-18f5-4ac2-87d8-24c8fb011e96",
+        "date_posted": 1727939264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
