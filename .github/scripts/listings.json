@@ -23694,5 +23694,22 @@
         "date_posted": 1727980506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727980535,
+        "url": "http://redirect.cvrve.me/5f36b37e719bd5cf0cfb",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern - Machine Learning Chip Architect",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "5ebdc4d3-e351-4809-819f-eeaa4e22294c",
+        "date_posted": 1727980535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
