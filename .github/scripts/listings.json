@@ -23242,5 +23242,22 @@
         "date_posted": 1727938133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938173,
+        "url": "http://redirect.cvrve.me/487fc8944e8bde4ae536",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Harmonia",
+        "title": "Software/Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8650351c-65de-406d-8536-7a800afaf065",
+        "date_posted": 1727938173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
