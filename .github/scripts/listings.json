@@ -23344,5 +23344,22 @@
         "date_posted": 1727939178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727939217,
+        "url": "http://redirect.cvrve.me/8aee18976826e84d2819",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reyes Coca-Cola Bottling",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6cb42c93-bea7-4e84-b4a9-df7c59bcb894",
+        "date_posted": 1727939217,
+        "company_url": "",
+        "is_visible": true
     }
 ]
