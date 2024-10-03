@@ -23464,5 +23464,22 @@
         "date_posted": 1727963592,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963666,
+        "url": "http://redirect.cvrve.me/7e89899718baba90fe5f",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McKesson",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "48016b04-dc5d-4fc4-baee-769126d86202",
+        "date_posted": 1727963666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
