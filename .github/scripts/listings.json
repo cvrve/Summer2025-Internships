@@ -23515,5 +23515,23 @@
         "date_posted": 1727963768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963820,
+        "url": "http://redirect.cvrve.me/0edd00797b7f94a96e81",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa7f25b3-1053-4726-86f7-f040b99843ef",
+        "date_posted": 1727963820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
