@@ -23567,5 +23567,27 @@
         "date_posted": 1727964056,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727964129,
+        "url": "https://jobs.bentley.com/job/Huntsville-Summer-2025-Software-Development-Internship-AL-35801/1218704700",
+        "locations": [
+            "Huntsville, AL",
+            "San Diego, CA",
+            "Thomaston, CT",
+            "Covington, LA",
+            "Exton, PA",
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bentley",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f3480942-f737-4c29-bcb0-032b47177d72",
+        "date_posted": 1727964129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
