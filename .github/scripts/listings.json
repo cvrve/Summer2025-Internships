@@ -23533,5 +23533,22 @@
         "date_posted": 1727963820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727964005,
+        "url": "http://redirect.cvrve.me/23a2a349d4653350a604",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Juniper Networks",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "95056a86-b85b-43f7-9e78-6587374ad096",
+        "date_posted": 1727964006,
+        "company_url": "",
+        "is_visible": true
     }
 ]

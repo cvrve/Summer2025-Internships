@@ -84,6 +84,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Science Intern | Niles, IL | <a href="http://redirect.cvrve.me/8aee18976826e84d2819?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Software Developer Intern | Niles, IL | <a href="http://redirect.cvrve.me/bd23546877a74dc63de0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | McKesson | Software Engineering Intern | Irving, TX | <a href="http://redirect.cvrve.me/7e89899718baba90fe5f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| Juniper Networks | Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/23a2a349d4653350a604?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ICR | Software Engineer Intern | Orlando, FL | <a href="http://redirect.cvrve.me/e7ec7323e629834d4b32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | General Motors | Software Engineer Intern 🛂 | Warren, MI | <a href="http://redirect.cvrve.me/d689e95380b1fd1242c9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Draper | Full Stack Web Development Intern | Cambridge, MA | <a href="http://redirect.cvrve.me/b757b8d22df1abfd9ef4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
