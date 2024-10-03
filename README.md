@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Safety Learnings Data Scientist Intern | Foster City, CA | <a href="http://redirect.cvrve.me/754d9f84c5262c60da4d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Worldcoin | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/10b80ba10c831f050bc1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Warner Bros. Discovery | Product Management Intern 🛂 | <details><summary>**4 locations**</summary>New York, NY</br>Bellevue, WA</br>Los Angeles, CA</br>Atlanta, GA</details> | <a href="http://redirect.cvrve.me/fe2db2c3987a03820009?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | ↳ | Data Science Intern 🛂 | New York, NY</br>Bellevue, WA | <a href="http://redirect.cvrve.me/2ca21b832f998fae70ae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
