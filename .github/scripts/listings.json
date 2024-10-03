@@ -23711,5 +23711,22 @@
         "date_posted": 1727980535,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727995063,
+        "url": "http://redirect.cvrve.me/feb1a85cc868b5d1a4fb",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Fleet Infrastructure Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "a7f58595-c53f-41e9-9195-8f194d47a020",
+        "date_posted": 1727995063,
+        "company_url": "",
+        "is_visible": true
     }
 ]
