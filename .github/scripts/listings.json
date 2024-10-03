@@ -23259,5 +23259,22 @@
         "date_posted": 1727938173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938231,
+        "url": "http://redirect.cvrve.me/c9637da7b22adbb01844",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CesiumAstro",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d1f185f3-e8cb-42aa-a071-ceaae3ae7816",
+        "date_posted": 1727938231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
