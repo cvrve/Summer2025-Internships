@@ -23642,5 +23642,23 @@
         "date_posted": 1727964410,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727980421,
+        "url": "http://redirect.cvrve.me/8860a8a2bd2d4479c478",
+        "locations": [
+            "Cupertino, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern - Embedded, Runtime, Storage, System & Performance, Annapurna ML",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "3e84cd62-b5f3-4a32-b8cf-ea6fc9d73984",
+        "date_posted": 1727980421,
+        "company_url": "",
+        "is_visible": true
     }
 ]
