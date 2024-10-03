@@ -23276,5 +23276,22 @@
         "date_posted": 1727938231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938306,
+        "url": "http://redirect.cvrve.me/da97d293d2bd1fdd51bd",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "AI, ML and Computer Vision Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d8114b84-0915-4e0c-ab9f-c1de0e0afba8",
+        "date_posted": 1727938306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
