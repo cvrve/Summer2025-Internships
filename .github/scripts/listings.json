@@ -23293,5 +23293,22 @@
         "date_posted": 1727938306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727938355,
+        "url": "http://redirect.cvrve.me/10b80ba10c831f050bc1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Worldcoin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c35997de-60cd-4387-b800-06227385ea61",
+        "date_posted": 1727938355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
