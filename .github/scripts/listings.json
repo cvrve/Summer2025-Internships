@@ -23481,5 +23481,22 @@
         "date_posted": 1727963666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963710,
+        "url": "http://redirect.cvrve.me/4456e7bafb4de0ab735d",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern - Winter/Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "ceeb1185-ac14-4fff-b1c9-e252cc5b3dc9",
+        "date_posted": 1727963710,
+        "company_url": "",
+        "is_visible": true
     }
 ]
