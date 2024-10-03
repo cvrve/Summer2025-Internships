@@ -23447,5 +23447,22 @@
         "date_posted": 1727963370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963592,
+        "url": "http://redirect.cvrve.me/b757b8d22df1abfd9ef4",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Full Stack Web Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d67aa20d-7d66-4b7f-948e-63647c927f33",
+        "date_posted": 1727963592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
