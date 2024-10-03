@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Viasat | Machine Learning Engineer Intern | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/3572?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | TikTok | Machine Learning Engineer Intern - Masters | Seattle, WA | <a href="http://redirect.cvrve.me/774f4d3bc4dfd28ba449?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | T-Mobile | Software Engineer Intern | Bothell, WA</br>Overland Park, KS | <a href="http://redirect.cvrve.me/6bf33f5434b4738c1bc8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Samsara | Automation Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0edd00797b7f94a96e81?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
