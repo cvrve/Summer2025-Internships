@@ -23677,5 +23677,22 @@
         "date_posted": 1727980485,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727980506,
+        "url": "http://redirect.cvrve.me/fd0c287468162a9fc935",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer - Compiler, Annapurna Labs",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "9a904b2a-f9a7-4a31-b603-813706326807",
+        "date_posted": 1727980506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
