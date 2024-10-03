@@ -23624,5 +23624,23 @@
         "date_posted": 1727964275,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727964410,
+        "url": "https://careers.rivian.com/careers-home/jobs/19371",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Data Science, Engineering & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3c23450c-b65a-46bc-9521-d14fa2c0fcd5",
+        "date_posted": 1727964410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
