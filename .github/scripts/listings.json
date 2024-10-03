@@ -23413,5 +23413,22 @@
         "date_posted": 1727963201,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1727963255,
+        "url": "http://redirect.cvrve.me/84fa74ea2f786acf19a4",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Agilysys",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0d714dd-235d-4dde-91a0-42ede059eb54",
+        "date_posted": 1727963255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
