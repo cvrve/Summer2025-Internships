@@ -78,6 +78,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| T-Mobile | Software Engineer Intern | Bothell, WA</br>Overland Park, KS | <a href="http://redirect.cvrve.me/6bf33f5434b4738c1bc8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Reyes Coca-Cola Bottling | Data Science Intern | Irvine, CA | <a href="http://redirect.cvrve.me/30a0fb06ae035c00adfa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Data Science Intern | Niles, IL | <a href="http://redirect.cvrve.me/8aee18976826e84d2819?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Software Developer Intern | Niles, IL | <a href="http://redirect.cvrve.me/bd23546877a74dc63de0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
