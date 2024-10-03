@@ -83,6 +83,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Science Intern | Niles, IL | <a href="http://redirect.cvrve.me/8aee18976826e84d2819?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Software Developer Intern | Niles, IL | <a href="http://redirect.cvrve.me/bd23546877a74dc63de0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ICR | Software Engineer Intern | Orlando, FL | <a href="http://redirect.cvrve.me/e7ec7323e629834d4b32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| General Motors | Software Engineer Intern 🛂 | Warren, MI | <a href="http://redirect.cvrve.me/d689e95380b1fd1242c9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Agilysys | Software Development Intern | Alpharetta, GA | <a href="http://redirect.cvrve.me/84fa74ea2f786acf19a4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Zoox | Safety Learnings Data Scientist Intern | Foster City, CA | <a href="http://redirect.cvrve.me/754d9f84c5262c60da4d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Worldcoin | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/10b80ba10c831f050bc1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
