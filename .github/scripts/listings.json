@@ -23881,5 +23881,22 @@
         "date_posted": 1728022236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022282,
+        "url": "http://redirect.cvrve.me/bc5f0b546eb02e2d5929",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vail",
+        "title": "C++ Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4adc21d7-0379-4f16-a5af-101f0de96480",
+        "date_posted": 1728022282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
