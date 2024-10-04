@@ -23949,5 +23949,22 @@
         "date_posted": 1728022815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022893,
+        "url": "http://redirect.cvrve.me/1f5968b946d6c8743646",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Systems & Infrastructure Engineering Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "61012846-107c-49a4-ad17-2ae6d2ea8490",
+        "date_posted": 1728022893,
+        "company_url": "",
+        "is_visible": true
     }
 ]
