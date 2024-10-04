@@ -61,6 +61,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waymo | Fleet Infrastructure Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/feb1a85cc868b5d1a4fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Viasat | Machine Learning Engineer Intern | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/3572?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| Vail | C++ Software Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/bc5f0b546eb02e2d5929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | TikTok | Machine Learning Engineer Intern - Masters | Seattle, WA | <a href="http://redirect.cvrve.me/774f4d3bc4dfd28ba449?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | T-Mobile | Software Engineer Intern | Bothell, WA</br>Overland Park, KS | <a href="http://redirect.cvrve.me/6bf33f5434b4738c1bc8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Shield AI | Autonomy Engineering Intern | San Diego, CA | <a href="https://jobs.lever.co/shieldai/a6313529-24f1-4c62-a965-21a366e51580?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
