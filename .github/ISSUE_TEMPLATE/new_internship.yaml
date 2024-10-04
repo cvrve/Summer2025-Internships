@@ -50,8 +50,9 @@ body:
       multiple: false
       options:
         - "Summer"
-        - "Fall"
+        - "Winter"
         - "Spring"
+        - "Fall"
     validations:
       required: true
   - type: dropdown
