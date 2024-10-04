@@ -74,6 +74,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | ↳ | Data Science Intern | Niles, IL | <a href="http://redirect.cvrve.me/8aee18976826e84d2819?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ↳ | Software Developer Intern | Niles, IL | <a href="http://redirect.cvrve.me/bd23546877a74dc63de0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | McKesson | Software Engineering Intern | Irving, TX | <a href="http://redirect.cvrve.me/7e89899718baba90fe5f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
+| Leidos | Embedded Software Engineer Intern | San Diego, CA | <a href="http://redirect.cvrve.me/2cf80aa9fe625c987915?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Juniper Networks | Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/23a2a349d4653350a604?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | ICR | Software Engineer Intern | Orlando, FL | <a href="http://redirect.cvrve.me/e7ec7323e629834d4b32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | IBM | Developer Intern | Austin, TX | <a href="https://careers.ibm.com/job/21104620/developer-intern-austin-tx?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |

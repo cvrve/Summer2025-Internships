@@ -23830,5 +23830,22 @@
         "date_posted": 1728022099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022142,
+        "url": "http://redirect.cvrve.me/2cf80aa9fe625c987915",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0e477358-babb-4d70-a46e-328e90984b52",
+        "date_posted": 1728022142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
