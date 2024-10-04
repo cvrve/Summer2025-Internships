@@ -23864,5 +23864,22 @@
         "date_posted": 1728022184,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022236,
+        "url": "http://redirect.cvrve.me/a4a48dc9a03490e8a117",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineering Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e1b870c9-8517-4942-9dc5-20d768bd1960",
+        "date_posted": 1728022236,
+        "company_url": "",
+        "is_visible": true
     }
 ]
