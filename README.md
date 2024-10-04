@@ -59,6 +59,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Backend Software Engineering Intern | Foster City, CA | <a href="http://redirect.cvrve.me/fd43547242416eb5dc1a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Waymo | Fleet Infrastructure Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/feb1a85cc868b5d1a4fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Viasat | Machine Learning Engineer Intern | Carlsbad, CA | <a href="https://careers.viasat.com/jobs/3572?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Vail | C++ Software Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/bc5f0b546eb02e2d5929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |

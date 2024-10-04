@@ -23898,5 +23898,22 @@
         "date_posted": 1728022282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022654,
+        "url": "http://redirect.cvrve.me/fd43547242416eb5dc1a",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Backend Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2339f375-6158-4c23-b292-d625f442c392",
+        "date_posted": 1728022654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
