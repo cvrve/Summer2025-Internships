@@ -23779,5 +23779,22 @@
         "date_posted": 1728021843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728021989,
+        "url": "http://redirect.cvrve.me/056909b8b105c691dd6b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "Firmware Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed66de83-726e-443d-902e-47b7a210e457",
+        "date_posted": 1728021989,
+        "company_url": "",
+        "is_visible": true
     }
 ]
