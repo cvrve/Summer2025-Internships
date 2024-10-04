@@ -23847,5 +23847,22 @@
         "date_posted": 1728022142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022184,
+        "url": "http://redirect.cvrve.me/6a1109973c2663a6a1dd",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed94d5b4-112d-4eab-9bb9-e11c8819b268",
+        "date_posted": 1728022184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
