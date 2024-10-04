@@ -23762,5 +23762,22 @@
         "date_posted": 1728021816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728021843,
+        "url": "https://jobs.lever.co/shieldai/a6313529-24f1-4c62-a965-21a366e51580",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Autonomy Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "622c43da-e0cb-4e6b-9bbc-aa9b02187891",
+        "date_posted": 1728021843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
