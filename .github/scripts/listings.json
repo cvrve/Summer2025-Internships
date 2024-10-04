@@ -23813,5 +23813,22 @@
         "date_posted": 1728022031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728022099,
+        "url": "https://careers.ibm.com/job/21104620/developer-intern-austin-tx",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bc2cab6e-02ef-4f31-911c-3f6e23c5b975",
+        "date_posted": 1728022099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
