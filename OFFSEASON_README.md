@@ -71,6 +71,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Bae Systems | Cyber/RF Software Development Intern | Merrimack, NH | <a href="http://redirect.cvrve.me/c209a001fdcd12717c8a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/4456e7bafb4de0ab735d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
 | Berkshire Grey | Software Co-op | Bedford, MA | <a href="http://redirect.cvrve.me/3fe78debd5d209568c5d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Software Applications Co-op | Bedford, MA | <a href="http://redirect.cvrve.me/ed9a313abf7c4cfc9a94?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |

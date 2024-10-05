@@ -23966,5 +23966,22 @@
         "date_posted": 1728022893,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728096948,
+        "url": "http://redirect.cvrve.me/c209a001fdcd12717c8a",
+        "locations": [
+            "Merrimack, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bae Systems",
+        "title": "Cyber/RF Software Development Intern",
+        "season": "Winter",
+        "source": "cvrve-bot",
+        "id": "8e1e150b-2871-46c6-b581-5a34af3e8fcb",
+        "date_posted": 1728096948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
