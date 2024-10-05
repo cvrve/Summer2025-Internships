@@ -24450,5 +24450,24 @@
         "date_posted": 1728103039,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103158,
+        "url": "http://redirect.cvrve.me/173fa0c753228eff71e3?utm_source=ouckah",
+        "locations": [
+            "Santa Monica, CA",
+            "Seattle, WA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snap",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b1da4e7f-c961-4182-ae8c-d8b198a3c4a9",
+        "date_posted": 1728103158,
+        "company_url": "",
+        "is_visible": true
     }
 ]
