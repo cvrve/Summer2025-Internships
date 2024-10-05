@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Python Backend Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/52f1fe59d3be2855020d?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | StoneX | Software Developer Intern | Warren, NJ | <a href="http://redirect.cvrve.me/383044bf0234a7550979?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Skyryse | Software Engineering Intern | El Segundo, CA | <a href="http://redirect.cvrve.me/1effcce578859da10cb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Shield AI | Software Engineering Intern | Dallas, TX | <a href="http://redirect.cvrve.me/f370098aa9e77964cef9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
