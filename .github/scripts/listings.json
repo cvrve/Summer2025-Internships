@@ -24486,5 +24486,22 @@
         "date_posted": 1728104152,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728104410,
+        "url": "http://redirect.cvrve.me/cd4a4e62597d23742927?utm_source=ouckah",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d660006-527b-4659-909f-768142baee5f",
+        "date_posted": 1728104410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
