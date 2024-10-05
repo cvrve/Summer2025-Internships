@@ -24052,5 +24052,23 @@
         "date_posted": 1728097766,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728097804,
+        "url": "http://redirect.cvrve.me/f6b625d2d5fe8cf5623d",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6914f89f-f6a5-49d7-b05d-1d581e20ab83",
+        "date_posted": 1728097804,
+        "company_url": "",
+        "is_visible": true
     }
 ]
