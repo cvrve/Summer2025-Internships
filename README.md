@@ -60,6 +60,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | StoneX | Software Developer Intern | Warren, NJ | <a href="http://redirect.cvrve.me/383044bf0234a7550979?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| Skyryse | Software Engineering Intern | El Segundo, CA | <a href="http://redirect.cvrve.me/1effcce578859da10cb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Northmarq | IT Software Engineer Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/9d8db23684e0b88e6280?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Lumen | UI Web Developer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/a60d3c91ae99e3c3fc8a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | ↳ | Cloud and Automation Engineer Intern | Denver, CO | <a href="http://redirect.cvrve.me/36da9ccde364ddf85a00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
