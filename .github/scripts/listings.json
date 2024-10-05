@@ -24520,5 +24520,23 @@
         "date_posted": 1728109282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728156228,
+        "url": "http://redirect.cvrve.me/ab0753001327edc3f4b6?utm_source=ouckah",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Commercialization TaaS Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4baeff09-276c-4a36-ad6d-7570f5d37003",
+        "date_posted": 1728156228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
