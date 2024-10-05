@@ -24087,5 +24087,23 @@
         "date_posted": 1728097850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728097894,
+        "url": "http://redirect.cvrve.me/a60d3c91ae99e3c3fc8a",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "UI Web Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c50fdc53-2dc9-4981-9724-08e2c24b2d09",
+        "date_posted": 1728097894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
