@@ -24433,5 +24433,22 @@
         "date_posted": 1728102960,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728103039,
+        "url": "http://redirect.cvrve.me/b1bbe5481b50fa5f4fa9?utm_source=ouckah",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Textron",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bb823e73-22c4-45e2-b6df-708b7e7b6232",
+        "date_posted": 1728103039,
+        "company_url": "",
+        "is_visible": true
     }
 ]
