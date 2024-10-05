@@ -1,11 +1,13 @@
-# Spring & Fall 2025 Tech Internships by Ouckah & CSCareers (inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships))
+# Spring & Fall 2025 Tech Internships by Ouckah & Cvrve
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Spring & Fall 2025**. The list is maintained collaboratively by [CSCareers](https://discord.gg/cscareers)!
+The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Spring & Fall 2025**. The list is maintained collaboratively by [cvrve](https://cvrve.me) and [CSCareers](https://discord.gg/cscareers)!
 
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+
+This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
 ---
 <div align="center">
