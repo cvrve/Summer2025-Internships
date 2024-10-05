@@ -24262,5 +24262,22 @@
         "date_posted": 1728099746,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728099813,
+        "url": "http://redirect.cvrve.me/24aa24c3f4a852996c20?utm_source=ouckah",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e589b731-6de8-40db-82e8-a56b66d6f9d6",
+        "date_posted": 1728099813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
