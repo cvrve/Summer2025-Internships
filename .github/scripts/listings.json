@@ -24105,5 +24105,22 @@
         "date_posted": 1728097894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728098025,
+        "url": "http://redirect.cvrve.me/9d8db23684e0b88e6280",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northmarq",
+        "title": "IT Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b8144b48-a931-4ade-b8b7-3eec80fb6608",
+        "date_posted": 1728098025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
