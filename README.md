@@ -60,7 +60,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | StoneX | Software Developer Intern | Warren, NJ | <a href="http://redirect.cvrve.me/383044bf0234a7550979?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
-| Lumen | Software Developer Intern | Denver, CO | <a href="http://redirect.cvrve.me/2bb0f4498f10c8496c95?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| Lumen | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f6b625d2d5fe8cf5623d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| ↳ | Software Developer Intern | Denver, CO | <a href="http://redirect.cvrve.me/2bb0f4498f10c8496c95?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | H&CO | Software Developer Intern | United States | <a href="http://redirect.cvrve.me/5bf4276209d569e6a097?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | EA | Software Engineer Intern | Seattle, WA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/fb16d94e2ceb7ded5a39?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Zoox | ML Sensor Simulation Software Engineer Internship/Co-op | Foster City, CA | <a href="http://redirect.cvrve.me/1728c5f4be031c55a0a2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
