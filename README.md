@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Waymo | Commercialization TaaS Intern | Mountain View, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/ab0753001327edc3f4b6?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Zoox | CLAMS HD Mapping Intern | Foster City, CA | <a href="http://redirect.cvrve.me/2e14662812a0a61a2b9d?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | ↳ | Python Backend Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/52f1fe59d3be2855020d?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Textron | Software Engineer Intern | Wilmington, MA | <a href="http://redirect.cvrve.me/b1bbe5481b50fa5f4fa9?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
