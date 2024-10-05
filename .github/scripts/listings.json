@@ -24227,5 +24227,22 @@
         "date_posted": 1728099411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728099457,
+        "url": "https://jobs.lumen.com/global/en/job/335189",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Mobile Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8144ded3-e62f-406c-9f0b-48509396ea35",
+        "date_posted": 1728099457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
