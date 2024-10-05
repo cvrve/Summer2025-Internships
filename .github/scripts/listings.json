@@ -24347,5 +24347,22 @@
         "date_posted": 1728100121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728100182,
+        "url": "http://redirect.cvrve.me/3d5a41e0b452970bf517?utm_source=ouckah",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Black & Veatch",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a09a6b7a-64da-484d-b89c-377009ad8c39",
+        "date_posted": 1728100182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
