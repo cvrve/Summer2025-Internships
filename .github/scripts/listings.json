@@ -24193,5 +24193,22 @@
         "date_posted": 1728098487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728099351,
+        "url": "http://redirect.cvrve.me/205149ebf6f7434d9a92",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockton",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9ee3aeee-e412-4a36-984a-3e8c42af1f40",
+        "date_posted": 1728099351,
+        "company_url": "",
+        "is_visible": true
     }
 ]
