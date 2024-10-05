@@ -24313,5 +24313,22 @@
         "date_posted": 1728099975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728100050,
+        "url": "http://redirect.cvrve.me/2e14662812a0a61a2b9d?utm_source=ouckah",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "CLAMS HD Mapping Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f7f5c727-d802-4516-8338-ce5bc305b19e",
+        "date_posted": 1728100050,
+        "company_url": "",
+        "is_visible": true
     }
 ]
