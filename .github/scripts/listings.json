@@ -24122,5 +24122,22 @@
         "date_posted": 1728098025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728098064,
+        "url": "http://redirect.cvrve.me/1effcce578859da10cb2",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "81632ef4-0682-4474-a72f-b3bcae75a5e8",
+        "date_posted": 1728098064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
