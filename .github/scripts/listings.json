@@ -19242,7 +19242,7 @@
             "Omaha, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAIC",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -20241,7 +20241,7 @@
             "Madison, WI",
             "Centennial, CO"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Nelnet",
         "title": "Software Engineer Intern",
@@ -20385,7 +20385,7 @@
             "Menasha, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FTI",
         "title": "Software Developer Intern",
         "season": "Summer",
