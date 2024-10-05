@@ -24503,5 +24503,22 @@
         "date_posted": 1728104410,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728109282,
+        "url": "http://redirect.cvrve.me/dffb78171f9b6cc7a6ca?utm_source=ouckah",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Haize Labs",
+        "title": "Research Intern - Winter/Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "6937f3fc-39f8-4e23-ae89-9e6e758bffc0",
+        "date_posted": 1728109282,
+        "company_url": "",
+        "is_visible": true
     }
 ]

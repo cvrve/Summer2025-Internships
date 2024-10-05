@@ -74,6 +74,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Stably - YC W22 | Full Stack Engineer Co-Op Intern - Fall/Spring | Remote | <a href="http://redirect.cvrve.me/01debba250b573f59c2c?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| Haize Labs | Research Intern - Winter/Spring | New York, NY | <a href="http://redirect.cvrve.me/dffb78171f9b6cc7a6ca?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | BMW Group | Augmented Reality Engineer | Mountain View, CA | <a href="http://redirect.cvrve.me/d3a90640e19a6660428e?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Bae Systems | Cyber/RF Software Development Intern | Merrimack, NH | <a href="http://redirect.cvrve.me/c209a001fdcd12717c8a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/4456e7bafb4de0ab735d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 03 |
