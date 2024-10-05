@@ -24398,5 +24398,23 @@
         "date_posted": 1728100337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728102864,
+        "url": "http://redirect.cvrve.me/8d7c6371151061f0dfe0?utm_source=ouckah",
+        "locations": [
+            "Chicago, IL",
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "IT Data Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "02c641a4-ab1a-45bd-a7b9-2a7887218cf6",
+        "date_posted": 1728102864,
+        "company_url": "",
+        "is_visible": true
     }
 ]
