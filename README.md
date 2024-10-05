@@ -1,4 +1,4 @@
-# Summer 2025 Tech Internships by Ouckah & Cvrve (inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships))
+# Summer 2025 Tech Internships by Ouckah & Cvrve 
 
 The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025**. The list is maintained collaboratively by [cvrve](https://cvrve.me) and [CSCareers](https://discord.gg/cscareers)!
 
@@ -6,21 +6,7 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 🙏 **Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
----
-<div align="center">
-	<h3>😮‍💨 Want a spreadsheet to keep track of your applications? 😩</h3>
-	<p>
-			We also have a ⬇️ <strong>Ouckah spreadsheet</strong> ⬇️ where you can keep track of your processes, and generate a Sankey Diagram out of them!
-			<br>
-			<div>
-  			<a href="https://docs.google.com/spreadsheets/d/1F7P3qVb8OLyy_tnA9LNKzF5iGTd9tZBjePP-HmX4PCI/edit#gid=0">
-            <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" width="100" alt="Email">
-        </a>
-        <h3>Click above!</h3>
-			</div>
-	</p>
-</div>
-
+This repo is inspired by ([Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships))
 ---
 
 <div align="center">
