@@ -24330,5 +24330,22 @@
         "date_posted": 1728100050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728100121,
+        "url": "http://redirect.cvrve.me/eb30e54cdd8c7eb5d43f?utm_source=ouckah",
+        "locations": [
+            "Bloomfield, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Labcorp",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ea7cb6dc-69b2-442a-9441-fd9dbc40ac17",
+        "date_posted": 1728100121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
