@@ -24279,5 +24279,22 @@
         "date_posted": 1728099813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728099895,
+        "url": "http://redirect.cvrve.me/2ff9b41e072eae562410?utm_source=ouckah",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cd7f771e-5657-4270-b2a9-ab03c4ba6f8b",
+        "date_posted": 1728099895,
+        "company_url": "",
+        "is_visible": true
     }
 ]
