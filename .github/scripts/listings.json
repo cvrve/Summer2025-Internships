@@ -24139,5 +24139,25 @@
         "date_posted": 1728098064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728098127,
+        "url": "http://redirect.cvrve.me/641c8e413fcee616f7d9",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA",
+            "New York, NY",
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb35b58e-f160-4b01-8195-70d9aa1f5089",
+        "date_posted": 1728098127,
+        "company_url": "",
+        "is_visible": true
     }
 ]
