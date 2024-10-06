@@ -24574,5 +24574,25 @@
         "date_posted": 1728206791,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728206853,
+        "url": "http://redirect.cvrve.me/4b21945f5fef50c785f0?utm_source=ouckah",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer \u2013 Large Scale Language Models Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62709401-4d48-4adf-b5dd-10527dc5d24e",
+        "date_posted": 1728206853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
