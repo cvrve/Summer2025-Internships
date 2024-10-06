@@ -24771,5 +24771,22 @@
         "date_posted": 1728209478,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728209546,
+        "url": "http://redirect.cvrve.me/eb3d39f7186332c91ab2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Flight Systems Integration Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "830083a9-a3bf-4ac4-a07a-7dcd0d39437f",
+        "date_posted": 1728209546,
+        "company_url": "",
+        "is_visible": true
     }
 ]
