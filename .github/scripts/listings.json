@@ -24594,5 +24594,25 @@
         "date_posted": 1728206853,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728206918,
+        "url": "http://redirect.cvrve.me/3f078629203a918f2e09?utm_source=ouckah",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer \u2013 AI-powered Automation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c59b16b0-402c-49ee-8b5e-35097ace6942",
+        "date_posted": 1728206918,
+        "company_url": "",
+        "is_visible": true
     }
 ]
