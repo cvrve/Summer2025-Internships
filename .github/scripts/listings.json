@@ -24634,5 +24634,23 @@
         "date_posted": 1728206950,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728206995,
+        "url": "http://redirect.cvrve.me/6bf87fb4373aecc09fdb?utm_source=ouckah",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Data Migration and Integration Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "da98557b-b1ce-49b2-bcc9-ed645d8ed35a",
+        "date_posted": 1728206995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
