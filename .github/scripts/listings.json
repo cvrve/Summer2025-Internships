@@ -24520,5 +24520,222 @@
         "date_posted": 1728109282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728156228,
+        "url": "http://redirect.cvrve.me/ab0753001327edc3f4b6?utm_source=ouckah",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Commercialization TaaS Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4baeff09-276c-4a36-ad6d-7570f5d37003",
+        "date_posted": 1728156228,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206580,
+        "url": "http://redirect.cvrve.me/2e496523509c8933bccf?utm_source=ouckah",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Usage AI",
+        "title": "Software Engineer Intern, Automation",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91bbb628-508d-4732-b9dd-7071a137af71",
+        "date_posted": 1728206580,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206791,
+        "url": "http://redirect.cvrve.me/7145e0d6bea0e69cb6d2?utm_source=ouckah",
+        "locations": [
+            "Jersey City, NJ",
+            "Boston, MA",
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brown Brothers Harriman",
+        "title": "Application Development & Business Analysis",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "309b72a8-a8e5-4b76-931c-942f4e94fbf3",
+        "date_posted": 1728206791,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206853,
+        "url": "http://redirect.cvrve.me/4b21945f5fef50c785f0?utm_source=ouckah",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer \u2013 Large Scale Language Models Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62709401-4d48-4adf-b5dd-10527dc5d24e",
+        "date_posted": 1728206853,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206918,
+        "url": "http://redirect.cvrve.me/3f078629203a918f2e09?utm_source=ouckah",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer \u2013 AI-powered Automation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c59b16b0-402c-49ee-8b5e-35097ace6942",
+        "date_posted": 1728206918,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206950,
+        "url": "http://redirect.cvrve.me/4b282b3d82508624b8f3?utm_source=ouckah",
+        "locations": [
+            "Yorktown Heights, NY",
+            "San Jose, CA",
+            "Cambridge, MA",
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer \u2013 Semiconductor Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8527ced7-4766-4cf5-a847-84bf4e24b7f7",
+        "date_posted": 1728206950,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728206995,
+        "url": "http://redirect.cvrve.me/6bf87fb4373aecc09fdb?utm_source=ouckah",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Data Migration and Integration Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "da98557b-b1ce-49b2-bcc9-ed645d8ed35a",
+        "date_posted": 1728206995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728207065,
+        "url": "http://redirect.cvrve.me/d1d2084b23bc877e2901?utm_source=ouckah",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5868af63-829c-4c33-a5ea-4bc2c313405e",
+        "date_posted": 1728207065,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728207097,
+        "url": "http://redirect.cvrve.me/554e28cf612430ff0115?utm_source=ouckah",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Applied Scientist Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e166e53d-f820-43e0-9894-ab58cede3d34",
+        "date_posted": 1728207097,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728207156,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2025-technology-internship-software-engineer&jobCode=IVS-0012690",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce1f4807-ba05-4e8c-abdf-12fba117d866",
+        "date_posted": 1728207156,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728207302,
+        "url": "http://redirect.cvrve.me/1ccaaa466582ab8769c8?utm_source=ouckah",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ASIC Design Verification Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "29c0c99b-4b49-479f-9b3d-435a946b69df",
+        "date_posted": 1728207302,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728207581,
+        "url": "http://redirect.cvrve.me/cd55a8db89b36453fb98?utm_source=ouckah",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walgreens",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9f031534-91b3-4c55-9a07-ccde886ce7d6",
+        "date_posted": 1728207581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
