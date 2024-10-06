@@ -24686,5 +24686,22 @@
         "date_posted": 1728207097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728207156,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2025-technology-internship-software-engineer&jobCode=IVS-0012690",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce1f4807-ba05-4e8c-abdf-12fba117d866",
+        "date_posted": 1728207156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
