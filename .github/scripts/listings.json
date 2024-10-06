@@ -24754,5 +24754,22 @@
         "date_posted": 1728208551,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728209478,
+        "url": "http://redirect.cvrve.me/891ace4d83d69e602be2",
+        "locations": [
+            "Eddyville, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WACKER",
+        "title": "Production Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "be872e7f-377f-4574-b887-375397ade5a7",
+        "date_posted": 1728209478,
+        "company_url": "",
+        "is_visible": true
     }
 ]
