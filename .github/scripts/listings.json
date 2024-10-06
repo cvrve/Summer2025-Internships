@@ -24824,5 +24824,22 @@
         "date_posted": 1728220254,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728220377,
+        "url": "http://redirect.cvrve.me/957b4b27b14b30c349b9",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "AI-Driven Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd772652-3b21-440b-8da7-a858b9b43ebc",
+        "date_posted": 1728220377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
