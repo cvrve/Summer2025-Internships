@@ -24909,5 +24909,22 @@
         "date_posted": 1728220916,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728221100,
+        "url": "http://redirect.cvrve.me/d42d61aab7e04c3d04bb",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Systems Test Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aaa13aae-ddfc-4138-b20d-71897c2a25ac",
+        "date_posted": 1728221100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
