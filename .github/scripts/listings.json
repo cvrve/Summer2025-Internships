@@ -24737,5 +24737,22 @@
         "date_posted": 1728207581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728208551,
+        "url": "http://redirect.cvrve.me/e0a2bee3d4b6bfb92dd1",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "52e94375-1c0e-4127-aea2-3d17b3adc2c2",
+        "date_posted": 1728208551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
