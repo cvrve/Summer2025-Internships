@@ -24806,5 +24806,23 @@
         "date_posted": 1728220212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728220254,
+        "url": "http://redirect.cvrve.me/7a96cde83290a98081c1",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snackpass",
+        "title": "Software Engineer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "7ba7d43c-60b4-4c1e-a89a-f911ff2d47bd",
+        "date_posted": 1728220254,
+        "company_url": "",
+        "is_visible": true
     }
 ]
