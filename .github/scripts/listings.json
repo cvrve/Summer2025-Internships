@@ -24703,5 +24703,22 @@
         "date_posted": 1728207156,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728207302,
+        "url": "http://redirect.cvrve.me/1ccaaa466582ab8769c8?utm_source=ouckah",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ASIC Design Verification Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "29c0c99b-4b49-479f-9b3d-435a946b69df",
+        "date_posted": 1728207302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
