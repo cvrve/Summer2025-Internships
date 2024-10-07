@@ -25114,5 +25114,22 @@
         "date_posted": 1728335349,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728335397,
+        "url": "http://redirect.cvrve.me/01a686fee32c4fd598dc",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "33b8fbfb-225d-49df-860d-f844d6614b01",
+        "date_posted": 1728335397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
