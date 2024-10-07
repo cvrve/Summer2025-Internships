@@ -25235,5 +25235,24 @@
         "date_posted": 1728336263,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728336376,
+        "url": "http://redirect.cvrve.me/85218813411c654957c3",
+        "locations": [
+            "Santa Monica, CA",
+            "Burbank, CA",
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b79aa8c3-7a87-4ee6-a72d-8fb1adf1c2fa",
+        "date_posted": 1728336376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
