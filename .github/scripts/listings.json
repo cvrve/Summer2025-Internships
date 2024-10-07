@@ -25200,5 +25200,22 @@
         "date_posted": 1728336099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728336220,
+        "url": "http://redirect.cvrve.me/dfd008b772e55ab27ee2",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fba78170-f2d0-439c-a160-d6b677b76af4",
+        "date_posted": 1728336220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
