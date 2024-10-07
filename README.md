@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| LinkedIn | Associate Product Manager Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/0f54bde539b32d1dcd5b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Google | Technical Program Manager Intern | Multiple Locations | <a href="http://redirect.cvrve.me/5d065eeb3d08711ad076?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Walgreens | Software Engineer Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/cd55a8db89b36453fb98?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | WACKER | Production Development Engineer Intern | Eddyville, IA | <a href="http://redirect.cvrve.me/891ace4d83d69e602be2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |

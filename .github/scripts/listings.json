@@ -24943,5 +24943,22 @@
         "date_posted": 1728334002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728334069,
+        "url": "http://redirect.cvrve.me/0f54bde539b32d1dcd5b",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Associate Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c9e69c6b-b16f-4351-b0fb-782e8523bcbb",
+        "date_posted": 1728334069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
