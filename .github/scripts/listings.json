@@ -25063,5 +25063,22 @@
         "date_posted": 1728335121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728335211,
+        "url": "http://redirect.cvrve.me/60dc4823503bb5180acd",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WeRide",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "da71824a-4241-4846-b67c-8eaff60cff01",
+        "date_posted": 1728335211,
+        "company_url": "",
+        "is_visible": true
     }
 ]

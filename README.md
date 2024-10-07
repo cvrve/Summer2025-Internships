@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| WeRide | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/60dc4823503bb5180acd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Sephora | Digital Technology Intern | Remote</br>US | <a href="http://redirect.cvrve.me/dc35815266820059dd16?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | NBA | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/95fecc6bfe5f800724c1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Technology & Data Intern | New York, NY | <a href="http://redirect.cvrve.me/3767ac6591dcd6fc598b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
