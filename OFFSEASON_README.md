@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Applied Materials | AI/ML Co-op | Gloucester,MA | <a href="http://redirect.cvrve.me/92d093949fc2b698e777?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Snackpass | Software Engineer Intern | San Francisco, CA</br>Remote | <a href="http://redirect.cvrve.me/7a96cde83290a98081c1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Stably - YC W22 | Full Stack Engineer Co-Op Intern - Fall/Spring | Remote | <a href="http://redirect.cvrve.me/01debba250b573f59c2c?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Haize Labs | Research Intern - Winter/Spring | New York, NY | <a href="http://redirect.cvrve.me/dffb78171f9b6cc7a6ca?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
