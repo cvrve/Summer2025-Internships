@@ -25097,5 +25097,22 @@
         "date_posted": 1728335275,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728335349,
+        "url": "http://redirect.cvrve.me/aa18b4bdd05977872c08",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Telesat",
+        "title": "Software Engineering Coop",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c39482f-4e6e-40ab-94e3-5bb91ad20324",
+        "date_posted": 1728335349,
+        "company_url": "",
+        "is_visible": true
     }
 ]
