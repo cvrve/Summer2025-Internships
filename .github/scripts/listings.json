@@ -24995,5 +24995,22 @@
         "date_posted": 1728334788,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728334841,
+        "url": "http://redirect.cvrve.me/3767ac6591dcd6fc598b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBA",
+        "title": "Technology & Data Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9dea4ff3-c732-4cb9-b52d-7627a028cce8",
+        "date_posted": 1728334841,
+        "company_url": "",
+        "is_visible": true
     }
 ]
