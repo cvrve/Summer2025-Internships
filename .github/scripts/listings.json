@@ -25217,5 +25217,23 @@
         "date_posted": 1728336220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728336263,
+        "url": "http://redirect.cvrve.me/fe488bd9597e5ab8c706",
+        "locations": [
+            "Orlando, FL",
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ec6c97ff-2725-4a67-9a46-a3bcc54ef452",
+        "date_posted": 1728336263,
+        "company_url": "",
+        "is_visible": true
     }
 ]
