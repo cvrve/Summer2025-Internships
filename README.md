@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | WeRide | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/60dc4823503bb5180acd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Telesat | Software Engineering Coop | Ottawa, Canada | <a href="http://redirect.cvrve.me/aa18b4bdd05977872c08?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Sephora | Digital Technology Intern | Remote</br>US | <a href="http://redirect.cvrve.me/dc35815266820059dd16?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
+| Santander | Data Science Intern | Boston, MA | <a href="http://redirect.cvrve.me/01a686fee32c4fd598dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | NBA | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/95fecc6bfe5f800724c1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Technology & Data Intern | New York, NY | <a href="http://redirect.cvrve.me/3767ac6591dcd6fc598b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Data Intern | New York, NY | <a href="http://redirect.cvrve.me/1f1e8f6fed5f88ac6ea3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
