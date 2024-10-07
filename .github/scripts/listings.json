@@ -25046,5 +25046,22 @@
         "date_posted": 1728335057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728335121,
+        "url": "http://redirect.cvrve.me/92d093949fc2b698e777",
+        "locations": [
+            "Gloucester,MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "AI/ML Co-op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "f4456d48-40f1-4a42-9537-dfa9d28b04d0",
+        "date_posted": 1728335121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
