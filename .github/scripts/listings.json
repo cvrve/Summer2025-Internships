@@ -25463,5 +25463,23 @@
         "date_posted": 1728337493,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728337579,
+        "url": "http://redirect.cvrve.me/3ff5a9c52a9e91d4d858",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Supply Chain ML/AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "01c4ce76-e436-4d5f-b29c-883e82eeb009",
+        "date_posted": 1728337579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
