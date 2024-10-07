@@ -25481,5 +25481,22 @@
         "date_posted": 1728337579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728337762,
+        "url": "http://redirect.cvrve.me/68e14a672a5d806c0b80",
+        "locations": [
+            "Hemlock, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HSC",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dfc3ab62-1e5a-446b-95a1-b44918bb3483",
+        "date_posted": 1728337762,
+        "company_url": "",
+        "is_visible": true
     }
 ]
