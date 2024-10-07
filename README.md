@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NBA | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/95fecc6bfe5f800724c1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Technology & Data Intern | New York, NY | <a href="http://redirect.cvrve.me/3767ac6591dcd6fc598b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Data Intern | New York, NY | <a href="http://redirect.cvrve.me/1f1e8f6fed5f88ac6ea3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
+| Loop | Software Engineer Intern | Columbus, OH | <a href="http://redirect.cvrve.me/c33a759bef73f013478f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | LinkedIn | Associate Product Manager Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/0f54bde539b32d1dcd5b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Google | Technical Program Manager Intern | Multiple Locations | <a href="http://redirect.cvrve.me/5d065eeb3d08711ad076?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Walgreens | Software Engineer Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/cd55a8db89b36453fb98?utm_source=ouckah&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
