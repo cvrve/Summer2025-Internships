@@ -25271,5 +25271,23 @@
         "date_posted": 1728336413,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728336461,
+        "url": "http://redirect.cvrve.me/edafca9b700e6dc66c47",
+        "locations": [
+            "Orlando, FL",
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Enterprise Technology Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dab3711d-1eca-43fb-ad2e-c05fad4b933f",
+        "date_posted": 1728336461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
