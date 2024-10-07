@@ -24978,5 +24978,22 @@
         "date_posted": 1728334698,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728334788,
+        "url": "http://redirect.cvrve.me/1f1e8f6fed5f88ac6ea3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBA",
+        "title": "Data Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cd76863b-5baf-455f-84b5-9dbaef3eb495",
+        "date_posted": 1728334788,
+        "company_url": "",
+        "is_visible": true
     }
 ]
