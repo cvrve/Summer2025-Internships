@@ -25357,5 +25357,22 @@
         "date_posted": 1728337080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728337147,
+        "url": "http://redirect.cvrve.me/31112b594281362a8e54",
+        "locations": [
+            "Missouri"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d197d88c-e320-4c7a-aa5a-d3e0325d6302",
+        "date_posted": 1728337147,
+        "company_url": "",
+        "is_visible": true
     }
 ]
