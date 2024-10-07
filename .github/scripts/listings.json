@@ -25534,5 +25534,23 @@
         "date_posted": 1728339964,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728340028,
+        "url": "http://redirect.cvrve.me/828049d8723a4deb3547",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Data Scientist - Gen AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b7139081-aa66-427f-a62a-fc1e8488f8e0",
+        "date_posted": 1728340028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
