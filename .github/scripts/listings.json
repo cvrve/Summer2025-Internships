@@ -25552,5 +25552,23 @@
         "date_posted": 1728340028,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728340090,
+        "url": "http://redirect.cvrve.me/66688d67a4b1ba56f3da",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "IT Merchandising Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b349008f-c8b5-4e5c-a10e-7ee7a12321d3",
+        "date_posted": 1728340090,
+        "company_url": "",
+        "is_visible": true
     }
 ]
