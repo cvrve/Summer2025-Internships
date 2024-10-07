@@ -25446,5 +25446,22 @@
         "date_posted": 1728337434,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728337493,
+        "url": "http://redirect.cvrve.me/418f1b2db35633cf2fff",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Reverse Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ec1fcad4-64ec-423c-9550-66c3f81c476f",
+        "date_posted": 1728337493,
+        "company_url": "",
+        "is_visible": true
     }
 ]
