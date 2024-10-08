@@ -1,4 +1,4 @@
-# Summer 2025 Tech Internships by Ouckah & Cvrve 
+# Summer 2025 Tech Internships by Cvrve & Ouckah
 
 The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025**. The list is maintained collaboratively by [cvrve](https://cvrve.me) and [CSCareers](https://discord.gg/cscareers)!
 
