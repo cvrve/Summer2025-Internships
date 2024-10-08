@@ -25759,5 +25759,22 @@
         "date_posted": 1728371839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728423803,
+        "url": "http://redirect.cvrve.me/743cfca46ef778779b85",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c339ac47-0d2f-48fb-9b0a-6e21899a1dc2",
+        "date_posted": 1728423803,
+        "company_url": "",
+        "is_visible": true
     }
 ]
