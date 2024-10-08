@@ -25656,5 +25656,22 @@
         "date_posted": 1728371445,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371490,
+        "url": "http://redirect.cvrve.me/b46a9a0ed35aa4d64a54",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "Decision Support Analyst Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "9123a348-8b9d-4ccd-8558-58dea36aa46a",
+        "date_posted": 1728371490,
+        "company_url": "",
+        "is_visible": true
     }
 ]
