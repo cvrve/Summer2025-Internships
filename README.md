@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SiriusXM | Backend Engineer Intern | Oakland, CA</br>Lawrenceville, NJ | <a href="http://redirect.cvrve.me/3831f13ce5e1fb3012a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | WeRide | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/60dc4823503bb5180acd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Telesat | Software Engineering Coop | Ottawa, Canada | <a href="http://redirect.cvrve.me/aa18b4bdd05977872c08?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ST | Embedded Software Engineering Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/408d26f7a3240ce7330a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |

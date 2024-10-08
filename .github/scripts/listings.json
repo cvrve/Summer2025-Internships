@@ -25570,5 +25570,23 @@
         "date_posted": 1728340090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371246,
+        "url": "http://redirect.cvrve.me/3831f13ce5e1fb3012a1",
+        "locations": [
+            "Oakland, CA",
+            "Lawrenceville, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Backend Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "57b5ca03-43c0-4c92-9c35-e5f9b829eaa1",
+        "date_posted": 1728371246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
