@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Data Scientist Intern | Foster City, CA | <a href="http://redirect.cvrve.me/28c6347cbf2b5a39617a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | SiriusXM | Software Engineer Intern, Financial Systems | New York, NY | <a href="http://redirect.cvrve.me/7ceb5d7ca5aaad2c9858?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Backend Engineer Intern | Oakland, CA</br>Lawrenceville, NJ | <a href="http://redirect.cvrve.me/3831f13ce5e1fb3012a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Acxiom | Database Tester Intern | Conway, AR | <a href="http://redirect.cvrve.me/777ee1b12454e0f0ca3f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
