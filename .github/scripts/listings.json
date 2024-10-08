@@ -25932,5 +25932,22 @@
         "date_posted": 1728425079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728425498,
+        "url": "http://redirect.cvrve.me/8e4d8af1ba303b9d6fc3",
+        "locations": [
+            "Aliso Viejo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Playstation",
+        "title": "Applied Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ace227b5-692c-4670-835a-73fd76a2d374",
+        "date_posted": 1728425498,
+        "company_url": "",
+        "is_visible": true
     }
 ]
