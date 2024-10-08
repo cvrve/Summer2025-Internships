@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Acxiom | Automation Engineer Intern | Remote | <a href="http://redirect.cvrve.me/f6b7917b560857800242?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Motorola Solutions | Critical Communication Networks Software Engineer Intern | Schaumburg, IL</br>Chicago, IL | <a href="http://redirect.cvrve.me/893cf45d1b360f77577f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Moderna | Quantum Algorithms and Applications Co-Op | Cambridge, MA | <a href="http://redirect.cvrve.me/88e0d258e49ebea47592?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Applied Materials | AI/ML Co-op | Gloucester,MA | <a href="http://redirect.cvrve.me/92d093949fc2b698e777?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
