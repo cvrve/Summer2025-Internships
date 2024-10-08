@@ -25690,5 +25690,22 @@
         "date_posted": 1728371529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371651,
+        "url": "http://redirect.cvrve.me/28c6347cbf2b5a39617a",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "414b3d1e-cd21-4f23-9ec5-545d763ba182",
+        "date_posted": 1728371651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
