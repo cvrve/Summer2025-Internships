@@ -25793,5 +25793,23 @@
         "date_posted": 1728424085,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728424507,
+        "url": "http://redirect.cvrve.me/23912ddfd0aba68188df",
+        "locations": [
+            "Remote",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Playstation",
+        "title": "Documentation Tools Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cb46a3a8-1251-4a46-b7b9-53cd0e9347e5",
+        "date_posted": 1728424507,
+        "company_url": "",
+        "is_visible": true
     }
 ]
