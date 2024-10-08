@@ -25673,5 +25673,22 @@
         "date_posted": 1728371490,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371529,
+        "url": "http://redirect.cvrve.me/c6e73917a55036bf3337",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "Data Solution Developer Intern",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "d9e83982-c61f-42a1-ad9f-f7c89879b33a",
+        "date_posted": 1728371529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
