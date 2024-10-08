@@ -25639,5 +25639,22 @@
         "date_posted": 1728371400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371445,
+        "url": "http://redirect.cvrve.me/777ee1b12454e0f0ca3f",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "Database Tester Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2f544852-9fb6-4bef-91f1-54db1ceb40b3",
+        "date_posted": 1728371445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
