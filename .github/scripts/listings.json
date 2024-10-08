@@ -25845,5 +25845,22 @@
         "date_posted": 1728424616,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728424667,
+        "url": "http://redirect.cvrve.me/798f93033e6ee80f2ac1",
+        "locations": [
+            "Aliso Viejo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Playstation",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "154f4aa9-900f-4f4d-a565-8a4643889cc9",
+        "date_posted": 1728424667,
+        "company_url": "",
+        "is_visible": true
     }
 ]
