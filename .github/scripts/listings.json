@@ -25828,5 +25828,22 @@
         "date_posted": 1728424563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728424616,
+        "url": "http://redirect.cvrve.me/0056e4b592b3a45ea5a3",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Playstation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e06c93ab-a9b9-42c9-b023-311f79f425f0",
+        "date_posted": 1728424616,
+        "company_url": "",
+        "is_visible": true
     }
 ]
