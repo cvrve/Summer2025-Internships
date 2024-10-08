@@ -25949,5 +25949,22 @@
         "date_posted": 1728425498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728425668,
+        "url": "http://redirect.cvrve.me/04135457f4333de05ad5",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "45f08b82-0993-4421-aef0-eeeb12d1974a",
+        "date_posted": 1728425668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
