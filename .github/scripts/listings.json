@@ -25741,5 +25741,23 @@
         "date_posted": 1728371765,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371839,
+        "url": "http://redirect.cvrve.me/d5f23aa4cf5a2ba57eff",
+        "locations": [
+            "Schaumburg, IL",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Critical Communication Networks Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4f4ef0a1-8920-4425-85fc-f8e76875620a",
+        "date_posted": 1728371839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
