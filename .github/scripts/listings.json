@@ -25724,5 +25724,22 @@
         "date_posted": 1728371705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728371765,
+        "url": "http://redirect.cvrve.me/e352fded07c0dcc52637",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwest Mutual",
+        "title": "Specialty Markets Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e423a374-e916-44eb-bf1f-44ee4cf2d862",
+        "date_posted": 1728371765,
+        "company_url": "",
+        "is_visible": true
     }
 ]
