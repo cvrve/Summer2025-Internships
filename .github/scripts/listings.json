@@ -25811,5 +25811,22 @@
         "date_posted": 1728424507,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728424563,
+        "url": "http://redirect.cvrve.me/670a5304c0f5066f6636",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Playstation",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2a17c34d-185c-4af3-be03-3dd445289317",
+        "date_posted": 1728424563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
