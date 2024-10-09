@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Force Factor | AI Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/094afd15b2bf06a8d309?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Acxiom | Data Solution Developer Intern | Conway, AR | <a href="http://redirect.cvrve.me/c6e73917a55036bf3337?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Decision Support Analyst Intern | Conway, AR | <a href="http://redirect.cvrve.me/b46a9a0ed35aa4d64a54?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Automation Engineer Intern | Remote | <a href="http://redirect.cvrve.me/f6b7917b560857800242?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
