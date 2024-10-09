@@ -26272,5 +26272,22 @@
         "date_posted": 1728507312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728507345,
+        "url": "http://redirect.cvrve.me/39ec40f7488d01d281b2",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Infrastructure Automation)",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "56ec2573-08e8-4397-af71-bf2c89e64b73",
+        "date_posted": 1728507345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
