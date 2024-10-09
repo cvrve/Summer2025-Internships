@@ -26221,5 +26221,22 @@
         "date_posted": 1728506653,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728506731,
+        "url": "http://redirect.cvrve.me/0a2b48e9b33cbb9a62c3",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10cde772-4445-41b7-bf8e-335af935d500",
+        "date_posted": 1728506731,
+        "company_url": "",
+        "is_visible": true
     }
 ]
