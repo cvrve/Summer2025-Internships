@@ -26459,5 +26459,22 @@
         "date_posted": 1728510212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728511352,
+        "url": "http://redirect.cvrve.me/6261c4ebed57e1984918",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML) - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "09e5c0e4-7b12-4105-b399-ccd3e9a16419",
+        "date_posted": 1728511352,
+        "company_url": "",
+        "is_visible": true
     }
 ]
