@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Release Engineering Intern/Co-op | Foster City, CA | <a href="http://redirect.cvrve.me/78917c19715fd9d04090?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Zebra | ADC Software Intern | Holtsville, NY | <a href="http://redirect.cvrve.me/961956af4a5ac9ddb210?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Wells Fargo | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/1373799233f5d246dad2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/9836c89205f5b3f5af85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |

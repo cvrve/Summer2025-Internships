@@ -26511,5 +26511,22 @@
         "date_posted": 1728512486,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728512556,
+        "url": "http://redirect.cvrve.me/78917c19715fd9d04090",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Release Engineering Intern/Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c8dfa4d-4f85-4ccb-a72f-6ce59ee1f0e3",
+        "date_posted": 1728512556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
