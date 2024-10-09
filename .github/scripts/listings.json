@@ -26187,5 +26187,22 @@
         "date_posted": 1728506099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728506482,
+        "url": "http://redirect.cvrve.me/094afd15b2bf06a8d309",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Force Factor",
+        "title": "AI Co-Op - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "c464d209-18af-48f3-ac40-838f633245f4",
+        "date_posted": 1728506482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
