@@ -26493,5 +26493,23 @@
         "date_posted": 1728511428,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728512486,
+        "url": "http://redirect.cvrve.me/0b0e75ff7491bacf7119",
+        "locations": [
+            "Cincinnati, OH",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ensemble Health Partners",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "929af71e-dfed-43c4-8971-47ccdb7364ad",
+        "date_posted": 1728512486,
+        "company_url": "",
+        "is_visible": true
     }
 ]
