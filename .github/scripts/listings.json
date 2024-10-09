@@ -26255,5 +26255,22 @@
         "date_posted": 1728507162,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728507312,
+        "url": "http://redirect.cvrve.me/16ffa1aad4163ce1a5a6",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Database Engineering)",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "c0ab35ac-ee13-4203-8f2c-ee6a47057c64",
+        "date_posted": 1728507312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
