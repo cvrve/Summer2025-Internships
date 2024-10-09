@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | ADC Software Intern | Holtsville, NY | <a href="http://redirect.cvrve.me/961956af4a5ac9ddb210?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/9836c89205f5b3f5af85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Northwestern Mutual | Data Analyst Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/30abbca5cff0b2068238?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Nintendo | IT Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/ab2176e547c0c22b6a5d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/b76db648875a62acf795?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Apex | Software Engineer Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/7fba5063469040a2a651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |

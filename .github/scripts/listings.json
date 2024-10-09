@@ -26085,5 +26085,22 @@
         "date_posted": 1728474257,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728474340,
+        "url": "http://redirect.cvrve.me/30abbca5cff0b2068238",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwestern Mutual",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4e87db26-d60a-4a20-a9af-ea187c356126",
+        "date_posted": 1728474340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
