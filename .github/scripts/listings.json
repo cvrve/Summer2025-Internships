@@ -26153,5 +26153,22 @@
         "date_posted": 1728474610,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728504936,
+        "url": "http://redirect.cvrve.me/7788cd2633f1a4e069d0",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3419260-10ae-45a9-b2db-2f24f31ea8d9",
+        "date_posted": 1728504936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
