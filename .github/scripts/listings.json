@@ -25983,5 +25983,22 @@
         "date_posted": 1728426083,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728472065,
+        "url": "http://redirect.cvrve.me/7fba5063469040a2a651",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "214c210f-13b7-4647-9587-877936aa55b1",
+        "date_posted": 1728472065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
