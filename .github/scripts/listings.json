@@ -26391,5 +26391,22 @@
         "date_posted": 1728508861,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728508896,
+        "url": "http://redirect.cvrve.me/a5fa77660e843856dcd3",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core Engineering) - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "97816bf8-352b-439d-a50d-b76c4da7f4bf",
+        "date_posted": 1728508896,
+        "company_url": "",
+        "is_visible": true
     }
 ]
