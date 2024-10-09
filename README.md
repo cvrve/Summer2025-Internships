@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | ADC Software Intern | Holtsville, NY | <a href="http://redirect.cvrve.me/961956af4a5ac9ddb210?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Wells Fargo | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/1373799233f5d246dad2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/9836c89205f5b3f5af85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Northwestern Mutual | Software Engineering Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/626b6d8dc66c7a0c87ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Data Analyst Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/30abbca5cff0b2068238?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |

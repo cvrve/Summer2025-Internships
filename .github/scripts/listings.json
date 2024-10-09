@@ -26119,5 +26119,22 @@
         "date_posted": 1728474391,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728474566,
+        "url": "http://redirect.cvrve.me/1373799233f5d246dad2",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wells Fargo",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "64912780-a0ce-45eb-bf05-bdb2a6d2c89d",
+        "date_posted": 1728474566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
