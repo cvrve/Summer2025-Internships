@@ -26068,5 +26068,22 @@
         "date_posted": 1728474177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728474257,
+        "url": "http://redirect.cvrve.me/961956af4a5ac9ddb210",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "ADC Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "accb6c39-3247-43fa-abbb-1321131129b4",
+        "date_posted": 1728474257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
