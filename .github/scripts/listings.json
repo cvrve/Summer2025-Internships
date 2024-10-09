@@ -26170,5 +26170,22 @@
         "date_posted": 1728504936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728506099,
+        "url": "http://redirect.cvrve.me/66265043bbec5dab26ae",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Force Factor",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "420e1665-3fd3-4f47-88c8-1a263038778e",
+        "date_posted": 1728506099,
+        "company_url": "",
+        "is_visible": true
     }
 ]

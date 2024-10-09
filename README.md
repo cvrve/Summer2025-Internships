@@ -54,6 +54,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nintendo | IT Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/ab2176e547c0c22b6a5d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/b76db648875a62acf795?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Iridium | Software Engineer Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/7788cd2633f1a4e069d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Force Factor | AI Intern | Boston, MA | <a href="http://redirect.cvrve.me/66265043bbec5dab26ae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Entrust | Software Developer Intern | Shakopee, MN | <a href="http://redirect.cvrve.me/5589b40be1fe652aeaba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Apex | Software Engineer Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/7fba5063469040a2a651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Amazon Robotics | Sensor Embedded Software Intern | North Reading, MA | <a href="http://redirect.cvrve.me/428981db3240e1715970?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
