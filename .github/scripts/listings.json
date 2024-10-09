@@ -26528,5 +26528,22 @@
         "date_posted": 1728512556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728512616,
+        "url": "http://redirect.cvrve.me/b425f7f2d9959b34846e",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Software Engineer CXL Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1606d127-4d91-4582-94e3-8af8b9be246b",
+        "date_posted": 1728512616,
+        "company_url": "",
+        "is_visible": true
     }
 ]

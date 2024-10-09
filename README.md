@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Analyst Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/30abbca5cff0b2068238?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Nintendo | IT Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/ab2176e547c0c22b6a5d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/b76db648875a62acf795?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Micron Technology | Software Engineer CXL Development Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b425f7f2d9959b34846e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Iridium | Software Engineer Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/7788cd2633f1a4e069d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Force Factor | AI Intern | Boston, MA | <a href="http://redirect.cvrve.me/66265043bbec5dab26ae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Entrust | Software Developer Intern | Shakopee, MN | <a href="http://redirect.cvrve.me/5589b40be1fe652aeaba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
