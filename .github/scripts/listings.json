@@ -26306,5 +26306,22 @@
         "date_posted": 1728507379,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728507467,
+        "url": "http://redirect.cvrve.me/1fd2c9a22caeb2b2b7c4",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML)",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "6224c0a2-119a-489e-8f9b-5f25c6736187",
+        "date_posted": 1728507467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
