@@ -26136,5 +26136,22 @@
         "date_posted": 1728474566,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728474610,
+        "url": "http://redirect.cvrve.me/5589b40be1fe652aeaba",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entrust",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c47fafb1-ed44-4059-82bf-6b2a55dd8b52",
+        "date_posted": 1728474610,
+        "company_url": "",
+        "is_visible": true
     }
 ]
