@@ -73,8 +73,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Snowflake | Software Engineer Intern (Database Engineering) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/2255b98c29d796b035a2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Snowflake | Software Engineer Intern (AI/ML) - Spring | San Mateo, CA | <a href="http://redirect.cvrve.me/4a8686773258283bb10c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| ↳ | Software Engineer Intern (AI/ML) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/6261c4ebed57e1984918?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| ↳ | Software Engineer Intern (Database Engineering) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/2255b98c29d796b035a2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern (Database Engineering) - Spring | San Mateo, CA | <a href="http://redirect.cvrve.me/33bf98815e7065edccd9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| ↳ | Software Engineer Intern (Infrastructure Automation) - Spring | San Mateo, CA | <a href="http://redirect.cvrve.me/3701e42de408dfcade4c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern (Core Engineering) - Spring | San Mateo, CA | <a href="http://redirect.cvrve.me/a5fa77660e843856dcd3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern (Infrastructure Automation) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/3b42fd8a19528156e318?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern (Core Engineering) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/f2b914921f1031fb979f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
