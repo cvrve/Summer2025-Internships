@@ -26374,5 +26374,22 @@
         "date_posted": 1728508634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728508861,
+        "url": "http://redirect.cvrve.me/3b42fd8a19528156e318",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Infrastructure Automation) - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "85449ebe-0e29-4af9-88cb-840a7a26e005",
+        "date_posted": 1728508861,
+        "company_url": "",
+        "is_visible": true
     }
 ]
