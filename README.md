@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cambridge Mobile Telematics | Software Engineer I | Cambridge, MA | <a href="http://redirect.cvrve.me/3de0bb4f50bff440dbc0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Apex | Software Engineer Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/7fba5063469040a2a651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Zoox | Software Engineer, Robot Software Infrastructure Intern | Foster City, CA | <a href="http://redirect.cvrve.me/2231d6c1d626d53f4697?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | ↳ | Data Scientist Intern | Foster City, CA | <a href="http://redirect.cvrve.me/28c6347cbf2b5a39617a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
