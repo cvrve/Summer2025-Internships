@@ -26442,5 +26442,56 @@
         "date_posted": 1728509287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728510212,
+        "url": "http://redirect.cvrve.me/2255b98c29d796b035a2",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Database Engineering) - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "39fbf505-3b57-4b0e-8437-9e4cfd1363a8",
+        "date_posted": 1728510212,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728511352,
+        "url": "http://redirect.cvrve.me/6261c4ebed57e1984918",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML) - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "09e5c0e4-7b12-4105-b399-ccd3e9a16419",
+        "date_posted": 1728511352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728511428,
+        "url": "http://redirect.cvrve.me/4a8686773258283bb10c",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML) - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2f315dde-3fcc-4393-b56c-48c7acf0ac39",
+        "date_posted": 1728511428,
+        "company_url": "",
+        "is_visible": true
     }
 ]
