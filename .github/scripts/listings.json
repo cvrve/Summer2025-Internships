@@ -26992,5 +26992,22 @@
         "date_posted": 1728562613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728562690,
+        "url": "http://redirect.cvrve.me/1496023e7841daea5359",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Aerospace and Defense Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e295b7c8-c8ad-4090-81a4-abccc9bbfb47",
+        "date_posted": 1728562690,
+        "company_url": "",
+        "is_visible": true
     }
 ]
