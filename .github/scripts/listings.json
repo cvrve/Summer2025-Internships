@@ -27026,5 +27026,22 @@
         "date_posted": 1728562794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728562843,
+        "url": "http://redirect.cvrve.me/c0595c8bc83b42b59623",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Frontend Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5e7944d1-28f8-4613-955a-c9d018ba6df1",
+        "date_posted": 1728562843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
