@@ -26801,5 +26801,23 @@
         "date_posted": 1728555497,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555542,
+        "url": "http://redirect.cvrve.me/8d626e10143411bb7c5a",
+        "locations": [
+            "Los Angeles, CA",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EA",
+        "title": "Software Engineer Intern - Star Wars Jedi",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6859f7b0-4645-4460-8186-76445fbee4b6",
+        "date_posted": 1728555542,
+        "company_url": "",
+        "is_visible": true
     }
 ]
