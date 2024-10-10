@@ -27095,5 +27095,22 @@
         "date_posted": 1728563255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728563319,
+        "url": "http://redirect.cvrve.me/815d90d2f663d1b52431",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ADI",
+        "title": "Machine Learning Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "746aafbb-a166-4fc6-bef0-a13367f70060",
+        "date_posted": 1728563319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
