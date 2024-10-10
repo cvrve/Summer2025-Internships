@@ -26766,5 +26766,22 @@
         "date_posted": 1728555387,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555419,
+        "url": "http://redirect.cvrve.me/809b409980d42a9a227b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c777cffe-3c95-4714-972e-e2a04ea01c8c",
+        "date_posted": 1728555419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
