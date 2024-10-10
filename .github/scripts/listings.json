@@ -27078,5 +27078,22 @@
         "date_posted": 1728562997,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728563255,
+        "url": "http://redirect.cvrve.me/c102e3c0411ef694800a",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "IT Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4931a5e9-5d22-4a8f-b127-9db43f858522",
+        "date_posted": 1728563255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
