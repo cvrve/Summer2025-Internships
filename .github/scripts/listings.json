@@ -26749,5 +26749,22 @@
         "date_posted": 1728555320,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555387,
+        "url": "http://redirect.cvrve.me/a3a50b014bb36df9b5e5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "731deb22-325f-44a6-830f-472406a3b932",
+        "date_posted": 1728555387,
+        "company_url": "",
+        "is_visible": true
     }
 ]
