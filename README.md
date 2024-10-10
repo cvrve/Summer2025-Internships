@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Starwood Capital Group | Information Technology Intern | Greenwich, CT | <a href="http://redirect.cvrve.me/1e42f5770316f4f849c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
-| OCC | Cloud Technology Intern 🛂 | Dallas, TX | <a href="http://redirect.cvrve.me/fd18148d494620756732?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| OCC | Platform Engineering Intern | Chicago, IL | <a href="http://redirect.cvrve.me/562c9f88d0c2df3da09b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| ↳ | Cloud Technology Intern 🛂 | Dallas, TX | <a href="http://redirect.cvrve.me/fd18148d494620756732?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | IT Risk Summer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/b245fa03fa634666b000?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Security Engineering Intern | Chicago, IL | <a href="http://redirect.cvrve.me/b333a7a8f7b56b4732c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Data Governance Intern | Chicago, IL | <a href="http://redirect.cvrve.me/2df75db06dc3a4883612?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
