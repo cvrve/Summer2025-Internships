@@ -26889,5 +26889,22 @@
         "date_posted": 1728555909,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555948,
+        "url": "http://redirect.cvrve.me/440a198c7ea2792073f1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0cfa867c-ff36-4ac6-a787-de514ebd23d7",
+        "date_posted": 1728555948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
