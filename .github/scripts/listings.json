@@ -26613,5 +26613,22 @@
         "date_posted": 1728554811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728554845,
+        "url": "http://redirect.cvrve.me/2df75db06dc3a4883612",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Data Governance Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c18339f8-f2f0-4343-8e29-c95fc4fe8b6f",
+        "date_posted": 1728554845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
