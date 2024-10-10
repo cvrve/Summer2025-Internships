@@ -27146,5 +27146,24 @@
         "date_posted": 1728563446,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728563537,
+        "url": "http://redirect.cvrve.me/53b21104e7bcdf576b7f",
+        "locations": [
+            "Menlo Park, CA",
+            "Burlingame, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0a5537d1-e24e-4c44-9dcb-70ee73a95468",
+        "date_posted": 1728563537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
