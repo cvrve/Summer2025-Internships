@@ -26870,5 +26870,24 @@
         "date_posted": 1728555865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555909,
+        "url": "http://redirect.cvrve.me/c4b873d7f75dc64fb5eb",
+        "locations": [
+            "Oakland, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Mobile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2cb5a64a-8816-44fb-99ae-07228cd3d2fc",
+        "date_posted": 1728555909,
+        "company_url": "",
+        "is_visible": true
     }
 ]
