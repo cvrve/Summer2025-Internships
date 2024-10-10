@@ -27129,5 +27129,22 @@
         "date_posted": 1728563398,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728563446,
+        "url": "http://redirect.cvrve.me/20dc5201219227204d00",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JMP",
+        "title": "Digital Experiences Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cda53842-8a6b-4ebb-bc13-91bcd2a1baed",
+        "date_posted": 1728563446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
