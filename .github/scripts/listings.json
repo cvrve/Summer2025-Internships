@@ -26596,5 +26596,22 @@
         "date_posted": 1728554747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728554811,
+        "url": "http://redirect.cvrve.me/da3311a19206f1a77da8",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Cloud Security Engineering Summer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d184ea74-72d4-4b79-99de-ad05170dde04",
+        "date_posted": 1728554811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
