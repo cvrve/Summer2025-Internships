@@ -27009,5 +27009,22 @@
         "date_posted": 1728562690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728562794,
+        "url": "http://redirect.cvrve.me/6dd0de8280a2def5f345",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8391da28-9d09-4742-89e2-d8e7ad734821",
+        "date_posted": 1728562794,
+        "company_url": "",
+        "is_visible": true
     }
 ]
