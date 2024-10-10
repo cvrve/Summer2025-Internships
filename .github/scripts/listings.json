@@ -26923,5 +26923,22 @@
         "date_posted": 1728555980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728556028,
+        "url": "http://redirect.cvrve.me/16c65202fd80ffa4b872",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Scientist Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fe4dbe8f-de98-41a8-a484-5a082db5690c",
+        "date_posted": 1728556028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
