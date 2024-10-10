@@ -26853,5 +26853,22 @@
         "date_posted": 1728555607,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555865,
+        "url": "http://redirect.cvrve.me/cba6332dfcc054d61f07",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Network Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1a57125f-635e-4d3b-b87e-087e87aad134",
+        "date_posted": 1728555865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
