@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Warner Bros. Discovery | NetherRealm Software Engineering Co-op - Fall | Chicago, IL | <a href="http://redirect.cvrve.me/9b893461d6d126a7ac66?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Starwood Capital Group | Information Technology Intern | Greenwich, CT | <a href="http://redirect.cvrve.me/1e42f5770316f4f849c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | OCC | Platform Engineering Intern | Chicago, IL | <a href="http://redirect.cvrve.me/562c9f88d0c2df3da09b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Cloud Technology Intern 🛂 | Dallas, TX | <a href="http://redirect.cvrve.me/fd18148d494620756732?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
