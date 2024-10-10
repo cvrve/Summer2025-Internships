@@ -26698,5 +26698,22 @@
         "date_posted": 1728555101,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555138,
+        "url": "http://redirect.cvrve.me/562c9f88d0c2df3da09b",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Platform Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "343a6920-00c4-4a27-a95d-aef352983768",
+        "date_posted": 1728555138,
+        "company_url": "",
+        "is_visible": true
     }
 ]
