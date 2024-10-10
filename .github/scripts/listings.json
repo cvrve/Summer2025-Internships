@@ -26647,5 +26647,22 @@
         "date_posted": 1728554883,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728554932,
+        "url": "http://redirect.cvrve.me/1bfc5170a15b7f1d41ad",
+        "locations": [
+            "New Jersey, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exelon",
+        "title": "Data Science/ Analytics Intern",
+        "season": "Summer",
+        "source": "sach1r",
+        "id": "fc11eb60-0ab4-406a-83ca-6d5420d819e2",
+        "date_posted": 1728554932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
