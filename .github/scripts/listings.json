@@ -492,7 +492,7 @@
             "NYC"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Rippling",
         "title": "Software Engineering Intern",
         "season": "Spring",
@@ -564,7 +564,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capstone Investment Advisors",
         "title": "Quantitative Risk Intern",
         "season": "Summer",
@@ -903,7 +903,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Embedded Systems Software Engineer Intern, Vehicle Firmware",
         "season": "Fall",
@@ -937,7 +937,7 @@
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Controls & Software Automation Engineer Intern",
         "season": "Fall",
@@ -1049,7 +1049,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack Software Engineer Intern, Maps & Autopilot Navigation",
         "season": "Fall",
@@ -1069,7 +1069,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "Blue Origin",
-        "title": "Software Engineering Intern \u2013 Graduate",
+        "title": "Software Engineering Intern – Graduate",
         "season": "Spring",
         "source": "vanshb03",
         "id": "e41c5a80-8200-4e9c-8a96-126b2186222b",
@@ -1309,7 +1309,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rippling",
         "title": "Machine Learning Software Engineer Intern",
         "season": "Spring",
@@ -1753,7 +1753,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Rendering Engineer Intern, Simulation",
         "season": "Fall",
@@ -1770,7 +1770,7 @@
             "Hillsboro, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "Software Development Intern",
         "season": "Fall",
@@ -2273,7 +2273,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citadel",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2375,7 +2375,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Software Intern",
         "season": "Fall",
@@ -2409,7 +2409,7 @@
             "Fresno, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Software Engineer, Co-Op",
         "season": "Fall",
@@ -2956,7 +2956,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sony Electronics",
         "title": "Research Intern - Masters/PhD",
         "season": "Fall",
@@ -2990,7 +2990,7 @@
             "Yarmouth, ME"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineering Intern",
         "season": "Fall",
@@ -3042,7 +3042,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tencent",
         "title": "Video Standards & Encoding Optimization Intern",
         "season": "Fall",
@@ -3128,7 +3128,7 @@
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Android Applications Developer Co-Op",
         "source": "vanshb03",
@@ -3179,7 +3179,7 @@
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "S&P Global",
         "title": "Software Quality Engineer Intern",
         "source": "vanshb03",
@@ -3382,7 +3382,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jane Street",
         "title": "Software Engineer Intern",
         "season": "Spring",
@@ -3713,7 +3713,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, AI Tooling",
         "season": "Fall",
@@ -3764,7 +3764,7 @@
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CCI",
         "title": "Data Science Machine Learning Intern",
         "season": "Summer",
@@ -3781,7 +3781,7 @@
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CCI",
         "title": "GenAI Intern",
         "season": "Summer",
@@ -3886,7 +3886,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Maestro AI",
         "title": "Software Engineering Intern",
         "season": "Fall",
@@ -3971,7 +3971,7 @@
             "Shippensburg, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Volvo",
         "title": "Software Co-Op",
         "season": "Spring",
@@ -3988,7 +3988,7 @@
             "Schaumburg, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Android Platform Software Engineering Intern",
         "season": "Summer",
@@ -4005,7 +4005,7 @@
             "Orlando, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Simulation Development Intern",
         "season": "Fall",
@@ -4354,7 +4354,7 @@
             "Newark, NJ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Prudential",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -4524,7 +4524,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Codeium",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -4558,7 +4558,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marshall Wace",
         "title": "Technology Intern",
         "season": "Summer",
@@ -4575,7 +4575,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Codeium",
         "title": "Software Engineer Intern",
         "season": "Spring",
@@ -4592,7 +4592,7 @@
             "Plantation, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Android Platform Software Engineering Intern",
         "season": "Summer",
@@ -4643,7 +4643,7 @@
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sentry",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -4677,7 +4677,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Confluent",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5331,7 +5331,7 @@
             "Southfield, MI"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Eaton",
         "title": "Embedded Systems Intern",
         "season": "Summer",
@@ -5405,7 +5405,7 @@
             "Southfield, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eaton",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5490,7 +5490,7 @@
             "Sunrise, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Entrust",
         "title": "Software Engineering Intern",
         "season": "Fall",
@@ -5609,7 +5609,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Embedded Engineering Intern",
         "season": "Summer",
@@ -5687,7 +5687,7 @@
             "Morrisville, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lenovo",
         "title": "Software Delivery Engineering Intern",
         "season": "Fall",
@@ -5704,7 +5704,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nissan",
         "title": "AI Hardware Accelerator Research Intern",
         "season": "Fall",
@@ -5947,7 +5947,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Full-Stack Engineer Intern",
         "season": "Summer",
@@ -5981,9 +5981,9 @@
             "Lisle, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
-        "title": "Software Engineering Intern \u2013 Summer 2025",
+        "title": "Software Engineering Intern – Summer 2025",
         "season": "Summer",
         "source": "jiejun-j",
         "id": "54f8c13b-601d-4791-bced-7568250ce3f8",
@@ -6018,7 +6018,7 @@
             "Hillsboro, OR"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer II (Intern) - MS",
         "season": "Summer",
@@ -6091,7 +6091,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sony",
         "title": "Front End Developer Intern",
         "season": "Fall",
@@ -6176,7 +6176,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Backend Engineer Intern",
         "season": "Spring",
@@ -6261,7 +6261,7 @@
             "Richmond, BC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Boeing Canada",
         "title": "Data Science Intern",
         "season": "Spring",
@@ -6278,7 +6278,7 @@
             "Lisle, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -6312,7 +6312,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microchip",
         "title": "Software Wireless Intern",
         "season": "Fall",
@@ -6329,7 +6329,7 @@
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phillips",
         "title": "Software Engineer Co-Op",
         "season": "Spring",
@@ -6346,7 +6346,7 @@
             "Cincinnati, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Procter & Gamble",
         "title": "Site Digital Technology Intern",
         "season": "Summer",
@@ -6414,7 +6414,7 @@
             "Lincoln, NE"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Hudl",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -6527,7 +6527,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -6544,7 +6544,7 @@
             "St. Paul, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Infinite Campus",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -6595,7 +6595,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Android Engineering Intern",
         "season": "Summer",
@@ -6800,7 +6800,7 @@
             "Springfield, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GEICO",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -6984,7 +6984,7 @@
             "New Orleans, LA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -7137,7 +7137,7 @@
             "Champaign, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brunswick",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -7154,7 +7154,7 @@
             "locations Champaign, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brunswick",
         "title": "Computer Graphics Software Developer Intern",
         "season": "Summer",
@@ -7172,7 +7172,7 @@
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Machine Learning Engineering Intern",
         "season": "Summer",
@@ -7190,7 +7190,7 @@
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -7208,7 +7208,7 @@
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -7383,7 +7383,7 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Citi Bank",
         "title": "Quantitative Analysis",
         "season": "Summer",
@@ -7470,7 +7470,7 @@
             "Reedsville, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phillips",
         "title": "Data Engineer Co-op",
         "season": "Spring",
@@ -7504,7 +7504,7 @@
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phillips",
         "title": "Systems Engineer Co-op",
         "season": "Spring",
@@ -7675,7 +7675,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Semgrep",
         "title": "Software Engineer Intern - Program Analysis",
         "season": "Summer",
@@ -7760,7 +7760,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Semgrep",
         "title": "Software Engineer Intern - Cloud Platform",
         "season": "Summer",
@@ -7777,7 +7777,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Semgrep",
         "title": "Security Researcher Intern",
         "season": "Summer",
@@ -7896,7 +7896,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer Intern",
         "season": "Spring",
@@ -8287,7 +8287,7 @@
             "Lake Buena Vista, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ESPN",
         "title": "Computer Science & Computer Engineering Intern",
         "season": "Spring",
@@ -8503,7 +8503,7 @@
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Equifax",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -8540,7 +8540,7 @@
             "Schaumburg, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Embedded Software Engineer Intern",
         "season": "Summer",
@@ -8608,7 +8608,7 @@
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northwest Mutual",
         "title": "Quantitative Analyst Intern",
         "season": "Summer",
@@ -8944,7 +8944,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Data Engineering Intern",
         "season": "Summer",
@@ -9118,7 +9118,7 @@
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight",
         "title": "R&D Software Intern",
         "season": "Summer",
@@ -9135,7 +9135,7 @@
             "Vista, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leica Biosystem",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9152,8 +9152,8 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
-        "company_name": "Est\u00e9e Lauder",
+        "active": false,
+        "company_name": "Estée Lauder",
         "title": "Information Technology A.I. Intern",
         "season": "Summer",
         "source": "vanshb03",
@@ -9451,7 +9451,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -9485,7 +9485,7 @@
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -9520,7 +9520,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AllState - Arity",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9918,7 +9918,7 @@
             "Linthicum, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Sales Engineering Intern",
         "season": "Summer",
@@ -9936,7 +9936,7 @@
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ally",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9953,7 +9953,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Watershed",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -10390,7 +10390,7 @@
             "Washington, D.C."
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Yext",
         "title": "Software Engineer Intern, Product",
         "season": "Summer",
@@ -10408,7 +10408,7 @@
             "Space Coast, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Software Applications Engineering Intern",
         "season": "Summer",
@@ -10426,7 +10426,7 @@
             "Space Coast, FL"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Avionics Software Engineering Intern",
         "season": "Summer",
@@ -10582,7 +10582,7 @@
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epic Games",
         "title": "Programming Language Engineer Intern",
         "season": "Summer",
@@ -10787,7 +10787,7 @@
             "Laurel, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins University Applied Physics Laboratory",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -10991,7 +10991,7 @@
             "Reston, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Dev Technology",
         "title": "React/Node Application Developer Intern",
         "season": "Summer",
@@ -11008,7 +11008,7 @@
             "Reston, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Dev Technology",
         "title": "Java Application Developer Intern",
         "season": "Summer",
@@ -11059,7 +11059,7 @@
             "Austin"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TEL",
         "title": "Data Engineer Intern",
         "season": "Summer",
@@ -11076,7 +11076,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "United",
         "title": "Machine Learning Intern",
         "season": "Summer",
@@ -11163,7 +11163,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Silicon Labs",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -11181,7 +11181,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Silicon Labs",
         "title": "Design Engineer Intern",
         "season": "Summer",
@@ -11199,7 +11199,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Silicon Labs",
         "title": "Applications Engineer Intern",
         "season": "Summer",
@@ -11250,7 +11250,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cox",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -11267,7 +11267,7 @@
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Healthcare",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -11303,7 +11303,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "\u202fTrane Technologies",
+        "company_name": " Trane Technologies",
         "title": "Software Engineering Intern",
         "season": "Summer",
         "source": "vanshb03",
@@ -11378,7 +11378,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garda Capital Partners",
         "title": "Trading Intern",
         "season": "Summer",
@@ -11412,7 +11412,7 @@
             "Neenah, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plexus",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -11482,7 +11482,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fortrea",
         "title": "AIML Rapid Development Studio Intern",
         "season": "Summer",
@@ -11618,7 +11618,7 @@
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Summer Intern - Software Engineer",
         "season": "Summer",
@@ -11637,7 +11637,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "ServiceNow",
-        "title": "Utg \u2013 Software Engineer Internships - Summer 2025",
+        "title": "Utg – Software Engineer Internships - Summer 2025",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "de783f42-46cb-49b6-934d-b1b46e3e2e3e",
@@ -11652,7 +11652,7 @@
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Openmesh Networks",
         "title": "Mathematician Intern - Quantitative Analysis and Problem-Solving",
         "season": "Summer",
@@ -11669,7 +11669,7 @@
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Openmesh Networks",
         "title": "Networking Engineer Intern",
         "season": "Summer",
@@ -11686,7 +11686,7 @@
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Openmesh Networks",
         "title": "Smart Contract Development Intern - Blockchain Technology and Security",
         "season": "Summer",
@@ -11703,7 +11703,7 @@
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Openmesh Networks",
         "title": "Front-End Development Intern - Web Interface and User Experience",
         "season": "Summer",
@@ -11720,7 +11720,7 @@
             "Colorado Springs, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Full Stack Software Development Internship",
         "season": "Summer",
@@ -11739,7 +11739,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Cerebras",
-        "title": "Performance Engineer \u2013 Internship - PEY 2025",
+        "title": "Performance Engineer – Internship - PEY 2025",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "de78af21-7b53-487f-9a89-52d253e6fc27",
@@ -11756,7 +11756,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "Walmart",
-        "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
+        "title": "2024 Intern Conversion – 2025 Return Intern: Sr. Data Scientist",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
@@ -11790,7 +11790,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Palantir",
-        "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
+        "title": "Forward Deployed Software Engineer – Internship - Defense Tech",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
@@ -11856,7 +11856,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DataGrail",
         "title": "Managed Services Intern",
         "season": "Summer",
@@ -11877,7 +11877,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development - IOS",
+        "title": "Intern – Software Development - IOS",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
@@ -11896,7 +11896,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development",
+        "title": "Intern – Software Development",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
@@ -11914,7 +11914,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Database Conversion Programming",
+        "title": "Intern – Database Conversion Programming",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "27d647d4-4a79-466a-934e-52a80965af92",
@@ -11933,7 +11933,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "National Information Solutions Cooperative (NISC)",
-        "title": "Intern \u2013 Software Development - Machine Learning",
+        "title": "Intern – Software Development - Machine Learning",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
@@ -11950,7 +11950,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Gilead Sciences",
-        "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
+        "title": "Intern – IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
         "season": "Spring",
         "source": "cvrve-bot",
         "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
@@ -12000,7 +12000,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Texas Instruments",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -12087,7 +12087,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Honeybee Robotics Software Engineering Intern",
         "season": "Summer",
@@ -12206,7 +12206,7 @@
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "avidxchange",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -12274,7 +12274,7 @@
             "Syracuse, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "SAAB",
         "title": "Software Engineer Co-Op",
         "season": "Summer",
@@ -12342,7 +12342,7 @@
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "apexanalytix",
         "title": "Data Application Developer Intern",
         "season": "Summer",
@@ -12464,7 +12464,7 @@
             "Chaska, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TEL",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -12498,7 +12498,7 @@
             "Hillsboro, OR"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TEL",
         "title": "Software Development Engineer Intern",
         "season": "Summer",
@@ -12515,7 +12515,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "ML Performance Software Engineer Intern",
         "season": "Spring",
@@ -12617,7 +12617,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Android Applications Developer Intern",
         "season": "Summer",
@@ -12670,7 +12670,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Okta",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -12892,7 +12892,7 @@
             "Tryon Street, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ally",
         "title": "Summer 2025 Intern",
         "season": "Summer",
@@ -12910,7 +12910,7 @@
             "Tryon Street, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ally",
         "title": "Cybersecurity Intern",
         "season": "Summer",
@@ -12928,7 +12928,7 @@
             "Tryon Street, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ally",
         "title": "Data Engineering Intern",
         "season": "Summer",
@@ -12963,7 +12963,7 @@
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Manufacturing Software Engineer Intern",
         "season": "Summer",
@@ -12980,7 +12980,7 @@
             "Hagerstown, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Volvo Group",
         "title": "Embedded Software Engineer Intern",
         "season": "Summer",
@@ -13133,7 +13133,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyworks",
         "title": "Firmware Engineer Intern",
         "season": "Summer",
@@ -13252,7 +13252,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tencent",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13355,7 +13355,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -13372,7 +13372,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Cloud Engineer Intern",
         "season": "Summer",
@@ -13389,7 +13389,7 @@
             "locations Plantation, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -13457,7 +13457,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Software Automation Engineer Intern",
         "season": "Summer",
@@ -13525,7 +13525,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Embedded and Platform Software Engineer Intern",
         "season": "Summer",
@@ -13559,7 +13559,7 @@
             "Plantation, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Audio Software Engineer Intern",
         "season": "Summer",
@@ -13576,7 +13576,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern",
         "season": "Spring",
@@ -13610,7 +13610,7 @@
             "Kansas City, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Federal Reserve Bank",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13678,7 +13678,7 @@
             "Belcamp, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DCS Corp",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13696,7 +13696,7 @@
             "Oxnard, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -13766,7 +13766,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Android Applications Software Engineer",
         "season": "Summer",
@@ -13784,7 +13784,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Aerospace Corporation",
         "title": "Modeling and Simulation Undergraduate Intern",
         "season": "Summer",
@@ -13801,7 +13801,7 @@
             "Atlanta,GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "Data Scientist Intern",
         "season": "Summer",
@@ -13869,7 +13869,7 @@
             "Golden, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Software Systems Engineering Intern",
         "season": "Summer",
@@ -13903,7 +13903,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Texas Instruments",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -13937,7 +13937,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAP",
         "title": "Software Developer Intern",
         "season": "Fall",
@@ -14009,7 +14009,7 @@
             "Richardson, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Statefarm",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14060,7 +14060,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alston & Bird",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -14162,7 +14162,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Software Automation Engineer Intern",
         "season": "Summer",
@@ -14213,7 +14213,7 @@
             "Newtown, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Curtiss Wright",
         "title": "Firmware Engineering Intern",
         "season": "Summer",
@@ -14230,7 +14230,7 @@
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Principal",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14366,7 +14366,7 @@
             "Los Angeles"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Saviynt",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14553,7 +14553,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "ADAS Perception Algorithm Engineer Intern",
         "season": "Summer",
@@ -14587,7 +14587,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Android Applications Software Engineer Intern",
         "season": "Summer",
@@ -14621,7 +14621,7 @@
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "ADAS Tooling Intern",
         "season": "Summer",
@@ -14808,7 +14808,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity",
         "title": "Digital Applications Development Intern",
         "season": "Summer",
@@ -14843,7 +14843,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FIS",
         "title": "Business Application Developer Intern - Winter",
         "season": "Summer",
@@ -14857,8 +14857,8 @@
         "date_updated": 1726104742,
         "url": "https://careers.intactfc.com/ca/en/job/R142498/Full-Stack-Developer-4-month-Co-op-Internship-Winter-2025",
         "locations": [
-            "Montr\u00e9al",
-            "Qu\u00e9bec",
+            "Montréal",
+            "Québec",
             "St-Hyacinthe, Canada"
         ],
         "sponsorship": "Other",
@@ -14880,7 +14880,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sun Life",
         "title": "DevOps Automation Engineer Intern - Winter",
         "season": "Summer",
@@ -14897,7 +14897,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TD Bank",
         "title": "User Experience Designer Intern",
         "season": "Summer",
@@ -14911,7 +14911,7 @@
         "date_updated": 1726104802,
         "url": "https://careers.intactfc.com/ca/en/job/R142710/DevOps-4-Month-Co-op-Internship-Winter-2025",
         "locations": [
-            "Montr\u00e9al",
+            "Montréal",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
@@ -14966,7 +14966,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TD Bank",
         "title": "User Experience Designer/Strategist Intern - Winter",
         "season": "Spring",
@@ -15221,7 +15221,7 @@
             "Annapolis, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Parsons",
         "title": "Full Stack Software Developer Intern",
         "season": "Summer",
@@ -15255,7 +15255,7 @@
             "Beavercreek, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leonardo DRS",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -15323,7 +15323,7 @@
             "Hazel Park, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BorgWarner",
         "title": "Software Applications Engineer Intern",
         "season": "Summer",
@@ -15340,7 +15340,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian",
         "title": "Application Development Intern",
         "season": "Summer",
@@ -15534,7 +15534,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "84.51\u00b0",
+        "company_name": "84.51°",
         "title": "Consultant Development Intern",
         "season": "Summer",
         "source": "vanshb03",
@@ -15584,7 +15584,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SPAN",
         "title": "Device Software Engineering Intern",
         "season": "Summer",
@@ -15632,7 +15632,7 @@
         "date_updated": 1726269506,
         "url": "https://app.careerpuck.com/job-board/lyft/job/7619583002",
         "locations": [
-            "Montr\u00e9al, Canada"
+            "Montréal, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -15669,7 +15669,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16066,7 +16066,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Associate Product Manager",
         "season": "Summer",
@@ -16151,7 +16151,7 @@
             "Tallahassee, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Danfoss",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16168,7 +16168,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astranis",
         "title": "Software Systems Hardware Integration Engineer Intern",
         "season": "Summer",
@@ -16202,7 +16202,7 @@
             "San Carlos, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Noah Medical",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16222,7 +16222,7 @@
             "Westwood, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citizens",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16239,7 +16239,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Valeo",
         "title": "Machine Learning Intern",
         "season": "Summer",
@@ -16307,7 +16307,7 @@
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "DevOps Intern",
         "season": "Summer",
@@ -16341,7 +16341,7 @@
             "Franksville, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eaton",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16409,7 +16409,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Embedded Software Intern",
         "season": "Summer",
@@ -16427,7 +16427,7 @@
             "Schaumburg, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Supply Chain Data Analytics Intern",
         "season": "Summer",
@@ -16496,7 +16496,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fetch",
         "title": "iOS Software Engineering Intern",
         "season": "Summer",
@@ -16514,7 +16514,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Fetch",
         "title": "Android Software Engineer Intern",
         "season": "Summer",
@@ -16538,7 +16538,7 @@
             "Smithfield, RI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity",
         "title": "Technology Intern",
         "season": "Summer",
@@ -16556,7 +16556,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Data Engineer Intern",
         "season": "Summer",
@@ -16573,7 +16573,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Galaxy",
         "title": "Sales & Trading Intern",
         "season": "Summer",
@@ -16660,7 +16660,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fetch",
         "title": "Front-end Software Engineering Intern",
         "season": "Summer",
@@ -16678,7 +16678,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fetch",
         "title": "Machine Learning Engineering Intern",
         "season": "Summer",
@@ -16695,7 +16695,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Embedded Software Engineer Co-op",
         "season": "Summer",
@@ -16713,7 +16713,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fetch",
         "title": "Backend Software Engineer Intern",
         "season": "Summer",
@@ -16730,7 +16730,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Embedded Software Engineer Intern",
         "season": "Summer",
@@ -16747,7 +16747,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Data Engineer Co-Op",
         "season": "Summer",
@@ -16764,7 +16764,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ameriprise Financial",
         "title": "Quantitative Research Intern",
         "season": "Summer",
@@ -16781,7 +16781,7 @@
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ameriprise Financial",
         "title": "Technology Intern",
         "season": "Summer",
@@ -16868,7 +16868,7 @@
             "Princeton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "S&P Global",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16919,7 +16919,7 @@
             "Lake Buena Vista, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Labor Systems Web Integration Intern",
         "season": "Spring",
@@ -17517,7 +17517,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack Engineer Intern",
         "season": "Spring",
@@ -17885,7 +17885,7 @@
             "Centennial, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Space",
         "title": "Ground Software Engineering Intern",
         "season": "Summer",
@@ -17957,7 +17957,7 @@
             "Stevens Point, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sentry Insurance",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -17999,7 +17999,7 @@
             "Cincinnati, OH, USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity",
         "title": "Quantitative Development & Data Science Intern",
         "season": "Summer",
@@ -18152,7 +18152,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -18203,7 +18203,7 @@
             "locations Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Research Scientist Intern",
         "season": "Summer",
@@ -18356,7 +18356,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fairlife",
         "title": "Data Engineering Intern",
         "season": "Summer",
@@ -18546,7 +18546,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -18563,7 +18563,7 @@
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "nCino",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -18903,7 +18903,7 @@
             "Germantown, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Viasat",
         "title": "Cybersecurity Software Engineer Intern",
         "season": "Summer",
@@ -18954,7 +18954,7 @@
             "Green Bay, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nsight Telservices",
         "title": "Network DevOps Intern",
         "season": "Summer",
@@ -19182,7 +19182,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Expedia",
         "title": "Software Development Engineering Intern",
         "season": "Summer",
@@ -19276,7 +19276,7 @@
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thrivent",
         "title": "Data Analyst Intern",
         "season": "Summer",
@@ -19293,7 +19293,7 @@
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thrivent",
         "title": "IT Application Engineer Intern",
         "season": "Summer",
@@ -19310,7 +19310,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OpenAI",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -19361,7 +19361,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -19395,7 +19395,7 @@
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Wearables Software Intern",
         "season": "Summer",
@@ -19429,7 +19429,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Machine Learning Intern",
         "season": "Summer",
@@ -19464,7 +19464,7 @@
             "Carmel, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allied Solutions",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -19481,7 +19481,7 @@
             "Carlsbad, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viasat",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -19532,7 +19532,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Indiana Farm Bureau Insurance",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -19652,7 +19652,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Galaxy",
         "title": "Derivatives Engineer Intern",
         "season": "Summer",
@@ -19798,7 +19798,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Galaxy",
         "title": "Data Engineer Intern",
         "season": "Summer",
@@ -19815,7 +19815,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "K2 Space",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -19833,7 +19833,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -19851,7 +19851,7 @@
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -19868,7 +19868,7 @@
             "Bowie, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Systems Integrator and Developer Intern",
         "season": "Summer",
@@ -19919,7 +19919,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wispr",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -20189,7 +20189,7 @@
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HCSC",
         "title": "Associate DevOps Intern",
         "season": "Summer",
@@ -20242,7 +20242,7 @@
             "Centennial, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nelnet",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -20293,7 +20293,7 @@
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Athene",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -20368,7 +20368,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight",
         "title": "Manufacturing Software Intern",
         "season": "Summer",
@@ -20402,7 +20402,7 @@
             "Atlanta, GA,"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Southwire",
         "title": "AI/ML Intern",
         "season": "Summer",
@@ -20538,7 +20538,7 @@
             "Morrisville, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lenovo",
         "title": "Data Scientist Intern",
         "season": "Summer",
@@ -20589,7 +20589,7 @@
             "Oshkosh, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oshkosh",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -20658,7 +20658,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Expedia",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -20795,7 +20795,7 @@
             "Menomonee Falls, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eaton",
         "title": "Firmware Engineering Intern",
         "season": "Summer",
@@ -20829,7 +20829,7 @@
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BW Papersystems",
         "title": "Software/IOT Engineering Intern",
         "season": "Summer",
@@ -20931,7 +20931,7 @@
             "Columbus, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cummins",
         "title": "Information Technology Intern",
         "season": "Summer",
@@ -20948,7 +20948,7 @@
             "Columbus, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cummins",
         "title": "Technical Information Systems Intern",
         "season": "Summer",
@@ -21347,7 +21347,7 @@
             "Saukville, WI"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Charter Manufacturing",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -21442,7 +21442,7 @@
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NICE",
         "title": "DevOps Intern",
         "season": "Summer",
@@ -21459,7 +21459,7 @@
             "Lake Buena Vista, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Yield Optimization Intern",
         "season": "Summer",
@@ -21861,7 +21861,7 @@
             "Brooklyn, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KeyBank",
         "title": "Key Technology, Operations and Services Intern",
         "season": "Summer",
@@ -21895,7 +21895,7 @@
             "Chelmsford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brooks",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -22186,7 +22186,7 @@
             "Richmond, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alfa Laval",
         "title": "Channel Development Intern",
         "season": "Summer",
@@ -22809,7 +22809,7 @@
             "Woburn, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -22826,7 +22826,7 @@
             "Sterling, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -22843,7 +22843,7 @@
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Data Analytics Software Engineering Intern",
         "season": "Summer",
@@ -22860,7 +22860,7 @@
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Full Stack Developer Intern",
         "season": "Summer",
@@ -22895,7 +22895,7 @@
             "Pullman, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SEL",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -22981,7 +22981,7 @@
             "Brooklyn Park,MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Target",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -22998,7 +22998,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Data Scientist Intern",
         "season": "Summer",
@@ -23017,7 +23017,7 @@
             "Centennial, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nelnet",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -23037,7 +23037,7 @@
             "Sidney, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nelnet",
         "title": "IT Software Engineer Intern",
         "season": "Summer",
@@ -23088,7 +23088,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Courier Health",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -23301,7 +23301,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Worldcoin",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -23438,7 +23438,7 @@
             "Warren, MI"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -23597,7 +23597,7 @@
             "Carlsbad, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viasat",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -23855,7 +23855,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -23872,7 +23872,7 @@
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "Firmware Engineering Co-op",
         "season": "Summer",
@@ -23889,7 +23889,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Vail",
         "title": "C++ Software Engineer Intern",
         "season": "Summer",
@@ -23940,7 +23940,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Data Scientist Intern",
         "season": "Summer",
@@ -23974,7 +23974,7 @@
             "Merrimack, NH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bae Systems",
         "title": "Cyber/RF Software Development Intern",
         "season": "Winter",
@@ -24407,7 +24407,7 @@
             "Schaumburg, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "IT Data Analytics Intern",
         "season": "Summer",
@@ -24587,7 +24587,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "IBM",
-        "title": "Software Engineer \u2013 Large Scale Language Models Intern",
+        "title": "Software Engineer – Large Scale Language Models Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "62709401-4d48-4adf-b5dd-10527dc5d24e",
@@ -24607,7 +24607,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "IBM",
-        "title": "Software Engineer \u2013 AI-powered Automation Intern",
+        "title": "Software Engineer – AI-powered Automation Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "c59b16b0-402c-49ee-8b5e-35097ace6942",
@@ -24627,7 +24627,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "IBM",
-        "title": "Software Engineer \u2013 Semiconductor Intern",
+        "title": "Software Engineer – Semiconductor Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "8527ced7-4766-4cf5-a847-84bf4e24b7f7",
@@ -24762,7 +24762,7 @@
             "Eddyville, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WACKER",
         "title": "Production Development Engineer Intern",
         "season": "Summer",
@@ -24969,7 +24969,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sephora",
         "title": "Digital Technology Intern",
         "season": "Summer",
@@ -25088,7 +25088,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lumentum",
         "title": "Optical Algorithms & Analytics Engineer Co-op",
         "season": "Summer",
@@ -25105,7 +25105,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Telesat",
         "title": "Software Engineering Coop",
         "season": "Summer",
@@ -25122,7 +25122,7 @@
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Santander",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -25191,7 +25191,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -25314,7 +25314,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ST",
         "title": "Embedded Software Engineering Intern",
         "season": "Summer",
@@ -25331,7 +25331,7 @@
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SNC",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -25365,7 +25365,7 @@
             "Missouri"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Centene Corporation",
         "title": "Application Development Intern",
         "season": "Summer",
@@ -25767,7 +25767,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Associate Product Manager Intern",
         "season": "Summer",
