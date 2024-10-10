@@ -26783,5 +26783,23 @@
         "date_posted": 1728555419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728555497,
+        "url": "http://redirect.cvrve.me/33d14933c16736ae2d6d",
+        "locations": [
+            "Seattle, WA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EA",
+        "title": "Game Designer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "70b73740-5b56-4aba-b978-e8fbb0565a02",
+        "date_posted": 1728555497,
+        "company_url": "",
+        "is_visible": true
     }
 ]
