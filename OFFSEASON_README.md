@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Warner Bros. Discovery | WB Games Software Engineering Co-op - Fall | Needham, MA | <a href="http://redirect.cvrve.me/d8a164cce4e86dbdf3ff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | <a href="http://redirect.cvrve.me/9836c89205f5b3f5af85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Snowflake | Software Engineer Intern (AI/ML) - Spring | San Mateo, CA | <a href="http://redirect.cvrve.me/4a8686773258283bb10c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Software Engineer Intern (AI/ML) - Spring | Bellevue, WA | <a href="http://redirect.cvrve.me/6261c4ebed57e1984918?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
