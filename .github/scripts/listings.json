@@ -27061,5 +27061,22 @@
         "date_posted": 1728562956,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728562997,
+        "url": "http://redirect.cvrve.me/870e37014310c70b4526",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "AI Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36c3c401-ff65-40ee-8ee0-c7dfbf8268e6",
+        "date_posted": 1728562997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
