@@ -27288,5 +27288,23 @@
         "date_posted": 1728672507,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728674963,
+        "url": "http://redirect.cvrve.me/0e18da26b715b1c4054b",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveRamp",
+        "title": "Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccf41878-f2ec-4cd6-bd0d-19ee9926bee4",
+        "date_posted": 1728674963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
