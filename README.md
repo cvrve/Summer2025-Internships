@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Schneider Electric | Software Engineer Intern | North Andover, MA</br>Boston, MA | <a href="http://redirect.cvrve.me/b17b976678ff8dd2f24d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Pinterest | IT Systems Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ad2fc77436154e8a3eb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | IT Data Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/3ff04cbc9cc4414d0446?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | LiveRamp | Software Engineer Co-Op | Remote</br>US | <a href="http://redirect.cvrve.me/0e18da26b715b1c4054b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |

@@ -27342,5 +27342,23 @@
         "date_posted": 1728675288,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728675392,
+        "url": "http://redirect.cvrve.me/b17b976678ff8dd2f24d",
+        "locations": [
+            "North Andover, MA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b38f9ad7-79df-43ac-a4f9-3050aacebb33",
+        "date_posted": 1728675392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
