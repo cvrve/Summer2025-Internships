@@ -27202,5 +27202,23 @@
         "date_posted": 1728627895,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728672286,
+        "url": "http://redirect.cvrve.me/7f0f4dafa47701c75962",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alchemy",
+        "title": "Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77c6c3ca-c12f-4635-9b3a-770607a7ae27",
+        "date_posted": 1728672286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
