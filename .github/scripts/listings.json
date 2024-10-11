@@ -27377,5 +27377,22 @@
         "date_posted": 1728678209,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728678249,
+        "url": "http://redirect.cvrve.me/dcf89b9e464bf45e8bc9",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Storage Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d4f945c-73cd-442b-820f-cb206f4e2950",
+        "date_posted": 1728678249,
+        "company_url": "",
+        "is_visible": true
     }
 ]
