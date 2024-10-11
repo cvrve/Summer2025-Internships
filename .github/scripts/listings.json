@@ -27360,5 +27360,22 @@
         "date_posted": 1728675392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728678209,
+        "url": "http://redirect.cvrve.me/4155adb558f77760f8b5",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solidigm",
+        "title": "Customer Tools Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0aba3cea-2056-4522-b2b7-7ef8bb9b1175",
+        "date_posted": 1728678209,
+        "company_url": "",
+        "is_visible": true
     }
 ]
