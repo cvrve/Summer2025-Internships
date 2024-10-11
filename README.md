@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Visa | Data Storage Intern | Highlands Ranch, CO | <a href="http://redirect.cvrve.me/dcf89b9e464bf45e8bc9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Solidigm | Customer Tools Software Engineer Intern | Rancho Cordova, CA | <a href="http://redirect.cvrve.me/4155adb558f77760f8b5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
+| Smith+Nephew | Robotics Firmware Engineering Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/8f41d3e9a276b977832c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Schneider Electric | Software Engineer Intern | North Andover, MA</br>Boston, MA | <a href="http://redirect.cvrve.me/b17b976678ff8dd2f24d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Pinterest | IT Systems Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ad2fc77436154e8a3eb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | IT Data Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/3ff04cbc9cc4414d0446?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
