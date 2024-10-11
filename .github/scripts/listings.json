@@ -27306,5 +27306,23 @@
         "date_posted": 1728674963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728675004,
+        "url": "http://redirect.cvrve.me/3ff04cbc9cc4414d0446",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "IT Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3cec4e1a-4b48-4808-bfe6-6b5da0fa1216",
+        "date_posted": 1728675004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
