@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Epic Games | Game Security Intern | Cary, NC | <a href="http://redirect.cvrve.me/d8f47df035086b1abbb5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | DriveTime | Data Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/8d430750b2a814a8c03b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | Software Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/d80055c26ffaf18b9925?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Alchemy | Engineer Intern | New York, NY</br>San Francisco, CA | <a href="http://redirect.cvrve.me/7f0f4dafa47701c75962?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
