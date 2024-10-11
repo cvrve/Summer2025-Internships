@@ -27462,5 +27462,22 @@
         "date_posted": 1728678872,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728679325,
+        "url": "http://redirect.cvrve.me/60fc84db423a50589996",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ethic",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0fc744aa-2d5e-4f57-a9ed-5e0792d538d9",
+        "date_posted": 1728679325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
