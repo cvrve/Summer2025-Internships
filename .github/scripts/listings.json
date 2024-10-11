@@ -27394,5 +27394,22 @@
         "date_posted": 1728678249,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728678315,
+        "url": "http://redirect.cvrve.me/8f41d3e9a276b977832c",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Robotics Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "70fabca7-176b-4585-8cfd-6ba3b7cb67b6",
+        "date_posted": 1728678315,
+        "company_url": "",
+        "is_visible": true
     }
 ]
