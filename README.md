@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| DriveTime | Software Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/d80055c26ffaf18b9925?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Alchemy | Engineer Intern | New York, NY</br>San Francisco, CA | <a href="http://redirect.cvrve.me/7f0f4dafa47701c75962?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Warner Bros. Discovery | Data Science Intern | New York, NY | <a href="http://redirect.cvrve.me/809b409980d42a9a227b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/a3a50b014bb36df9b5e5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
