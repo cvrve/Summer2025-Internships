@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| LiveRamp | Software Engineer Co-Op | Remote</br>US | <a href="http://redirect.cvrve.me/0e18da26b715b1c4054b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Leidos | Software Engineer Intern | Reston, VA | <a href="http://redirect.cvrve.me/1aea4756c0869b751f4b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Epic Games | Game Security Intern | Cary, NC | <a href="http://redirect.cvrve.me/d8f47df035086b1abbb5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | DriveTime | Data Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/8d430750b2a814a8c03b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
