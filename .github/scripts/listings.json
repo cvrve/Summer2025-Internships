@@ -27237,5 +27237,22 @@
         "date_posted": 1728672322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728672357,
+        "url": "http://redirect.cvrve.me/8d430750b2a814a8c03b",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveTime",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dfe8ed7a-1cf2-4da3-83a8-641564568d8a",
+        "date_posted": 1728672357,
+        "company_url": "",
+        "is_visible": true
     }
 ]
