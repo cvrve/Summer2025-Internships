@@ -27324,5 +27324,23 @@
         "date_posted": 1728675004,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728675288,
+        "url": "http://redirect.cvrve.me/ad2fc77436154e8a3eb2",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "IT Systems Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "497a0ccc-83d3-416f-af34-f72d8b4b41ec",
+        "date_posted": 1728675288,
+        "company_url": "",
+        "is_visible": true
     }
 ]
