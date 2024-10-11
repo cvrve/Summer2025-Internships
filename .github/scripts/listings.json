@@ -27496,5 +27496,22 @@
         "date_posted": 1728679891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728680098,
+        "url": "http://redirect.cvrve.me/c275fb58444f6fdf6b16",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "FlightSafety International",
+        "title": "Graphics Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "60e38fc3-eb6c-4f65-82fa-53339411f33a",
+        "date_posted": 1728680098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
