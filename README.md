@@ -71,6 +71,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ethic | Software Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/60fc84db423a50589996?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Ericsson | Software Developer Intern | Plano, TX</br>Bellevue, WA | <a href="http://redirect.cvrve.me/fdcde2237332c6d8f7ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Epic Games | Game Security Intern | Cary, NC | <a href="http://redirect.cvrve.me/d8f47df035086b1abbb5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
+| Ebay | Product Design Intern | San Jose, CA</br>New York, NY | <a href="http://redirect.cvrve.me/6e6b64c9ae020bbac895?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | EA | Software Engineer Intern | Redwood City, CA | <a href="http://redirect.cvrve.me/d77b48d0f5f6935f97ac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | DriveTime | Data Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/8d430750b2a814a8c03b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | Software Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/d80055c26ffaf18b9925?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
