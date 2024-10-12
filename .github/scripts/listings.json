@@ -27581,5 +27581,22 @@
         "date_posted": 1728707061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728707107,
+        "url": "http://redirect.cvrve.me/c87164d92ebc970afecc",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FirstCitizensBank",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9cd193ef-8272-4013-8949-93366111f5e3",
+        "date_posted": 1728707107,
+        "company_url": "",
+        "is_visible": true
     }
 ]
