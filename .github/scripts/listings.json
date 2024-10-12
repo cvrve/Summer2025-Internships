@@ -27787,5 +27787,22 @@
         "date_posted": 1728708013,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728708504,
+        "url": "http://redirect.cvrve.me/0cd5d376242f28f7b90a",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fincons Group",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "63db8132-3b6e-44bd-a9e8-b837d388a2bb",
+        "date_posted": 1728708504,
+        "company_url": "",
+        "is_visible": true
     }
 ]
