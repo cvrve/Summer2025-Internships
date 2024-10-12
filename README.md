@@ -63,6 +63,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Gallup | Web Developer Intern | Omaha, NE | <a href="http://redirect.cvrve.me/3dc02c9d874eefbc5bff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | FlightSafety International | Graphics Developer Intern | Urbana, IL | <a href="http://redirect.cvrve.me/c275fb58444f6fdf6b16?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | Software Engineer Intern | St Louis, MO | <a href="http://redirect.cvrve.me/285d2e4e2489634a9d1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
+| FirstCitizensBank | Information Technology Intern | Raleigh, NC | <a href="http://redirect.cvrve.me/c87164d92ebc970afecc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Ethic | Software Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/60fc84db423a50589996?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Epic Games | Game Security Intern | Cary, NC | <a href="http://redirect.cvrve.me/d8f47df035086b1abbb5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | DriveTime | Data Engineering Intern | Tempe, AZ | <a href="http://redirect.cvrve.me/8d430750b2a814a8c03b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
