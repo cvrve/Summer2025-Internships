@@ -27598,5 +27598,22 @@
         "date_posted": 1728707107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728707151,
+        "url": "http://redirect.cvrve.me/fbe6ba1c83830b83dec8",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hologic",
+        "title": "Software Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e138980d-6d75-4084-8577-6c0dccb501fa",
+        "date_posted": 1728707151,
+        "company_url": "",
+        "is_visible": true
     }
 ]
