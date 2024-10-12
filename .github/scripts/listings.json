@@ -27530,5 +27530,22 @@
         "date_posted": 1728706496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728706538,
+        "url": "http://redirect.cvrve.me/d255b3951bc24fd79eba",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "iOS Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d2f4844d-682a-4386-8985-f4dfe84d1d7e",
+        "date_posted": 1728706538,
+        "company_url": "",
+        "is_visible": true
     }
 ]
