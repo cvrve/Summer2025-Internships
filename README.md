@@ -54,6 +54,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | IT Data Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/3ff04cbc9cc4414d0446?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Oshkosh | Data Science Engineer Intern | Hagerstown, MD | <a href="http://redirect.cvrve.me/43337766590780ce9bba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | NVIDIA | Quantum Computing Software Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/f3c9b2d7ed9b5e954961?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
+| Microsoft | Explore Program - Sophomore | Atlanta, GA | <a href="http://redirect.cvrve.me/29b6722cc3f578d14b75?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | LiveRamp | Software Engineer Co-Op | Remote</br>US | <a href="http://redirect.cvrve.me/0e18da26b715b1c4054b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Leidos | Software Engineer Intern | Reston, VA | <a href="http://redirect.cvrve.me/1aea4756c0869b751f4b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Gallup | Web Developer Intern | Omaha, NE | <a href="http://redirect.cvrve.me/3dc02c9d874eefbc5bff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |

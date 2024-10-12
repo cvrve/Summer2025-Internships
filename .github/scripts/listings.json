@@ -27513,5 +27513,22 @@
         "date_posted": 1728680098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728706496,
+        "url": "http://redirect.cvrve.me/29b6722cc3f578d14b75",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program - Sophomore",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c81d010-e1e8-4a61-a8dc-f84f0e3366fa",
+        "date_posted": 1728706496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
