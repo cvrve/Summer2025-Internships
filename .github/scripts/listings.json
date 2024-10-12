@@ -27804,5 +27804,22 @@
         "date_posted": 1728708504,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728708580,
+        "url": "http://redirect.cvrve.me/b316f68a7fc45271d1aa",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clay",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ebb90613-9b58-407d-bb2f-4615f9b3872b",
+        "date_posted": 1728708580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
