@@ -27840,5 +27840,22 @@
         "date_posted": 1728716926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728721807,
+        "url": "http://redirect.cvrve.me/a52e791bc314ac1f1bf8",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Cloud Infrastructure Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b5b8df2a-253b-465e-91a0-618faeb6dfdb",
+        "date_posted": 1728721807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
