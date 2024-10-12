@@ -27564,5 +27564,22 @@
         "date_posted": 1728706585,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728707061,
+        "url": "http://redirect.cvrve.me/456ddfe510019acb3f84",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hologic",
+        "title": "Software Verification & Validation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d9a2f7bd-fa9f-47b9-8680-124e85c28231",
+        "date_posted": 1728707061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
