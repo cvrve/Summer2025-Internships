@@ -27666,5 +27666,22 @@
         "date_posted": 1728707354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728707390,
+        "url": "http://redirect.cvrve.me/16ca35a1828d2546b8f9",
+        "locations": [
+            "locations Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "098c8543-31f8-458e-b20b-955062f2d0f6",
+        "date_posted": 1728707390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
