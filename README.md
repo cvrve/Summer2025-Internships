@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Waymo | Full-Stack Software Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/89526f33493bde97ecee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Visa | Data Storage Intern | Highlands Ranch, CO | <a href="http://redirect.cvrve.me/dcf89b9e464bf45e8bc9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Verkada | iOS Engineering Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/d255b3951bc24fd79eba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Solidigm | Customer Tools Software Engineer Intern | Rancho Cordova, CA | <a href="http://redirect.cvrve.me/4155adb558f77760f8b5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
