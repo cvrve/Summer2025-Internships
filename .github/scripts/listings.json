@@ -28061,5 +28061,22 @@
         "date_posted": 1728918878,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728918924,
+        "url": "http://redirect.cvrve.me/a32d4a21a739df26a83f",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Properties",
+        "title": "IT Services Co-Op - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "8fee40eb-730f-41f6-8f17-8029baf1c932",
+        "date_posted": 1728918924,
+        "company_url": "",
+        "is_visible": true
     }
 ]
