@@ -74,6 +74,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Phillips | Software Engineer Co-Op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/dfc2deba4a568123aac9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| Motorola Solutions | Software Engineer DSP Intern - Spring | Plantation, FL | <a href="http://redirect.cvrve.me/1ca9ca48b73b63d71ae4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Boston Properties | IT Services Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/a32d4a21a739df26a83f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | IT Applications Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/3ceb82f17527c4980383?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Warner Bros. Discovery | WB Games Software Engineering Co-op - Fall | Needham, MA | <a href="http://redirect.cvrve.me/d8a164cce4e86dbdf3ff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
