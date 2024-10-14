@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Visa | Software Engineer Intern | Miami, FL | <a href="http://redirect.cvrve.me/2cdb03a4ffbf9620551b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| Visa | Systems Engineer Intern | Highlands Ranch, CO | <a href="http://redirect.cvrve.me/1c33370758f0ca34d6fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| ↳ | Software Engineer Intern | Miami, FL | <a href="http://redirect.cvrve.me/2cdb03a4ffbf9620551b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | State Street | Global Technology Services Intern/Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/bab67ffbc23a18e06cac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Smith+Nephew | Software/Electrical R&D Intern | Andover, PA | <a href="http://redirect.cvrve.me/520a16b8c48d0de61010?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI CoE Data Science Intern | locations Pittsburgh, PA | <a href="http://redirect.cvrve.me/ada0ebd8c37534f04589?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |

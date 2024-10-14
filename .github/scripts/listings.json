@@ -27942,5 +27942,22 @@
         "date_posted": 1728915586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728915673,
+        "url": "http://redirect.cvrve.me/1c33370758f0ca34d6fb",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a95c1168-5115-424e-89ea-37f933251e7a",
+        "date_posted": 1728915673,
+        "company_url": "",
+        "is_visible": true
     }
 ]
