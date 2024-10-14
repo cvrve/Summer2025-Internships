@@ -28114,5 +28114,22 @@
         "date_posted": 1728922528,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728922879,
+        "url": "http://redirect.cvrve.me/d779effe6cca6686924e",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NxStage Medical",
+        "title": "Software Engineering Co-Op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c5a06e8-f922-41a3-90c6-ac28066893e8",
+        "date_posted": 1728922879,
+        "company_url": "",
+        "is_visible": true
     }
 ]
