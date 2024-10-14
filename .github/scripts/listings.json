@@ -28095,5 +28095,24 @@
         "date_posted": 1728919014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728922528,
+        "url": "http://redirect.cvrve.me/d3b3e6ed78f5431581e7",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Portsmouth, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Liberty Mutual",
+        "title": "Cybersecurity & Technology Audit Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7cc4f33-b7e5-4865-be9a-168ed45769f8",
+        "date_posted": 1728922528,
+        "company_url": "",
+        "is_visible": true
     }
 ]
