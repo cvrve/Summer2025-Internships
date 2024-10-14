@@ -27874,5 +27874,22 @@
         "date_posted": 1728914998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728915075,
+        "url": "http://redirect.cvrve.me/709880836e0194db3986",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mach Industries",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b44ec94f-458d-4229-8c8e-b4c59376c994",
+        "date_posted": 1728915075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
