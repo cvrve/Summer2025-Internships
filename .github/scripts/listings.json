@@ -27891,5 +27891,22 @@
         "date_posted": 1728915075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728915427,
+        "url": "http://redirect.cvrve.me/ada0ebd8c37534f04589",
+        "locations": [
+            "locations Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "AI CoE Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7e0fee2-98a3-4d7c-bb7b-a301a56936d2",
+        "date_posted": 1728915427,
+        "company_url": "",
+        "is_visible": true
     }
 ]
