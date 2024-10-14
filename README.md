@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| State Street | Global Technology Services Intern/Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/bab67ffbc23a18e06cac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Citadel | Quantitative Research Analyst Intern | Chicago, IL</br>New York, NY</br>Miami, FL | <a href="http://redirect.cvrve.me/336db1bf32713c8ff69b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Autodesk | Cloud Infrastructure Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/a52e791bc314ac1f1bf8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Wing | Backend Software Engineering Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/0c20906bc9235551d568?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |

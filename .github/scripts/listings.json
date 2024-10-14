@@ -27857,5 +27857,22 @@
         "date_posted": 1728721807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728914998,
+        "url": "http://redirect.cvrve.me/bab67ffbc23a18e06cac",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Global Technology Services Intern/Co-Op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2c62ba27-41c1-4d76-879d-72ce2d3c6542",
+        "date_posted": 1728914998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
