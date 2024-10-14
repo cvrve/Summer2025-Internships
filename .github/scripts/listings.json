@@ -27908,5 +27908,22 @@
         "date_posted": 1728915427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728915471,
+        "url": "http://redirect.cvrve.me/520a16b8c48d0de61010",
+        "locations": [
+            "Andover, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Software/Electrical R&D Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "87034967-c94b-46dc-89a4-791378ec01c2",
+        "date_posted": 1728915471,
+        "company_url": "",
+        "is_visible": true
     }
 ]
