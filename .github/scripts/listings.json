@@ -28044,5 +28044,22 @@
         "date_posted": 1728918820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728918878,
+        "url": "http://redirect.cvrve.me/05527565c4373e4d7c6a",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Properties",
+        "title": "Cyber Security Co-Op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "25b3c134-480e-4415-9807-29737f1400de",
+        "date_posted": 1728918878,
+        "company_url": "",
+        "is_visible": true
     }
 ]
