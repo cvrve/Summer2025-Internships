@@ -27976,5 +27976,22 @@
         "date_posted": 1728915724,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728915761,
+        "url": "http://redirect.cvrve.me/ef523fc6bef3b40cce2a",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Salesforce Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb71b915-59a9-4bc1-baa9-135314073eff",
+        "date_posted": 1728915761,
+        "company_url": "",
+        "is_visible": true
     }
 ]
