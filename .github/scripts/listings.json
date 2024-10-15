@@ -28759,5 +28759,22 @@
         "date_posted": 1729028119,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729028171,
+        "url": "http://redirect.cvrve.me/5b979280c70a14589b2a",
+        "locations": [
+            "Norman, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ECS",
+        "title": "Application Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "98ddd952-73a4-4811-a6e9-3e2207adf0e4",
+        "date_posted": 1729028171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
