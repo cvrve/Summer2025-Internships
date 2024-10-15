@@ -28439,5 +28439,22 @@
         "date_posted": 1728971978,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728972037,
+        "url": "http://redirect.cvrve.me/d1cff491114936f6b4c9",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Product Assurance Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e26c8737-967a-4712-83ec-0b22e8df8ad4",
+        "date_posted": 1728972037,
+        "company_url": "",
+        "is_visible": true
     }
 ]
