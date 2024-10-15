@@ -28776,5 +28776,22 @@
         "date_posted": 1729028171,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729028358,
+        "url": "http://redirect.cvrve.me/bcad35b697b0f4ccac83",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c2c09784-27eb-468e-9ce9-60d8852c1ecd",
+        "date_posted": 1729028358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
