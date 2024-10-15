@@ -28235,5 +28235,22 @@
         "date_posted": 1728971412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971448,
+        "url": "http://redirect.cvrve.me/fced910b79dc10f04fa5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Assured Guaranty",
+        "title": "IT Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dde16d53-05a1-4baa-9213-c541bade02e4",
+        "date_posted": 1728971448,
+        "company_url": "",
+        "is_visible": true
     }
 ]
