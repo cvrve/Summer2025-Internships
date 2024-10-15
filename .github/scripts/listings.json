@@ -28371,5 +28371,22 @@
         "date_posted": 1728971728,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971780,
+        "url": "http://redirect.cvrve.me/c14762c50c687c00fefd",
+        "locations": [
+            "St. Nazianz, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNH",
+        "title": "Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1b4ae96f-93bb-4985-a57b-403c006c40e8",
+        "date_posted": 1728971780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
