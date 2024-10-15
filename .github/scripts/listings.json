@@ -28148,5 +28148,22 @@
         "date_posted": 1728971040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971239,
+        "url": "http://redirect.cvrve.me/ad255c539e803562fa00",
+        "locations": [
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ACE Hardware",
+        "title": "IT Associate Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b01b269b-f96c-4ff4-a5d7-524ac87e002a",
+        "date_posted": 1728971239,
+        "company_url": "",
+        "is_visible": true
     }
 ]
