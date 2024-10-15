@@ -28498,5 +28498,22 @@
         "date_posted": 1728972245,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728972325,
+        "url": "http://redirect.cvrve.me/86e91d985b16fcc9e070",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fresenius Medical Care",
+        "title": "Software Engineering Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e4aee779-f636-4def-bc29-2c8676fa3502",
+        "date_posted": 1728972325,
+        "company_url": "",
+        "is_visible": true
     }
 ]
