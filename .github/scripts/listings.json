@@ -28742,5 +28742,22 @@
         "date_posted": 1729027761,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729028119,
+        "url": "http://redirect.cvrve.me/c0faa28e6dde37f584bc",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pitchbook",
+        "title": "Back End Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c3bdb83-3cdc-48bb-9209-b61ec7f3e81a",
+        "date_posted": 1729028119,
+        "company_url": "",
+        "is_visible": true
     }
 ]

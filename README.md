@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | UHS | Software Engineer Intern | King of Prussia, PA | <a href="http://redirect.cvrve.me/cc03c0fbbd48b811f923?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Pitchbook | Back End Software Developer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/c0faa28e6dde37f584bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Keysight | Software Application Engineer Intern | Loveland, CO | <a href="http://redirect.cvrve.me/b0f99f2c27b7183922a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Cleveland Clinic | Web Application/Data Modeling Intern | Ohio</br>Remote | <a href="http://redirect.cvrve.me/769bd31993a96cd05f7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Apptronik | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/26e20b0293e38892b392?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
