@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | UHS | Software Engineer Intern | King of Prussia, PA | <a href="http://redirect.cvrve.me/cc03c0fbbd48b811f923?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Skydio | Autonomy Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/bcad35b697b0f4ccac83?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Pitchbook | Back End Software Developer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/c0faa28e6dde37f584bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Keysight | Software Application Engineer Intern | Loveland, CO | <a href="http://redirect.cvrve.me/b0f99f2c27b7183922a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ECS | Application Programmer Intern | Norman, OK | <a href="http://redirect.cvrve.me/5b979280c70a14589b2a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
