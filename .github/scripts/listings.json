@@ -28252,5 +28252,22 @@
         "date_posted": 1728971448,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971477,
+        "url": "http://redirect.cvrve.me/22e9823ada0061f2bd9e",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SNC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "596c60fb-db4b-480c-b360-bfbebb05fdad",
+        "date_posted": 1728971477,
+        "company_url": "",
+        "is_visible": true
     }
 ]
