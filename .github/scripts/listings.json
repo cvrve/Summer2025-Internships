@@ -28708,5 +28708,22 @@
         "date_posted": 1729027589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729027643,
+        "url": "http://redirect.cvrve.me/b0f99f2c27b7183922a1",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Software Application Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed6a6cfb-dfaf-4cbd-9d4d-213a4c124ddb",
+        "date_posted": 1729027643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
