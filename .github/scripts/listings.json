@@ -28320,5 +28320,22 @@
         "date_posted": 1728971604,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971655,
+        "url": "http://redirect.cvrve.me/b6c9bb21ec8af7639e1f",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alaska Airlines",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a5902f1a-0253-4a91-a282-cbc83bbdf990",
+        "date_posted": 1728971655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
