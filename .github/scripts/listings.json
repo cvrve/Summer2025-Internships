@@ -28473,5 +28473,30 @@
         "date_posted": 1728972115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728972245,
+        "url": "http://redirect.cvrve.me/119e1b2b841f29d0dad6",
+        "locations": [
+            "St. Louis, MO",
+            "Austin, TX",
+            "Bloomfield, CT",
+            "Bloomington, MN",
+            "Denver, CO",
+            "Franklin, TN",
+            "Morris Plains, NJ",
+            "Nashville, TN",
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f4c16a85-8871-4f32-a254-3ad93ef151f5",
+        "date_posted": 1728972245,
+        "company_url": "",
+        "is_visible": true
     }
 ]
