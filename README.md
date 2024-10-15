@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | UHS | Software Engineer Intern | King of Prussia, PA | <a href="http://redirect.cvrve.me/cc03c0fbbd48b811f923?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Cleveland Clinic | Web Application/Data Modeling Intern | Ohio</br>Remote | <a href="http://redirect.cvrve.me/769bd31993a96cd05f7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Zebra | Software Engineer Intern | Holtsville, NY | <a href="http://redirect.cvrve.me/6052a81a18c88f50b0fe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Visa | Systems Engineer Intern | Highlands Ranch, CO | <a href="http://redirect.cvrve.me/1c33370758f0ca34d6fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Software Engineer Intern | Miami, FL | <a href="http://redirect.cvrve.me/2cdb03a4ffbf9620551b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
