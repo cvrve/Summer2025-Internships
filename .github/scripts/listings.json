@@ -28532,5 +28532,23 @@
         "date_posted": 1728972382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728972425,
+        "url": "http://redirect.cvrve.me/24ba3ac907025b6f32df",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Associate Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d1bcf0d8-8445-4461-a496-86daff9ac959",
+        "date_posted": 1728972425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
