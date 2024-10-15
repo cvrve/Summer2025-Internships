@@ -28422,5 +28422,22 @@
         "date_posted": 1728971879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728971978,
+        "url": "http://redirect.cvrve.me/6448a1cd5f67e9c2a969",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Data Scientist Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1dc1af8c-1160-459e-a8b3-1dad342c11c5",
+        "date_posted": 1728971978,
+        "company_url": "",
+        "is_visible": true
     }
 ]
