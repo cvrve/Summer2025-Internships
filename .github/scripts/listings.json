@@ -28605,5 +28605,22 @@
         "date_posted": 1728972781,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1728972818,
+        "url": "http://redirect.cvrve.me/9a6003c3926d4e6085a3",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNH",
+        "title": "Artificial Intelligence Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8c0675de-d498-467d-90dd-3023d33e14cd",
+        "date_posted": 1728972818,
+        "company_url": "",
+        "is_visible": true
     }
 ]
