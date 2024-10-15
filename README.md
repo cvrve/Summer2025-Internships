@@ -53,6 +53,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Staples | Data Engineering Intern | Framingham, MA | <a href="http://redirect.cvrve.me/4619ef33a1509585251b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Salesforce Developer Intern | Framingham, MA | <a href="http://redirect.cvrve.me/ef523fc6bef3b40cce2a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Java Developer Intern | Framingham, MA | <a href="http://redirect.cvrve.me/836c65e90af8f5b0b7a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| SNC | Software Engineer Intern | Lone Tree, CO | <a href="http://redirect.cvrve.me/22e9823ada0061f2bd9e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Smith+Nephew | Software/Electrical R&D Intern | Andover, PA | <a href="http://redirect.cvrve.me/520a16b8c48d0de61010?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI CoE Data Science Intern | locations Pittsburgh, PA | <a href="http://redirect.cvrve.me/ada0ebd8c37534f04589?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Rocket Companies | Software Engineer Intern | Detroit, MI | <a href="http://redirect.cvrve.me/46ba4ac038cbda82a19c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
