@@ -29472,5 +29472,22 @@
         "date_posted": 1729113841,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729113887,
+        "url": "http://redirect.cvrve.me/cd2484a9e2cbd5d52c88",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ARM",
+        "title": "Developer Advocacy Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bef1b365-1a2c-4d22-ac5e-7240fffc5931",
+        "date_posted": 1729113887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
