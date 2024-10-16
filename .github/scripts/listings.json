@@ -29244,5 +29244,22 @@
         "date_posted": 1729100344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100371,
+        "url": "http://redirect.cvrve.me/69769d940cec3ba98e01",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Agent Behavior Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6eb91f9e-3d03-4d89-9a32-07d91cb59262",
+        "date_posted": 1729100371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
