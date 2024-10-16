@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Hitachi | Software Engineering Intern | Liberty, SC | <a href="http://redirect.cvrve.me/ba1a645a91ff0fcd0898?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Electronic Arts | Software Engineer Intern | Redwood City, CA | <a href="http://redirect.cvrve.me/390d06469ba07ae47477?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | UHS | Software Engineer Intern | King of Prussia, PA | <a href="http://redirect.cvrve.me/cc03c0fbbd48b811f923?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Slack | Data Science Intern - Masters/PhD | San Francisco, CA | <a href="http://redirect.cvrve.me/0b485e657c572600e112?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
