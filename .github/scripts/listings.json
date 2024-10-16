@@ -28916,5 +28916,22 @@
         "date_posted": 1729039857,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729039896,
+        "url": "http://redirect.cvrve.me/2062299543dbea749cde",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chamberlain Group",
+        "title": "Test Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "53ca958e-3cbf-4f90-aa53-25ed15d73429",
+        "date_posted": 1729039896,
+        "company_url": "",
+        "is_visible": true
     }
 ]
