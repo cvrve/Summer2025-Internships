@@ -29893,5 +29893,23 @@
         "date_posted": 1729119495,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729119568,
+        "url": "http://redirect.cvrve.me/4badb62d9d5ed1383ec7",
+        "locations": [
+            "San Francisco, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Finance Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "466f9cb1-3ebe-4724-b8c4-bac3ae9ec3e1",
+        "date_posted": 1729119568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
