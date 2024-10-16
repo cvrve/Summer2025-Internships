@@ -29738,5 +29738,22 @@
         "date_posted": 1729117031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729117138,
+        "url": "http://redirect.cvrve.me/e141dd28e5fd33bd77a5",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "710a166d-286f-4faf-b590-eab3570a4d70",
+        "date_posted": 1729117138,
+        "company_url": "",
+        "is_visible": true
     }
 ]
