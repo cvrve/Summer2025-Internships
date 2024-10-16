@@ -29962,5 +29962,22 @@
         "date_posted": 1729120277,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120331,
+        "url": "http://redirect.cvrve.me/0cd5235349fb5d013089",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa094a18-2b56-41a1-b3af-ba2a4b9a0ad9",
+        "date_posted": 1729120331,
+        "company_url": "",
+        "is_visible": true
     }
 ]
