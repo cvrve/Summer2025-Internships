@@ -29979,5 +29979,22 @@
         "date_posted": 1729120331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120630,
+        "url": "http://redirect.cvrve.me/259a6ddbc266805131c7",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Companies",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ebbdc2d9-7a9f-4b24-96e6-8e2a57c20476",
+        "date_posted": 1729120630,
+        "company_url": "",
+        "is_visible": true
     }
 ]
