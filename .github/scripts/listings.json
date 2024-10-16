@@ -29106,5 +29106,22 @@
         "date_posted": 1729099959,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100016,
+        "url": "http://redirect.cvrve.me/0253b78ef6589a96e4dd",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Home Depot",
+        "title": "Software Engineer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "c7296875-3fee-4e9a-8c29-cabe935345a6",
+        "date_posted": 1729100016,
+        "company_url": "",
+        "is_visible": true
     }
 ]
