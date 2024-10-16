@@ -29052,5 +29052,25 @@
         "date_posted": 1729040602,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729043052,
+        "url": "http://redirect.cvrve.me/5c461f830730db3589cf",
+        "locations": [
+            "San Jose, CA",
+            "Portland, OR",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Ebay",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9990492d-4f2b-43a0-a8b8-6084d29c9433",
+        "date_posted": 1729043052,
+        "company_url": "",
+        "is_visible": true
     }
 ]
