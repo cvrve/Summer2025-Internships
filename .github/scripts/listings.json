@@ -30115,5 +30115,23 @@
         "date_posted": 1729120935,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120997,
+        "url": "https://careers.ibm.com/job/21086670/front-end-developer-intern-2025-tucson-az/",
+        "locations": [
+            "Tucson, AZ",
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Front End Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "11e0b466-6678-4b3a-8aa4-0ae31865461b",
+        "date_posted": 1729120997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
