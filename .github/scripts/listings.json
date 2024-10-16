@@ -30030,5 +30030,22 @@
         "date_posted": 1729120723,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120756,
+        "url": "http://redirect.cvrve.me/7081cffb28b9579a781c",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9755d823-6a31-4802-b60d-0360f807e980",
+        "date_posted": 1729120756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
