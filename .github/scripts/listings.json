@@ -30098,5 +30098,22 @@
         "date_posted": 1729120892,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120935,
+        "url": "http://redirect.cvrve.me/88703bf2d0a7162262f9",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Embedded Audio Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a311cbc1-d4bc-4a59-b574-1b86bc512b7c",
+        "date_posted": 1729120935,
+        "company_url": "",
+        "is_visible": true
     }
 ]
