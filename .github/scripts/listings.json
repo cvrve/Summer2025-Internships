@@ -30133,5 +30133,22 @@
         "date_posted": 1729120997,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729121144,
+        "url": "http://redirect.cvrve.me/be7b50de5fe1393d1efb",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence Design Systems",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c4d2085-79d6-44fe-aaf4-337230072d34",
+        "date_posted": 1729121144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
