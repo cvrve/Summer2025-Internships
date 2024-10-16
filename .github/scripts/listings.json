@@ -29261,5 +29261,25 @@
         "date_posted": 1729100371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100481,
+        "url": "http://redirect.cvrve.me/c106a1d85c998b5215e1",
+        "locations": [
+            "Bloomington, IL",
+            "Dunwoody, GA",
+            "Richardson, TX",
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Statefarm",
+        "title": "AI Strategic Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "450a9c00-3015-4d96-b63c-945244658345",
+        "date_posted": 1729100481,
+        "company_url": "",
+        "is_visible": true
     }
 ]
