@@ -28880,5 +28880,23 @@
         "date_posted": 1729039643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729039811,
+        "url": "http://redirect.cvrve.me/9c629f8a0e741ddde8d7",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ensemble Health Partners",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6640eb0e-2a38-44d2-a414-eab36e7f27a9",
+        "date_posted": 1729039811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
