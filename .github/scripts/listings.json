@@ -29175,5 +29175,22 @@
         "date_posted": 1729100116,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100164,
+        "url": "http://redirect.cvrve.me/0ce64969f30604625b54",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Greystone",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cc396cbb-fd7c-4548-b23c-1cb492cbc05b",
+        "date_posted": 1729100164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
