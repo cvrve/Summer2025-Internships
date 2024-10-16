@@ -29402,5 +29402,22 @@
         "date_posted": 1729113540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729113600,
+        "url": "http://redirect.cvrve.me/bb5bc37c20acd86153d4",
+        "locations": [
+            "Midvale, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Zions Bancorporation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8fefc6af-01cc-4604-8384-982e1abde10a",
+        "date_posted": 1729113600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
