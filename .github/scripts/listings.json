@@ -29911,5 +29911,22 @@
         "date_posted": 1729119568,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729120207,
+        "url": "http://redirect.cvrve.me/1730c2d6378950e24d3e",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pitchbook",
+        "title": "Software Development Platform Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9a53b5e4-2f55-4f1c-ae25-4c5957251595",
+        "date_posted": 1729120207,
+        "company_url": "",
+        "is_visible": true
     }
 ]
