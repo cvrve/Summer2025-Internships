@@ -28793,5 +28793,23 @@
         "date_posted": 1729028358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729037705,
+        "url": "http://redirect.cvrve.me/7e00f1373800c67c2100",
+        "locations": [
+            "Ohio",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IGS",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ae185a28-b98a-4512-a37f-eccb42e43327",
+        "date_posted": 1729037705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
