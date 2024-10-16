@@ -28862,5 +28862,23 @@
         "date_posted": 1729038281,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729039643,
+        "url": "http://redirect.cvrve.me/41424bb54171398a9462",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ensemble Health Partners",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5318e99-a5cc-4852-a366-05592dc53898",
+        "date_posted": 1729039643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
