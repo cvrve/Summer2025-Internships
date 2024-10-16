@@ -29209,5 +29209,22 @@
         "date_posted": 1729100197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100290,
+        "url": "http://redirect.cvrve.me/b2a96eca63a9a8e033e9",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "MBA Product Marketing Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6c7d79cb-f821-4aec-966a-c897ecf84292",
+        "date_posted": 1729100290,
+        "company_url": "",
+        "is_visible": true
     }
 ]
