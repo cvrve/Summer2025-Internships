@@ -29192,5 +29192,22 @@
         "date_posted": 1729100164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100197,
+        "url": "http://redirect.cvrve.me/02273676ceaf3e6a6bd3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Greystone",
+        "title": "Full Stack Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b065100d-13ab-4f26-9307-a0da0b96c36e",
+        "date_posted": 1729100197,
+        "company_url": "",
+        "is_visible": true
     }
 ]
