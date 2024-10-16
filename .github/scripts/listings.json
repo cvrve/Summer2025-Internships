@@ -29035,5 +29035,22 @@
         "date_posted": 1729040454,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729040602,
+        "url": "http://redirect.cvrve.me/30632ae4db2cfc7dfd11",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Savvas Learning Company",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "919754e3-8f19-4e5c-a0c9-6f702f62b37c",
+        "date_posted": 1729040602,
+        "company_url": "",
+        "is_visible": true
     }
 ]
