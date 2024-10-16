@@ -29123,5 +29123,22 @@
         "date_posted": 1729100016,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729100045,
+        "url": "http://redirect.cvrve.me/df882d98f51353db1025",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91b1a312-4434-4e15-a91f-e33c933b2448",
+        "date_posted": 1729100045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
