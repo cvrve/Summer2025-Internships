@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Agent Behavior Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/69769d940cec3ba98e01?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| Workleap | Software Developer Intern | Remote</br>Canada | <a href="http://redirect.cvrve.me/5619b65dc51e88c32c12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Statefarm | AI Strategic Analyst Intern | <details><summary>**4 locations**</summary>Bloomington, IL</br>Dunwoody, GA</br>Richardson, TX</br>Tempe, AZ</details> | <a href="http://redirect.cvrve.me/c106a1d85c998b5215e1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | SelectQuote | Application Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/2d707b64e2cdbffceafc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | NVIDIA | MBA Product Marketing Management Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/b2a96eca63a9a8e033e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
