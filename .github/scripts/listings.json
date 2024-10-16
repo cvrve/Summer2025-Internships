@@ -29089,5 +29089,22 @@
         "date_posted": 1729099925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729099959,
+        "url": "http://redirect.cvrve.me/ba1a645a91ff0fcd0898",
+        "locations": [
+            "Liberty, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a8ac6ebc-713c-4f68-888f-899f93d296fd",
+        "date_posted": 1729099959,
+        "company_url": "",
+        "is_visible": true
     }
 ]
