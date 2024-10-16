@@ -28828,5 +28828,22 @@
         "date_posted": 1729037824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729038246,
+        "url": "http://redirect.cvrve.me/e8ef89cc55633f87fd42",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Companies",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb06dcd7-01ab-48f7-a058-c0ac78c60abe",
+        "date_posted": 1729038246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
