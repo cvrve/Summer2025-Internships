@@ -29385,5 +29385,22 @@
         "date_posted": 1729113507,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729113540,
+        "url": "http://redirect.cvrve.me/266d2798006505665dd5",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maxar",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4ae96cb3-f486-4071-8af3-084b97d96ddf",
+        "date_posted": 1729113540,
+        "company_url": "",
+        "is_visible": true
     }
 ]
