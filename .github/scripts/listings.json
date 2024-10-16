@@ -29368,5 +29368,22 @@
         "date_posted": 1729113438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729113507,
+        "url": "http://redirect.cvrve.me/4d05c126bd80369faa20",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "3D Systems",
+        "title": "Embedded Firmware Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "956e3f77-facf-494f-a16e-6ee88cff7014",
+        "date_posted": 1729113507,
+        "company_url": "",
+        "is_visible": true
     }
 ]
