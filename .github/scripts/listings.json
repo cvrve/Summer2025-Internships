@@ -29489,5 +29489,23 @@
         "date_posted": 1729113887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729115387,
+        "url": "http://redirect.cvrve.me/536255f4c3a4abaf7b53",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "43cc967b-bdbb-41d3-9082-a1cda9b9c37a",
+        "date_posted": 1729115387,
+        "company_url": "",
+        "is_visible": true
     }
 ]
