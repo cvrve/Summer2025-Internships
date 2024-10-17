@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | XPeng Motors | Tools and Infrastructure Software Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/d5ad5a759e4a0103fb5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Viasat | Software Engineer Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/6f2e53109cf8b322407a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| The Toro Company | Robotics Software Development Intern | Frederick, CO | <a href="http://redirect.cvrve.me/ea176d604ae685c55f81?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | T-Mobile | Software Development Intern | Overland Park, KS | <a href="http://redirect.cvrve.me/5d8c7ba523b98dc3c518?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | ↳ | Software Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/59a50243b3fda445633c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Shield AI | Frontend Software Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/fdcba92668ec43583b26?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
