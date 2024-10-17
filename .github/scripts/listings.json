@@ -30235,5 +30235,22 @@
         "date_posted": 1729151710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729151735,
+        "url": "http://redirect.cvrve.me/fdcba92668ec43583b26",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Frontend Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "deaf00f2-6d63-45a1-9716-a6d400aa1633",
+        "date_posted": 1729151735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
