@@ -30874,5 +30874,22 @@
         "date_posted": 1729205014,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729205077,
+        "url": "http://redirect.cvrve.me/54cd4bd05b43103cafba",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GreenStone Farm Credit Services",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3538edd-399d-435c-902a-24b73131be3e",
+        "date_posted": 1729205077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
