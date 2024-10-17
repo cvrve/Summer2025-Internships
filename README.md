@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| EA | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/8167439a7b5dc7ad8b6a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Zoox | Agent Behavior Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/69769d940cec3ba98e01?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Zions Bancorporation | Software Engineer Intern 🛂 | Midvale, UT | <a href="http://redirect.cvrve.me/bb5bc37c20acd86153d4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Workleap | Software Developer Intern | Remote</br>Canada | <a href="http://redirect.cvrve.me/5619b65dc51e88c32c12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
