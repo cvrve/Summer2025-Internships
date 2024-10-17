@@ -30252,5 +30252,22 @@
         "date_posted": 1729151735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729152074,
+        "url": "http://redirect.cvrve.me/d5ad5a759e4a0103fb5a",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPeng Motors",
+        "title": "Tools and Infrastructure Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1e65588a-e0bc-42ff-b375-36791f65472f",
+        "date_posted": 1729152074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
