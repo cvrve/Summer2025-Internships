@@ -30891,5 +30891,22 @@
         "date_posted": 1729205077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729205164,
+        "url": "http://redirect.cvrve.me/b313a0fac3b66d012760",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC Inc",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9ee748a9-5ee2-43f4-916b-760e453d44dc",
+        "date_posted": 1729205164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
