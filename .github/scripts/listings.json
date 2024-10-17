@@ -30513,5 +30513,22 @@
         "date_posted": 1729198636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198740,
+        "url": "http://redirect.cvrve.me/84497c3e3951c1b3c90d",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "96c5666c-3fbe-441d-b04e-4bafa7934bef",
+        "date_posted": 1729198740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
