@@ -30839,5 +30839,22 @@
         "date_posted": 1729204946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729204975,
+        "url": "http://redirect.cvrve.me/21f70884b2b962f90aa6",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vail",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4192016d-611c-4dbc-b143-3ef74df1df0f",
+        "date_posted": 1729204975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
