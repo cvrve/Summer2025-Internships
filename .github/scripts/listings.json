@@ -30805,5 +30805,22 @@
         "date_posted": 1729203049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729204899,
+        "url": "http://redirect.cvrve.me/f9eb3d24625dbcfb33dd",
+        "locations": [
+            "Malibu, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HRL",
+        "title": "Quantum Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f244225c-9d9d-4aa2-86cf-ee3193bea3e1",
+        "date_posted": 1729204899,
+        "company_url": "",
+        "is_visible": true
     }
 ]
