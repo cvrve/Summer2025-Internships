@@ -30650,5 +30650,22 @@
         "date_posted": 1729199575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199998,
+        "url": "http://redirect.cvrve.me/9b1c97f259ef6da26685",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c8145ea4-45ad-40ee-ae2c-1d408bcb9d1f",
+        "date_posted": 1729199998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
