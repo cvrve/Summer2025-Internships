@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MKS | Software Engineer Co-Op - Spring | Rochester, NY | <a href="http://redirect.cvrve.me/264911bbdb6fd2af17bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | The Home Depot | Software Engineer Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/0253b78ef6589a96e4dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Phillips | Software Engineer Co-Op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/dfc2deba4a568123aac9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Motorola Solutions | Software Engineer DSP Intern - Spring | Plantation, FL | <a href="http://redirect.cvrve.me/1ca9ca48b73b63d71ae4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
