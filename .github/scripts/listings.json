@@ -30684,5 +30684,22 @@
         "date_posted": 1729201484,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729201640,
+        "url": "http://redirect.cvrve.me/ca47eec01e14a20e9091",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Full-Stack Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3194f259-0362-4b76-b093-2f8858874710",
+        "date_posted": 1729201640,
+        "company_url": "",
+        "is_visible": true
     }
 ]
