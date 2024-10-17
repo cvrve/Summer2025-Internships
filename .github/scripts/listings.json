@@ -30393,5 +30393,22 @@
         "date_posted": 1729197344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198243,
+        "url": "http://redirect.cvrve.me/e58126d5032559983c7a",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schaeffler",
+        "title": "Computer Science Intern - Winter",
+        "season": "Winter",
+        "source": "cvrve-bot",
+        "id": "307104c6-6303-4688-9b8c-6788e1199e38",
+        "date_posted": 1729198243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
