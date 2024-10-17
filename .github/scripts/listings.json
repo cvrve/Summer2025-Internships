@@ -30496,5 +30496,22 @@
         "date_posted": 1729198586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198636,
+        "url": "http://redirect.cvrve.me/9a9d6940d13741a41e28",
+        "locations": [
+            "Minnesota Field, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entrust",
+        "title": "ML Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3ae320d4-4c9f-45c4-b675-7422b1671273",
+        "date_posted": 1729198636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
