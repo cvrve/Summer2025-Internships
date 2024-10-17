@@ -30461,5 +30461,23 @@
         "date_posted": 1729198442,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198551,
+        "url": "http://redirect.cvrve.me/1e13d71ceea97848b349",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Powin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b9d51ddd-e638-4cd5-b643-ff92e56e8e3b",
+        "date_posted": 1729198551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
