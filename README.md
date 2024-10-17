@@ -47,7 +47,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | XPeng Motors | Tools and Infrastructure Software Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/d5ad5a759e4a0103fb5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
-| WeRide | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/f22b877387fde341b1d9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Viasat | Software Engineer Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/6f2e53109cf8b322407a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Total Wine | Software Engineer Intern | Boca Raton, FL | <a href="http://redirect.cvrve.me/ea6092e69def0b2f3d66?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | The Toro Company | Robotics Software Development Intern | Frederick, CO | <a href="http://redirect.cvrve.me/ea176d604ae685c55f81?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
