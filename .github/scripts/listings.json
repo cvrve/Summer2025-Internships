@@ -30321,5 +30321,22 @@
         "date_posted": 1729152572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729180995,
+        "url": "http://redirect.cvrve.me/264911bbdb6fd2af17bc",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MKS",
+        "title": "Software Engineer Co-Op - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "601430c5-9ab1-4a0d-af19-6733f149fe87",
+        "date_posted": 1729180995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
