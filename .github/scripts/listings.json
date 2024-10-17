@@ -30167,5 +30167,22 @@
         "date_posted": 1729151253,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729151508,
+        "url": "http://redirect.cvrve.me/4e7ea446577ca3191f47",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kiewit",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91e3d415-886c-4ac2-8d8b-fb5ed2b9aed0",
+        "date_posted": 1729151508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
