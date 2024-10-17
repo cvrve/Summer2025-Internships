@@ -30410,5 +30410,22 @@
         "date_posted": 1729198243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198371,
+        "url": "http://redirect.cvrve.me/b45805ce60ae0d868049",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schaeffler",
+        "title": "Computer Science Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "039ce5cd-c841-4796-95a2-c69e1cf4a09b",
+        "date_posted": 1729198371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
