@@ -30615,5 +30615,23 @@
         "date_posted": 1729199262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199385,
+        "url": "http://redirect.cvrve.me/045ec1634ec24db39bee",
+        "locations": [
+            "Mount Laurel, NJ",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Innovative Defense Technologies (IDT)",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6d77c952-3e06-4553-8401-826ca17096bc",
+        "date_posted": 1729199385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
