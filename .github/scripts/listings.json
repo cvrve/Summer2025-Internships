@@ -30581,5 +30581,22 @@
         "date_posted": 1729198957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729199014,
+        "url": "http://redirect.cvrve.me/7631e3952c8196d7ec56",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Labcorp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bf7321dd-c6eb-4d66-bc00-ea69c83cbc73",
+        "date_posted": 1729199014,
+        "company_url": "",
+        "is_visible": true
     }
 ]
