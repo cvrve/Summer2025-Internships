@@ -30754,5 +30754,22 @@
         "date_posted": 1729202245,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729202536,
+        "url": "http://redirect.cvrve.me/9e3ba7b99c9886a13d88",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Fullstack Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a28a4603-5cec-4b4a-893c-eaeb926beec9",
+        "date_posted": 1729202536,
+        "company_url": "",
+        "is_visible": true
     }
 ]
