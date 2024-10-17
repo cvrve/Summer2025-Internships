@@ -30269,5 +30269,22 @@
         "date_posted": 1729152074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729152104,
+        "url": "http://redirect.cvrve.me/ea176d604ae685c55f81",
+        "locations": [
+            "Frederick, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "The Toro Company",
+        "title": "Robotics Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aadd058a-1e1b-4cf9-8eab-589e303a7c40",
+        "date_posted": 1729152104,
+        "company_url": "",
+        "is_visible": true
     }
 ]
