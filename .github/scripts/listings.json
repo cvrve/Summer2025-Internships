@@ -30564,5 +30564,22 @@
         "date_posted": 1729198810,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729198957,
+        "url": "http://redirect.cvrve.me/ee17fd89001968959502",
+        "locations": [
+            "Devens, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commonwealth Fusion Systems",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3b25d539-a93e-42e0-a4c6-5d50556d7f54",
+        "date_posted": 1729198957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
