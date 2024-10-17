@@ -30701,5 +30701,23 @@
         "date_posted": 1729201640,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729202113,
+        "url": "http://redirect.cvrve.me/e5b103aa81f0bd59a5db",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workleap",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4cd9ab8a-2522-4f56-b288-edad5b1e3800",
+        "date_posted": 1729202113,
+        "company_url": "",
+        "is_visible": true
     }
 ]

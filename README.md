@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | XPeng Motors | Tools and Infrastructure Software Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/d5ad5a759e4a0103fb5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| Workleap | Software Developer Intern | Remote</br>Canada | <a href="http://redirect.cvrve.me/e5b103aa81f0bd59a5db?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Waymo | Full-Stack Software Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/ca47eec01e14a20e9091?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Viasat | Software Engineer Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/6f2e53109cf8b322407a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Total Wine | Software Engineer Intern | Boca Raton, FL | <a href="http://redirect.cvrve.me/ea6092e69def0b2f3d66?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
