@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viasat | Software Engineer Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/6f2e53109cf8b322407a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| T-Mobile | Software Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/59a50243b3fda445633c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Kiewit | Software Engineer Intern | Omaha, NE | <a href="http://redirect.cvrve.me/4e7ea446577ca3191f47?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | EA | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/8167439a7b5dc7ad8b6a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Zoox | Agent Behavior Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/69769d940cec3ba98e01?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
