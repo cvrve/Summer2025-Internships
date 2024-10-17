@@ -30184,5 +30184,22 @@
         "date_posted": 1729151508,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729151555,
+        "url": "http://redirect.cvrve.me/6f2e53109cf8b322407a",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e0e4da15-7a49-4f22-872f-bc7cd5b99c5d",
+        "date_posted": 1729151555,
+        "company_url": "",
+        "is_visible": true
     }
 ]
