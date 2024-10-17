@@ -30719,5 +30719,23 @@
         "date_posted": 1729202113,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729202159,
+        "url": "http://redirect.cvrve.me/52999dc1f8efb5b47790",
+        "locations": [
+            "Maplewood, MN",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solventum",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5624692-020f-4fda-9641-0cada8ad0e10",
+        "date_posted": 1729202159,
+        "company_url": "",
+        "is_visible": true
     }
 ]
