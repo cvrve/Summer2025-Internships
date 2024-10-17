@@ -30303,5 +30303,23 @@
         "date_posted": 1729152307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729152572,
+        "url": "http://redirect.cvrve.me/7adee015909ca1648be2",
+        "locations": [
+            "Vancouver, WA",
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HP",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b4fee151-fa94-46b4-a142-66fa08c1f253",
+        "date_posted": 1729152572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
