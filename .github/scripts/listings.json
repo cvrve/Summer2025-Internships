@@ -30788,5 +30788,22 @@
         "date_posted": 1729202909,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729203049,
+        "url": "http://redirect.cvrve.me/c41f577b568f4a595d60",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f73afd6e-fbc1-4ebb-b60c-831db6c40a4a",
+        "date_posted": 1729203049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
