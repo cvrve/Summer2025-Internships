@@ -30771,5 +30771,22 @@
         "date_posted": 1729202536,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729202909,
+        "url": "http://redirect.cvrve.me/53e16576b5395d7af75e",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2c6b772c-6670-4582-9a9c-3618749851b8",
+        "date_posted": 1729202909,
+        "company_url": "",
+        "is_visible": true
     }
 ]
