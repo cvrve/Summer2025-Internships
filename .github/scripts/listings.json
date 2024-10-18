@@ -31190,5 +31190,25 @@
         "date_posted": 1729282747,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282826,
+        "url": "http://redirect.cvrve.me/a4cf275884763d10e2c0",
+        "locations": [
+            "Los Angeles, CA",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Snap Inc",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d47d9258-6ac1-4b17-93cc-09cad7c68128",
+        "date_posted": 1729282826,
+        "company_url": "",
+        "is_visible": true
     }
 ]
