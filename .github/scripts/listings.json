@@ -31295,5 +31295,22 @@
         "date_posted": 1729283097,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283498,
+        "url": "http://redirect.cvrve.me/a514ea84194cc231d63b",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91e04492-4159-499f-a107-e77206424d04",
+        "date_posted": 1729283498,
+        "company_url": "",
+        "is_visible": true
     }
 ]
