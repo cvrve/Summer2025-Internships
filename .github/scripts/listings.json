@@ -31172,5 +31172,23 @@
         "date_posted": 1729282663,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282747,
+        "url": "http://redirect.cvrve.me/a5aa060995b7b29c6d07",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SelectQuote",
+        "title": "IT Infrastructure Development Operations Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dc154135-eb5c-4fa8-a486-6a033a5258a4",
+        "date_posted": 1729282747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
