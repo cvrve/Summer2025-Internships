@@ -31036,5 +31036,22 @@
         "date_posted": 1729227592,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729281172,
+        "url": "http://redirect.cvrve.me/6b8dd86f9242b2315b01",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "AI/ML Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bfdc008a-692c-4656-9c51-b0f7c0479d7a",
+        "date_posted": 1729281172,
+        "company_url": "",
+        "is_visible": true
     }
 ]
