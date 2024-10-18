@@ -31121,5 +31121,22 @@
         "date_posted": 1729282554,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282579,
+        "url": "http://redirect.cvrve.me/73b80f9bbb55d2e0c20f",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPeng Motors",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b80e4f34-2708-4a79-99fc-734bffe85010",
+        "date_posted": 1729282579,
+        "company_url": "",
+        "is_visible": true
     }
 ]

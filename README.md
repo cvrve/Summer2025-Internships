@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| XPeng Motors | Computer Vision Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/0560655fc989c9b1487a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| XPeng Motors | Machine Learning Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/73b80f9bbb55d2e0c20f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| ↳ | Computer Vision Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/0560655fc989c9b1487a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Two Six Technologies | AI/ML Research Intern | Arlington, VA | <a href="http://redirect.cvrve.me/6b8dd86f9242b2315b01?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Shield AI | Embedded Software Engineering Intern | Dallas, TX | <a href="http://redirect.cvrve.me/0c34a65b9dfad2763ffd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Engineering Simulation Intern | San Diego, CA | <a href="http://redirect.cvrve.me/45bcdab2e621c7e92c03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
