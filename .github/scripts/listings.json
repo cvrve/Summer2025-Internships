@@ -31015,5 +31015,26 @@
         "date_posted": 1729227511,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729227592,
+        "url": "http://redirect.cvrve.me/52cf3cbcd9d9823c1944",
+        "locations": [
+            "Sunnyvale, CA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8e7987f6-6e14-4b93-83d6-c418b4e6bf79",
+        "date_posted": 1729227592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
