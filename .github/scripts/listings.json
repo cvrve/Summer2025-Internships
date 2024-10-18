@@ -31397,5 +31397,22 @@
         "date_posted": 1729283758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283790,
+        "url": "http://redirect.cvrve.me/578a3182d69bd5d1a8ea",
+        "locations": [
+            "Byron Center, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpartanNash",
+        "title": "IT Ecommerce Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bd4bd5ee-db90-4eb4-bc49-1c9042aeaaab",
+        "date_posted": 1729283790,
+        "company_url": "",
+        "is_visible": true
     }
 ]
