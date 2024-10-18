@@ -31346,5 +31346,22 @@
         "date_posted": 1729283638,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283692,
+        "url": "http://redirect.cvrve.me/f3802d92b17346e39f68",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "Full Stack Engineering Intern - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8385b881-8e4a-4804-986f-f8727ef8ee8f",
+        "date_posted": 1729283692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
