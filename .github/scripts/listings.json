@@ -13886,7 +13886,7 @@
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Beckman Coulter Life Sciences",
         "title": "Application Development Intern",
         "season": "Summer",
@@ -18682,7 +18682,7 @@
             "Chaska, MN"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Beckman Coulter Diagnostics",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -20114,7 +20114,7 @@
             "LocationUnited States"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Honeywell",
         "title": "Embedded Engineer Intern",
         "season": "Summer",
@@ -20914,7 +20914,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Hitachi Rail",
         "title": "Software Testing Intern",
         "season": "Summer",
@@ -28345,7 +28345,7 @@
             "Waco, TX"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Texas Farm Bureau",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -28430,7 +28430,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Adobe",
         "title": "Data Scientist Intern - Masters",
         "season": "Summer",
