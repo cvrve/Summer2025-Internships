@@ -31312,5 +31312,22 @@
         "date_posted": 1729283498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283545,
+        "url": "http://redirect.cvrve.me/d2af52a04158e9f9596f",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "DevOps Engineer Intern - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b7ce8f28-b683-4dd2-b8ae-30505195fd55",
+        "date_posted": 1729283545,
+        "company_url": "",
+        "is_visible": true
     }
 ]
