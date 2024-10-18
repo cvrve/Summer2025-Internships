@@ -31227,5 +31227,22 @@
         "date_posted": 1729282858,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282903,
+        "url": "http://redirect.cvrve.me/76555630e193c1ff5784",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "AR/VR Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fe716094-1989-4f3e-b6b1-3c8573f9bb31",
+        "date_posted": 1729282903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
