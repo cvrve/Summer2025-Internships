@@ -31329,5 +31329,22 @@
         "date_posted": 1729283545,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283638,
+        "url": "http://redirect.cvrve.me/705a69b9ef683c5be6be",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "rfsmart",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36afea0b-1ee5-4da9-97bb-e591d6237fe2",
+        "date_posted": 1729283638,
+        "company_url": "",
+        "is_visible": true
     }
 ]
