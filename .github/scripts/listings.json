@@ -31380,5 +31380,22 @@
         "date_posted": 1729283727,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729283758,
+        "url": "http://redirect.cvrve.me/f16de3b199cc4eea77b1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi",
+        "title": "Systems Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a519beda-eb61-4646-bbfc-433eeceb13fd",
+        "date_posted": 1729283758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
