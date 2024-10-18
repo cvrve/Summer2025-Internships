@@ -1215,6 +1215,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Point72 | Quantitative Developer Intern | New York | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| AT&T | Technology Development Program | Dallas, Texas | 🔒 | Oct 18 |
 | Vail | Data Analyst Intern | Chicago, IL | 🔒 | Oct 17 |
 | Adobe | Software Engineer Intern | San Jose, CA</br>San Francisco, CA | 🔒 | Oct 16 |
 | ↳ | Software Development Engineer Intern | San Jose, CA</br>San Francisco, CA | 🔒 | Oct 16 |

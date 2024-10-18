@@ -31087,5 +31087,22 @@
         "date_posted": 1729281434,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729281499,
+        "url": "http://redirect.cvrve.me/acd9efd80a2f13b0a353",
+        "locations": [
+            "Dallas, Texas"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "company_name": "AT&T",
+        "title": "Technology Development Program",
+        "season": "Summer",
+        "source": "Valx01P",
+        "id": "d5b1a311-cf7c-45b1-81b1-914f642b7df2",
+        "date_posted": 1729281499,
+        "company_url": "",
+        "is_visible": true
     }
 ]
