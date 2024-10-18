@@ -30993,5 +30993,27 @@
         "date_posted": 1729227453,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729227511,
+        "url": "http://redirect.cvrve.me/59a8b33442f28e3e5353",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "New York, NY",
+            "Burlingame, CA",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Production Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f7e84947-2078-40a9-84f9-169139c8b9dc",
+        "date_posted": 1729227511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
