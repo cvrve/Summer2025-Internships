@@ -31210,5 +31210,22 @@
         "date_posted": 1729282826,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282858,
+        "url": "http://redirect.cvrve.me/20523fc3d3314ad5936d",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "IT Strategy Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cd64972c-b8de-4353-a1a8-f0485e7fd211",
+        "date_posted": 1729282858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
