@@ -31104,5 +31104,22 @@
         "date_posted": 1729281499,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729282554,
+        "url": "http://redirect.cvrve.me/0560655fc989c9b1487a",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPeng Motors",
+        "title": "Computer Vision Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e2fe70cc-7921-43cd-b51b-782290eb4b29",
+        "date_posted": 1729282554,
+        "company_url": "",
+        "is_visible": true
     }
 ]
