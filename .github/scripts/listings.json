@@ -31501,24 +31501,5 @@
         "date_posted": 1729347161,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1729347232,
-        "url": "http://redirect.cvrve.me/298d0f0181aa9c3a0c8b",
-        "locations": [
-            "Los Angeles, CA",
-            "Seattle, WA",
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Snap Inc",
-        "title": "Software Engineer, C++",
-        "season": "Summer",
-        "source": "cvrve-bot",
-        "id": "d3ff4d70-06d3-404e-ab59-c20276c2670c",
-        "date_posted": 1729347232,
-        "company_url": "",
-        "is_visible": true
     }
 ]
