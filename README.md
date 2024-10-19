@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | SelectQuote | Application Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/96363427286a4b37d77e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Microsoft | Electrical Engineer Intern | Fort Collins, CO | <a href="http://redirect.cvrve.me/0799ac71e1115252f194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | IBM | Open Source Software Developer Intern | Research Triangle Park, NC | <a href="http://redirect.cvrve.me/7b46ce39b45c43e26876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Amazon | Robotics Systems Dev Engineer Co-Op - Spring | Westborough, MA</br>North Reading, MA | <a href="http://redirect.cvrve.me/c514ecc45cc848a74f73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | XPeng Motors | Machine Learning System Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/a9fb7e3594f2edffd4bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
