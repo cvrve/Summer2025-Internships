@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| IBM | Open Source Software Developer Intern | Research Triangle Park, NC | <a href="http://redirect.cvrve.me/7b46ce39b45c43e26876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | XPeng Motors | Machine Learning System Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/a9fb7e3594f2edffd4bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Machine Learning Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/73b80f9bbb55d2e0c20f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Computer Vision Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/0560655fc989c9b1487a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
