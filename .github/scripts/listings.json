@@ -31501,5 +31501,22 @@
         "date_posted": 1729347161,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347639,
+        "url": "http://redirect.cvrve.me/fe3eb166b2dd64a45e84",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Machine Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bdd04f9f-73c1-469c-ac9d-0f61ab95e239",
+        "date_posted": 1729347639,
+        "company_url": "",
+        "is_visible": true
     }
 ]
