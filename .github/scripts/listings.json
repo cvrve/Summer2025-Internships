@@ -31552,5 +31552,22 @@
         "date_posted": 1729347764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347836,
+        "url": "http://redirect.cvrve.me/0483c502d893577d07b4",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "DevOps Co-op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "af671b9d-4914-4e5f-8f0d-146bf111f12a",
+        "date_posted": 1729347836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
