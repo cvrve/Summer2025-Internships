@@ -31535,5 +31535,22 @@
         "date_posted": 1729347663,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347764,
+        "url": "http://redirect.cvrve.me/0b2d48b0de5f3790b014",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Autonomy & Real-Time Planning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "00edb51b-5cf7-451d-bf24-077c92ddcbf4",
+        "date_posted": 1729347764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
