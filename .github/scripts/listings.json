@@ -31586,5 +31586,22 @@
         "date_posted": 1729347875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347920,
+        "url": "http://redirect.cvrve.me/6befdc0d03fdcdc5f612",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe",
+        "title": "Cloud Engineering Intern Co-Op",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "5a690d04-19c4-42bc-ab99-c43a15f87e77",
+        "date_posted": 1729347920,
+        "company_url": "",
+        "is_visible": true
     }
 ]
