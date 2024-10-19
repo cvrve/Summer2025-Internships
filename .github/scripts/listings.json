@@ -31484,5 +31484,22 @@
         "date_posted": 1729347122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729347161,
+        "url": "http://redirect.cvrve.me/0799ac71e1115252f194",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Electrical Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f86d624b-7dd8-4a12-b96c-ce8d33085882",
+        "date_posted": 1729347161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
