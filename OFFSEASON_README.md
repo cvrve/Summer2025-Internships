@@ -74,11 +74,17 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Draper | Software Engineering Co-op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/2024a9b88b2faf89368a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| ↳ | DevOps Co-op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/0483c502d893577d07b4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Cboe | Cloud Engineering Intern Co-Op | Chicago, IL | <a href="http://redirect.cvrve.me/6befdc0d03fdcdc5f612?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Amazon | Robotics Systems Dev Engineer Co-Op - Spring | Westborough, MA</br>North Reading, MA | <a href="http://redirect.cvrve.me/c514ecc45cc848a74f73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Acxiom | Full Stack Engineering Intern - Spring | Conway, AR | <a href="http://redirect.cvrve.me/f3802d92b17346e39f68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| ↳ | DevOps Engineer Intern - Spring | Conway, AR | <a href="http://redirect.cvrve.me/d2af52a04158e9f9596f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Schaeffler | Computer Science Intern - Winter | Troy, MI | <a href="http://redirect.cvrve.me/e58126d5032559983c7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | MKS | Software Engineer Co-Op - Spring | Rochester, NY | <a href="http://redirect.cvrve.me/264911bbdb6fd2af17bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| HP | Personal Systems AI/Machine Learning Intern - Spring | <details><summary>**5 locations**</summary>Spring, TX</br>Palo Alto, CA</br>Boise, ID</br>Vancouver, WA</br>Austin, TX</details> | <a href="http://redirect.cvrve.me/4af886f4723f765c583f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | The Home Depot | Software Engineer Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/0253b78ef6589a96e4dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Phillips | Software Engineer Co-Op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/dfc2deba4a568123aac9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| NxStage Medical | Software Engineering Co-Op - Spring | Lawrence, MA | <a href="http://redirect.cvrve.me/d779effe6cca6686924e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Motorola Solutions | Software Engineer DSP Intern - Spring | Plantation, FL | <a href="http://redirect.cvrve.me/1ca9ca48b73b63d71ae4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Boston Properties | IT Services Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/a32d4a21a739df26a83f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | IT Applications Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/3ceb82f17527c4980383?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -213,6 +219,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Neuralink | Software Engineer Intern | Fremont, CA | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Moog | Software Engineering Intern | <details><summary>**5 locations**</summary>Elma, NY</br>Torrance, CA</br>Arvada, CO</br>Gilbert, AZ</br>Goleta, CA</details> | <a href="https://careers.moog.com/jobs/fall-2024-software-engineering-internship-13191?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Five Rings | Software Developer | New York, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
+| DANA | Commercial Vehicle Software Engineering Co-op - Spring | Maumee, OH | 🔒 | Oct 15 |
 | Tesla | Fullstack Engineer Intern - Winter/Spring | Fremont, CA | 🔒 | Oct 09 |
 | Bae Systems | Cyber/RF Software Development Intern | Merrimack, NH | 🔒 | Oct 04 |
 | Tesla | Fullstack Engineer Intern | Palo Alto, CA | 🔒 | Sep 17 |
