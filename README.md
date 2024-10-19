@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Snap Inc | Software Engineer, C++ | Los Angeles, CA</br>Seattle, WA</br>New York, NY | <a href="http://redirect.cvrve.me/298d0f0181aa9c3a0c8b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | SelectQuote | Application Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/96363427286a4b37d77e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Microsoft | Electrical Engineer Intern | Fort Collins, CO | <a href="http://redirect.cvrve.me/0799ac71e1115252f194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | IBM | Open Source Software Developer Intern | Research Triangle Park, NC | <a href="http://redirect.cvrve.me/7b46ce39b45c43e26876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
