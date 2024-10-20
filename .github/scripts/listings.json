@@ -31637,5 +31637,22 @@
         "date_posted": 1729389731,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729389761,
+        "url": "http://redirect.cvrve.me/7f4702b36885a3f33339",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Backend Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed4b7e92-b0e8-481a-bfb0-a07c7a0f5e3c",
+        "date_posted": 1729389761,
+        "company_url": "",
+        "is_visible": true
     }
 ]
