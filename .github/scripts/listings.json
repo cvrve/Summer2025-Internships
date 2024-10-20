@@ -31756,5 +31756,22 @@
         "date_posted": 1729390102,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729390126,
+        "url": "http://redirect.cvrve.me/3098ea61608ab3b89955",
+        "locations": [
+            "Schiller Park, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Encore",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1971a028-8b62-44c1-96ab-43f05f27bc0f",
+        "date_posted": 1729390126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
