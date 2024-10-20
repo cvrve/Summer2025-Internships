@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Teleo | Software Integration Engineering Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/bd38156ae233741f7a4f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Draper | Software Engineering Co-op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/2024a9b88b2faf89368a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | DevOps Co-op - Spring | Cambridge, MA | <a href="http://redirect.cvrve.me/0483c502d893577d07b4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Cboe | Cloud Engineering Intern Co-Op | Chicago, IL | <a href="http://redirect.cvrve.me/6befdc0d03fdcdc5f612?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
