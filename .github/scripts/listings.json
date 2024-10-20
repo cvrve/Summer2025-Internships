@@ -31603,5 +31603,22 @@
         "date_posted": 1729347920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729389609,
+        "url": "http://redirect.cvrve.me/3f67569dc95a4cf83165",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PEGA",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "623d5a44-6b0f-4b5e-8762-6235b177b130",
+        "date_posted": 1729389609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
