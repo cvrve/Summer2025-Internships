@@ -31909,5 +31909,22 @@
         "date_posted": 1729390820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729390873,
+        "url": "http://redirect.cvrve.me/023806a37091d2586c7c",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lake Shore Cryotronics",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4e17a240-bbe2-4895-b8e1-f6003fcb6f4b",
+        "date_posted": 1729390873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
