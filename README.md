@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Verizon | AI/ML Engineering Intern | Ashburn, VA | <a href="http://redirect.cvrve.me/dbc75a6eb6cbe5a0a467?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | The New York Times | iOS Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/46acec8a0b557df58b69?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Frontend Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/6c2f3e5927594ae4be2b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Data Analyst Intern | New York, NY | <a href="http://redirect.cvrve.me/522f51f93bc6991566b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
