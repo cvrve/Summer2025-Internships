@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| The New York Times | Android Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/53338466180f19f88f74?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| The New York Times | Data Analyst Intern | New York, NY | <a href="http://redirect.cvrve.me/522f51f93bc6991566b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| ↳ | Android Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/53338466180f19f88f74?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Interactive News Intern | New York, NY | <a href="http://redirect.cvrve.me/a6eb1042725e78f8907c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Backend Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/7f4702b36885a3f33339?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Full-Stack Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/9600c58327babadb61a0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
