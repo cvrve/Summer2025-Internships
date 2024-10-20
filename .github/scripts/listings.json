@@ -31671,5 +31671,22 @@
         "date_posted": 1729389797,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729389827,
+        "url": "http://redirect.cvrve.me/53338466180f19f88f74",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Android Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ee7df82f-52ad-4f41-852d-a661feb90238",
+        "date_posted": 1729389827,
+        "company_url": "",
+        "is_visible": true
     }
 ]
