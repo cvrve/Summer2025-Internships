@@ -31892,5 +31892,22 @@
         "date_posted": 1729390789,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729390820,
+        "url": "http://redirect.cvrve.me/20e08b3be3e317a74801",
+        "locations": [
+            "Moon Township, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9e2c7768-ae3e-47dd-aa5a-9bad13c0513f",
+        "date_posted": 1729390820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
