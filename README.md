@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/7e3d9d4866ef0c23d8f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Coinbase | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/c5e9abe835d7aa7e23d9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Zions Bank | Software Engineer Intern | Midvale, UT | <a href="http://redirect.cvrve.me/7dbafd202642efab2299?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Verizon | AI/ML Engineering Intern | Ashburn, VA | <a href="http://redirect.cvrve.me/dbc75a6eb6cbe5a0a467?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
