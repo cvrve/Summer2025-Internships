@@ -32028,5 +32028,22 @@
         "date_posted": 1729391563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729538332,
+        "url": "http://redirect.cvrve.me/c5e9abe835d7aa7e23d9",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "97e955e5-5902-404d-aeb7-e0641f99cadb",
+        "date_posted": 1729538332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
