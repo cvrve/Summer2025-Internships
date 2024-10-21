@@ -32097,5 +32097,22 @@
         "date_posted": 1729539806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729539846,
+        "url": "http://redirect.cvrve.me/71e97850b0c21110a684",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Product Cybersecurity Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "748724a4-6e98-4b1f-bb68-b4b396af7e56",
+        "date_posted": 1729539846,
+        "company_url": "",
+        "is_visible": true
     }
 ]
