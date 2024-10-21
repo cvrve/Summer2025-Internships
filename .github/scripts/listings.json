@@ -32079,5 +32079,23 @@
         "date_posted": 1729539739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729539806,
+        "url": "http://redirect.cvrve.me/4ac7eb8befb960a060ad",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "b130e084-88d3-4c1f-b7a2-a7e8027e4c59",
+        "date_posted": 1729539806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
