@@ -32308,5 +32308,22 @@
         "date_posted": 1729619091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729640766,
+        "url": "http://redirect.cvrve.me/5ebcc405c2bf15e18837",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6203fdbd-c2fb-42cf-bc8b-1fbe907e9974",
+        "date_posted": 1729640766,
+        "company_url": "",
+        "is_visible": true
     }
 ]
