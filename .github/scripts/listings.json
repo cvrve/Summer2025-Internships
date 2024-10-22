@@ -32291,5 +32291,22 @@
         "date_posted": 1729571844,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729619091,
+        "url": "http://redirect.cvrve.me/f38d2c187e2a493ca218",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Mobile Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bc01a51f-5977-4e22-8981-57cb49eb3208",
+        "date_posted": 1729619091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
