@@ -32150,5 +32150,22 @@
         "date_posted": 1729539926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729567335,
+        "url": "http://redirect.cvrve.me/14e8431b1b17e0e6844a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Associate Product Manager Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "0645fc7e-a2e7-4af2-b67e-e7407c78f490",
+        "date_posted": 1729567335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
