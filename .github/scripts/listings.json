@@ -32360,5 +32360,23 @@
         "date_posted": 1729640889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729640923,
+        "url": "http://redirect.cvrve.me/7a47889b0d0de17aeb35",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intradiem",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c3d9dfd9-a07c-4c13-93e6-dbe577f8b8e4",
+        "date_posted": 1729640923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
