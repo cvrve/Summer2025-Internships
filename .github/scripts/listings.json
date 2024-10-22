@@ -32167,5 +32167,22 @@
         "date_posted": 1729567335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729569045,
+        "url": "http://redirect.cvrve.me/e329fc49b0e632b5b72a",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parry Labs",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "993f0e63-d376-4314-a814-9caaf7f74681",
+        "date_posted": 1729569045,
+        "company_url": "",
+        "is_visible": true
     }
 ]

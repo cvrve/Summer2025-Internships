@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Parry Labs | Embedded Software Engineering Intern | Columbia, MD | <a href="http://redirect.cvrve.me/e329fc49b0e632b5b72a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/7e3d9d4866ef0c23d8f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | MFS | Software Engineer Intern | Boston, MA | <a href="http://redirect.cvrve.me/f09860466709a1e45844?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Johns Hopkins | Space Exploration Software Engineer Intern | Laurel, MD | <a href="http://redirect.cvrve.me/6de1de2cf64304417a49?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
