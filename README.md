@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Reliable Robotics | Displays Software Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/32e44e400cdeeeefaa4d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Parry Labs | Software Test Engineering Intern | Huntsville, AL | <a href="http://redirect.cvrve.me/346ed2a2f6288d8dd799?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Embedded Software Engineering Intern | Columbia, MD | <a href="http://redirect.cvrve.me/e329fc49b0e632b5b72a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | OpenAI | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/7e3d9d4866ef0c23d8f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |

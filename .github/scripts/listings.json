@@ -32240,5 +32240,22 @@
         "date_posted": 1729569225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729571633,
+        "url": "http://redirect.cvrve.me/32e44e400cdeeeefaa4d",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliable Robotics",
+        "title": "Displays Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1b23be23-087d-4b27-9a63-c24a49d5f0b7",
+        "date_posted": 1729571633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
