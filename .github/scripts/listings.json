@@ -32201,5 +32201,22 @@
         "date_posted": 1729569089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729569125,
+        "url": "http://redirect.cvrve.me/683c267fe667095bfbe7",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f3f3f4aa-11d0-4391-9afb-2c555b7f0808",
+        "date_posted": 1729569125,
+        "company_url": "",
+        "is_visible": true
     }
 ]
