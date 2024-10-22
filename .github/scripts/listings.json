@@ -32378,5 +32378,22 @@
         "date_posted": 1729640923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729641083,
+        "url": "http://redirect.cvrve.me/3a6a5c855e81c731c92d",
+        "locations": [
+            "Fall River, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Innovative Defense Technologies (IDT)",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b503c808-1c19-4033-8aed-45b373c2fd99",
+        "date_posted": 1729641083,
+        "company_url": "",
+        "is_visible": true
     }
 ]
