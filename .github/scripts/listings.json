@@ -32325,5 +32325,22 @@
         "date_posted": 1729640766,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729640836,
+        "url": "http://redirect.cvrve.me/0b755dd293f6a8770430",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parafin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa9f0886-a95f-4b7b-a434-b82dc3a1be6f",
+        "date_posted": 1729640836,
+        "company_url": "",
+        "is_visible": true
     }
 ]
