@@ -32274,5 +32274,22 @@
         "date_posted": 1729571715,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729571844,
+        "url": "http://redirect.cvrve.me/19e507fc2ec5c624a274",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "UEFI Firmware Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "370f6748-e924-4d1e-84d3-1ff2451c70d5",
+        "date_posted": 1729571844,
+        "company_url": "",
+        "is_visible": true
     }
 ]
