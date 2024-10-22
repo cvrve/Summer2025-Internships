@@ -32184,5 +32184,22 @@
         "date_posted": 1729569045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729569089,
+        "url": "http://redirect.cvrve.me/346ed2a2f6288d8dd799",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parry Labs",
+        "title": "Software Test Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ecc39bfd-db35-4523-890f-6eb12f4e5d87",
+        "date_posted": 1729569089,
+        "company_url": "",
+        "is_visible": true
     }
 ]
