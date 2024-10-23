@@ -32806,5 +32806,22 @@
         "date_posted": 1729697160,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729697207,
+        "url": "http://redirect.cvrve.me/64152a13fbafa3e6ea99",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Biogen",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e95d5a6d-4c90-4dbe-ace4-95f3e34c5938",
+        "date_posted": 1729697207,
+        "company_url": "",
+        "is_visible": true
     }
 ]
