@@ -32770,5 +32770,22 @@
         "date_posted": 1729697032,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729697090,
+        "url": "http://redirect.cvrve.me/85324bbb01abc9b71385",
+        "locations": [
+            "Whippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Technology Cyber & Security Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1ad6ba2e-8352-4c9c-955b-0d8545c95262",
+        "date_posted": 1729697090,
+        "company_url": "",
+        "is_visible": true
     }
 ]
