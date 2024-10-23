@@ -32787,5 +32787,24 @@
         "date_posted": 1729697090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729697160,
+        "url": "http://redirect.cvrve.me/f62e82810a45461f8179",
+        "locations": [
+            "Golden, CO",
+            "Boulder, CO",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3cdeffa8-5e37-49f5-8b99-a2e2db1e8280",
+        "date_posted": 1729697160,
+        "company_url": "",
+        "is_visible": true
     }
 ]
