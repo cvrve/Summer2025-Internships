@@ -32514,5 +32514,22 @@
         "date_posted": 1729642262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729643194,
+        "url": "http://redirect.cvrve.me/67604be77e2cac69ef53",
+        "locations": [
+            "Fort Lauderdale. FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0a5b23fe-062a-491e-892d-f2a7bed1c15f",
+        "date_posted": 1729643194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
