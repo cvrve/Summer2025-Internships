@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/f38d2c187e2a493ca218?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Parafin | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/0b755dd293f6a8770430?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| MACOM | Software Intern | Hamilton Township, NJ | <a href="http://redirect.cvrve.me/f9aa97e0b7c3ada54b47?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Intradiem | AI/ML Intern | Remote</br>US | <a href="http://redirect.cvrve.me/7a47889b0d0de17aeb35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/intradiem/jobs/4408395006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Innovative Defense Technologies (IDT) | Software Engineer Intern | Fall River, MA | <a href="http://redirect.cvrve.me/3a6a5c855e81c731c92d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |

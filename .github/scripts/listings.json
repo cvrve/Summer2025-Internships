@@ -32480,5 +32480,22 @@
         "date_posted": 1729641688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729642191,
+        "url": "http://redirect.cvrve.me/f9aa97e0b7c3ada54b47",
+        "locations": [
+            "Hamilton Township, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MACOM",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "23779080-c049-4ad8-9dc8-5fe14c081864",
+        "date_posted": 1729642191,
+        "company_url": "",
+        "is_visible": true
     }
 ]
