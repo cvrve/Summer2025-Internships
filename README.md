@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/5ebcc405c2bf15e18837?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Cvent | Software Engineer Intern | Tysons Corner, VA | <a href="http://redirect.cvrve.me/705346c2762eb9937864?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Consumers Credit Union | Software Developer Intern | Kalamazoo, MI | <a href="http://redirect.cvrve.me/998ca00beaa2c54ad623?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| Amway | Software Engineer Intern | Ada, MI | <a href="http://redirect.cvrve.me/a114541af8a8e3920231?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon | Quality Assurance Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/0af9b40800b62b27943e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Adobe | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/aff76cc6ced77ce4c619?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/7f4ced944d5a45b2ff68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
