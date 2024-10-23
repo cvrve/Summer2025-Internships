@@ -32531,5 +32531,22 @@
         "date_posted": 1729643194,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729643274,
+        "url": "http://redirect.cvrve.me/7f4ced944d5a45b2ff68",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "46c9e7dd-ff42-44d5-a9cb-b5027f4ec458",
+        "date_posted": 1729643274,
+        "company_url": "",
+        "is_visible": true
     }
 ]
