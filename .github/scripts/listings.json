@@ -32650,5 +32650,23 @@
         "date_posted": 1729645706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729645793,
+        "url": "http://redirect.cvrve.me/9a74a66d206b127fad34",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insomniac",
+        "title": "UI/UX Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8480834-d4ac-4c4f-89f3-9ed58c5f1a1d",
+        "date_posted": 1729645793,
+        "company_url": "",
+        "is_visible": true
     }
 ]
