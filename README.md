@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Barclays | Technology Analyst Intern | Wilmington, DE | <a href="http://redirect.cvrve.me/49a57ca342ebc73ddb3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| Barclays | Technology Developer Analyst Intern | Whippany, NJ | <a href="http://redirect.cvrve.me/d80382638389cd7be79e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| ↳ | Technology Analyst Intern | Wilmington, DE | <a href="http://redirect.cvrve.me/49a57ca342ebc73ddb3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Technology Developer Analyst Intern | Whippany, NJ | <a href="http://redirect.cvrve.me/8c211e95b9aff9ead6f0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Technology Analyst Intern | Whippany, NJ | <a href="http://redirect.cvrve.me/d24599fa74e5cf03cfb8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/f38d2c187e2a493ca218?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
