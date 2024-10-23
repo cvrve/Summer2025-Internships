@@ -32685,5 +32685,22 @@
         "date_posted": 1729645814,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729648298,
+        "url": "http://redirect.cvrve.me/adf62be7072d9fe8f4f1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Humane",
+        "title": "Software Engineering Intern, Device Experiences",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3c4518e-837c-4393-a8f6-e019395a6496",
+        "date_posted": 1729648298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
