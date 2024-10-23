@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/ae6daa8aa7a63fc58db8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Biogen | Information Technology Intern | Cambridge, MA | <a href="http://redirect.cvrve.me/64152a13fbafa3e6ea99?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Barclays | Technology Cyber & Security Analyst Intern | Whippany, NJ | <a href="http://redirect.cvrve.me/85324bbb01abc9b71385?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Technology Developer Analyst Intern | Whippany, NJ | <a href="http://redirect.cvrve.me/d80382638389cd7be79e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
