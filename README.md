@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/f38d2c187e2a493ca218?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| RTX | Software Developer Intern | Sterling, VA | <a href="http://redirect.cvrve.me/0e40d5ce0c0d82e26aa0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Qorvo | Embedded Software Engineering Intern | Fort Lauderdale. FL | <a href="http://redirect.cvrve.me/67604be77e2cac69ef53?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Parafin | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/0b755dd293f6a8770430?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | MACOM | Software Intern | Hamilton Township, NJ | <a href="http://redirect.cvrve.me/f9aa97e0b7c3ada54b47?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
