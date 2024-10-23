@@ -32668,5 +32668,22 @@
         "date_posted": 1729645793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729645814,
+        "url": "http://redirect.cvrve.me/8a1612316c4f1503df71",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insomniac",
+        "title": "Gameplay Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fc4c1a6d-1933-4e80-86d1-8e2206557625",
+        "date_posted": 1729645814,
+        "company_url": "",
+        "is_visible": true
     }
 ]
