@@ -32702,5 +32702,22 @@
         "date_posted": 1729648298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729696851,
+        "url": "http://redirect.cvrve.me/d24599fa74e5cf03cfb8",
+        "locations": [
+            "Whippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Technology Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5292fe7-51a9-4cc6-b115-6d3c01119349",
+        "date_posted": 1729696851,
+        "company_url": "",
+        "is_visible": true
     }
 ]
