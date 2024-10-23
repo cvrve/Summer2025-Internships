@@ -32893,5 +32893,22 @@
         "date_posted": 1729698472,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729699325,
+        "url": "http://redirect.cvrve.me/9ea8cf009a17b9263551",
+        "locations": [
+            "Frisno, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber Freight",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c0b71f3-c487-430a-a6c2-ae97a6d31347",
+        "date_posted": 1729699325,
+        "company_url": "",
+        "is_visible": true
     }
 ]

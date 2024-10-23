@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/ae6daa8aa7a63fc58db8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| Uber Freight | Software Engineering Intern | Frisno, TX | <a href="http://redirect.cvrve.me/9ea8cf009a17b9263551?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | PayPal | Dev Ops Software Engineer Intern | San Jose, CA</br>Scottsdale, AZ</br>Chicago, IL | <a href="http://redirect.cvrve.me/e8ec0c406ffcbcf4a851?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Machine Learning Intern | San Jose, CA | <a href="http://redirect.cvrve.me/3b14df6ba13bb791ccab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Invitation Homes | Software Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/6bad90023fd580c3916d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
