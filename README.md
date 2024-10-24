@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| T-Mobile | IT Software Associate Engineer Intern | Overland Park, KS</br>Frisco, TX | <a href="http://redirect.cvrve.me/12693992c96cb2d52a24?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/ae6daa8aa7a63fc58db8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Uber Freight | Software Engineering Intern | Frisno, TX | <a href="http://redirect.cvrve.me/9ea8cf009a17b9263551?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Trihydro | Software Developer Intern | Fort Collins, CO</br>Laramie, WY | <a href="http://redirect.cvrve.me/3c9e4c80faf4f136170d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
