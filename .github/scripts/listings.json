@@ -32983,5 +32983,22 @@
         "date_posted": 1729732606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729732638,
+        "url": "http://redirect.cvrve.me/daf75c0fedffa657954b",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "60cd6680-17f5-445a-ba8f-94eefa903084",
+        "date_posted": 1729732638,
+        "company_url": "",
+        "is_visible": true
     }
 ]

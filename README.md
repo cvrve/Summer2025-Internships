@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Mobile Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/ae6daa8aa7a63fc58db8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Uber Freight | Software Engineering Intern | Frisno, TX | <a href="http://redirect.cvrve.me/9ea8cf009a17b9263551?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| Staples | Software Engineer Intern | Framingham, MA | <a href="http://redirect.cvrve.me/daf75c0fedffa657954b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Pendo | Software Engineering Intern | Raleigh, NC | <a href="http://redirect.cvrve.me/4a7badebe73a5cb8d105?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | PayPal | Dev Ops Software Engineer Intern | San Jose, CA</br>Scottsdale, AZ</br>Chicago, IL | <a href="http://redirect.cvrve.me/e8ec0c406ffcbcf4a851?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Machine Learning Intern | San Jose, CA | <a href="http://redirect.cvrve.me/3b14df6ba13bb791ccab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
