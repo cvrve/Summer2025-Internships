@@ -33439,5 +33439,22 @@
         "date_posted": 1729797681,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729798046,
+        "url": "http://redirect.cvrve.me/d510e1f2d55159ef124e",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Fire Safety Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d82d1f90-830c-418b-8f89-5aeab9cbc9d3",
+        "date_posted": 1729798046,
+        "company_url": "",
+        "is_visible": true
     }
 ]
