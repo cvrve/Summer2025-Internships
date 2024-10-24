@@ -33090,5 +33090,22 @@
         "date_posted": 1729796216,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796250,
+        "url": "http://redirect.cvrve.me/e59ebbffa42003e5ddb8",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Mayo Clinic",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9e2b4ed3-3222-4b86-8865-314be085c854",
+        "date_posted": 1729796250,
+        "company_url": "",
+        "is_visible": true
     }
 ]
