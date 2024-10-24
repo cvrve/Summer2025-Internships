@@ -33245,5 +33245,26 @@
         "date_posted": 1729796632,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796692,
+        "url": "http://redirect.cvrve.me/c9f6fe32cc915dac1e45",
+        "locations": [
+            "San Jose, CA",
+            "Research Triangle Park, NC",
+            "Boulder, CO",
+            "Wichita, KS",
+            "Cranberry Township, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d519f4df-c764-4092-b4b5-3c5e571a5ded",
+        "date_posted": 1729796692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
