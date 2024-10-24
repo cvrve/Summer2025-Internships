@@ -33283,5 +33283,22 @@
         "date_posted": 1729796764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796801,
+        "url": "http://redirect.cvrve.me/31c55c74dc679315f55f",
+        "locations": [
+            "Lynnwood, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crane Aerospace and Electronics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "350ab1d3-a06f-4a99-abff-4fdb09f1d7ac",
+        "date_posted": 1729796801,
+        "company_url": "",
+        "is_visible": true
     }
 ]
