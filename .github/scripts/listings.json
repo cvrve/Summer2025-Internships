@@ -33317,5 +33317,22 @@
         "date_posted": 1729796864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796945,
+        "url": "http://redirect.cvrve.me/7da92b88feb31690d295",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Solution Architect Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "395fc180-4928-4c2b-bfae-9839631ba604",
+        "date_posted": 1729796945,
+        "company_url": "",
+        "is_visible": true
     }
 ]
