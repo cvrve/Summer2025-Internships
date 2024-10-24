@@ -33193,5 +33193,22 @@
         "date_posted": 1729796450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796512,
+        "url": "http://redirect.cvrve.me/89dfa0cd114a67b41c9d",
+        "locations": [
+            "Deerfield, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "41669e89-d39e-4c8b-bd97-6d6492cda2e7",
+        "date_posted": 1729796512,
+        "company_url": "",
+        "is_visible": true
     }
 ]
