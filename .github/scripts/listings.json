@@ -33422,5 +33422,22 @@
         "date_posted": 1729797392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729797681,
+        "url": "http://redirect.cvrve.me/da13cfe6a7294dea64b5",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Product Applications Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1cdae044-6414-4d37-8e7c-a093eb4fedfe",
+        "date_posted": 1729797681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
