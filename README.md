@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Woodward | SWE Engineering Intern | Niles, IL</br>Santa Clarita, CA</br>Fort Collins, CO | <a href="http://redirect.cvrve.me/c602619233a58c6675f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Viasat | Software Engineer Intern | Carlsbad, CA | <a href="http://redirect.cvrve.me/1ba17e19a4f1754479dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| TikTok | Machine Learning Engineer Intern - Masters | Seattle, WA | <a href="http://redirect.cvrve.me/34640c530facd8c260c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | T-Mobile | Software Development Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/3f57c7b95e183378723a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | ↳ | IT Software Associate Engineer Intern | Overland Park, KS</br>Frisco, TX | <a href="http://redirect.cvrve.me/12693992c96cb2d52a24?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Solventum | Software Engineering Intern | Pittsburgh, PA</br>Maplewood, MN | <a href="http://redirect.cvrve.me/c51fda096b32ebeb38ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
