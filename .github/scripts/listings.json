@@ -33017,5 +33017,23 @@
         "date_posted": 1729732674,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729732717,
+        "url": "http://redirect.cvrve.me/3c9e4c80faf4f136170d",
+        "locations": [
+            "Fort Collins, CO",
+            "Laramie, WY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trihydro",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "43db128a-849d-4d00-ba32-85d5d0cc99a5",
+        "date_posted": 1729732717,
+        "company_url": "",
+        "is_visible": true
     }
 ]
