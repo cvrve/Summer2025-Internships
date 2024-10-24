@@ -32910,5 +32910,22 @@
         "date_posted": 1729699325,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729732088,
+        "url": "http://redirect.cvrve.me/4a7badebe73a5cb8d105",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pendo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "097ba334-560a-474e-b780-f188ca6350e5",
+        "date_posted": 1729732088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
