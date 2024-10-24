@@ -33159,5 +33159,22 @@
         "date_posted": 1729796375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796413,
+        "url": "http://redirect.cvrve.me/2f26c50c06cb312ee196",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hexagon",
+        "title": "Front End Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fc56b9fa-b2e8-44f2-8875-319e25479443",
+        "date_posted": 1729796413,
+        "company_url": "",
+        "is_visible": true
     }
 ]
