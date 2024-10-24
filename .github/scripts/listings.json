@@ -33385,5 +33385,22 @@
         "date_posted": 1729797297,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729797342,
+        "url": "http://redirect.cvrve.me/8887ec562ed7b56c1ef5",
+        "locations": [
+            "Westbury, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Psychia Treat",
+        "title": "Business Software Solutions Development & Automation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77c05aca-ca0d-429a-aea8-5186e168f7cc",
+        "date_posted": 1729797342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
