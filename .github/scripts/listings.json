@@ -33351,5 +33351,22 @@
         "date_posted": 1729797089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729797229,
+        "url": "http://redirect.cvrve.me/0b9e1862f6d6227a8e3f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cockroach Labs",
+        "title": "Security Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f4c3b8c3-2479-4599-ba28-1b127bed2524",
+        "date_posted": 1729797229,
+        "company_url": "",
+        "is_visible": true
     }
 ]
