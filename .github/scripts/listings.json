@@ -32927,5 +32927,22 @@
         "date_posted": 1729732088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729732375,
+        "url": "http://redirect.cvrve.me/86640ad4c70544c4f1b8",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Game Design Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9ba4f0d2-f3e1-46d6-8ef1-49fd29a7cc79",
+        "date_posted": 1729732375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
