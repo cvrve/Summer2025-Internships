@@ -33071,5 +33071,24 @@
         "date_posted": 1729796123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796216,
+        "url": "http://redirect.cvrve.me/c602619233a58c6675f5",
+        "locations": [
+            "Niles, IL",
+            "Santa Clarita, CA",
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Woodward",
+        "title": "SWE Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "151dd282-f3b8-4c37-af53-bb999dd45b2e",
+        "date_posted": 1729796216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
