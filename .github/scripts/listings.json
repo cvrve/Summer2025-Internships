@@ -33228,5 +33228,22 @@
         "date_posted": 1729796563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729796632,
+        "url": "http://redirect.cvrve.me/ccdfdb22dade6f3edb3c",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7b1e51d1-55e8-4fc5-91b2-50d75dbbce5c",
+        "date_posted": 1729796632,
+        "company_url": "",
+        "is_visible": true
     }
 ]
