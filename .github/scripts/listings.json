@@ -33561,5 +33561,23 @@
         "date_posted": 1729848353,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729848439,
+        "url": "http://redirect.cvrve.me/f6e7041657079d4505c6",
+        "locations": [
+            "Scottsdale, AZ",
+            "Omaha, NB"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Global Technical Support Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "619fe796-78c4-45ab-8286-04d295321c78",
+        "date_posted": 1729848439,
+        "company_url": "",
+        "is_visible": true
     }
 ]
