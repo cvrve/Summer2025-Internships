@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Versana | Tech Intern | New York, NY | <a href="http://redirect.cvrve.me/dcba4874cbaef947207d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| Solidigm | SSD Firmware Development Intern | Rancho Cordova, CA | <a href="http://redirect.cvrve.me/8dc6cb428cf39628f570?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | SKIMS | Information Technology Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/60b3e51ac24df20b18ee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Radian | Software Engineering Intern | Denver, CO</br>Midvale, UT</br>Remote | <a href="http://redirect.cvrve.me/5f38dc5ee9cb798e436f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | PEGA | Software Engineer Summer Intern, Orion | Waltham, MA | <a href="http://redirect.cvrve.me/4a537a1db1779198d651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |

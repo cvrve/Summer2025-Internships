@@ -33845,5 +33845,22 @@
         "date_posted": 1729849975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729850012,
+        "url": "http://redirect.cvrve.me/8dc6cb428cf39628f570",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solidigm",
+        "title": "SSD Firmware Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "534934e5-d486-4afe-a537-cdf9f693762a",
+        "date_posted": 1729850012,
+        "company_url": "",
+        "is_visible": true
     }
 ]
