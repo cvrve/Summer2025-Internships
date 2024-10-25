@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NetApp | Solutions Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Vienna, VA</br>San Jose, CA</br>Research Triangle Park, NC</details> | <a href="https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Woodward | SWE Engineering Intern | Niles, IL</br>Santa Clarita, CA</br>Fort Collins, CO | <a href="http://redirect.cvrve.me/c602619233a58c6675f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Viasat | Software Engineer Intern | Carlsbad, CA | <a href="http://redirect.cvrve.me/1ba17e19a4f1754479dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | TikTok | Machine Learning Engineer Intern - Masters | Seattle, WA | <a href="http://redirect.cvrve.me/34640c530facd8c260c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
