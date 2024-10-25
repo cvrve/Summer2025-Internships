@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Radian | Software Engineering Intern | Denver, CO</br>Midvale, UT</br>Remote | <a href="http://redirect.cvrve.me/5f38dc5ee9cb798e436f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | PEGA | Software Engineer Summer Intern, Orion | Waltham, MA | <a href="http://redirect.cvrve.me/4a537a1db1779198d651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | PayPal | Information Security Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Chicago, IL</br>Omaha, NE</br>Scottsdale, AZ</br>New York City, NY</br>Austin, TX</details> | <a href="http://redirect.cvrve.me/63cc74fc7b2399ed6012?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Machine Learning Intern | San Jose, CA | <a href="http://redirect.cvrve.me/14b4552f3f4e9ce1d341?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
