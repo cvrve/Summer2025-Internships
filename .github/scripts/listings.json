@@ -33527,5 +33527,22 @@
         "date_posted": 1729848230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729848280,
+        "url": "http://redirect.cvrve.me/4a537a1db1779198d651",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PEGA",
+        "title": "Software Engineer Summer Intern, Orion",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b9c85caa-3c90-486f-9057-87cc9568c7a4",
+        "date_posted": 1729848280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
