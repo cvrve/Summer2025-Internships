@@ -33544,5 +33544,22 @@
         "date_posted": 1729848280,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729848353,
+        "url": "http://redirect.cvrve.me/44d313e972b6417942b4",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR",
+        "title": "Software Engineering Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8146e0eb-86d2-494d-b483-1861bd5e6268",
+        "date_posted": 1729848353,
+        "company_url": "",
+        "is_visible": true
     }
 ]
