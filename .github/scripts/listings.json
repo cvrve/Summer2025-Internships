@@ -33725,5 +33725,22 @@
         "date_posted": 1729848985,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729849168,
+        "url": "http://redirect.cvrve.me/7f9e9ad369e4f40acf10",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuuly",
+        "title": "Nuuly Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a1523ae0-9943-4856-bd40-c5c1837421e1",
+        "date_posted": 1729849168,
+        "company_url": "",
+        "is_visible": true
     }
 ]
