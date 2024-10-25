@@ -33827,5 +33827,23 @@
         "date_posted": 1729849865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729849975,
+        "url": "http://redirect.cvrve.me/31d730706751ec7f2c7a",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jellyfish",
+        "title": "Data Science Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "946007fc-de3a-4784-8608-8462ba0b0cfe",
+        "date_posted": 1729849975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
