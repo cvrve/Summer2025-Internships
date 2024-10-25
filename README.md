@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | PEGA | Software Engineer Summer Intern, Orion | Waltham, MA | <a href="http://redirect.cvrve.me/4a537a1db1779198d651?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
-| PayPal | Global Technical Support Intern | Scottsdale, AZ</br>Omaha, NB | <a href="http://redirect.cvrve.me/f6e7041657079d4505c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| PayPal | Machine Learning Intern | San Jose, CA | <a href="http://redirect.cvrve.me/14b4552f3f4e9ce1d341?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Global Technical Support Intern | Scottsdale, AZ</br>Omaha, NB | <a href="http://redirect.cvrve.me/f6e7041657079d4505c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | NetApp | Information Technology Intern | Research Triangle Park, NC | <a href="http://redirect.cvrve.me/d839b7762d49a2242192?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Solutions Engineer Intern | <details><summary>**4 locations**</summary>New York, NY</br>Vienna, VA</br>San Jose, CA</br>Research Triangle Park, NC</details> | <a href="https://careers.netapp.com/job/research-triangle-park/intern-solutions-engineer/27600/71710320400?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | AQR | Software Engineering Analyst Intern | Greenwich, CT | <a href="http://redirect.cvrve.me/44d313e972b6417942b4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
