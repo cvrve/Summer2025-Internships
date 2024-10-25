@@ -33635,5 +33635,22 @@
         "date_posted": 1729848680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729848747,
+        "url": "http://redirect.cvrve.me/b24d00234e7b3a2a9b70",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atomic Object",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9eaa5152-4388-4974-a938-c91fd541752c",
+        "date_posted": 1729848747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
