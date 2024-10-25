@@ -33473,5 +33473,22 @@
         "date_posted": 1729828337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729828366,
+        "url": "http://redirect.cvrve.me/dcf8f8623a3eb65349df",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fetch",
+        "title": "Android Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "68b75327-4afb-42c1-b808-0479fb2e53c9",
+        "date_posted": 1729828366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
