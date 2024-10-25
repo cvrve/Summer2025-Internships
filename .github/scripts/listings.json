@@ -33810,5 +33810,22 @@
         "date_posted": 1729849657,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729849865,
+        "url": "http://redirect.cvrve.me/c444325a225b8afb89be",
+        "locations": [
+            "Illinois, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allstate",
+        "title": "Investments Quantitative Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5481751d-336f-4f3d-99bc-dff2e2a1700a",
+        "date_posted": 1729849865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
