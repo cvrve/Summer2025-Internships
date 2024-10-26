@@ -34271,5 +34271,22 @@
         "date_posted": 1729906128,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906163,
+        "url": "http://redirect.cvrve.me/1c24ee9ed0fbc94fa610",
+        "locations": [
+            "Deerfield, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "AI/ML Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7d1272a4-5bda-43f7-a49f-b4a698f49b6f",
+        "date_posted": 1729906163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
