@@ -34254,5 +34254,22 @@
         "date_posted": 1729906008,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906128,
+        "url": "http://redirect.cvrve.me/69e19003b63767977831",
+        "locations": [
+            "Deerfield, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "047ae1f8-ca2d-47e8-a613-2923d75e394d",
+        "date_posted": 1729906128,
+        "company_url": "",
+        "is_visible": true
     }
 ]
