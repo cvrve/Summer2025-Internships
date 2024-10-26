@@ -33913,5 +33913,22 @@
         "date_posted": 1729850139,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903132,
+        "url": "http://redirect.cvrve.me/08fb4b3d009e2ec4e440",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cfb5ef33-eddd-425a-b923-387ab615cbcf",
+        "date_posted": 1729903132,
+        "company_url": "",
+        "is_visible": true
     }
 ]

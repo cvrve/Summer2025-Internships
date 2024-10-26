@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Western Digital | Software Engineer Intern | Rochester, MN | <a href="http://redirect.cvrve.me/08fb4b3d009e2ec4e440?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Versana | Tech Intern | New York, NY | <a href="http://redirect.cvrve.me/dcba4874cbaef947207d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Solidigm | SSD Firmware Development Intern | Rancho Cordova, CA | <a href="http://redirect.cvrve.me/8dc6cb428cf39628f570?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | SKIMS | Information Technology Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/60b3e51ac24df20b18ee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
