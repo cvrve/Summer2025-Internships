@@ -34049,5 +34049,23 @@
         "date_posted": 1729903341,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903362,
+        "url": "http://redirect.cvrve.me/da9c603e02a0150f7831",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dexcom",
+        "title": "SW Test Development Engineering",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "41f220a9-d41c-4d63-8b2a-7db892011d2f",
+        "date_posted": 1729903362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
