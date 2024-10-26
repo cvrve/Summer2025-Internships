@@ -34169,5 +34169,22 @@
         "date_posted": 1729903884,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903915,
+        "url": "http://redirect.cvrve.me/b8be341a93efd10d6588",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solidigm",
+        "title": "SSD Validation Development Undergrad Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7e28ac2e-1ba6-41d0-b3ca-9346c16ac72b",
+        "date_posted": 1729903915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
