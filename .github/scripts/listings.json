@@ -34118,5 +34118,22 @@
         "date_posted": 1729903464,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903604,
+        "url": "http://redirect.cvrve.me/f79decdf2a7db0e21eb3",
+        "locations": [
+            "Kennett Square, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chatham Financial",
+        "title": "Quantitative Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b986e7aa-4cce-44ff-8acb-b9da49a8d8a2",
+        "date_posted": 1729903604,
+        "company_url": "",
+        "is_visible": true
     }
 ]
