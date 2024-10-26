@@ -34322,5 +34322,22 @@
         "date_posted": 1729906248,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906331,
+        "url": "http://redirect.cvrve.me/7012ebff5c537f7236df",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dicks Sporting Goods",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6b3d91d8-fb82-49be-8df4-cd499406259f",
+        "date_posted": 1729906331,
+        "company_url": "",
+        "is_visible": true
     }
 ]
