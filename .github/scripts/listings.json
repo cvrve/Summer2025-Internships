@@ -33981,5 +33981,22 @@
         "date_posted": 1729903225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903250,
+        "url": "http://redirect.cvrve.me/c9f05ed7b0fae2ebe982",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parry Labs",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3dac294d-195f-44bd-86b4-6232cbd12fdb",
+        "date_posted": 1729903250,
+        "company_url": "",
+        "is_visible": true
     }
 ]
