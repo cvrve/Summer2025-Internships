@@ -34529,5 +34529,22 @@
         "date_posted": 1729907138,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729909995,
+        "url": "http://redirect.cvrve.me/972c65cb1896f6046bc4",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nextdoor",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccc8aaa1-ba97-4650-b895-10cf346f4c89",
+        "date_posted": 1729909995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
