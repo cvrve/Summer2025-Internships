@@ -34409,5 +34409,22 @@
         "date_posted": 1729906651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906755,
+        "url": "http://redirect.cvrve.me/9a9d35945d25405a1da1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Austin, TX",
+        "title": "Software Engineer Test Ops Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0c9b25c-5ef0-47ac-83b4-9e891b0475f8",
+        "date_posted": 1729906755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
