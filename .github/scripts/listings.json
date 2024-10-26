@@ -34426,5 +34426,22 @@
         "date_posted": 1729906755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906813,
+        "url": "http://redirect.cvrve.me/4961f0a5bc96c8fc053e",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "09781d0d-367a-4ff5-9a22-c3927371181a",
+        "date_posted": 1729906813,
+        "company_url": "",
+        "is_visible": true
     }
 ]
