@@ -34546,5 +34546,22 @@
         "date_posted": 1729909995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729916405,
+        "url": "http://redirect.cvrve.me/bb721a02a0e0a7b53df8",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6c464347-be3b-4109-8d54-4a6d0df50156",
+        "date_posted": 1729916405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
