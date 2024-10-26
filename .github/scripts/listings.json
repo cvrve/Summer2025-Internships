@@ -33947,5 +33947,22 @@
         "date_posted": 1729903159,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729903189,
+        "url": "http://redirect.cvrve.me/9c889ccd84c67f683579",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8ea01ff5-03ff-415b-a8ef-2c67bc4f1373",
+        "date_posted": 1729903189,
+        "company_url": "",
+        "is_visible": true
     }
 ]
