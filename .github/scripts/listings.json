@@ -34495,5 +34495,22 @@
         "date_posted": 1729907047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729907088,
+        "url": "http://redirect.cvrve.me/306bf0c9c664b0ca3f52",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Reserve Bank of Richmond",
+        "title": "Technical Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d9493e55-3705-426b-b94b-4564e521985d",
+        "date_posted": 1729907088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
