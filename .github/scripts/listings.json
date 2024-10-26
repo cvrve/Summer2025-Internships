@@ -34356,5 +34356,23 @@
         "date_posted": 1729906527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906578,
+        "url": "http://redirect.cvrve.me/ca50ead1027adcd9c978",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chainguard",
+        "title": "Undergraduate Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c4681263-ae74-4a7e-9187-6f20820c9e65",
+        "date_posted": 1729906578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
