@@ -34631,5 +34631,23 @@
         "date_posted": 1729916563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729916595,
+        "url": "http://redirect.cvrve.me/8474756e9ab99fa0d20d",
+        "locations": [
+            "Bedford, MA",
+            "Mclean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1be9d8e2-0250-402a-8843-98b6e2a620d3",
+        "date_posted": 1729916595,
+        "company_url": "",
+        "is_visible": true
     }
 ]
