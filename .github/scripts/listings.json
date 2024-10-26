@@ -34220,5 +34220,22 @@
         "date_posted": 1729905916,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729905947,
+        "url": "http://redirect.cvrve.me/4fa5f4ba2d9d5f3f4080",
+        "locations": [
+            "Deerfield, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "460c9698-7619-41e6-9c30-d26418028cd8",
+        "date_posted": 1729905947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
