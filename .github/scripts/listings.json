@@ -34391,5 +34391,23 @@
         "date_posted": 1729906612,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729906651,
+        "url": "http://redirect.cvrve.me/566f4a86924560590c1f",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Full Stack Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "01a79bd7-0eec-463d-9e04-41070a0b1392",
+        "date_posted": 1729906651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
