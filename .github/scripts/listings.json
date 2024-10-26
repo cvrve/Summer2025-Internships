@@ -34614,5 +34614,22 @@
         "date_posted": 1729916513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729916563,
+        "url": "http://redirect.cvrve.me/d8b4a80450b78f7f6f32",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Office of the Chief Administrative Officer (CAO)",
+        "title": "AI Software Developer Intern - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "82b5e30c-5d53-4296-88b4-3a6aa729078f",
+        "date_posted": 1729916563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
