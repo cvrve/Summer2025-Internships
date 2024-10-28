@@ -34734,5 +34734,22 @@
         "date_posted": 1730147589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730147653,
+        "url": "http://redirect.cvrve.me/3699ef54782615f9dbb2",
+        "locations": [
+            "Deerfield, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Predcictive Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c4d75137-e374-4977-a1b3-197bb15fce2a",
+        "date_posted": 1730147653,
+        "company_url": "",
+        "is_visible": true
     }
 ]

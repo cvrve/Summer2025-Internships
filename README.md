@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Walgreens | IT Infrastructure & Engineering Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/5e822fbb09f9e6aebeaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| JM Family | Predcictive Analytics Intern | Deerfield, FL | <a href="http://redirect.cvrve.me/3699ef54782615f9dbb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Genentech | Product Development Data Science Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/0ba5dec0d6ccfa989c71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Cadence Design Systems | Design Engineer Intern - Masters | San Jose, CA | <a href="http://redirect.cvrve.me/a0aff20a33295b2a42a3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Product Engineering Intern | San Jose, CA | <a href="http://redirect.cvrve.me/57041e394cf239203bf4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
