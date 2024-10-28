@@ -34837,5 +34837,22 @@
         "date_posted": 1730148316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730148482,
+        "url": "http://redirect.cvrve.me/056779e94d9c35f91f17",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Matroid",
+        "title": "Computer Vision Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c73581f5-5463-417f-a254-ebe37d88c391",
+        "date_posted": 1730148482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
