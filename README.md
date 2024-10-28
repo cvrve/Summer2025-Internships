@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Walgreens | IT Infrastructure & Engineering Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/5e822fbb09f9e6aebeaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| URBN | Mobile Software Engineering Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/2a959d5e7fb61c3ddf70?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Thermo Fisher | Software Engineering Co-op | Hillsboro, OR | <a href="http://redirect.cvrve.me/8ccb833e271169dfc58a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | T-Mobile | Machine Learning Engineer Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/ac5198fbda10b7f1c2ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Panasonic | Software Engineering Intern | Irvine, CA | <a href="http://redirect.cvrve.me/d50b60e4b74bfa57472b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |

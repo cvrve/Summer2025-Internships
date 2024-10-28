@@ -34888,5 +34888,22 @@
         "date_posted": 1730149586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730149669,
+        "url": "http://redirect.cvrve.me/2a959d5e7fb61c3ddf70",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "URBN",
+        "title": "Mobile Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b71daf81-ca08-439b-94a3-9f1095c910c1",
+        "date_posted": 1730149669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
