@@ -34700,5 +34700,22 @@
         "date_posted": 1730147432,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730147496,
+        "url": "http://redirect.cvrve.me/57041e394cf239203bf4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence Design Systems",
+        "title": "Product Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aef73485-7e37-4e1a-a6d7-4675f951620b",
+        "date_posted": 1730147496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
