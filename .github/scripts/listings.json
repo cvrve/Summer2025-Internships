@@ -34905,5 +34905,22 @@
         "date_posted": 1730149669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730149865,
+        "url": "http://redirect.cvrve.me/c911db3ad2aed93528ca",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Campana Schott",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91bf9a93-de01-440e-8708-2a773194c58b",
+        "date_posted": 1730149865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
