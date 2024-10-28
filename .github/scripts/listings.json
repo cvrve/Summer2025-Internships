@@ -35075,5 +35075,22 @@
         "date_posted": 1730151946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730152081,
+        "url": "http://redirect.cvrve.me/6c82314395f819ace254",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Applied Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f95597a6-a45d-4720-a44b-c4490a0d3c4d",
+        "date_posted": 1730152081,
+        "company_url": "",
+        "is_visible": true
     }
 ]
