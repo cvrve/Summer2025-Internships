@@ -34768,5 +34768,23 @@
         "date_posted": 1730147736,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730147901,
+        "url": "http://redirect.cvrve.me/1ebe3d45f690b8812d86",
+        "locations": [
+            "Springfield, MO",
+            "Monett, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "Information Architect Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b50eb7f4-9949-47b1-be8d-4a3b45deacab",
+        "date_posted": 1730147901,
+        "company_url": "",
+        "is_visible": true
     }
 ]
