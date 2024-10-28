@@ -64,6 +64,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Product Engineering Intern | San Jose, CA | <a href="http://redirect.cvrve.me/57041e394cf239203bf4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Intern | San Jose, CA | <a href="http://redirect.cvrve.me/cedb079a7f541ea811a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | BRSS | Software Developer Intern | Urbandale, IA | <a href="http://redirect.cvrve.me/1c7d0ab8b06540566a68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| BOSE | Embedded Software Engineer Intern | Framingham, MA | <a href="http://redirect.cvrve.me/22bf844ae156f1cc8f88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Western Digital | DevOps Engineer Intern | Roseville, CA | <a href="http://redirect.cvrve.me/9c889ccd84c67f683579?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineering Intern -System Testing | Roseville, CA | <a href="http://redirect.cvrve.me/c10a90259aabd5cc1fff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | Rochester, MN | <a href="http://redirect.cvrve.me/08fb4b3d009e2ec4e440?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
