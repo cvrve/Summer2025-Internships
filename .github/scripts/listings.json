@@ -34939,5 +34939,22 @@
         "date_posted": 1730149903,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730150617,
+        "url": "http://redirect.cvrve.me/1c7d0ab8b06540566a68",
+        "locations": [
+            "Urbandale, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BRSS",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c38f971-4b5e-4e93-9be3-777bff2a3bc6",
+        "date_posted": 1730150617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
