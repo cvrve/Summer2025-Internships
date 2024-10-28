@@ -53,6 +53,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Panasonic | Software Engineering Intern | Irvine, CA | <a href="http://redirect.cvrve.me/d50b60e4b74bfa57472b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Microsoft | Research Intern | Redmond, WA | <a href="http://redirect.cvrve.me/d7da769aaf11c6f8a755?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Matroid | Computer Vision Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/056779e94d9c35f91f17?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Lam Research | Software Development Intern | Fremont, CA | <a href="http://redirect.cvrve.me/25238f19d9af8c1aaad7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Johnson&Johnson | Technology Intern | Raritan, NJ | <a href="http://redirect.cvrve.me/d09ca2e7e7c1f2892335?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | JM Family | Predcictive Analytics Intern | Deerfield, FL | <a href="http://redirect.cvrve.me/3699ef54782615f9dbb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Jack Henry | Software Engineer Intern | Allen, TX | <a href="http://redirect.cvrve.me/5df99559e05d89cc020b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
