@@ -34922,5 +34922,22 @@
         "date_posted": 1730149865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730149903,
+        "url": "http://redirect.cvrve.me/d09ca2e7e7c1f2892335",
+        "locations": [
+            "Raritan, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson&Johnson",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7277b124-1b99-4ee7-bbbe-c387a0be07e5",
+        "date_posted": 1730149903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
