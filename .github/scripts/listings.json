@@ -35092,5 +35092,22 @@
         "date_posted": 1730152081,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730152154,
+        "url": "http://redirect.cvrve.me/25134963b7441e175239",
+        "locations": [
+            "Pleasant Prairie, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ULINE",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ec75264d-b2aa-468a-a4ff-1ec02263f343",
+        "date_posted": 1730152154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
