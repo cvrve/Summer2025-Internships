@@ -34854,5 +34854,22 @@
         "date_posted": 1730148482,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730149537,
+        "url": "http://redirect.cvrve.me/d7da769aaf11c6f8a755",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b47b6e59-699d-4eed-b0e7-a62b5bdb7b0b",
+        "date_posted": 1730149537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
