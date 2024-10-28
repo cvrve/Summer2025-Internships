@@ -35109,5 +35109,22 @@
         "date_posted": 1730152154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730152747,
+        "url": "http://redirect.cvrve.me/07f9ef24930be24f45d4",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Crash Safety Component Validation Engineer - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "bb0e0812-fffa-468e-a631-877b5a0c5e85",
+        "date_posted": 1730152747,
+        "company_url": "",
+        "is_visible": true
     }
 ]
