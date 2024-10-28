@@ -34803,5 +34803,22 @@
         "date_posted": 1730147995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730148114,
+        "url": "http://redirect.cvrve.me/5df99559e05d89cc020b",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c14183f8-2a3c-4438-a9b3-72fab08cd793",
+        "date_posted": 1730148114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
