@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Walgreens | IT Infrastructure & Engineering Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/5e822fbb09f9e6aebeaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Western Digital | DevOps Engineer Intern | Roseville, CA | <a href="http://redirect.cvrve.me/9c889ccd84c67f683579?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineering Intern -System Testing | Roseville, CA | <a href="http://redirect.cvrve.me/c10a90259aabd5cc1fff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | Rochester, MN | <a href="http://redirect.cvrve.me/08fb4b3d009e2ec4e440?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
