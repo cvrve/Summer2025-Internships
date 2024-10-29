@@ -35245,5 +35245,22 @@
         "date_posted": 1730236108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236219,
+        "url": "http://redirect.cvrve.me/94e98de6ed7b1b1e4900",
+        "locations": [
+            "Aiken, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Savannah River Nuclear Solutions",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fe561d53-31fc-44be-8c2b-c00714f7a07e",
+        "date_posted": 1730236219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
