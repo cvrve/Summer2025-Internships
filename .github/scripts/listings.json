@@ -35262,5 +35262,22 @@
         "date_posted": 1730236219,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236283,
+        "url": "http://redirect.cvrve.me/0845786562f8c2e9bf24",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC Inc",
+        "title": "Release Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cefb6f75-f7d8-40f3-a2a8-0705f18716a7",
+        "date_posted": 1730236283,
+        "company_url": "",
+        "is_visible": true
     }
 ]
