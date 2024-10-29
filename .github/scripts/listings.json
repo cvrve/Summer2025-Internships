@@ -35279,5 +35279,23 @@
         "date_posted": 1730236283,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236347,
+        "url": "http://redirect.cvrve.me/326154777f22ef41fbf2",
+        "locations": [
+            "Durham, NC",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Labcorp",
+        "title": "Full Stack Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa36b1c8-f0a0-4ff0-88c4-5b2bc14067bb",
+        "date_posted": 1730236347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
