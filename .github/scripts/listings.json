@@ -194,7 +194,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "company_name": "SIG",
         "title": "Quantitative Research Intern",
         "source": "raoanmol",
@@ -20114,7 +20114,7 @@
             "LocationUnited States"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Honeywell",
         "title": "Embedded Engineer Intern",
         "season": "Summer",
@@ -29814,7 +29814,7 @@
             "Lexington, KY"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Lexmark",
         "title": "Embedded Systems Intern",
         "season": "Summer",
@@ -31900,7 +31900,7 @@
             "Moon Township, PA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Eaton",
         "title": "Firmware Engineer Intern",
         "season": "Summer",
