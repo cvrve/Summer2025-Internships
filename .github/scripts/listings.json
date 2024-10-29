@@ -35554,5 +35554,22 @@
         "date_posted": 1730237182,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730237511,
+        "url": "http://redirect.cvrve.me/a3d12ae1e26b3f70e9f1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccc1edcd-dfcc-47f4-ad21-13e94571ef4c",
+        "date_posted": 1730237511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
