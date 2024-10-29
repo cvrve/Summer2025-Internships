@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viasat | DevOps Commercial Mobility Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/33c827e3b12c9802ffaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Space Dynamics Laboratory | Software Engineer Intern 🇺🇸 | Albuquerque, NM | <a href="http://redirect.cvrve.me/bd023531093f401dd3b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Signify | Software Engineering Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/0cc573fb6ad9395c2e59?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Savannah River Nuclear Solutions | Software Developer Intern | Aiken, SC | <a href="http://redirect.cvrve.me/94e98de6ed7b1b1e4900?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Salesforce | DevOps Engineer Intern | Burlington, MA | <a href="http://redirect.cvrve.me/e6201e455c7c8e54669e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
