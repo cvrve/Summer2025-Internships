@@ -35452,5 +35452,22 @@
         "date_posted": 1730236797,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236888,
+        "url": "http://redirect.cvrve.me/a4a14174271e1ccea447",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stifel",
+        "title": "Technology Product Development Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8a72c979-f63d-4e1d-bca3-20b4bf913e84",
+        "date_posted": 1730236888,
+        "company_url": "",
+        "is_visible": true
     }
 ]
