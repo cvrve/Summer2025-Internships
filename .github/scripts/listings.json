@@ -35469,5 +35469,22 @@
         "date_posted": 1730236888,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236934,
+        "url": "http://redirect.cvrve.me/403352830e07691be480",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Publicis Groupe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "229d94c7-a300-468f-808d-3323590acf92",
+        "date_posted": 1730236934,
+        "company_url": "",
+        "is_visible": true
     }
 ]
