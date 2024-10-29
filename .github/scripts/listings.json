@@ -35400,5 +35400,23 @@
         "date_posted": 1730236685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236730,
+        "url": "http://redirect.cvrve.me/4b8c26af4c2a34e64ddb",
+        "locations": [
+            "Chicago, IL",
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vizient",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9a9c64af-8f88-4e90-b5f0-8d38a82d43f5",
+        "date_posted": 1730236730,
+        "company_url": "",
+        "is_visible": true
     }
 ]

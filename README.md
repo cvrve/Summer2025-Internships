@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vizient | Software Engineer Intern | Chicago, IL</br>Irving, TX | <a href="http://redirect.cvrve.me/4b8c26af4c2a34e64ddb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Viasat | DevOps Commercial Mobility Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/33c827e3b12c9802ffaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Space Dynamics Laboratory | Software Engineer Intern 🇺🇸 | Albuquerque, NM | <a href="http://redirect.cvrve.me/bd023531093f401dd3b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Signify | Software Engineering Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/0cc573fb6ad9395c2e59?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
