@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Credit Karma | Software Engineering Intern | Charlotte, NC | <a href="http://redirect.cvrve.me/26bb71285f221f1609e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Walgreens | IT Infrastructure & Engineering Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/5e822fbb09f9e6aebeaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | VWH Capital | Software Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/f24fbda649b149009318?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | URBN | Mobile Software Engineering Intern | Philadelphia, PA | <a href="http://redirect.cvrve.me/2a959d5e7fb61c3ddf70?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
