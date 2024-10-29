@@ -35435,5 +35435,22 @@
         "date_posted": 1730236757,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236797,
+        "url": "http://redirect.cvrve.me/c9c5237bf232eb3642b7",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tih",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab32ba1d-6bb8-4e86-b64b-361678f858d0",
+        "date_posted": 1730236797,
+        "company_url": "",
+        "is_visible": true
     }
 ]
