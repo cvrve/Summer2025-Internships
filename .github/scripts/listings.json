@@ -35297,5 +35297,23 @@
         "date_posted": 1730236347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236390,
+        "url": "http://redirect.cvrve.me/bf6be382b1f746e38d66",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPE",
+        "title": "Network Software Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c335762f-2ec2-4598-adae-f284188ffaf1",
+        "date_posted": 1730236390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
