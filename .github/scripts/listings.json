@@ -35211,5 +35211,22 @@
         "date_posted": 1730235980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236074,
+        "url": "http://redirect.cvrve.me/0cc573fb6ad9395c2e59",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signify",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cde6f462-722c-4490-a42b-6ca58d116be2",
+        "date_posted": 1730236074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
