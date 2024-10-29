@@ -59,7 +59,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PTC Inc | Onshape SysOps Intern | Boston, MA | <a href="http://redirect.cvrve.me/71b9ecbead5fa63c55bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | R&D Software Engineering Intern | Boston, MA | <a href="http://redirect.cvrve.me/96424d41960e5ecca4f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Release Engineering Intern | Boston, MA | <a href="http://redirect.cvrve.me/0845786562f8c2e9bf24?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| MITRE | Cybersecurity Intern | McLean, VA</br>Bedford, MA | <a href="http://redirect.cvrve.me/67407994d9b4da98edc3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| MITRE | Software Engineering Intern | McLean, VA | <a href="http://redirect.cvrve.me/a4488e345cbb268e2c73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | Cybersecurity Intern | McLean, VA</br>Bedford, MA | <a href="http://redirect.cvrve.me/67407994d9b4da98edc3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Computer Science Intern | McLean, VA | <a href="http://redirect.cvrve.me/a3d12ae1e26b3f70e9f1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Cyber Futures Intern | McLean, VA | <a href="http://redirect.cvrve.me/c250495b2f110af91295?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Artificial Intelligence Intern | McLean, VA | <a href="http://redirect.cvrve.me/6e25e714d60a51ad15d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
