@@ -35503,5 +35503,22 @@
         "date_posted": 1730237089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730237117,
+        "url": "http://redirect.cvrve.me/7a8b40933e05f33e3b39",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Focus Financial Partners",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e4eacaa7-fae7-4ef0-b7ab-92054c5f3725",
+        "date_posted": 1730237117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
