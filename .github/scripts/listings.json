@@ -35383,5 +35383,22 @@
         "date_posted": 1730236609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236685,
+        "url": "http://redirect.cvrve.me/bbc5a8d0fc47bb15f50f",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merlin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "73e46747-1d23-4f5d-8daa-013f0342ebad",
+        "date_posted": 1730236685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
