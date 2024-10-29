@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Salesforce | DevOps Engineer Intern | Burlington, MA | <a href="http://redirect.cvrve.me/e6201e455c7c8e54669e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Rockwell Automation | Innovation Platform Software Engineer Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/d4287d539f455615b460?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Dow Jones | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/da92990c30ae9776f798?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Credit Karma | Software Engineering Intern | Charlotte, NC | <a href="http://redirect.cvrve.me/26bb71285f221f1609e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Walgreens | IT Infrastructure & Engineering Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/5e822fbb09f9e6aebeaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
