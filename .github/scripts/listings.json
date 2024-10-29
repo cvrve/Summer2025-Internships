@@ -35418,5 +35418,22 @@
         "date_posted": 1730236730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730236757,
+        "url": "http://redirect.cvrve.me/d8014d25bd5a6a54a084",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Application Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6d37cbe9-99cd-4c1a-bb03-2c49902c55ff",
+        "date_posted": 1730236757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
