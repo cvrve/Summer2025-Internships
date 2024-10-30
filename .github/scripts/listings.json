@@ -35691,5 +35691,22 @@
         "date_posted": 1730319365,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319596,
+        "url": "http://redirect.cvrve.me/8f2dfaa126ddc29c2edd",
+        "locations": [
+            "Naples, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arthrex",
+        "title": "3D Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "713706c8-f88e-4bef-a8c9-e010937354d6",
+        "date_posted": 1730319596,
+        "company_url": "",
+        "is_visible": true
     }
 ]
