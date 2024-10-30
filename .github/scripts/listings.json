@@ -35777,5 +35777,22 @@
         "date_posted": 1730319876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319910,
+        "url": "http://redirect.cvrve.me/f9c95dcbab1e1b066a24",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d088c047-7867-4abb-81ae-e3783b3d32f5",
+        "date_posted": 1730319910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
