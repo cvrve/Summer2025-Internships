@@ -35830,5 +35830,22 @@
         "date_posted": 1730319981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730320023,
+        "url": "http://redirect.cvrve.me/ba4a577c504cd783ea5e",
+        "locations": [
+            "locations Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Tableau Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "967fe962-fba2-4636-b483-b9239213849e",
+        "date_posted": 1730320023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
