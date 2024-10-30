@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Signify | Advanced Development Software Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/2c6f1ca15f12805bc2b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Nutanix | Systems Engineering Intern | Durham, NC | <a href="http://redirect.cvrve.me/93ba38d2f171307e6642?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Microsoft | Product Manager Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/366d0ca9ac34060b4995?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Michaels | Software Operations Intern | Irving, TX | <a href="http://redirect.cvrve.me/49a3250d7d7176bee7d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Infrastructure Engineering Intern | Irving, TX | <a href="http://redirect.cvrve.me/8d19644595f269b046d9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |

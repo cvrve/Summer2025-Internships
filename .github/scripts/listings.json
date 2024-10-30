@@ -35708,5 +35708,22 @@
         "date_posted": 1730319596,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319772,
+        "url": "http://redirect.cvrve.me/93ba38d2f171307e6642",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "04daee2a-c6b2-46ee-be9d-42eca680f527",
+        "date_posted": 1730319772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
