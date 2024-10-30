@@ -35742,5 +35742,22 @@
         "date_posted": 1730319815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319844,
+        "url": "http://redirect.cvrve.me/c9d3683ce0fb24b2eca7",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DL Trading",
+        "title": "Quantitative Sports Trading Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b78cb602-ef09-483b-898e-ce3843884885",
+        "date_posted": 1730319844,
+        "company_url": "",
+        "is_visible": true
     }
 ]
