@@ -35898,5 +35898,22 @@
         "date_posted": 1730320411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730320445,
+        "url": "http://redirect.cvrve.me/961aa04a6545a1829ed5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Orenda",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "545fc58d-1285-4f77-9df2-06ad183214a3",
+        "date_posted": 1730320445,
+        "company_url": "",
+        "is_visible": true
     }
 ]
