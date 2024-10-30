@@ -35847,5 +35847,22 @@
         "date_posted": 1730320023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730320075,
+        "url": "http://redirect.cvrve.me/7f5aec31c3a4f3c65fd5",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Live Nation",
+        "title": "Mobile Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a09722a4-d1b3-452e-8eaa-7469585902b9",
+        "date_posted": 1730320075,
+        "company_url": "",
+        "is_visible": true
     }
 ]
