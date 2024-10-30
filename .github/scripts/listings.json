@@ -35674,5 +35674,22 @@
         "date_posted": 1730319171,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319365,
+        "url": "http://redirect.cvrve.me/366d0ca9ac34060b4995",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "848b67f7-39b5-462a-b44f-4a53e6e58e3d",
+        "date_posted": 1730319365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
