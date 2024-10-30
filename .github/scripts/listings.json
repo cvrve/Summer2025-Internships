@@ -35640,5 +35640,22 @@
         "date_posted": 1730319089,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319141,
+        "url": "http://redirect.cvrve.me/8d19644595f269b046d9",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Michaels",
+        "title": "Infrastructure Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f57abdf5-9992-4b60-8f98-6600f1a11a73",
+        "date_posted": 1730319141,
+        "company_url": "",
+        "is_visible": true
     }
 ]
