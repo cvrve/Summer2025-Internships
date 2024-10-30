@@ -35966,5 +35966,22 @@
         "date_posted": 1730322076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730322124,
+        "url": "http://redirect.cvrve.me/4cb4d0f251710bc81d70",
+        "locations": [
+            "West Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkley Small Business Solutions (BSB)",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f181157b-9ad0-4d38-a65a-a4d829c2940a",
+        "date_posted": 1730322124,
+        "company_url": "",
+        "is_visible": true
     }
 ]
