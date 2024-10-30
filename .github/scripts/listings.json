@@ -35725,5 +35725,22 @@
         "date_posted": 1730319772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319815,
+        "url": "http://redirect.cvrve.me/4ec04022ff5999aa1ef7",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GCM Grosvenor",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "67098f8c-9ff5-4527-ad0b-27c537963139",
+        "date_posted": 1730319815,
+        "company_url": "",
+        "is_visible": true
     }
 ]
