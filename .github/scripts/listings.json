@@ -36000,5 +36000,23 @@
         "date_posted": 1730322220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730322327,
+        "url": "http://redirect.cvrve.me/b513ec59977901598743",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eyefinity",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac77a120-bc07-43d4-8d36-948e2e2b9957",
+        "date_posted": 1730322327,
+        "company_url": "",
+        "is_visible": true
     }
 ]
