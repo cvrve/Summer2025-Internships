@@ -35759,5 +35759,23 @@
         "date_posted": 1730319844,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319876,
+        "url": "http://redirect.cvrve.me/fa780e9e8e5863928fc0",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affinipay",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab0428ad-8ade-431d-9860-8336b21eb1cc",
+        "date_posted": 1730319876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
