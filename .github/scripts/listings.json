@@ -35794,5 +35794,23 @@
         "date_posted": 1730319910,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730319941,
+        "url": "http://redirect.cvrve.me/d6499910cacf856b798b",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b219bc69-9b92-475a-99e8-27a6c997cb09",
+        "date_posted": 1730319941,
+        "company_url": "",
+        "is_visible": true
     }
 ]
