@@ -35881,5 +35881,22 @@
         "date_posted": 1730320118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730320411,
+        "url": "http://redirect.cvrve.me/943a5b35b931f572838b",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Innovation Platform Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "089f13dd-0ef7-400a-9fbb-084d17871f11",
+        "date_posted": 1730320411,
+        "company_url": "",
+        "is_visible": true
     }
 ]
