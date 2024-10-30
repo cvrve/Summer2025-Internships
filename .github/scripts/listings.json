@@ -35864,5 +35864,22 @@
         "date_posted": 1730320075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730320118,
+        "url": "http://redirect.cvrve.me/2d968688b0399ac5d049",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tih",
+        "title": "Salesforce Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1d77c7bc-1cbc-46eb-9410-baf15ac42222",
+        "date_posted": 1730320118,
+        "company_url": "",
+        "is_visible": true
     }
 ]

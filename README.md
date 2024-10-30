@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tih | Salesforce Developer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/2d968688b0399ac5d049?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Signify | Advanced Development Software Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/2c6f1ca15f12805bc2b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Nutanix | Systems Engineering Intern | Durham, NC | <a href="http://redirect.cvrve.me/93ba38d2f171307e6642?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Motorola Solutions | Tableau Data Scientist Intern | locations Chicago, IL | <a href="http://redirect.cvrve.me/ba4a577c504cd783ea5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
