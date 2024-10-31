@@ -36088,5 +36088,24 @@
         "date_posted": 1730395377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730395409,
+        "url": "http://redirect.cvrve.me/45c5ec6977801d5dd013",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon Robotics",
+        "title": "Software Development Engineer (SDE) Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac779027-1405-4385-a099-d4c6f8da02c2",
+        "date_posted": 1730395409,
+        "company_url": "",
+        "is_visible": true
     }
 ]

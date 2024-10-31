@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Hume AI | Research Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/de9472dc324915955c62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Cleveland Clinic | Web Application/Data Modeling Intern | Remote</br>US | <a href="http://redirect.cvrve.me/4dadb28c9a086cbc8700?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Amazon Robotics | Software Development Engineer (SDE) Intern | Westborough, MA</br>North Reading, MA</br>Seattle, WA | <a href="http://redirect.cvrve.me/45c5ec6977801d5dd013?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | X | Engineering Intern | Palo Alto, CA</br>New York City, NY | <a href="http://redirect.cvrve.me/d7ea1a3bb27ea5324caa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Tih | Salesforce Developer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/2d968688b0399ac5d049?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Signify | Advanced Development Software Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/2c6f1ca15f12805bc2b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
