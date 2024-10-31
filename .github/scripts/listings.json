@@ -36142,5 +36142,22 @@
         "date_posted": 1730395480,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730395824,
+        "url": "http://redirect.cvrve.me/081543b8efb284e71db5",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Blackhawks",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e9c1c658-73ba-4f2c-b3e5-2e504216d22d",
+        "date_posted": 1730395824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
