@@ -36159,5 +36159,22 @@
         "date_posted": 1730395824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730404513,
+        "url": "http://redirect.cvrve.me/19741136fd0c16202f3c",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "OMS Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2443d553-1459-484f-88cc-77e93e3c75ed",
+        "date_posted": 1730404513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
