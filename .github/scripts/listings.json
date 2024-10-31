@@ -36070,5 +36070,23 @@
         "date_posted": 1730395348,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730395377,
+        "url": "http://redirect.cvrve.me/4dadb28c9a086cbc8700",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cleveland Clinic",
+        "title": "Web Application/Data Modeling Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3e287376-42b3-4e5d-b6d0-a60ed7ae3d32",
+        "date_posted": 1730395377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
