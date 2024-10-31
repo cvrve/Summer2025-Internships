@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| X | Engineering Intern | Palo Alto, CA</br>New York City, NY | <a href="http://redirect.cvrve.me/d7ea1a3bb27ea5324caa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Tih | Salesforce Developer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/2d968688b0399ac5d049?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Signify | Advanced Development Software Intern - Spring | Atlanta, GA | <a href="http://redirect.cvrve.me/2c6f1ca15f12805bc2b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Rockwell Automation | Innovation Platform Software Engineer Intern | Milwaukee, WI | <a href="http://redirect.cvrve.me/943a5b35b931f572838b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |

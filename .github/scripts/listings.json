@@ -36035,5 +36035,23 @@
         "date_posted": 1730322376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730336165,
+        "url": "http://redirect.cvrve.me/d7ea1a3bb27ea5324caa",
+        "locations": [
+            "Palo Alto, CA",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "X",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a7ba25b5-2694-4ed3-b444-a501dd81464f",
+        "date_posted": 1730336165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
