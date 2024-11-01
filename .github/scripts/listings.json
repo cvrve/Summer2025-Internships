@@ -36399,5 +36399,27 @@
         "date_posted": 1730422115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422192,
+        "url": "http://redirect.cvrve.me/6326beca9aeaff1e12e7",
+        "locations": [
+            "Warren, MI",
+            "Milford, MI",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Detroit, MI",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GM",
+        "title": "DPE Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9e7d6164-11b7-4128-9999-16e61a6a1794",
+        "date_posted": 1730422192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
