@@ -36507,5 +36507,22 @@
         "date_posted": 1730422438,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422472,
+        "url": "http://redirect.cvrve.me/adc5facfb9559f29874c",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Data Science and Network AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c595f63d-1ae5-45f5-9995-7f3bc0f6a963",
+        "date_posted": 1730422472,
+        "company_url": "",
+        "is_visible": true
     }
 ]
