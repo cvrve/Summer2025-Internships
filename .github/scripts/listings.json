@@ -36542,5 +36542,22 @@
         "date_posted": 1730422513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422568,
+        "url": "http://redirect.cvrve.me/e137b0b9e43cf94412ca",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Statistical Process Control Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0aeac335-e1e6-4141-9fc0-177d8ff68dee",
+        "date_posted": 1730422568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
