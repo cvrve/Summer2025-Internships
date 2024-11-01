@@ -36929,5 +36929,22 @@
         "date_posted": 1730454477,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730454588,
+        "url": "http://redirect.cvrve.me/16b143d48595056dd049",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stifel",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dfb9dc9b-6739-4918-8e49-bf3780925325",
+        "date_posted": 1730454588,
+        "company_url": "",
+        "is_visible": true
     }
 ]
