@@ -36365,5 +36365,22 @@
         "date_posted": 1730422002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422074,
+        "url": "http://redirect.cvrve.me/997a16bc4c9489974f56",
+        "locations": [
+            "Secaucus, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schneider Electric",
+        "title": "Application Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "29dc767c-0c44-4682-8d56-d21bea8e199b",
+        "date_posted": 1730422074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
