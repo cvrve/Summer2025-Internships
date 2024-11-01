@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viasat | Software Engineer Intern 🇺🇸 | Carlsbad, CA | <a href="http://redirect.cvrve.me/2489bd9775caebffc11c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| The Aerospace Corporation | Embedded Specialized Compute Engineering Intern | El Segundo, CA</br>Chantilly, VA | <a href="http://redirect.cvrve.me/59e82be82149811060f0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Pinterest | IT Software Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0b15bc80e067b8bc865f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Nokia | Software Developer Intern | Naperville, IL | <a href="http://redirect.cvrve.me/2b264fe8437aef420368?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Keysight | PNA Firmware/Software Engineering Intern | Santa Rosa, CA | <a href="http://redirect.cvrve.me/a43a8615bf362997d806?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |

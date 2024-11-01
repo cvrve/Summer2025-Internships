@@ -36227,5 +36227,23 @@
         "date_posted": 1730421626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421716,
+        "url": "http://redirect.cvrve.me/59e82be82149811060f0",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Embedded Specialized Compute Engineering\u202fIntern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "231e0f08-c910-4179-9dfd-e37a3c4007b6",
+        "date_posted": 1730421716,
+        "company_url": "",
+        "is_visible": true
     }
 ]
