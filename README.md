@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Pinterest | IT Software Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0b15bc80e067b8bc865f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Nokia | Software Developer Intern | Naperville, IL | <a href="http://redirect.cvrve.me/2b264fe8437aef420368?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Keysight | PNA Firmware/Software Engineering Intern | Santa Rosa, CA | <a href="http://redirect.cvrve.me/a43a8615bf362997d806?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Hume AI | Research Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/de9472dc324915955c62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Costco | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/c1314a9b2ce5d55ecd0d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
