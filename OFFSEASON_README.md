@@ -74,6 +74,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | SiriusXM | Software Engineer Intern - Spring | New York, NY | <a href="http://redirect.cvrve.me/1cc61f3019e60eb734e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Point72 | Data Engineer Intern - Spring | New York, NY | <a href="http://redirect.cvrve.me/ca9c19e3d8b441cdaa74?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Noblis | Autonomous Lab Intern - Spring | Reston, VA | <a href="http://redirect.cvrve.me/fbfe4daa4eacdb597fd6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Trossen Robotics | Robotics Software Engineering Intern - Spring | Downers Grove, IL | <a href="http://redirect.cvrve.me/febf362be1c814fcabce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Disney | Digital Analytics Intern - Spring | Celebration, FL | <a href="http://redirect.cvrve.me/604d88221da999377283?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |

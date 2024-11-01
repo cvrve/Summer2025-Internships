@@ -36662,5 +36662,22 @@
         "date_posted": 1730423154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730424000,
+        "url": "http://redirect.cvrve.me/ca9c19e3d8b441cdaa74",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Data Engineer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "c5bd9d47-21e1-4ce3-9e9f-78fc23306475",
+        "date_posted": 1730424000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
