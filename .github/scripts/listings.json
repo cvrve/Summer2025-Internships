@@ -36455,5 +36455,22 @@
         "date_posted": 1730422260,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422300,
+        "url": "http://redirect.cvrve.me/6a19721804bf4944326b",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Embedded Haskell Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4e2223e6-b9d4-4466-a420-95b7f2008d03",
+        "date_posted": 1730422300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
