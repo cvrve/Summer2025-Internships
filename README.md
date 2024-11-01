@@ -56,6 +56,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Keysight | PNA Firmware/Software Engineer Intern | Santa Rosa, CA | <a href="http://redirect.cvrve.me/bb24c595794c23e4a5bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | ↳ | PNA Firmware/Software Engineering Intern | Santa Rosa, CA | <a href="http://redirect.cvrve.me/a43a8615bf362997d806?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Hume AI | Research Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/de9472dc324915955c62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| GM | Software Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/caf8c8a231bb25b1f548?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Evident | Firmware Engineering Intern | Waltham, MA | <a href="http://redirect.cvrve.me/8e513717dd12359b26db?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Costco | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/c1314a9b2ce5d55ecd0d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | ↳ | OMS Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/19741136fd0c16202f3c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |

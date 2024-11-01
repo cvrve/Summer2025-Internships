@@ -36348,5 +36348,22 @@
         "date_posted": 1730421949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422002,
+        "url": "http://redirect.cvrve.me/caf8c8a231bb25b1f548",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d80292fa-6873-4442-b58d-be2d99545017",
+        "date_posted": 1730422002,
+        "company_url": "",
+        "is_visible": true
     }
 ]
