@@ -36627,5 +36627,23 @@
         "date_posted": 1730423009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730423099,
+        "url": "http://redirect.cvrve.me/baf1b0f91688d3036bb6",
+        "locations": [
+            "Lincolnshire, IL",
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Customer Success Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "25655ede-40f0-47e2-b4a0-4c76bebd2431",
+        "date_posted": 1730423099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
