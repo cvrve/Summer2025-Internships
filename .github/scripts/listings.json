@@ -36731,5 +36731,23 @@
         "date_posted": 1730424170,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730424201,
+        "url": "http://redirect.cvrve.me/d0fdd5c487df4812c5ac",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Sales Excellence Data Quality Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "60702cc9-120f-47b3-ae19-8b2e31a35007",
+        "date_posted": 1730424201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
