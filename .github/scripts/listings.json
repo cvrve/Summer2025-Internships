@@ -36875,5 +36875,23 @@
         "date_posted": 1730454342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730454367,
+        "url": "http://redirect.cvrve.me/d683858357717d39e3a9",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Technology Innovation Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e528ac34-38f5-4c67-b10c-c922fcdffe3f",
+        "date_posted": 1730454367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
