@@ -36803,5 +36803,22 @@
         "date_posted": 1730427565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730427604,
+        "url": "http://redirect.cvrve.me/37d34e155e1f6829052d",
+        "locations": [
+            "Northfield, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medline",
+        "title": "IT Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ab69849b-d9f1-4ef5-9e4d-7e6fa864d645",
+        "date_posted": 1730427604,
+        "company_url": "",
+        "is_visible": true
     }
 ]
