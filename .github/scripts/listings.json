@@ -36785,5 +36785,23 @@
         "date_posted": 1730427527,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730427565,
+        "url": "http://redirect.cvrve.me/f22ec8ee18d4b323d22c",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Under Armour",
+        "title": "IT Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c8618169-a983-4324-a337-c4e01898828a",
+        "date_posted": 1730427565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
