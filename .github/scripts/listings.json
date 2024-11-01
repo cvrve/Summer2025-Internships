@@ -36280,5 +36280,22 @@
         "date_posted": 1730421792,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421845,
+        "url": "http://redirect.cvrve.me/8e513717dd12359b26db",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Evident",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "457b68a1-362e-40c7-8c26-2145286033f4",
+        "date_posted": 1730421845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
