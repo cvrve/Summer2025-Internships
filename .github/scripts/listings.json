@@ -36610,5 +36610,22 @@
         "date_posted": 1730422938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730423009,
+        "url": "http://redirect.cvrve.me/fbfe4daa4eacdb597fd6",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": "Autonomous Lab Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "10b6c307-06d4-46ac-a485-35ae3641e342",
+        "date_posted": 1730423009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
