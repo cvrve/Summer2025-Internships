@@ -36981,5 +36981,23 @@
         "date_posted": 1730454876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730454909,
+        "url": "http://redirect.cvrve.me/c76fc39ca73e58b0adcc",
+        "locations": [
+            "McLean, VA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raft",
+        "title": "Full Stack Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8f5044b7-93d1-4205-a1ba-44d58ebaad00",
+        "date_posted": 1730454909,
+        "company_url": "",
+        "is_visible": true
     }
 ]
