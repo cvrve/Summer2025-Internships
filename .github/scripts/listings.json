@@ -36472,5 +36472,22 @@
         "date_posted": 1730422300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422347,
+        "url": "http://redirect.cvrve.me/135f1135c44b28d2fbac",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dexcom",
+        "title": "Mobile Developer Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b853628d-7fc0-4c46-9917-b3634b921ba9",
+        "date_posted": 1730422347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
