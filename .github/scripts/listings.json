@@ -36820,5 +36820,24 @@
         "date_posted": 1730427604,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730454248,
+        "url": "http://redirect.cvrve.me/1251dcb9b780dd70fc04",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "22b82408-706e-4d40-a4d7-f883b620f53f",
+        "date_posted": 1730454248,
+        "company_url": "",
+        "is_visible": true
     }
 ]
