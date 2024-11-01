@@ -36857,5 +36857,23 @@
         "date_posted": 1730454306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730454342,
+        "url": "http://redirect.cvrve.me/97de431e25c406104b6a",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Workplace Application & Integration Services Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "43f12067-a554-43c8-8186-29d8653d4ade",
+        "date_posted": 1730454342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
