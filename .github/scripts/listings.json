@@ -36749,5 +36749,23 @@
         "date_posted": 1730424201,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730427044,
+        "url": "http://redirect.cvrve.me/6ad0765228ad771178d9",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reddit",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6008253e-f8af-4917-9e6d-7f9d0b2ef40b",
+        "date_posted": 1730427044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
