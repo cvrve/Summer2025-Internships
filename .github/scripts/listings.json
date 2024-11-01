@@ -36176,5 +36176,22 @@
         "date_posted": 1730404513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421527,
+        "url": "http://redirect.cvrve.me/c1314a9b2ce5d55ecd0d",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5acef96-4151-42d8-bd38-ac6805937954",
+        "date_posted": 1730421527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
