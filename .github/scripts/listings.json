@@ -36263,5 +36263,22 @@
         "date_posted": 1730421758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421792,
+        "url": "http://redirect.cvrve.me/1951d986acdfe762ab3a",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccd8b83a-abdd-4ab1-8146-b7569f105e9c",
+        "date_posted": 1730421792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
