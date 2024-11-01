@@ -36331,5 +36331,22 @@
         "date_posted": 1730421917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421949,
+        "url": "http://redirect.cvrve.me/fe481e147da0ce72f4e8",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiriusXM",
+        "title": "Web Platform Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "12b56443-3188-403f-b9a1-8dce8e2eb73d",
+        "date_posted": 1730421949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
