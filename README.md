@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| VSP Vision | Technology Innovation Analyst Intern | Remote</br>US | <a href="http://redirect.cvrve.me/d683858357717d39e3a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/6fb87acee7ce1740a9f1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Technology Innovation Analyst Intern | Remote</br>US | <a href="http://redirect.cvrve.me/d683858357717d39e3a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Workplace Application & Integration Services Intern | Remote</br>US | <a href="http://redirect.cvrve.me/97de431e25c406104b6a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Eyefinity | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/606905e258eac053f79a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Adobe | Cyber Security Intern | Seattle, WA</br>New York, NY</br>San Jose, CA | <a href="http://redirect.cvrve.me/1251dcb9b780dd70fc04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
