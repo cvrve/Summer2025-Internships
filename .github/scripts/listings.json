@@ -36559,5 +36559,22 @@
         "date_posted": 1730422568,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422695,
+        "url": "http://redirect.cvrve.me/d0cc3199372b2c2eddda",
+        "locations": [
+            "De Soto, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "AI Research Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1552232f-7045-4f03-a657-eebfe236a8c4",
+        "date_posted": 1730422695,
+        "company_url": "",
+        "is_visible": true
     }
 ]
