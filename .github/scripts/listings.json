@@ -36382,5 +36382,22 @@
         "date_posted": 1730422074,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730422115,
+        "url": "http://redirect.cvrve.me/1eea17ee3bc7d875e8f3",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e99490a7-d220-45e0-ad0e-dde560233a60",
+        "date_posted": 1730422115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
