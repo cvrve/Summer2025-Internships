@@ -36767,5 +36767,23 @@
         "date_posted": 1730427044,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730427527,
+        "url": "http://redirect.cvrve.me/c62730d7e0fb7580b9a5",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Under Armour",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8fe9826-510b-4b41-b183-dffbf0cf2799",
+        "date_posted": 1730427527,
+        "company_url": "",
+        "is_visible": true
     }
 ]
