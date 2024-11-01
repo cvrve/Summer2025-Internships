@@ -36297,5 +36297,22 @@
         "date_posted": 1730421845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421881,
+        "url": "http://redirect.cvrve.me/bb24c595794c23e4a5bd",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "PNA Firmware/Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8d085417-4d24-4817-abde-8380a8d992f4",
+        "date_posted": 1730421881,
+        "company_url": "",
+        "is_visible": true
     }
 ]
