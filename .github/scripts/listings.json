@@ -36245,5 +36245,23 @@
         "date_posted": 1730421716,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730421758,
+        "url": "http://redirect.cvrve.me/47def4c801ce53e2cf39",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Embedded Spacecraft Security Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dd34481e-f1e1-42fe-8fab-19336a8a2ecb",
+        "date_posted": 1730421758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
