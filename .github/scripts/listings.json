@@ -37036,5 +37036,22 @@
         "date_posted": 1730455827,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730525270,
+        "url": "http://redirect.cvrve.me/56c97f25b01a286b2b4a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Mobile Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8373718-5354-4c1a-9400-4ddc37d00ee3",
+        "date_posted": 1730525270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
