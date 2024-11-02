@@ -37053,5 +37053,22 @@
         "date_posted": 1730525270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730525307,
+        "url": "http://redirect.cvrve.me/03bf5644ad188489db86",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Security Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7bfe4fe7-af10-4aa8-bba4-f45a2e25b1ab",
+        "date_posted": 1730525307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
