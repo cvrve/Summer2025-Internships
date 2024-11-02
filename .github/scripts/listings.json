@@ -37087,5 +37087,25 @@
         "date_posted": 1730525337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730525491,
+        "url": "http://redirect.cvrve.me/06ad20f45c3766473146",
+        "locations": [
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Niantic",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "44ad96da-5d0b-40de-b70e-5295df9e7ea7",
+        "date_posted": 1730525491,
+        "company_url": "",
+        "is_visible": true
     }
 ]
