@@ -37107,5 +37107,22 @@
         "date_posted": 1730525491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730525514,
+        "url": "http://redirect.cvrve.me/1b23d77a897cf281844c",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0259840d-0840-4255-bec4-6b1db3b5c376",
+        "date_posted": 1730525514,
+        "company_url": "",
+        "is_visible": true
     }
 ]
