@@ -37297,5 +37297,22 @@
         "date_posted": 1730598067,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730649446,
+        "url": "http://redirect.cvrve.me/ce4619a8ed1f0a4bafc7",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c0deb34a-a3ab-4890-960e-0f75d0f16c7a",
+        "date_posted": 1730649446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
