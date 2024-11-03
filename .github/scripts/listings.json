@@ -37280,5 +37280,22 @@
         "date_posted": 1730597995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730598067,
+        "url": "http://redirect.cvrve.me/06e9a4db473f8a9299f4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bf9924aa-e6fa-4341-99f7-aea11e7cfcfa",
+        "date_posted": 1730598067,
+        "company_url": "",
+        "is_visible": true
     }
 ]
