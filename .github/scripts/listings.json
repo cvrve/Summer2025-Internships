@@ -37401,5 +37401,22 @@
         "date_posted": 1730649936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730650369,
+        "url": "http://redirect.cvrve.me/adfdc8a9683c159204c6",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Intapp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9252c80d-d2fe-4fdf-8fda-974815451907",
+        "date_posted": 1730650369,
+        "company_url": "",
+        "is_visible": true
     }
 ]

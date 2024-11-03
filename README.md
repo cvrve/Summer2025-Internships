@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Seagate | AI-Driven Materials Discovery Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/ce18725ce2a3997e4baa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | LL Bean | Software Developer Intern | Freeport, ME | <a href="http://redirect.cvrve.me/a6107bdf3c7217c76b71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Intapp | Software Engineer Intern | Charlotte, NC | <a href="http://redirect.cvrve.me/adfdc8a9683c159204c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | <a href="http://redirect.cvrve.me/ce4619a8ed1f0a4bafc7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Cisco Meraki | Full Stack Intern | San Francisco, CA</br>Chicago, IL</br>Remote | <a href="http://redirect.cvrve.me/f8391510e25625972c4e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Bastian Solution | Automation Engineer Intern | Farmers Branch, TX | <a href="http://redirect.cvrve.me/a105bf58f27207672e11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
