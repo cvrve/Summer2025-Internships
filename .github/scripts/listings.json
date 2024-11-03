@@ -37229,5 +37229,22 @@
         "date_posted": 1730597629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730597765,
+        "url": "http://redirect.cvrve.me/6f9832164fe2ad9285b0",
+        "locations": [
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chamberlain Group",
+        "title": "Software Test Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb8567d6-9bee-4e3f-b324-478d6644d0e6",
+        "date_posted": 1730597765,
+        "company_url": "",
+        "is_visible": true
     }
 ]
