@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Raft | AI/ML Intern 🇺🇸 | McLean, VA</br>Remote | <a href="http://redirect.cvrve.me/1538f4dc825db55477e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Microsoft | AI Research Intern | Redmond, WA | <a href="http://redirect.cvrve.me/cbccc0041f5006fcbaea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Microsoft | Fullstack Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/4c7d27ad8c7e2fd77c65?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | AI Research Intern | Redmond, WA | <a href="http://redirect.cvrve.me/cbccc0041f5006fcbaea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Associated Bank | Information Security Risk Management Intern 🛂 | Milwaukee, WI | <a href="http://redirect.cvrve.me/c3edcb0747246d624e51?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/baef1bfbd4efdecbc330?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/6fb87acee7ce1740a9f1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
