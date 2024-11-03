@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| LL Bean | Software Developer Intern | Freeport, ME | <a href="http://redirect.cvrve.me/a6107bdf3c7217c76b71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | <a href="http://redirect.cvrve.me/ce4619a8ed1f0a4bafc7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Seagate | RUST SW Developer Intern | Shakopee, MN | <a href="http://redirect.cvrve.me/d089aaf668bfd6a15385?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Raft | AI/ML Intern 🇺🇸 | McLean, VA</br>Remote | <a href="http://redirect.cvrve.me/1538f4dc825db55477e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |

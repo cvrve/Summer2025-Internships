@@ -37314,5 +37314,22 @@
         "date_posted": 1730649446,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730649484,
+        "url": "http://redirect.cvrve.me/a6107bdf3c7217c76b71",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LL Bean",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59d840d5-48ad-4702-bf64-f811575deaf6",
+        "date_posted": 1730649484,
+        "company_url": "",
+        "is_visible": true
     }
 ]
