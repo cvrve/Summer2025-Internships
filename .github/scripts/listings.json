@@ -37159,5 +37159,22 @@
         "date_posted": 1730596383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730596440,
+        "url": "http://redirect.cvrve.me/c3edcb0747246d624e51",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Associated Bank",
+        "title": "Information Security Risk Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e2e2401d-02b1-4aaf-9b7d-23fd2d69c7e7",
+        "date_posted": 1730596440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
