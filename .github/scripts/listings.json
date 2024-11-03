@@ -37263,5 +37263,22 @@
         "date_posted": 1730597835,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730597995,
+        "url": "http://redirect.cvrve.me/d089aaf668bfd6a15385",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "RUST SW Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7765353-9a65-482a-a010-dc8ddfa974d6",
+        "date_posted": 1730597995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
