@@ -37348,5 +37348,22 @@
         "date_posted": 1730649561,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730649663,
+        "url": "http://redirect.cvrve.me/ce18725ce2a3997e4baa",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "AI-Driven Materials Discovery Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccbfd80e-5102-4eeb-a0ea-128aa11c0512",
+        "date_posted": 1730649663,
+        "company_url": "",
+        "is_visible": true
     }
 ]

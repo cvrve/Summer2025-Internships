@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Seagate | AI-Driven Materials Discovery Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/ce18725ce2a3997e4baa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | LL Bean | Software Developer Intern | Freeport, ME | <a href="http://redirect.cvrve.me/a6107bdf3c7217c76b71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | <a href="http://redirect.cvrve.me/ce4619a8ed1f0a4bafc7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Bastian Solution | Software Engineer Intern | Meridian, ID | <a href="http://redirect.cvrve.me/59a127cfc1962fa8643b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
