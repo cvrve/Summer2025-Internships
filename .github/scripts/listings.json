@@ -37365,5 +37365,22 @@
         "date_posted": 1730649663,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730649701,
+        "url": "http://redirect.cvrve.me/a105bf58f27207672e11",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bastian Solution",
+        "title": "Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8e294edb-a576-4a15-8883-dd220c8dbbc1",
+        "date_posted": 1730649701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
