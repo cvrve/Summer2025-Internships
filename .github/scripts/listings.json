@@ -37141,5 +37141,23 @@
         "date_posted": 1730525663,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730596383,
+        "url": "http://redirect.cvrve.me/1538f4dc825db55477e3",
+        "locations": [
+            "McLean, VA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raft",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a1803f91-b8fa-4166-9904-72513781daea",
+        "date_posted": 1730596383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
