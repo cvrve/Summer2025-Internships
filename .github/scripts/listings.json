@@ -37246,5 +37246,22 @@
         "date_posted": 1730597765,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730597835,
+        "url": "http://redirect.cvrve.me/373eb1f4f7a20385483d",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Cyber Engineer & Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c23baf5d-39ec-4f16-88dd-f4de40c2c73d",
+        "date_posted": 1730597835,
+        "company_url": "",
+        "is_visible": true
     }
 ]
