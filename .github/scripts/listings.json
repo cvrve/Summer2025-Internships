@@ -37435,5 +37435,22 @@
         "date_posted": 1730650560,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730683258,
+        "url": "http://redirect.cvrve.me/4dc7d680ee1befeebb34",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silimate - YC23",
+        "title": "Software Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "f15744c3-7c8a-4868-b23e-b014f2d4928a",
+        "date_posted": 1730683258,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Silimate - YC23 | Software Intern - Spring | Mountain View, CA | <a href="http://redirect.cvrve.me/4dc7d680ee1befeebb34?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | SiriusXM | Software Engineer Intern - Spring | New York, NY | <a href="http://redirect.cvrve.me/1cc61f3019e60eb734e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Point72 | Data Engineer Intern - Spring | New York, NY | <a href="http://redirect.cvrve.me/ca9c19e3d8b441cdaa74?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Noblis | Autonomous Lab Intern - Spring | Reston, VA | <a href="http://redirect.cvrve.me/fbfe4daa4eacdb597fd6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
