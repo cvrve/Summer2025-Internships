@@ -37503,5 +37503,22 @@
         "date_posted": 1730683534,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730683969,
+        "url": "http://redirect.cvrve.me/44bc1e9c17a99be0d667",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wunderlich-Malec",
+        "title": "Software Integration Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "38460455-c04d-420a-bb18-58b388b9efa7",
+        "date_posted": 1730683969,
+        "company_url": "",
+        "is_visible": true
     }
 ]
