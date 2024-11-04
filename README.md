@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Paramount | Software Engineering Intern | Burlingame, CA</br>New York, NY</br>West Hollywood, CA | <a href="http://redirect.cvrve.me/b091672fe28e4f0f30ba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Wunderlich-Malec | Software Integration Co-op | Wilmington, MA | <a href="http://redirect.cvrve.me/44bc1e9c17a99be0d667?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Seagate | AI-Driven Materials Discovery Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/ce18725ce2a3997e4baa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Parsons | Software Developer Intern 🇺🇸 | Centreville, VA | <a href="http://redirect.cvrve.me/bb3b12df4d3884d8266f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
