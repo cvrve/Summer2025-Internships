@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thales | AI & Full-Stack Software Development Intern | Austin, TX | <a href="http://redirect.cvrve.me/f7cf0249902cfb4a8f31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Intapp | Data Scientist Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/d5400bdaede5c5ca354a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Causeway Capital Management | Software Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/8f0fa3f9b737e8cdcd7b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Paramount | Software Engineering Intern | Burlingame, CA</br>New York, NY</br>West Hollywood, CA | <a href="http://redirect.cvrve.me/b091672fe28e4f0f30ba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
