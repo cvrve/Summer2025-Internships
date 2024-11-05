@@ -37915,5 +37915,22 @@
         "date_posted": 1730810483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730810508,
+        "url": "http://redirect.cvrve.me/785923cf4c1a103a4ca6",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wing",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "347d228e-959b-461d-9c96-3174cfb80186",
+        "date_posted": 1730810508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
