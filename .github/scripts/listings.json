@@ -37557,5 +37557,22 @@
         "date_posted": 1730751370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730767307,
+        "url": "http://redirect.cvrve.me/667cd814904c90f61bca",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blizzard",
+        "title": "Graphics Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "95dc6510-6491-45df-869b-ef15a7e89922",
+        "date_posted": 1730767307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
