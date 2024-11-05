@@ -37778,5 +37778,22 @@
         "date_posted": 1730809202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809238,
+        "url": "http://redirect.cvrve.me/ce62864878ce48e9489a",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "Core Trade Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c0aa8a06-d56f-4eb3-9f50-9eff5fb8f1a4",
+        "date_posted": 1730809238,
+        "company_url": "",
+        "is_visible": true
     }
 ]
