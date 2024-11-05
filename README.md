@@ -58,6 +58,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kitware | Computer Vision Software Developer Intern | Clifton Park, NY | <a href="http://redirect.cvrve.me/d29fc4c7f999d75db081?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Intapp | Data Scientist Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/d5400bdaede5c5ca354a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | HP | Software Developer Intern | Vancouver, WA</br>Boise, ID | <a href="http://redirect.cvrve.me/b128c178ead76f1407a3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| GE Digital | Software Intern | West Melbourne, FL | <a href="http://redirect.cvrve.me/817b8d236d6b9429ef82?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | DriveWealth | Partner Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/5c38c9ca5ea48d3dfcfd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Post Trade Engineer | New York, NY | <a href="http://redirect.cvrve.me/5eb2b9959f35eded22f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Core Trade Intern | New York, NY | <a href="http://redirect.cvrve.me/ce62864878ce48e9489a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |

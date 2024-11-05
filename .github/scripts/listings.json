@@ -37986,5 +37986,22 @@
         "date_posted": 1730839897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730839941,
+        "url": "http://redirect.cvrve.me/817b8d236d6b9429ef82",
+        "locations": [
+            "West Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Digital",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "90390589-c117-4a2c-b47f-d4c234a736c3",
+        "date_posted": 1730839941,
+        "company_url": "",
+        "is_visible": true
     }
 ]
