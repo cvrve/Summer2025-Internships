@@ -37812,5 +37812,22 @@
         "date_posted": 1730809266,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809300,
+        "url": "http://redirect.cvrve.me/5c38c9ca5ea48d3dfcfd",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "Partner Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccf1e1d5-09a1-4503-baf8-59a2660b993a",
+        "date_posted": 1730809300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
