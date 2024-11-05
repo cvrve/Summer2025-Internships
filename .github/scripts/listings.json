@@ -37761,5 +37761,22 @@
         "date_posted": 1730809129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809202,
+        "url": "http://redirect.cvrve.me/6eada9de39eb6f3f7621",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b35f4673-6e0d-439d-b9ff-fe3874aff065",
+        "date_posted": 1730809202,
+        "company_url": "",
+        "is_visible": true
     }
 ]
