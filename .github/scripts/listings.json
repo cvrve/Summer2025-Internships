@@ -37676,5 +37676,22 @@
         "date_posted": 1730767537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730808586,
+        "url": "http://redirect.cvrve.me/8f0fa3f9b737e8cdcd7b",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Causeway Capital Management",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5df6f752-74f2-4b74-927c-4b56f7c809ec",
+        "date_posted": 1730808586,
+        "company_url": "",
+        "is_visible": true
     }
 ]
