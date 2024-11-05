@@ -37744,5 +37744,22 @@
         "date_posted": 1730809034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809129,
+        "url": "http://redirect.cvrve.me/b3ab30b1f331582fb677",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9fea0079-fa99-44cb-aeca-f7b2a5edbe3e",
+        "date_posted": 1730809129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
