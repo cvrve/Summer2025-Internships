@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Thales | AI & Full-Stack Software Development Intern | Austin, TX | <a href="http://redirect.cvrve.me/f7cf0249902cfb4a8f31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/0a4b6b1e8a545151f0e6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| RTX | Displays Software Engineer Intern Co-Op | Cedar Rapids, IA | <a href="http://redirect.cvrve.me/79c29d65a5b84d35ac7f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | OneApp | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f7e4252255e56fbf6eeb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Oceaneering | Software Engineering Intern | Hanover, MD | <a href="http://redirect.cvrve.me/6fdb3f9c7fc51620eb56?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | MLB | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/246ee1aec8036124c9f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |

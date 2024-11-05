@@ -37898,5 +37898,22 @@
         "date_posted": 1730809468,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730810483,
+        "url": "http://redirect.cvrve.me/79c29d65a5b84d35ac7f",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Displays Software Engineer Intern Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "de01ca83-d3bc-456a-86e6-9a0b8fe5050e",
+        "date_posted": 1730810483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
