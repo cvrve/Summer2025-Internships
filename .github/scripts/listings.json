@@ -38003,5 +38003,22 @@
         "date_posted": 1730839941,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730840143,
+        "url": "http://redirect.cvrve.me/cc114cab730748d05b28",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HP",
+        "title": "Digital and Transformation Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2b387058-af30-4464-8b7a-4d0e96481076",
+        "date_posted": 1730840143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
