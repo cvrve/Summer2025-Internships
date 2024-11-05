@@ -37795,5 +37795,22 @@
         "date_posted": 1730809238,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809266,
+        "url": "http://redirect.cvrve.me/5eb2b9959f35eded22f5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "Post Trade Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aca40a55-5484-4de5-b823-bc0ec990d0a7",
+        "date_posted": 1730809266,
+        "company_url": "",
+        "is_visible": true
     }
 ]
