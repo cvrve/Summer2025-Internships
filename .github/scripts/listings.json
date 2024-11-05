@@ -37829,5 +37829,22 @@
         "date_posted": 1730809300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809358,
+        "url": "http://redirect.cvrve.me/d29fc4c7f999d75db081",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kitware",
+        "title": "Computer Vision Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10e15206-370c-4073-825f-5e9e574cb437",
+        "date_posted": 1730809358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
