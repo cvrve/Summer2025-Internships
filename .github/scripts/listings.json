@@ -37863,5 +37863,22 @@
         "date_posted": 1730809393,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809426,
+        "url": "http://redirect.cvrve.me/0a4b6b1e8a545151f0e6",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Mobile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0d2867e-ad6e-467a-bfc2-1613152d6931",
+        "date_posted": 1730809426,
+        "company_url": "",
+        "is_visible": true
     }
 ]

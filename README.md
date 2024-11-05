@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Thales | AI & Full-Stack Software Development Intern | Austin, TX | <a href="http://redirect.cvrve.me/f7cf0249902cfb4a8f31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Skydio | Mobile Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/0a4b6b1e8a545151f0e6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Oceaneering | Software Engineering Intern | Hanover, MD | <a href="http://redirect.cvrve.me/6fdb3f9c7fc51620eb56?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | MLB | Technology Intern | New York, NY | <a href="http://redirect.cvrve.me/246ee1aec8036124c9f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Kitware | Computer Vision Software Developer Intern | Clifton Park, NY | <a href="http://redirect.cvrve.me/d29fc4c7f999d75db081?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
