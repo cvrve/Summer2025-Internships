@@ -37693,5 +37693,22 @@
         "date_posted": 1730808586,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730808759,
+        "url": "http://redirect.cvrve.me/d5400bdaede5c5ca354a",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intapp",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "30c8635b-2f9e-41fd-ac51-678c228a4058",
+        "date_posted": 1730808759,
+        "company_url": "",
+        "is_visible": true
     }
 ]
