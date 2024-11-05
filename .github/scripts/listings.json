@@ -37880,5 +37880,23 @@
         "date_posted": 1730809426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730809468,
+        "url": "http://redirect.cvrve.me/f7e4252255e56fbf6eeb",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OneApp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "01904000-17a3-43ae-a67d-4a16248a4039",
+        "date_posted": 1730809468,
+        "company_url": "",
+        "is_visible": true
     }
 ]
