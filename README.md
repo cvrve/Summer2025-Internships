@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Paramount | Software Engineering Intern | Burlingame, CA</br>New York, NY</br>West Hollywood, CA | <a href="http://redirect.cvrve.me/b091672fe28e4f0f30ba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Clark Associates | Software Development Intern | Lititz, PA</br>Remote | <a href="http://redirect.cvrve.me/d0a40e384827f5cc9b0d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| Blizzard | Game Engineering Co-Op | Albany, NY | <a href="http://redirect.cvrve.me/03e93230c633e8817d5b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| Blizzard | Game Engineering Intern | Santa Monica, CA | <a href="http://redirect.cvrve.me/4337b6a91cb2ba85ee7c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| ↳ | Game Engineering Co-Op | Albany, NY | <a href="http://redirect.cvrve.me/03e93230c633e8817d5b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Game Engineer Intern | Santa Monica, CA | <a href="http://redirect.cvrve.me/727a06f7863672aef16d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Game Design Intern | Irvine, CA | <a href="http://redirect.cvrve.me/ac9a7a9cc99ae3370c9c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Data Analytics & Science Intern | Irvine, CA | <a href="http://redirect.cvrve.me/10171a64ac7dd33e9f88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
