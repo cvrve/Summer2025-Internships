@@ -37608,5 +37608,22 @@
         "date_posted": 1730767380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730767420,
+        "url": "http://redirect.cvrve.me/727a06f7863672aef16d",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blizzard",
+        "title": "Game Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c0b6cc2-102b-42a9-85bb-9d69c8f3ade3",
+        "date_posted": 1730767420,
+        "company_url": "",
+        "is_visible": true
     }
 ]
