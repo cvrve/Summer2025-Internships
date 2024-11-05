@@ -37574,5 +37574,22 @@
         "date_posted": 1730767307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730767340,
+        "url": "http://redirect.cvrve.me/10171a64ac7dd33e9f88",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blizzard",
+        "title": "Data Analytics & Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "767c159d-2731-4ee2-946c-760c8d10cf43",
+        "date_posted": 1730767340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
