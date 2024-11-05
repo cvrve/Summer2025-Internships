@@ -37950,5 +37950,23 @@
         "date_posted": 1730838738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730839008,
+        "url": "http://redirect.cvrve.me/6e3155aba6e891622c20",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Monad Labs",
+        "title": "Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0fc43e37-fa2f-46e5-aa37-88d3893721b2",
+        "date_posted": 1730839008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
