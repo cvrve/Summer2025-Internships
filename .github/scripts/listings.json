@@ -38106,5 +38106,22 @@
         "date_posted": 1730905243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730905275,
+        "url": "http://redirect.cvrve.me/e43fe164f3431b68f62f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f0c9a7db-e685-481c-96bf-87c9b3500e52",
+        "date_posted": 1730905275,
+        "company_url": "",
+        "is_visible": true
     }
 ]
