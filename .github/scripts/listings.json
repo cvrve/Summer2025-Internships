@@ -38174,5 +38174,22 @@
         "date_posted": 1730905427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730936752,
+        "url": "http://redirect.cvrve.me/1772db417a122ac942a7",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "15412be2-da9d-46d1-9958-d66a0f513506",
+        "date_posted": 1730936752,
+        "company_url": "",
+        "is_visible": true
     }
 ]
