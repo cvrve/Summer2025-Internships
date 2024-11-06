@@ -38157,5 +38157,22 @@
         "date_posted": 1730905388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730905427,
+        "url": "http://redirect.cvrve.me/5c4669041e9141081893",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thomson Reuters",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77978466-bab5-4957-99b3-f172f48b30c3",
+        "date_posted": 1730905427,
+        "company_url": "",
+        "is_visible": true
     }
 ]
