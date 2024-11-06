@@ -38071,5 +38071,23 @@
         "date_posted": 1730904729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730904997,
+        "url": "http://redirect.cvrve.me/601d56d03c5e0d9beddb",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Github",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c25c8e8a-87fb-47f6-9088-898d0f6c3b7b",
+        "date_posted": 1730904997,
+        "company_url": "",
+        "is_visible": true
     }
 ]
