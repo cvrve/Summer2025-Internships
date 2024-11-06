@@ -38191,5 +38191,25 @@
         "date_posted": 1730936752,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730937082,
+        "url": "http://redirect.cvrve.me/bc09d3aa086ed5d13de6",
+        "locations": [
+            "Novi, MI",
+            "Denver, CO",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ARUP",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "888c3f00-9f54-43c9-add3-88556fc060ba",
+        "date_posted": 1730937082,
+        "company_url": "",
+        "is_visible": true
     }
 ]
