@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Playstation | Software Engineer Intern | Madison, WI | <a href="http://redirect.cvrve.me/2d699e691f58a9eaec77?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Piper Sandler | Technology Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/f66451840ff72c33382c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Github | Product Manager Intern | Remote</br>US | <a href="http://redirect.cvrve.me/601d56d03c5e0d9beddb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Corpay | DevOps Intern | McLean, VA | <a href="http://redirect.cvrve.me/2677e6dc739be8d4ca0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
