@@ -38211,5 +38211,22 @@
         "date_posted": 1730937082,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730937535,
+        "url": "http://redirect.cvrve.me/c37ff9178b0bb3b089f6",
+        "locations": [
+            "Poway, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "General Atomics",
+        "title": "Computer Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3561a573-5309-4a94-af9a-ef836a1c18d2",
+        "date_posted": 1730937535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
