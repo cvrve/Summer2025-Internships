@@ -38020,5 +38020,22 @@
         "date_posted": 1730840143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730904629,
+        "url": "http://redirect.cvrve.me/8776e5b4883d4db31710",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ascidian",
+        "title": "Research Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c6362425-85a9-47c9-8352-bc348ffee2d1",
+        "date_posted": 1730904629,
+        "company_url": "",
+        "is_visible": true
     }
 ]

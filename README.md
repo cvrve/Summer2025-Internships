@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ascidian | Research Software Engineer Co-op | Boston, MA | <a href="http://redirect.cvrve.me/8776e5b4883d4db31710?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Wing | Hardware Engineering Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/785923cf4c1a103a4ca6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Thales | AI & Full-Stack Software Development Intern | Austin, TX | <a href="http://redirect.cvrve.me/f7cf0249902cfb4a8f31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/0a4b6b1e8a545151f0e6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
