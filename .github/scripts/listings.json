@@ -38262,5 +38262,22 @@
         "date_posted": 1730937638,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730937680,
+        "url": "http://redirect.cvrve.me/4a94820476f5f22a0933",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Perception Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ef8eed34-ae83-4cfa-8e30-81730ba34883",
+        "date_posted": 1730937680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
