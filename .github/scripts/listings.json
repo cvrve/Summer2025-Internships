@@ -38398,5 +38398,24 @@
         "date_posted": 1730986362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986411,
+        "url": "http://redirect.cvrve.me/733648d67d69b702098b",
+        "locations": [
+            "Chantilly, VA",
+            "Greenbelt, MD",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Cloud Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c737111-bff5-4aa7-bc4e-b0000b38d99f",
+        "date_posted": 1730986411,
+        "company_url": "",
+        "is_visible": true
     }
 ]
