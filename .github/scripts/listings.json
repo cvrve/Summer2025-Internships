@@ -38520,5 +38520,22 @@
         "date_posted": 1730986962,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986995,
+        "url": "http://redirect.cvrve.me/6e532b6a0890232043ac",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Cloud FinOps Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fcc94420-32cb-4fda-9f65-08aeff561c9a",
+        "date_posted": 1730986995,
+        "company_url": "",
+        "is_visible": true
     }
 ]
