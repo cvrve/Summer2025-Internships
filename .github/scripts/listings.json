@@ -38364,5 +38364,22 @@
         "date_posted": 1730985911,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986312,
+        "url": "http://redirect.cvrve.me/4b2a0515e2ea3b1b8d72",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Omega365",
+        "title": "Software Developer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "e7305934-d83d-46c6-94f1-14027ea5fd60",
+        "date_posted": 1730986312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
