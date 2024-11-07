@@ -38537,5 +38537,22 @@
         "date_posted": 1730986995,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987016,
+        "url": "http://redirect.cvrve.me/ef2aec34884dd6037358",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Data & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "baa1c021-4ae1-400d-9fb5-3c6e4baf11c1",
+        "date_posted": 1730987016,
+        "company_url": "",
+        "is_visible": true
     }
 ]
