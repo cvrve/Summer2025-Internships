@@ -38607,5 +38607,22 @@
         "date_posted": 1730987161,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987187,
+        "url": "http://redirect.cvrve.me/d12446b4884c9e93f84b",
+        "locations": [
+            "Oxford, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoreLogic",
+        "title": "Database Administration Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10e86cd2-6f93-41d3-a56c-c18afae69253",
+        "date_posted": 1730987187,
+        "company_url": "",
+        "is_visible": true
     }
 ]
