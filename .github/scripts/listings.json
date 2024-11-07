@@ -38347,5 +38347,22 @@
         "date_posted": 1730939475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730985911,
+        "url": "http://redirect.cvrve.me/352df45b1b7e50de60d0",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kimley Horn",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59494b45-4aa3-43f5-8424-4b03762ba3af",
+        "date_posted": 1730985911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
