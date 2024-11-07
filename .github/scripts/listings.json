@@ -38279,5 +38279,22 @@
         "date_posted": 1730937680,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730939043,
+        "url": "http://redirect.cvrve.me/8ab0ec58ab287393aa62",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Generative AI/Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b0f92bb0-21ce-4f84-b46b-bbc347186514",
+        "date_posted": 1730939043,
+        "company_url": "",
+        "is_visible": true
     }
 ]

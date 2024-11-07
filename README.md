@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Piper Sandler | Technology Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/f66451840ff72c33382c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Paramount | Data Intern | Burbank, CA | <a href="http://redirect.cvrve.me/5ee7284b4c5dd630b376?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Netflix | Machine Learning Engineer Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/1772db417a122ac942a7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| HCSC | Generative AI/Data Science Intern | Chicago, IL | <a href="http://redirect.cvrve.me/8ab0ec58ab287393aa62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Github | Product Manager Intern | Remote</br>US | <a href="http://redirect.cvrve.me/601d56d03c5e0d9beddb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | General Atomics | Computer Engineering Intern | Poway, CA | <a href="http://redirect.cvrve.me/c37ff9178b0bb3b089f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Formlabs | Python Software Intern | Somerville, MA | <a href="http://redirect.cvrve.me/d859121565989d7aad4b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
