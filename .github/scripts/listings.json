@@ -38330,5 +38330,22 @@
         "date_posted": 1730939138,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730939475,
+        "url": "http://redirect.cvrve.me/6d7a7f187c1a7e768193",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jacobs",
+        "title": "Agile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8245f288-b3e3-4cbd-a3ff-93ac32e1f5a2",
+        "date_posted": 1730939475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
