@@ -38573,5 +38573,22 @@
         "date_posted": 1730987070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987126,
+        "url": "http://redirect.cvrve.me/287870d72ab63249a8a1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Willowtree",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "342ea5ee-4731-4251-a1c8-bc87b5f6df4d",
+        "date_posted": 1730987126,
+        "company_url": "",
+        "is_visible": true
     }
 ]
