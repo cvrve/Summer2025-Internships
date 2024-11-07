@@ -38486,5 +38486,22 @@
         "date_posted": 1730986888,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986942,
+        "url": "http://redirect.cvrve.me/0614e38e0a25c770bde1",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Network & Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "583917e8-a8bf-4ff0-9116-a7150b44a0cc",
+        "date_posted": 1730986942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
