@@ -38434,5 +38434,23 @@
         "date_posted": 1730986477,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986556,
+        "url": "http://redirect.cvrve.me/3614b195fbcb7496cc48",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Github",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ba4bbe83-309d-483e-b579-aad016fba190",
+        "date_posted": 1730986556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
