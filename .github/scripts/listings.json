@@ -38296,5 +38296,22 @@
         "date_posted": 1730939043,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730939096,
+        "url": "http://redirect.cvrve.me/9c02b51c0ed368482519",
+        "locations": [
+            "Newtown Square, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Enterprise Architecture Advisory Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b73ceffe-1857-4ed6-8240-934bd83499cb",
+        "date_posted": 1730939096,
+        "company_url": "",
+        "is_visible": true
     }
 ]
