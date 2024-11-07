@@ -38452,5 +38452,22 @@
         "date_posted": 1730986556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986644,
+        "url": "http://redirect.cvrve.me/2f4394e12331509531c0",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "eBay",
+        "title": "Mobile Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "979b9283-2b5d-48b9-932c-df655d819443",
+        "date_posted": 1730986644,
+        "company_url": "",
+        "is_visible": true
     }
 ]
