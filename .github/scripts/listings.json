@@ -38659,5 +38659,24 @@
         "date_posted": 1730987311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987451,
+        "url": "http://redirect.cvrve.me/31084621de1d2ec0a7c3",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zeta",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d11e561e-7ea3-47fd-9594-f9c76912aedf",
+        "date_posted": 1730987451,
+        "company_url": "",
+        "is_visible": true
     }
 ]

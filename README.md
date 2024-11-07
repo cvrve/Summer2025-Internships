@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zeta | Software Engineer Intern | New York, NY</br>San Francisco, CA</br>Nashville, TN | <a href="http://redirect.cvrve.me/31084621de1d2ec0a7c3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Willowtree | Data Science Intern | Charlottesville, VA | <a href="http://redirect.cvrve.me/287870d72ab63249a8a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Software Engineering Intern | Charlottesville, VA</br>Columbus, OH</br>Durham, NC | <a href="http://redirect.cvrve.me/8f69a5015d8f07f63a31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Trace3 | Data & Analytics Intern | Irvine, CA | <a href="http://redirect.cvrve.me/ef2aec34884dd6037358?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
