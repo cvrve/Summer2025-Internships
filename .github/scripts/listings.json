@@ -38624,5 +38624,23 @@
         "date_posted": 1730987187,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987265,
+        "url": "http://redirect.cvrve.me/1ee4e9e939256ec70762",
+        "locations": [
+            "Dallas, TX",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoreLogic",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ffc6059f-4450-4983-a586-9ad75509195f",
+        "date_posted": 1730987265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
