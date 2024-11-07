@@ -38417,5 +38417,22 @@
         "date_posted": 1730986411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986477,
+        "url": "http://redirect.cvrve.me/a2b7a064ff0950baa915",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "C++ Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "15ee35ed-9cea-4778-8e8c-2a4d4495d2f9",
+        "date_posted": 1730986477,
+        "company_url": "",
+        "is_visible": true
     }
 ]
