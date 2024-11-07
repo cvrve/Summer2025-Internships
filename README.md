@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Willowtree | Software Engineering Intern | Charlottesville, VA</br>Columbus, OH</br>Durham, NC | <a href="http://redirect.cvrve.me/8f69a5015d8f07f63a31?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Trace3 | Data & Analytics Intern | Irvine, CA | <a href="http://redirect.cvrve.me/ef2aec34884dd6037358?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Cloud FinOps Intern | Grand Rapids, MI | <a href="http://redirect.cvrve.me/6e532b6a0890232043ac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Cloud Solutions Engineer Intern | Grand Rapids, MI | <a href="http://redirect.cvrve.me/22f8a494b4e7b169b0e1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |

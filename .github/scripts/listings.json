@@ -38554,5 +38554,24 @@
         "date_posted": 1730987016,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987070,
+        "url": "http://redirect.cvrve.me/8f69a5015d8f07f63a31",
+        "locations": [
+            "Charlottesville, VA",
+            "Columbus, OH",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Willowtree",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d19fba0f-a94f-4ae4-8f8e-7a1140001fb6",
+        "date_posted": 1730987070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
