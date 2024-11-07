@@ -38642,5 +38642,22 @@
         "date_posted": 1730987265,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730987311,
+        "url": "http://redirect.cvrve.me/886089653da0505a4169",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ommo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5d4af91-2f03-47cb-8eaf-ff3bed98c389",
+        "date_posted": 1730987311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
