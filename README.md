@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | The Aerospace Corporation | Cloud Software Engineer Intern | Chantilly, VA</br>Greenbelt, MD</br>El Segundo, CA | <a href="http://redirect.cvrve.me/733648d67d69b702098b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
+| Story Protocol | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/1d0c2920dfef6d6cbb65?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Splunk | C++ Software Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/a2b7a064ff0950baa915?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Spectrum | Software Engineer Intern | Charlotte, NC | <a href="http://redirect.cvrve.me/181cc51de5b6681c1cbd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Kimley Horn | Software Engineering Intern | Phoenix, AZ | <a href="http://redirect.cvrve.me/352df45b1b7e50de60d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
