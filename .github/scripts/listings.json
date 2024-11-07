@@ -38381,5 +38381,22 @@
         "date_posted": 1730986312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730986362,
+        "url": "http://redirect.cvrve.me/181cc51de5b6681c1cbd",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "92ce8cbe-7cb4-4953-8c86-9457ebdef00b",
+        "date_posted": 1730986362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
