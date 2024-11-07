@@ -68,6 +68,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Database Administration Intern | Oxford, MS | <a href="http://redirect.cvrve.me/d12446b4884c9e93f84b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Data Analyst Intern | Dallas, TX | <a href="http://redirect.cvrve.me/366952ae0f0a5968af55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Apptronik | Software Engineer Test Ops Intern | Austin, TX | <a href="http://redirect.cvrve.me/cc248ecbd105eafdcf10?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
+| Anduril | Webapps Developer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/cb267d38721303049570?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Thomson Reuters | Software Engineer Intern | Frisco, TX | <a href="http://redirect.cvrve.me/5c4669041e9141081893?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Skydio | Wireless Software Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/35496b326e2b805eb0a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | SAP | Enterprise Architecture Advisory Intern | Newtown Square, PA | <a href="http://redirect.cvrve.me/9c02b51c0ed368482519?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
