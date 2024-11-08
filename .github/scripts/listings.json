@@ -39065,5 +39065,24 @@
         "date_posted": 1731085533,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731085925,
+        "url": "http://redirect.cvrve.me/2233d3abfb06db5a4dea",
+        "locations": [
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SingleStore",
+        "title": "Software Engineer, Managed Service Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3eba7460-707e-457f-a982-ef4444d7bcc6",
+        "date_posted": 1731085925,
+        "company_url": "",
+        "is_visible": true
     }
 ]

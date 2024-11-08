@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SingleStore | Software Engineer, Managed Service Intern | Seattle, WA</br>San Francisco, CA</br>Raleigh, NC | <a href="http://redirect.cvrve.me/2233d3abfb06db5a4dea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Quora | Machine Learning Engineer Intern | Ontario, Canada</br>Remote | <a href="http://redirect.cvrve.me/70e647585bff4ea07bf1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Zeta | Data Science & Generative AI Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/17b8fd4e430f8ab1c540?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Software Development Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/ea54641d37791c16c8d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
