@@ -38996,5 +38996,22 @@
         "date_posted": 1731027472,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731027515,
+        "url": "http://redirect.cvrve.me/d95516d301536678ba75",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zeta",
+        "title": "Data Cloud Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "78d41eed-46c7-4176-919e-f6dc0c719945",
+        "date_posted": 1731027515,
+        "company_url": "",
+        "is_visible": true
     }
 ]
