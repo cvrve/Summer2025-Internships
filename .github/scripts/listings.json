@@ -39030,5 +39030,22 @@
         "date_posted": 1731027551,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731027586,
+        "url": "http://redirect.cvrve.me/17b8fd4e430f8ab1c540",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zeta",
+        "title": "Data Science & Generative AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b69d0c2d-597e-4864-aefe-4e9758dbdbd9",
+        "date_posted": 1731027586,
+        "company_url": "",
+        "is_visible": true
     }
 ]

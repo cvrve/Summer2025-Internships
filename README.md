@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zeta | Software Development Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/ea54641d37791c16c8d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
+| Zeta | Data Science & Generative AI Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/17b8fd4e430f8ab1c540?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
+| ↳ | Software Development Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/ea54641d37791c16c8d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Data Cloud Intelligence Intern | New York City, NY | <a href="http://redirect.cvrve.me/d95516d301536678ba75?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Data Cloud Intern | New York City, NY | <a href="http://redirect.cvrve.me/5b16daf81f6a5b7bd16e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Software Engineer Intern | New York, NY</br>San Francisco, CA</br>Nashville, TN | <a href="http://redirect.cvrve.me/31084621de1d2ec0a7c3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
