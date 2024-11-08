@@ -39084,5 +39084,24 @@
         "date_posted": 1731085925,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731085952,
+        "url": "http://redirect.cvrve.me/cef626f0f6b41105c6a3",
+        "locations": [
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SingleStore",
+        "title": "Software Engineer, DB Engine Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cdac25ae-80c0-4a81-a9cd-12e628d9d683",
+        "date_posted": 1731085952,
+        "company_url": "",
+        "is_visible": true
     }
 ]
