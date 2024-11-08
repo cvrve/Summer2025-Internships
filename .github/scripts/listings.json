@@ -38816,5 +38816,22 @@
         "date_posted": 1731026009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731026046,
+        "url": "http://redirect.cvrve.me/481a633b6e3758e9a35c",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Space Ops Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e2fdf6c6-a389-4100-ad3d-15aec11c57cd",
+        "date_posted": 1731026046,
+        "company_url": "",
+        "is_visible": true
     }
 ]
