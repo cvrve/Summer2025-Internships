@@ -38906,5 +38906,22 @@
         "date_posted": 1731026600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731026632,
+        "url": "http://redirect.cvrve.me/a54b04d3d6024b2ea210",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwood Space",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0063687a-43a6-4977-8b3c-a76f86b7d5e6",
+        "date_posted": 1731026632,
+        "company_url": "",
+        "is_visible": true
     }
 ]
