@@ -38782,5 +38782,22 @@
         "date_posted": 1731025907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731025982,
+        "url": "http://redirect.cvrve.me/fa5c21f77043ceb07d93",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence Design Systems",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "daf0d749-99d1-4900-86de-0a152a4738e0",
+        "date_posted": 1731025982,
+        "company_url": "",
+        "is_visible": true
     }
 ]
