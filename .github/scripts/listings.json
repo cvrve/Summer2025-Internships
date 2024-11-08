@@ -39256,5 +39256,22 @@
         "date_posted": 1731090012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731090149,
+        "url": "http://redirect.cvrve.me/99c424af8da5b85b3a24",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Engineering Intern, Software",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd9203d7-6edc-47ff-9aa7-fc0350acab5a",
+        "date_posted": 1731090149,
+        "company_url": "",
+        "is_visible": true
     }
 ]
