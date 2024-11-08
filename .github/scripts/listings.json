@@ -38889,5 +38889,22 @@
         "date_posted": 1731026228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731026600,
+        "url": "http://redirect.cvrve.me/746eba167776555401f4",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwood Space",
+        "title": "FPGA Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c065c81-1d34-47a5-898d-f902385aea5a",
+        "date_posted": 1731026600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
