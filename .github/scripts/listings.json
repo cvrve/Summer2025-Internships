@@ -38799,5 +38799,22 @@
         "date_posted": 1731025982,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731026009,
+        "url": "http://redirect.cvrve.me/9be13d1a6fd54dc69a0e",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Corning",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "38b6bffa-34be-4b32-9226-c2be5be8d2dd",
+        "date_posted": 1731026009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
