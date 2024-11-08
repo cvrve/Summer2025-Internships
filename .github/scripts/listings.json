@@ -38923,5 +38923,22 @@
         "date_posted": 1731026632,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731026798,
+        "url": "http://redirect.cvrve.me/936bff6181608ddac0b8",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles River Associates",
+        "title": "Data Analytics Consulting Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "81f2af47-b21a-46e2-b23f-7ee25d84b1f5",
+        "date_posted": 1731026798,
+        "company_url": "",
+        "is_visible": true
     }
 ]
