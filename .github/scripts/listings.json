@@ -39958,5 +39958,22 @@
         "date_posted": 1731179665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731179736,
+        "url": "http://redirect.cvrve.me/b5e1def34ad8196ad0b3",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Gameplay Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e32264e5-0b20-482f-95fd-a65e4568a595",
+        "date_posted": 1731179736,
+        "company_url": "",
+        "is_visible": true
     }
 ]
