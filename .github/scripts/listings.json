@@ -39445,5 +39445,22 @@
         "date_posted": 1731176780,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176810,
+        "url": "http://redirect.cvrve.me/3a69f41e41451c000adf",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modernizing Medicine, Inc",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ca95a496-22ac-48e8-9bb0-370544591059",
+        "date_posted": 1731176810,
+        "company_url": "",
+        "is_visible": true
     }
 ]
