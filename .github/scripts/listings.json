@@ -39581,5 +39581,22 @@
         "date_posted": 1731177059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177092,
+        "url": "http://redirect.cvrve.me/c70a4de54cf36b27fac3",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4522d798-419d-44cc-a237-bde592f79905",
+        "date_posted": 1731177092,
+        "company_url": "",
+        "is_visible": true
     }
 ]
