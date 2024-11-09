@@ -39292,5 +39292,22 @@
         "date_posted": 1731176306,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176337,
+        "url": "http://redirect.cvrve.me/7ddc764cb225a5bf9bda",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HashiCorp",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "492bfc07-1c62-401f-8176-e5ffea1c3956",
+        "date_posted": 1731176337,
+        "company_url": "",
+        "is_visible": true
     }
 ]
