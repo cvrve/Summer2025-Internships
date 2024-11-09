@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Truveta | Clinical Data Analyst Intern | Seattle, WA | <a href="http://redirect.cvrve.me/0c56f835bc829c993e9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | TRS | IT Software Developer Student Intern | Austin, TX | <a href="http://redirect.cvrve.me/9b84ec07eccad3b5d5c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | The Hub | Software Engineer | United States | <a href="http://redirect.cvrve.me/89e4cdbfccabffc326be?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| Talos | Frontend Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/e1f00a01ea1bb371a975?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | T-Mobile | Software Engineering Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/72b0d3c3094eaf9d9a07?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | iOS Software Engineering Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/0714a69dc68e6e54fb2a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Developer Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/c70a4de54cf36b27fac3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
