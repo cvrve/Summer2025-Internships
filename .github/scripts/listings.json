@@ -40026,5 +40026,22 @@
         "date_posted": 1731180031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731180175,
+        "url": "http://redirect.cvrve.me/8e6222273a37c89b0cd8",
+        "locations": [
+            "Springfield, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bass Pro Shops",
+        "title": "eComm Mobile App Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9c03a84f-e08c-4225-bec1-b2181d5f4cdb",
+        "date_posted": 1731180175,
+        "company_url": "",
+        "is_visible": true
     }
 ]
