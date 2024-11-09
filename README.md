@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Yahoo | Production Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8cc27accf4eb498aff71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Truveta | Clinical Data Analyst Intern | Seattle, WA | <a href="http://redirect.cvrve.me/0c56f835bc829c993e9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | TRS | IT Software Developer Student Intern | Austin, TX | <a href="http://redirect.cvrve.me/9b84ec07eccad3b5d5c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | T-Mobile | Software Engineering Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/72b0d3c3094eaf9d9a07?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
