@@ -39941,5 +39941,22 @@
         "date_posted": 1731179636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731179665,
+        "url": "http://redirect.cvrve.me/36e1f6461f713ee3a45c",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Tools Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a4bce318-3af6-4bad-b980-83ff47954fcd",
+        "date_posted": 1731179665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
