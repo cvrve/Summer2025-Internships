@@ -39428,5 +39428,22 @@
         "date_posted": 1731176742,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176780,
+        "url": "http://redirect.cvrve.me/416a7bc4a5a390dacbab",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modernizing Medicine, Inc",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a459deb3-499d-46c8-a4ce-1ef75b05b800",
+        "date_posted": 1731176780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
