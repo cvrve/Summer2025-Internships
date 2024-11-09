@@ -39975,5 +39975,22 @@
         "date_posted": 1731179736,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731179763,
+        "url": "http://redirect.cvrve.me/9f7ec9fbcefb862af52c",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Infrastructure Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dc7587cc-29c3-4423-9c8d-418ad90e261e",
+        "date_posted": 1731179763,
+        "company_url": "",
+        "is_visible": true
     }
 ]
