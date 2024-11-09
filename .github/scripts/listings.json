@@ -39564,5 +39564,22 @@
         "date_posted": 1731177029,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177059,
+        "url": "http://redirect.cvrve.me/9b84ec07eccad3b5d5c8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TRS",
+        "title": "IT Software Developer Student Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fcd80541-35e4-467a-ab30-8aba7a9f2f8d",
+        "date_posted": 1731177059,
+        "company_url": "",
+        "is_visible": true
     }
 ]

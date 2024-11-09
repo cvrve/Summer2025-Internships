@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Truveta | Clinical Data Analyst Intern | Seattle, WA | <a href="http://redirect.cvrve.me/0c56f835bc829c993e9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| TRS | IT Software Developer Student Intern | Austin, TX | <a href="http://redirect.cvrve.me/9b84ec07eccad3b5d5c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/11d519b13176d357bebd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Recursion | Software Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/120a27a566410137fb35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Intern | Salt Lake City, UT | <a href="http://redirect.cvrve.me/adb4954555584b55f5dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
