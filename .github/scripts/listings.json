@@ -39718,5 +39718,22 @@
         "date_posted": 1731177646,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177680,
+        "url": "http://redirect.cvrve.me/049f4b156c915db24337",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC Inc",
+        "title": "Software Engineer Intern - Arena",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7166e958-f856-43c6-8f8d-2583608300ff",
+        "date_posted": 1731177680,
+        "company_url": "",
+        "is_visible": true
     }
 ]
