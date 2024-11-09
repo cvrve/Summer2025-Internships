@@ -40009,5 +40009,22 @@
         "date_posted": 1731179800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731180031,
+        "url": "http://redirect.cvrve.me/5d888aaba81212051a2f",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GMC",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0a2fd870-e992-41f9-85db-eaf980758182",
+        "date_posted": 1731180031,
+        "company_url": "",
+        "is_visible": true
     }
 ]
