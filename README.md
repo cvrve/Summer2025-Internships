@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | ASIC Physical Design Intern | Boxborough, MA | <a href="http://redirect.cvrve.me/aa089ea06b7c3e63d2bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ST | Software Engineer Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/a27f5cfe0d9c2ae409c2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/11d519b13176d357bebd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| Shure | Data Engineer Intern | Niles, IL | <a href="http://redirect.cvrve.me/5f027eaaac696ea34db2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Recursion | Software Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/120a27a566410137fb35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Intern | Salt Lake City, UT | <a href="http://redirect.cvrve.me/adb4954555584b55f5dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | PTC Inc | Software Engineer Intern - Arena | San Mateo, CA | <a href="http://redirect.cvrve.me/049f4b156c915db24337?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
