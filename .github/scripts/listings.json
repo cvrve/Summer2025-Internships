@@ -39650,5 +39650,22 @@
         "date_posted": 1731177251,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177371,
+        "url": "http://redirect.cvrve.me/6ac3e176ff2a211fe098",
+        "locations": [
+            "Franksville, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "16cc6b4f-00c6-4644-a41a-dafef02d4f64",
+        "date_posted": 1731177371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
