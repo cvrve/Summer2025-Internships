@@ -39890,5 +39890,22 @@
         "date_posted": 1731179235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731179295,
+        "url": "http://redirect.cvrve.me/95bcad4241b502c3b860",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5a81fa50-97b5-461b-920d-7a62ff29fd47",
+        "date_posted": 1731179295,
+        "company_url": "",
+        "is_visible": true
     }
 ]
