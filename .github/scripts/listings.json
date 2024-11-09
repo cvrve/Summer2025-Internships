@@ -39805,5 +39805,22 @@
         "date_posted": 1731178649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731178740,
+        "url": "http://redirect.cvrve.me/be5868946f0d73d262cc",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Backend Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb0db2c0-032b-4c6a-a64f-2faf6971bccd",
+        "date_posted": 1731178740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
