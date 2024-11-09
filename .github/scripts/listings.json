@@ -39632,5 +39632,23 @@
         "date_posted": 1731177217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177251,
+        "url": "http://redirect.cvrve.me/863be2e325adcf972ae2",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Continu",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d8c0b7bc-81cd-4f5d-8f23-483e4421b1b6",
+        "date_posted": 1731177251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
