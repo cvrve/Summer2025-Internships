@@ -39513,5 +39513,22 @@
         "date_posted": 1731176901,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176945,
+        "url": "http://redirect.cvrve.me/a879a29ad41e20326d80",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modernizing Medicine, Inc",
+        "title": "Klara Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8c09eabd-8af3-430b-8183-4977b52c8a53",
+        "date_posted": 1731176945,
+        "company_url": "",
+        "is_visible": true
     }
 ]
