@@ -39309,5 +39309,22 @@
         "date_posted": 1731176337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176371,
+        "url": "http://redirect.cvrve.me/51d27e58383d9d7e543f",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HashiCorp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb77b73b-03fe-4843-bab3-1d836d8aedbe",
+        "date_posted": 1731176371,
+        "company_url": "",
+        "is_visible": true
     }
 ]

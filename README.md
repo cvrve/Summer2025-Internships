@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| HashiCorp | Software Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/7ddc764cb225a5bf9bda?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| HashiCorp | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/51d27e58383d9d7e543f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| ↳ | Software Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/7ddc764cb225a5bf9bda?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Gusto | Software Engineer Intern | San Francisco, CA</br>New York, NY</br>Denver, CO | <a href="http://redirect.cvrve.me/0c5cf1cbb1fc47a703fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | SingleStore | Software Engineer, DB Engine Intern | Seattle, WA</br>San Francisco, CA</br>Raleigh, NC | <a href="http://redirect.cvrve.me/cef626f0f6b41105c6a3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | ↳ | Software Engineer, Managed Service Intern | Seattle, WA</br>San Francisco, CA</br>Raleigh, NC | <a href="http://redirect.cvrve.me/2233d3abfb06db5a4dea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
