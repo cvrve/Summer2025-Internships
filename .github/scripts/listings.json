@@ -39907,5 +39907,22 @@
         "date_posted": 1731179295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731179524,
+        "url": "http://redirect.cvrve.me/3315695807d85d688cb2",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Salesforce Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "14ba490e-292e-400d-965e-22744d4b0f94",
+        "date_posted": 1731179524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
