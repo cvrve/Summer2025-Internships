@@ -39667,5 +39667,22 @@
         "date_posted": 1731177371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731177426,
+        "url": "http://redirect.cvrve.me/64736aacd31f778738e6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dd162315-5e7d-4cc6-9b79-bc5dc31aca60",
+        "date_posted": 1731177426,
+        "company_url": "",
+        "is_visible": true
     }
 ]
