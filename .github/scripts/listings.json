@@ -39273,5 +39273,24 @@
         "date_posted": 1731090149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176306,
+        "url": "http://redirect.cvrve.me/0c5cf1cbb1fc47a703fb",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gusto",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "967c42d4-8366-4bd8-a0ec-84169bd72c7a",
+        "date_posted": 1731176306,
+        "company_url": "",
+        "is_visible": true
     }
 ]
