@@ -39839,5 +39839,22 @@
         "date_posted": 1731178869,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731178898,
+        "url": "http://redirect.cvrve.me/08441c3b664e3dc15c51",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "AI/ML Solutions Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c96368c9-6664-41f5-8a69-0a3ee7245abd",
+        "date_posted": 1731178898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
