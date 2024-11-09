@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Truveta | Clinical Data Analyst Intern | Seattle, WA | <a href="http://redirect.cvrve.me/0c56f835bc829c993e9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | HashiCorp | Software Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/51d27e58383d9d7e543f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/7ddc764cb225a5bf9bda?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Gusto | Software Engineer Intern | San Francisco, CA</br>New York, NY</br>Denver, CO | <a href="http://redirect.cvrve.me/0c5cf1cbb1fc47a703fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
