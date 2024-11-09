@@ -39771,5 +39771,22 @@
         "date_posted": 1731177836,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731178366,
+        "url": "http://redirect.cvrve.me/89e4cdbfccabffc326be",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Hub",
+        "title": "Software Engineer",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "47c339e2-bf26-4c0c-b500-12c3181648a9",
+        "date_posted": 1731178366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
