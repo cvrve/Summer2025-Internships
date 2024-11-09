@@ -39411,5 +39411,22 @@
         "date_posted": 1731176699,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731176742,
+        "url": "http://redirect.cvrve.me/d27636556278a9a98a82",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10843819-1568-44c1-9ba2-055ef3d9d0ce",
+        "date_posted": 1731176742,
+        "company_url": "",
+        "is_visible": true
     }
 ]
