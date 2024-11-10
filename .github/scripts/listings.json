@@ -40095,5 +40095,22 @@
         "date_posted": 1731224823,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731273565,
+        "url": "http://redirect.cvrve.me/b2db08609077633b9e3a",
+        "locations": [
+            "Ridgefield, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boehringer Ingelheim",
+        "title": "Software Developer Co-Op - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "6a99e62a-f6d3-45b9-8670-757e5ea3bd52",
+        "date_posted": 1731273565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
