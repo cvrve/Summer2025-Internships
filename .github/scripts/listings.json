@@ -40129,5 +40129,22 @@
         "date_posted": 1731273704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731273980,
+        "url": "http://redirect.cvrve.me/b7feb37a14282ddcc2cc",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3c0d5371-b772-463f-9e50-da1a429e419c",
+        "date_posted": 1731273980,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Synopsys | Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/b7feb37a14282ddcc2cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Shure | Web Analytics Intern | Niles, IL | <a href="http://redirect.cvrve.me/951d13461199db1cab13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Yahoo | Production Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8cc27accf4eb498aff71?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Twilio | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/c7ffd3e203213a0951b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
