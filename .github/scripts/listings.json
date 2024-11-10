@@ -40249,5 +40249,22 @@
         "date_posted": 1731274253,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274289,
+        "url": "http://redirect.cvrve.me/d3bb96f9c2abe1c336ad",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Database Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "84f52e8e-ef82-421a-8269-bca2c7187026",
+        "date_posted": 1731274289,
+        "company_url": "",
+        "is_visible": true
     }
 ]
