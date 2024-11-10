@@ -40300,5 +40300,22 @@
         "date_posted": 1731274354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274376,
+        "url": "http://redirect.cvrve.me/40d6a9cc1f6efce18afa",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Quantitative Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e1e7a090-cdd4-4f7b-8e4e-aa0837af6eda",
+        "date_posted": 1731274376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
