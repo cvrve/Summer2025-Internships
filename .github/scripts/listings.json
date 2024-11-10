@@ -40180,5 +40180,22 @@
         "date_posted": 1731274072,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274110,
+        "url": "http://redirect.cvrve.me/1295fbd6b422d88497d2",
+        "locations": [
+            "Springfield, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bass Pro Shops",
+        "title": "Cyber Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "632b3b94-10ae-4e11-97c9-c8f1b3b1a0a5",
+        "date_posted": 1731274110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
