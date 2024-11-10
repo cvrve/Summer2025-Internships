@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Synopsys | Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/b7feb37a14282ddcc2cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Shure | Web Analytics Intern | Niles, IL | <a href="http://redirect.cvrve.me/951d13461199db1cab13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| ICE | Database Analyst Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/d3bb96f9c2abe1c336ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ICE | Data Analyst, Data Science and Visualization Intern | New York, NY | <a href="http://redirect.cvrve.me/1978a889a234365bac59?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Database Analyst Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/d3bb96f9c2abe1c336ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Fixed Income Markets Data Analyst Intern | New York, NY | <a href="http://redirect.cvrve.me/6bf0b34b6021b53d3257?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Infrastructure Development & Automation Intern | Atlanta, GA</br>Jacksonville, FL | <a href="http://redirect.cvrve.me/1ca7830360c0acb24ec9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Risk Solutions Developer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/61a6faf543fe230caa09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
