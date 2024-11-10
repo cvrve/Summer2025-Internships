@@ -40112,5 +40112,22 @@
         "date_posted": 1731273565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731273704,
+        "url": "http://redirect.cvrve.me/951d13461199db1cab13",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Web Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed0309da-d557-4b29-8d57-437ee6459098",
+        "date_posted": 1731273704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
