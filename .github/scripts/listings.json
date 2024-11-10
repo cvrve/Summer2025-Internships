@@ -40163,5 +40163,22 @@
         "date_posted": 1731274027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274072,
+        "url": "http://redirect.cvrve.me/25be2ee656510926dca3",
+        "locations": [
+            "Springfield, MI"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Bass Pro Shops",
+        "title": "IT Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db0cbca2-0df8-40d1-9897-df76e7c94f90",
+        "date_posted": 1731274072,
+        "company_url": "",
+        "is_visible": true
     }
 ]
