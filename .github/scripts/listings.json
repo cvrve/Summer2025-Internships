@@ -40214,5 +40214,23 @@
         "date_posted": 1731274164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274206,
+        "url": "http://redirect.cvrve.me/1ca7830360c0acb24ec9",
+        "locations": [
+            "Atlanta, GA",
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Infrastructure Development & Automation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "645855ad-d3a6-4451-8aa7-a4777d92af7f",
+        "date_posted": 1731274206,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Synopsys | Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/b7feb37a14282ddcc2cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Shure | Web Analytics Intern | Niles, IL | <a href="http://redirect.cvrve.me/951d13461199db1cab13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| ICE | Risk Solutions Developer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/61a6faf543fe230caa09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ICE | Infrastructure Development & Automation Intern | Atlanta, GA</br>Jacksonville, FL | <a href="http://redirect.cvrve.me/1ca7830360c0acb24ec9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Risk Solutions Developer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/61a6faf543fe230caa09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Bass Pro Shops | Cyber Engineering Intern | Springfield, MI | <a href="http://redirect.cvrve.me/1295fbd6b422d88497d2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | IT Developer Intern | Springfield, MI | <a href="http://redirect.cvrve.me/25be2ee656510926dca3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | BI & EDW Developer Intern | Springfield, MI | <a href="http://redirect.cvrve.me/82286b89900ae8f64cb8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
