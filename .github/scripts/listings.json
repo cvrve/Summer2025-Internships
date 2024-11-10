@@ -40232,5 +40232,22 @@
         "date_posted": 1731274206,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274253,
+        "url": "http://redirect.cvrve.me/6bf0b34b6021b53d3257",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Fixed Income Markets Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "432cc0b5-e9a8-4ff3-8872-a6ff3595c259",
+        "date_posted": 1731274253,
+        "company_url": "",
+        "is_visible": true
     }
 ]
