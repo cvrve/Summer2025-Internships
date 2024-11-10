@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Walgreens | Software Engineer Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/1a4ef4163de4faa020aa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Synopsys | Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/b7feb37a14282ddcc2cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Shure | Web Analytics Intern | Niles, IL | <a href="http://redirect.cvrve.me/951d13461199db1cab13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Peraton | Software Development Analyst Intern 🇺🇸 | Topeka, KS | <a href="http://redirect.cvrve.me/17e15040246bca367fb2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |

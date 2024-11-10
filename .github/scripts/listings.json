@@ -40351,5 +40351,22 @@
         "date_posted": 1731274554,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274687,
+        "url": "http://redirect.cvrve.me/1a4ef4163de4faa020aa",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walgreens",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b09a2de9-9c03-4430-bea8-475fc79ea2d0",
+        "date_posted": 1731274687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
