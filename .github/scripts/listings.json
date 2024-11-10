@@ -40283,5 +40283,22 @@
         "date_posted": 1731274324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274354,
+        "url": "http://redirect.cvrve.me/76f8ef26a7b258e15b07",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Data Analyst, Market Audit Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb056b6a-340b-41d7-a048-7546eaa2f759",
+        "date_posted": 1731274354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
