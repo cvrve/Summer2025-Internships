@@ -40197,5 +40197,22 @@
         "date_posted": 1731274110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731274164,
+        "url": "http://redirect.cvrve.me/61a6faf543fe230caa09",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Risk Solutions Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f7435d88-4775-45f8-b054-68f4d27bbd10",
+        "date_posted": 1731274164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
