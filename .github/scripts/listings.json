@@ -40522,5 +40522,22 @@
         "date_posted": 1731352050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731352084,
+        "url": "http://redirect.cvrve.me/eff18a3d55c8e4f1f12a",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program - Freshman",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8beb4f25-6d51-47a0-aef9-52f37e27384d",
+        "date_posted": 1731352084,
+        "company_url": "",
+        "is_visible": true
     }
 ]
