@@ -40402,5 +40402,22 @@
         "date_posted": 1731350415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731350450,
+        "url": "http://redirect.cvrve.me/3d5227aed60d8420f21e",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "705964f9-fdae-4fbe-8488-d4b35f82a15c",
+        "date_posted": 1731350450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
