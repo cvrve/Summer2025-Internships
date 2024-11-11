@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Motorola Solutions | Product and Data Research Intern | Allen, TX | <a href="http://redirect.cvrve.me/971b4d8947afb384c92d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Software Engineering Intern | Allen, TX | <a href="http://redirect.cvrve.me/e60eadece68689bcc225?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Embedded Software Engineer Intern | Schaumburg, IL | <a href="http://redirect.cvrve.me/3d5227aed60d8420f21e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Moodys | Product Analyst Summer Intern | New York, NY | <a href="http://redirect.cvrve.me/088a9b5f9f6c668d8cbd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Microsoft | Explore Program - Freshman | Atlanta, GA | <a href="http://redirect.cvrve.me/eff18a3d55c8e4f1f12a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Explore Program - Freshman | Redmond, WA | <a href="http://redirect.cvrve.me/cd7582c5633205f8c288?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | GlossGenius | Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/ea3595d1a1ed292b3f11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |

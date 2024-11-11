@@ -40573,5 +40573,22 @@
         "date_posted": 1731353192,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731353370,
+        "url": "http://redirect.cvrve.me/088a9b5f9f6c668d8cbd",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moodys",
+        "title": "Product Analyst Summer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce6f05ef-438c-43af-8923-7a2e221eae75",
+        "date_posted": 1731353370,
+        "company_url": "",
+        "is_visible": true
     }
 ]
