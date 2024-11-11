@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Thermo Fisher | Artificial Intelligence Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/192df40675da5cb43430?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Motorola Solutions | Product and Data Research Intern | Allen, TX | <a href="http://redirect.cvrve.me/971b4d8947afb384c92d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Software Engineering Intern | Allen, TX | <a href="http://redirect.cvrve.me/e60eadece68689bcc225?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Embedded Software Engineer Intern | Schaumburg, IL | <a href="http://redirect.cvrve.me/3d5227aed60d8420f21e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
