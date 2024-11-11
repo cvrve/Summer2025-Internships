@@ -40368,5 +40368,22 @@
         "date_posted": 1731274687,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731350384,
+        "url": "http://redirect.cvrve.me/dcebaa1584ee03f5f6c8",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EquipmentShare",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1a46b1c1-4cab-433a-be97-37c9ba326ff3",
+        "date_posted": 1731350384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
