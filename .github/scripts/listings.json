@@ -40385,5 +40385,22 @@
         "date_posted": 1731350384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731350415,
+        "url": "http://redirect.cvrve.me/ea3595d1a1ed292b3f11",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlossGenius",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "75ae2739-a564-425e-99a8-6a6653cf3208",
+        "date_posted": 1731350415,
+        "company_url": "",
+        "is_visible": true
     }
 ]
