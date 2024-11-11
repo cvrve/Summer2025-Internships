@@ -40556,5 +40556,22 @@
         "date_posted": 1731353130,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731353192,
+        "url": "http://redirect.cvrve.me/6916ea0e66f1b9538b12",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Serco",
+        "title": "STEP Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c0037c36-8c1a-45f1-9167-e9457d6d86b9",
+        "date_posted": 1731353192,
+        "company_url": "",
+        "is_visible": true
     }
 ]
