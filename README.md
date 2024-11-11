@@ -51,7 +51,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Software Engineer Intern | Schaumburg, IL | <a href="http://redirect.cvrve.me/3d5227aed60d8420f21e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | GlossGenius | Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/ea3595d1a1ed292b3f11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | EquipmentShare | Software Engineer Intern | Columbia, MO | <a href="http://redirect.cvrve.me/dcebaa1584ee03f5f6c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Corelogic | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/5c6a921310005c194194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| CoreLogic | Software Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/53cc9c153eb3931cdc2f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| ↳ | Software Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/5c6a921310005c194194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Walgreens | Software Engineer Intern | Deerfield, IL | <a href="http://redirect.cvrve.me/1a4ef4163de4faa020aa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Synopsys | Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/b7feb37a14282ddcc2cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Shure | Web Analytics Intern | Niles, IL | <a href="http://redirect.cvrve.me/951d13461199db1cab13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
