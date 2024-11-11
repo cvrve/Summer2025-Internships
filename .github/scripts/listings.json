@@ -40487,5 +40487,23 @@
         "date_posted": 1731351433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731351654,
+        "url": "http://redirect.cvrve.me/59e769b85262eca7c8ad",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Super.com",
+        "title": "Software Engineering Intern - 12M",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "7a1fdd31-6dbd-404c-a3f2-077e91578d4c",
+        "date_posted": 1731351654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
