@@ -40505,5 +40505,22 @@
         "date_posted": 1731351654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731352050,
+        "url": "http://redirect.cvrve.me/cd7582c5633205f8c288",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program - Freshman",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3cb76845-f186-486d-8a75-b6c638c7c484",
+        "date_posted": 1731352050,
+        "company_url": "",
+        "is_visible": true
     }
 ]
