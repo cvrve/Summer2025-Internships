@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lam Research | Software Development Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8935981df4ba3e01a59a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ICE | Mobile Development Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/a00facd4d090d28d6856?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | C++ Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/3ae8b66d5d33bcd43921?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Danfoss | Software Engineering Intern | Durham, NC | <a href="http://redirect.cvrve.me/94f540b0e638ef3f4745?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |

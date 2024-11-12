@@ -40692,5 +40692,22 @@
         "date_posted": 1731399533,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731441807,
+        "url": "http://redirect.cvrve.me/8935981df4ba3e01a59a",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lam Research",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3a90348f-cc77-4b1b-8440-29fbf15a74bf",
+        "date_posted": 1731441807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
