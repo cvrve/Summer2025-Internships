@@ -40879,5 +40879,22 @@
         "date_posted": 1731442554,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731442582,
+        "url": "http://redirect.cvrve.me/10e30012e34879745a1d",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intelsat",
+        "title": "Airborne Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "261ee0ee-2b7b-4b7d-9d8a-1b2f9efcd6ad",
+        "date_posted": 1731442582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
