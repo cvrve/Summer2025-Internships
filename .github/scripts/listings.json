@@ -40709,5 +40709,22 @@
         "date_posted": 1731441807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731441838,
+        "url": "http://redirect.cvrve.me/b281dc26b3e5a3f6ec0f",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "IT Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa97c6ce-3040-4056-98e3-3ac0725c8a17",
+        "date_posted": 1731441838,
+        "company_url": "",
+        "is_visible": true
     }
 ]
