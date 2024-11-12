@@ -56,6 +56,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Danfoss | Software Engineering Intern | Durham, NC | <a href="http://redirect.cvrve.me/94f540b0e638ef3f4745?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Citi | Technology Early ID Program | Irving, TX | <a href="http://redirect.cvrve.me/55caa40126bd3a5933e0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Technology Early ID Program | Tampa, FL | <a href="http://redirect.cvrve.me/a506e9c1b6e4524f1929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Belden | Software Engineering Intern | Bakersfield, CA | <a href="http://redirect.cvrve.me/3ca7e7c0ecdb4ea927cb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Aptiv | Software Engineering Intern | Troy, MI | <a href="http://redirect.cvrve.me/92500210212ebb564c54?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | ADAS/AD Algorithm Developer Intern | Troy, MI | <a href="http://redirect.cvrve.me/85114cdb194a9eaa134a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | ADAS Engineering Intern | Troy, MI | <a href="http://redirect.cvrve.me/b4ad091f91b557ecd31e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
