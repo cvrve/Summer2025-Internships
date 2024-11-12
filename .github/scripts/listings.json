@@ -40862,5 +40862,22 @@
         "date_posted": 1731442526,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731442554,
+        "url": "http://redirect.cvrve.me/dccdc2da1f8491c333be",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intelsat",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "91b3297b-5203-4109-a72a-552bde5ec279",
+        "date_posted": 1731442554,
+        "company_url": "",
+        "is_visible": true
     }
 ]
