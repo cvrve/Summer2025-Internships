@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Lam Research | Software Development Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8935981df4ba3e01a59a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Joby Aviation | Embedded Software Intern | San Carlos, CA | <a href="http://redirect.cvrve.me/73ed70b4a7b397eda1a7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | JM Family | Software Engineer Intern | Deerfield, FL | <a href="http://redirect.cvrve.me/9aa8537e6f15dc909a94?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Intelsat | Reliability Data Science Intern | Chicago, IL | <a href="http://redirect.cvrve.me/c9a471d6098089fa9efa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Infor | Development Intern | Alpharetta, GA | <a href="http://redirect.cvrve.me/9fd497537802ffa21956?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ICE | Mobile Development Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/a00facd4d090d28d6856?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | C++ Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/3ae8b66d5d33bcd43921?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
