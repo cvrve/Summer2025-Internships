@@ -40675,5 +40675,22 @@
         "date_posted": 1731399494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731399533,
+        "url": "http://redirect.cvrve.me/a00facd4d090d28d6856",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Mobile Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e2237db1-22fe-46ec-996f-b53c8dad14c2",
+        "date_posted": 1731399533,
+        "company_url": "",
+        "is_visible": true
     }
 ]
