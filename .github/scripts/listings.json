@@ -40590,5 +40590,22 @@
         "date_posted": 1731353370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731399106,
+        "url": "http://redirect.cvrve.me/a506e9c1b6e4524f1929",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Technology Early ID Program",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0a95e8f4-2b6c-4c49-8212-3e182dd0927e",
+        "date_posted": 1731399106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
