@@ -40641,5 +40641,22 @@
         "date_posted": 1731399175,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731399328,
+        "url": "http://redirect.cvrve.me/94f540b0e638ef3f4745",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danfoss",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a552dff1-2114-4947-af8a-ec27d16fbbaa",
+        "date_posted": 1731399328,
+        "company_url": "",
+        "is_visible": true
     }
 ]
