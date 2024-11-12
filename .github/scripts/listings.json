@@ -40624,5 +40624,22 @@
         "date_posted": 1731399149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731399175,
+        "url": "http://redirect.cvrve.me/e31b3f6ecbd3c73b446d",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "Fiber Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36013230-2f19-4656-b723-1f68b1c33cc6",
+        "date_posted": 1731399175,
+        "company_url": "",
+        "is_visible": true
     }
 ]

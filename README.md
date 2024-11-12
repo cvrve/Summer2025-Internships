@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Citi | Technology Early ID Program | Irving, TX | <a href="http://redirect.cvrve.me/55caa40126bd3a5933e0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Technology Early ID Program | Tampa, FL | <a href="http://redirect.cvrve.me/a506e9c1b6e4524f1929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Alcon | Fiber Engineering Intern | Lake Forest, CA | <a href="http://redirect.cvrve.me/e31b3f6ecbd3c73b446d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Thermo Fisher | Artificial Intelligence Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/192df40675da5cb43430?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Serco | STEP Engineering Intern | Herndon, VA | <a href="http://redirect.cvrve.me/6916ea0e66f1b9538b12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Motorola Solutions | Product and Data Research Intern | Allen, TX | <a href="http://redirect.cvrve.me/971b4d8947afb384c92d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
