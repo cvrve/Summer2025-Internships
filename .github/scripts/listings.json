@@ -40726,5 +40726,22 @@
         "date_posted": 1731441838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731441866,
+        "url": "http://redirect.cvrve.me/9fd497537802ffa21956",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infor",
+        "title": "Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2973f51f-b177-482a-9e18-5e612a311d5b",
+        "date_posted": 1731441866,
+        "company_url": "",
+        "is_visible": true
     }
 ]
