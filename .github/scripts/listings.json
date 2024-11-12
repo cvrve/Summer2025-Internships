@@ -40794,5 +40794,22 @@
         "date_posted": 1731442401,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731442433,
+        "url": "http://redirect.cvrve.me/85114cdb194a9eaa134a",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "ADAS/AD Algorithm Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a1d2f7fd-7cd8-47d3-942d-3ef4b59926e3",
+        "date_posted": 1731442433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
