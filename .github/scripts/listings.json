@@ -40743,5 +40743,22 @@
         "date_posted": 1731441866,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731441911,
+        "url": "http://redirect.cvrve.me/73ed70b4a7b397eda1a7",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Joby Aviation",
+        "title": "Embedded Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "58a1525f-7e91-42f3-bd55-753e9092c45a",
+        "date_posted": 1731441911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
