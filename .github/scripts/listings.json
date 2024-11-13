@@ -41139,5 +41139,22 @@
         "date_posted": 1731522208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522237,
+        "url": "http://redirect.cvrve.me/18635c878667824d371f",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Energy Markets Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e7e2e6e2-9ab6-4f77-b7fc-43dfd22afcf5",
+        "date_posted": 1731522237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
