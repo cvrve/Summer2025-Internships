@@ -41346,5 +41346,22 @@
         "date_posted": 1731522711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522738,
+        "url": "http://redirect.cvrve.me/aadffbefb054dfaf5ea4",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Web Trading and Data Desktop Platforms Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6629d5ad-92ec-474e-9bcb-14f1f6de3c2f",
+        "date_posted": 1731522738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
