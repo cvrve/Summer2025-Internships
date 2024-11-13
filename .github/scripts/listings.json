@@ -40984,5 +40984,22 @@
         "date_posted": 1731521357,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731521412,
+        "url": "http://redirect.cvrve.me/c942d286b2ea02f67b4d",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lightbox",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c820198e-7536-48e1-a1e8-f5f701911d61",
+        "date_posted": 1731521412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
