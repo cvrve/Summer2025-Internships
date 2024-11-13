@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vantage Data Centers | Product Innovation Intern | Denver, CO | <a href="http://redirect.cvrve.me/7b4dc2d287c946b3e955?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Skydio | Software Engineer Intern | Boston, MA | <a href="http://redirect.cvrve.me/cb079befe7cf3f17b316?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Schneider Electric | Computer Science Intern | Nashville, TN</br>Columbia, SC</br>El Paso, TX | <a href="http://redirect.cvrve.me/ebd33239495127f606af?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Lightbox | Software Engineer Intern | Irvine, CA | <a href="http://redirect.cvrve.me/c942d286b2ea02f67b4d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | d-Matrix | Machine Learning Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/4f498b5f16dc6e3ad111?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Machine Learning Software Engineering Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/8618bf455ada275d1192?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
