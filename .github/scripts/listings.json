@@ -41261,5 +41261,22 @@
         "date_posted": 1731522529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522569,
+        "url": "http://redirect.cvrve.me/d36f2dbb901d6e83e0c4",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Android Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a597bcc2-e7a2-4692-a062-ae98129385e0",
+        "date_posted": 1731522569,
+        "company_url": "",
+        "is_visible": true
     }
 ]

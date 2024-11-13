@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vantage Data Centers | Product Innovation Intern | Denver, CO | <a href="http://redirect.cvrve.me/7b4dc2d287c946b3e955?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TickPick | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/33fd06b37e85c519f337?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| T-Mobile | Android Development Intern | Overland Park, KS | <a href="http://redirect.cvrve.me/d36f2dbb901d6e83e0c4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Solidworks | API Support Engineer Intern | Waltham, MA | <a href="http://redirect.cvrve.me/971e698473f42dd9dbba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Skydio | Software Engineer Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/0a43841d742bc4c21313?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Software Engineer Intern | Boston, MA | <a href="http://redirect.cvrve.me/cb079befe7cf3f17b316?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
