@@ -40914,5 +40914,22 @@
         "date_posted": 1731520587,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731520626,
+        "url": "http://redirect.cvrve.me/29c9ea0e64db2a8b6c82",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Cloud Consultant Intern, National Security",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8773baff-a820-4b87-b714-a5fc4d3d3897",
+        "date_posted": 1731520626,
+        "company_url": "",
+        "is_visible": true
     }
 ]

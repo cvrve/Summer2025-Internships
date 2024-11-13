@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Amazon | Cloud Consultant Intern | Seattle, WA</br>Arlington, VA | <a href="http://redirect.cvrve.me/93d4a40c4b54028349ca?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Amazon | Cloud Consultant Intern, National Security 🇺🇸 | Arlington, VA | <a href="http://redirect.cvrve.me/29c9ea0e64db2a8b6c82?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| ↳ | Cloud Consultant Intern | Seattle, WA</br>Arlington, VA | <a href="http://redirect.cvrve.me/93d4a40c4b54028349ca?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Micron | IT Software Engineer Intern | Boise, ID | <a href="http://redirect.cvrve.me/b281dc26b3e5a3f6ec0f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Lam Research | Software Development Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8935981df4ba3e01a59a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Joby Aviation | Embedded Software Intern | San Carlos, CA | <a href="http://redirect.cvrve.me/73ed70b4a7b397eda1a7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
