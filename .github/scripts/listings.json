@@ -40896,5 +40896,23 @@
         "date_posted": 1731442582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731520587,
+        "url": "http://redirect.cvrve.me/93d4a40c4b54028349ca",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Cloud Consultant Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "16b5fc0b-67b9-4c9a-ac28-de19d6c9e972",
+        "date_posted": 1731520587,
+        "company_url": "",
+        "is_visible": true
     }
 ]
