@@ -41295,5 +41295,22 @@
         "date_posted": 1731522596,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522626,
+        "url": "http://redirect.cvrve.me/f80731fa7ee844afb6d1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TRC",
+        "title": "GIS Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "79337896-97a6-495c-876a-753aa6344058",
+        "date_posted": 1731522626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
