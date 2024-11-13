@@ -41018,5 +41018,22 @@
         "date_posted": 1731521461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731521500,
+        "url": "http://redirect.cvrve.me/4f498b5f16dc6e3ad111",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "d-Matrix",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ba61b212-94b8-4dc7-b2c3-c86173fb2a03",
+        "date_posted": 1731521500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
