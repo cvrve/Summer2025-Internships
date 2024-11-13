@@ -41278,5 +41278,22 @@
         "date_posted": 1731522569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522596,
+        "url": "http://redirect.cvrve.me/3e9ec4c39cb3acfb858e",
+        "locations": [
+            "Indianapolis, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carrier",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2e3d97b5-2bd8-4f6b-9cc7-c98ade37154b",
+        "date_posted": 1731522596,
+        "company_url": "",
+        "is_visible": true
     }
 ]
