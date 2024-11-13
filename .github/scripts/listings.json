@@ -41156,5 +41156,22 @@
         "date_posted": 1731522237,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522269,
+        "url": "http://redirect.cvrve.me/ba498f93959e6d2eab0e",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db6900c9-dce8-4880-8094-8a4759467e04",
+        "date_posted": 1731522269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
