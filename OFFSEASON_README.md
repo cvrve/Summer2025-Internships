@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| HONE Health | Software Engineer Intern - Spring | Remote</br>US | <a href="http://redirect.cvrve.me/ff5a67ed305fc2cfecf1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Super.com | Software Engineering Intern - 12M | Remote</br>Canada | <a href="http://redirect.cvrve.me/59e769b85262eca7c8ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Boehringer Ingelheim | Software Developer Co-Op - Spring | Ridgefield, CT | <a href="http://redirect.cvrve.me/b2db08609077633b9e3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Omega365 | Software Developer Intern - Spring | Houston, TX | <a href="http://redirect.cvrve.me/4b2a0515e2ea3b1b8d72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
