@@ -41380,5 +41380,22 @@
         "date_posted": 1731522772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522807,
+        "url": "http://redirect.cvrve.me/b6abaa7aeeb26cec4b29",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brawn Medical",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d73f7177-ebb6-4718-8289-976edd89261a",
+        "date_posted": 1731522807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
