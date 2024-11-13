@@ -40931,5 +40931,24 @@
         "date_posted": 1731520626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731520669,
+        "url": "http://redirect.cvrve.me/7abb45158f5cc0b158bb",
+        "locations": [
+            "Sunnyvale, CA",
+            "Seattle, WA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern in Test",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "364ba6cb-9dbe-4686-aa45-432f84c06397",
+        "date_posted": 1731520669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
