@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Astranis | Flight Software Intern 🇺🇸 | San Francisco, CA | <a href="http://redirect.cvrve.me/a7920f79144f8130cbb7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Amazon | Software Development Engineer Intern in Test | Sunnyvale, CA</br>Seattle, WA</br>Irvine, CA | <a href="http://redirect.cvrve.me/7abb45158f5cc0b158bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Cloud Consultant Intern, National Security 🇺🇸 | Arlington, VA | <a href="http://redirect.cvrve.me/29c9ea0e64db2a8b6c82?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Cloud Consultant Intern | Seattle, WA</br>Arlington, VA | <a href="http://redirect.cvrve.me/93d4a40c4b54028349ca?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
