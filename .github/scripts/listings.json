@@ -41190,5 +41190,24 @@
         "date_posted": 1731522292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522336,
+        "url": "http://redirect.cvrve.me/bcd507f3185351528562",
+        "locations": [
+            "Schenectady, NY",
+            "Atlanta, GA",
+            "Greenville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Digital Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e0036e23-b320-4495-a756-df96a2175cfc",
+        "date_posted": 1731522336,
+        "company_url": "",
+        "is_visible": true
     }
 ]
