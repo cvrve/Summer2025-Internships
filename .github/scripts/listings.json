@@ -41105,5 +41105,22 @@
         "date_posted": 1731521935,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731521963,
+        "url": "http://redirect.cvrve.me/46fccc1f4c494c9c5d07",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Data Platform Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "998be3ce-9772-428d-9192-9a05c7a2803b",
+        "date_posted": 1731521963,
+        "company_url": "",
+        "is_visible": true
     }
 ]
