@@ -41312,5 +41312,22 @@
         "date_posted": 1731522626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522661,
+        "url": "http://redirect.cvrve.me/7fd84b44131c75b96274",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "International",
+        "title": "Controls & Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f0cc9604-f0a0-49b3-83f1-85b5670a87db",
+        "date_posted": 1731522661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
