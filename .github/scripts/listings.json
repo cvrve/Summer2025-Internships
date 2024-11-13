@@ -41363,5 +41363,22 @@
         "date_posted": 1731522738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522772,
+        "url": "http://redirect.cvrve.me/35cfb9849ae675fe5647",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence Design Systems",
+        "title": "Software R&D Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cecd61c3-cb7e-4174-9f37-c476bfa77456",
+        "date_posted": 1731522772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
