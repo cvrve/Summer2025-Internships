@@ -41122,5 +41122,22 @@
         "date_posted": 1731521963,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731522208,
+        "url": "http://redirect.cvrve.me/f169d8f97a7f906b5ed7",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "GridOS SCADA Application Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a2d402b6-a216-40d9-a929-b038d36ed694",
+        "date_posted": 1731522208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
