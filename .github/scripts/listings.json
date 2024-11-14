@@ -41568,5 +41568,22 @@
         "date_posted": 1731607204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607269,
+        "url": "http://redirect.cvrve.me/5cb9855d6ef881f0a4d6",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quorum",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b1313af5-ef1b-479c-bd8b-1d5bf004bc16",
+        "date_posted": 1731607269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
