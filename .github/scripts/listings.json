@@ -41739,5 +41739,23 @@
         "date_posted": 1731607606,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607633,
+        "url": "http://redirect.cvrve.me/13b6d90344271678ce52",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moodys",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1a44575a-0783-485b-8e9b-12bc753f43fb",
+        "date_posted": 1731607633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
