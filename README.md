@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Waymo | Eval & Inference Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/3497d2f7fda62e6e5a00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="http://redirect.cvrve.me/7dfeb404a286d3453ea1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Trimble | Product Engineer Intern | Dayton, OH | <a href="http://redirect.cvrve.me/24061078eaa0e5b600a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Teradata | Software Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/7ebe1c22ad13f0b784d9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Symbotic | Software Engineer Intern | Wilmington, MA | <a href="http://redirect.cvrve.me/5a8ef33912a4e71c61bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Splunk | Site Reliability Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/5be0f160033042a15c88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Schonfeld | Data Science Intern | New York, NY | <a href="http://redirect.cvrve.me/9919fba2b4dc470d446d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
