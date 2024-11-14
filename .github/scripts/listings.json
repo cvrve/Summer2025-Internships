@@ -41465,5 +41465,22 @@
         "date_posted": 1731606670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731606704,
+        "url": "http://redirect.cvrve.me/9919fba2b4dc470d446d",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e7065814-7924-4f1b-9407-9c770f7b784a",
+        "date_posted": 1731606704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
