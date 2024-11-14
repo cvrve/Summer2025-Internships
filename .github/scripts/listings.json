@@ -41670,5 +41670,22 @@
         "date_posted": 1731607458,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607496,
+        "url": "http://redirect.cvrve.me/1707e8f76758f61d1b1f",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Manufacturing Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd92b40a-6f72-4839-aa4b-e168ad97cfa3",
+        "date_posted": 1731607496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
