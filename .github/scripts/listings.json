@@ -41448,5 +41448,22 @@
         "date_posted": 1731606643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731606670,
+        "url": "http://redirect.cvrve.me/24061078eaa0e5b600a9",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5c809e5f-67b8-4deb-94bf-fea98dae7614",
+        "date_posted": 1731606670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
