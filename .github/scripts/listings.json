@@ -41687,5 +41687,23 @@
         "date_posted": 1731607496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607534,
+        "url": "http://redirect.cvrve.me/ad3a2da277c02df0e37c",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grammatech",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "05f1c09c-f9ae-4d20-90fd-9806c274408f",
+        "date_posted": 1731607534,
+        "company_url": "",
+        "is_visible": true
     }
 ]
