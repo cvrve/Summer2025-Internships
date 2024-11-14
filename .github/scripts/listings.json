@@ -41602,5 +41602,22 @@
         "date_posted": 1731607298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607326,
+        "url": "http://redirect.cvrve.me/d0f8713c90d9a860f8ab",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "44c2ab56-7b6d-4c2e-b043-267b32dfe719",
+        "date_posted": 1731607326,
+        "company_url": "",
+        "is_visible": true
     }
 ]

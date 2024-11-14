@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="http://redirect.cvrve.me/7dfeb404a286d3453ea1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Trimble | Product Engineer Intern | Dayton, OH | <a href="http://redirect.cvrve.me/24061078eaa0e5b600a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Schonfeld | Data Science Intern | New York, NY | <a href="http://redirect.cvrve.me/9919fba2b4dc470d446d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| S&P Global | DevOps Engineer Intern | Princeton, NJ | <a href="http://redirect.cvrve.me/d0f8713c90d9a860f8ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Rocket Lab | Web Software Intern | Albuquerque, NM | <a href="http://redirect.cvrve.me/7dca7b8e1875fa68031e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Quorum | Software Engineering Intern | Houston, TX | <a href="http://redirect.cvrve.me/5cb9855d6ef881f0a4d6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Nokia | Software Developer Intern | Naperville, IL | <a href="http://redirect.cvrve.me/e9f3f49288195da94cf2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
