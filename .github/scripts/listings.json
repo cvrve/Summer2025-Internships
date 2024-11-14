@@ -41551,5 +41551,22 @@
         "date_posted": 1731607172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607204,
+        "url": "http://redirect.cvrve.me/1642da54f9cbccf95822",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epsilon",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5cadf3b9-4411-4535-a060-3d500f24055b",
+        "date_posted": 1731607204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
