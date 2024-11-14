@@ -41431,5 +41431,22 @@
         "date_posted": 1731606612,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731606643,
+        "url": "http://redirect.cvrve.me/7dfeb404a286d3453ea1",
+        "locations": [
+            "Pleasant Prairie, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "433eff32-e2b9-44f4-9b81-f077de624d91",
+        "date_posted": 1731606643,
+        "company_url": "",
+        "is_visible": true
     }
 ]
