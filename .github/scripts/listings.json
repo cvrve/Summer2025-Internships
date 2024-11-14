@@ -41585,5 +41585,22 @@
         "date_posted": 1731607269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607298,
+        "url": "http://redirect.cvrve.me/8e3826c53b5fadb01383",
+        "locations": [
+            "Beverly, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axcelis",
+        "title": "Controls Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6ea73f0d-5ffc-4b73-8a64-731fd58940b9",
+        "date_posted": 1731607298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
