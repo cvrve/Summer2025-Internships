@@ -41397,5 +41397,22 @@
         "date_posted": 1731522807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731606565,
+        "url": "http://redirect.cvrve.me/4e9ba1120553399cda85",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Publishing, Access, Deploy, and Scale Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce4c90df-9c4b-4608-bb5e-d843a136441b",
+        "date_posted": 1731606565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
