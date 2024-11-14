@@ -41653,5 +41653,22 @@
         "date_posted": 1731607427,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731607458,
+        "url": "http://redirect.cvrve.me/f06fa9e1c2a7e13402b2",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a5ece863-1d2e-4294-991f-d121d55a12cb",
+        "date_posted": 1731607458,
+        "company_url": "",
+        "is_visible": true
     }
 ]
