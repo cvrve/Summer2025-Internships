@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="http://redirect.cvrve.me/7dfeb404a286d3453ea1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Trimble | Product Engineer Intern | Dayton, OH | <a href="http://redirect.cvrve.me/24061078eaa0e5b600a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Schonfeld | Data Science Intern | New York, NY | <a href="http://redirect.cvrve.me/9919fba2b4dc470d446d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Rocket Lab | Web Software Intern | Albuquerque, NM | <a href="http://redirect.cvrve.me/7dca7b8e1875fa68031e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Vantage Data Centers | Product Innovation Intern | Denver, CO | <a href="http://redirect.cvrve.me/7b4dc2d287c946b3e955?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TRC | GIS Software Engineering Intern | Seattle, WA | <a href="http://redirect.cvrve.me/f80731fa7ee844afb6d1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TickPick | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/33fd06b37e85c519f337?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |

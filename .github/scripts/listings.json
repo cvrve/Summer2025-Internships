@@ -41482,5 +41482,22 @@
         "date_posted": 1731606704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731606781,
+        "url": "http://redirect.cvrve.me/7dca7b8e1875fa68031e",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lab",
+        "title": "Web Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ad18e8ad-522d-414e-9e79-a71bbd1e8a33",
+        "date_posted": 1731606781,
+        "company_url": "",
+        "is_visible": true
     }
 ]
