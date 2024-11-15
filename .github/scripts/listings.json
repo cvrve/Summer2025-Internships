@@ -41876,5 +41876,22 @@
         "date_posted": 1731671710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671744,
+        "url": "http://redirect.cvrve.me/15873709685e63dcc5c6",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Trade Desk",
+        "title": "Project Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a678cba3-9bc0-4a89-9240-cefefb6bee52",
+        "date_posted": 1731671744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
