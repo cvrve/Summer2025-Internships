@@ -8,7 +8,7 @@ concurrency: add_internships
 
 jobs:
   run-python-script:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     if: github.event.label.name == 'approved'
 
     steps:
