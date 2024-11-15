@@ -41808,5 +41808,22 @@
         "date_posted": 1731670346,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671588,
+        "url": "http://redirect.cvrve.me/b25842641437e9597df1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Trade Desk",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dadea9c3-da94-4fb1-bfda-6d16e3dec9a6",
+        "date_posted": 1731671588,
+        "company_url": "",
+        "is_visible": true
     }
 ]

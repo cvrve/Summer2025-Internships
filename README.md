@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| The Trade Desk | Data Science Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/b25842641437e9597df1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Moody | Data Intelligence Intern | New York, NY | <a href="http://redirect.cvrve.me/44de76b0f158cba19131?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Lockheed Martin | Software Engineer Intern 🇺🇸 | Fort Worth, TX | <a href="http://redirect.cvrve.me/2560af049a5fb82bf20f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Zoox | Data Publishing, Access, Deploy, and Scale Intern | Foster City, CA | <a href="http://redirect.cvrve.me/4e9ba1120553399cda85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
