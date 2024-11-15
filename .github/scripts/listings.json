@@ -41825,5 +41825,22 @@
         "date_posted": 1731671588,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731671622,
+        "url": "http://redirect.cvrve.me/74a0f4f0125a1798426e",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Trade Desk",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0701956c-4ba2-425c-9c11-9da14489409d",
+        "date_posted": 1731671622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
