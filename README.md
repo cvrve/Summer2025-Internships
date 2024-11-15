@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Moody | Data Intelligence Intern | New York, NY | <a href="http://redirect.cvrve.me/44de76b0f158cba19131?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Zoox | Data Publishing, Access, Deploy, and Scale Intern | Foster City, CA | <a href="http://redirect.cvrve.me/4e9ba1120553399cda85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Waymo | Eval & Inference Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/3497d2f7fda62e6e5a00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="http://redirect.cvrve.me/7dfeb404a286d3453ea1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |

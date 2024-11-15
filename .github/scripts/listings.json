@@ -41774,5 +41774,22 @@
         "date_posted": 1731607711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731670299,
+        "url": "http://redirect.cvrve.me/44de76b0f158cba19131",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody",
+        "title": "Data Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "88c3a112-6dac-44a3-a3f8-2111691af269",
+        "date_posted": 1731670299,
+        "company_url": "",
+        "is_visible": true
     }
 ]
