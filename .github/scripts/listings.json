@@ -42137,5 +42137,22 @@
         "date_posted": 1731740847,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731740884,
+        "url": "http://redirect.cvrve.me/03fa21a4596645ef276f",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vermeer",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5585a47-296f-4976-8628-c509fd117395",
+        "date_posted": 1731740884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
