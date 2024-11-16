@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zoox | Agent Behavior Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/4ff4f97b628f1e14eae4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Zoox | Backend Software Engineering Intern | Foster City, CA | <a href="http://redirect.cvrve.me/535d411df956442820b9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| ↳ | Agent Behavior Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/4ff4f97b628f1e14eae4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Automated Machine Learning Intern | Foster City, CA | <a href="http://redirect.cvrve.me/6720f8cea8394e3cd2d2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Developer Platforms Intern | Foster City, CA | <a href="http://redirect.cvrve.me/b251a19f0879f26d1a9e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Calibration, Localization, and Mapping Intern | Foster City, CA | <a href="http://redirect.cvrve.me/8e30d4fb0860d2d123ee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
