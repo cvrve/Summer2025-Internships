@@ -42597,5 +42597,22 @@
         "date_posted": 1731776255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731776473,
+        "url": "http://redirect.cvrve.me/",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Modern Technology Solutions Inc",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fc28d96b-b0ae-4d71-a813-166454d55827",
+        "date_posted": 1731776473,
+        "company_url": "",
+        "is_visible": true
     }
 ]
