@@ -41961,5 +41961,22 @@
         "date_posted": 1731739622,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731739712,
+        "url": "http://redirect.cvrve.me/5c6a2333d8d9b58f472f",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Cybersecurity Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8f93abeb-92d7-4e9e-b19b-8f04ba26c489",
+        "date_posted": 1731739712,
+        "company_url": "",
+        "is_visible": true
     }
 ]
