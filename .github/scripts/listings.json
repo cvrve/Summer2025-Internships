@@ -42324,5 +42324,22 @@
         "date_posted": 1731742151,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731742178,
+        "url": "http://redirect.cvrve.me/661ad23e1d3fd9fd18a6",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson&Johnson",
+        "title": "Diagnostic Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "44cc65e4-62f4-4451-a1b5-379ad3cee6f0",
+        "date_posted": 1731742178,
+        "company_url": "",
+        "is_visible": true
     }
 ]
