@@ -42341,5 +42341,22 @@
         "date_posted": 1731742178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731742279,
+        "url": "http://redirect.cvrve.me/0936dfb5765ffc2452bd",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c9e7e4b8-bac5-4da4-98cd-d99664dc7e9e",
+        "date_posted": 1731742279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
