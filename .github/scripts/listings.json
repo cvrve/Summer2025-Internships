@@ -42771,5 +42771,22 @@
         "date_posted": 1731780293,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731780513,
+        "url": "http://redirect.cvrve.me/44d562d425e30d932f8d",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IXL Learning",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e3cb3e5c-52d7-47d2-9435-06dc262e5868",
+        "date_posted": 1731780513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
