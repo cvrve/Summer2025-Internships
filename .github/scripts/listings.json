@@ -42188,5 +42188,22 @@
         "date_posted": 1731740979,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731741012,
+        "url": "http://redirect.cvrve.me/e6307bf15c7cd5f7da31",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c936eaa5-c15e-42fa-abda-073c2e8c7bd1",
+        "date_posted": 1731741012,
+        "company_url": "",
+        "is_visible": true
     }
 ]
