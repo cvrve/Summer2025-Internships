@@ -42290,5 +42290,22 @@
         "date_posted": 1731741988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731742118,
+        "url": "http://redirect.cvrve.me/4b9e057018d7702490b0",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apptronik",
+        "title": "Software Engineer Autonomy Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dea253a8-8ecc-4e71-9bb4-18b5e4202494",
+        "date_posted": 1731742118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
