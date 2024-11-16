@@ -9,7 +9,7 @@ on:
 
 jobs:
   run-python-script:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: "3.11.2"
+          python-version: "3.9"
 
       - name: execute update_readmes.py
         id: python_script
