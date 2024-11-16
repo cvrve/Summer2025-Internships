@@ -42631,5 +42631,22 @@
         "date_posted": 1731777371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731777480,
+        "url": "http://redirect.cvrve.me/6720f8cea8394e3cd2d2",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Automated Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c5ff40f1-b62c-4298-9bce-005f022e830b",
+        "date_posted": 1731777480,
+        "company_url": "",
+        "is_visible": true
     }
 ]
