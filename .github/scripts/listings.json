@@ -42239,5 +42239,22 @@
         "date_posted": 1731741084,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731741130,
+        "url": "http://redirect.cvrve.me/214c66b288fcaeb9c008",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0704a240-6687-4e82-abf2-665b3bddf210",
+        "date_posted": 1731741130,
+        "company_url": "",
+        "is_visible": true
     }
 ]
