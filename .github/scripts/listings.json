@@ -42392,5 +42392,22 @@
         "date_posted": 1731742405,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731742704,
+        "url": "http://redirect.cvrve.me/ec8806021791b5f7cdae",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7ede5446-9a85-47d3-bd53-240025439e01",
+        "date_posted": 1731742704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
