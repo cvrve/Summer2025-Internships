@@ -42563,5 +42563,22 @@
         "date_posted": 1731770793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731770827,
+        "url": "http://redirect.cvrve.me/46334c4688e2a09be810",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "AI Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7beab21-9cce-4796-b385-05f46191cfbb",
+        "date_posted": 1731770827,
+        "company_url": "",
+        "is_visible": true
     }
 ]
