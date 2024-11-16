@@ -41910,5 +41910,22 @@
         "date_posted": 1731739399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731739425,
+        "url": "http://redirect.cvrve.me/124fd82d45b29bf23280",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "FPGA Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fea7f42e-b378-47bc-905e-a42aa692be79",
+        "date_posted": 1731739425,
+        "company_url": "",
+        "is_visible": true
     }
 ]

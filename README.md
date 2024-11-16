@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | FPGA Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/124fd82d45b29bf23280?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Waymo | TaaS Fullstack Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/cbddbc6099a7a5941c68?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | The Trade Desk | Project Management Intern | Irvine, CA | <a href="http://redirect.cvrve.me/15873709685e63dcc5c6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ↳ | Product Management Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/67a83ab3a03f1676a022?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
