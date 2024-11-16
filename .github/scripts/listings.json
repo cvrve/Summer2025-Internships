@@ -42614,5 +42614,22 @@
         "date_posted": 1731776473,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731777371,
+        "url": "http://redirect.cvrve.me/a163b79336415aa6c056",
+        "locations": [
+            "St Louis, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modern Technology Solutions Inc",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1ca57a8f-7172-4866-8314-5c30cc80f450",
+        "date_posted": 1731777371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
