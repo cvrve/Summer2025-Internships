@@ -42512,5 +42512,22 @@
         "date_posted": 1731767984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731770482,
+        "url": "http://redirect.cvrve.me/6d17125993e3a91ff718",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Cloud Automation Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "830d7d5a-f9a0-4fc3-901a-bc25cf4f5f6f",
+        "date_posted": 1731770482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
