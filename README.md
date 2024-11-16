@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Calibration, Localization, and Mapping Intern | Foster City, CA | <a href="http://redirect.cvrve.me/8e30d4fb0860d2d123ee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | StoneX | Software Engineer Intern | Chicago, IL | <a href="http://redirect.cvrve.me/83659452c3484cd1101a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Zoox | CLAMS HD Mapping Intern | Foster City, CA | <a href="http://redirect.cvrve.me/e990c65d66422375a1ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ↳ | Machine Learning Intern, Collision Avoidance System | Foster City, CA | <a href="http://redirect.cvrve.me/78d26d928d30ea348fd7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
