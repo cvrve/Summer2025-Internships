@@ -42788,5 +42788,22 @@
         "date_posted": 1731780513,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731865962,
+        "url": "http://redirect.cvrve.me/9217b5604a1c462f75cd",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rakuten",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "40ae618b-ff99-4378-987d-2eb741e1f114",
+        "date_posted": 1731865962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
