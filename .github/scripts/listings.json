@@ -43129,5 +43129,22 @@
         "date_posted": 1731963923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731964004,
+        "url": "http://redirect.cvrve.me/373bbf9a29ad4c32456b",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PEGA",
+        "title": "Cloud Performance Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "806e0fcb-4bfa-418b-8e18-974790801df9",
+        "date_posted": 1731964004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
