@@ -42822,5 +42822,22 @@
         "date_posted": 1731897323,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731897351,
+        "url": "http://redirect.cvrve.me/a0cf53181482213407f5",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6a952290-6efe-473b-9367-46ea4b425d42",
+        "date_posted": 1731897351,
+        "company_url": "",
+        "is_visible": true
     }
 ]
