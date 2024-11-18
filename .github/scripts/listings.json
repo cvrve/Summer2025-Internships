@@ -42839,5 +42839,22 @@
         "date_posted": 1731897351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731897499,
+        "url": "http://redirect.cvrve.me/ad598a582373fb26394c",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Robotics Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a036cde7-53d6-44e8-bd7b-b70ae4801a8f",
+        "date_posted": 1731897499,
+        "company_url": "",
+        "is_visible": true
     }
 ]

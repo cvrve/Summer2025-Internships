@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ricoh | Robotics Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/ad598a582373fb26394c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Rakuten | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/9217b5604a1c462f75cd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | KLA | Artificial Intelligence Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/a0cf53181482213407f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Systems Engineering Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/dc2055738d0972294f73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
