@@ -43165,5 +43165,23 @@
         "date_posted": 1731964223,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731966566,
+        "url": "http://redirect.cvrve.me/58c1355391a37b90d4ce",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Riot Games",
+        "title": "Research Scientist Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "826a7d09-9be9-411c-bc90-9529fe732813",
+        "date_posted": 1731966566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
