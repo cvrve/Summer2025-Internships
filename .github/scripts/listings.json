@@ -42975,5 +42975,22 @@
         "date_posted": 1731902412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731950910,
+        "url": "http://redirect.cvrve.me/5eeda83e4894a7b84048",
+        "locations": [
+            "Lexington, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "181b2fc9-9620-486d-ae84-8837d923ced7",
+        "date_posted": 1731950910,
+        "company_url": "",
+        "is_visible": true
     }
 ]

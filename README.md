@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Motorola Solutions | Computer Science Intern | Lexington, SC | <a href="http://redirect.cvrve.me/5eeda83e4894a7b84048?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Ricoh | Control Unit AI Intern | Boulder, CO | <a href="http://redirect.cvrve.me/81ae811c2dbd82ad0aea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | SW Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/b7b1646b1fb10554fe99?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Robotics Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/ad598a582373fb26394c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
