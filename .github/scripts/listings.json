@@ -42856,5 +42856,22 @@
         "date_posted": 1731897499,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731897548,
+        "url": "http://redirect.cvrve.me/b7b1646b1fb10554fe99",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "SW Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "50700e36-9740-4067-990d-f3a1da0d761f",
+        "date_posted": 1731897548,
+        "company_url": "",
+        "is_visible": true
     }
 ]
