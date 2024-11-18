@@ -42873,5 +42873,22 @@
         "date_posted": 1731897548,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731897611,
+        "url": "http://redirect.cvrve.me/81ae811c2dbd82ad0aea",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Control Unit AI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6bbb4c95-ab5c-44e2-bb56-11166694498f",
+        "date_posted": 1731897611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
