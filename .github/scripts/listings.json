@@ -42958,5 +42958,22 @@
         "date_posted": 1731898017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731902412,
+        "url": "http://redirect.cvrve.me/42a259b815d69ade41d8",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Hardware Technical Program Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8d0b75ab-f037-4e8c-bebf-d3b92f48bbb0",
+        "date_posted": 1731902412,
+        "company_url": "",
+        "is_visible": true
     }
 ]
