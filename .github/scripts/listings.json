@@ -43201,5 +43201,23 @@
         "date_posted": 1731966626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731967114,
+        "url": "http://redirect.cvrve.me/19b0ec3e5e4ac9e71c3f",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Riot Games",
+        "title": "Data Science Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b078f9a9-19cf-48aa-8462-f0820fcbd3f1",
+        "date_posted": 1731967114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
