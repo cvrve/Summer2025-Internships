@@ -42992,5 +42992,22 @@
         "date_posted": 1731950910,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731961565,
+        "url": "http://redirect.cvrve.me/0a44d6190fba1c19803c",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Hancock",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0e92ce3c-63ec-4b91-b4a0-e3f88407c936",
+        "date_posted": 1731961565,
+        "company_url": "",
+        "is_visible": true
     }
 ]
