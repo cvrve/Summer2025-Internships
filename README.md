@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Rakuten | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/9217b5604a1c462f75cd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| KLA | Systems Engineering Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/dc2055738d0972294f73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Zoox | ML Sensor Simulation Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/4f34e49f1dff6bf2d27b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Motion Planning Cost Development Intern | Foster City, CA | <a href="http://redirect.cvrve.me/cb0b96ad60e88896b54f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Offline Perception Intern | Boston, MA | <a href="http://redirect.cvrve.me/e0b89a47bdf86e716552?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
