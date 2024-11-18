@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Seagate | DevOps Engineer Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/3c74d97803196d1498d2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Remitly | Software Development Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/052040874d229776ee61?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | NASCAR | Intern | Charlotte, NC</br>Daytona Beach, FL | <a href="http://redirect.cvrve.me/1c1f7941a94af367fa1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Motorola Solutions | Computer Science Intern | Lexington, SC | <a href="http://redirect.cvrve.me/5eeda83e4894a7b84048?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Little Caesars | Software Engineering Intern | Detroit, MI | <a href="http://redirect.cvrve.me/88f25068c431561e0561?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
