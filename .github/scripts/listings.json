@@ -43027,5 +43027,22 @@
         "date_posted": 1731961594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731961684,
+        "url": "http://redirect.cvrve.me/88f25068c431561e0561",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "105d7622-7a02-4c5f-8bcc-cb054fc2fd16",
+        "date_posted": 1731961684,
+        "company_url": "",
+        "is_visible": true
     }
 ]

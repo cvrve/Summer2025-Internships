@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | NASCAR | Intern | Charlotte, NC</br>Daytona Beach, FL | <a href="http://redirect.cvrve.me/1c1f7941a94af367fa1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Motorola Solutions | Computer Science Intern | Lexington, SC | <a href="http://redirect.cvrve.me/5eeda83e4894a7b84048?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Little Caesars | Software Engineering Intern | Detroit, MI | <a href="http://redirect.cvrve.me/88f25068c431561e0561?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | John Hancock | Software Engineer Intern | Boston, MA | <a href="http://redirect.cvrve.me/0a44d6190fba1c19803c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Ricoh | Control Unit AI Intern | Boulder, CO | <a href="http://redirect.cvrve.me/81ae811c2dbd82ad0aea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | SW Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/b7b1646b1fb10554fe99?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
