@@ -43599,5 +43599,22 @@
         "date_posted": 1732043964,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732043989,
+        "url": "http://redirect.cvrve.me/3d3e745223e18b663f7d",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carrier",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4af0d23f-a580-4673-975a-67e8d3a6da0e",
+        "date_posted": 1732043989,
+        "company_url": "",
+        "is_visible": true
     }
 ]
