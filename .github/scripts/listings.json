@@ -43257,5 +43257,22 @@
         "date_posted": 1732022145,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022201,
+        "url": "http://redirect.cvrve.me/433deae8dcf694cd3220",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Software Dev Engineer in Test Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "80b1a2c7-6deb-4ee4-976f-7d6569948e12",
+        "date_posted": 1732022201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
