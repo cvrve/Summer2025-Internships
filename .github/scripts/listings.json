@@ -43650,5 +43650,22 @@
         "date_posted": 1732044080,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732044105,
+        "url": "http://redirect.cvrve.me/28b8cd759f5cca97326c",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OCLC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c4779d3-d1e4-4910-aede-c96d8b192bfa",
+        "date_posted": 1732044105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
