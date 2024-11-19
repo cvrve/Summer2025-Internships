@@ -43342,5 +43342,22 @@
         "date_posted": 1732022375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022450,
+        "url": "http://redirect.cvrve.me/ee6981bf60716660659d",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pavilion",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ff4117a2-bae5-4f4e-bd52-4c906e287c6e",
+        "date_posted": 1732022450,
+        "company_url": "",
+        "is_visible": true
     }
 ]
