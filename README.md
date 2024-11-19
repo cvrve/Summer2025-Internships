@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Bae Systems | Software Engineering Intern 🇺🇸 | <details><summary>**4 locations**</summary>Nashua, NH</br>Hudson, NH</br>Merrimack, NH</br>Manchester, NH</details> | <a href="http://redirect.cvrve.me/bfb628d596e1b762fa75?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Seagate | DevOps Engineer Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/3c74d97803196d1498d2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Riot Games | Research Scientist Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/29099eb9c5bbfbda5a8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Data Science Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/19b0ec3e5e4ac9e71c3f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
