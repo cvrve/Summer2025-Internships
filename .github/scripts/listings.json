@@ -43565,5 +43565,22 @@
         "date_posted": 1732024020,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732043932,
+        "url": "http://redirect.cvrve.me/a9d79723ff92a471751b",
+        "locations": [
+            "Barrington, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Turbocam",
+        "title": "Software Development Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ae11c55b-ebb2-4db1-adbe-9261fe167198",
+        "date_posted": 1732043932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
