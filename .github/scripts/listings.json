@@ -43325,5 +43325,22 @@
         "date_posted": 1732022344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022375,
+        "url": "http://redirect.cvrve.me/4defc79586c192c26656",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "64a27cc0-c81a-4c6c-8d21-5649706ed88c",
+        "date_posted": 1732022375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
