@@ -43462,5 +43462,22 @@
         "date_posted": 1732022986,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732023163,
+        "url": "http://redirect.cvrve.me/9bec904e2088e684dc5f",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geneva Trading",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "59eb2276-9c2f-4a46-921c-a0be8db8d747",
+        "date_posted": 1732023163,
+        "company_url": "",
+        "is_visible": true
     }
 ]
