@@ -43359,5 +43359,22 @@
         "date_posted": 1732022450,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022589,
+        "url": "http://redirect.cvrve.me/6850ef2a5350c4ebeb01",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid",
+        "title": "Analytics Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d08a0458-f7d4-4df5-835d-c10a846d1bb1",
+        "date_posted": 1732022589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
