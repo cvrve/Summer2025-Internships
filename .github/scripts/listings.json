@@ -43410,5 +43410,23 @@
         "date_posted": 1732022656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022820,
+        "url": "http://redirect.cvrve.me/27468bf5683db5a4d0fe",
+        "locations": [
+            "San Francisco, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3b4f741f-fcc0-411e-9064-7df59734f23f",
+        "date_posted": 1732022820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
