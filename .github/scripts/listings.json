@@ -43308,5 +43308,22 @@
         "date_posted": 1732022305,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732022344,
+        "url": "http://redirect.cvrve.me/835ce2efb8629e349e6e",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "STI-TEC",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "978da07e-334d-441d-9a5a-79101eeb7939",
+        "date_posted": 1732022344,
+        "company_url": "",
+        "is_visible": true
     }
 ]
