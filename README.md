@@ -53,6 +53,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Science Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/fbb10d54860a34260282?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Teradata | Developer Advocate Intern | San Diego, CA | <a href="http://redirect.cvrve.me/5974865e3d8e809bc9a4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | STI-TEC | Software Developer Intern | Fairborn, OH | <a href="http://redirect.cvrve.me/835ce2efb8629e349e6e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| PTC | Education Development Intern | Boston, MA | <a href="http://redirect.cvrve.me/4fe7720831d4f8446696?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | PayPal | Software Dev Engineer in Test Intern | San Jose, CA | <a href="http://redirect.cvrve.me/433deae8dcf694cd3220?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Pavilion | Software Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/ee6981bf60716660659d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Lucid | Data Analyst Intern | Salt Lake City, UT | <a href="http://redirect.cvrve.me/08377a712a2719cde97d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |

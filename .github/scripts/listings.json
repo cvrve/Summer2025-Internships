@@ -43496,5 +43496,22 @@
         "date_posted": 1732023189,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732023476,
+        "url": "http://redirect.cvrve.me/4fe7720831d4f8446696",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Education Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bb04e074-c1d4-4dd1-89d5-184c6a004af5",
+        "date_posted": 1732023476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
