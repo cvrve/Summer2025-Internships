@@ -43479,5 +43479,22 @@
         "date_posted": 1732023163,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732023189,
+        "url": "http://redirect.cvrve.me/0de44feed43180061526",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cleric",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ec7b211d-59d6-4b06-ad2b-7507032faf91",
+        "date_posted": 1732023189,
+        "company_url": "",
+        "is_visible": true
     }
 ]
