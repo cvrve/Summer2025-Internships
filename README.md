@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra | Software DevOps Engineer Intern | Lincolnshire, IL | <a href="http://redirect.cvrve.me/ff7ab7355df621695b28?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| Uber | Data Science Intern | San Francisco, CA</br>Sunnyvale, CA | <a href="http://redirect.cvrve.me/27468bf5683db5a4d0fe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Uber | Data Science Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/5f4074696543a7c78948?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Data Science Intern | San Francisco, CA</br>Sunnyvale, CA | <a href="http://redirect.cvrve.me/27468bf5683db5a4d0fe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Science Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/fbb10d54860a34260282?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Teradata | Developer Advocate Intern | San Diego, CA | <a href="http://redirect.cvrve.me/5974865e3d8e809bc9a4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | STI-TEC | Software Developer Intern | Fairborn, OH | <a href="http://redirect.cvrve.me/835ce2efb8629e349e6e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
