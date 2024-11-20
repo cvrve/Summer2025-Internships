@@ -43769,5 +43769,22 @@
         "date_posted": 1732063611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732063637,
+        "url": "http://redirect.cvrve.me/87d8229dbfa88ac85b39",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "HPC Product Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7b875ad4-c6e9-4cc4-8d9f-ac51ffe30364",
+        "date_posted": 1732063637,
+        "company_url": "",
+        "is_visible": true
     }
 ]
