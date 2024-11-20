@@ -43873,5 +43873,22 @@
         "date_posted": 1732109045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732109116,
+        "url": "http://redirect.cvrve.me/2860259571a38e92efb0",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fintech",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "17d6f6fa-66c1-448d-87ad-b920ad7708e8",
+        "date_posted": 1732109116,
+        "company_url": "",
+        "is_visible": true
     }
 ]
