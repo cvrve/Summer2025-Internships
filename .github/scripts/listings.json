@@ -43718,5 +43718,22 @@
         "date_posted": 1732063437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732063471,
+        "url": "http://redirect.cvrve.me/7cfbd31d0ddcdd03b726",
+        "locations": [
+            "Ashburd, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "782ff48a-c3a3-4573-adf8-9d694353795e",
+        "date_posted": 1732063471,
+        "company_url": "",
+        "is_visible": true
     }
 ]
