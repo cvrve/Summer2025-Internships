@@ -43837,5 +43837,23 @@
         "date_posted": 1732108936,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732109003,
+        "url": "http://redirect.cvrve.me/dc6bd2944ada3d55594e",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Generative AI and Machine Learning Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ef2649ef-f908-4e48-bd9a-142339df4a93",
+        "date_posted": 1732109003,
+        "company_url": "",
+        "is_visible": true
     }
 ]

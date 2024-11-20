@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Teradata | Data Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/30772b64c3e60f8c82a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Seagate | Generative AI and Machine Learning Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/dc6bd2944ada3d55594e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Little Caesars | Cyber Security Architecture Intern | Detroit, MI | <a href="http://redirect.cvrve.me/513437207bd5be81bf11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Invesco | Quantitative Research Intern | New York, NY | <a href="http://redirect.cvrve.me/a4d042508b33df05f899?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Zebra | Software DevOps Engineer Intern | Lincolnshire, IL | <a href="http://redirect.cvrve.me/ff7ab7355df621695b28?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
