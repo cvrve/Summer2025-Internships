@@ -43976,5 +43976,22 @@
         "date_posted": 1732109447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732109503,
+        "url": "http://redirect.cvrve.me/cd9d04a16d18cbeb9d0c",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OneAmerica Financial",
+        "title": "Software Test Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e086b48a-d032-464f-b5b5-41086ceec0a4",
+        "date_posted": 1732109503,
+        "company_url": "",
+        "is_visible": true
     }
 ]
