@@ -43908,5 +43908,22 @@
         "date_posted": 1732109184,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732109222,
+        "url": "http://redirect.cvrve.me/9327c824f91faa42a8cc",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vontier",
+        "title": "Embedded Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d52eee25-f603-4b59-8b23-e8f78c0d95b0",
+        "date_posted": 1732109222,
+        "company_url": "",
+        "is_visible": true
     }
 ]
