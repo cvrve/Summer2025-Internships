@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Little Caesars | Cyber Security Architecture Intern | Detroit, MI | <a href="http://redirect.cvrve.me/513437207bd5be81bf11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Invesco | Quantitative Research Intern | New York, NY | <a href="http://redirect.cvrve.me/a4d042508b33df05f899?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Zebra | Software DevOps Engineer Intern | Lincolnshire, IL | <a href="http://redirect.cvrve.me/ff7ab7355df621695b28?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Uber | Data Science Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/a308dffc0ae34fffc454?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |

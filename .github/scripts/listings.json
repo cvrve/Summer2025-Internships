@@ -43803,5 +43803,22 @@
         "date_posted": 1732108416,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732108670,
+        "url": "http://redirect.cvrve.me/513437207bd5be81bf11",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars",
+        "title": "Cyber Security Architecture Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c8e29e18-700a-4e8e-a878-25acdd90c60b",
+        "date_posted": 1732108670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
