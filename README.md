@@ -58,6 +58,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Flexcar | Software Engineer Co-Op - Spring | Boston, MA | <a href="http://redirect.cvrve.me/e6a346fa2561866ebb4b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Fintech | Software Engineering Intern | Tampa, FL | <a href="http://redirect.cvrve.me/2860259571a38e92efb0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Aurora | Software Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/d9f40dd5d24d827a575f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| ALSAC | Software Quality Engineer Intern | Memphis, TN | <a href="http://redirect.cvrve.me/a303edf241f183b38840?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Zebra | Software DevOps Engineer Intern | Lincolnshire, IL | <a href="http://redirect.cvrve.me/ff7ab7355df621695b28?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Uber | Data Science Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/a308dffc0ae34fffc454?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Science Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/5f4074696543a7c78948?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
