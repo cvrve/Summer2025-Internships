@@ -43820,5 +43820,22 @@
         "date_posted": 1732108670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732108936,
+        "url": "http://redirect.cvrve.me/30772b64c3e60f8c82a5",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teradata",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f1dcc643-9f9b-4d41-b4fa-e29dbf52304e",
+        "date_posted": 1732108936,
+        "company_url": "",
+        "is_visible": true
     }
 ]
