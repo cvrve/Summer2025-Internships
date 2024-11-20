@@ -43752,5 +43752,22 @@
         "date_posted": 1732063578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732063611,
+        "url": "http://redirect.cvrve.me/8a6a561aebc6cbeba358",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d4544d4-1158-4432-b6ae-453bc0e445a8",
+        "date_posted": 1732063611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
