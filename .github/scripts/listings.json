@@ -43925,5 +43925,22 @@
         "date_posted": 1732109222,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732109313,
+        "url": "http://redirect.cvrve.me/d9f40dd5d24d827a575f",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d42cfe72-0f7e-4a9d-922a-ebe526c10e42",
+        "date_posted": 1732109313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
