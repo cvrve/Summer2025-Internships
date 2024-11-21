@@ -44318,5 +44318,22 @@
         "date_posted": 1732220988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732221092,
+        "url": "http://redirect.cvrve.me/29792b7fa335407b2b5d",
+        "locations": [
+            "Kansas City, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Century Investments",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e4683f6b-5797-4fb7-a6fb-9021f389b787",
+        "date_posted": 1732221092,
+        "company_url": "",
+        "is_visible": true
     }
 ]
