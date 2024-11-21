@@ -44129,5 +44129,22 @@
         "date_posted": 1732164885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732166547,
+        "url": "http://redirect.cvrve.me/7f33807e94a4dd701869",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wisk",
+        "title": "Autonomy Simulation Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1cbd919f-7316-47cf-bc49-35e7b872e0ed",
+        "date_posted": 1732166547,
+        "company_url": "",
+        "is_visible": true
     }
 ]

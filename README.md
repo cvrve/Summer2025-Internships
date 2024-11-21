@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wisk | Autonomy Simulation Software Engineering Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/7f33807e94a4dd701869?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Vontier | Embedded Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/9327c824f91faa42a8cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Teradata | Data Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/30772b64c3e60f8c82a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Sheetz | Data Engineer Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/9df14141db51a3860980?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
