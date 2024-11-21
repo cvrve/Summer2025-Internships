@@ -44454,5 +44454,22 @@
         "date_posted": 1732224004,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732224857,
+        "url": "http://redirect.cvrve.me/97405760eb87eeec52f6",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars",
+        "title": "Platform Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9710b305-d11b-48c5-af86-01d8aa24ba98",
+        "date_posted": 1732224857,
+        "company_url": "",
+        "is_visible": true
     }
 ]
