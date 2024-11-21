@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vontier | Embedded Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/9327c824f91faa42a8cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Teradata | Data Engineering Intern | San Diego, CA | <a href="http://redirect.cvrve.me/30772b64c3e60f8c82a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Sheetz | Data Engineer Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/9df14141db51a3860980?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Seagate | Generative AI and Machine Learning Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/dc6bd2944ada3d55594e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | OneAmerica Financial | Software Test Analyst Intern | Indianapolis, IN | <a href="http://redirect.cvrve.me/cd9d04a16d18cbeb9d0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Little Caesars | Cyber Security Architecture Intern | Detroit, MI | <a href="http://redirect.cvrve.me/513437207bd5be81bf11?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |

@@ -44027,5 +44027,22 @@
         "date_posted": 1732164354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732164385,
+        "url": "http://redirect.cvrve.me/9df14141db51a3860980",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sheetz",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3910a2f9-82c7-4815-a3fe-699f496abf8c",
+        "date_posted": 1732164385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
