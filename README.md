@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vontier | Software Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/1b2e0d73848c1c6558dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| Ascend Analytics | Software Engineer Intern | Boulder, CO | <a href="http://redirect.cvrve.me/3696afd1bad3e6eea6bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Wisk | Software Engineering Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/0f3d31d6408d290f0a89?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | Software Development Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/a12c877012ece3c9a37d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | Autonomy Simulation Software Engineering Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/7f33807e94a4dd701869?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |

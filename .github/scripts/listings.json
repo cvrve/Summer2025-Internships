@@ -44214,5 +44214,22 @@
         "date_posted": 1732219974,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732220008,
+        "url": "http://redirect.cvrve.me/3696afd1bad3e6eea6bc",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ascend Analytics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f5114fe4-5a2b-444a-a70a-63119db605ba",
+        "date_posted": 1732220008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
