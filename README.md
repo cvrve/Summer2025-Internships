@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vontier | Software Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/1b2e0d73848c1c6558dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Vertex | Software Development Intern | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/25d98b9e49686953e55a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="http://redirect.cvrve.me/45f67251ec164ce60568?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | T-Mobile | Network Insights Software Engineer Intern | Snoqualmie, WA | <a href="http://redirect.cvrve.me/0dfef7577719cebe4ca2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Sheetz | Energy Data Analyst Intern | Altoona, PA | <a href="http://redirect.cvrve.me/b545e19d1750be1abc51?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | MongoDB | Product Management Intern | New York, NY | <a href="http://redirect.cvrve.me/203bc5cdf549132a0fc9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
