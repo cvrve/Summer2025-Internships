@@ -44284,5 +44284,22 @@
         "date_posted": 1732220475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732220621,
+        "url": "http://redirect.cvrve.me/203bc5cdf549132a0fc9",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7323b298-95af-4da9-bc24-945a2f503fd1",
+        "date_posted": 1732220621,
+        "company_url": "",
+        "is_visible": true
     }
 ]
