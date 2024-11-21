@@ -44267,5 +44267,22 @@
         "date_posted": 1732220352,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732220475,
+        "url": "http://redirect.cvrve.me/b545e19d1750be1abc51",
+        "locations": [
+            "Altoona, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sheetz",
+        "title": "Energy Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9c57192b-ca1b-43ff-be66-c0bcea50c1df",
+        "date_posted": 1732220475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
