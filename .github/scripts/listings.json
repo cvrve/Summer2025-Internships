@@ -44180,5 +44180,22 @@
         "date_posted": 1732166608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732167510,
+        "url": "http://redirect.cvrve.me/211b9dafc1eef0ad669e",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firefly",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3cc0086-496c-48d3-8d9d-f9ef02c8d48e",
+        "date_posted": 1732167510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
