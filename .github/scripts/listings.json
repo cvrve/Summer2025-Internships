@@ -44420,5 +44420,22 @@
         "date_posted": 1732223865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732223908,
+        "url": "http://redirect.cvrve.me/739642533dd5e664e4b0",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Applications Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a1b2f3bb-3fb5-4907-b4c7-e900e034006c",
+        "date_posted": 1732223908,
+        "company_url": "",
+        "is_visible": true
     }
 ]
