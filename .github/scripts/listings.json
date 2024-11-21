@@ -44146,5 +44146,22 @@
         "date_posted": 1732166547,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732166578,
+        "url": "http://redirect.cvrve.me/a12c877012ece3c9a37d",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wisk",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d076fea6-9366-4360-8132-fdec4274bf47",
+        "date_posted": 1732166578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
