@@ -44010,5 +44010,22 @@
         "date_posted": 1732109946,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732164354,
+        "url": "http://redirect.cvrve.me/0540b564d072defb387e",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ALSAC",
+        "title": "Information Security Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "47f69a58-d777-45c7-87fe-4496630ce2fe",
+        "date_posted": 1732164354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
