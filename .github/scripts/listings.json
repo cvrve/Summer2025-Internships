@@ -44335,5 +44335,22 @@
         "date_posted": 1732221092,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732223278,
+        "url": "http://redirect.cvrve.me/432b38d1f4f637eee022",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Century Investments",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7d6c4e06-4310-460a-be96-b6102bc0dcca",
+        "date_posted": 1732223278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
