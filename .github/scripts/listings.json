@@ -44112,5 +44112,22 @@
         "date_posted": 1732164845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732164885,
+        "url": "http://redirect.cvrve.me/5f84ad893b7c9f65dc12",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shamrock Trading Corporation",
+        "title": "Data Science / Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7458a51-31f7-4534-819d-9941ce10debb",
+        "date_posted": 1732164885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
