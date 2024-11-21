@@ -44437,5 +44437,22 @@
         "date_posted": 1732223908,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732224004,
+        "url": "http://redirect.cvrve.me/1ce7a61e7f043d3b8f42",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Data Acquisition and Instrumentation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3b47c433-0fc3-49e9-92d3-90996460feb3",
+        "date_posted": 1732224004,
+        "company_url": "",
+        "is_visible": true
     }
 ]
