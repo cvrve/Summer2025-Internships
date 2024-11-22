@@ -44611,5 +44611,22 @@
         "date_posted": 1732309990,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732310082,
+        "url": "http://redirect.cvrve.me/f0399a7ce427b1124b4a",
+        "locations": [
+            "Simsbery, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vontier",
+        "title": "Software Development Engineer in Test Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "294a3825-598a-498f-8aa1-0968f80b6ecf",
+        "date_posted": 1732310082,
+        "company_url": "",
+        "is_visible": true
     }
 ]

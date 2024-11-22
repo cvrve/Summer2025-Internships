@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoetis | Tech and Digital Intern | Remote</br>US | <a href="http://redirect.cvrve.me/22f225ed93685026573d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Vontier | Software Development Engineer in Test Intern | Simsbery, CT | <a href="http://redirect.cvrve.me/f0399a7ce427b1124b4a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | The Baldwin Group | Software Engineer Intern | Woodland Hills, CA | <a href="http://redirect.cvrve.me/b1fc7797955d111e830e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | SAS | IoT Systems Architect Intern - Masters 🛂 | Cary, NC</br>Remote | <a href="http://redirect.cvrve.me/6ef6fafe303eac54ca12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | IoT Product Strategy Intern - Masters | Cary, NC</br>Remote | <a href="http://redirect.cvrve.me/b0cc648c850ffaf71ae0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
