@@ -44557,5 +44557,23 @@
         "date_posted": 1732309553,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732309729,
+        "url": "http://redirect.cvrve.me/b0cc648c850ffaf71ae0",
+        "locations": [
+            "Cary, NC",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAS",
+        "title": "IoT Product Strategy Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "98e429f6-fa12-4cd8-81dc-115fa11ea3f7",
+        "date_posted": 1732309729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
