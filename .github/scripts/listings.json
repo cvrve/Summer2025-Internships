@@ -44593,5 +44593,23 @@
         "date_posted": 1732309862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732309990,
+        "url": "http://redirect.cvrve.me/44871d20cd0f33434012",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": "QA Automation Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2604dc6a-b63a-48ff-8f01-b0d669982010",
+        "date_posted": 1732309990,
+        "company_url": "",
+        "is_visible": true
     }
 ]
