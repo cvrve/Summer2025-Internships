@@ -44523,5 +44523,22 @@
         "date_posted": 1732309417,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732309449,
+        "url": "http://redirect.cvrve.me/acd393df2cfada7f5b50",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f781de8d-8cf4-4368-9e53-f8c62d39fb7f",
+        "date_posted": 1732309449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
