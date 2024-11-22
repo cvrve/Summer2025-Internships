@@ -44506,5 +44506,22 @@
         "date_posted": 1732309376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732309417,
+        "url": "http://redirect.cvrve.me/b1fc7797955d111e830e",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Baldwin Group",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eef531b9-4d5a-4a37-a543-c033640f51f9",
+        "date_posted": 1732309417,
+        "company_url": "",
+        "is_visible": true
     }
 ]
