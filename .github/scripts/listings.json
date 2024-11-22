@@ -44575,5 +44575,23 @@
         "date_posted": 1732309729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732309862,
+        "url": "http://redirect.cvrve.me/6ef6fafe303eac54ca12",
+        "locations": [
+            "Cary, NC",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "SAS",
+        "title": "IoT Systems Architect Intern - Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2cbb8ce8-ea89-4179-a9f2-99229bf55407",
+        "date_posted": 1732309862,
+        "company_url": "",
+        "is_visible": true
     }
 ]
