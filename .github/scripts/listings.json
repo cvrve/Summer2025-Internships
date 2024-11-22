@@ -44471,5 +44471,22 @@
         "date_posted": 1732224857,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732306018,
+        "url": "http://redirect.cvrve.me/968840fd2af084770aad",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fdf9e372-2bb5-4a30-b1b6-6a72393455f9",
+        "date_posted": 1732306018,
+        "company_url": "",
+        "is_visible": true
     }
 ]
