@@ -44715,5 +44715,22 @@
         "date_posted": 1732474569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732474626,
+        "url": "http://redirect.cvrve.me/31772e29d4e4de8eb3a3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Matroid",
+        "title": "Software Engineer Intern, Infrastructure",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f6b0fbd3-f154-4879-bd78-9d3401538f25",
+        "date_posted": 1732474626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
