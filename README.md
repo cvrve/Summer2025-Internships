@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zoetis | AI and Analytics Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/a2824145cc316f6d3ed1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Zoetis | Data Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ae61e03cc0da1e471fcb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ↳ | AI and Analytics Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/a2824145cc316f6d3ed1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | TRS | DevOps Engineer Intern | Austin, TX | <a href="http://redirect.cvrve.me/5cfcb75ebcd97f19ed9a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Samsung Research | Research Scientist Intern - Masters/PhD | Irvine, CA | <a href="http://redirect.cvrve.me/31e04478dc28ee32aa8b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ↳ | Computational Imaging Intern | Plano, TX | <a href="http://redirect.cvrve.me/233eac11d7fb7cb52796?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |

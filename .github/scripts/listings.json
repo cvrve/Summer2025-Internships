@@ -44938,5 +44938,23 @@
         "date_posted": 1732476431,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732479321,
+        "url": "http://redirect.cvrve.me/ae61e03cc0da1e471fcb",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoetis",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "40c9f292-fa9a-4e3c-9c31-3633fa7a24ef",
+        "date_posted": 1732479321,
+        "company_url": "",
+        "is_visible": true
     }
 ]
