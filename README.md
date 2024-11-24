@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoetis | AI and Analytics Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/a2824145cc316f6d3ed1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Zoetis | Tech and Digital Intern | Remote</br>US | <a href="http://redirect.cvrve.me/22f225ed93685026573d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Vontier | Software Development Engineer in Test Intern | Simsbery, CT | <a href="http://redirect.cvrve.me/f0399a7ce427b1124b4a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | SAS | IoT Systems Architect Intern - Masters 🛂 | Cary, NC</br>Remote | <a href="http://redirect.cvrve.me/6ef6fafe303eac54ca12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
