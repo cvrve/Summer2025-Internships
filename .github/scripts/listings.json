@@ -44749,5 +44749,23 @@
         "date_posted": 1732474664,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732474848,
+        "url": "http://redirect.cvrve.me/4dd9b759c7d1e05bdcf4",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "070d5776-6f52-40f0-b4c7-acae751aeee1",
+        "date_posted": 1732474848,
+        "company_url": "",
+        "is_visible": true
     }
 ]
