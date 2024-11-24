@@ -44921,5 +44921,22 @@
         "date_posted": 1732476367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732476431,
+        "url": "http://redirect.cvrve.me/5cfcb75ebcd97f19ed9a",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TRS",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b3c9e01-133f-495d-8840-483920701b83",
+        "date_posted": 1732476431,
+        "company_url": "",
+        "is_visible": true
     }
 ]
