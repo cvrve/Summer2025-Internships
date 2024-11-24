@@ -45026,5 +45026,22 @@
         "date_posted": 1732481228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732481298,
+        "url": "http://redirect.cvrve.me/9bdcf9fb10e87ec80b0f?utm_source=intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeid",
+        "title": "Sector Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f0929daf-90f8-4008-92c9-ddfab9d0026b",
+        "date_posted": 1732481298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
