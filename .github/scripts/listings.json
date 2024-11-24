@@ -44785,5 +44785,22 @@
         "date_posted": 1732474886,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732475000,
+        "url": "http://redirect.cvrve.me/ae4879a1bc57591ff230",
+        "locations": [
+            "Fountain Valley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hyundai",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0d20455f-1c4e-4399-8873-8d2f3eaa5f07",
+        "date_posted": 1732475000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
