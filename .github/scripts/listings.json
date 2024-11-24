@@ -44732,5 +44732,22 @@
         "date_posted": 1732474626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732474664,
+        "url": "http://redirect.cvrve.me/b36a53ccbfe399e76433",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "AI Powered Data & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d1b19423-301a-484e-9a17-5e86457f6b68",
+        "date_posted": 1732474664,
+        "company_url": "",
+        "is_visible": true
     }
 ]
