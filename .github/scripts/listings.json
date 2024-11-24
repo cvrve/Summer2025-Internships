@@ -44646,5 +44646,23 @@
         "date_posted": 1732474270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732474405,
+        "url": "http://redirect.cvrve.me/8a435235aa5c772257b3",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": ".NET Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cf141f3a-0630-4ee3-aba5-9e21f4bd2af2",
+        "date_posted": 1732474405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
