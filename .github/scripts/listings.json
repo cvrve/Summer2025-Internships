@@ -45009,5 +45009,22 @@
         "date_posted": 1732481154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732481228,
+        "url": "http://redirect.cvrve.me/2c2de2b603a08a97005d?utm_source=intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skylo",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7ff94bdb-b036-42d6-82a5-c4fbbfac3f24",
+        "date_posted": 1732481228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
