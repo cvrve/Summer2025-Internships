@@ -44973,5 +44973,23 @@
         "date_posted": 1732480384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732481109,
+        "url": "http://redirect.cvrve.me/08c58612e99088da221a?utm_source=intern",
+        "locations": [
+            "Greensboro, NC",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vontier",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a7de8305-e841-4037-8e39-6f033e9692a1",
+        "date_posted": 1732481109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
