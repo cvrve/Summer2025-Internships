@@ -4880,7 +4880,7 @@
             "Jersey City, NJ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "company_name": "BNY Mellon",
         "title": "Engineering Internship",
         "season": "Summer",
@@ -20114,7 +20114,7 @@
             "LocationUnited States"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Honeywell",
         "title": "Embedded Engineer Intern",
         "season": "Summer",
@@ -31900,7 +31900,7 @@
             "Moon Township, PA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Eaton",
         "title": "Firmware Engineer Intern",
         "season": "Summer",
@@ -39658,7 +39658,7 @@
             "Franksville, WI"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Eaton",
         "title": "Embedded Software Engineering Intern",
         "season": "Summer",
@@ -40547,7 +40547,7 @@
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Thermo Fisher",
         "title": "Artificial Intelligence Intern",
         "season": "Summer",
@@ -40853,7 +40853,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Intelsat",
         "title": "Reliability Data Science Intern",
         "season": "Summer",
@@ -40887,7 +40887,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Intelsat",
         "title": "Airborne Software Intern",
         "season": "Summer",
@@ -44258,7 +44258,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Vertex",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -44531,7 +44531,7 @@
             "Mayfield Heights, OH"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Rockwell Automation",
         "title": "Software Engineer Intern",
         "season": "Summer",
