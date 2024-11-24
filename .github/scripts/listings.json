@@ -44819,5 +44819,22 @@
         "date_posted": 1732475034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732475092,
+        "url": "http://redirect.cvrve.me/6f16b3430b624b9c79f8",
+        "locations": [
+            "Fountain Valley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hyundai",
+        "title": "Owner App and Website Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8726d5f8-e0c1-4e7e-9269-80da321e2f73",
+        "date_posted": 1732475092,
+        "company_url": "",
+        "is_visible": true
     }
 ]
