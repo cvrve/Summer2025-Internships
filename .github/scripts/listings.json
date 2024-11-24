@@ -44956,5 +44956,22 @@
         "date_posted": 1732479321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732480384,
+        "url": "http://redirect.cvrve.me/75c6ce04a06a4073a4dd?utm_source=intern",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vontier",
+        "title": "Software Quality Assurance Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f33f435b-f405-4766-bb8c-2c98f842f519",
+        "date_posted": 1732480384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
