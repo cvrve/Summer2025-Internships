@@ -44870,5 +44870,22 @@
         "date_posted": 1732475301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732475592,
+        "url": "http://redirect.cvrve.me/3916f7c1f1d2e2778105",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Web Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "668af3a8-1cac-417b-a111-bec3a78f7b0e",
+        "date_posted": 1732475592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
