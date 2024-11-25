@@ -45043,5 +45043,40 @@
         "date_posted": 1732481298,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732562108,
+        "url": "http://redirect.cvrve.me/03ea920c21682fb7e212?utm_source=intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The RealReal",
+        "title": "Product Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "115d439f-1c2b-4c87-b7d3-cd79a5d7ddea",
+        "date_posted": 1732562108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732562113,
+        "url": "http://redirect.cvrve.me/b7f3aa3b55f079ff67ef?utm_source=intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The RealReal",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8a0b604d-e643-430a-97c4-af329727a226",
+        "date_posted": 1732562113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
