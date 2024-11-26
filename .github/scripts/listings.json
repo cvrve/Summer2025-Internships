@@ -45267,5 +45267,22 @@
         "date_posted": 1732591099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732591203,
+        "url": "http://redirect.cvrve.me/de120a1eb808888df4ec",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Truist",
+        "title": "Sales, Trading & Research Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "45cf2d20-32fa-412e-8758-2dff2d7a9e97",
+        "date_posted": 1732591203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
