@@ -45284,5 +45284,22 @@
         "date_posted": 1732591203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732591365,
+        "url": "http://redirect.cvrve.me/b1daf7d96cca8696a5a2",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Truist",
+        "title": "Sales, Trading & Research Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "644941be-f9ed-4481-8e0a-ffcd432cff82",
+        "date_posted": 1732591365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
