@@ -45567,5 +45567,22 @@
         "date_posted": 1732650033,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732650059,
+        "url": "http://redirect.cvrve.me/f4d4c93f3e95f2977d29",
+        "locations": [
+            "Santa Ana, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinetic",
+        "title": "Machine Learning Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aebf4e24-7f27-47db-a1a3-64afd33d54bb",
+        "date_posted": 1732650059,
+        "company_url": "",
+        "is_visible": true
     }
 ]
