@@ -45146,5 +45146,22 @@
         "date_posted": 1732590730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590774,
+        "url": "http://redirect.cvrve.me/3e837baafd07146f431a",
+        "locations": [
+            "Johnston, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dassault Systemes",
+        "title": "3D Simulation Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "28104eda-4e74-4824-8db3-3bf913d3485c",
+        "date_posted": 1732590774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
