@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wacker | Application Development Intern | Ann Arbor, MI | <a href="http://redirect.cvrve.me/719d6ca8d38f79633e69?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | The RealReal | Product Management Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/b7f3aa3b55f079ff67ef?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Product Analytics Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/03ea920c21682fb7e212?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Seagate | Software Development Research Engineer | Longmont, CO | <a href="http://redirect.cvrve.me/1fd0cfa4adcbe5773c8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |

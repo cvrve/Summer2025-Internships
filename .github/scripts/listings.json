@@ -45163,5 +45163,22 @@
         "date_posted": 1732590774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590822,
+        "url": "http://redirect.cvrve.me/719d6ca8d38f79633e69",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wacker",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db624354-2a75-4bfb-99b7-277a8b3d4425",
+        "date_posted": 1732590822,
+        "company_url": "",
+        "is_visible": true
     }
 ]
