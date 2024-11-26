@@ -45112,5 +45112,22 @@
         "date_posted": 1732590627,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590697,
+        "url": "http://redirect.cvrve.me/895fda5191410cabc32d",
+        "locations": [
+            "Moon Township, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Embedded Electronics Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "362b0678-aaf9-4180-850f-b3536b1254e1",
+        "date_posted": 1732590697,
+        "company_url": "",
+        "is_visible": true
     }
 ]
