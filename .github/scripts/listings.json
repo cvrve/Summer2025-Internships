@@ -45550,5 +45550,22 @@
         "date_posted": 1732649940,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732650033,
+        "url": "http://redirect.cvrve.me/bc455a4f2c2e0056e505",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ribbon",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c42e460f-fb52-4790-8e09-f7927b5515f9",
+        "date_posted": 1732650033,
+        "company_url": "",
+        "is_visible": true
     }
 ]

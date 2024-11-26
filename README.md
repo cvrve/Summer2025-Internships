@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Ribbon | Machine Learning Intern | Westford, MA | <a href="http://redirect.cvrve.me/bc455a4f2c2e0056e505?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Hugging Face | Machine Learning Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0cae830775dc32460cff?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | ↳ | Machine Learning Engineer Intern, Accelerate | Remote</br>US</br>New York, NY | <a href="http://redirect.cvrve.me/0897ac946a8abc79cf6b?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | ↳ | Machine Learning Engineer Intern, Quantization | Remote</br>US | <a href="http://redirect.cvrve.me/ef52adaec84cea6d6208?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
