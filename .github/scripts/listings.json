@@ -45533,5 +45533,22 @@
         "date_posted": 1732646173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732649940,
+        "url": "http://redirect.cvrve.me/bbd419010065ff1afb8c",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arc",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7fd3624-30c9-4949-ab3d-02f60756b460",
+        "date_posted": 1732649940,
+        "company_url": "",
+        "is_visible": true
     }
 ]
