@@ -45515,5 +45515,23 @@
         "date_posted": 1732646149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646173,
+        "url": "http://redirect.cvrve.me/0cae830775dc32460cff?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c8eea110-7a29-4581-9588-65e574ce1655",
+        "date_posted": 1732646173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
