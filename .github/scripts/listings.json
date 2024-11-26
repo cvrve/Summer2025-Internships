@@ -45478,5 +45478,23 @@
         "date_posted": 1732646075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646109,
+        "url": "http://redirect.cvrve.me/ef52adaec84cea6d6208?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Quantization",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "decdd64c-4899-4657-ac79-2636ff9e2a03",
+        "date_posted": 1732646109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
