@@ -45352,5 +45352,22 @@
         "date_posted": 1732591590,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732591664,
+        "url": "http://redirect.cvrve.me/e91b864ec799e03e0329",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elekta",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d0e9e2cd-53b1-46dc-9386-dce6ba64b9f1",
+        "date_posted": 1732591664,
+        "company_url": "",
+        "is_visible": true
     }
 ]
