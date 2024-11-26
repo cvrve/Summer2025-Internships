@@ -45442,5 +45442,23 @@
         "date_posted": 1732646016,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646044,
+        "url": "http://redirect.cvrve.me/23ed7a3f1bc1c8c41823?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "ML Research Engineer Intern, FineWeb",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f33d8a58-2bd3-4efb-9dac-2c1c881efaa1",
+        "date_posted": 1732646044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
