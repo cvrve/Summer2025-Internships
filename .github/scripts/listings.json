@@ -45601,5 +45601,22 @@
         "date_posted": 1732650088,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732650397,
+        "url": "http://redirect.cvrve.me/365d1a37ff48400438ff",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Software Developer Sustainability Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4852e9d4-7a80-491b-a32b-e1a3dfbd9d3f",
+        "date_posted": 1732650397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
