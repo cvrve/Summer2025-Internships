@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoetis | AI Micro Tools Developer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/fed6ebe02629d8e70194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Zebra | Software Engineer Intern | Lincoln, NE</br>Lincolnshire, IL | <a href="http://redirect.cvrve.me/2612f18ebc49e1b5b88a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Wacker | Application Development Intern | Ann Arbor, MI | <a href="http://redirect.cvrve.me/719d6ca8d38f79633e69?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | The RealReal | Product Management Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/b7f3aa3b55f079ff67ef?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
