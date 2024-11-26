@@ -46,6 +46,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Hugging Face | Machine Learning Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/0cae830775dc32460cff?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | Machine Learning Engineer Intern, Accelerate | Remote</br>US</br>New York, NY | <a href="http://redirect.cvrve.me/0897ac946a8abc79cf6b?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | Machine Learning Engineer Intern, Quantization | Remote</br>US | <a href="http://redirect.cvrve.me/ef52adaec84cea6d6208?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | Machine Learning Engineer Intern,  WebML | Remote</br>US | <a href="http://redirect.cvrve.me/9941856edffd97c9fe49?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | ML Research Engineer Intern, FineWeb | Remote</br>US | <a href="http://redirect.cvrve.me/23ed7a3f1bc1c8c41823?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | Machine Learning Engineer Intern, AI Energy Score | Remote</br>New York, NY</br>US | <a href="http://redirect.cvrve.me/a0dec59320efc17c7ff2?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | Machine Learning Engineer Intern, Information Retrieval | Remote</br>US | <a href="http://redirect.cvrve.me/1c3f7fa8583d879de323?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| ↳ | ML Research Engineer Intern, SmolLMs pretraining and datasets | Remote</br>US | <a href="http://redirect.cvrve.me/5762085903017738919a?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Zoetis | AI Micro Tools Developer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/fed6ebe02629d8e70194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Zebra | Software Engineer Intern | Lincoln, NE</br>Lincolnshire, IL | <a href="http://redirect.cvrve.me/2612f18ebc49e1b5b88a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Wacker | Application Development Intern | Ann Arbor, MI | <a href="http://redirect.cvrve.me/719d6ca8d38f79633e69?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
