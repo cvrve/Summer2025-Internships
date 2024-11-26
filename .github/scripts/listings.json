@@ -45584,5 +45584,22 @@
         "date_posted": 1732650059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732650088,
+        "url": "http://redirect.cvrve.me/7dafa4ab756dc1f475ab",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist",
+        "title": "QA Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d6c8627-41df-49f0-bc19-e4caf6c833b8",
+        "date_posted": 1732650088,
+        "company_url": "",
+        "is_visible": true
     }
 ]
