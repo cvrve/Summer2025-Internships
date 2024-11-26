@@ -45387,5 +45387,23 @@
         "date_posted": 1732591838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732645917,
+        "url": "http://redirect.cvrve.me/5762085903017738919a?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "ML Research Engineer Intern, SmolLMs pretraining and datasets",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "04bfee93-a160-4fcb-be7c-501b6df6c1e5",
+        "date_posted": 1732645917,
+        "company_url": "",
+        "is_visible": true
     }
 ]
