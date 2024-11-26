@@ -45423,5 +45423,24 @@
         "date_posted": 1732645961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646016,
+        "url": "http://redirect.cvrve.me/a0dec59320efc17c7ff2?utm_source=intern",
+        "locations": [
+            "Remote",
+            "New York, NY",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, AI Energy Score",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0ac8ec9e-b021-4a1f-b73f-2e1072edf87c",
+        "date_posted": 1732646016,
+        "company_url": "",
+        "is_visible": true
     }
 ]
