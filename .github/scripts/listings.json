@@ -45496,5 +45496,24 @@
         "date_posted": 1732646109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732646149,
+        "url": "http://redirect.cvrve.me/0897ac946a8abc79cf6b?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Accelerate",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bae59ffb-f5a8-4e5c-a9fe-214648ad69ce",
+        "date_posted": 1732646149,
+        "company_url": "",
+        "is_visible": true
     }
 ]
