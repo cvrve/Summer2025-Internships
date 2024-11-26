@@ -45078,5 +45078,22 @@
         "date_posted": 1732562113,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590520,
+        "url": "http://redirect.cvrve.me/d04acc86f3fd34ff67af",
+        "locations": [
+            "Akron, OH"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "DRB",
+        "title": "QA Automation Intern",
+        "season": "Summer",
+        "source": "dhruvvagadiya",
+        "id": "3f919aff-1e58-4be4-af07-5b13dce99db7",
+        "date_posted": 1732590520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
