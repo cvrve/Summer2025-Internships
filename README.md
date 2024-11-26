@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | The RealReal | Product Management Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/b7f3aa3b55f079ff67ef?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Product Analytics Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/03ea920c21682fb7e212?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| Seagate | Software Development Research Engineer | Longmont, CO | <a href="http://redirect.cvrve.me/1fd0cfa4adcbe5773c8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | DRB | QA Automation Intern | Akron, OH | <a href="http://redirect.cvrve.me/d04acc86f3fd34ff67af?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Zoetis | Data Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ae61e03cc0da1e471fcb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ↳ | AI and Analytics Intern - Masters/PhD | Remote</br>US | <a href="http://redirect.cvrve.me/a2824145cc316f6d3ed1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
