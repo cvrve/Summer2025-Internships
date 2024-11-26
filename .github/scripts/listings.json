@@ -45129,5 +45129,22 @@
         "date_posted": 1732590697,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590730,
+        "url": "http://redirect.cvrve.me/07fc0df742583a988326",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sanmina",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "df50be5b-c450-433b-9010-3c8ef83d32f5",
+        "date_posted": 1732590730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
