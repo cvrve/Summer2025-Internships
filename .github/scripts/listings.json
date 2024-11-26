@@ -45387,5 +45387,151 @@
         "date_posted": 1732591838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732645917,
+        "url": "http://redirect.cvrve.me/5762085903017738919a?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "ML Research Engineer Intern, SmolLMs pretraining and datasets",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "04bfee93-a160-4fcb-be7c-501b6df6c1e5",
+        "date_posted": 1732645917,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732645961,
+        "url": "http://redirect.cvrve.me/1c3f7fa8583d879de323?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Information Retrieval",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ace26c4f-ffe0-4994-8280-1691e7ae8cc9",
+        "date_posted": 1732645961,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646016,
+        "url": "http://redirect.cvrve.me/a0dec59320efc17c7ff2?utm_source=intern",
+        "locations": [
+            "Remote",
+            "New York, NY",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, AI Energy Score",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0ac8ec9e-b021-4a1f-b73f-2e1072edf87c",
+        "date_posted": 1732646016,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646044,
+        "url": "http://redirect.cvrve.me/23ed7a3f1bc1c8c41823?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "ML Research Engineer Intern, FineWeb",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f33d8a58-2bd3-4efb-9dac-2c1c881efaa1",
+        "date_posted": 1732646044,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646075,
+        "url": "http://redirect.cvrve.me/9941856edffd97c9fe49?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern,  WebML",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0e7c1158-31cd-4311-8fb1-a025690ea3db",
+        "date_posted": 1732646075,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646109,
+        "url": "http://redirect.cvrve.me/ef52adaec84cea6d6208?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Quantization",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "decdd64c-4899-4657-ac79-2636ff9e2a03",
+        "date_posted": 1732646109,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646149,
+        "url": "http://redirect.cvrve.me/0897ac946a8abc79cf6b?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Accelerate",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bae59ffb-f5a8-4e5c-a9fe-214648ad69ce",
+        "date_posted": 1732646149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732646173,
+        "url": "http://redirect.cvrve.me/0cae830775dc32460cff?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c8eea110-7a29-4581-9588-65e574ce1655",
+        "date_posted": 1732646173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
