@@ -45214,5 +45214,23 @@
         "date_posted": 1732590899,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590948,
+        "url": "http://redirect.cvrve.me/2612f18ebc49e1b5b88a",
+        "locations": [
+            "Lincoln, NE",
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "78cd0fc4-a639-44d7-b479-43132ecdba60",
+        "date_posted": 1732590948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
