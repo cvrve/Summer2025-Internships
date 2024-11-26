@@ -45405,5 +45405,23 @@
         "date_posted": 1732645917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732645961,
+        "url": "http://redirect.cvrve.me/1c3f7fa8583d879de323?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hugging Face",
+        "title": "Machine Learning Engineer Intern, Information Retrieval",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ace26c4f-ffe0-4994-8280-1691e7ae8cc9",
+        "date_posted": 1732645961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
