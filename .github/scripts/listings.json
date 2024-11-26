@@ -45197,5 +45197,22 @@
         "date_posted": 1732590852,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732590899,
+        "url": "http://redirect.cvrve.me/9356ba2d5fa050ba66f5",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AppLovin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "75d5d5f9-d9c0-4050-b591-b76f69b85f2c",
+        "date_posted": 1732590899,
+        "company_url": "",
+        "is_visible": true
     }
 ]
