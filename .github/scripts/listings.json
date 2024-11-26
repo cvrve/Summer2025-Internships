@@ -45318,5 +45318,22 @@
         "date_posted": 1732591465,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732591535,
+        "url": "http://redirect.cvrve.me/d1c5fb72126ce20bf9c2",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Field Application Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "21de0662-ad35-409a-b7af-2d59efc77c46",
+        "date_posted": 1732591535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
