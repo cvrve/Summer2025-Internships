@@ -45840,5 +45840,22 @@
         "date_posted": 1732778059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732778083,
+        "url": "http://redirect.cvrve.me/d753735817491080d755",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "GPU Tools Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "33a79aa5-61ed-4f84-8931-503d97bd3557",
+        "date_posted": 1732778083,
+        "company_url": "",
+        "is_visible": true
     }
 ]
