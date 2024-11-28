@@ -45721,5 +45721,22 @@
         "date_posted": 1732777295,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732777392,
+        "url": "http://redirect.cvrve.me/3979bf9c9353c1b38f78",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "40e0c883-0862-4e66-83b6-4204487e28c5",
+        "date_posted": 1732777392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
