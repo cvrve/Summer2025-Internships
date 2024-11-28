@@ -45789,5 +45789,22 @@
         "date_posted": 1732777871,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732777921,
+        "url": "http://redirect.cvrve.me/e64d43456e6268548220",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Farm Credit",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "26fbd07c-0644-4182-bb98-30297e4d6e6d",
+        "date_posted": 1732777921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
