@@ -45806,5 +45806,22 @@
         "date_posted": 1732777921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732778019,
+        "url": "http://redirect.cvrve.me/f4a1121de90839dd8a8e",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Networking Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a74bd3d4-99cd-44df-a2d0-6ff351daa1ad",
+        "date_posted": 1732778019,
+        "company_url": "",
+        "is_visible": true
     }
 ]
