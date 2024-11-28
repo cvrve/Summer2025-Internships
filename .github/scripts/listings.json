@@ -45738,5 +45738,22 @@
         "date_posted": 1732777392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732777516,
+        "url": "http://redirect.cvrve.me/baf1e9bf25b7608e9b7b",
+        "locations": [
+            "St. Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "CRM R&D Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0546aa67-192b-41d5-be7b-d96355ebe23f",
+        "date_posted": 1732777516,
+        "company_url": "",
+        "is_visible": true
     }
 ]
