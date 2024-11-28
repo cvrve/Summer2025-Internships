@@ -45857,5 +45857,22 @@
         "date_posted": 1732778083,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732778137,
+        "url": "http://redirect.cvrve.me/672630257c2586a78f96",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2f60125c-80d0-44ca-a23b-d8edf791c086",
+        "date_posted": 1732778137,
+        "company_url": "",
+        "is_visible": true
     }
 ]
