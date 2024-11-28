@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Meta | Asic Engineer Intern - Masters/PhD | Sunnyvale, CA | <a href="http://redirect.cvrve.me/e40a2a9b80905f0906b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
+| Genesys | Software Engineer Intern | Indianapolis, IN | <a href="http://redirect.cvrve.me/ea3677e4443dcee3cfd7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Draper | Vision-aided Navigation & Perception Intern | Cambridge, MA | <a href="http://redirect.cvrve.me/9e247dbf55885b7017d3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | SAP | Software Developer Sustainability Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/365d1a37ff48400438ff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Ribbon | Machine Learning Intern | Westford, MA | <a href="http://redirect.cvrve.me/bc455a4f2c2e0056e505?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
