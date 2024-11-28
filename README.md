@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoox | Full Stack Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/ecd78ce8c486912125b8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Vizient | Software Engineer Intern | Chicago, IL</br>Irving, TX | <a href="http://redirect.cvrve.me/601a000c81c66ef4fb55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
-| UE | Software Development Intern | Bethesda, MD | <a href="http://redirect.cvrve.me/694b5d88fd25fc42ee54?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
+| UE | Product Management Intern | Bethesda, MD | <a href="http://redirect.cvrve.me/f2fae7d7fa130813fe23?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
+| ↳ | Software Development Intern | Bethesda, MD | <a href="http://redirect.cvrve.me/694b5d88fd25fc42ee54?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Tesla | Embedded Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/3979bf9c9353c1b38f78?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Nintendo | GPU Tools Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/d753735817491080d755?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | ↳ | Wireless Software Engineer Intern | Redmond, WA | <a href="http://redirect.cvrve.me/45391207aaf9cf76fdc5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |

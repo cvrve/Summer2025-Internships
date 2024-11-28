@@ -45891,5 +45891,22 @@
         "date_posted": 1732778176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732778620,
+        "url": "http://redirect.cvrve.me/f2fae7d7fa130813fe23",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UE",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b183c24c-4e67-410c-9726-812bb2be58f2",
+        "date_posted": 1732778620,
+        "company_url": "",
+        "is_visible": true
     }
 ]
