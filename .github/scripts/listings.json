@@ -45669,5 +45669,22 @@
         "date_posted": 1732777140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732777180,
+        "url": "http://redirect.cvrve.me/e40a2a9b80905f0906b3",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Asic Engineer Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "37e174fd-21ee-49b2-a5a1-391fda051453",
+        "date_posted": 1732777180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
