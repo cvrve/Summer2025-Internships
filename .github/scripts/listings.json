@@ -45908,5 +45908,227 @@
         "date_posted": 1732778620,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1732995286,
+        "url": "https://redirect.cvrve.me/537f84827c8d39f4b1cb",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nvidia",
+        "title": "Software Engineering Intern, JAX",
+        "source": "vanshb03",
+        "id": "9005d735-400f-45d5-9622-c304acee7964",
+        "date_posted": 1732995286,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995287,
+        "url": "https://redirect.cvrve.me/5eb9272552c6af58db67",
+        "locations": [
+            "Hartford, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Empower",
+        "title": "DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "25d04887-f460-4409-804e-e8d52910f102",
+        "date_posted": 1732995287,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995301,
+        "url": "https://redirect.cvrve.me/a9f3d493570483383008",
+        "locations": [
+            "Hartford, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Empower",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4a65828c-e842-4db9-b4d9-189ae7d0fee6",
+        "date_posted": 1732995301,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995307,
+        "url": "https://redirect.cvrve.me/61ef4fcc612116b447da",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arc Boats",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "62c5db3e-9015-42a0-bfb4-3445c48b707e",
+        "date_posted": 1732995307,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995308,
+        "url": "https://redirect.cvrve.me/f5f1b625b47ef8a8273b",
+        "locations": [
+            "Santa Ana, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinetic",
+        "title": "Machine Learning Research Intern",
+        "source": "vanshb03",
+        "id": "847ae283-3722-4209-a22b-f8a1960a1732",
+        "date_posted": 1732995308,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995310,
+        "url": "https://redirect.cvrve.me/47cb4453f8027989ec12",
+        "locations": [
+            "Westford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ribbon Communications",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "bce567fd-5311-4edf-9c26-97b23e085843",
+        "date_posted": 1732995310,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995310,
+        "url": "https://redirect.cvrve.me/80db4d5a15a6c7e2507e",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Farm Credit",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "c280bdd5-00b4-4a08-adef-9e232ab28ad1",
+        "date_posted": 1732995310,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995311,
+        "url": "https://redirect.cvrve.me/4fcc6e132c9196430cb5",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4c88d354-1d43-4dc8-82e1-bb1780e56f77",
+        "date_posted": 1732995311,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995313,
+        "url": "https://redirect.cvrve.me/4515141eca657dced465",
+        "locations": [
+            "Chicago, IL",
+            "Irving, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vizient",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7290197a-cb59-4956-9797-a6de45aa3c0c",
+        "date_posted": 1732995313,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995318,
+        "url": "https://redirect.cvrve.me/b75d7fa63dce1275658f",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper Group",
+        "title": "Data Governance Intern, Xome",
+        "source": "vanshb03",
+        "id": "6775e76f-ae2b-4867-882d-96cbade01b1a",
+        "date_posted": 1732995318,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995318,
+        "url": "https://redirect.cvrve.me/5ff50774bb739f24c436",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper Group",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "c040ad6d-7e00-49a7-88d4-34073cfeb086",
+        "date_posted": 1732995318,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995319,
+        "url": "https://redirect.cvrve.me/fa1b27b5bd2239739140",
+        "locations": [
+            "Lewisville, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper Group",
+        "title": "API Developer Portal Intern, XOME",
+        "source": "vanshb03",
+        "id": "2a1d9d1c-79ed-4895-b68f-35e4aea36b2c",
+        "date_posted": 1732995319,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1732995320,
+        "url": "https://redirect.cvrve.me/2dde3223caf664390566",
+        "locations": [
+            "Lewisville, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper Group",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "83c46be2-4056-49bf-a3c4-63097fff17af",
+        "date_posted": 1732995320,
+        "company_url": "",
+        "is_visible": true
     }
 ]
