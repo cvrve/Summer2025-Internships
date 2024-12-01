@@ -46266,5 +46266,23 @@
         "date_posted": 1733076429,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733077874,
+        "url": "https://redirect.cvrve.me/392dc0a9327a6ff10be2",
+        "locations": [
+            "Los Angeles, CA",
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Data Visualization Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c5f2956f-00f1-45b9-99b2-afff92323933",
+        "date_posted": 1733077874,
+        "company_url": "",
+        "is_visible": true
     }
 ]
