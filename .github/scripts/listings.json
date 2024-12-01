@@ -46164,5 +46164,22 @@
         "date_posted": 1733071641131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733071664431,
+        "url": "https://redirect.cvrve.me/0150396f6620c581082f",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "Subscriptions Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92fc3136-6863-4045-a448-cc5fce6652e5",
+        "date_posted": 1733071664431,
+        "company_url": "",
+        "is_visible": true
     }
 ]
