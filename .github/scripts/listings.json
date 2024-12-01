@@ -13286,7 +13286,7 @@
             "Westfield Center, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Westfield",
         "title": "Application Development Engineer Intern",
         "season": "Summer",
@@ -13713,7 +13713,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thermo Fisher Scientific",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -13971,7 +13971,7 @@
             "La Crosse, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trane Technologies",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14264,7 +14264,7 @@
             "Hunt Valley, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Textron",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14434,7 +14434,7 @@
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -14519,7 +14519,7 @@
             "Dakota Dunes, SD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "empirical",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -15085,7 +15085,7 @@
             "Torrance, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epirus",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16100,7 +16100,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Playground",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16290,7 +16290,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -16324,7 +16324,7 @@
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "Site Reliability Engineer Intern",
         "season": "Summer",
