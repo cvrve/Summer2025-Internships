@@ -46,6 +46,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| The Washington Post | Site Engineering Intern | Washington, DC | <a href="https://redirect.cvrve.me/0e203ab0f702f971c984?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| ↳ | Subscriptions Engineer Intern | Washington, DC | <a href="https://redirect.cvrve.me/0150396f6620c581082f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| ↳ | Android Apps Intern | Washington, DC | <a href="https://redirect.cvrve.me/25c339469f549a21aee2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| ↳ | Creator Experience Intern | Washington, DC | <a href="https://redirect.cvrve.me/f2304f074d18e875d1bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | Vizient | Software Engineering Intern | Chicago, IL</br>Irving, TX | <a href="https://redirect.cvrve.me/4515141eca657dced465?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | Ribbon Communications | Machine Learning Intern | Westford, MA | <a href="https://redirect.cvrve.me/47cb4453f8027989ec12?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | Nvidia | Software Engineering Intern, JAX | Santa Clara, CA | <a href="https://redirect.cvrve.me/537f84827c8d39f4b1cb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
