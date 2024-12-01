@@ -46147,5 +46147,22 @@
         "date_posted": 1733071540385,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733071641131,
+        "url": "https://redirect.cvrve.me/25c339469f549a21aee2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "Android Apps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "84d5f28b-e8be-40d8-8e79-08c42bb67b4a",
+        "date_posted": 1733071641131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
