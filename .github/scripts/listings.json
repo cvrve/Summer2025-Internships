@@ -46284,5 +46284,23 @@
         "date_posted": 1733077874,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733078218,
+        "url": "https://redirect.cvrve.me/0addefd44d5013193c9e",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CME Group",
+        "title": "Cyber Defense Response Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1b79e632-b9e1-4304-a641-e9263a44feb4",
+        "date_posted": 1733078218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
