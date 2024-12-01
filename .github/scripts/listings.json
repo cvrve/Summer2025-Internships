@@ -46249,5 +46249,22 @@
         "date_posted": 1733076424,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733076429,
+        "url": "https://redirect.cvrve.me/4de66b4d25566fa70749",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "Product Monetization Intern",
+        "source": "vanshb03",
+        "id": "dcd2acd7-e514-45b4-9e64-3c857eda6362",
+        "date_posted": 1733076429,
+        "company_url": "",
+        "is_visible": true
     }
 ]
