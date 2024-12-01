@@ -46232,5 +46232,22 @@
         "date_posted": 1733076412,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733076424,
+        "url": "https://redirect.cvrve.me/23525985a115906c043f",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "iOS Apps Intern",
+        "source": "vanshb03",
+        "id": "490205b0-83a3-4667-abc3-7eb624209cb2",
+        "date_posted": 1733076424,
+        "company_url": "",
+        "is_visible": true
     }
 ]
