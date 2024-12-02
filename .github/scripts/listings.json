@@ -46302,5 +46302,22 @@
         "date_posted": 1733078218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107050,
+        "url": "https://redirect.cvrve.me/82c71fa517fbd9f18789",
+        "locations": [
+            "Hesston, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AGCO",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9895b87b-713e-4c9b-877e-a9313c7e8b1c",
+        "date_posted": 1733107050,
+        "company_url": "",
+        "is_visible": true
     }
 ]
