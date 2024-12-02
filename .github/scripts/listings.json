@@ -46370,5 +46370,22 @@
         "date_posted": 1733107501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107506,
+        "url": "https://redirect.cvrve.me/5dc771d69077e0cf6401",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Installers Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "f657d889-13a7-4218-b943-ef817b298e5c",
+        "date_posted": 1733107506,
+        "company_url": "",
+        "is_visible": true
     }
 ]
