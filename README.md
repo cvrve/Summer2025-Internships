@@ -46,15 +46,19 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Visa | Software Engineer Intern | Bellevue, WA | <a href="https://redirect.cvrve.me/9dc01c7a6682238b0c6e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | The Washington Post | Product Monetization Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/4de66b4d25566fa70749?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | iOS Apps Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/23525985a115906c043f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | Site Engineering Intern | Washington, DC | <a href="https://redirect.cvrve.me/0e203ab0f702f971c984?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | Subscriptions Engineer Intern | Washington, DC | <a href="https://redirect.cvrve.me/0150396f6620c581082f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | Android Apps Intern | Washington, DC | <a href="https://redirect.cvrve.me/25c339469f549a21aee2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | Creator Experience Intern | Washington, DC | <a href="https://redirect.cvrve.me/f2304f074d18e875d1bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| Nintendo | CPU Debugger Software Engineer Intern, NTD | Redmond, WA | <a href="https://redirect.cvrve.me/74a9f0e901034ffcb60a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| ↳ | Installers Software Engineer Intern, NTD | Redmond, WA | <a href="https://redirect.cvrve.me/5dc771d69077e0cf6401?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | Netflix | Data Visualization Engineer Intern | Los Angeles, CA</br>Los Gatos, CA | <a href="https://redirect.cvrve.me/392dc0a9327a6ff10be2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | Hologic | IT Applications Governance Intern | Marlborough, MA | <a href="https://redirect.cvrve.me/9e462c7fa55de9f40cfc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | R&D Software Engineering Intern | San Diego, CA | <a href="https://redirect.cvrve.me/82bef4f3f046ab9796df?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
+| CrowdStrike | Engineer Intern, TechOps | Remote | <a href="https://redirect.cvrve.me/97936a30c90673885410?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | CME Group | Cyber Defense Response Intern | Chicago, IL</br>New York, NY | <a href="https://redirect.cvrve.me/0addefd44d5013193c9e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | AGCO | DevOps Intern | Hesston, KS | <a href="https://redirect.cvrve.me/82c71fa517fbd9f18789?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 |  International Motors | Software Development Intern 🛂 | Lisle, IL | <a href="https://redirect.cvrve.me/9747bf576da6c99dbc38?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
