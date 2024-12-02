@@ -46302,5 +46302,39 @@
         "date_posted": 1733078218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107050,
+        "url": "https://redirect.cvrve.me/82c71fa517fbd9f18789",
+        "locations": [
+            "Hesston, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AGCO",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9895b87b-713e-4c9b-877e-a9313c7e8b1c",
+        "date_posted": 1733107050,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107103,
+        "url": "https://redirect.cvrve.me/9747bf576da6c99dbc38",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": " International Motors",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "edb1c1aa-6bc3-45d1-b91b-3ba94bd6ce3e",
+        "date_posted": 1733107103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
