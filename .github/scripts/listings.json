@@ -46319,5 +46319,22 @@
         "date_posted": 1733107050,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107103,
+        "url": "https://redirect.cvrve.me/9747bf576da6c99dbc38",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": " International Motors",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "edb1c1aa-6bc3-45d1-b91b-3ba94bd6ce3e",
+        "date_posted": 1733107103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
