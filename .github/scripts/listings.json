@@ -46336,5 +46336,73 @@
         "date_posted": 1733107103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107493,
+        "url": "https://redirect.cvrve.me/97936a30c90673885410",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Engineer Intern, TechOps",
+        "source": "vanshb03",
+        "id": "58fd3385-d37f-42cb-b1b1-699c845d6b6d",
+        "date_posted": 1733107493,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107501,
+        "url": "https://redirect.cvrve.me/9dc01c7a6682238b0c6e",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7f4eb28a-a625-48e3-976f-dcef1bbc9847",
+        "date_posted": 1733107501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107506,
+        "url": "https://redirect.cvrve.me/5dc771d69077e0cf6401",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Installers Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "f657d889-13a7-4218-b943-ef817b298e5c",
+        "date_posted": 1733107506,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107532,
+        "url": "https://redirect.cvrve.me/74a9f0e901034ffcb60a",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "CPU Debugger Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "16f003c6-0010-42a5-a29f-61a7ce85f15f",
+        "date_posted": 1733107532,
+        "company_url": "",
+        "is_visible": true
     }
 ]
