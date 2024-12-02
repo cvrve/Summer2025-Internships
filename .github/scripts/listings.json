@@ -46336,5 +46336,22 @@
         "date_posted": 1733107103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107493,
+        "url": "https://redirect.cvrve.me/97936a30c90673885410",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Engineer Intern, TechOps",
+        "source": "vanshb03",
+        "id": "58fd3385-d37f-42cb-b1b1-699c845d6b6d",
+        "date_posted": 1733107493,
+        "company_url": "",
+        "is_visible": true
     }
 ]
