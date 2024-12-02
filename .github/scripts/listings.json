@@ -46387,5 +46387,22 @@
         "date_posted": 1733107506,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733107532,
+        "url": "https://redirect.cvrve.me/74a9f0e901034ffcb60a",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "CPU Debugger Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "16f003c6-0010-42a5-a29f-61a7ce85f15f",
+        "date_posted": 1733107532,
+        "company_url": "",
+        "is_visible": true
     }
 ]
