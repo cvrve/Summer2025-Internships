@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Raven | Computer Graphics Intern | <details><summary>**4 locations**</summary>Playa Vista, CA</br>Portland, ME</br>Middleton, WI</br>Sherman Oaks, CA</details> | <a href="https://redirect.cvrve.me/b0e0a71177c9ae3af626?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
+| GTI Energy | Software Developer Intern | Des Plain, IL | <a href="https://redirect.cvrve.me/f49e13285991979f08e0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Visa | Software Engineer Intern | Bellevue, WA | <a href="https://redirect.cvrve.me/9dc01c7a6682238b0c6e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | The Washington Post | Product Monetization Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/4de66b4d25566fa70749?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
 | ↳ | iOS Apps Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/23525985a115906c043f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 01 |
