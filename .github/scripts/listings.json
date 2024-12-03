@@ -46404,5 +46404,22 @@
         "date_posted": 1733107532,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733260268,
+        "url": "https://redirect.cvrve.me/f49e13285991979f08e0",
+        "locations": [
+            "Des Plain, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GTI Energy",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "fcd8a12e-4c72-43f8-95f8-fda0759d0967",
+        "date_posted": 1733260268,
+        "company_url": "",
+        "is_visible": true
     }
 ]
