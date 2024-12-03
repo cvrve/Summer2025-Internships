@@ -46421,5 +46421,25 @@
         "date_posted": 1733260268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733260270,
+        "url": "https://redirect.cvrve.me/b0e0a71177c9ae3af626",
+        "locations": [
+            "Playa Vista, CA",
+            "Portland, ME",
+            "Middleton, WI",
+            "Sherman Oaks, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raven",
+        "title": "Computer Graphics Intern",
+        "source": "vanshb03",
+        "id": "5e0ad0c9-88af-4afa-acda-e14ddd1e5374",
+        "date_posted": 1733260270,
+        "company_url": "",
+        "is_visible": true
     }
 ]
