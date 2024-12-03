@@ -46441,5 +46441,22 @@
         "date_posted": 1733260270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733261237,
+        "url": "https://redirect.cvrve.me/666f6cb8f71ce24ad885",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "AI Development for Target Detection Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "271ae7f7-c061-4a0b-895d-b96077541c20",
+        "date_posted": 1733261237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
