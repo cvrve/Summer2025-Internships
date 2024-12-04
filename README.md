@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Scale AI | Machine Learning Research Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/7705632b784046122d4e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Raven | Computer Graphics Intern | <details><summary>**4 locations**</summary>Playa Vista, CA</br>Portland, ME</br>Middleton, WI</br>Sherman Oaks, CA</details> | <a href="https://redirect.cvrve.me/b0e0a71177c9ae3af626?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Parsons | AI Development for Target Detection Intern | Huntsville, AL | <a href="https://redirect.cvrve.me/666f6cb8f71ce24ad885?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | GTI Energy | Software Developer Intern | Des Plain, IL | <a href="https://redirect.cvrve.me/f49e13285991979f08e0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
