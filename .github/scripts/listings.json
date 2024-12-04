@@ -46648,5 +46648,22 @@
         "date_posted": 1733282098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733282251,
+        "url": "http://redirect.cvrve.me/d997caf28a38a3664124",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Republic Finance",
+        "title": ".NET Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb329717-37e4-49cf-a6a7-ab3b17e619d7",
+        "date_posted": 1733282251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
