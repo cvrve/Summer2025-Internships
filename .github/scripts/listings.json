@@ -46751,5 +46751,22 @@
         "date_posted": 1733355704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733355908,
+        "url": "http://redirect.cvrve.me/361c3642af069edc69ff",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b49bda9-1a6b-4086-be94-b262cd3cc2c4",
+        "date_posted": 1733355908,
+        "company_url": "",
+        "is_visible": true
     }
 ]
