@@ -46511,5 +46511,23 @@
         "date_posted": 1733281155,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733281246,
+        "url": "http://redirect.cvrve.me/24f8361e6a9dd7c1f467",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb99e07b-ceb5-4c20-b2c3-b7dc7429826a",
+        "date_posted": 1733281246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
