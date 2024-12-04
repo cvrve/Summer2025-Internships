@@ -46597,5 +46597,22 @@
         "date_posted": 1733281689,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733281726,
+        "url": "http://redirect.cvrve.me/1cb0023a315eeada2a05",
+        "locations": [
+            "Clearfield, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1586c255-17b0-433c-a7e5-b66a5f303eec",
+        "date_posted": 1733281726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
