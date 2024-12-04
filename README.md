@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Teledyne | Software Engineer Co-op | Chestnut Ridge, NY | <a href="http://redirect.cvrve.me/fd4d2948a663ef6c3ac0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
-| T-Mobile | GenAI Agentic App Development Intern | Bothell, WA | <a href="http://redirect.cvrve.me/e65f145f4982b9799c09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
+| T-Mobile | Software Engineer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/2af7511724665818d762?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
+| ↳ | GenAI Agentic App Development Intern | Bothell, WA | <a href="http://redirect.cvrve.me/e65f145f4982b9799c09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Scale AI | Research Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/7d456672a8b8e858a770?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | ↳ | Machine Learning Research Intern | San Francisco, CA</br>New York, NY | <a href="http://redirect.cvrve.me/7705632b784046122d4e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Sabre | Site Reliability Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/ee9e3c2b1a30f8e4bc9c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
