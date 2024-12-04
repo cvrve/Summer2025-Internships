@@ -46494,5 +46494,22 @@
         "date_posted": 1733281115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733281155,
+        "url": "http://redirect.cvrve.me/fd4d2948a663ef6c3ac0",
+        "locations": [
+            "Chestnut Ridge, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teledyne",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ddf3f557-5ddd-423d-8010-c2ec203e18a5",
+        "date_posted": 1733281155,
+        "company_url": "",
+        "is_visible": true
     }
 ]
