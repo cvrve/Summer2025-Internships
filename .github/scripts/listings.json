@@ -46716,5 +46716,22 @@
         "date_posted": 1733300931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733300949,
+        "url": "http://redirect.cvrve.me/814ae713076df28b79eb",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pixar",
+        "title": "Animation Technician Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "2bb8daa7-de74-43ce-9678-fbb4421cb4bf",
+        "date_posted": 1733300949,
+        "company_url": "",
+        "is_visible": true
     }
 ]

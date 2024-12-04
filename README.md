@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Pixar | Software Research & Development Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/84b904bea275dccaea85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| Pixar | Animation Technician Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/814ae713076df28b79eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| ↳ | Software Research & Development Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/84b904bea275dccaea85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Tesla | Embedded Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/1b180f333e8d4ee8922d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | Teledyne | Software Engineer Co-op | Chestnut Ridge, NY | <a href="http://redirect.cvrve.me/fd4d2948a663ef6c3ac0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | T-Mobile | Software Engineer Intern | Atlanta, GA | <a href="http://redirect.cvrve.me/2af7511724665818d762?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
