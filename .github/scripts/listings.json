@@ -46614,5 +46614,22 @@
         "date_posted": 1733281726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733281906,
+        "url": "http://redirect.cvrve.me/e65f145f4982b9799c09",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "GenAI Agentic App Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62fe0ddc-4bf5-4092-9ee2-4ee2a144978b",
+        "date_posted": 1733281906,
+        "company_url": "",
+        "is_visible": true
     }
 ]
