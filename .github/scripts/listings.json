@@ -46699,5 +46699,22 @@
         "date_posted": 1733285108,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733300931,
+        "url": "http://redirect.cvrve.me/84b904bea275dccaea85",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pixar",
+        "title": "Software Research & Development Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "cd9623d7-f581-4a08-a9f0-894a99c86414",
+        "date_posted": 1733300931,
+        "company_url": "",
+        "is_visible": true
     }
 ]
