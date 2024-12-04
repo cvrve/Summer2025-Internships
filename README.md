@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Pixar | Animation Technician Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/814ae713076df28b79eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Software Research & Development Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/84b904bea275dccaea85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
-| Meta | Offensive Security Engineer Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/29dd58ba52dcfb09e677?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| Meta | Network Optical Engineer Intern | Menlo Park, CA | <a href="http://redirect.cvrve.me/1e7d39f40fd1363ba27f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| ↳ | Offensive Security Engineer Intern | Bellevue, WA | <a href="http://redirect.cvrve.me/29dd58ba52dcfb09e677?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Hardware Systems Engineer Intern | Menlo Park, CA | <a href="http://redirect.cvrve.me/f1d13f73778ac76dd390?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Security Engineer Intern | Menlo Park, CA | <a href="http://redirect.cvrve.me/361c3642af069edc69ff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Business Engineer Intern | Menlo Park, CA</br>New York, NY | <a href="http://redirect.cvrve.me/6fa0a09d5a85cdb737f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |

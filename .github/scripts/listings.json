@@ -46802,5 +46802,22 @@
         "date_posted": 1733356012,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733356138,
+        "url": "http://redirect.cvrve.me/1e7d39f40fd1363ba27f",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Network Optical Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6cf1942-52c0-4b5b-a94d-870a7a6e563b",
+        "date_posted": 1733356138,
+        "company_url": "",
+        "is_visible": true
     }
 ]
