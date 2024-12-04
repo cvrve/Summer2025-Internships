@@ -46546,5 +46546,22 @@
         "date_posted": 1733281380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733281442,
+        "url": "http://redirect.cvrve.me/d623d7d804155f18cbbc",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lendbuzz",
+        "title": "Frontend Engineer Co-op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62482d9c-4ad1-422d-8856-0c4d0a2dd861",
+        "date_posted": 1733281442,
+        "company_url": "",
+        "is_visible": true
     }
 ]
