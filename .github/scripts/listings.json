@@ -47026,5 +47026,22 @@
         "date_posted": 1733362369,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362370,
+        "url": "https://redirect.cvrve.me/1ad7156644ff0b6d75d5",
+        "locations": [
+            "Andover, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Web Support Specialist Intern",
+        "source": "vanshb03",
+        "id": "6debf5ab-2ee7-4bea-9aa9-594cac16e98b",
+        "date_posted": 1733362370,
+        "company_url": "",
+        "is_visible": true
     }
 ]
