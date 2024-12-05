@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zscaler | Software Engineering Intern - Back End | San Jose, CA | <a href="http://redirect.cvrve.me/2a363b683f7088e86e27?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| Zscaler | Software Engineer Intern - Front End | San Jose, CA | <a href="http://redirect.cvrve.me/1b7dbab026dcde21f760?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| ↳ | Software Engineering Intern - Back End | San Jose, CA | <a href="http://redirect.cvrve.me/2a363b683f7088e86e27?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Westinghouse Electric Co | Product Management Intern | Warrendale, PA | <a href="http://redirect.cvrve.me/859d4df7011e0179fd7d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Walmart | Product Manager Intern | Sunnyvale, CA</br>Bentonville, AR | <a href="http://redirect.cvrve.me/17ca5423c0d3200f59c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Staples | Salesforce Data Intern, Staples Promotional Products | St. Louis, MO | <a href="https://redirect.cvrve.me/c15103d85457b6421b33?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
