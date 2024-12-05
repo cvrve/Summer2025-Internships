@@ -47009,5 +47009,22 @@
         "date_posted": 1733362367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362369,
+        "url": "https://redirect.cvrve.me/4a0ae82f06dcc182b92d",
+        "locations": [
+            "Leominster, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Product Engineer Intern",
+        "source": "vanshb03",
+        "id": "1e70e0ff-400f-41e1-b4d2-634d0b62481a",
+        "date_posted": 1733362369,
+        "company_url": "",
+        "is_visible": true
     }
 ]
