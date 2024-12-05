@@ -47111,5 +47111,22 @@
         "date_posted": 1733362377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362379,
+        "url": "https://redirect.cvrve.me/f56dc8824e5294b41352",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer Intern, Observability & Monitoring",
+        "source": "vanshb03",
+        "id": "abd813fb-9286-48bf-ad7d-4f1bad9468b8",
+        "date_posted": 1733362379,
+        "company_url": "",
+        "is_visible": true
     }
 ]
