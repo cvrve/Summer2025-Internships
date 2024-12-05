@@ -47213,5 +47213,22 @@
         "date_posted": 1733362390,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362397,
+        "url": "https://redirect.cvrve.me/988ae49b9d9a95124659",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hagerty Consulting",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "760db6c9-5edf-4433-8d0b-0a7aadd4207c",
+        "date_posted": 1733362397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
