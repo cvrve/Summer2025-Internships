@@ -47162,5 +47162,22 @@
         "date_posted": 1733362382,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362384,
+        "url": "https://redirect.cvrve.me/3066896b42c18d72249a",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "9d33f643-d060-45a1-8dc7-881ec3eeee4e",
+        "date_posted": 1733362384,
+        "company_url": "",
+        "is_visible": true
     }
 ]
