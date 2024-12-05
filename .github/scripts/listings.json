@@ -46198,5 +46198,1037 @@
         "date_posted": 1733071689,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733076404,
+        "url": "https://redirect.cvrve.me/82bef4f3f046ab9796df",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hologic",
+        "title": "R&D Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6cfa3490-5eb4-4903-a3b4-5f9732ac4513",
+        "date_posted": 1733076404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733076412,
+        "url": "https://redirect.cvrve.me/9e462c7fa55de9f40cfc",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hologic",
+        "title": "IT Applications Governance Intern",
+        "source": "vanshb03",
+        "id": "f9f0a47f-fda7-4831-99df-952cb6b5f1de",
+        "date_posted": 1733076412,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733076424,
+        "url": "https://redirect.cvrve.me/23525985a115906c043f",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "iOS Apps Intern",
+        "source": "vanshb03",
+        "id": "490205b0-83a3-4667-abc3-7eb624209cb2",
+        "date_posted": 1733076424,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733076429,
+        "url": "https://redirect.cvrve.me/4de66b4d25566fa70749",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Washington Post",
+        "title": "Product Monetization Intern",
+        "source": "vanshb03",
+        "id": "dcd2acd7-e514-45b4-9e64-3c857eda6362",
+        "date_posted": 1733076429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733077874,
+        "url": "https://redirect.cvrve.me/392dc0a9327a6ff10be2",
+        "locations": [
+            "Los Angeles, CA",
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Data Visualization Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c5f2956f-00f1-45b9-99b2-afff92323933",
+        "date_posted": 1733077874,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733078218,
+        "url": "https://redirect.cvrve.me/0addefd44d5013193c9e",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CME Group",
+        "title": "Cyber Defense Response Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1b79e632-b9e1-4304-a641-e9263a44feb4",
+        "date_posted": 1733078218,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107050,
+        "url": "https://redirect.cvrve.me/82c71fa517fbd9f18789",
+        "locations": [
+            "Hesston, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AGCO",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9895b87b-713e-4c9b-877e-a9313c7e8b1c",
+        "date_posted": 1733107050,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107103,
+        "url": "https://redirect.cvrve.me/9747bf576da6c99dbc38",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": " International Motors",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "edb1c1aa-6bc3-45d1-b91b-3ba94bd6ce3e",
+        "date_posted": 1733107103,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107493,
+        "url": "https://redirect.cvrve.me/97936a30c90673885410",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Engineer Intern, TechOps",
+        "source": "vanshb03",
+        "id": "58fd3385-d37f-42cb-b1b1-699c845d6b6d",
+        "date_posted": 1733107493,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107501,
+        "url": "https://redirect.cvrve.me/9dc01c7a6682238b0c6e",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7f4eb28a-a625-48e3-976f-dcef1bbc9847",
+        "date_posted": 1733107501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107506,
+        "url": "https://redirect.cvrve.me/5dc771d69077e0cf6401",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Installers Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "f657d889-13a7-4218-b943-ef817b298e5c",
+        "date_posted": 1733107506,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733107532,
+        "url": "https://redirect.cvrve.me/74a9f0e901034ffcb60a",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "CPU Debugger Software Engineer Intern, NTD",
+        "source": "vanshb03",
+        "id": "16f003c6-0010-42a5-a29f-61a7ce85f15f",
+        "date_posted": 1733107532,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733260268,
+        "url": "https://redirect.cvrve.me/f49e13285991979f08e0",
+        "locations": [
+            "Des Plain, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GTI Energy",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "fcd8a12e-4c72-43f8-95f8-fda0759d0967",
+        "date_posted": 1733260268,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733260270,
+        "url": "https://redirect.cvrve.me/b0e0a71177c9ae3af626",
+        "locations": [
+            "Playa Vista, CA",
+            "Portland, ME",
+            "Middleton, WI",
+            "Sherman Oaks, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raven",
+        "title": "Computer Graphics Intern",
+        "source": "vanshb03",
+        "id": "5e0ad0c9-88af-4afa-acda-e14ddd1e5374",
+        "date_posted": 1733260270,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733261237,
+        "url": "https://redirect.cvrve.me/666f6cb8f71ce24ad885",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "AI Development for Target Detection Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "271ae7f7-c061-4a0b-895d-b96077541c20",
+        "date_posted": 1733261237,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281062,
+        "url": "http://redirect.cvrve.me/7705632b784046122d4e",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Machine Learning Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fcc8cfc1-cf2f-4125-9631-cfac68ae53a4",
+        "date_posted": 1733281062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281115,
+        "url": "http://redirect.cvrve.me/7d456672a8b8e858a770",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6a8af33f-3db0-4d8f-bf23-725f27ea97db",
+        "date_posted": 1733281115,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281155,
+        "url": "http://redirect.cvrve.me/fd4d2948a663ef6c3ac0",
+        "locations": [
+            "Chestnut Ridge, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teledyne",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ddf3f557-5ddd-423d-8010-c2ec203e18a5",
+        "date_posted": 1733281155,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281246,
+        "url": "http://redirect.cvrve.me/24f8361e6a9dd7c1f467",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb99e07b-ceb5-4c20-b2c3-b7dc7429826a",
+        "date_posted": 1733281246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281380,
+        "url": "http://redirect.cvrve.me/9959c5d85b19b70ed756",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR",
+        "title": "Quantitative Sports Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b2f7ae21-2910-4a81-bd31-433b988f5848",
+        "date_posted": 1733281380,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281442,
+        "url": "http://redirect.cvrve.me/d623d7d804155f18cbbc",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lendbuzz",
+        "title": "Frontend Engineer Co-op - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62482d9c-4ad1-422d-8856-0c4d0a2dd861",
+        "date_posted": 1733281442,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281523,
+        "url": "http://redirect.cvrve.me/91204763f722adac2bd9",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "afdb81d3-3c4a-45a7-b0e9-d51190abbd11",
+        "date_posted": 1733281523,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281689,
+        "url": "http://redirect.cvrve.me/ee9e3c2b1a30f8e4bc9c",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "40ef0e8c-cd54-4848-aef5-6c75226fb6cd",
+        "date_posted": 1733281689,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281726,
+        "url": "http://redirect.cvrve.me/1cb0023a315eeada2a05",
+        "locations": [
+            "Clearfield, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1586c255-17b0-433c-a7e5-b66a5f303eec",
+        "date_posted": 1733281726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733281906,
+        "url": "http://redirect.cvrve.me/e65f145f4982b9799c09",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "GenAI Agentic App Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "62fe0ddc-4bf5-4092-9ee2-4ee2a144978b",
+        "date_posted": 1733281906,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733282098,
+        "url": "http://redirect.cvrve.me/20ac22a7feb99dbcd454",
+        "locations": [
+            "Jefferson City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Huber & Associates",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "29476ede-1bc9-4dff-b1cd-fc961769416c",
+        "date_posted": 1733282098,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733282251,
+        "url": "http://redirect.cvrve.me/d997caf28a38a3664124",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Republic Finance",
+        "title": ".NET Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb329717-37e4-49cf-a6a7-ab3b17e619d7",
+        "date_posted": 1733282251,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733285063,
+        "url": "http://redirect.cvrve.me/2af7511724665818d762",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "375f594d-758d-4fb7-993f-8e5d16f0eb03",
+        "date_posted": 1733285063,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733285108,
+        "url": "http://redirect.cvrve.me/1b180f333e8d4ee8922d",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dc11a43a-6a25-428c-8281-239910a39524",
+        "date_posted": 1733285108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733300931,
+        "url": "http://redirect.cvrve.me/84b904bea275dccaea85",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pixar",
+        "title": "Software Research & Development Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "cd9623d7-f581-4a08-a9f0-894a99c86414",
+        "date_posted": 1733300931,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733300949,
+        "url": "http://redirect.cvrve.me/814ae713076df28b79eb",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pixar",
+        "title": "Animation Technician Intern",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "2bb8daa7-de74-43ce-9678-fbb4421cb4bf",
+        "date_posted": 1733300949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733355704,
+        "url": "http://redirect.cvrve.me/6fa0a09d5a85cdb737f6",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Business Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "88fad929-effd-4621-811f-d18d36e42b32",
+        "date_posted": 1733355704,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733355908,
+        "url": "http://redirect.cvrve.me/361c3642af069edc69ff",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b49bda9-1a6b-4086-be94-b262cd3cc2c4",
+        "date_posted": 1733355908,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733355975,
+        "url": "http://redirect.cvrve.me/f1d13f73778ac76dd390",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Hardware Systems Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "657c3349-9e68-4380-a744-68455244203d",
+        "date_posted": 1733355975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733356012,
+        "url": "http://redirect.cvrve.me/29dd58ba52dcfb09e677",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Offensive Security Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "006d6e56-754e-4030-902d-c8ed5e73041e",
+        "date_posted": 1733356012,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733356138,
+        "url": "http://redirect.cvrve.me/1e7d39f40fd1363ba27f",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Network Optical Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6cf1942-52c0-4b5b-a94d-870a7a6e563b",
+        "date_posted": 1733356138,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733356820,
+        "url": "http://redirect.cvrve.me/7b93e7dc22cd9662222d",
+        "locations": [
+            "Burbank, CA",
+            "New York, NY",
+            "West Hollywood, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paramount",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "43e487be-a3f3-46c0-aedb-dfa0189574f2",
+        "date_posted": 1733356820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733356930,
+        "url": "http://redirect.cvrve.me/b1b663390a3a912d1207",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "66554e0f-a467-44bd-933d-268465801d2c",
+        "date_posted": 1733356930,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733356991,
+        "url": "http://redirect.cvrve.me/103b4f7b3ea55c9e2f87",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1466bfd8-1dcc-4d00-8846-6869713dc655",
+        "date_posted": 1733356991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733357356,
+        "url": "http://redirect.cvrve.me/859d4df7011e0179fd7d",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westinghouse Electric Co",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "11aa6c25-4eea-4a1c-b14b-f4dfe3fe9979",
+        "date_posted": 1733357356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733357449,
+        "url": "http://redirect.cvrve.me/17ca5423c0d3200f59c8",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d85aca52-417e-45ef-ae6b-ca16b3cdd58b",
+        "date_posted": 1733357449,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733357685,
+        "url": "http://redirect.cvrve.me/4488ab5f970fac57349e",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Product Strategy PMO Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "561e00bf-9eed-4b6f-b5c7-297c5eb93e46",
+        "date_posted": 1733357685,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362361,
+        "url": "https://redirect.cvrve.me/5b511ffcfb4757ce3a24",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Sales Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "ac0c5253-6cf5-46d0-9f84-661386e6e701",
+        "date_posted": 1733362361,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362364,
+        "url": "https://redirect.cvrve.me/95e30ce01243f34dfec2",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, UI Frontend",
+        "source": "vanshb03",
+        "id": "63db2eed-0863-4ebe-833d-b65f0a7c5afa",
+        "date_posted": 1733362364,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362365,
+        "url": "https://redirect.cvrve.me/892a5f8a61cb121fafd8",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, Java Backend",
+        "source": "vanshb03",
+        "id": "5356637a-80d9-4a8c-ba6d-752355fb1f4b",
+        "date_posted": 1733362365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362366,
+        "url": "https://redirect.cvrve.me/b07d5f43720085680504",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, CICD/Dev Ops",
+        "source": "vanshb03",
+        "id": "33f4abed-6ba1-4711-a58a-b9c92fefd3c5",
+        "date_posted": 1733362366,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362367,
+        "url": "https://redirect.cvrve.me/c15103d85457b6421b33",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Salesforce Data Intern, Staples Promotional Products",
+        "source": "vanshb03",
+        "id": "549c6764-c168-4f4a-912e-ea04373d5d08",
+        "date_posted": 1733362367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362369,
+        "url": "https://redirect.cvrve.me/4a0ae82f06dcc182b92d",
+        "locations": [
+            "Leominster, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Product Engineer Intern",
+        "source": "vanshb03",
+        "id": "1e70e0ff-400f-41e1-b4d2-634d0b62481a",
+        "date_posted": 1733362369,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362370,
+        "url": "https://redirect.cvrve.me/1ad7156644ff0b6d75d5",
+        "locations": [
+            "Andover, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Web Support Specialist Intern",
+        "source": "vanshb03",
+        "id": "6debf5ab-2ee7-4bea-9aa9-594cac16e98b",
+        "date_posted": 1733362370,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362372,
+        "url": "https://redirect.cvrve.me/48ba7e81056ffc8979c7",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Information Technology Engineer Intern",
+        "source": "vanshb03",
+        "id": "9faf4500-c4d3-4687-8153-266851bc3819",
+        "date_posted": 1733362372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362374,
+        "url": "https://redirect.cvrve.me/08679a1fbc36c29f25ea",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Yonder",
+        "title": "Full Stack Developer Intern",
+        "source": "vanshb03",
+        "id": "e8936d71-4e50-43c8-b1ea-7d6503a2dd31",
+        "date_posted": 1733362374,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362376,
+        "url": "https://redirect.cvrve.me/3b0baa3d8b105b19f633",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern, Revenue Optimizer Suite",
+        "source": "vanshb03",
+        "id": "71a6e747-489d-4cd7-8c79-6ec468276065",
+        "date_posted": 1733362376,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362377,
+        "url": "https://redirect.cvrve.me/6c48ed5ab29194221d9b",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer I Intern",
+        "source": "vanshb03",
+        "id": "dcee83d3-6fb7-4eb2-90d9-5dcb1ddfd343",
+        "date_posted": 1733362377,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362379,
+        "url": "https://redirect.cvrve.me/f56dc8824e5294b41352",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer Intern, Observability & Monitoring",
+        "source": "vanshb03",
+        "id": "abd813fb-9286-48bf-ad7d-4f1bad9468b8",
+        "date_posted": 1733362379,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362380,
+        "url": "https://redirect.cvrve.me/a998c268615fdfb00fa9",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern, Java and GCP",
+        "source": "vanshb03",
+        "id": "eb8909a9-7a18-451d-8f9c-bf3659f6b806",
+        "date_posted": 1733362380,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362382,
+        "url": "https://redirect.cvrve.me/93266aa0ee60e32c4b34",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "8e600503-7579-4325-8a08-40a76b7c9ca6",
+        "date_posted": 1733362382,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362384,
+        "url": "https://redirect.cvrve.me/3066896b42c18d72249a",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "9d33f643-d060-45a1-8dc7-881ec3eeee4e",
+        "date_posted": 1733362384,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362385,
+        "url": "https://redirect.cvrve.me/a70e13f248ef08f46ac7",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "eBook Developer Intern",
+        "source": "vanshb03",
+        "id": "0a1747a6-8eb8-4ef5-956c-2c6b907fef16",
+        "date_posted": 1733362385,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362390,
+        "url": "https://redirect.cvrve.me/e9331e0cc0e743b3fd1c",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Front End Intern, React Developer",
+        "source": "vanshb03",
+        "id": "45bcb169-c2a2-49a9-bbee-95e3c889c7f0",
+        "date_posted": 1733362390,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733362397,
+        "url": "https://redirect.cvrve.me/988ae49b9d9a95124659",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hagerty Consulting",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "760db6c9-5edf-4433-8d0b-0a7aadd4207c",
+        "date_posted": 1733362397,
+        "company_url": "",
+        "is_visible": true
     }
 ]
