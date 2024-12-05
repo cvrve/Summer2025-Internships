@@ -46889,5 +46889,23 @@
         "date_posted": 1733357356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733357449,
+        "url": "http://redirect.cvrve.me/17ca5423c0d3200f59c8",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d85aca52-417e-45ef-ae6b-ca16b3cdd58b",
+        "date_posted": 1733357449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
