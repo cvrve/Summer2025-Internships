@@ -11302,7 +11302,7 @@
             "St Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": " Trane Technologies",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -11737,7 +11737,7 @@
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cerebras",
         "title": "Performance Engineer – Internship - PEY 2025",
         "season": "Summer",
@@ -11948,7 +11948,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Intern – IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
         "season": "Spring",
@@ -14862,7 +14862,7 @@
             "St-Hyacinthe, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intact",
         "title": "Fullstack Developer Intern",
         "season": "Summer",
@@ -14915,7 +14915,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intact",
         "title": "DevOps Engineer Intern - Winter",
         "season": "Fall",
@@ -15635,7 +15635,7 @@
             "Montréal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lyft",
         "title": "Software Engineer Intern, Backend",
         "season": "Summer",
@@ -24585,7 +24585,7 @@
             "Albany, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IBM",
         "title": "Software Engineer – Large Scale Language Models Intern",
         "season": "Summer",
@@ -24605,7 +24605,7 @@
             "Albany, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IBM",
         "title": "Software Engineer – AI-powered Automation Intern",
         "season": "Summer",
@@ -24625,7 +24625,7 @@
             "Albany, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IBM",
         "title": "Software Engineer – Semiconductor Intern",
         "season": "Summer",
