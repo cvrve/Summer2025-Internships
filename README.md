@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Westinghouse Electric Co | Product Management Intern | Warrendale, PA | <a href="http://redirect.cvrve.me/859d4df7011e0179fd7d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Splunk | Product Manager Intern | Boulder, CO | <a href="http://redirect.cvrve.me/b1b663390a3a912d1207?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Sabre | Product Management Intern | Dallas, TX | <a href="http://redirect.cvrve.me/103b4f7b3ea55c9e2f87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Pixar | Animation Technician Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/814ae713076df28b79eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |

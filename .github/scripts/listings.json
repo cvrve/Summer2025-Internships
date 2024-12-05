@@ -46872,5 +46872,22 @@
         "date_posted": 1733356991,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733357356,
+        "url": "http://redirect.cvrve.me/859d4df7011e0179fd7d",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westinghouse Electric Co",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "11aa6c25-4eea-4a1c-b14b-f4dfe3fe9979",
+        "date_posted": 1733357356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
