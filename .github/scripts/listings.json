@@ -46838,5 +46838,22 @@
         "date_posted": 1733356820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733356930,
+        "url": "http://redirect.cvrve.me/b1b663390a3a912d1207",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "66554e0f-a467-44bd-933d-268465801d2c",
+        "date_posted": 1733356930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
