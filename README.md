@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Splunk | Product Manager Intern | Boulder, CO | <a href="http://redirect.cvrve.me/b1b663390a3a912d1207?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
+| Sabre | Product Management Intern | Dallas, TX | <a href="http://redirect.cvrve.me/103b4f7b3ea55c9e2f87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Pixar | Animation Technician Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/814ae713076df28b79eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Software Research & Development Intern 🛂 | Emeryville, CA | <a href="http://redirect.cvrve.me/84b904bea275dccaea85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | Paramount | Product Management Intern | Burbank, CA</br>New York, NY</br>West Hollywood, CA | <a href="http://redirect.cvrve.me/7b93e7dc22cd9662222d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
