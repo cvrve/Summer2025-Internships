@@ -46958,5 +46958,22 @@
         "date_posted": 1733362364,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362365,
+        "url": "https://redirect.cvrve.me/892a5f8a61cb121fafd8",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, Java Backend",
+        "source": "vanshb03",
+        "id": "5356637a-80d9-4a8c-ba6d-752355fb1f4b",
+        "date_posted": 1733362365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
