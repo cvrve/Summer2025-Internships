@@ -46975,5 +46975,22 @@
         "date_posted": 1733362365,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362366,
+        "url": "https://redirect.cvrve.me/b07d5f43720085680504",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, CICD/Dev Ops",
+        "source": "vanshb03",
+        "id": "33f4abed-6ba1-4711-a58a-b9c92fefd3c5",
+        "date_posted": 1733362366,
+        "company_url": "",
+        "is_visible": true
     }
 ]
