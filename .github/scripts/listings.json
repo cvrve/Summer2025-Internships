@@ -46941,5 +46941,22 @@
         "date_posted": 1733362361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362364,
+        "url": "https://redirect.cvrve.me/95e30ce01243f34dfec2",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, UI Frontend",
+        "source": "vanshb03",
+        "id": "63db2eed-0863-4ebe-833d-b65f0a7c5afa",
+        "date_posted": 1733362364,
+        "company_url": "",
+        "is_visible": true
     }
 ]
