@@ -47145,5 +47145,22 @@
         "date_posted": 1733362380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362382,
+        "url": "https://redirect.cvrve.me/93266aa0ee60e32c4b34",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "8e600503-7579-4325-8a08-40a76b7c9ca6",
+        "date_posted": 1733362382,
+        "company_url": "",
+        "is_visible": true
     }
 ]
