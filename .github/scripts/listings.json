@@ -47196,5 +47196,22 @@
         "date_posted": 1733362385,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362390,
+        "url": "https://redirect.cvrve.me/e9331e0cc0e743b3fd1c",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "Front End Intern, React Developer",
+        "source": "vanshb03",
+        "id": "45bcb169-c2a2-49a9-bbee-95e3c889c7f0",
+        "date_posted": 1733362390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
