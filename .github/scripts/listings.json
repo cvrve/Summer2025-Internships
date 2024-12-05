@@ -47094,5 +47094,22 @@
         "date_posted": 1733362376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362377,
+        "url": "https://redirect.cvrve.me/6c48ed5ab29194221d9b",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Site Reliability Engineer I Intern",
+        "source": "vanshb03",
+        "id": "dcee83d3-6fb7-4eb2-90d9-5dcb1ddfd343",
+        "date_posted": 1733362377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
