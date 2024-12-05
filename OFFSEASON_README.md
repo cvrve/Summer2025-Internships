@@ -115,10 +115,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cohere | Machine Learning Intern/Co-op - Winter | San Francisco, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/c88a795e2bf75421b05c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | SRC | Software Engineer Intern | Herndon, VA | <a href="https://jobs.jobvite.com/careers/src-inc/job/oXOuufwt?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Tesla | Haskell Software Developer Intern | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/227004?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Intact | DevOps Engineer Intern - Winter | Montréal</br>Toronto, Canada | <a href="https://careers.intactfc.com/ca/en/job/R142710/DevOps-4-Month-Co-op-Internship-Winter-2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Ericsson | 5G Software Developer Intern | Ottawa, Canada | <a href="https://jobs.ericsson.com/careers/job/563121760892821?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Anduril | Mission Software Engineer Co-op | Quincy, MA | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4512401007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Gilead Sciences | Intern – IT - Data & Analytics - Pdm - Supply Chain & Manufacturing | San Mateo, CA | <a href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Data---Analytics---PDM--Supply-Chain---Manufacturing-_R0042294?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Groq | Software Engineer Intern - Winter | Mountain View, CA | <a href="https://groq.com/careers/?gh_jid=6107171003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Southwest Airlines | Technology Analyst Intern | Remote | <a href="https://careers.southwestair.com/job/R-2024-46361/Technology-Analyst-Spring-2025-Intern-Remote?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Software Engineer Intern 🛂 | Remote | <a href="https://careers.southwestair.com/job/R-2024-46360/Software-Engineer-Spring-2025-Intern-Remote?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -236,12 +234,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Thales | Mobile Application Developer Co-op | Ottawa, Canada | 🔒 | Sep 11 |
 | TD Bank | User Experience Designer/Strategist Intern - Winter | Toronto, Canada | 🔒 | Sep 11 |
 | SAP | Software Developer Intern | Palo Alto, CA | 🔒 | Sep 11 |
+| Intact | DevOps Engineer Intern - Winter | Montréal</br>Toronto, Canada | 🔒 | Sep 11 |
 | Tesla | Software Engineer Intern | Palo Alto, CA | 🔒 | Sep 09 |
 | Tesla | ML Performance Software Engineer Intern | Palo Alto, CA | 🔒 | Sep 06 |
 | National Information Solutions Cooperative (NISC) | Intern – Software Development - IOS | Bismarck, ND</br>Lake St Louis, MO</br>Cedar Rapids, IA | 🔒 | Sep 05 |
 | ↳ | Intern – Software Development | Bismarck, ND</br>Lake St Louis, MO</br>Cedar Rapids, IA | 🔒 | Sep 05 |
 | ↳ | Intern – Database Conversion Programming | Bismarck, ND</br>Lake St Louis, MO | 🔒 | Sep 05 |
 | ↳ | Intern – Software Development - Machine Learning | Bismarck, ND</br>Lake St Louis, MO</br>Cedar Rapids, IA | 🔒 | Sep 05 |
+| Gilead Sciences | Intern – IT - Data & Analytics - Pdm - Supply Chain & Manufacturing | San Mateo, CA | 🔒 | Sep 05 |
 | RBC | Risk Modelling and Machine Learning Intern | Toronto, Canada | 🔒 | Aug 26 |
 | ESPN | Computer Science & Computer Engineering Intern | Lake Buena Vista, FL | 🔒 | Aug 26 |
 | Phillips | Systems Engineer Co-op | Cambridge, MA | 🔒 | Aug 23 |
