@@ -47315,5 +47315,22 @@
         "date_posted": 1733371047,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733371082,
+        "url": "http://redirect.cvrve.me/8509728e2f67cfce0a1d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zscaler",
+        "title": "Artificial Intelligence/Machine Learning/Data Science Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a06d464e-73d7-4659-adf6-4d5738f7cd4f",
+        "date_posted": 1733371082,
+        "company_url": "",
+        "is_visible": true
     }
 ]
