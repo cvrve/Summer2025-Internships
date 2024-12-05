@@ -47060,5 +47060,22 @@
         "date_posted": 1733362372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362374,
+        "url": "https://redirect.cvrve.me/08679a1fbc36c29f25ea",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Yonder",
+        "title": "Full Stack Developer Intern",
+        "source": "vanshb03",
+        "id": "e8936d71-4e50-43c8-b1ea-7d6503a2dd31",
+        "date_posted": 1733362374,
+        "company_url": "",
+        "is_visible": true
     }
 ]
