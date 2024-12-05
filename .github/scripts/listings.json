@@ -47179,5 +47179,22 @@
         "date_posted": 1733362384,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362385,
+        "url": "https://redirect.cvrve.me/a70e13f248ef08f46ac7",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lifeway",
+        "title": "eBook Developer Intern",
+        "source": "vanshb03",
+        "id": "0a1747a6-8eb8-4ef5-956c-2c6b907fef16",
+        "date_posted": 1733362385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
