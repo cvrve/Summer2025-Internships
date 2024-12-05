@@ -46819,5 +46819,24 @@
         "date_posted": 1733356138,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733356820,
+        "url": "http://redirect.cvrve.me/7b93e7dc22cd9662222d",
+        "locations": [
+            "Burbank, CA",
+            "New York, NY",
+            "West Hollywood, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paramount",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "43e487be-a3f3-46c0-aedb-dfa0189574f2",
+        "date_posted": 1733356820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
