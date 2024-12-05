@@ -47043,5 +47043,22 @@
         "date_posted": 1733362370,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362372,
+        "url": "https://redirect.cvrve.me/48ba7e81056ffc8979c7",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infineon Technologies",
+        "title": "Information Technology Engineer Intern",
+        "source": "vanshb03",
+        "id": "9faf4500-c4d3-4687-8153-266851bc3819",
+        "date_posted": 1733362372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
