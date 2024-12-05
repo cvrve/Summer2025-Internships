@@ -46992,5 +46992,22 @@
         "date_posted": 1733362366,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362367,
+        "url": "https://redirect.cvrve.me/c15103d85457b6421b33",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Salesforce Data Intern, Staples Promotional Products",
+        "source": "vanshb03",
+        "id": "549c6764-c168-4f4a-912e-ea04373d5d08",
+        "date_posted": 1733362367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
