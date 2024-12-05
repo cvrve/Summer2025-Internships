@@ -47128,5 +47128,22 @@
         "date_posted": 1733362379,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362380,
+        "url": "https://redirect.cvrve.me/a998c268615fdfb00fa9",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern, Java and GCP",
+        "source": "vanshb03",
+        "id": "eb8909a9-7a18-451d-8f9c-bf3659f6b806",
+        "date_posted": 1733362380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
