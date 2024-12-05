@@ -47077,5 +47077,22 @@
         "date_posted": 1733362374,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733362376,
+        "url": "https://redirect.cvrve.me/3b0baa3d8b105b19f633",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern, Revenue Optimizer Suite",
+        "source": "vanshb03",
+        "id": "71a6e747-489d-4cd7-8c79-6ec468276065",
+        "date_posted": 1733362376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
