@@ -47349,5 +47349,23 @@
         "date_posted": 1733438792,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733445555,
+        "url": "http://redirect.cvrve.me/daf0c00118878fab124c",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Github",
+        "title": "User Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dd5146a4-5d37-4c4f-8855-1fd506e2825f",
+        "date_posted": 1733445555,
+        "company_url": "",
+        "is_visible": true
     }
 ]

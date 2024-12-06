@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | NVIDIA | Product Management Intern, NeMo Retriever | Santa Clara, CA | <a href="http://redirect.cvrve.me/6fb41a7bf3e7d9b67bbd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| Github | User Research Intern | Remote</br>US | <a href="http://redirect.cvrve.me/daf0c00118878fab124c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | Zscaler | Artificial Intelligence/Machine Learning/Data Science Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/8509728e2f67cfce0a1d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Software Engineer Intern - Front End | San Jose, CA | <a href="http://redirect.cvrve.me/1b7dbab026dcde21f760?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
 | ↳ | Software Engineering Intern - Back End | San Jose, CA | <a href="http://redirect.cvrve.me/2a363b683f7088e86e27?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 04 |
