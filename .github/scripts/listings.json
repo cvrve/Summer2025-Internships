@@ -47435,5 +47435,22 @@
         "date_posted": 1733447981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733448022,
+        "url": "http://redirect.cvrve.me/eb0888cbd6f6c3c3a9e5",
+        "locations": [
+            "Lake Saint Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cf6ecf0c-ba88-461a-a82d-4013370f7805",
+        "date_posted": 1733448022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
