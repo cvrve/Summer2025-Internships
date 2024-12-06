@@ -47452,5 +47452,22 @@
         "date_posted": 1733448022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733448083,
+        "url": "http://redirect.cvrve.me/053013566dc4cb1513e4",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Bae Systems",
+        "title": "GXP Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6bcfbc62-13cb-40a2-84d2-f3cb59872254",
+        "date_posted": 1733448083,
+        "company_url": "",
+        "is_visible": true
     }
 ]
