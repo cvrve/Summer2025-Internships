@@ -47503,5 +47503,22 @@
         "date_posted": 1733448179,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733448225,
+        "url": "http://redirect.cvrve.me/b4c366608648c316277f",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Audio Software Algorithms Engineer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "685531c9-037f-4c5e-8643-4d17f432e55b",
+        "date_posted": 1733448225,
+        "company_url": "",
+        "is_visible": true
     }
 ]
