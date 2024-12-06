@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Seagate | Systems Firmware DevOps Intern | Longmont, CO | <a href="http://redirect.cvrve.me/53ab3677ebd159d93cc2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | NVIDIA | Product Management Intern, NeMo Retriever | Santa Clara, CA | <a href="http://redirect.cvrve.me/6fb41a7bf3e7d9b67bbd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | Landis+Gyr | Software Development Intern | Alpharetta, GA | <a href="http://redirect.cvrve.me/e8e7bf9a04730bb01757?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | Github | User Research Intern | Remote</br>US | <a href="http://redirect.cvrve.me/daf0c00118878fab124c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
