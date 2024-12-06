@@ -47520,5 +47520,22 @@
         "date_posted": 1733448225,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733448265,
+        "url": "http://redirect.cvrve.me/6bff3d13f38f4204939d",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "f7838c8a-4709-450b-b30e-47ae33d4c7d8",
+        "date_posted": 1733448265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
