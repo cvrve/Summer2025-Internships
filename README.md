@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | Embedded Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/5090a720b6a1b7a2d247?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| Tesla | Body Controls Systems Integration Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/d9f9cc93edea93df163a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| ↳ | Embedded Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/5090a720b6a1b7a2d247?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | ↳ | Red Team Security Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/565196e4ebcd2d2ca3ec?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | SEL | Software Application Engineer Intern | Pullman, WA | <a href="http://redirect.cvrve.me/48e4f8ee51d36f528922?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | Seagate | Systems Firmware DevOps Intern | Longmont, CO | <a href="http://redirect.cvrve.me/53ab3677ebd159d93cc2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
