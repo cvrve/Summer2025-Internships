@@ -73,7 +73,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/6bff3d13f38f4204939d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| Tesla | Validation Infrastructure Developer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/bdfa940e27fbc00d8a88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
+| ↳ | Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/6bff3d13f38f4204939d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | ↳ | Audio Software Algorithms Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/b4c366608648c316277f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | HONE Health | Software Engineer Intern - Spring | Remote</br>US | <a href="http://redirect.cvrve.me/ff5a67ed305fc2cfecf1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Super.com | Software Engineering Intern - 12M | Remote</br>Canada | <a href="http://redirect.cvrve.me/59e769b85262eca7c8ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
