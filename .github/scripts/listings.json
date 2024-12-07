@@ -47742,5 +47742,22 @@
         "date_posted": 1733536393,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536449,
+        "url": "http://redirect.cvrve.me/58a3f0f2ffe74af0e499",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pison",
+        "title": "Firmware Engineering Intern - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ecb05281-9e29-4c91-a9ab-b59779835d67",
+        "date_posted": 1733536449,
+        "company_url": "",
+        "is_visible": true
     }
 ]
