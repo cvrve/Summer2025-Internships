@@ -47811,5 +47811,22 @@
         "date_posted": 1733536726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733549989,
+        "url": "http://redirect.cvrve.me/5d9dad532263a6d9963a",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Engineer Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "ea50b26c-d47f-4d79-b7c9-4df111cf3679",
+        "date_posted": 1733549989,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Data Engineer Intern - Spring | Fremont, CA | <a href="http://redirect.cvrve.me/5d9dad532263a6d9963a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Pison | Algorithm Production Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/0ee54cf8c83a6111c748?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Formlabs | Desktop Software Intern - Spring | Somerville, MA | <a href="http://redirect.cvrve.me/cd401411449794933974?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Tesla | Fullstack Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/58d7fbcda2acabf86894?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
