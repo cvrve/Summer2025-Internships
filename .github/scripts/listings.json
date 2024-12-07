@@ -47640,5 +47640,22 @@
         "date_posted": 1733449075,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733534917,
+        "url": "http://redirect.cvrve.me/039cdd330721051dd25a",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "11f3231b-260e-4186-9ec1-1bd283d50801",
+        "date_posted": 1733534917,
+        "company_url": "",
+        "is_visible": true
     }
 ]
