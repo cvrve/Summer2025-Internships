@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Microsoft | Hardware Engineering Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/039cdd330721051dd25a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | BMW Group | Augmented Reality Engineer Intern | Mountain View, CA | <a href="http://redirect.cvrve.me/d0f7d916144dee041316?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
+| ambrook | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/219545c41e4b26f69860?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Viasat | Embedded Software Engineer Intern | Carlsbad, CA | <a href="http://redirect.cvrve.me/335459f900f43042783f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | Tesla | Body Controls Systems Integration Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/d9f9cc93edea93df163a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | ↳ | Embedded Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/5090a720b6a1b7a2d247?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
