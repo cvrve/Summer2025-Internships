@@ -47725,5 +47725,22 @@
         "date_posted": 1733536329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536393,
+        "url": "http://redirect.cvrve.me/f939b7a0594fe187d942",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pison",
+        "title": "Software Engineering Intern - Spring",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7994c22-480b-4403-97e1-b8bae47399e9",
+        "date_posted": 1733536393,
+        "company_url": "",
+        "is_visible": true
     }
 ]
