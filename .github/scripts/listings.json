@@ -47794,5 +47794,22 @@
         "date_posted": 1733536688,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536726,
+        "url": "http://redirect.cvrve.me/703d86fcba268b04c3ca",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Embedded Design Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5e875f4a-307f-495b-86e5-734c25a16498",
+        "date_posted": 1733536726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
