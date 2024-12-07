@@ -47759,5 +47759,22 @@
         "date_posted": 1733536449,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536601,
+        "url": "http://redirect.cvrve.me/35aedd2bc36852cb9534",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b22d43b3-5274-461a-8a8f-53297b991821",
+        "date_posted": 1733536601,
+        "company_url": "",
+        "is_visible": true
     }
 ]

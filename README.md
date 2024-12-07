@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Symbotic | Software Engineer Intern | Wilmington, MA | <a href="http://redirect.cvrve.me/35aedd2bc36852cb9534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Pison | Firmware Engineering Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/58a3f0f2ffe74af0e499?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | ↳ | Software Engineering Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/f939b7a0594fe187d942?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Microsoft | Hardware Engineering Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/039cdd330721051dd25a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
