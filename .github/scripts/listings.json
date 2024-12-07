@@ -47776,5 +47776,23 @@
         "date_posted": 1733536601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536688,
+        "url": "http://redirect.cvrve.me/6347217544141b662fe8",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bayer",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77e8bf38-2d31-45a4-a73c-5142338fe20c",
+        "date_posted": 1733536688,
+        "company_url": "",
+        "is_visible": true
     }
 ]
