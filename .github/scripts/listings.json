@@ -47657,5 +47657,22 @@
         "date_posted": 1733534917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733534980,
+        "url": "http://redirect.cvrve.me/d0f7d916144dee041316",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW Group",
+        "title": "Augmented Reality Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8d92f4c9-c9f3-48c5-b5b3-97facd135afc",
+        "date_posted": 1733534980,
+        "company_url": "",
+        "is_visible": true
     }
 ]
