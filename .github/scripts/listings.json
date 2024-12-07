@@ -47708,5 +47708,22 @@
         "date_posted": 1733535337,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733536329,
+        "url": "http://redirect.cvrve.me/0ee54cf8c83a6111c748",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pison",
+        "title": "Algorithm Production Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "a41e13eb-a76e-4763-92de-c9b8ed58e5ab",
+        "date_posted": 1733536329,
+        "company_url": "",
+        "is_visible": true
     }
 ]
