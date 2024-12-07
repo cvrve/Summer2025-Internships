@@ -47674,5 +47674,22 @@
         "date_posted": 1733534980,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733535207,
+        "url": "http://redirect.cvrve.me/cd401411449794933974",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Desktop Software Intern - Spring",
+        "season": "Spring",
+        "source": "cvrve-bot",
+        "id": "e86c1b77-79ec-4d87-8b74-826d2bc3a2cb",
+        "date_posted": 1733535207,
+        "company_url": "",
+        "is_visible": true
     }
 ]

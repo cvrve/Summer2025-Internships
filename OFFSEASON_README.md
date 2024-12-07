@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Formlabs | Desktop Software Intern - Spring | Somerville, MA | <a href="http://redirect.cvrve.me/cd401411449794933974?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Tesla | Fullstack Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/58d7fbcda2acabf86894?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | ↳ | Validation Infrastructure Developer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/bdfa940e27fbc00d8a88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | ↳ | Software Engineer Intern - Spring | Palo Alto, CA | <a href="http://redirect.cvrve.me/6bff3d13f38f4204939d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
