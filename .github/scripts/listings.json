@@ -47862,5 +47862,22 @@
         "date_posted": 1733619357,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733619534,
+        "url": "http://redirect.cvrve.me/52d3ab346a12a2614e92",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Accolade",
+        "title": "Growth Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d30a2da9-d64a-4d6e-93a0-4af6d4642ff7",
+        "date_posted": 1733619534,
+        "company_url": "",
+        "is_visible": true
     }
 ]

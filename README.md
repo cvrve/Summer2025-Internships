@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waymo | ML Runtime Optimization Intern, Masters | Mountain View, CA | <a href="http://redirect.cvrve.me/28781d66c1cc5e847380?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Dassault Systemes | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/cc5ce550e41c131ecb72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| Accolade | Growth Product Management Intern | Seattle, WA | <a href="http://redirect.cvrve.me/52d3ab346a12a2614e92?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Symbotic | Software Engineer Intern | Wilmington, MA | <a href="http://redirect.cvrve.me/35aedd2bc36852cb9534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Pison | Firmware Engineering Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/58a3f0f2ffe74af0e499?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | ↳ | Software Engineering Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/f939b7a0594fe187d942?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
