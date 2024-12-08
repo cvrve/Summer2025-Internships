@@ -47845,5 +47845,22 @@
         "date_posted": 1733619200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733619357,
+        "url": "http://redirect.cvrve.me/28781d66c1cc5e847380",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "ML Runtime Optimization Intern, Masters",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2e7eb03b-69c7-4e15-89e4-3fe85ffe7fdf",
+        "date_posted": 1733619357,
+        "company_url": "",
+        "is_visible": true
     }
 ]
