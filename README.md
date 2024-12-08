@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Intuitive | Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/07e422c437720ff21c46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
 | Waymo | ML Runtime Optimization Intern, Masters | Mountain View, CA | <a href="http://redirect.cvrve.me/28781d66c1cc5e847380?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Oracle | Product Manager Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8a57ae4df9454022f1de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Dassault Systemes | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/cc5ce550e41c131ecb72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |

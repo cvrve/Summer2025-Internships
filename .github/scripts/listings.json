@@ -47897,5 +47897,22 @@
         "date_posted": 1733619593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733676411,
+        "url": "http://redirect.cvrve.me/07e422c437720ff21c46",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7e0a622e-77d0-40a5-b26e-0186e6591a54",
+        "date_posted": 1733676411,
+        "company_url": "",
+        "is_visible": true
     }
 ]
