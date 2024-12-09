@@ -46,7 +46,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zipline | Software Engineering Intern, Enterprise Systems | San Francisco, CA | <a href="https://redirect.cvrve.me/a7e65fcef0af7607d45a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| ↳ | Data Analytics Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/0d4e0bde0c536208b464?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| Garmin | Software Engineer Intern, Mobile | Olathe, KS | <a href="https://redirect.cvrve.me/4a4b4aea36c5938dee13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| ↳ | Software Engineer Intern, Web/DevOps | Olathe, KS | <a href="https://redirect.cvrve.me/9ced87aa6b38a2b6f905?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | AthenaHealth | Software Engineering Intern | Boston, MA | <a href="http://redirect.cvrve.me/a3128e0b39215b101ac3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| Alcon | Digital Deployment Intern | Fort Worth, TX | <a href="https://redirect.cvrve.me/ded88dfe291838e7c1df?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| ↳ | Digital Platform Security Intern | Fort Worth, TX | <a href="https://redirect.cvrve.me/87c02f93a8d10e3260af?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Intuitive | Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/07e422c437720ff21c46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
 | Zscaler | Site Reliability Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/6a63ebd7f5bbd90c5802?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Waymo | ML Runtime Optimization Intern, Masters | Mountain View, CA | <a href="http://redirect.cvrve.me/28781d66c1cc5e847380?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
