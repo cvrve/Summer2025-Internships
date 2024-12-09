@@ -48,8 +48,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | AthenaHealth | Software Engineering Intern | Boston, MA | <a href="http://redirect.cvrve.me/a3128e0b39215b101ac3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Intuitive | Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/07e422c437720ff21c46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
+| Zscaler | Site Reliability Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/6a63ebd7f5bbd90c5802?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Waymo | ML Runtime Optimization Intern, Masters | Mountain View, CA | <a href="http://redirect.cvrve.me/28781d66c1cc5e847380?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Oracle | Product Manager Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8a57ae4df9454022f1de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| Dassult Systemes | Data Engineer Intern | Iselin, NJ | <a href="https://redirect.cvrve.me/564884fbd2953a5f3f5f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| ↳ | Rave Platform Technology Intern | New York, NY | <a href="https://redirect.cvrve.me/0612a55a34b535c60aa9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Dassault Systemes | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/cc5ce550e41c131ecb72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Accolade | Growth Product Management Intern | Seattle, WA | <a href="http://redirect.cvrve.me/52d3ab346a12a2614e92?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | Symbotic | Software Engineer Intern | Wilmington, MA | <a href="http://redirect.cvrve.me/35aedd2bc36852cb9534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
