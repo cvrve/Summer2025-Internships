@@ -47982,5 +47982,107 @@
         "date_posted": 1733619741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733775188,
+        "url": "https://redirect.cvrve.me/9ced87aa6b38a2b6f905",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Web/DevOps",
+        "source": "vanshb03",
+        "id": "cda3c69a-25c7-4b29-b6ee-4cf0d902238e",
+        "date_posted": 1733775188,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733775191,
+        "url": "https://redirect.cvrve.me/4a4b4aea36c5938dee13",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "8aabf912-ee24-4fe2-bad6-b7dae236d297",
+        "date_posted": 1733775191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733775196,
+        "url": "https://redirect.cvrve.me/87c02f93a8d10e3260af",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "Digital Platform Security Intern",
+        "source": "vanshb03",
+        "id": "d1e649ae-233e-4418-82bd-94a90b86b6a5",
+        "date_posted": 1733775196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733775198,
+        "url": "https://redirect.cvrve.me/ded88dfe291838e7c1df",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "Digital Deployment Intern",
+        "source": "vanshb03",
+        "id": "1a78fde6-bd2a-4727-abde-1111d863842b",
+        "date_posted": 1733775198,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733775203,
+        "url": "https://redirect.cvrve.me/0d4e0bde0c536208b464",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "ecdf7a09-8877-4029-9aba-a1469f6257a8",
+        "date_posted": 1733775203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733775204,
+        "url": "https://redirect.cvrve.me/a7e65fcef0af7607d45a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "Software Engineering Intern, Enterprise Systems",
+        "source": "vanshb03",
+        "id": "040901fe-a5b6-4ee3-b2f1-c77636aa013b",
+        "date_posted": 1733775204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
