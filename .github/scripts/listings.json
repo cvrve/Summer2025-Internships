@@ -47931,5 +47931,56 @@
         "date_posted": 1733774838,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733619702,
+        "url": "https://redirect.cvrve.me/0612a55a34b535c60aa9",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dassult Systemes",
+        "title": "Rave Platform Technology Intern",
+        "source": "vanshb03",
+        "id": "b44a0f53-eb80-4e66-ac11-2e4e0434d40e",
+        "date_posted": 1733619702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733619708,
+        "url": "https://redirect.cvrve.me/564884fbd2953a5f3f5f",
+        "locations": [
+            "Iselin, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dassult Systemes",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "5454a86e-d00d-4b71-befa-ab01017b5304",
+        "date_posted": 1733619708,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733619741,
+        "url": "https://redirect.cvrve.me/6a63ebd7f5bbd90c5802",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zscaler",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "824ba0bd-727a-4a5a-840f-e6a3ab5064f2",
+        "date_posted": 1733619741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
