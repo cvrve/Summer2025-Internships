@@ -48203,5 +48203,22 @@
         "date_posted": 1733861000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733861168,
+        "url": "https://redirect.cvrve.me/8281e3533f6d3b5cbe91",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin's Famous Pastry Shoppe",
+        "title": "Software Engineering Intern - Spring",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "dd5d7372-3458-4021-9e8f-40032b5f6748",
+        "date_posted": 1733861168,
+        "company_url": "",
+        "is_visible": true
     }
 ]
