@@ -48084,5 +48084,22 @@
         "date_posted": 1733775204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733789062,
+        "url": "http://redirect.cvrve.me/d84bb17d90bbb7a4c979",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entegris",
+        "title": "IT Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6b099e52-a05c-4671-85a1-9a00f6eccfd7",
+        "date_posted": 1733789062,
+        "company_url": "",
+        "is_visible": true
     }
 ]
