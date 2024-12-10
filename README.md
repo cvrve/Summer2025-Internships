@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zipline | Software Engineering Intern, Enterprise Systems | San Francisco, CA | <a href="https://redirect.cvrve.me/a7e65fcef0af7607d45a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | ↳ | Data Analytics Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/0d4e0bde0c536208b464?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| LifeFitness | Software Engineering Intern | Franklin Park, IL | <a href="http://redirect.cvrve.me/6ad87e8401a0517af318?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Garmin | Software Engineer Intern, Mobile | Olathe, KS | <a href="https://redirect.cvrve.me/4a4b4aea36c5938dee13?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | ↳ | Software Engineer Intern, Web/DevOps | Olathe, KS | <a href="https://redirect.cvrve.me/9ced87aa6b38a2b6f905?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Entegris | IT Application Developer Intern | Chaska, MN | <a href="http://redirect.cvrve.me/d84bb17d90bbb7a4c979?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
