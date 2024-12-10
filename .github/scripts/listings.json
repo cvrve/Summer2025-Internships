@@ -48135,5 +48135,73 @@
         "date_posted": 1733789287,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733860993,
+        "url": "https://redirect.cvrve.me/c360dc98a1331bc6c9d3",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Data Services Intern",
+        "source": "vanshb03",
+        "id": "e5885f58-1dc4-4b80-b825-89401aafec40",
+        "date_posted": 1733860993,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733860995,
+        "url": "https://redirect.cvrve.me/5c9859c4f2ad3055b1f6",
+        "locations": [
+            "Franklin Park, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Life Fitness",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "83ad59a0-08d9-45db-a13f-d1f9e8a598d5",
+        "date_posted": 1733860995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733860997,
+        "url": "https://redirect.cvrve.me/637a79e795d0ad05f43d",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Data Intelligence Intern",
+        "source": "vanshb03",
+        "id": "8a59d499-e736-4102-a3e7-21dd2138c4c1",
+        "date_posted": 1733860997,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733861000,
+        "url": "https://redirect.cvrve.me/318ecca95422cd142288",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Life Fitness",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "5ce61d16-418c-4045-84a6-50f034b97e80",
+        "date_posted": 1733861000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
