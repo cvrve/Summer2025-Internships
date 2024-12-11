@@ -48220,5 +48220,77 @@
         "date_posted": 1733861168,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733883493,
+        "url": "https://redirect.cvrve.me/48d3b5f47b4f185c6d94",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "Technical Program Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "62c2c12d-0517-4187-81f5-078c32690481",
+        "date_posted": 1733883493,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733883596,
+        "url": "https://redirect.cvrve.me/3d0f813708aea3804a9f",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "Arlington, VA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Solutions Architect Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3f8d7bf9-d638-471e-b323-6b4315ec471b",
+        "date_posted": 1733883596,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733883624,
+        "url": "https://redirect.cvrve.me/bb0749901f4eb3273ca7",
+        "locations": [
+            "Dallas, TX",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b05e2316-5773-4053-95c1-85416c6c69b1",
+        "date_posted": 1733883624,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733883665,
+        "url": "https://redirect.cvrve.me/9d9183636f63e5c94f78",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, Java",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b930590c-d864-4618-8865-a68b6b6d51f0",
+        "date_posted": 1733883665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
