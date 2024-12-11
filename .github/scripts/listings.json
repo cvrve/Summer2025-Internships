@@ -48292,5 +48292,39 @@
         "date_posted": 1733883665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1733883812,
+        "url": "https://redirect.cvrve.me/ea272344bf77adbfe9db",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Full Stack Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74a0453f-9f83-490b-a74b-a80992eae7e9",
+        "date_posted": 1733883812,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1733884370,
+        "url": "https://redirect.cvrve.me/a640a46f937eb7391e76",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Dev Engineer Intern, Annapurna ML",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "85155262-a2e9-47da-90e1-640c562460b8",
+        "date_posted": 1733884370,
+        "company_url": "",
+        "is_visible": true
     }
 ]
