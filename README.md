@@ -46,10 +46,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zipline | Technical Program Manager Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/48d3b5f47b4f185c6d94?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
+| Staples | Software Engineer Intern, Java | Framingham, MA | <a href="https://redirect.cvrve.me/9d9183636f63e5c94f78?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
+| Salesforce | Data Analyst Intern | Dallas, TX</br>Atlanta, GA | <a href="https://redirect.cvrve.me/bb0749901f4eb3273ca7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | Nasdaq | Data Intelligence Intern | Atlanta, GA | <a href="https://redirect.cvrve.me/637a79e795d0ad05f43d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | ↳ | Data Services Intern | Atlanta, GA | <a href="https://redirect.cvrve.me/c360dc98a1331bc6c9d3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | Life Fitness | IT Intern | Rosemont, IL | <a href="https://redirect.cvrve.me/318ecca95422cd142288?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | ↳ | Software Engineering Intern | Franklin Park, IL | <a href="https://redirect.cvrve.me/5c9859c4f2ad3055b1f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
+| Amazon | Solutions Architect Intern | <details><summary>**4 locations**</summary>Austin, TX</br>Seattle, WA</br>Arlington, VA</br>New York, NY</details> | <a href="https://redirect.cvrve.me/3d0f813708aea3804a9f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | Zipline | Software Engineering Intern, Enterprise Systems | San Francisco, CA | <a href="https://redirect.cvrve.me/a7e65fcef0af7607d45a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | ↳ | Data Analytics Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/0d4e0bde0c536208b464?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | LifeFitness | Software Engineering Intern | Franklin Park, IL | <a href="http://redirect.cvrve.me/6ad87e8401a0517af318?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
