@@ -49011,5 +49011,22 @@
         "date_posted": 1734034531,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734034587,
+        "url": "http://redirect.cvrve.me/05e1617bb80820a15019",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5899c6d7-756a-4f71-bcd9-c54f6686f9c7",
+        "date_posted": 1734034587,
+        "company_url": "",
+        "is_visible": true
     }
 ]
