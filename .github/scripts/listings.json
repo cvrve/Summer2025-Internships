@@ -49028,5 +49028,22 @@
         "date_posted": 1734034587,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734034646,
+        "url": "http://redirect.cvrve.me/81a34e2d97dd22d38cf7",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TQL",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3be2f066-3fd5-44a7-ab6a-2ee4cd6fff5b",
+        "date_posted": 1734034646,
+        "company_url": "",
+        "is_visible": true
     }
 ]
