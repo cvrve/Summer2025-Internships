@@ -48909,5 +48909,73 @@
         "date_posted": 1734033286,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734033321,
+        "url": "https://redirect.cvrve.me/28efb6ddf4bb7fdc2a88",
+        "locations": [
+            "Allen, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "Software Engineer Intern, Credit Union Solutions",
+        "source": "vanshb03",
+        "id": "52943470-64f5-4c5e-b1d9-f9a6dc41f0ae",
+        "date_posted": 1734033321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734033323,
+        "url": "https://redirect.cvrve.me/cd8a4059e351427ea931",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nvidia",
+        "title": "Developer Technology Intern, AI",
+        "source": "vanshb03",
+        "id": "ab2eb321-6b0c-4a78-b239-e14f6bab8046",
+        "date_posted": 1734033323,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734033324,
+        "url": "https://redirect.cvrve.me/66505b854e0b09d4e4e3",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nvidia",
+        "title": "Developer Technology Intern, High-Performance Databases",
+        "source": "vanshb03",
+        "id": "bb4e8782-c1d8-4c2e-b5c9-c67b1b32d3c7",
+        "date_posted": 1734033324,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734033326,
+        "url": "https://redirect.cvrve.me/df3b21648464949190dd",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "V2X",
+        "title": "Cyber Engineering Intern",
+        "source": "vanshb03",
+        "id": "7f69fe67-7983-4436-aae4-bfed522fb2ca",
+        "date_posted": 1734033326,
+        "company_url": "",
+        "is_visible": true
     }
 ]
