@@ -49045,5 +49045,22 @@
         "date_posted": 1734034646,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734034769,
+        "url": "http://redirect.cvrve.me/145c11872a99a71546b5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Endeavor",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fbe73d71-9521-4715-8c8f-2a6e957b95ee",
+        "date_posted": 1734034769,
+        "company_url": "",
+        "is_visible": true
     }
 ]

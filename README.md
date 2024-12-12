@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Formlabs | Embedded Software Intern | Somerville, MA | <a href="https://redirect.cvrve.me/4639c1c5243042a34a76?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | ↳ | Desktop Software Intern | Somerville, MA | <a href="http://redirect.cvrve.me/0f6e1260bc983617553a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Equifax | Software Engineer Intern | Alpharetta, GA | <a href="https://redirect.cvrve.me/44f499506cb6d9261810?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| Endeavor | Product Management Intern | New York, NY | <a href="http://redirect.cvrve.me/145c11872a99a71546b5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Docusign | Product Manager Intern | Seattle, WA | <a href="https://redirect.cvrve.me/7a6012d486a32847122e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | ↳ | Product Security Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/1da82c38eeff8fbde43e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | ↳ | AI Engineer Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/140378a06f4520458d0a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
