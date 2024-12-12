@@ -48994,5 +48994,22 @@
         "date_posted": 1734034448,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734034531,
+        "url": "http://redirect.cvrve.me/8717d31c6babd379c000",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "o9 Solutions",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9c84a248-7880-4da3-a233-81f6b20d99f5",
+        "date_posted": 1734034531,
+        "company_url": "",
+        "is_visible": true
     }
 ]
