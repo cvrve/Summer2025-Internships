@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Xylem | Software Engineering Intern | Boise, ID | <a href="https://redirect.cvrve.me/c137d7d7933ec38d46d6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
-| V2X | Software Engineering Intern | Indianapolis, IN | <a href="https://redirect.cvrve.me/6c82171c3b4de46402f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| V2X | Cyber Engineering Intern | Indianapolis, IN | <a href="https://redirect.cvrve.me/df3b21648464949190dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| ↳ | Software Engineering Intern | Indianapolis, IN | <a href="https://redirect.cvrve.me/6c82171c3b4de46402f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | UiPath | Software Engineer Intern | Bellevue, WA | <a href="https://redirect.cvrve.me/9e8f70bb7b8964431b90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Tesla | Machine Learning Engineer Intern | Fremont, CA | <a href="https://redirect.cvrve.me/9f070b96b114a4f3bc7f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Seagate | Advanced Controls / Embedded Engineer Intern | Shakopee, MN</br>Longmont, CO | <a href="https://redirect.cvrve.me/5f58f99b029b5a617f4a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
@@ -55,8 +56,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PowerFLOW | DevOps Software Developer Intern | Waltham, MA | <a href="https://redirect.cvrve.me/e9d0dcc1c00cbb461b4f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Parsons | Software Engineering Intern | Remote | <a href="https://redirect.cvrve.me/5c096ab2ac8d76217583?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | ↳ | Engineering Intern | Herndon, VA | <a href="https://redirect.cvrve.me/4da11476bff3a9117160?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
-| NVIDIA | Data Scientist Intern - Masters/PhD | Santa Clara, CA | <a href="https://redirect.cvrve.me/75d491cc29e9eb6a559d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| Nvidia | Developer Technology Intern, High-Performance Databases | Santa Clara, CA | <a href="https://redirect.cvrve.me/66505b854e0b09d4e4e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| ↳ | Developer Technology Intern, AI | Santa Clara, CA | <a href="https://redirect.cvrve.me/cd8a4059e351427ea931?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| ↳ | Data Scientist Intern - Masters/PhD | Santa Clara, CA | <a href="https://redirect.cvrve.me/75d491cc29e9eb6a559d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Motorola | Software Developer, Systems & Solutions | Chicago, IL | <a href="https://redirect.cvrve.me/dcbe383e505503844bce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
+| Jack Henry | Software Engineer Intern, Credit Union Solutions | Allen, TX | <a href="https://redirect.cvrve.me/28efb6ddf4bb7fdc2a88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Intel | Software Engineer Intern | Santa Clara, CA</br>Folsom, CA</br>Phoenix, AZ | <a href="https://redirect.cvrve.me/dcdfaad74f84847dc3ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Humane | Computer Vision Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/65f2ab9f26e76b25154c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | GitHub | Software Engineer Intern, IT | Remote | <a href="https://redirect.cvrve.me/db151d4483c7703e2aaa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
