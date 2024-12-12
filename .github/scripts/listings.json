@@ -48892,5 +48892,22 @@
         "date_posted": 1734001737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734033286,
+        "url": "http://redirect.cvrve.me/65f2ab9f26e76b25154c",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Humane",
+        "title": "Computer Vision Engineering Intern",
+        "season": "Summer",
+        "source": "AyanT01",
+        "id": "81e1cb7d-1297-4c2c-96a4-8fea96d7984c",
+        "date_posted": 1734033286,
+        "company_url": "",
+        "is_visible": true
     }
 ]
