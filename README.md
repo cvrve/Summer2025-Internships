@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Perplexity AI | Frontend & Fullstack Resident | San Francisco, CA | <a href="https://redirect.cvrve.me/perplexityai?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | Xylem | Software Engineering Intern | Boise, ID | <a href="https://redirect.cvrve.me/c137d7d7933ec38d46d6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | V2X | Cyber Engineering Intern | Indianapolis, IN | <a href="https://redirect.cvrve.me/df3b21648464949190dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | ↳ | Software Engineering Intern | Indianapolis, IN | <a href="https://redirect.cvrve.me/6c82171c3b4de46402f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |

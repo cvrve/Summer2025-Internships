@@ -49081,5 +49081,22 @@
         "date_posted": 1734034897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734120184,
+        "url": "https://redirect.cvrve.me/perplexityai",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Perplexity AI",
+        "title": "Frontend & Fullstack Resident",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "afa38e37-62ab-4b7d-8f93-43e97dfdeb8b",
+        "date_posted": 1734120184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
