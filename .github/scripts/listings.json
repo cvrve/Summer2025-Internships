@@ -49098,5 +49098,263 @@
         "date_posted": 1734120184,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734120537,
+        "url": "https://redirect.cvrve.me/892c089900ef79cef767",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dassult Systemes",
+        "title": "DevOps Software Developer Intern",
+        "source": "vanshb03",
+        "id": "57b1350b-d9fe-4952-ad78-d26c277eef39",
+        "date_posted": 1734120537,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120546,
+        "url": "https://redirect.cvrve.me/6332b2616b8597e5d6d7",
+        "locations": [
+            "Seattle, WA",
+            "Redmond, WA",
+            "Bellevue, WA",
+            "Palo Alto, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "SDE Intern",
+        "source": "vanshb03",
+        "id": "788138f4-15fe-4d5b-8f7c-c3e9144dfbd9",
+        "date_posted": 1734120546,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120562,
+        "url": "https://redirect.cvrve.me/f56bcb39f08b674ae3c8",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "005cd143-e60f-40fb-b5d9-085cb1ed51fd",
+        "date_posted": 1734120562,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120576,
+        "url": "https://redirect.cvrve.me/5bd11a2ce18ef4472e65",
+        "locations": [
+            "Ipswich, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development Intern, IAM",
+        "source": "vanshb03",
+        "id": "a53aba02-8153-43e2-8f4a-50a141a65583",
+        "date_posted": 1734120576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120577,
+        "url": "https://redirect.cvrve.me/fea66088684e44266344",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "6c1cacdd-d97d-41d0-bc7f-049cb9fa04db",
+        "date_posted": 1734120577,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120578,
+        "url": "https://redirect.cvrve.me/c49f6f40bb527dcdb181",
+        "locations": [
+            "Ipswich, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development/Analytics Intern, Configuration ART",
+        "source": "vanshb03",
+        "id": "947f98fc-33c8-4a21-911a-dce43ac6da1a",
+        "date_posted": 1734120578,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120579,
+        "url": "https://redirect.cvrve.me/c987c173d218bc401405",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "599dcecd-9541-4e7c-baaf-b472dc393b79",
+        "date_posted": 1734120579,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120581,
+        "url": "https://redirect.cvrve.me/9ea97e531aa924253995",
+        "locations": [
+            "Ipswich, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Engineering Intern, Hosting Hub",
+        "source": "vanshb03",
+        "id": "63802bcf-f11a-4c52-9cea-6b6dbbca9c94",
+        "date_posted": 1734120581,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120582,
+        "url": "https://redirect.cvrve.me/8303d4ddbbd65374d20e",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development Intern, Multi-Functional",
+        "source": "vanshb03",
+        "id": "29a5105c-1bdd-4d59-9239-21d06f2186f0",
+        "date_posted": 1734120582,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120583,
+        "url": "https://redirect.cvrve.me/e6913ebbbae9e31dac64",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development Intern, Knowledge Graphs & Artificial Intelligence",
+        "source": "vanshb03",
+        "id": "f16f5951-3a88-4ce2-af64-caf3fc50a1ab",
+        "date_posted": 1734120583,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120584,
+        "url": "https://redirect.cvrve.me/c5cfcf8b6834ed8021de",
+        "locations": [
+            "Ipswich, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Development Intern, Operations & Finance Development",
+        "source": "vanshb03",
+        "id": "56208011-aa9f-4551-9c38-6e64df56e94f",
+        "date_posted": 1734120584,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120586,
+        "url": "https://redirect.cvrve.me/68eda50d6a587366fac4",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "62548aa5-5cf5-4d0e-aece-2249fc2136f4",
+        "date_posted": 1734120586,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120587,
+        "url": "https://redirect.cvrve.me/6ca737a5b581d9f2a9c1",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Software Engineering Intern, Full Stack",
+        "source": "vanshb03",
+        "id": "b476cb59-4470-4a38-8d74-7cd748c84482",
+        "date_posted": 1734120587,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120588,
+        "url": "https://redirect.cvrve.me/ee6c8d015779fbb601fe",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "Business/Data Analysis Intern",
+        "source": "vanshb03",
+        "id": "77d78056-9bbd-4b19-a484-797fd4937bb3",
+        "date_posted": 1734120588,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734120589,
+        "url": "https://redirect.cvrve.me/bf0af01ee0290355ea27",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EBSCO",
+        "title": "SAI Chatbot Development Intern",
+        "source": "vanshb03",
+        "id": "449f62ff-21b3-4a3e-afb4-59f302c8a96e",
+        "date_posted": 1734120589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
