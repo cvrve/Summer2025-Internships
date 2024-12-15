@@ -49356,5 +49356,193 @@
         "date_posted": 1734120589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734283745,
+        "url": "https://redirect.cvrve.me/24352307818ada841fc2",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "b3e6e215-07f7-43f7-98e7-f6778dc6aef0",
+        "date_posted": 1734283745,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283746,
+        "url": "https://redirect.cvrve.me/a6ffd7d9c878f540ed40",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "b5149aa2-f9cc-480a-8c46-99b91bdecad8",
+        "date_posted": 1734283746,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283778,
+        "url": "https://redirect.cvrve.me/c4b9b388eb868b8ff47a",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Engineer Intern, UTG",
+        "source": "vanshb03",
+        "id": "2f48821e-91e3-4baf-9a75-f26522c1cbf8",
+        "date_posted": 1734283778,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283782,
+        "url": "https://redirect.cvrve.me/1796b2f39aada31b3c53",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Information Security Engineer Intern, ServiceNow Security Organization",
+        "source": "vanshb03",
+        "id": "eec2cd16-8efb-4854-b850-7b4360fecdf8",
+        "date_posted": 1734283782,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283786,
+        "url": "https://redirect.cvrve.me/bfab3519de76bbcff89c",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "ML Data Linguist Intern",
+        "source": "vanshb03",
+        "id": "e0b5016f-53de-4687-a7d2-7948b3780d36",
+        "date_posted": 1734283786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283792,
+        "url": "https://redirect.cvrve.me/5fbc46849d369953b214",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Machine Learning DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "c93d3dca-27fe-4a35-bce8-9e162464e749",
+        "date_posted": 1734283792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283794,
+        "url": "https://redirect.cvrve.me/7258d0eaa8002ccb7a56",
+        "locations": [
+            "Tustin, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Thermal Controls",
+        "source": "vanshb03",
+        "id": "f18de868-e155-4eb6-8af1-e73b445e44cc",
+        "date_posted": 1734283794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283795,
+        "url": "https://redirect.cvrve.me/e49b17030c9bc74cb086",
+        "locations": [
+            "Colorado Springs, CO",
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "IT Engineer Intern",
+        "source": "vanshb03",
+        "id": "1dabd4b4-9649-47f8-b3cc-0e48c0661906",
+        "date_posted": 1734283795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283797,
+        "url": "https://redirect.cvrve.me/4e2c05a52cf01703580f",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8b7ac403-6305-424b-9f79-c3086cb81769",
+        "date_posted": 1734283797,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283798,
+        "url": "https://redirect.cvrve.me/6f25b39174360a2c78dd",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "AI Software Developer Intern",
+        "source": "vanshb03",
+        "id": "7a9e2127-fde7-4554-8481-e68523033dd0",
+        "date_posted": 1734283798,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734283799,
+        "url": "https://redirect.cvrve.me/ad3491387c1374aeb828",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affinius Capital",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d415e4bb-e024-4a7c-bc46-65cce1b52a32",
+        "date_posted": 1734283799,
+        "company_url": "",
+        "is_visible": true
     }
 ]
