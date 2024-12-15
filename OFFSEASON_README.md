@@ -73,6 +73,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Western Digital | Software Engineering Co-op - Fall | Rochester, MN | <a href="https://redirect.cvrve.me/4e54ecf4b2e9487e478a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | Martin's Famous Pastry Shoppe | Software Engineering Intern - Spring | Chambersburg, PA | <a href="https://redirect.cvrve.me/8281e3533f6d3b5cbe91?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 10 |
 | Tesla | Data Engineer Intern - Spring | Fremont, CA | <a href="http://redirect.cvrve.me/5d9dad532263a6d9963a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Pison | Algorithm Production Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/0ee54cf8c83a6111c748?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
