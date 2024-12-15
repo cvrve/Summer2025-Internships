@@ -49544,5 +49544,22 @@
         "date_posted": 1734283799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734284409,
+        "url": "https://redirect.cvrve.me/4e54ecf4b2e9487e478a",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineering Co-op - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e4a23333-1f3a-4ae7-93c3-e23912fd094b",
+        "date_posted": 1734284409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
