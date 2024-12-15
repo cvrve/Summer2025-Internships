@@ -46,6 +46,17 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ServiceNow | Associate Machine Learning DevOps Engineer Intern | Santa Clara, CA | <a href="https://redirect.cvrve.me/5fbc46849d369953b214?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | ML Data Linguist Intern | Santa Clara, CA | <a href="https://redirect.cvrve.me/bfab3519de76bbcff89c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | Information Security Engineer Intern, ServiceNow Security Organization | San Diego, CA | <a href="https://redirect.cvrve.me/1796b2f39aada31b3c53?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | Software Engineer Intern, UTG | Santa Clara, CA | <a href="https://redirect.cvrve.me/c4b9b388eb868b8ff47a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| Rivian and Volkswagen Group Technologies | Software Engineering Intern, Thermal Controls | Tustin, CA | <a href="https://redirect.cvrve.me/7258d0eaa8002ccb7a56?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| Leidos | Cyber Security Intern | Lexington, KY | <a href="https://redirect.cvrve.me/a6ffd7d9c878f540ed40?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | Data Analytics Intern | Huntsville, AL | <a href="https://redirect.cvrve.me/24352307818ada841fc2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| Keysight | AI Software Developer Intern | Sacramento, CA | <a href="https://redirect.cvrve.me/6f25b39174360a2c78dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | R&D Software Engineering Intern | Loveland, CO | <a href="https://redirect.cvrve.me/4e2c05a52cf01703580f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| ↳ | IT Engineer Intern | Colorado Springs, CO</br>Santa Clara, CA | <a href="https://redirect.cvrve.me/e49b17030c9bc74cb086?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
+| Affinius Capital | Software Engineering Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/ad3491387c1374aeb828?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | Perplexity AI | Frontend & Fullstack Resident | San Francisco, CA | <a href="https://redirect.cvrve.me/perplexityai?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | EBSCO | SAI Chatbot Development Intern | Remote | <a href="https://redirect.cvrve.me/bf0af01ee0290355ea27?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | ↳ | Business/Data Analysis Intern | Remote | <a href="https://redirect.cvrve.me/ee6c8d015779fbb601fe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
