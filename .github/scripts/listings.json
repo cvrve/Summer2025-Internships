@@ -49938,5 +49938,23 @@
         "date_posted": 1734348377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734385848,
+        "url": "http://redirect.cvrve.me/d702860db8110edcbe15",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Assurant",
+        "title": "Business Integration Data Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d0d4566-6961-40ac-be1e-0b38d2c4bb21",
+        "date_posted": 1734385848,
+        "company_url": "",
+        "is_visible": true
     }
 ]
