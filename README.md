@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Neuralink | Software Engineer Intern, Lab Systems | Fremont, CA | <a href="http://redirect.cvrve.me/ba570676ca81f9cb9d89?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Little Caesars | Software Development Intern | Detroit, MI | <a href="http://redirect.cvrve.me/046c159661d7f9048958?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Carnegie Mellon University | AI for Software Engineering Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/1cd46080d52a8c766e08?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Affinius Capital | Application Developer Intern | San Antonio, TX | <a href="http://redirect.cvrve.me/94ed8561b32d12ab9fb7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
