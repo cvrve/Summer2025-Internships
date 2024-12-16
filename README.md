@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tactile Medical | Software Engineer Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/99ba462575be00cd5031?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Schneider Electric | Embedded AI Intern/Co-Op | Andover, MA | <a href="http://redirect.cvrve.me/d0f541660ba56998fb08?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Neuralink | Software Engineer Intern, Lab Systems | Fremont, CA | <a href="http://redirect.cvrve.me/ba570676ca81f9cb9d89?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Metlife | Jr SWE / Platform Intern | Cary, NC | <a href="http://redirect.cvrve.me/031e7d527d3092e6c997?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |

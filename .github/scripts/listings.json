@@ -49714,5 +49714,22 @@
         "date_posted": 1734346386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346419,
+        "url": "http://redirect.cvrve.me/99ba462575be00cd5031",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tactile Medical",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb21c01e-a144-447b-961c-2beace9447a7",
+        "date_posted": 1734346419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
