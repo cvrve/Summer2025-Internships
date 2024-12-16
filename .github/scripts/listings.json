@@ -49956,5 +49956,23 @@
         "date_posted": 1734385848,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734385880,
+        "url": "http://redirect.cvrve.me/960d5b086eb5a4ba040b",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Assurant",
+        "title": "AI/Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccf0c93d-39c9-4544-b1aa-ff455ce1ea8e",
+        "date_posted": 1734385880,
+        "company_url": "",
+        "is_visible": true
     }
 ]
