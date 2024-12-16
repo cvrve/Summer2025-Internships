@@ -49663,5 +49663,22 @@
         "date_posted": 1734346296,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346326,
+        "url": "http://redirect.cvrve.me/065969ad5170f3bf6ea7",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "WaveLogic Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b6ab2aee-3fe2-4350-8944-dea25709451a",
+        "date_posted": 1734346326,
+        "company_url": "",
+        "is_visible": true
     }
 ]
