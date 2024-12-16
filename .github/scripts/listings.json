@@ -50008,5 +50008,22 @@
         "date_posted": 1734386005,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734386040,
+        "url": "https://job-boards.greenhouse.io/xometry/jobs/4605574007",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xometry",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "45b9ca66-b5b3-47d2-b0c4-b4e7ab440d16",
+        "date_posted": 1734386040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
