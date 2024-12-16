@@ -49731,5 +49731,25 @@
         "date_posted": 1734346419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346482,
+        "url": "http://redirect.cvrve.me/747e698c4022fa4b459e",
+        "locations": [
+            "Chicago, IL",
+            "Buffalo Grove, IL",
+            "Lewisville, TX",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CSC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a803f476-ace5-44c4-9c9e-334049f512cc",
+        "date_posted": 1734346482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
