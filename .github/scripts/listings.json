@@ -50025,5 +50025,22 @@
         "date_posted": 1734386040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734386078,
+        "url": "https://job-boards.greenhouse.io/xometry/jobs/4605626007",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xometry",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9000ed06-12e3-4e93-9d06-9a29cbe254fe",
+        "date_posted": 1734386078,
+        "company_url": "",
+        "is_visible": true
     }
 ]

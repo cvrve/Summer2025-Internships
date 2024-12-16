@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Xometry | Software Engineer Intern | North Bethesda, MD | <a href="https://job-boards.greenhouse.io/xometry/jobs/4605574007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
+| Xometry | Machine Learning Intern | Lexington, KY | <a href="https://job-boards.greenhouse.io/xometry/jobs/4605626007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
+| ↳ | Software Engineer Intern | North Bethesda, MD | <a href="https://job-boards.greenhouse.io/xometry/jobs/4605574007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | ↳ | Software Engineer Intern | Lexington, KY | <a href="https://job-boards.greenhouse.io/xometry/jobs/4605589007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Teradata | AI/ML Product Management Analytics Intern | San Diego, CA | <a href="http://redirect.cvrve.me/5ecba5ccbc08d95212a0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | Tactile Medical | Software Engineer Intern | Minneapolis, MN | <a href="http://redirect.cvrve.me/99ba462575be00cd5031?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
