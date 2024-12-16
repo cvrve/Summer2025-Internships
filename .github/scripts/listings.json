@@ -49870,5 +49870,22 @@
         "date_posted": 1734347768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734347810,
+        "url": "http://redirect.cvrve.me/ac1eaa03d312bb9faded",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "Software Test Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1897ff3e-5ad0-4335-b3aa-1311ab69251d",
+        "date_posted": 1734347810,
+        "company_url": "",
+        "is_visible": true
     }
 ]
