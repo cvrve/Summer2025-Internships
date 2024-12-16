@@ -49578,5 +49578,22 @@
         "date_posted": 1734346103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346134,
+        "url": "http://redirect.cvrve.me/94ed8561b32d12ab9fb7",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affinius Capital",
+        "title": "Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ba8eb320-f982-4620-883f-534129e2b405",
+        "date_posted": 1734346134,
+        "company_url": "",
+        "is_visible": true
     }
 ]
