@@ -49853,5 +49853,22 @@
         "date_posted": 1734346712,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734347768,
+        "url": "http://redirect.cvrve.me/8660d712d9d2e74df633",
+        "locations": [
+            "Bridgeton, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ba39b5b2-903f-4dfa-a952-a59de05ea115",
+        "date_posted": 1734347768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
