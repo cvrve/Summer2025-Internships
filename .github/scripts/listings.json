@@ -49785,5 +49785,22 @@
         "date_posted": 1734346539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346579,
+        "url": "http://redirect.cvrve.me/8d9f1a197c1e5f3495fc",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b53475d-61f4-4612-a72d-372987fbff86",
+        "date_posted": 1734346579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
