@@ -49887,5 +49887,22 @@
         "date_posted": 1734347810,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734347834,
+        "url": "http://redirect.cvrve.me/e0aa2fd16bf1d6d0d961",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cdbeb15b-924b-4ff3-ade0-b18150633c30",
+        "date_posted": 1734347834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
