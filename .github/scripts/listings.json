@@ -49991,5 +49991,22 @@
         "date_posted": 1734385967,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734386005,
+        "url": "https://job-boards.greenhouse.io/xometry/jobs/4605589007",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xometry",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e1bad95b-af83-407c-a5c0-17d117fbc853",
+        "date_posted": 1734386005,
+        "company_url": "",
+        "is_visible": true
     }
 ]
