@@ -49802,5 +49802,22 @@
         "date_posted": 1734346579,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346628,
+        "url": "http://redirect.cvrve.me/3b544ec1b6e843a16c3b",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Database Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2d18b76c-b81d-4b0f-8bae-4392c0981ddd",
+        "date_posted": 1734346628,
+        "company_url": "",
+        "is_visible": true
     }
 ]
