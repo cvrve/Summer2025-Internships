@@ -49921,5 +49921,22 @@
         "date_posted": 1734348304,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734348377,
+        "url": "http://redirect.cvrve.me/5726ccd2665b94b83a2c",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Product Management Intern, Community and Moderation",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5d04327a-2d14-4493-b036-36d894b759a2",
+        "date_posted": 1734348377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
