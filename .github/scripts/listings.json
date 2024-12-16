@@ -49629,5 +49629,22 @@
         "date_posted": 1734346220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346258,
+        "url": "http://redirect.cvrve.me/7ba99baf0d9cda6dfb23",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firefly Aerospace",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8cc0f70e-f50e-43a4-ab9a-ddc3649ea461",
+        "date_posted": 1734346258,
+        "company_url": "",
+        "is_visible": true
     }
 ]
