@@ -49646,5 +49646,22 @@
         "date_posted": 1734346258,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734346296,
+        "url": "http://redirect.cvrve.me/8b559f15d35b457ea422",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commscape",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9d6c1519-5df5-41eb-9505-289c5663baee",
+        "date_posted": 1734346296,
+        "company_url": "",
+        "is_visible": true
     }
 ]
