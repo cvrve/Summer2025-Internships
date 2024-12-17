@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Werfen | Product Management Intern | Bedford, MA | <a href="http://redirect.cvrve.me/a1d794cf36f44cb3780c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | KLA | Software Engineer, DevOps Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/192b478ea86ef9fa30ea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
+| American Express | Software Engineer Infrastructure Intern | Phoenix, AZ | <a href="http://redirect.cvrve.me/4460fa9f80ee8a5c3ed0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | Adobe | Program/Product Manager Intern | San Jose, CA</br>Austin, TX | <a href="http://redirect.cvrve.me/cbbe7e0436e0e57789f9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | Xometry | Data Science Intern | Lexington, KY | <a href="http://redirect.cvrve.me/ee4c2e4b5dd593845063?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | ↳ | Data Science Intern | North Bethesda, MD | <a href="http://redirect.cvrve.me/86818686c29bf1542f1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
