@@ -50093,5 +50093,22 @@
         "date_posted": 1734386268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734470472,
+        "url": "http://redirect.cvrve.me/a1d794cf36f44cb3780c",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Werfen",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8d170b77-4492-4fe2-80f2-55cf9868d527",
+        "date_posted": 1734470472,
+        "company_url": "",
+        "is_visible": true
     }
 ]

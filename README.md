@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Werfen | Product Management Intern | Bedford, MA | <a href="http://redirect.cvrve.me/a1d794cf36f44cb3780c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | Xometry | Data Science Intern | Lexington, KY | <a href="http://redirect.cvrve.me/ee4c2e4b5dd593845063?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | ↳ | Data Science Intern | North Bethesda, MD | <a href="http://redirect.cvrve.me/86818686c29bf1542f1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
 | ↳ | Machine Learning Intern | North Bethesda, MD | <a href="http://redirect.cvrve.me/edfdb231e96fd8e17de7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 16 |
