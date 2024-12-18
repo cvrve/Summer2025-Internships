@@ -50162,5 +50162,22 @@
         "date_posted": 1734471340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734513280,
+        "url": "http://redirect.cvrve.me/7a38920dd01c877211bd",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Gen AI Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e22a3d63-0b0f-48d7-87a9-e041b411c86f",
+        "date_posted": 1734513280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
