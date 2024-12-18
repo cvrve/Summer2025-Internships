@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | TikTok | Gen AI Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/7a38920dd01c877211bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
+| Hatch | Software Developer Intern | Fairfax, VA | <a href="http://redirect.cvrve.me/538e386bfc0e83876af5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | GWELEC | Manufacturing Application Development Intern | Bolingbrook, IL | <a href="http://redirect.cvrve.me/c93172e349211e1d5c8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Werfen | Product Management Intern | Bedford, MA | <a href="http://redirect.cvrve.me/a1d794cf36f44cb3780c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | KLA | Software Engineer, DevOps Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/192b478ea86ef9fa30ea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
