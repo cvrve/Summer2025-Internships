@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | TikTok | Gen AI Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/7a38920dd01c877211bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
+| Meta | Embedded Software Engineer Intern | Burlingame, CA | <a href="http://redirect.cvrve.me/d2ed0fa632646d7ca16b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Hatch | Software Developer Intern | Fairfax, VA | <a href="http://redirect.cvrve.me/538e386bfc0e83876af5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | GWELEC | Manufacturing Application Development Intern | Bolingbrook, IL | <a href="http://redirect.cvrve.me/c93172e349211e1d5c8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Affinius Capital | Application Developer Intern | San Antonio, TX | <a href="http://redirect.cvrve.me/0b7f7ed17cb5bafce5eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
