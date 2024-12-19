@@ -50811,5 +50811,22 @@
         "date_posted": 1734571614,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734574455,
+        "url": "http://redirect.cvrve.me/2e8e4e6a3c18dfef2214",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aaaf39fe-89ab-444e-bbcd-4a8697f69c5e",
+        "date_posted": 1734574455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
