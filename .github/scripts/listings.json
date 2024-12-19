@@ -50418,5 +50418,22 @@
         "date_posted": 1734570608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570655,
+        "url": "http://redirect.cvrve.me/8a4e21e00ffbd8460e3d",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freddie Mac",
+        "title": "Software Engineering and Data Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "535b2330-0821-4067-b445-cb25481b4aa0",
+        "date_posted": 1734570655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
