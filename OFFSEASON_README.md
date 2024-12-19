@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MKS | Software Engineering Co-op - Fall | Rochester, NY | <a href="http://redirect.cvrve.me/ba254a9721aa86b867b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Western Digital | Software Engineering Co-op - Fall | Rochester, MN | <a href="https://redirect.cvrve.me/4e54ecf4b2e9487e478a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | Pison | Algorithm Production Intern - Spring | Boston, MA | <a href="http://redirect.cvrve.me/0ee54cf8c83a6111c748?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | Formlabs | Desktop Software Intern - Spring | Somerville, MA | <a href="http://redirect.cvrve.me/cd401411449794933974?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
