@@ -50538,5 +50538,22 @@
         "date_posted": 1734570907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570932,
+        "url": "http://redirect.cvrve.me/921af0aff1ca9188e2dc",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xylem",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b022df8d-cd05-414a-b970-8178c5b84373",
+        "date_posted": 1734570932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
