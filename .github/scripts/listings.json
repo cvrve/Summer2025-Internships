@@ -50367,5 +50367,22 @@
         "date_posted": 1734570448,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570488,
+        "url": "http://redirect.cvrve.me/0c0bbb1e2fa35c34c9e6",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bastian Solutions",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c26f3fe3-3428-4af6-9f6a-b8aec90dba8f",
+        "date_posted": 1734570488,
+        "company_url": "",
+        "is_visible": true
     }
 ]
