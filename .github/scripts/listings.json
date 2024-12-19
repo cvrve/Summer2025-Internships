@@ -50777,5 +50777,22 @@
         "date_posted": 1734571547,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571584,
+        "url": "http://redirect.cvrve.me/fc86fd49fd58b8ae2615",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SEL",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ae50bb37-365c-4de6-956d-0eea2d201792",
+        "date_posted": 1734571584,
+        "company_url": "",
+        "is_visible": true
     }
 ]
