@@ -50743,5 +50743,22 @@
         "date_posted": 1734571460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571492,
+        "url": "http://redirect.cvrve.me/73f04f39fd4f634d4f4e",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Granite",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6fbbc9b2-4747-412e-96a9-761edaa82a1e",
+        "date_posted": 1734571492,
+        "company_url": "",
+        "is_visible": true
     }
 ]
