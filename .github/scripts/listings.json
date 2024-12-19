@@ -50657,5 +50657,22 @@
         "date_posted": 1734571232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571262,
+        "url": "http://redirect.cvrve.me/8726da7f9b3445080aae",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "18e85a20-895b-4485-a88f-dc53d21ad9a4",
+        "date_posted": 1734571262,
+        "company_url": "",
+        "is_visible": true
     }
 ]
