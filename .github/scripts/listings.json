@@ -50555,5 +50555,22 @@
         "date_posted": 1734570932,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570961,
+        "url": "http://redirect.cvrve.me/5ad1e6a19fcd95ba4341",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8672768e-9d34-48fc-a772-34d2600ad670",
+        "date_posted": 1734570961,
+        "company_url": "",
+        "is_visible": true
     }
 ]
