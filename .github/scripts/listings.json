@@ -50794,5 +50794,22 @@
         "date_posted": 1734571584,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571614,
+        "url": "http://redirect.cvrve.me/03f36d5747e72ec89f71",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CSC",
+        "title": "AI Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a9eef6fa-87b3-4e25-bbe6-75041c86572d",
+        "date_posted": 1734571614,
+        "company_url": "",
+        "is_visible": true
     }
 ]
