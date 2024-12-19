@@ -50623,5 +50623,22 @@
         "date_posted": 1734571063,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571193,
+        "url": "http://redirect.cvrve.me/ef9e49993c4164fc8836",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Empower",
+        "title": "Software Engineer Test Automation Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a41b7556-8743-4727-885f-1b545d4d474f",
+        "date_posted": 1734571193,
+        "company_url": "",
+        "is_visible": true
     }
 ]
