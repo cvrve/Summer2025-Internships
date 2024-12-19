@@ -50401,5 +50401,22 @@
         "date_posted": 1734570562,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570608,
+        "url": "http://redirect.cvrve.me/401dc5c8cde35947c170",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "16e380e4-74c4-4a62-93da-128f8f4e9e10",
+        "date_posted": 1734570608,
+        "company_url": "",
+        "is_visible": true
     }
 ]
