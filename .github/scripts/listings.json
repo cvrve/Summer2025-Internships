@@ -50726,5 +50726,22 @@
         "date_posted": 1734571388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571460,
+        "url": "http://redirect.cvrve.me/f50bc7a75790e3ee65e8",
+        "locations": [
+            "Ronks, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sight & Sound",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bf94c940-952d-451a-9db6-0d2ffdae5df5",
+        "date_posted": 1734571460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
