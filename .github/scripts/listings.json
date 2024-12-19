@@ -50350,5 +50350,22 @@
         "date_posted": 1734570411,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570448,
+        "url": "http://redirect.cvrve.me/632819f391370515c8ef",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineering Intern, RenderMan",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5135c24f-e90c-470d-9673-de551e3e1da5",
+        "date_posted": 1734570448,
+        "company_url": "",
+        "is_visible": true
     }
 ]
