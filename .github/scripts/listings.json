@@ -50572,5 +50572,22 @@
         "date_posted": 1734570961,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570993,
+        "url": "http://redirect.cvrve.me/fd5420ac235aebb38a90",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cea26a97-bd58-4a8b-a442-73fcb716ee08",
+        "date_posted": 1734570993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
