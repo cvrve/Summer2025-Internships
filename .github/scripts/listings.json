@@ -50470,5 +50470,22 @@
         "date_posted": 1734570737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570822,
+        "url": "http://redirect.cvrve.me/0f9248630de32ab1158c",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a94a62e0-dbad-4032-96e5-ea8f50277552",
+        "date_posted": 1734570822,
+        "company_url": "",
+        "is_visible": true
     }
 ]
