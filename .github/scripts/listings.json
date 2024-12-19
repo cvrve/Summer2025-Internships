@@ -50674,5 +50674,23 @@
         "date_posted": 1734571262,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571295,
+        "url": "http://redirect.cvrve.me/5cf0b290d3204a129d04",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "SoC Front-End Pre-Si Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "06acd46b-4957-4f95-b69e-59cb357e5cc5",
+        "date_posted": 1734571295,
+        "company_url": "",
+        "is_visible": true
     }
 ]
