@@ -50435,5 +50435,22 @@
         "date_posted": 1734570655,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734570708,
+        "url": "http://redirect.cvrve.me/d34c3e26cb58768392e6",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Development Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "400a9f60-767d-47c2-b916-9d3cf74ee602",
+        "date_posted": 1734570708,
+        "company_url": "",
+        "is_visible": true
     }
 ]
