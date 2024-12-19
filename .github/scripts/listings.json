@@ -50709,5 +50709,22 @@
         "date_posted": 1734571329,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734571388,
+        "url": "http://redirect.cvrve.me/a51b59f2e761b5945870",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9b2927e2-6f35-4222-9bca-3a5bc93f071f",
+        "date_posted": 1734571388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
