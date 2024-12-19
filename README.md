@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | TikTok | Gen AI Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/7a38920dd01c877211bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
+| SRC | Machine Learning Engineer Intern | Syracuse, NY | <a href="http://redirect.cvrve.me/ce411e80d6273d9ca591?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Parsons | Exploitation, Test, and Analysis Engineer Intern | Huntsville, AL | <a href="http://redirect.cvrve.me/2c7be552e97cbb0c6b3e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Motorola Solutions | Software Solutions Architect Intern | Remote</br>US | <a href="http://redirect.cvrve.me/99f7428d81c23781d34f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Meta | Embedded Software Engineer Intern | Burlingame, CA | <a href="http://redirect.cvrve.me/d2ed0fa632646d7ca16b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
