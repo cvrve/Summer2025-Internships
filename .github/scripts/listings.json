@@ -50316,5 +50316,22 @@
         "date_posted": 1734569489,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734569598,
+        "url": "http://redirect.cvrve.me/2c7be552e97cbb0c6b3e",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Exploitation, Test, and Analysis Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "84803992-8ca5-4cda-9c85-520524cfacd8",
+        "date_posted": 1734569598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
