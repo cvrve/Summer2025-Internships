@@ -50915,5 +50915,23 @@
         "date_posted": 1734732494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734732528,
+        "url": "http://redirect.cvrve.me/a4fb81e2c6f849696c4e",
+        "locations": [
+            "Bellevue, WA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "SDEI Intern, DynamoDB",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "f4d94cab-c9b5-4fe6-a9d9-d851a8eb60fc",
+        "date_posted": 1734732528,
+        "company_url": "",
+        "is_visible": true
     }
 ]
