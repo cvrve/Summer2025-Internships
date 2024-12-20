@@ -50953,5 +50953,465 @@
         "date_posted": 1734732558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734733029,
+        "url": "https://redirect.cvrve.me/d15ce1785865aec3b286",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Transamerica",
+        "title": "Financial Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "3e9cfc3f-4c3a-4f3f-b775-9a9bf3ef196b",
+        "date_posted": 1734733029,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733034,
+        "url": "https://redirect.cvrve.me/40e37823e94a890bf4bf",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research America",
+        "title": "Tech Incubation Intern",
+        "source": "vanshb03",
+        "id": "78a9f243-dd03-4ecd-ba0a-32715cdf4090",
+        "date_posted": 1734733034,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733039,
+        "url": "https://redirect.cvrve.me/846a0b8a39462b0bc14f",
+        "locations": [
+            "Bolingbrook, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "G&W Electric",
+        "title": "Manufacturing Application Development Intern",
+        "source": "vanshb03",
+        "id": "6b457578-15eb-4415-b941-3975ab3ef89a",
+        "date_posted": 1734733039,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733042,
+        "url": "https://redirect.cvrve.me/168bcdeaca0198cb212e",
+        "locations": [
+            "Colorado Springs, CO",
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0f796ac0-7d35-4812-ad09-1c1fb4960e1a",
+        "date_posted": 1734733042,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733047,
+        "url": "https://redirect.cvrve.me/03fd30de909526267615",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Software Assurance/Information Systems Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "c03f3eb0-7822-4266-9a5c-4c048b33257c",
+        "date_posted": 1734733047,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733048,
+        "url": "https://redirect.cvrve.me/437425400fc322b30882",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Computer Engineer/Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f335dacc-2f67-4ef6-b258-fbf07746214b",
+        "date_posted": 1734733048,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733051,
+        "url": "https://redirect.cvrve.me/f4b6f2d3c2469f7e1abe",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Space Ops Software Engineer Intern, Solutions for Situational Awareness",
+        "source": "vanshb03",
+        "id": "fcb4117f-641e-410a-bf09-4173968ba9ae",
+        "date_posted": 1734733051,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733052,
+        "url": "https://redirect.cvrve.me/7c20b7074851a7146d25",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Space Ops Software/ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "80d7909d-f121-4406-8847-64585861ea0c",
+        "date_posted": 1734733052,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733053,
+        "url": "https://redirect.cvrve.me/fd05bc9eea10c7b06ead",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Space Ops Software Engineer Intern, Traffic Coordination System for Space",
+        "source": "vanshb03",
+        "id": "a026a920-4801-47b3-be41-9e7e51fab72b",
+        "date_posted": 1734733053,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733060,
+        "url": "https://redirect.cvrve.me/356ad69fc8ec30330196",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Data Scientist Intern, Platforms & Technology - Enterprise Protect",
+        "source": "vanshb03",
+        "id": "3998e5f4-fff3-4e64-957e-dc6aac679293",
+        "date_posted": 1734733060,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733062,
+        "url": "https://redirect.cvrve.me/81ea056d3646dce0c049",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Research & Development Intern",
+        "source": "vanshb03",
+        "id": "b26702ec-5f06-47a1-923e-eea67535b726",
+        "date_posted": 1734733062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733064,
+        "url": "https://redirect.cvrve.me/bcb7e0a130944f00ad13",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "IT Support Intern",
+        "source": "vanshb03",
+        "id": "e64a4157-329c-4319-ac38-759b3e86aae5",
+        "date_posted": 1734733064,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733078,
+        "url": "https://redirect.cvrve.me/a7402f43f02d3fe938be",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0b26d6dc-61c4-4bc9-b7f1-2c8874665e5b",
+        "date_posted": 1734733078,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733079,
+        "url": "https://redirect.cvrve.me/9270738b52885d9b26be",
+        "locations": [
+            "Cary, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Information Systems Intern, ERP",
+        "source": "vanshb03",
+        "id": "f62c5e02-c50f-4b1e-94ad-8f8f4c35c8e6",
+        "date_posted": 1734733079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733081,
+        "url": "https://redirect.cvrve.me/0dbc1d3d867de86e6c63",
+        "locations": [
+            "Cary, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "d259f2e7-0f8c-4fa8-b81b-28467cae2dbd",
+        "date_posted": 1734733081,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733082,
+        "url": "https://redirect.cvrve.me/3a1ae7479c930a781afd",
+        "locations": [
+            "Cary, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Data & Analytics IS Intern",
+        "source": "vanshb03",
+        "id": "a410d98a-e27a-4fb5-a4f5-3bb9470c40b5",
+        "date_posted": 1734733082,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733087,
+        "url": "https://redirect.cvrve.me/0a40059a0f9f62fcbee6",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "DevOps Engineer Intern, Flight Software",
+        "source": "vanshb03",
+        "id": "be3eab26-f2c2-4ae2-af11-8d19ffbf2523",
+        "date_posted": 1734733087,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733092,
+        "url": "https://redirect.cvrve.me/b4fd2d25b064ef264d2d",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hatch",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "0bfa577e-f248-44ee-9e68-8d0e071e9d0b",
+        "date_posted": 1734733092,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733097,
+        "url": "https://redirect.cvrve.me/88702fa7aba4a9c5dc1b",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zscaler",
+        "title": "AI Innovation Intern, People & Culture (HR)",
+        "source": "vanshb03",
+        "id": "fa2aa823-82e0-45f3-9cf7-9e8a222b9125",
+        "date_posted": 1734733097,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733097,
+        "url": "https://redirect.cvrve.me/1a2df22850789ef03b3b",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zscaler",
+        "title": "CXO Experiences & Programming Intern",
+        "source": "vanshb03",
+        "id": "0862703f-c0c8-449a-8114-a93f039370c3",
+        "date_posted": 1734733097,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733098,
+        "url": "https://redirect.cvrve.me/9ee52bebb86c88237f91",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zscaler",
+        "title": "Artificial Intelligence/Machine Learning/Data Science Engineering Intern",
+        "source": "vanshb03",
+        "id": "cc923a7d-1818-49f0-a43e-54d6b82e5fff",
+        "date_posted": 1734733098,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733104,
+        "url": "https://redirect.cvrve.me/f50d1cad06061ee4046d",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "b8e0a4a2-c1eb-4a3c-b6d9-829c9563a819",
+        "date_posted": 1734733104,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733105,
+        "url": "https://redirect.cvrve.me/64b25f5128a2b5ed21d3",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "99053f70-0cad-4a02-ab73-1c56f5319b41",
+        "date_posted": 1734733105,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733107,
+        "url": "https://redirect.cvrve.me/b44274370e74ca4bde3d",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Architecture Intern",
+        "source": "vanshb03",
+        "id": "050ec748-acee-411f-a45a-5a5b7bd4a5b6",
+        "date_posted": 1734733107,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733110,
+        "url": "https://redirect.cvrve.me/e261cbc5b96f63913f29",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Testing Engineering Intern",
+        "source": "vanshb03",
+        "id": "e3cffebc-a0df-48aa-b749-d274c7ccbc86",
+        "date_posted": 1734733110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733111,
+        "url": "https://redirect.cvrve.me/a75dd769e1ce41ff357c",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Business Intelligence Developer Intern",
+        "source": "vanshb03",
+        "id": "f4641790-28d1-431d-9e7c-38b9005dd8da",
+        "date_posted": 1734733111,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734733115,
+        "url": "https://redirect.cvrve.me/cb433d8208142cc248ba",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gelber Group",
+        "title": "Algorithmic Trading Intern",
+        "source": "vanshb03",
+        "id": "0494d0fa-d2a9-46f4-9425-15f8d3874084",
+        "date_posted": 1734733115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
