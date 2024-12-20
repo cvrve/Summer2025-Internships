@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Yahoo | Software Engineering Internships | USA | <a href="http://redirect.cvrve.me/c50940b36ebca70eaf83?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
+| Shopify | Engineering and Data Internships 🛂 | <details><summary>**4 locations**</summary>Toronto, ON</br>Ottawa, ON</br>Montreal, QC</br>Canada</details> | <a href="http://redirect.cvrve.me/a14e6267bc952894f4a6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ServiceNow | Backend Software Engineer Intern Co-op 🛂 | Montreal, QC | <a href="http://redirect.cvrve.me/2da74703b62311da8983?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | Dropbox | Software Engineer Intern | Remote</br>Canada</br>AB, BC, ON, SK | <a href="http://redirect.cvrve.me/9200900b217d8a8a924b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ↳ | Software Engineer Intern | Remote, US | <a href="http://redirect.cvrve.me/4016f0b9996a23796e73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |

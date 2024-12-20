@@ -50933,5 +50933,25 @@
         "date_posted": 1734732528,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734732558,
+        "url": "http://redirect.cvrve.me/a14e6267bc952894f4a6",
+        "locations": [
+            "Toronto, ON",
+            "Ottawa, ON",
+            "Montreal, QC",
+            "Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Engineering and Data Internships",
+        "season": "Summer",
+        "source": "b3nkang",
+        "id": "0b2c70ec-3f78-4f8f-8f7c-548ff99e6a8d",
+        "date_posted": 1734732558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
