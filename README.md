@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Dropbox | Software Engineer Intern | Remote, US | <a href="http://redirect.cvrve.me/4016f0b9996a23796e73?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | Xylem | Software Engineering Intern | Morrisville, NC | <a href="http://redirect.cvrve.me/921af0aff1ca9188e2dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | TikTok | Software Development Test Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/d34c3e26cb58768392e6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | ↳ | Gen AI Software Engineer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/7a38920dd01c877211bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
