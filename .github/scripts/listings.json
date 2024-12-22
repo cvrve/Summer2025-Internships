@@ -51823,5 +51823,22 @@
         "date_posted": 1734909268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734909311,
+        "url": "http://redirect.cvrve.me/32b07fcabed87f555502",
+        "locations": [
+            "Moline, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a3a13ad4-ffca-4ed3-95ff-16a8a2bfc4ce",
+        "date_posted": 1734909311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
