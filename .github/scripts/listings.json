@@ -51874,5 +51874,22 @@
         "date_posted": 1734909389,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734909432,
+        "url": "http://redirect.cvrve.me/ec9a95816559c872fbb1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "441240ef-67af-4339-9576-4a09ec113a76",
+        "date_posted": 1734909432,
+        "company_url": "",
+        "is_visible": true
     }
 ]
