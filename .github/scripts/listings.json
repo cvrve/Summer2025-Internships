@@ -51430,5 +51430,245 @@
         "date_posted": 1734899949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734900055,
+        "url": "https://redirect.cvrve.me/7bcd23aef3ef4ea6b679",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7cfb075-eeae-4958-a0cb-46c98d94422f",
+        "date_posted": 1734900055,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900056,
+        "url": "https://redirect.cvrve.me/f4ab80e09454a198f5a8",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intrinsic",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "55391759-8d84-4302-80c3-326034079a5a",
+        "date_posted": 1734900056,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900056,
+        "url": "https://redirect.cvrve.me/22861aa820a435a6e634",
+        "locations": [
+            "Cambridge, MA",
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "5b022006-bc17-4937-81df-a7c8fdf8e57c",
+        "date_posted": 1734900056,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900057,
+        "url": "https://redirect.cvrve.me/bbb435b0ac908c670c7d",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Data Engineering Intern, Technical Architect",
+        "source": "vanshb03",
+        "id": "e0e441b1-5e59-48f5-99d5-4d520bfe9eef",
+        "date_posted": 1734900057,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900057,
+        "url": "https://redirect.cvrve.me/6632c5bc0b76852acedc",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Platform Operations Intern",
+        "source": "vanshb03",
+        "id": "2af9898a-2ee1-48a3-ab29-84af8b49e6e8",
+        "date_posted": 1734900057,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900058,
+        "url": "https://redirect.cvrve.me/2b9d43193284a7083fe4",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Data Science & Modeling Intern",
+        "source": "vanshb03",
+        "id": "772fc4f8-3bcc-4f90-a02f-cda1a45add26",
+        "date_posted": 1734900058,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900060,
+        "url": "https://redirect.cvrve.me/a57536f7ac98417a2f00",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise",
+        "title": "IT Intern, Security",
+        "source": "vanshb03",
+        "id": "f273aaed-add4-46c4-b279-7942af3cbc14",
+        "date_posted": 1734900060,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900061,
+        "url": "https://redirect.cvrve.me/2f9f07adb47788903347",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise",
+        "title": "IT Intern, Test Engineer",
+        "source": "vanshb03",
+        "id": "2640298c-01aa-41f4-aa49-1d91341d821a",
+        "date_posted": 1734900061,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900062,
+        "url": "https://redirect.cvrve.me/25999070139bdf08732e",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise",
+        "title": "IT Intern, Support/Infrastructure",
+        "source": "vanshb03",
+        "id": "9b2498d4-9477-4036-bb20-4603e264914a",
+        "date_posted": 1734900062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900062,
+        "url": "https://redirect.cvrve.me/78349a2da765a9d791fd",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise",
+        "title": "IT Intern, Java Developer",
+        "source": "vanshb03",
+        "id": "994f38e3-583f-4356-9365-d37f83afb6d5",
+        "date_posted": 1734900062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900063,
+        "url": "https://redirect.cvrve.me/b06784d2b606f67c2440",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise",
+        "title": "IT Intern, Data Services (Report Developer)",
+        "source": "vanshb03",
+        "id": "1811f21b-0dc0-4bd3-bff3-c9a7c6715a76",
+        "date_posted": 1734900063,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900065,
+        "url": "https://redirect.cvrve.me/918bfd9c60ad3114a8ce",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U-Haul",
+        "title": "iOS Developer Intern",
+        "source": "vanshb03",
+        "id": "42c9ac51-ed34-4a87-9120-456e130d2345",
+        "date_posted": 1734900065,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900067,
+        "url": "https://redirect.cvrve.me/7bdaf5c5a2fe6fa01d46",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Site Reliability Engineer Intern",
+        "source": "vanshb03",
+        "id": "e4d1e10b-76fe-4b98-ac1a-e962f4433dce",
+        "date_posted": 1734900067,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1734900074,
+        "url": "https://redirect.cvrve.me/8c43bd4722561a5f8d46",
+        "locations": [
+            "Canby, OR",
+            "Woodinville, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dynon",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4f6b7fef-1c4c-4319-a8e1-a4b9814118dd",
+        "date_posted": 1734900074,
+        "company_url": "",
+        "is_visible": true
     }
 ]
