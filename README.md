@@ -46,7 +46,21 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| U-Haul | iOS Developer Intern | Remote | <a href="https://redirect.cvrve.me/918bfd9c60ad3114a8ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| Talos | Site Reliability Engineer Intern | New York, NY | <a href="https://redirect.cvrve.me/7bdaf5c5a2fe6fa01d46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| S&P Global | Data Science & Modeling Intern | Remote | <a href="https://redirect.cvrve.me/2b9d43193284a7083fe4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | Data Engineering Intern, Technical Architect | Princeton, NJ | <a href="https://redirect.cvrve.me/bbb435b0ac908c670c7d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | Platform Operations Intern | Raleigh, NC | <a href="https://redirect.cvrve.me/6632c5bc0b76852acedc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | Machine Learning Engineer Intern | Cambridge, MA</br>New York, NY | <a href="https://redirect.cvrve.me/22861aa820a435a6e634?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | Netflix | Technical Program Management Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/4f7fda3aaf38d67a99fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| Leonardo DRS | Embedded Software Engineer Intern | Frederick, MD | <a href="https://redirect.cvrve.me/7bcd23aef3ef4ea6b679?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| Intrinsic | Software Engineering Intern | Mountain View, CA | <a href="https://redirect.cvrve.me/f4ab80e09454a198f5a8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| Enterprise | IT Intern, Data Services (Report Developer) | St. Louis, MO | <a href="https://redirect.cvrve.me/b06784d2b606f67c2440?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | IT Intern, Support/Infrastructure | St. Louis, MO | <a href="https://redirect.cvrve.me/25999070139bdf08732e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | IT Intern, Java Developer | St. Louis, MO | <a href="https://redirect.cvrve.me/78349a2da765a9d791fd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | IT Intern, Test Engineer | St. Louis, MO | <a href="https://redirect.cvrve.me/2f9f07adb47788903347?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| ↳ | IT Intern, Security | St. Louis, MO | <a href="https://redirect.cvrve.me/a57536f7ac98417a2f00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
+| Dynon | Software Engineering Intern | Canby, OR</br>Woodinville, WA | <a href="https://redirect.cvrve.me/8c43bd4722561a5f8d46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | Zscaler | Artificial Intelligence/Machine Learning/Data Science Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/9ee52bebb86c88237f91?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ↳ | AI Innovation Intern, People & Culture (HR) | San Jose, CA | <a href="https://redirect.cvrve.me/88702fa7aba4a9c5dc1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ↳ | CXO Experiences & Programming Intern | San Jose, CA | <a href="https://redirect.cvrve.me/1a2df22850789ef03b3b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
