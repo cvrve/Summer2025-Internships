@@ -51687,5 +51687,22 @@
         "date_posted": 1734906284,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734906617,
+        "url": "http://redirect.cvrve.me/edb4c0f7557388cf2f5d",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Mobile Telematics",
+        "title": "Security Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dfc88352-3957-451d-b7cd-113845a1fb3b",
+        "date_posted": 1734906617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
