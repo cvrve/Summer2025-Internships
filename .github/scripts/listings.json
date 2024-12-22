@@ -51738,5 +51738,22 @@
         "date_posted": 1734906709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734906751,
+        "url": "http://redirect.cvrve.me/976c120f12bf92b504c8",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Mobile Telematics",
+        "title": "Software Engineering Intern, Platform Applications",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cb38bbfb-7764-422d-b7c7-86596467416a",
+        "date_posted": 1734906751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
