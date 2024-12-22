@@ -51789,5 +51789,22 @@
         "date_posted": 1734909167,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734909221,
+        "url": "http://redirect.cvrve.me/6968a375e66a5642b319",
+        "locations": [
+            "Plymouth, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Technology Service Corporation",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fbb2241f-e48e-4609-b1d0-d47b6a7f7144",
+        "date_posted": 1734909221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
