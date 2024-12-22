@@ -51840,5 +51840,22 @@
         "date_posted": 1734909311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734909355,
+        "url": "http://redirect.cvrve.me/e44e8f539710fc6d8ecd",
+        "locations": [
+            "Hauppauge, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parker Hannifin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8e501ef9-7916-4940-acf2-e75fa8ba69d6",
+        "date_posted": 1734909355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
