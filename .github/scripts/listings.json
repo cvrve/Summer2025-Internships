@@ -51721,5 +51721,22 @@
         "date_posted": 1734906681,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734906709,
+        "url": "http://redirect.cvrve.me/b131002a7a6666a8e0e9",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Mobile Telematics",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f60c42a9-264c-4374-bf10-528a8708b0c0",
+        "date_posted": 1734906709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
