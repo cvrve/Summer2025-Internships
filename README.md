@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Netflix | Technical Program Management Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/4f7fda3aaf38d67a99fb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | Zscaler | Artificial Intelligence/Machine Learning/Data Science Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/9ee52bebb86c88237f91?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ↳ | AI Innovation Intern, People & Culture (HR) | San Jose, CA | <a href="https://redirect.cvrve.me/88702fa7aba4a9c5dc1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
 | ↳ | CXO Experiences & Programming Intern | San Jose, CA | <a href="https://redirect.cvrve.me/1a2df22850789ef03b3b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 20 |
