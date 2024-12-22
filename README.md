@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Viavi | Software Development Intern | Morrisville, NC | <a href="http://redirect.cvrve.me/42840b7f6062f25b03ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | U-Haul | iOS Developer Intern | Remote | <a href="https://redirect.cvrve.me/918bfd9c60ad3114a8ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | Technology Service Corporation | Software Engineering Intern | Plymouth, MA | <a href="http://redirect.cvrve.me/6968a375e66a5642b319?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | Talos | Site Reliability Engineer Intern | New York, NY | <a href="https://redirect.cvrve.me/7bdaf5c5a2fe6fa01d46?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
