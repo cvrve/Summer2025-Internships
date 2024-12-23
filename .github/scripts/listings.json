@@ -52202,5 +52202,24 @@
         "date_posted": 1734952057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952106,
+        "url": "http://redirect.cvrve.me/40a1ddfdefa55cec1059",
+        "locations": [
+            "Montr\u00e9al",
+            "Waterloo",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Data Analyst Intern/Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7bea4f8a-3dd8-4b85-8b6a-e09d12444b76",
+        "date_posted": 1734952106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
