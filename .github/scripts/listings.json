@@ -52081,5 +52081,22 @@
         "date_posted": 1734933169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734933214,
+        "url": "http://redirect.cvrve.me/6389029164d78aadba15",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Data Governance Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d28e8d4e-623c-4abe-862a-212444614f95",
+        "date_posted": 1734933214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
