@@ -52376,5 +52376,22 @@
         "date_posted": 1734952646,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952682,
+        "url": "http://redirect.cvrve.me/18ab8cb59e9037e6c961",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSD",
+        "title": "Data & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f8c91e31-553b-46c4-8c66-b1adcb33ef5f",
+        "date_posted": 1734952682,
+        "company_url": "",
+        "is_visible": true
     }
 ]

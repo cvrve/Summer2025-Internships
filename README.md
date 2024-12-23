@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| MSD | Data Science Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/4fd1e0924b595cb1f991?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| MSD | Data & Analytics Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/18ab8cb59e9037e6c961?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | Data Science Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/4fd1e0924b595cb1f991?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Performance Data Management Intern | North Wales, PA | <a href="http://redirect.cvrve.me/6f195148822ec917d8ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Software Engineering Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/ba2bc3d6fed531706ca0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Data Science Intern | North Wales, PA | <a href="http://redirect.cvrve.me/0f46966a75ede4f778ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
