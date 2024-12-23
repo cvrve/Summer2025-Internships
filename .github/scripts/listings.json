@@ -52185,5 +52185,22 @@
         "date_posted": 1734934165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952057,
+        "url": "http://redirect.cvrve.me/9fd5ce21c18c94eaf6b1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Technology Co-op/Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a59a45a5-9e11-4e91-8e8c-a9fc5c3157fa",
+        "date_posted": 1734952057,
+        "company_url": "",
+        "is_visible": true
     }
 ]
