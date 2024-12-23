@@ -52342,5 +52342,22 @@
         "date_posted": 1734952567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952609,
+        "url": "http://redirect.cvrve.me/6f195148822ec917d8ab",
+        "locations": [
+            "North Wales, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSD",
+        "title": "Performance Data Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fb52f184-a60e-4de1-8d92-6d9def9c0248",
+        "date_posted": 1734952609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
