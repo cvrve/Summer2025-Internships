@@ -52098,5 +52098,23 @@
         "date_posted": 1734933214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734933357,
+        "url": "http://redirect.cvrve.me/f0e02e80654274f90525",
+        "locations": [
+            "Stafford, VA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Systems/Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "618bab2b-c1a2-49b7-8f01-c0e47698107c",
+        "date_posted": 1734933357,
+        "company_url": "",
+        "is_visible": true
     }
 ]
