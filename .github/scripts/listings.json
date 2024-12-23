@@ -52151,5 +52151,22 @@
         "date_posted": 1734934086,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734934118,
+        "url": "http://redirect.cvrve.me/f6ad87ba6eae33016eab",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merck",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "efb6efa6-ba16-4805-a2cd-f240ebb445c0",
+        "date_posted": 1734934118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
