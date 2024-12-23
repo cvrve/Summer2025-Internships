@@ -52064,5 +52064,22 @@
         "date_posted": 1734933140,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734933169,
+        "url": "http://redirect.cvrve.me/5f67058de34a5cfc3f4a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insitro",
+        "title": "Data Science & Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a95dde1e-04b4-4d93-b226-332089e014a1",
+        "date_posted": 1734933169,
+        "company_url": "",
+        "is_visible": true
     }
 ]
