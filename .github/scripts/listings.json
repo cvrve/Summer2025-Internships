@@ -52168,5 +52168,22 @@
         "date_posted": 1734934118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734934165,
+        "url": "http://redirect.cvrve.me/2226a0160fc7ccec83d3",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "AI/ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1e0e1cdd-429f-47f8-9576-8c721992e119",
+        "date_posted": 1734934165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
