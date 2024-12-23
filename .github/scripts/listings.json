@@ -51959,5 +51959,23 @@
         "date_posted": 1734909809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734932772,
+        "url": "http://redirect.cvrve.me/54ef2b884354ee435814",
+        "locations": [
+            "Cambridge, MA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "AI Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac4ef5c5-5a0d-4de6-8e8b-9de16c9858e6",
+        "date_posted": 1734932772,
+        "company_url": "",
+        "is_visible": true
     }
 ]
