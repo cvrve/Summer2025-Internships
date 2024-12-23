@@ -52030,5 +52030,22 @@
         "date_posted": 1734933061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734933099,
+        "url": "http://redirect.cvrve.me/c94371498cb185f57c0f",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Element Biosciences",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6d7f2509-d4c3-4b7b-bb2e-2987315f6b21",
+        "date_posted": 1734933099,
+        "company_url": "",
+        "is_visible": true
     }
 ]
