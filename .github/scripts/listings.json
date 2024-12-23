@@ -52134,5 +52134,22 @@
         "date_posted": 1734933574,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734934086,
+        "url": "http://redirect.cvrve.me/f80284b3ee5ac9ba5b9b",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merck",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e5409b82-2bb1-4171-8e92-29b20d7c30dc",
+        "date_posted": 1734934086,
+        "company_url": "",
+        "is_visible": true
     }
 ]
