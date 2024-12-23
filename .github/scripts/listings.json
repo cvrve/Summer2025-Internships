@@ -52359,5 +52359,22 @@
         "date_posted": 1734952609,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952646,
+        "url": "http://redirect.cvrve.me/4fd1e0924b595cb1f991",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSD",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "99f55029-c14f-44e8-aa92-8d0dfa1d30f5",
+        "date_posted": 1734952646,
+        "company_url": "",
+        "is_visible": true
     }
 ]
