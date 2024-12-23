@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| MSD | Data Science Intern | North Wales, PA | <a href="http://redirect.cvrve.me/0f46966a75ede4f778ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| MSD | Software Engineering Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/ba2bc3d6fed531706ca0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | Data Science Intern | North Wales, PA | <a href="http://redirect.cvrve.me/0f46966a75ede4f778ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Business Development Analytics Intern | North Wales, PA | <a href="http://redirect.cvrve.me/20b68f28cfdcb7cc5383?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Frontend Engineer Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/a90745b25a6d1bc6642f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Manulife | Advanced Analytics Intern/Co-op | Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/813ed1646b46e2dbc9b7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |

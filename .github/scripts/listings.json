@@ -52325,5 +52325,22 @@
         "date_posted": 1734952440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952567,
+        "url": "http://redirect.cvrve.me/ba2bc3d6fed531706ca0",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSD",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fc0be83a-4805-4ff3-a909-e2a0913193d2",
+        "date_posted": 1734952567,
+        "company_url": "",
+        "is_visible": true
     }
 ]
