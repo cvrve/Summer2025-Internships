@@ -52221,5 +52221,23 @@
         "date_posted": 1734952106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952157,
+        "url": "http://redirect.cvrve.me/b95f964f0678ea007f1c",
+        "locations": [
+            "Waterloo",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife",
+        "title": "Data Specialist Intern/Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7f4a31d1-cc16-49ae-9103-f5ae72626a8d",
+        "date_posted": 1734952157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
