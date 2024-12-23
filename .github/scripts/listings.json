@@ -52257,5 +52257,22 @@
         "date_posted": 1734952241,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952288,
+        "url": "http://redirect.cvrve.me/ba39c2770efb13cf0478",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dyno",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c7e4715-f0dc-4b05-813b-0717ea722515",
+        "date_posted": 1734952288,
+        "company_url": "",
+        "is_visible": true
     }
 ]
