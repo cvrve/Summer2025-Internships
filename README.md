@@ -46,6 +46,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SRC | Machine Learning Engineer Intern | Herndon, VA | <a href="https://redirect.cvrve.me/3b5d5cc8214f866ddb8d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Sight & Sound | IT Help Desk Intern | Ronks, PA | <a href="https://redirect.cvrve.me/556ef713894ca39d45dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Schweitzer Engineering Laboratories | Application Engineering Intern | Boerne, TX | <a href="https://redirect.cvrve.me/9fec26a8e87f91ab6061?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | Software Engineer Intern | Moscow, ID | <a href="https://redirect.cvrve.me/284a1886081fb9ffaf0e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Rivian | Software Engineering Intern, Camera Software | Palo Alto, CA | <a href="https://redirect.cvrve.me/f9d46cc766ed6c105699?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| REV Robotics | Software Engineering Intern | Carrollton, TX | <a href="https://redirect.cvrve.me/818b602842ca173985db?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| RapidSOS | Implementation Engineering Intern | Remote | <a href="https://redirect.cvrve.me/a51a735d95277f21471a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Peak | AI/ML Developmental Intern | Macedonia, OH | <a href="https://redirect.cvrve.me/e3d7659a1d7ffaae9bee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | Software Engineer Intern | Macedonia, OH | <a href="https://redirect.cvrve.me/ec81cecac5ab1239206a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | IT Intern | Macedonia, OH | <a href="https://redirect.cvrve.me/cfca037cc1e38acd04bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | MSD | Data & Analytics Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/18ab8cb59e9037e6c961?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Data Science Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/4fd1e0924b595cb1f991?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Performance Data Management Intern | North Wales, PA | <a href="http://redirect.cvrve.me/6f195148822ec917d8ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
@@ -57,6 +67,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Specialist Intern/Co-op | Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/b95f964f0678ea007f1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Data Analyst Intern/Co-op | Montréal</br>Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/40a1ddfdefa55cec1059?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Technology Co-op/Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/9fd5ce21c18c94eaf6b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Intel | Software Engineer Intern | Folsm, CA</br>Phoenix, AZ</br>Santa Clara, CA | <a href="https://redirect.cvrve.me/3e69616f83d995aa49e3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Illumio | CloudOps Intern | Sunnyvale, CA | <a href="https://redirect.cvrve.me/2b5734ece7100a0a8e1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| ↳ | Technology Exploration Intern | Sunnyvale, CA | <a href="https://redirect.cvrve.me/f2b1968c4ff8e2a9174a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
+| Element Biosciences | AI Intern | San Diego, CA | <a href="https://redirect.cvrve.me/ab7a244aa9d1daa89fea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Dyno | Software Engineering Intern | Watertown, MA | <a href="http://redirect.cvrve.me/ba39c2770efb13cf0478?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Viavi | Software Development Intern | Morrisville, NC | <a href="http://redirect.cvrve.me/42840b7f6062f25b03ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
 | U-Haul | iOS Developer Intern | Remote | <a href="https://redirect.cvrve.me/918bfd9c60ad3114a8ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 22 |
