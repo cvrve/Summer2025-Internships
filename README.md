@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MSD | Frontend Engineer Intern | Rahway, NJ | <a href="http://redirect.cvrve.me/a90745b25a6d1bc6642f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Manulife | Advanced Analytics Intern/Co-op | Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/813ed1646b46e2dbc9b7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Data Specialist Intern/Co-op | Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/b95f964f0678ea007f1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | ↳ | Data Analyst Intern/Co-op | Montréal</br>Waterloo</br>Toronto, Canada | <a href="http://redirect.cvrve.me/40a1ddfdefa55cec1059?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |

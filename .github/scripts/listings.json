@@ -52274,5 +52274,22 @@
         "date_posted": 1734952288,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1734952342,
+        "url": "http://redirect.cvrve.me/a90745b25a6d1bc6642f",
+        "locations": [
+            "Rahway, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "MSD",
+        "title": "Frontend Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5adb577b-0057-4bf0-931b-5d63d8db2bf2",
+        "date_posted": 1734952342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
