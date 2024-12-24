@@ -52839,5 +52839,22 @@
         "date_posted": 1735041392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735041509,
+        "url": "http://redirect.cvrve.me/b47a34ba96631e10cbd5",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QinetiQ",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2be3e3ce-0ecc-4d11-9487-07bf72ed369e",
+        "date_posted": 1735041509,
+        "company_url": "",
+        "is_visible": true
     }
 ]
