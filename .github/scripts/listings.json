@@ -52737,5 +52737,22 @@
         "date_posted": 1735041031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735041062,
+        "url": "http://redirect.cvrve.me/6a96fa6aa9ab68453ec7",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simons Foundation",
+        "title": "Scientific Visual Exploration Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5f35f195-6c9a-4ac1-813c-9dd7e3edc078",
+        "date_posted": 1735041062,
+        "company_url": "",
+        "is_visible": true
     }
 ]
