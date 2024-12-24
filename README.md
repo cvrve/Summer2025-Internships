@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Teradata | Support Product Manager Intern | Phoenix, AZ | <a href="http://redirect.cvrve.me/35d65c6e898989c30aa3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Simons Foundation | Database and Web Interface Intern | New York, NY | <a href="http://redirect.cvrve.me/1c316ed79c323400126b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | ↳ | Scientific Visual Exploration Software Intern | New York, NY | <a href="http://redirect.cvrve.me/6a96fa6aa9ab68453ec7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | ↳ | High-Performance Computing Intern | New York, NY | <a href="http://redirect.cvrve.me/6d3abc59c0f91e81eccd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
