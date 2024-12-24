@@ -52873,5 +52873,22 @@
         "date_posted": 1735041539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735041694,
+        "url": "http://redirect.cvrve.me/edfb5ae7fc2921ff612b",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Business Systems Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2ed85460-e145-480c-bc79-5a646f36e847",
+        "date_posted": 1735041694,
+        "company_url": "",
+        "is_visible": true
     }
 ]
