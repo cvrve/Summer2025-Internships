@@ -52771,5 +52771,22 @@
         "date_posted": 1735041105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735041141,
+        "url": "http://redirect.cvrve.me/2539578ece902fc0da87",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scion",
+        "title": "Web Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "495c737e-1e11-4b08-8b24-efb82b24056c",
+        "date_posted": 1735041141,
+        "company_url": "",
+        "is_visible": true
     }
 ]
