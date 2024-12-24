@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| EchoStar | Mobility Software Engineering Intern | Germantown, MD | <a href="http://redirect.cvrve.me/529261b90a2267b7b524?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Tesla | Perception Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/acb4e3ef3f33296219f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | SRC | Machine Learning Engineer Intern | Herndon, VA | <a href="https://redirect.cvrve.me/3b5d5cc8214f866ddb8d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Sight & Sound | IT Help Desk Intern | Ronks, PA | <a href="https://redirect.cvrve.me/556ef713894ca39d45dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
