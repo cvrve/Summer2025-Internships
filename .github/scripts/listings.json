@@ -52805,5 +52805,22 @@
         "date_posted": 1735041315,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735041357,
+        "url": "http://redirect.cvrve.me/88c1242e5e84e89c98cd",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Software QA Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "47b3d8c4-988c-474d-8f42-1ab6637ea468",
+        "date_posted": 1735041357,
+        "company_url": "",
+        "is_visible": true
     }
 ]
