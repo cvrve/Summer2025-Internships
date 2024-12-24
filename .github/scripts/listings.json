@@ -52669,5 +52669,22 @@
         "date_posted": 1735005212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735005783,
+        "url": "http://redirect.cvrve.me/acb4e3ef3f33296219f3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Perception Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "969190b3-3884-4a96-95d9-0971b25ef0b6",
+        "date_posted": 1735005783,
+        "company_url": "",
+        "is_visible": true
     }
 ]

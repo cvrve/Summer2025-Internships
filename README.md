@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Perception Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/acb4e3ef3f33296219f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | SRC | Machine Learning Engineer Intern | Herndon, VA | <a href="https://redirect.cvrve.me/3b5d5cc8214f866ddb8d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Sight & Sound | IT Help Desk Intern | Ronks, PA | <a href="https://redirect.cvrve.me/556ef713894ca39d45dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Boerne, TX | <a href="https://redirect.cvrve.me/9fec26a8e87f91ab6061?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 23 |
