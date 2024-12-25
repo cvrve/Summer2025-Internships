@@ -46,6 +46,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| The Scion Group | Web Development Intern | Chicago, IL | <a href="https://redirect.cvrve.me/98d6c7b99a9a891982d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
+| The Flatiron Institute | Research Interns, Initiative for Computational Catalysis | New York, NY | <a href="https://redirect.cvrve.me/21c75db004242ed81c0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
+| Tesla | Perception Software Engineer, Tesla Bot | Palo Alto, CA | <a href="https://redirect.cvrve.me/a74663cf7fc84acdebee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
+| ↳ | Reinforcement Learning Engineer, Tesla Bot | Palo Alto, CA | <a href="https://redirect.cvrve.me/ac5a052bd0177b97153e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Teradata | Support Product Manager Intern | Phoenix, AZ | <a href="http://redirect.cvrve.me/35d65c6e898989c30aa3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Simons Foundation | Database and Web Interface Intern | New York, NY | <a href="http://redirect.cvrve.me/1c316ed79c323400126b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | ↳ | Scientific Visual Exploration Software Intern | New York, NY | <a href="http://redirect.cvrve.me/6a96fa6aa9ab68453ec7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
@@ -60,6 +64,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | EchoStar | Mobility Software Engineering Intern | Germantown, MD | <a href="http://redirect.cvrve.me/529261b90a2267b7b524?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Corsair | Junior Front End Developer Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/78e44e69023a78a5eae9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | ↳ | Hardware Product Management Intern | Duluth, GA | <a href="http://redirect.cvrve.me/dddcd4974aacc382764e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
+| CommScope | Enablement and Development Intern | Shakopee, MN | <a href="https://redirect.cvrve.me/d186b71b7eba6e575acf?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
+| ↳ | Software Quality Assurance Engineering Intern | Lowell, MA | <a href="https://redirect.cvrve.me/a1d02734adf248200052?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Commscape | Software Engineering Intern | Santa Ana, CA | <a href="http://redirect.cvrve.me/804054174d75849c2e79?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Capella Space | Flight Software Intern | Louisville, CO | <a href="http://redirect.cvrve.me/c8107847462961c629a9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Aveva | Cloud Data & Analytics Intern | Houston, TX | <a href="http://redirect.cvrve.me/393ae03ff63cef058a40?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
