@@ -52994,5 +52994,107 @@
         "date_posted": 1735089492,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735089551,
+        "url": "https://redirect.cvrve.me/98d6c7b99a9a891982d7",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Scion Group",
+        "title": "Web Development Intern",
+        "source": "vanshb03",
+        "id": "13cffe46-589c-4837-85a9-0cd567f0912f",
+        "date_posted": 1735089551,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735089586,
+        "url": "https://redirect.cvrve.me/ac5a052bd0177b97153e",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Reinforcement Learning Engineer, Tesla Bot",
+        "source": "vanshb03",
+        "id": "5823024c-7b95-4f3c-9d52-6dcd24f70035",
+        "date_posted": 1735089586,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735089587,
+        "url": "https://redirect.cvrve.me/a74663cf7fc84acdebee",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Perception Software Engineer, Tesla Bot",
+        "source": "vanshb03",
+        "id": "712ee148-3de0-4ce4-845f-492b4b7b5fcc",
+        "date_posted": 1735089587,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735089592,
+        "url": "https://redirect.cvrve.me/21c75db004242ed81c0c",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Flatiron Institute",
+        "title": "Research Interns, Initiative for Computational Catalysis",
+        "source": "vanshb03",
+        "id": "7f201090-340c-41e9-85bb-194cca666474",
+        "date_posted": 1735089592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735089598,
+        "url": "https://redirect.cvrve.me/a1d02734adf248200052",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "Software Quality Assurance Engineering Intern",
+        "source": "vanshb03",
+        "id": "fa893ac7-8138-4933-9c4a-579dde717182",
+        "date_posted": 1735089598,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735089599,
+        "url": "https://redirect.cvrve.me/d186b71b7eba6e575acf",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "Enablement and Development Intern",
+        "source": "vanshb03",
+        "id": "d467e760-73b4-4ef9-a3b7-f71b4932cdb0",
+        "date_posted": 1735089599,
+        "company_url": "",
+        "is_visible": true
     }
 ]
