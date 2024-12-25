@@ -52925,5 +52925,22 @@
         "date_posted": 1735041803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735089217,
+        "url": "http://redirect.cvrve.me/dddcd4974aacc382764e",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corsair",
+        "title": "Hardware Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d26a7461-5ffa-4639-ab84-4b4aeb6503a8",
+        "date_posted": 1735089217,
+        "company_url": "",
+        "is_visible": true
     }
 ]
