@@ -52977,5 +52977,22 @@
         "date_posted": 1735089437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735089492,
+        "url": "http://redirect.cvrve.me/c8107847462961c629a9",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capella Space",
+        "title": "Flight Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "87c1b7f1-8675-41d1-aa7f-e22d747aaf4a",
+        "date_posted": 1735089492,
+        "company_url": "",
+        "is_visible": true
     }
 ]
