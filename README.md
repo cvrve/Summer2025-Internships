@@ -46,6 +46,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Leidos | Data Science Intern | Remote | <a href="https://redirect.cvrve.me/bc9838251a2329288924?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
+| ↳ | AI/ML Intern - Aerospace | Huntsville, AL | <a href="https://redirect.cvrve.me/329f6491a97be1f8ece9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
+| ↳ | Software Systems Intern | Reston, VA | <a href="https://redirect.cvrve.me/7137014724610bf37f64?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
+| ↳ | Cyber Research Intern | Arlington, VA | <a href="https://redirect.cvrve.me/83e5d9e7ec5b993729a0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
+| ↳ | Cyber AI Intern | Arlington, VA | <a href="https://redirect.cvrve.me/bfa28c1698232d938e60?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | The Scion Group | Web Development Intern | Chicago, IL | <a href="https://redirect.cvrve.me/98d6c7b99a9a891982d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | The Flatiron Institute | Research Interns, Initiative for Computational Catalysis | New York, NY | <a href="https://redirect.cvrve.me/21c75db004242ed81c0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | Tesla | Perception Software Engineer, Tesla Bot | Palo Alto, CA | <a href="https://redirect.cvrve.me/a74663cf7fc84acdebee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
