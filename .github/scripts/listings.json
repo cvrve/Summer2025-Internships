@@ -53096,5 +53096,90 @@
         "date_posted": 1735089599,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735229898,
+        "url": "https://redirect.cvrve.me/bfa28c1698232d938e60",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cyber AI Intern",
+        "source": "vanshb03",
+        "id": "fd1a5d21-3175-41c0-af95-479b968697a1",
+        "date_posted": 1735229898,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735229901,
+        "url": "https://redirect.cvrve.me/83e5d9e7ec5b993729a0",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cyber Research Intern",
+        "source": "vanshb03",
+        "id": "9d2cce9c-679d-41b3-9cf9-ef0f1c05805a",
+        "date_posted": 1735229901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735229903,
+        "url": "https://redirect.cvrve.me/bc9838251a2329288924",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "be02f6dc-08d2-4eb8-a381-e2bf59a52340",
+        "date_posted": 1735229903,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735229903,
+        "url": "https://redirect.cvrve.me/329f6491a97be1f8ece9",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "AI/ML Intern - Aerospace",
+        "source": "vanshb03",
+        "id": "fc6dd4c5-dd1f-4ada-8516-ad00db3764dc",
+        "date_posted": 1735229903,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735229903,
+        "url": "https://redirect.cvrve.me/7137014724610bf37f64",
+        "locations": [
+            "Reston, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Systems Intern",
+        "source": "vanshb03",
+        "id": "3358ad84-498b-45e4-ad3c-ce37dcf64573",
+        "date_posted": 1735229903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
