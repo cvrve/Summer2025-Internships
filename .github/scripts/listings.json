@@ -53181,5 +53181,23 @@
         "date_posted": 1735229903,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735281383,
+        "url": "http://redirect.cvrve.me/2174703fb9eabf213d62",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medidata",
+        "title": "Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "MaazIbrahim2004",
+        "id": "564cc742-09f5-4c86-99dd-28ce506b980e",
+        "date_posted": 1735281383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
