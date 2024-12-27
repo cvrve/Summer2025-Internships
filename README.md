@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Systems Intern | Reston, VA | <a href="https://redirect.cvrve.me/7137014724610bf37f64?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | ↳ | Cyber Research Intern | Arlington, VA | <a href="https://redirect.cvrve.me/83e5d9e7ec5b993729a0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | ↳ | Cyber AI Intern | Arlington, VA | <a href="https://redirect.cvrve.me/bfa28c1698232d938e60?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
+| Kimley Horn | Software Engineering Intern 🛂 | Peachtree Corners, GA | <a href="http://redirect.cvrve.me/c6ce2c533732a8959c96?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | HMH | Software Engineer Intern | Portland, OR | <a href="http://redirect.cvrve.me/ba63a441660bce118531?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | atpco | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/d757025a18295f6d0419?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | The Scion Group | Web Development Intern | Chicago, IL | <a href="https://redirect.cvrve.me/98d6c7b99a9a891982d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
