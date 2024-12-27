@@ -53217,5 +53217,22 @@
         "date_posted": 1735281415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735281457,
+        "url": "http://redirect.cvrve.me/ba63a441660bce118531",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HMH",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "28ca5a44-7930-4723-b399-f4a9b850e804",
+        "date_posted": 1735281457,
+        "company_url": "",
+        "is_visible": true
     }
 ]
