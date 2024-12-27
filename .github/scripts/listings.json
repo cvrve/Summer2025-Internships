@@ -53251,5 +53251,22 @@
         "date_posted": 1735281508,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735317154,
+        "url": "http://redirect.cvrve.me/d442bd5665eea836fda5",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Product Management Intern, Edge AI",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "153c7c35-5e9b-418e-a9be-38e012d77225",
+        "date_posted": 1735317154,
+        "company_url": "",
+        "is_visible": true
     }
 ]
