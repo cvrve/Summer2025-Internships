@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | NVIDIA | Product Management Intern, Edge AI | Santa Clara, CA | <a href="http://redirect.cvrve.me/d442bd5665eea836fda5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
+| Anon | Software Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/66a99b83071e5f13cc37?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
 | Medidata | Software Engineer Co-Op 🛂 | New York, NY</br>Remote | <a href="http://redirect.cvrve.me/2174703fb9eabf213d62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | Leidos | Data Science Intern | Remote | <a href="https://redirect.cvrve.me/bc9838251a2329288924?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
 | ↳ | AI/ML Intern - Aerospace | Huntsville, AL | <a href="https://redirect.cvrve.me/329f6491a97be1f8ece9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 26 |
