@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Test Infrastructure Intern | San Carlos, CA | <a href="http://redirect.cvrve.me/8d178791a827d74d18bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | Amazon | Specialized Software Development Engineer Intern | Vancouver, BC</br>Toronto, Canada | <a href="http://redirect.cvrve.me/c71639da35ce15790025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | ↳ | Software Development Engineer Intern/Co-Op | <details><summary>**4 locations**</summary>Sunnyvale, CA</br>New York, NY</br>Seattle, WA</br>Bellevue, WA</details> | <a href="http://redirect.cvrve.me/206d6dc3d0896aae1a8c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | NVIDIA | Product Management Intern, Edge AI | Santa Clara, CA | <a href="http://redirect.cvrve.me/d442bd5665eea836fda5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |

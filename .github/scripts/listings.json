@@ -53323,5 +53323,22 @@
         "date_posted": 1735391229,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735391380,
+        "url": "http://redirect.cvrve.me/8d178791a827d74d18bb",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Test Infrastructure Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c9b01c07-c82d-409d-8a2e-ee857f7c9185",
+        "date_posted": 1735391380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
