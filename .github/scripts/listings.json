@@ -53357,5 +53357,22 @@
         "date_posted": 1735394655,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735394745,
+        "url": "http://redirect.cvrve.me/397b66a04a72ce05ceb7",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b5c99edc-62ca-4027-ba80-8f7ca63f822d",
+        "date_posted": 1735394745,
+        "company_url": "",
+        "is_visible": true
     }
 ]
