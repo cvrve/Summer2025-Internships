@@ -53285,5 +53285,25 @@
         "date_posted": 1735319142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735391130,
+        "url": "http://redirect.cvrve.me/206d6dc3d0896aae1a8c",
+        "locations": [
+            "Sunnyvale, CA",
+            "New York, NY",
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern/Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f949ee51-2279-46b3-88f5-c025a1a9892f",
+        "date_posted": 1735391130,
+        "company_url": "",
+        "is_visible": true
     }
 ]
