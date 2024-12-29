@@ -53374,5 +53374,22 @@
         "date_posted": 1735394745,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735499467,
+        "url": "http://redirect.cvrve.me/33d3414ef7594469810d",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Fisher",
+        "title": "Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "51d09f52-42bf-4519-9acb-d43613fcdaf1",
+        "date_posted": 1735499467,
+        "company_url": "",
+        "is_visible": true
     }
 ]
