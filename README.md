@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TikTok | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/bb988656f1691d57b457?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 29 |
 | Thermo Fisher | Artificial Intelligence Intern | Pittsburgh, PA | <a href="http://redirect.cvrve.me/33d3414ef7594469810d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 29 |
 | Zoox | Test Infrastructure Intern | San Carlos, CA | <a href="http://redirect.cvrve.me/8d178791a827d74d18bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | Telesat | Software Developer, Co-op | Ottawa, Canada | <a href="http://redirect.cvrve.me/9d9dfc7a3919ba405750?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |

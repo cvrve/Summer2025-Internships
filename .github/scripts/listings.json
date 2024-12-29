@@ -53391,5 +53391,22 @@
         "date_posted": 1735499467,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735499494,
+        "url": "http://redirect.cvrve.me/bb988656f1691d57b457",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4c1acf14-d337-49d9-a205-a28f3dd2d6d2",
+        "date_posted": 1735499494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
