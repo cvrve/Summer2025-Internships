@@ -53530,5 +53530,22 @@
         "date_posted": 1735636106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735636185,
+        "url": "http://redirect.cvrve.me/5b435511da20078d881a",
+        "locations": [
+            "Shoreview, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC Inc",
+        "title": "Windchill Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "abf76d02-99fc-4f46-925e-2e01cd13d36f",
+        "date_posted": 1735636185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
