@@ -53547,5 +53547,22 @@
         "date_posted": 1735636185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735636233,
+        "url": "http://redirect.cvrve.me/2013a0197b19ae0abfae",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC Inc",
+        "title": "Onshape Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6a432967-44ce-4d46-a4ee-86c9dd32a078",
+        "date_posted": 1735636233,
+        "company_url": "",
+        "is_visible": true
     }
 ]
