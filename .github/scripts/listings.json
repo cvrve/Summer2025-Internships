@@ -53564,5 +53564,22 @@
         "date_posted": 1735636233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735636403,
+        "url": "http://redirect.cvrve.me/4aa3aacdf1cf425538f4",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tempus",
+        "title": "Machine Learning Intern - Masters/PhD",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e6fa173f-e490-4a50-b044-b92db1f157e9",
+        "date_posted": 1735636403,
+        "company_url": "",
+        "is_visible": true
     }
 ]
