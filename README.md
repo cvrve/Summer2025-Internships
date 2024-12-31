@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | NVIDIA | Technical Product Management Intern, GPU Virtualization | Santa Clara, CA | <a href="http://redirect.cvrve.me/fc817759ee228165fdce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
-| Blockhouse | Quantitative Backtesting Intern | New York, NY</br>Remote | <a href="http://redirect.cvrve.me/9f4dc20db6caeb540162?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
+| Blockhouse | Quant Strat Dev Intern | New York, NY</br>Remote | <a href="http://redirect.cvrve.me/23b61b08bfd0f59e6f92?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
+| ↳ | Quantitative Backtesting Intern | New York, NY</br>Remote | <a href="http://redirect.cvrve.me/9f4dc20db6caeb540162?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
 | ↳ | Quant Research Intern | New York, NY</br>Remote | <a href="http://redirect.cvrve.me/bc3f8fa69dd8e6018858?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
 | AQR | Software Engineering Analyst Intern | Greenwich, CT | <a href="http://redirect.cvrve.me/ea23e68d7fd4e8267e45?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
 | TikTok | Software Engineer Intern | Seattle, WA | <a href="http://redirect.cvrve.me/bb988656f1691d57b457?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 29 |
