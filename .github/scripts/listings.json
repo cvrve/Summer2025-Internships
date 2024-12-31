@@ -53442,5 +53442,23 @@
         "date_posted": 1735635792,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735635887,
+        "url": "http://redirect.cvrve.me/bc3f8fa69dd8e6018858",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blockhouse",
+        "title": "Quant Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c2c795f-c4bc-4e34-ba8a-f1ce4f28661b",
+        "date_posted": 1735635887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
