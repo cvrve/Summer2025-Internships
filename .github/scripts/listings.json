@@ -53408,5 +53408,22 @@
         "date_posted": 1735499494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735635583,
+        "url": "http://redirect.cvrve.me/fc817759ee228165fdce",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Technical Product Management Intern, GPU Virtualization",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cf0bca88-dc42-4d44-b6be-5418efc90cc5",
+        "date_posted": 1735635583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
