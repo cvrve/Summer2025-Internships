@@ -53460,5 +53460,23 @@
         "date_posted": 1735635887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735635984,
+        "url": "http://redirect.cvrve.me/9f4dc20db6caeb540162",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blockhouse",
+        "title": "Quantitative Backtesting Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "29c19f97-417c-4bd5-b703-8b8d2f56b02e",
+        "date_posted": 1735635984,
+        "company_url": "",
+        "is_visible": true
     }
 ]
