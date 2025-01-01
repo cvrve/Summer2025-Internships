@@ -53683,5 +53683,22 @@
         "date_posted": 1735738624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738671,
+        "url": "http://redirect.cvrve.me/14706ce586e91a384911",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Calibration and Test Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8a5d60d1-7366-4640-8eb9-cbe6af794940",
+        "date_posted": 1735738671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
