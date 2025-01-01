@@ -53632,5 +53632,22 @@
         "date_posted": 1735737505,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738071,
+        "url": "http://redirect.cvrve.me/8756feb8d7159432484b",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e548b932-5aec-4683-83ce-3ec98222c0b4",
+        "date_posted": 1735738071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
