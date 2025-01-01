@@ -53802,5 +53802,22 @@
         "date_posted": 1735738886,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738926,
+        "url": "http://redirect.cvrve.me/6461c1e0a857034a91ac",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neighbor",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "177939f3-ed6d-476a-b549-9f4d3efe866e",
+        "date_posted": 1735738926,
+        "company_url": "",
+        "is_visible": true
     }
 ]
