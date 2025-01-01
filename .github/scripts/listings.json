@@ -53819,5 +53819,22 @@
         "date_posted": 1735738926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738974,
+        "url": "http://redirect.cvrve.me/37fe784c77c3ac1f072c",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Engineering Intern, Core PCE Platform",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a22e8730-52a0-49ae-8c5f-2f82100fc9e2",
+        "date_posted": 1735738974,
+        "company_url": "",
+        "is_visible": true
     }
 ]
