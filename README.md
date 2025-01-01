@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waters | Software Engineering Intern | New Castle, DE | <a href="http://redirect.cvrve.me/8756feb8d7159432484b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
-| Lumentum | Calibration and Test Software Engineer Co-Op | Ottawa, Canada | <a href="http://redirect.cvrve.me/14706ce586e91a384911?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| Lumentum | Software Automation Engineer Co-op/Intern | Ottawa, Canada | <a href="http://redirect.cvrve.me/d5c9125791a2612d06ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| ↳ | Calibration and Test Software Engineer Co-Op | Ottawa, Canada | <a href="http://redirect.cvrve.me/14706ce586e91a384911?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | ↳ | Process Automation Software Engineer Co-op/Intern | Ottawa, Canada | <a href="http://redirect.cvrve.me/2f799f91d1021aee56ff?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | ↳ | Metrology System Co-Op | Ottawa, Canada | <a href="http://redirect.cvrve.me/6db6c0b70ef4931b9759?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Locus Robotics | Robotics Test Engineering Intern, Software/Systems Testing | Nashua, NH | <a href="https://redirect.cvrve.me/16f35b8d540459d532ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
