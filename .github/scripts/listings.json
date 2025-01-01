@@ -53768,5 +53768,22 @@
         "date_posted": 1735738823,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738858,
+        "url": "http://redirect.cvrve.me/57e2c5ab9f125c4f24de",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineering Intern, BT",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b8d77a94-1a97-43ee-bf78-4d6d7534056d",
+        "date_posted": 1735738858,
+        "company_url": "",
+        "is_visible": true
     }
 ]
