@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Locus Robotics | Robotics Test Engineering Intern, Software/Systems Testing | Nashua, NH | <a href="https://redirect.cvrve.me/16f35b8d540459d532ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| ↳ | Software Engineering Intern, Full Stack Applications | Wilmington, MA | <a href="https://redirect.cvrve.me/9733d542f6e18e5ee91b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Tempus | Security Software Engineering Analyst Intern | Chicago, IL | <a href="http://redirect.cvrve.me/e56dc34fa2366a40da64?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
 | ↳ | Machine Learning Intern - Masters/PhD | Chicago, IL | <a href="http://redirect.cvrve.me/4aa3aacdf1cf425538f4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
 | PTC Inc | Onshape Software Development Intern | Boston, MA | <a href="http://redirect.cvrve.me/2013a0197b19ae0abfae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 31 |
