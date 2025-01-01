@@ -53734,5 +53734,22 @@
         "date_posted": 1735738744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738793,
+        "url": "http://redirect.cvrve.me/b647c48ab1fd33fd4076",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "High Capacity SSD Software Ecosystem Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a739abf7-c9d3-4c73-a866-b553028b6493",
+        "date_posted": 1735738793,
+        "company_url": "",
+        "is_visible": true
     }
 ]
