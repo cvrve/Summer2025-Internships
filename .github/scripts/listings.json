@@ -53649,5 +53649,22 @@
         "date_posted": 1735738071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738577,
+        "url": "http://redirect.cvrve.me/6db6c0b70ef4931b9759",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Metrology System Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f347da6c-f6a2-49a7-9783-409bd6fb5640",
+        "date_posted": 1735738577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
