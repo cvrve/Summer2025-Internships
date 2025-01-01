@@ -53751,5 +53751,22 @@
         "date_posted": 1735738793,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735738823,
+        "url": "http://redirect.cvrve.me/6414bd22a8b4739a9ead",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Memory Software Ecosystem Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ecffb869-be7e-4f13-92c8-fd6dd432bc3e",
+        "date_posted": 1735738823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
