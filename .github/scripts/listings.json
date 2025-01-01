@@ -53598,5 +53598,39 @@
         "date_posted": 1735636443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735737502,
+        "url": "https://redirect.cvrve.me/9733d542f6e18e5ee91b",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Locus Robotics",
+        "title": "Software Engineering Intern, Full Stack Applications",
+        "source": "vanshb03",
+        "id": "c56b23ea-4ca0-45f8-8351-7efd6e7ffebd",
+        "date_posted": 1735737502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1735737505,
+        "url": "https://redirect.cvrve.me/16f35b8d540459d532ab",
+        "locations": [
+            "Nashua, NH"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Locus Robotics",
+        "title": "Robotics Test Engineering Intern, Software/Systems Testing",
+        "source": "vanshb03",
+        "id": "96d0bece-b079-4773-b78f-e26f9704d286",
+        "date_posted": 1735737505,
+        "company_url": "",
+        "is_visible": true
     }
 ]
