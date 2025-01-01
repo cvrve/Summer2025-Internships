@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waters | Software Engineering Intern | New Castle, DE | <a href="http://redirect.cvrve.me/8756feb8d7159432484b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
+| Volvo Group | Software Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/5400b35a91dd85cdf784?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Samsung | Memory Software Ecosystem Intern | San Jose, CA | <a href="http://redirect.cvrve.me/6414bd22a8b4739a9ead?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | ↳ | High Capacity SSD Software Ecosystem Intern | San Jose, CA | <a href="http://redirect.cvrve.me/b647c48ab1fd33fd4076?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Salesforce | Software Engineering Intern, BT | Dallas, TX | <a href="http://redirect.cvrve.me/57e2c5ab9f125c4f24de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |

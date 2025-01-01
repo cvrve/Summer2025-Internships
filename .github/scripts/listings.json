@@ -53872,5 +53872,22 @@
         "date_posted": 1735739185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735739234,
+        "url": "http://redirect.cvrve.me/5400b35a91dd85cdf784",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo Group",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5e607538-f7a9-4472-ae58-358ec947e8a7",
+        "date_posted": 1735739234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
