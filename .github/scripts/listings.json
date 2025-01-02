@@ -53889,5 +53889,23 @@
         "date_posted": 1735739234,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735829483,
+        "url": "http://redirect.cvrve.me/ce01677b9f503cad19d7",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ddad9cb8-038e-4f1e-9e03-357c23f9bd32",
+        "date_posted": 1735829483,
+        "company_url": "",
+        "is_visible": true
     }
 ]
