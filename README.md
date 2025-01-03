@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ce01677b9f503cad19d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
+| SWCA | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/21d84b4634cf10dd76f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | Ascend Analytics | Software Engineering Intern | Boulder, CO | <a href="http://redirect.cvrve.me/c349b87b8352b8b382fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | Waters | Software Engineering Intern | New Castle, DE | <a href="http://redirect.cvrve.me/8756feb8d7159432484b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Volvo Group | Software Engineer Intern | Greensboro, NC | <a href="http://redirect.cvrve.me/5400b35a91dd85cdf784?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |

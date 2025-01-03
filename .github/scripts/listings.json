@@ -53924,5 +53924,23 @@
         "date_posted": 1735874724,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735874802,
+        "url": "http://redirect.cvrve.me/21d84b4634cf10dd76f6",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SWCA",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7be7db1a-7c43-495d-a5c2-b5832a1c862a",
+        "date_posted": 1735874802,
+        "company_url": "",
+        "is_visible": true
     }
 ]
