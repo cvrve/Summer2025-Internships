@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ce01677b9f503cad19d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
+| Twilio | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/62d00a520bc2a21b5568?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | SWCA | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/21d84b4634cf10dd76f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | Lucid | Data Analyst Intern | Raleigh, NC | <a href="http://redirect.cvrve.me/622e17f3f7ed0638fe86?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | Daktronics | Firmware/Hardware Design Co-Op Intern | Brookings, SD | <a href="http://redirect.cvrve.me/088d907e2c066c17d1de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
