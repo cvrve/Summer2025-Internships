@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Waters | Applications Testing Intern | New Castle, DE | <a href="http://redirect.cvrve.me/bf5290067bf1d4f72af2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ce01677b9f503cad19d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | Twilio | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/62d00a520bc2a21b5568?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | The State Bar of California | Web Developer Intern | Los Angeles, CA | <a href="http://redirect.cvrve.me/90f1315f50e90421a1f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |

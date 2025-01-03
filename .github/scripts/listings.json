@@ -54079,5 +54079,22 @@
         "date_posted": 1735876033,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735876159,
+        "url": "http://redirect.cvrve.me/bf5290067bf1d4f72af2",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters",
+        "title": "Applications Testing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac13d76d-aa28-42ce-8764-9298e31a92ba",
+        "date_posted": 1735876159,
+        "company_url": "",
+        "is_visible": true
     }
 ]
