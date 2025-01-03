@@ -54011,5 +54011,22 @@
         "date_posted": 1735875247,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735875410,
+        "url": "http://redirect.cvrve.me/9720d0c7553c7aca7b97",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brooks",
+        "title": "Laboratory Test Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e34143cd-c4a9-4fed-a087-ea16f2f2d558",
+        "date_posted": 1735875410,
+        "company_url": "",
+        "is_visible": true
     }
 ]
