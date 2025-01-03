@@ -54096,5 +54096,22 @@
         "date_posted": 1735876159,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735876206,
+        "url": "http://redirect.cvrve.me/547698edf88c8d5a12e4",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters",
+        "title": "System Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "827806d4-6d1a-4fc5-afe0-9090e3514cda",
+        "date_posted": 1735876206,
+        "company_url": "",
+        "is_visible": true
     }
 ]
