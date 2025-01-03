@@ -54045,5 +54045,22 @@
         "date_posted": 1735875515,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735875633,
+        "url": "http://redirect.cvrve.me/33130551c0e47d672216",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise Mobility",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b7234c44-4f07-4e82-8942-7d5943f26339",
+        "date_posted": 1735875633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
