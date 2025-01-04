@@ -54166,5 +54166,23 @@
         "date_posted": 1735955103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735955219,
+        "url": "http://redirect.cvrve.me/8d6c0a89ff545e9d676c",
+        "locations": [
+            "Longmont, CO",
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a2fa8faf-2903-433d-89cc-ebb4d980fa15",
+        "date_posted": 1735955219,
+        "company_url": "",
+        "is_visible": true
     }
 ]
