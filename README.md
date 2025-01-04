@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| DUIT | Software Intern | Baltimore, MD | <a href="http://redirect.cvrve.me/b10064ac21150c2cda48?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
 | Virtu | Quantitative Trading Intern | Austin, TX</br>New York, NY</br>Chicago, IL | <a href="http://redirect.cvrve.me/946202e2feb841712cbb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Vestmark | Software Engineer Co-op | Wakefield, MA | <a href="http://redirect.cvrve.me/b243389d857e7deff503?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Tesla | ML Performance Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/b9ea61ef87d341bb6114?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |

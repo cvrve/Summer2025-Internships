@@ -54390,5 +54390,22 @@
         "date_posted": 1735956786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736003626,
+        "url": "http://redirect.cvrve.me/b10064ac21150c2cda48",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DUIT",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "73b6d853-9e94-461c-b7fb-6577051283d8",
+        "date_posted": 1736003626,
+        "company_url": "",
+        "is_visible": true
     }
 ]
