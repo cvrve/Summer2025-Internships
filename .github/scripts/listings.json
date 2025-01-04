@@ -54407,5 +54407,22 @@
         "date_posted": 1736003626,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736003664,
+        "url": "http://redirect.cvrve.me/75c3488add6c86c64376",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Integration Engineer Chassis Systems Intern, Vehicle Firmware",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8e13edca-3f07-4fc6-bf6a-61f07c7e46c6",
+        "date_posted": 1736003664,
+        "company_url": "",
+        "is_visible": true
     }
 ]
