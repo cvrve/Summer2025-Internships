@@ -54665,5 +54665,25 @@
         "date_posted": 1736017988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736018032,
+        "url": "http://redirect.cvrve.me/d5abf16946e17a4158ae",
+        "locations": [
+            "Oakville, Canada",
+            "Toronto, Canada",
+            "Ottawa, Canada",
+            "Halifax, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BDO",
+        "title": "Full-Stack Developer Co-Op/Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bbad895a-e543-4063-a183-e249724daf11",
+        "date_posted": 1736018032,
+        "company_url": "",
+        "is_visible": true
     }
 ]
