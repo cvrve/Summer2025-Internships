@@ -54562,5 +54562,22 @@
         "date_posted": 1736017737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017774,
+        "url": "http://redirect.cvrve.me/47994c5cfb4a3b063c65",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Definity",
+        "title": "Test Automation Developer Co-op/Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9cede067-33d5-4958-93e0-05b720f19aa4",
+        "date_posted": 1736017774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
