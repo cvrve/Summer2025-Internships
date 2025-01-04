@@ -54218,5 +54218,22 @@
         "date_posted": 1735955331,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735955437,
+        "url": "http://redirect.cvrve.me/04573b5d83b3d0267d7c",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "System Software and Data Analytic Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "33aa7fec-18c6-4d44-a46b-69a4b2c7c970",
+        "date_posted": 1735955437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
