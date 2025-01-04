@@ -54475,5 +54475,22 @@
         "date_posted": 1736003780,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017510,
+        "url": "http://redirect.cvrve.me/97f701c5885fc81d9123",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Full Stack Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "46508564-4e8f-4404-bdf2-27d6cad3cf15",
+        "date_posted": 1736017510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
