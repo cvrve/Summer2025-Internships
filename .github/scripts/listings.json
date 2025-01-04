@@ -54356,5 +54356,22 @@
         "date_posted": 1735956454,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735956652,
+        "url": "http://redirect.cvrve.me/8a800149a2e80badfaa8",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plug Power",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "114cf082-5618-4d89-b6bd-f8f5b291e4b2",
+        "date_posted": 1735956652,
+        "company_url": "",
+        "is_visible": true
     }
 ]
