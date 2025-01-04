@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | Factory Firmware Integration Engineer Intern, Vehicle Firmware | Fremont, CA | <a href="http://redirect.cvrve.me/abdb546c9a8f12df0e62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
+| Tesla | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="http://redirect.cvrve.me/fff4bb87910c73c77983?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
+| ↳ | Factory Firmware Integration Engineer Intern, Vehicle Firmware | Fremont, CA | <a href="http://redirect.cvrve.me/abdb546c9a8f12df0e62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
 | ↳ | Chassis Systems Software Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="http://redirect.cvrve.me/b752395485f86e5fa7c3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
 | ↳ | Integration Engineer Chassis Systems Intern, Vehicle Firmware | Palo Alto, CA | <a href="http://redirect.cvrve.me/75c3488add6c86c64376?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
 | DUIT | Software Intern | Baltimore, MD | <a href="http://redirect.cvrve.me/b10064ac21150c2cda48?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |

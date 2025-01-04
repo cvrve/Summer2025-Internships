@@ -54458,5 +54458,22 @@
         "date_posted": 1736003746,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736003780,
+        "url": "http://redirect.cvrve.me/fff4bb87910c73c77983",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Fleetnet",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "123c8b6e-4d1d-444d-83a8-971d51e70ccb",
+        "date_posted": 1736003780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
