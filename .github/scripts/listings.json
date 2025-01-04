@@ -54424,5 +54424,22 @@
         "date_posted": 1736003664,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736003701,
+        "url": "http://redirect.cvrve.me/b752395485f86e5fa7c3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Chassis Systems Software Validation Engineer Intern, Vehicle Firmware",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0f2e68c2-e876-4192-a053-f11419b10a96",
+        "date_posted": 1736003701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
