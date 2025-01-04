@@ -54630,5 +54630,23 @@
         "date_posted": 1736017907,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017948,
+        "url": "http://redirect.cvrve.me/bb5deadfbc1a51561fda",
+        "locations": [
+            "Oakville, Canada",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BDO",
+        "title": "DevOps Engineer Co-Op/Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c3e274fc-45a4-4697-a0ae-40db18a34df2",
+        "date_posted": 1736017948,
+        "company_url": "",
+        "is_visible": true
     }
 ]
