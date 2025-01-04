@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Virtu | Quantitative Trading Intern | Austin, TX</br>New York, NY</br>Chicago, IL | <a href="http://redirect.cvrve.me/946202e2feb841712cbb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Vestmark | Software Engineer Co-op | Wakefield, MA | <a href="http://redirect.cvrve.me/b243389d857e7deff503?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Seagate | Firmware Engineer Intern | Longmont, CO</br>Shakopee, MN | <a href="http://redirect.cvrve.me/8d6c0a89ff545e9d676c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Marmon Holdings Inc | Reliability Engineer Intern | Carol Stream, IL | <a href="http://redirect.cvrve.me/04c3c86d2d1b590311c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |

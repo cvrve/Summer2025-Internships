@@ -54269,5 +54269,24 @@
         "date_posted": 1735955899,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735955994,
+        "url": "http://redirect.cvrve.me/946202e2feb841712cbb",
+        "locations": [
+            "Austin, TX",
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virtu",
+        "title": "Quantitative Trading Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3ba19023-c536-4b79-a6fe-cce6684689e2",
+        "date_posted": 1735955994,
+        "company_url": "",
+        "is_visible": true
     }
 ]
