@@ -54527,5 +54527,23 @@
         "date_posted": 1736017629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017700,
+        "url": "http://redirect.cvrve.me/6b3e17774d439940569d",
+        "locations": [
+            "Ottawa, Canada",
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CMHC",
+        "title": "Junior Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d7448af-3435-4c2b-8266-270ac8b02f45",
+        "date_posted": 1736017700,
+        "company_url": "",
+        "is_visible": true
     }
 ]
