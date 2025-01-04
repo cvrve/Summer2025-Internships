@@ -54441,5 +54441,22 @@
         "date_posted": 1736003701,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736003746,
+        "url": "http://redirect.cvrve.me/abdb546c9a8f12df0e62",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Factory Firmware Integration Engineer Intern, Vehicle Firmware",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5d3dc32c-017e-4c3f-a59f-64eea6435868",
+        "date_posted": 1736003746,
+        "company_url": "",
+        "is_visible": true
     }
 ]
