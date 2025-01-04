@@ -54510,5 +54510,22 @@
         "date_posted": 1736017583,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017629,
+        "url": "http://redirect.cvrve.me/6e30915fc5782a060313",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Loblaw",
+        "title": "Software Development Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "30ea5682-a675-420f-bf47-9d34c73e2f50",
+        "date_posted": 1736017629,
+        "company_url": "",
+        "is_visible": true
     }
 ]
