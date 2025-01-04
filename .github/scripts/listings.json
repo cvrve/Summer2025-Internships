@@ -54492,5 +54492,23 @@
         "date_posted": 1736017510,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017583,
+        "url": "http://redirect.cvrve.me/e58c7079e18339586f8f",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Otsuka",
+        "title": "Data Science Integration and Automation Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2369f056-1eda-4a14-8865-3131c70487a9",
+        "date_posted": 1736017583,
+        "company_url": "",
+        "is_visible": true
     }
 ]
