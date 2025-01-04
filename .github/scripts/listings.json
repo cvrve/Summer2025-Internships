@@ -54113,5 +54113,23 @@
         "date_posted": 1735876206,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735954807,
+        "url": "http://redirect.cvrve.me/eca9734bb0072283efb6",
+        "locations": [
+            "Rockville, MD",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FINRA",
+        "title": "Data Analytics/Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0dc3b46e-33dd-4c01-9d50-42e573d75af2",
+        "date_posted": 1735954807,
+        "company_url": "",
+        "is_visible": true
     }
 ]

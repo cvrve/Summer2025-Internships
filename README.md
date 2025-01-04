@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| FINRA | Data Analytics/Data Science Intern | Rockville, MD</br>New York, NY | <a href="http://redirect.cvrve.me/eca9734bb0072283efb6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Waters | System Test Engineer Intern | New Castle, DE | <a href="http://redirect.cvrve.me/547698edf88c8d5a12e4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | ↳ | Applications Testing Intern | New Castle, DE | <a href="http://redirect.cvrve.me/bf5290067bf1d4f72af2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/ce01677b9f503cad19d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
