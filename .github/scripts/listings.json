@@ -54545,5 +54545,22 @@
         "date_posted": 1736017700,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736017737,
+        "url": "http://redirect.cvrve.me/64249c04d5fb61ba2bcb",
+        "locations": [
+            "Kitchener, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Developer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2b84e485-9299-4a23-a553-5ffe53c83df4",
+        "date_posted": 1736017737,
+        "company_url": "",
+        "is_visible": true
     }
 ]
