@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Virtu | Quantitative Trading Intern | Austin, TX</br>New York, NY</br>Chicago, IL | <a href="http://redirect.cvrve.me/946202e2feb841712cbb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Vestmark | Software Engineer Co-op | Wakefield, MA | <a href="http://redirect.cvrve.me/b243389d857e7deff503?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
-| Tesla | Software QA Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/8eb4c07e198a755f9ff6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
+| Tesla | ML Performance Software Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/b9ea61ef87d341bb6114?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
+| ↳ | Software QA Engineer Intern | Palo Alto, CA | <a href="http://redirect.cvrve.me/8eb4c07e198a755f9ff6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | ↳ | Video Game C++ Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/efdc419a403e4b6a851c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Seagate | Firmware Engineer Intern | Longmont, CO</br>Shakopee, MN | <a href="http://redirect.cvrve.me/8d6c0a89ff545e9d676c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Marmon Holdings Inc | Reliability Engineer Intern | Carol Stream, IL | <a href="http://redirect.cvrve.me/04c3c86d2d1b590311c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |

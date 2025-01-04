@@ -54339,5 +54339,22 @@
         "date_posted": 1735956399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735956454,
+        "url": "http://redirect.cvrve.me/b9ea61ef87d341bb6114",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "ML Performance Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "36037d4d-85b4-41c8-8e39-0ae3b5c32293",
+        "date_posted": 1735956454,
+        "company_url": "",
+        "is_visible": true
     }
 ]
