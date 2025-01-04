@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Vestmark | Software Engineer Co-op | Wakefield, MA | <a href="http://redirect.cvrve.me/b243389d857e7deff503?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Seagate | Firmware Engineer Intern | Longmont, CO</br>Shakopee, MN | <a href="http://redirect.cvrve.me/8d6c0a89ff545e9d676c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
+| Marmon Holdings Inc | Reliability Engineer Intern | Carol Stream, IL | <a href="http://redirect.cvrve.me/04c3c86d2d1b590311c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | FINRA | Data Analytics/Data Science Intern | Rockville, MD</br>New York, NY | <a href="http://redirect.cvrve.me/eca9734bb0072283efb6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Digital AI | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/76ad8ebb2ad29c211d61?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Commscape | Site Reliability Engineer (SRE) and Power BI Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/993d3f1ea4c0c92111de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |

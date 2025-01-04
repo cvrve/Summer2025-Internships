@@ -54235,5 +54235,22 @@
         "date_posted": 1735955437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735955842,
+        "url": "http://redirect.cvrve.me/04c3c86d2d1b590311c7",
+        "locations": [
+            "Carol Stream, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marmon Holdings Inc",
+        "title": "Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9e6467a3-64bd-4bf5-88aa-553c4b38148e",
+        "date_posted": 1735955842,
+        "company_url": "",
+        "is_visible": true
     }
 ]
