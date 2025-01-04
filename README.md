@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vestmark | Software Engineer Co-op | Wakefield, MA | <a href="http://redirect.cvrve.me/b243389d857e7deff503?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | FINRA | Data Analytics/Data Science Intern | Rockville, MD</br>New York, NY | <a href="http://redirect.cvrve.me/eca9734bb0072283efb6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Digital AI | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/76ad8ebb2ad29c211d61?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 03 |
 | Waters | System Test Engineer Intern | New Castle, DE | <a href="http://redirect.cvrve.me/547698edf88c8d5a12e4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
