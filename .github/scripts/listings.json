@@ -54201,5 +54201,22 @@
         "date_posted": 1735955270,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1735955331,
+        "url": "http://redirect.cvrve.me/993d3f1ea4c0c92111de",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commscape",
+        "title": "Site Reliability Engineer (SRE) and Power BI Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9c65cb94-0bc3-4e0a-b3f8-158a921ef3ce",
+        "date_posted": 1735955331,
+        "company_url": "",
+        "is_visible": true
     }
 ]
