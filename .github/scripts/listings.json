@@ -54826,5 +54826,22 @@
         "date_posted": 1736194483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736196156,
+        "url": "http://redirect.cvrve.me/c11f049dc8c50b7bfbcc",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aritzia",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f0c587c0-49bc-4a10-b36c-26bce211da78",
+        "date_posted": 1736196156,
+        "company_url": "",
+        "is_visible": true
     }
 ]
