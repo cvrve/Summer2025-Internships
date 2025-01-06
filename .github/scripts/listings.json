@@ -54756,5 +54756,23 @@
         "date_posted": 1736178488,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736178513,
+        "url": "http://redirect.cvrve.me/228b0ac8455e2f2edb56",
+        "locations": [
+            "Palo Alto, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Groq",
+        "title": "Cloud Backend Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9f21d532-acee-4717-90f4-0fd67b57c55e",
+        "date_posted": 1736178513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
