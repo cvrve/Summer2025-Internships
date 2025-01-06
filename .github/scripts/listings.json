@@ -54702,5 +54702,23 @@
         "date_posted": 1736018090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736178419,
+        "url": "http://redirect.cvrve.me/341a312e0a988c2abd22",
+        "locations": [
+            "Palo Alto, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Groq",
+        "title": "Compound AI Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2293a67a-51db-49df-96e9-65d330bc64ad",
+        "date_posted": 1736178419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
