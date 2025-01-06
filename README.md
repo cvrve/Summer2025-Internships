@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Groq | Software Engineering Intern, Distributed Systems Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/cd419a8cd9aaf03b0112?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| Groq | Compiler Engineer Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/1b9e3f3583ccb9bda693?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| ↳ | Software Engineering Intern, Distributed Systems Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/cd419a8cd9aaf03b0112?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | ↳ | Compound AI Engineering Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/341a312e0a988c2abd22?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Tesla | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="http://redirect.cvrve.me/fff4bb87910c73c77983?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
 | ↳ | Factory Firmware Integration Engineer Intern, Vehicle Firmware | Fremont, CA | <a href="http://redirect.cvrve.me/abdb546c9a8f12df0e62?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 04 |
