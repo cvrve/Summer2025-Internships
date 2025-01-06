@@ -54720,5 +54720,23 @@
         "date_posted": 1736178419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736178456,
+        "url": "http://redirect.cvrve.me/cd419a8cd9aaf03b0112",
+        "locations": [
+            "Palo Alto, CA",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Groq",
+        "title": "Software Engineering Intern, Distributed Systems Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f887bd67-1161-477a-afd1-f03809637794",
+        "date_posted": 1736178456,
+        "company_url": "",
+        "is_visible": true
     }
 ]
