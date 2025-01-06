@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Virtu | Software Engineer Intern | New York, NY</br>Austin, TX | <a href="https://job-boards.greenhouse.io/virtu/jobs/7520504002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| ↳ | Site Reliability Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/virtu/jobs/6440066002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Johnson&Johnson | Robotics SW Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/7c0c64ad5e293f1bee90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Groq | Cloud Backend Engineering Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/228b0ac8455e2f2edb56?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | ↳ | Compiler Engineer Intern | Palo Alto, CA</br>Toronto, Canada | <a href="http://redirect.cvrve.me/1b9e3f3583ccb9bda693?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
