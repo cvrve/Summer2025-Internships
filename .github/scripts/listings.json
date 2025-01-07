@@ -54914,5 +54914,22 @@
         "date_posted": 1736227452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227540,
+        "url": "http://redirect.cvrve.me/90108687673df100b495",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2d926a91-3099-416a-b148-248391475573",
+        "date_posted": 1736227540,
+        "company_url": "",
+        "is_visible": true
     }
 ]

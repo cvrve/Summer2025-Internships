@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Whatnot | Data Science Intern | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/043f4ec21abb485bbbea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| Western Digital | Embedded Software Engineer Intern | Rochester, MN | <a href="http://redirect.cvrve.me/90108687673df100b495?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Virtu | Software Engineer Intern | New York, NY</br>Austin, TX | <a href="https://job-boards.greenhouse.io/virtu/jobs/7520504002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | ↳ | Site Reliability Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/virtu/jobs/6440066002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Johnson&Johnson | Robotics SW Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/7c0c64ad5e293f1bee90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
