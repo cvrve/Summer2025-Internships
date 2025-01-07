@@ -54982,5 +54982,22 @@
         "date_posted": 1736227710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227748,
+        "url": "http://redirect.cvrve.me/08e24f2f6878e4f5d542",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Compiler Engineer Intern, AI Inference",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4cb87b31-001f-41f3-b67e-4abf40f48015",
+        "date_posted": 1736227748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
