@@ -54965,5 +54965,22 @@
         "date_posted": 1736227660,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227710,
+        "url": "http://redirect.cvrve.me/477f5038200e637852d9",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer Intern, Export & Inference",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cb97a386-0cb1-4558-a3e6-e86506965130",
+        "date_posted": 1736227710,
+        "company_url": "",
+        "is_visible": true
     }
 ]
