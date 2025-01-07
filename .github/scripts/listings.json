@@ -55052,5 +55052,22 @@
         "date_posted": 1736227905,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227942,
+        "url": "http://redirect.cvrve.me/815ed3ee9a3d14b19300",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Backend Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cef59e13-2d3b-41ae-ac92-1935d9499d24",
+        "date_posted": 1736227942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
