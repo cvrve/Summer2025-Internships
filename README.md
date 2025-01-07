@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Machine Learning Intern | Remote</br>US | <a href="http://redirect.cvrve.me/9da29134b0c00e3b4979?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | McKesson | Software Engineering Intern | Irving, TX | <a href="http://redirect.cvrve.me/76219cd8509458c98284?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | LiveRamp | Data Science Co-Op | San Francisco, CA | <a href="http://redirect.cvrve.me/df9b5dd8ab2907c47973?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| Life Time | Software Engineer Intern | Chanhassen, MN | <a href="http://redirect.cvrve.me/b26ef255401b6b872fc0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | KLA | Software Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/326c51195f4b92cd2de3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Johnson&Johnson | Robotics SW Intern | Santa Clara, CA | <a href="http://redirect.cvrve.me/7c0c64ad5e293f1bee90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Janus Henderson | Quantitative Developer Intern | Denver, CO | <a href="http://redirect.cvrve.me/2d958ec1b353d89d9edb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |

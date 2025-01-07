@@ -55240,5 +55240,22 @@
         "date_posted": 1736231372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736231421,
+        "url": "http://redirect.cvrve.me/b26ef255401b6b872fc0",
+        "locations": [
+            "Chanhassen, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Life Time",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4dd21089-9b29-4725-837f-4b15d5c7d3bf",
+        "date_posted": 1736231421,
+        "company_url": "",
+        "is_visible": true
     }
 ]
