@@ -55205,5 +55205,22 @@
         "date_posted": 1736231299,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736231335,
+        "url": "http://redirect.cvrve.me/93f09551846db95019b1",
+        "locations": [
+            "Spokane Valley, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SEL",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "05c76e82-302f-486a-b13f-76adb87e8e5c",
+        "date_posted": 1736231335,
+        "company_url": "",
+        "is_visible": true
     }
 ]
