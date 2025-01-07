@@ -54931,5 +54931,22 @@
         "date_posted": 1736227540,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227619,
+        "url": "http://redirect.cvrve.me/f2e1e48e74b20a9d995a",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bdc2695a-468d-401f-8331-252b5d16b207",
+        "date_posted": 1736227619,
+        "company_url": "",
+        "is_visible": true
     }
 ]
