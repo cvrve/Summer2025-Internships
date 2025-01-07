@@ -54878,5 +54878,22 @@
         "date_posted": 1736227376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227418,
+        "url": "http://redirect.cvrve.me/5b389b277a9746d39818",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Envestnet",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10f595f2-4bef-4de9-a1cf-7cd4354d06c6",
+        "date_posted": 1736227418,
+        "company_url": "",
+        "is_visible": true
     }
 ]
