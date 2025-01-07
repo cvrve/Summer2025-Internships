@@ -54999,5 +54999,23 @@
         "date_posted": 1736227748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227817,
+        "url": "http://redirect.cvrve.me/9da29134b0c00e3b4979",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MyFitnessPal",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cfed20fa-5847-4bb8-8c52-b1f6106d2078",
+        "date_posted": 1736227817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
