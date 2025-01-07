@@ -55035,5 +55035,22 @@
         "date_posted": 1736227856,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227905,
+        "url": "http://redirect.cvrve.me/331180638652e6f4af1f",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Full Stack Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9125003d-ab13-4fea-b2d4-9c49ad2f51c1",
+        "date_posted": 1736227905,
+        "company_url": "",
+        "is_visible": true
     }
 ]
