@@ -55017,5 +55017,23 @@
         "date_posted": 1736227817,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736227856,
+        "url": "http://redirect.cvrve.me/e59274459857d3dd1d07",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MyFitnessPal",
+        "title": "iOS Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "348a2e61-483f-4c39-ad78-b14d2b914b62",
+        "date_posted": 1736227856,
+        "company_url": "",
+        "is_visible": true
     }
 ]
