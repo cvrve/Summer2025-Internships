@@ -55806,5 +55806,22 @@
         "date_posted": 1736369407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736369460,
+        "url": "http://redirect.cvrve.me/8936e4ea6ac46bdbb9d7",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f585f460-ff21-4ba0-8abf-4a085f8b6ae2",
+        "date_posted": 1736369460,
+        "company_url": "",
+        "is_visible": true
     }
 ]

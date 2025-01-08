@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waters | Cloud Engineer Intern | Milford, MA | <a href="http://redirect.cvrve.me/0299b83101e033505453?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Tesla | Fullstack Engineer Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8936e4ea6ac46bdbb9d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Samsara | Operations Data Analyst Intern | Remote</br>US | <a href="http://redirect.cvrve.me/550af3594921c17a702a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Operations Data Analyst Intern | Remote</br>Canada | <a href="http://redirect.cvrve.me/f9101c8fa9476eb4403b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Sage Sure | Software Design Intern | Jersey City, NJ | <a href="http://redirect.cvrve.me/f7740670524333acf2d4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
