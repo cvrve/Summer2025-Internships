@@ -55823,5 +55823,22 @@
         "date_posted": 1736369460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736369573,
+        "url": "http://redirect.cvrve.me/5ebb3cafbc9420a26fec",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Android Engineer Intern, Mobile Software",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f129eff2-f8dd-4c35-ae2f-461299f1e6bd",
+        "date_posted": 1736369573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
