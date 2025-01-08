@@ -55276,5 +55276,22 @@
         "date_posted": 1736231593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736366492,
+        "url": "http://redirect.cvrve.me/8b8f21ff90fe2e7f32e2",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Allstate",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "chc-tw",
+        "id": "7a4f62e9-abf5-4ead-9ed4-731e8d7cdf2e",
+        "date_posted": 1736366492,
+        "company_url": "",
+        "is_visible": true
     }
 ]
