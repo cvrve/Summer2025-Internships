@@ -55636,5 +55636,22 @@
         "date_posted": 1736368354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368468,
+        "url": "http://redirect.cvrve.me/a134c1bf6208c444c18e",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e8d7d540-4ced-4383-9237-5e6e2df4c47a",
+        "date_posted": 1736368468,
+        "company_url": "",
+        "is_visible": true
     }
 ]

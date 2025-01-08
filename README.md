@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Management Intern | Jersey City, NJ | <a href="http://redirect.cvrve.me/2dfe91d95f80c8844b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Software Engineering Intern | Jersey City, NJ | <a href="http://redirect.cvrve.me/5c8ee51b21a0d83fc5f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Data Science Intern | Jersey City, NJ | <a href="http://redirect.cvrve.me/f0605c11a8eea77df183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Sabre | Cloud Engineer Intern | Dallas, TX | <a href="http://redirect.cvrve.me/a134c1bf6208c444c18e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Potential Motors | AI Software Intern | Fredericton, Canada | <a href="http://redirect.cvrve.me/251ccaa75da1e333dac0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Data Collection Intern | Fredericton, Canada | <a href="http://redirect.cvrve.me/7c7251b6ed8dae78dfd1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Panasonic | Web Application Developer Intern | Irvine, CA | <a href="http://redirect.cvrve.me/648e1437b3f203a464f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
