@@ -55568,5 +55568,22 @@
         "date_posted": 1736367906,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368261,
+        "url": "http://redirect.cvrve.me/648e1437b3f203a464f6",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic",
+        "title": "Web Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d111af1c-d21c-406c-ac13-83a98ab6bc96",
+        "date_posted": 1736368261,
+        "company_url": "",
+        "is_visible": true
     }
 ]
