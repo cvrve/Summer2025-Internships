@@ -63,6 +63,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | KS | Software Engineer Intern | Evanston, IL | <a href="http://redirect.cvrve.me/cd62e5851e52a3cf70ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | KLA | System Software Intern | Milpitas, CA | <a href="http://redirect.cvrve.me/b849b603c51f308bea54?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Intuitive | NPI Software Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/3040ba2dd381325579da?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| General Dynamics | Software Engineering Intern 🇺🇸 | Dedham, MA | <a href="http://redirect.cvrve.me/00d3f38e1d2dae7b0afc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Eaton | Firmware Engineering Intern | Menomonee Falls, WI | <a href="http://redirect.cvrve.me/746fcecc9559029b5bb6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | DRW | AI/ML Research Intern | Montreal, Canada | <a href="http://redirect.cvrve.me/2d7a4098b8f41752f744?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Dayton Freight | Software Developer Intern | Dayton, OH | <a href="http://redirect.cvrve.me/b2bc165530f0d2e2491e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
