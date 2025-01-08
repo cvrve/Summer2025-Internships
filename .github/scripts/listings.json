@@ -55362,5 +55362,22 @@
         "date_posted": 1736366748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367100,
+        "url": "http://redirect.cvrve.me/7c7251b6ed8dae78dfd1",
+        "locations": [
+            "Fredericton, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Potential Motors",
+        "title": "Data Collection Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "97dda086-74c0-4c0d-9b9c-506b6de09a03",
+        "date_posted": 1736367100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
