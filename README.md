@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Capital One | Strategy Analyst Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/7391f752ba6466d881ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Capital One | Cyber Security Intern | Mclean, VA</br>Plano, TX | <a href="http://redirect.cvrve.me/73130d90d15aebf9e50b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| ↳ | Strategy Analyst Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/7391f752ba6466d881ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Data Scientist Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/5f9dd7e9f6b200433fcc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Data Analytics Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/84abb591ed469f1738ef?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Allstate | Machine Learning Engineer Intern | Remote | <a href="http://redirect.cvrve.me/8b8f21ff90fe2e7f32e2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
