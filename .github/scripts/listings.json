@@ -55415,5 +55415,22 @@
         "date_posted": 1736367172,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367202,
+        "url": "http://redirect.cvrve.me/251ccaa75da1e333dac0",
+        "locations": [
+            "Fredericton, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Potential Motors",
+        "title": "AI Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e267c3db-d321-4542-83c2-23c80bd69595",
+        "date_posted": 1736367202,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Samsara | Operations Data Analyst Intern | Remote</br>US | <a href="http://redirect.cvrve.me/550af3594921c17a702a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Operations Data Analyst Intern | Remote</br>Canada | <a href="http://redirect.cvrve.me/f9101c8fa9476eb4403b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
-| Potential Motors | Data Collection Intern | Fredericton, Canada | <a href="http://redirect.cvrve.me/7c7251b6ed8dae78dfd1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Potential Motors | AI Software Intern | Fredericton, Canada | <a href="http://redirect.cvrve.me/251ccaa75da1e333dac0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| ↳ | Data Collection Intern | Fredericton, Canada | <a href="http://redirect.cvrve.me/7c7251b6ed8dae78dfd1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Capital One | Cyber Security Intern | Mclean, VA</br>Plano, TX | <a href="http://redirect.cvrve.me/73130d90d15aebf9e50b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Strategy Analyst Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/7391f752ba6466d881ab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Data Scientist Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/5f9dd7e9f6b200433fcc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
