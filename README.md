@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Capital One | Data Analytics Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/84abb591ed469f1738ef?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Capital One | Data Scientist Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/5f9dd7e9f6b200433fcc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| ↳ | Data Analytics Engineering Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/84abb591ed469f1738ef?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Allstate | Machine Learning Engineer Intern | Remote | <a href="http://redirect.cvrve.me/8b8f21ff90fe2e7f32e2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Whatnot | Data Science Intern | Remote</br>US</br>Canada | <a href="http://redirect.cvrve.me/043f4ec21abb485bbbea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | Western Digital | Embedded Software Engineer Intern | Rochester, MN | <a href="http://redirect.cvrve.me/90108687673df100b495?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
