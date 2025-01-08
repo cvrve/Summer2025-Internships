@@ -55908,5 +55908,22 @@
         "date_posted": 1736369772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736369885,
+        "url": "http://redirect.cvrve.me/2bc0aea80b23a3c07dc2",
+        "locations": [
+            "Warren, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2c7155c8-839e-4dca-aa01-9e25c925fa8e",
+        "date_posted": 1736369885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
