@@ -55704,5 +55704,22 @@
         "date_posted": 1736368715,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368741,
+        "url": "http://redirect.cvrve.me/b849b603c51f308bea54",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "System Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "75c899c6-984e-4713-972d-273c790e39a4",
+        "date_posted": 1736368741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
