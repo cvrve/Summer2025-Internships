@@ -55466,5 +55466,22 @@
         "date_posted": 1736367264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367363,
+        "url": "http://redirect.cvrve.me/2dfe91d95f80c8844b03",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Sage Sure",
+        "title": "Data Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "004f3cbd-3d5b-43ba-9035-04ee21657878",
+        "date_posted": 1736367363,
+        "company_url": "",
+        "is_visible": true
     }
 ]
