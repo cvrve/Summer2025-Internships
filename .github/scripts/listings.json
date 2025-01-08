@@ -55789,5 +55789,22 @@
         "date_posted": 1736369275,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736369407,
+        "url": "http://redirect.cvrve.me/58007584928b9953674a",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bytedance",
+        "title": "Backend Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f2efe36b-3b5e-4974-80a5-7340358fb8b1",
+        "date_posted": 1736369407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
