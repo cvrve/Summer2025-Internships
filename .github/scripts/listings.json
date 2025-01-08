@@ -55483,5 +55483,22 @@
         "date_posted": 1736367363,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367392,
+        "url": "http://redirect.cvrve.me/f7740670524333acf2d4",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Sage Sure",
+        "title": "Software Design Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1bcb0555-14f1-4cff-9833-23db48fd9b44",
+        "date_posted": 1736367392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
