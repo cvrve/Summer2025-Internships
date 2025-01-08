@@ -55379,5 +55379,23 @@
         "date_posted": 1736367100,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367145,
+        "url": "http://redirect.cvrve.me/f9101c8fa9476eb4403b",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "Operations Data Analyst Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dd89e94e-5aa5-4141-b7cb-dc219478d793",
+        "date_posted": 1736367145,
+        "company_url": "",
+        "is_visible": true
     }
 ]
