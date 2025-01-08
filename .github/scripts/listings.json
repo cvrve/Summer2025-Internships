@@ -55500,5 +55500,22 @@
         "date_posted": 1736367392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367431,
+        "url": "http://redirect.cvrve.me/221930067c87b1e82311",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Minitab",
+        "title": "Information Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f6f3f731-8c01-48d4-aa63-ebcf083b4497",
+        "date_posted": 1736367431,
+        "company_url": "",
+        "is_visible": true
     }
 ]
