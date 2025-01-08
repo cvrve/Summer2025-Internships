@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Waters | Cloud Engineer Intern | Milford, MA | <a href="http://redirect.cvrve.me/0299b83101e033505453?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
-| Tesla | High Voltage Systems Embedded Software Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="http://redirect.cvrve.me/ef1c4061671cd8fb4059?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="http://redirect.cvrve.me/388db733691c1b80932b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
+| ↳ | High Voltage Systems Embedded Software Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="http://redirect.cvrve.me/ef1c4061671cd8fb4059?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Android Engineer Intern, Mobile Software | Palo Alto, CA | <a href="http://redirect.cvrve.me/5ebb3cafbc9420a26fec?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | ↳ | Fullstack Engineer Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8936e4ea6ac46bdbb9d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Samsara | Operations Data Analyst Intern | Remote</br>US | <a href="http://redirect.cvrve.me/550af3594921c17a702a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
