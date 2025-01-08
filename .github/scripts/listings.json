@@ -55653,5 +55653,22 @@
         "date_posted": 1736368468,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368601,
+        "url": "http://redirect.cvrve.me/1728bc16ed37e0246eeb",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7e38245d-4d60-46de-bf82-3222e99b349b",
+        "date_posted": 1736368601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
