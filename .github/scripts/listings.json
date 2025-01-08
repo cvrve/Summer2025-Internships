@@ -55721,5 +55721,22 @@
         "date_posted": 1736368741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736368779,
+        "url": "http://redirect.cvrve.me/0299b83101e033505453",
+        "locations": [
+            "Milford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4d7f103b-602e-4f2b-bf58-1e1722da7fb4",
+        "date_posted": 1736368779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
