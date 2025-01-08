@@ -55432,5 +55432,22 @@
         "date_posted": 1736367202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736367226,
+        "url": "http://redirect.cvrve.me/f0605c11a8eea77df183",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sage Sure",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c7993409-8db6-47b8-959d-850a5f6d6c8d",
+        "date_posted": 1736367226,
+        "company_url": "",
+        "is_visible": true
     }
 ]
