@@ -56219,5 +56219,22 @@
         "date_posted": 1736448280,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736448319,
+        "url": "http://redirect.cvrve.me/9fc4affee4b3bbcd8ad9",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mohawk Industries Inc",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4ea4a71a-1baa-4659-8003-35ac426295be",
+        "date_posted": 1736448319,
+        "company_url": "",
+        "is_visible": true
     }
 ]
