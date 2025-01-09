@@ -56304,5 +56304,23 @@
         "date_posted": 1736449647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736449681,
+        "url": "http://redirect.cvrve.me/9e0c3bf266a6f6953905",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infor",
+        "title": "Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1c7f5345-3eaf-4778-be36-76459d09ad23",
+        "date_posted": 1736449681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
