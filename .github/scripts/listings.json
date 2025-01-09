@@ -56202,5 +56202,22 @@
         "date_posted": 1736448115,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736448280,
+        "url": "http://redirect.cvrve.me/372927b8f583743836e7",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ATS",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d5272354-7774-40d3-8739-0ec7237f3d0d",
+        "date_posted": 1736448280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
