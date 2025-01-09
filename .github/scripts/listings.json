@@ -55925,5 +55925,22 @@
         "date_posted": 1736369885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736382780,
+        "url": "http://redirect.cvrve.me/51ed7f3c9ca9f575b1ef",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson&Johnson",
+        "title": "Robotics SW Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c959bee3-3fca-496d-b86a-5c64e83d58ee",
+        "date_posted": 1736382780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
