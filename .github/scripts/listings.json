@@ -56061,5 +56061,23 @@
         "date_posted": 1736383134,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736445526,
+        "url": "http://redirect.cvrve.me/fdb19d56f77270f9b98a",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Casca",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c39f6733-0738-4274-96f8-4321fbff2ba9",
+        "date_posted": 1736445526,
+        "company_url": "",
+        "is_visible": true
     }
 ]

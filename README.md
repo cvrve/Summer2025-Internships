@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Casca | Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/fdb19d56f77270f9b98a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Yazaki | Software Engineer Intern | Canton, MI | <a href="http://redirect.cvrve.me/a835be28adf31a102619?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Waters | Cloud Engineer Intern | Milford, MA | <a href="http://redirect.cvrve.me/0299b83101e033505453?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="http://redirect.cvrve.me/388db733691c1b80932b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
