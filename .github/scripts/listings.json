@@ -56117,5 +56117,22 @@
         "date_posted": 1736446589,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736447844,
+        "url": "http://redirect.cvrve.me/f3bef2fdf8af47ae1d7a",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Software Engineering Intern (C++)",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fd59c414-bb9b-4dce-b00f-3f4ad96c9761",
+        "date_posted": 1736447844,
+        "company_url": "",
+        "is_visible": true
     }
 ]

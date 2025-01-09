@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zoominfo | Software Engineer Intern | Waltham, MA | <a href="http://redirect.cvrve.me/c5da9a6136cbff8e4bf2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | STR | Summer Intern | <details><summary>**5 locations**</summary>Woburn, MA</br>Arlington, VA</br>Dayton, OH</br>Carlsbad, CA</br>Melbourne, FL</details> | <a href="http://redirect.cvrve.me/ca7cb3450972a3fbdcd6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
+| SIG | Software Engineering Intern (C++) | Bala Cynwyd, PA | <a href="http://redirect.cvrve.me/f3bef2fdf8af47ae1d7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Casca | Engineering Intern | Remote</br>US | <a href="http://redirect.cvrve.me/fdb19d56f77270f9b98a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Yazaki | Software Engineer Intern | Canton, MI | <a href="http://redirect.cvrve.me/a835be28adf31a102619?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
 | Waters | Cloud Engineer Intern | Milford, MA | <a href="http://redirect.cvrve.me/0299b83101e033505453?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 08 |
