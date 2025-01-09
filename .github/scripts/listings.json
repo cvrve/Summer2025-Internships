@@ -55993,5 +55993,22 @@
         "date_posted": 1736382894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736382923,
+        "url": "http://redirect.cvrve.me/5ccedb6bdad142b7bfcd",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MetLife",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8baf9b91-336a-45ac-93de-5ff81af6d192",
+        "date_posted": 1736382923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
