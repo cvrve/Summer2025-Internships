@@ -56027,5 +56027,22 @@
         "date_posted": 1736383017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736383062,
+        "url": "http://redirect.cvrve.me/19eadcd0d32c430aefee",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "ThinkPad Beta Support Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b1ce1bdf-80d3-4ec3-8c22-dc93619549b3",
+        "date_posted": 1736383062,
+        "company_url": "",
+        "is_visible": true
     }
 ]
