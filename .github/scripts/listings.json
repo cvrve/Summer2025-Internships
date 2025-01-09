@@ -56236,5 +56236,22 @@
         "date_posted": 1736448319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736448389,
+        "url": "http://redirect.cvrve.me/a4cb63d3cf1572e48142",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e569c249-c32d-4ee2-9f86-85bf718c16a0",
+        "date_posted": 1736448389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
