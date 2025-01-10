@@ -56463,5 +56463,22 @@
         "date_posted": 1736530299,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736530446,
+        "url": "http://redirect.cvrve.me/e71029c2f622da927d72",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Data Science Intern \u2013 AI/ML",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "087e5d00-f6bb-4405-b38f-902b88f7604d",
+        "date_posted": 1736530446,
+        "company_url": "",
+        "is_visible": true
     }
 ]
