@@ -56548,5 +56548,22 @@
         "date_posted": 1736530670,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736530703,
+        "url": "http://redirect.cvrve.me/2b5a2f71cc5f8e6c379d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Compiler Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c5a0ee05-6c24-4d95-9dfd-0d709f1e5f0a",
+        "date_posted": 1736530703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
