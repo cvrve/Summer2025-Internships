@@ -56339,5 +56339,23 @@
         "date_posted": 1736449729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736529862,
+        "url": "http://redirect.cvrve.me/139d571a83bc95e09b03",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WealthSimple",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f14c4e24-03fe-4057-9a31-345a1d461585",
+        "date_posted": 1736529862,
+        "company_url": "",
+        "is_visible": true
     }
 ]
