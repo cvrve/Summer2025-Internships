@@ -56710,5 +56710,22 @@
         "date_posted": 1736531709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531741,
+        "url": "http://redirect.cvrve.me/af7b34cb2e3a850cdcca",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Spatial Computing, Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "085cc592-6c25-4e88-b56b-a951cf11c680",
+        "date_posted": 1736531741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
