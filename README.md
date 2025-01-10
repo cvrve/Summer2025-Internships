@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| WealthSimple | Software Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/139d571a83bc95e09b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
+| WealthSimple | Data Science Intern | Remote</br>US | <a href="http://redirect.cvrve.me/65cacf2b4487d3d11d8e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
+| ↳ | Software Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/139d571a83bc95e09b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | Zoox | Scenario Automation Software Engineer Intern | Foster City, CA | <a href="http://redirect.cvrve.me/6e4a25f62f187b925136?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Zoominfo | Software Engineer Intern | Waltham, MA | <a href="http://redirect.cvrve.me/c5da9a6136cbff8e4bf2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Tradeweb | Software Engineering Intern | Golden, CO | <a href="http://redirect.cvrve.me/df52e7f2e08c7078e2d6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
