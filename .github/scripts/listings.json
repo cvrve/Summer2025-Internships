@@ -56796,5 +56796,22 @@
         "date_posted": 1736532106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736532177,
+        "url": "http://redirect.cvrve.me/f3231aa1c24442f3e7e4",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "UI Developer Intern, Vehicle Firmware",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "10db38b2-75a9-4c84-b01f-7abd59d0bfdc",
+        "date_posted": 1736532177,
+        "company_url": "",
+        "is_visible": true
     }
 ]
