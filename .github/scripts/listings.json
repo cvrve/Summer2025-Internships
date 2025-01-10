@@ -56676,5 +56676,22 @@
         "date_posted": 1736531095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531669,
+        "url": "http://redirect.cvrve.me/221fb73fb43517c97ca1",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern, League Operations, Apex Legends Esports",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c53a57dd-f811-43ab-87b0-88d11a3ad002",
+        "date_posted": 1736531669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
