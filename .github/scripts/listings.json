@@ -56727,5 +56727,23 @@
         "date_posted": 1736531741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531817,
+        "url": "http://redirect.cvrve.me/67fb9649892210bc6e6c",
+        "locations": [
+            "Carlsbad, CA",
+            "Germantown, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern, Government Services and Solutions",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b566d89c-c551-43e7-a814-c9cd46da4c4b",
+        "date_posted": 1736531817,
+        "company_url": "",
+        "is_visible": true
     }
 ]
