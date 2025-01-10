@@ -56762,5 +56762,22 @@
         "date_posted": 1736531948,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531983,
+        "url": "http://redirect.cvrve.me/7f3167912a2ad6313c72",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Engineer Intern, System Software",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "37173f81-add8-4b10-b2df-2990a975578d",
+        "date_posted": 1736531983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
