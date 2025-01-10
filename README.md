@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | WealthSimple | Data Science Intern | Remote</br>US | <a href="http://redirect.cvrve.me/65cacf2b4487d3d11d8e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | ↳ | Software Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/139d571a83bc95e09b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
+| Trimble | Software Development Engineer in Test Intern | Westminster, CO | <a href="http://redirect.cvrve.me/f4579483dc67abb92555?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | OpenInfer | Inference Performance Optimization Intern | San Mateo, CA | <a href="http://redirect.cvrve.me/cd9f0cad38329ea8219a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | Jabil | Data Science Intern – AI/ML | Tampa, FL | <a href="http://redirect.cvrve.me/e71029c2f622da927d72?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | ↳ | Data Science Intern for Computer Vision AI | Remote</br>US | <a href="http://redirect.cvrve.me/f5744800079735c6417f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
