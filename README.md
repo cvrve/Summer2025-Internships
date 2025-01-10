@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Webster Bank | Front End Developer Intern | Jericho, NY | <a href="http://redirect.cvrve.me/753b1b08cc9874dfd3d1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | WealthSimple | Data Science Intern | Remote</br>US | <a href="http://redirect.cvrve.me/65cacf2b4487d3d11d8e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | ↳ | Software Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/139d571a83bc95e09b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | Trimble | Software Development Engineer in Test Intern | Westminster, CO | <a href="http://redirect.cvrve.me/f4579483dc67abb92555?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |

@@ -56693,5 +56693,22 @@
         "date_posted": 1736531669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531709,
+        "url": "http://redirect.cvrve.me/753b1b08cc9874dfd3d1",
+        "locations": [
+            "Jericho, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Webster Bank",
+        "title": "Front End Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "13483b45-f0c7-431d-a058-6b100319f19e",
+        "date_posted": 1736531709,
+        "company_url": "",
+        "is_visible": true
     }
 ]
