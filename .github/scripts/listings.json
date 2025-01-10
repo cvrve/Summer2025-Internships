@@ -56636,5 +56636,25 @@
         "date_posted": 1736530906,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736531043,
+        "url": "http://redirect.cvrve.me/f04b72b9eaca2b9f1311",
+        "locations": [
+            "San Jose, CA",
+            "Scottsdale, AZ",
+            "Chicago, IL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Backend Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ce08d1c8-9b99-4832-b5c9-23cd2f4d0504",
+        "date_posted": 1736531043,
+        "company_url": "",
+        "is_visible": true
     }
 ]
