@@ -56779,5 +56779,22 @@
         "date_posted": 1736531983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736532106,
+        "url": "http://redirect.cvrve.me/cd17ded44f5208652893",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Engineer Intern, AI Infrastructure",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a087d037-edcf-4ce8-9f4c-85a43e24c677",
+        "date_posted": 1736532106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
