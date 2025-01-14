@@ -56847,5 +56847,24 @@
         "date_posted": 1736874899,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1736874954,
+        "url": "http://redirect.cvrve.me/ef9820f4167c6d796445",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Technology Internship Program",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6c5386b8-3b34-459a-9d63-bc0fb19d37f4",
+        "date_posted": 1736874954,
+        "company_url": "",
+        "is_visible": true
     }
 ]
