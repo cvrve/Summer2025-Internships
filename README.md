@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| John Deere | Data Science and Analytics Intern | Austin, TX | <a href="http://redirect.cvrve.me/2c96a0bee3902fcc5409?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Datadog | SRE Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/2e310c0120f62c464576?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Amazon | AI/ML Software Development Engineer Intern | <details><summary>**7 locations**</summary>Austin, TX</br>Sunnyvale, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</br>Irvine, CA</br>Cambridge, MA</details> | <a href="http://redirect.cvrve.me/0bf627ade7c4fccfe37b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | ↳ | Embedded Systems SDE Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/0bed7bf9f16da295941f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |

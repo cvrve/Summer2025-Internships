@@ -57967,5 +57967,22 @@
         "date_posted": 1737062530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737063122,
+        "url": "http://redirect.cvrve.me/2c96a0bee3902fcc5409",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Data Science and Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "003e0821-c0a0-4ea8-be18-0554cf2bf856",
+        "date_posted": 1737063122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
