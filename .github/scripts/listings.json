@@ -57781,7 +57781,7 @@
         "season": "Summer",
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Schrödinger",
+        "company_name": "Schr\u00f6dinger",
         "title": "Software Development Intern, PyMOL",
         "source": "vanshb03",
         "id": "e617f60b-a4f8-4813-a40a-89f44f9a8e25",
@@ -57908,6 +57908,23 @@
         "source": "vanshb03",
         "id": "49a8bba1-204e-440f-9441-1ff41b604927",
         "date_posted": 1737001071,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737058540,
+        "url": "http://redirect.cvrve.me/2e310c0120f62c464576",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "SRE Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "068cb8dd-a04c-4d04-85b9-ff8df3078b10",
+        "date_posted": 1737058540,
         "company_url": "",
         "is_visible": true
     }
