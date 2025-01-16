@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Datadog | SRE Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/2e310c0120f62c464576?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
-| Amazon | Embedded Systems SDE Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/0bed7bf9f16da295941f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| Amazon | AI/ML Software Development Engineer Intern | <details><summary>**7 locations**</summary>Austin, TX</br>Sunnyvale, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</br>Irvine, CA</br>Cambridge, MA</details> | <a href="http://redirect.cvrve.me/0bf627ade7c4fccfe37b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| ↳ | Embedded Systems SDE Intern | Los Gatos, CA | <a href="http://redirect.cvrve.me/0bed7bf9f16da295941f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Wells Fargo | Sophomore Discovery Fellowship Program | Charlotte, NC</br>New York, NY | <a href="https://redirect.cvrve.me/2072ef83cabbcccde4ae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
 | Verizon | Network Automation Intern | Chandler, AZ | <a href="https://redirect.cvrve.me/f1f56eddfc0925b26d3a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
 | ↳ | Full Stack Software Development Intern | Ashburn, VA | <a href="https://redirect.cvrve.me/ad4708678fa3772c22c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
