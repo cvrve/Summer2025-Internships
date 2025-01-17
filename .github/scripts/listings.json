@@ -58242,5 +58242,22 @@
         "date_posted": 1737088308,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088378,
+        "url": "http://redirect.cvrve.me/19f3d7b7afbbb8a615fc",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3bca4b3f-9d74-4ec6-91b5-8fff555882e1",
+        "date_posted": 1737088378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
