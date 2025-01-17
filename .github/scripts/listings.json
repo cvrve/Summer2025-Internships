@@ -58395,5 +58395,22 @@
         "date_posted": 1737105943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737106030,
+        "url": "http://redirect.cvrve.me/a4466cb3d80d92ed9b3e",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verint",
+        "title": "Data Engineer intern",
+        "season": "Summer",
+        "source": "namanmawandia",
+        "id": "e7fb1f99-7d87-4489-9535-861a7e43f6be",
+        "date_posted": 1737106030,
+        "company_url": "",
+        "is_visible": true
     }
 ]
