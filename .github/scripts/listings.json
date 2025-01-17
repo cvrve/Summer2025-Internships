@@ -58276,5 +58276,22 @@
         "date_posted": 1737088426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088478,
+        "url": "http://redirect.cvrve.me/e1e74f34e56c49a78a2a",
+        "locations": [
+            "Cottonwood Heights, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Breeze",
+        "title": "Ancillary Revenue & Guest Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3cf164be-f764-409c-888c-7ff35b9de0a2",
+        "date_posted": 1737088478,
+        "company_url": "",
+        "is_visible": true
     }
 ]
