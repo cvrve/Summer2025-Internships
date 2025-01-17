@@ -58600,5 +58600,22 @@
         "date_posted": 1737141533,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141604,
+        "url": "http://redirect.cvrve.me/722a22ec8f5085793fab",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "System Behavior Analysis Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "84ee96cc-2b50-4835-ac52-762efc7877be",
+        "date_posted": 1737141604,
+        "company_url": "",
+        "is_visible": true
     }
 ]
