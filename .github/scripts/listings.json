@@ -58327,5 +58327,22 @@
         "date_posted": 1737088625,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088675,
+        "url": "http://redirect.cvrve.me/ca5d7281da9184800219",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chewy",
+        "title": "Robotics Software Engineer I Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4af4d1e9-2479-4a59-a1c9-3e3550b476c1",
+        "date_posted": 1737088675,
+        "company_url": "",
+        "is_visible": true
     }
 ]
