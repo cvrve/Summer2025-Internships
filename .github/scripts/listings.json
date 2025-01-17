@@ -58140,5 +58140,22 @@
         "date_posted": 1737087938,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088003,
+        "url": "http://redirect.cvrve.me/c429be5e3906d424ba35",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Loop",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0fa20135-7e71-49e8-bb15-4084682b3f12",
+        "date_posted": 1737088003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
