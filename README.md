@@ -111,9 +111,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Chime | Software Engineer Intern, KYC | Chicago, IL | <a href="https://redirect.cvrve.me/054d06ceb7c4bf7c19cc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
 | ↳ | Software Engineer Intern, FinPlat | San Francisco, CA | <a href="https://redirect.cvrve.me/d1a1dd957aaeca11e0fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
 | BorgWarner | Web Application Intern Intern | Auburn Hills, MI | <a href="https://redirect.cvrve.me/221a2d35576c7dee1167?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
-| Capital One | Technology Internship Program 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | <a href="http://redirect.cvrve.me/ef9820f4167c6d796445?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 14 |
-| ↳ | Technology Early Internship Program 🛂 | McLean, VA | <a href="http://redirect.cvrve.me/917b0a2857eea30dbf8f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 14 |
-| ↳ | Analyst Early Internship Program 🛂 | McLean, VA | <a href="http://redirect.cvrve.me/b5a12f8c53f65a31e811?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 14 |
+| Capital One | Analyst Early Internship Program 🛂 | McLean, VA | <a href="http://redirect.cvrve.me/b5a12f8c53f65a31e811?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 14 |
 | Webster Bank | Front End Developer Intern | Jericho, NY | <a href="http://redirect.cvrve.me/753b1b08cc9874dfd3d1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | WealthSimple | Data Science Intern | Remote</br>US | <a href="http://redirect.cvrve.me/65cacf2b4487d3d11d8e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | ↳ | Software Development Intern | Remote</br>US | <a href="http://redirect.cvrve.me/139d571a83bc95e09b03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
@@ -1974,6 +1972,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Point72 | Quantitative Developer Intern | New York | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2025-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Global Atlantic | Technology Intern 🛂 | New York | <a href="https://boards.greenhouse.io/gainternships/jobs/5594014?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Blackrock | Summer Internship | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| Capital One | Technology Internship Program 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | 🔒 | Jan 14 |
+| ↳ | Technology Early Internship Program 🛂 | McLean, VA | 🔒 | Jan 14 |
 | Autodesk | Frontend Software Engineer Intern | San Francisco, CA | 🔒 | Jan 10 |
 | ↳ | Machine Learning Engineer Intern | San Francisco, CA | 🔒 | Jan 10 |
 | ↳ | Full Stack Software Engineer Intern | San Francisco, CA | 🔒 | Jan 10 |
