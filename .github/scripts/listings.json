@@ -58174,5 +58174,22 @@
         "date_posted": 1737088035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088070,
+        "url": "http://redirect.cvrve.me/793b6277fc271e8c5f5b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Backend Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9ab869e7-9ad0-4c39-a2e8-c0bcc9d8c859",
+        "date_posted": 1737088070,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viatris | IT Analytics Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
-| Lumafield | Frontend Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/c16f01a6674403180af6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| Lumafield | Backend Engineer Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/793b6277fc271e8c5f5b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| ↳ | Frontend Engineering Intern | San Francisco, CA | <a href="http://redirect.cvrve.me/c16f01a6674403180af6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Loop | Software Engineer Intern | Columbus, OH | <a href="http://redirect.cvrve.me/c429be5e3906d424ba35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Leidos | Software Development Intern | Chantilly, VA | <a href="http://redirect.cvrve.me/b91bdb05b7435a7636c4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | John Deere | Data Science and Analytics Intern | Austin, TX | <a href="http://redirect.cvrve.me/2c96a0bee3902fcc5409?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
