@@ -58053,5 +58053,22 @@
         "date_posted": 1737087649,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087701,
+        "url": "http://redirect.cvrve.me/e31c82fa6a6954286ee8",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ARSIEM Corporation",
+        "title": "Software/AI Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "df62dcf6-4737-44c9-a3c2-b95248962673",
+        "date_posted": 1737087701,
+        "company_url": "",
+        "is_visible": true
     }
 ]
