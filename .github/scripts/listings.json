@@ -58259,5 +58259,22 @@
         "date_posted": 1737088378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088426,
+        "url": "http://redirect.cvrve.me/88225d6f979ed23d9e32",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "5a4d1af3-078d-4012-b04b-d2d6746e3e19",
+        "date_posted": 1737088426,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viatris | IT Analytics Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
-| S&P Global | Data Science Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/19f3d7b7afbbb8a615fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| S&P Global | Software Engineer Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/88225d6f979ed23d9e32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| ↳ | Data Science Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/19f3d7b7afbbb8a615fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Neuralink | Software Engineer Intern, Robotics | Fremont, CA | <a href="http://redirect.cvrve.me/ca1c46acd3a1099f2cab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | ↳ | Software Engineer Intern, Robotics | Austin, TX | <a href="http://redirect.cvrve.me/1d95f38ebf9dd671bbb8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Mondelēz International | Digital Solutions Intern | Chicago, IL | <a href="http://redirect.cvrve.me/2982ab61e9d87d6205fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
