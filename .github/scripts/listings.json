@@ -58480,5 +58480,22 @@
         "date_posted": 1737140772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141246,
+        "url": "http://redirect.cvrve.me/c6ccbbff7b238d35174d",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "244aca0c-6ca8-44ea-a12b-65a96f2b08a2",
+        "date_posted": 1737141246,
+        "company_url": "",
+        "is_visible": true
     }
 ]

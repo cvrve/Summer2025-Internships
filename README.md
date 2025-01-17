@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Intuitive | AI/ML Data Scientist Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/84e571f950f33eb543e8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/8c90cdb1ad5b0cf86314?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Chewy | Data Engineer I Co-op | Bellevue, WA | <a href="http://redirect.cvrve.me/73c98722eadd95a84449?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| Autodesk | Software Developer Intern | Montreal, Canada | <a href="http://redirect.cvrve.me/c6ccbbff7b238d35174d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Viatris | IT Analytics Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | S&P Global | Software Engineer Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/88225d6f979ed23d9e32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | ↳ | Data Science Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/19f3d7b7afbbb8a615fc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
