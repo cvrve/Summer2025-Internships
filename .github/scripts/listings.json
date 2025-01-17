@@ -58157,5 +58157,22 @@
         "date_posted": 1737088003,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088035,
+        "url": "http://redirect.cvrve.me/c16f01a6674403180af6",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Frontend Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b3162a7a-a47e-442a-85d7-6cda8fbb6f58",
+        "date_posted": 1737088035,
+        "company_url": "",
+        "is_visible": true
     }
 ]
