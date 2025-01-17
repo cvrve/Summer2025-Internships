@@ -58463,5 +58463,22 @@
         "date_posted": 1737140737,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737140772,
+        "url": "http://redirect.cvrve.me/8e96bb4ebe9f80e91423",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Network Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ad8ecb83-6ecc-4de3-af39-8eec69d0c359",
+        "date_posted": 1737140772,
+        "company_url": "",
+        "is_visible": true
     }
 ]

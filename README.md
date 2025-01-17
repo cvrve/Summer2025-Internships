@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Verint | Data Engineer intern | Remote | <a href="http://redirect.cvrve.me/a4466cb3d80d92ed9b3e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | SAS | Software Engineer Intern | CA | <a href="http://redirect.cvrve.me/4fde9056d27e74e84183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| Leidos | Network Engineer Intern | Huntsville, AL | <a href="http://redirect.cvrve.me/8e96bb4ebe9f80e91423?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Intuitive | AI/ML Data Scientist Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/84e571f950f33eb543e8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Manufacturing Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/8c90cdb1ad5b0cf86314?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Chewy | Data Engineer I Co-op | Bellevue, WA | <a href="http://redirect.cvrve.me/73c98722eadd95a84449?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
