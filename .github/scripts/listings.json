@@ -58191,5 +58191,22 @@
         "date_posted": 1737088070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088109,
+        "url": "http://redirect.cvrve.me/2982ab61e9d87d6205fc",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mondel\u0113z International",
+        "title": "Digital Solutions Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9220f212-9187-4d34-b41e-ec644290e0e9",
+        "date_posted": 1737088109,
+        "company_url": "",
+        "is_visible": true
     }
 ]
