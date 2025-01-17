@@ -58208,5 +58208,22 @@
         "date_posted": 1737088109,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088252,
+        "url": "http://redirect.cvrve.me/1d95f38ebf9dd671bbb8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Software Engineer Intern, Robotics",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c07be958-266b-4911-997d-93758baf1bb5",
+        "date_posted": 1737088252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
