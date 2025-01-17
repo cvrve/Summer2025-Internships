@@ -58548,5 +58548,23 @@
         "date_posted": 1737141356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141388,
+        "url": "http://redirect.cvrve.me/b4ed630626b8f10d1fae",
+        "locations": [
+            "Foster City, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Autonomy System Test Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0d002ec2-23bd-445e-b1cb-8aaf111dd8cc",
+        "date_posted": 1737141388,
+        "company_url": "",
+        "is_visible": true
     }
 ]

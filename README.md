@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zoox | Firmware Engineering Intern | Foster City, CA | <a href="http://redirect.cvrve.me/076ad30edb71dedcb932?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| Zoox | Autonomy System Test Engineering Intern | Foster City, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/b4ed630626b8f10d1fae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| ↳ | Firmware Engineering Intern | Foster City, CA | <a href="http://redirect.cvrve.me/076ad30edb71dedcb932?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Verint | Data Engineer intern | Remote | <a href="http://redirect.cvrve.me/a4466cb3d80d92ed9b3e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | SAS | Software Engineer Intern | CA | <a href="http://redirect.cvrve.me/4fde9056d27e74e84183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Leidos | Network Engineer Intern | Huntsville, AL | <a href="http://redirect.cvrve.me/8e96bb4ebe9f80e91423?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
