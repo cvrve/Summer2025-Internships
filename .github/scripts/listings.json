@@ -58497,5 +58497,22 @@
         "date_posted": 1737141246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141278,
+        "url": "http://redirect.cvrve.me/2af1b2026f34f47403ce",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Embedded Firmware Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f73a5dc0-527d-4878-832c-88487f95b288",
+        "date_posted": 1737141278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
