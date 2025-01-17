@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Viatris | IT Analytics Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | John Deere | Data Science and Analytics Intern | Austin, TX | <a href="http://redirect.cvrve.me/2c96a0bee3902fcc5409?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| f5 | Software Engineer Intern | Seattle, WA</br>San Jose, CA | <a href="http://redirect.cvrve.me/410afe0184dbcbdc344d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Echostar | Digital Marketing & Analytics Intern | Germantown, MD | <a href="http://redirect.cvrve.me/540f758044263749c914?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | dun & bradstreet | Data & Analytics Intern | Jacksonville, FL | <a href="http://redirect.cvrve.me/6cfc7842820a002990c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Datadog | SRE Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/2e310c0120f62c464576?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
