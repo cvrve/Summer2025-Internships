@@ -58070,5 +58070,23 @@
         "date_posted": 1737087701,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087751,
+        "url": "http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viatris",
+        "title": "IT Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "bc6acb95-abdc-4a5b-98e3-618f746d7ffb",
+        "date_posted": 1737087751,
+        "company_url": "",
+        "is_visible": true
     }
 ]
