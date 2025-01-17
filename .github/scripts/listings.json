@@ -58123,5 +58123,22 @@
         "date_posted": 1737087903,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087938,
+        "url": "http://redirect.cvrve.me/b91bdb05b7435a7636c4",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f5795e87-1d83-4529-ab2c-ffab3c56921d",
+        "date_posted": 1737087938,
+        "company_url": "",
+        "is_visible": true
     }
 ]
