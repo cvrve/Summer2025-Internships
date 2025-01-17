@@ -58002,5 +58002,22 @@
         "date_posted": 1737087252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087443,
+        "url": "http://redirect.cvrve.me/6cfc7842820a002990c7",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "dun & bradstreet",
+        "title": "Data & Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a9491d99-13e5-437d-be69-7995079ba59a",
+        "date_posted": 1737087443,
+        "company_url": "",
+        "is_visible": true
     }
 ]

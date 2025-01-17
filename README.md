@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | John Deere | Data Science and Analytics Intern | Austin, TX | <a href="http://redirect.cvrve.me/2c96a0bee3902fcc5409?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
+| dun & bradstreet | Data & Analytics Intern | Jacksonville, FL | <a href="http://redirect.cvrve.me/6cfc7842820a002990c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Datadog | SRE Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/2e310c0120f62c464576?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Atomic | Open Source Developer Tools Research Intern | Remote</br>Miami, FL | <a href="http://redirect.cvrve.me/fc1297d2ad69129b9cae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | Amazon | AI/ML Software Development Engineer Intern | <details><summary>**7 locations**</summary>Austin, TX</br>Sunnyvale, CA</br>Seattle, WA</br>Redmond, WA</br>Bellevue, WA</br>Irvine, CA</br>Cambridge, MA</details> | <a href="http://redirect.cvrve.me/0bf627ade7c4fccfe37b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
