@@ -58412,5 +58412,22 @@
         "date_posted": 1737106030,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737106086,
+        "url": "http://redirect.cvrve.me/4fde9056d27e74e84183",
+        "locations": [
+            "CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SAS",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Capsfly",
+        "id": "ab55461e-5b6c-451a-9557-ad786e10e9e9",
+        "date_posted": 1737106086,
+        "company_url": "",
+        "is_visible": true
     }
 ]
