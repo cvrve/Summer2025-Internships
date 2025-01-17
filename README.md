@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Zoox | System Behavior Analysis Intern | Foster City, CA | <a href="http://redirect.cvrve.me/722a22ec8f5085793fab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| Zoox | Triage and Audit Research Analyst Intern | Foster City, CA | <a href="http://redirect.cvrve.me/a3f0739c6ee5d931bad2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| ↳ | System Behavior Analysis Intern | Foster City, CA | <a href="http://redirect.cvrve.me/722a22ec8f5085793fab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Software Development in Test Intern | Foster City, CA | <a href="http://redirect.cvrve.me/499e26e69c8b8defdff0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Autonomy System Test Engineering Intern | Foster City, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/b4ed630626b8f10d1fae?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Firmware Engineering Intern | Foster City, CA | <a href="http://redirect.cvrve.me/076ad30edb71dedcb932?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
