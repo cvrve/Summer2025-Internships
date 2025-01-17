@@ -58344,5 +58344,22 @@
         "date_posted": 1737088675,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737088909,
+        "url": "http://redirect.cvrve.me/19c3f230792afa7e68aa",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chewy",
+        "title": "BI Engineer I Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d0da4fe8-9175-4405-b05c-f5052023b04b",
+        "date_posted": 1737088909,
+        "company_url": "",
+        "is_visible": true
     }
 ]
