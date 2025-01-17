@@ -58446,5 +58446,22 @@
         "date_posted": 1737140702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737140737,
+        "url": "http://redirect.cvrve.me/84e571f950f33eb543e8",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "AI/ML Data Scientist Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b8d4b92d-84da-4ffb-a51d-326176ed968c",
+        "date_posted": 1737140737,
+        "company_url": "",
+        "is_visible": true
     }
 ]
