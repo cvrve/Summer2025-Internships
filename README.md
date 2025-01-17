@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Verint | Data Engineer intern | Remote | <a href="http://redirect.cvrve.me/a4466cb3d80d92ed9b3e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | SAS | Software Engineer Intern | CA | <a href="http://redirect.cvrve.me/4fde9056d27e74e84183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
+| Intuitive | Manufacturing Software Engineering Intern | Sunnyvale, CA | <a href="http://redirect.cvrve.me/8c90cdb1ad5b0cf86314?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Chewy | Data Engineer I Co-op | Bellevue, WA | <a href="http://redirect.cvrve.me/73c98722eadd95a84449?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | Viatris | IT Analytics Intern | Remote</br>US | <a href="http://redirect.cvrve.me/f0cc10b8d0e2fb56ef04?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | S&P Global | Software Engineer Intern | Toronto, Canada | <a href="http://redirect.cvrve.me/88225d6f979ed23d9e32?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
