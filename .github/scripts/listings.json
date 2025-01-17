@@ -58514,5 +58514,22 @@
         "date_posted": 1737141278,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141313,
+        "url": "http://redirect.cvrve.me/54d0da246819cc4bbb8f",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AEG",
+        "title": "Application Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "85ac5a88-7208-488f-93e2-7d672daa65ed",
+        "date_posted": 1737141313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
