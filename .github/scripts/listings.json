@@ -57984,5 +57984,23 @@
         "date_posted": 1737063122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087252,
+        "url": "http://redirect.cvrve.me/fc1297d2ad69129b9cae",
+        "locations": [
+            "Remote",
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atomic",
+        "title": "Open Source Developer Tools Research Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c740ae05-1f3f-4026-ab9e-47c4afaff458",
+        "date_posted": 1737087252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
