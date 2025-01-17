@@ -56573,7 +56573,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Full Stack Software Engineer Intern",
         "season": "Summer",
@@ -56590,7 +56590,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -56607,7 +56607,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Frontend Software Engineer Intern",
         "season": "Summer",
