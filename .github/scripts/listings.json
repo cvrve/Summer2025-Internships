@@ -58106,5 +58106,22 @@
         "date_posted": 1737087821,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737087903,
+        "url": "http://redirect.cvrve.me/b6da4be916a625922b2a",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intrinsic",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8dbeefc6-1114-4aa7-8640-de0ef26b0921",
+        "date_posted": 1737087903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
