@@ -58566,5 +58566,22 @@
         "date_posted": 1737141388,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737141474,
+        "url": "http://redirect.cvrve.me/499e26e69c8b8defdff0",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Software Development in Test Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "fdc8ea4b-56a5-4ab4-a804-924d1c3cdf46",
+        "date_posted": 1737141474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
