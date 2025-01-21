@@ -60090,5 +60090,416 @@
         "date_posted": 1737419180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737419410,
+        "url": "https://redirect.cvrve.me/893d450a5f29363b7e18",
+        "locations": [
+            "Portland, OR",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Columbia Sportswear",
+        "title": "Software Engineer Intern - Platform Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "53676eaf-d73a-4bf4-a0dc-133ff2db43d1",
+        "date_posted": 1737419410,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419434,
+        "url": "https://redirect.cvrve.me/06eb7566493d96b367a8",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Columbia Sportswear ",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "045d2fd2-a01d-47f8-8b58-88b121b90685",
+        "date_posted": 1737419434,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419458,
+        "url": "https://redirect.cvrve.me/291660e710747af0a5b8",
+        "locations": [
+            "Salem, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Columbia Sportswear",
+        "title": "Software Integration Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f101ac9f-5809-46df-8fb3-ec6442d1e392",
+        "date_posted": 1737419458,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419484,
+        "url": "https://redirect.cvrve.me/2d96e8d1bc2b3616d95a",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Columbia Sportswear",
+        "title": "Analytics Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "31d92d0f-b742-4148-a304-5f56b5e636ad",
+        "date_posted": 1737419484,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419576,
+        "url": "https://redirect.cvrve.me/96cbb53f0ca9ec4cf9db",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kalderos",
+        "title": "Data Science & Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cd12a2d6-72ea-47d4-843f-46c37fd0de1c",
+        "date_posted": 1737419576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419658,
+        "url": "https://redirect.cvrve.me/23406b51540244d1ab22",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kalderos",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bdf44a43-563f-44f4-9249-89f5d0bccf55",
+        "date_posted": 1737419658,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419680,
+        "url": "https://redirect.cvrve.me/65cdcd7942e63bf10bfc",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kalderos",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bc5c60ef-08e0-4a71-b65f-1b3d07f5d4c7",
+        "date_posted": 1737419680,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419761,
+        "url": "https://redirect.cvrve.me/aa1b6c165b381366f66c",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Keyfactor ",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "15e45db0-c726-407c-9aef-7256d18b7fda",
+        "date_posted": 1737419761,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419799,
+        "url": "https://redirect.cvrve.me/562c40eef823addef796",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keyfactor",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f5cfaab8-9f27-4e83-a726-a271203e342d",
+        "date_posted": 1737419799,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419882,
+        "url": "https://redirect.cvrve.me/125d5db707c846196f92",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medline",
+        "title": "IT Data Science Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e5edd7b-dacd-4f22-89d8-fae860b3b1a6",
+        "date_posted": 1737419882,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419909,
+        "url": "https://redirect.cvrve.me/7a999b29acc748856889",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Recursion",
+        "title": "Software Engineering Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a506b958-a15d-4edf-95d3-24f0061a5861",
+        "date_posted": 1737419909,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419946,
+        "url": "https://redirect.cvrve.me/57d028b1484e55fdfe3a",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Growth & Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4692a677-129f-4efc-b066-24987a9aafb5",
+        "date_posted": 1737419946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419964,
+        "url": "https://redirect.cvrve.me/4191eb9974669fbc82b2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toast",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fea9d140-83da-4036-ac8c-ccf2d9b97c05",
+        "date_posted": 1737419964,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419993,
+        "url": "https://redirect.cvrve.me/e7196716aeda401d8d16",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "USAA",
+        "title": "Data and Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2e9e8cb6-68d7-4652-910f-3071bb8f809c",
+        "date_posted": 1737419993,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737420084,
+        "url": "https://redirect.cvrve.me/3ad2a88e734d08143ba8",
+        "locations": [
+            "Brooklyn Park, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirtec Medical",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a99a211b-2d60-4d35-a7e3-4322a1a4c705",
+        "date_posted": 1737420084,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737420342,
+        "url": "https://redirect.cvrve.me/e6dff48ca481f6569c85",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chipotle",
+        "title": "Junior Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "29aa55de-a491-47ca-aa01-9b2a51110e7e",
+        "date_posted": 1737420342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737420895,
+        "url": "https://redirect.cvrve.me/c790a11bb159cd01a257",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chipotle",
+        "title": "IT Personalization Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "110549a6-c4e6-4f44-889f-d35a0eae8291",
+        "date_posted": 1737420895,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737422910,
+        "url": "https://redirect.cvrve.me/afcfa5772ac50adf9629",
+        "locations": [
+            "Calumet, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Analytics",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bcd16595-2238-4e63-a2a2-4bf2490fafc6",
+        "date_posted": 1737422910,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737422946,
+        "url": "https://redirect.cvrve.me/b0d9b6a8e74768e8e305",
+        "locations": [
+            "Shippensburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Volvo",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cb2993e3-b62c-4ef4-906d-02f2a2684ec8",
+        "date_posted": 1737422946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737423203,
+        "url": "https://redirect.cvrve.me/8e74977a711f05ef0824",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7ff0c5a-5515-4ed1-9ab1-466c50357535",
+        "date_posted": 1737423203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737423234,
+        "url": "https://redirect.cvrve.me/b895fc2db76802fbf9dc",
+        "locations": [
+            "Carthage, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leggett & Platt",
+        "title": "IT Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9fcf5135-3e4c-4bb3-a3c9-9929b08a915e",
+        "date_posted": 1737423234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737423281,
+        "url": "https://redirect.cvrve.me/21128f99bb7d85f336de",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maxar",
+        "title": "Ground Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "940514a0-2f29-4eb4-a5eb-e71b5db150fa",
+        "date_posted": 1737423281,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737423772,
+        "url": "https://redirect.cvrve.me/67ff162f90454eda050f",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "34768db7-ab73-4123-bd8d-e621f853e748",
+        "date_posted": 1737423772,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737423811,
+        "url": "https://redirect.cvrve.me/4b71b377ef5f615ad193",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Coca-Cola Company",
+        "title": "Martech Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2dd578b2-99b4-4b99-a328-8a5350f60d8e",
+        "date_posted": 1737423811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
