@@ -46,6 +46,31 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TGS | Software API Development Intern | Houston, TX | <a href="https://redirect.cvrve.me/07412c6d8aa3c50b73be?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Software API Infrastructure Intern | Houston, TX | <a href="https://redirect.cvrve.me/986f53f081ec68b961c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Data Science Intern, DMS | Houston, TX | <a href="https://redirect.cvrve.me/ba585594e16a03805cf1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Geoscience AI/ML Researcher Intern | Houston, TX | <a href="https://redirect.cvrve.me/6892e5af7afe69b561a6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Cyber Security Intern | Houston, TX | <a href="https://redirect.cvrve.me/2d8647fe03ab4bfd5b98?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Data Science Intern, Research & Technology | Houston, TX | <a href="https://redirect.cvrve.me/85bc0c5790021c5f9ce4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | IT Infrastructure Intern | Houston, TX | <a href="https://redirect.cvrve.me/6961d98b83e97ff76247?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Data Lake Intern | Houston, TX | <a href="https://redirect.cvrve.me/f2a9ff20c6940d63f9a2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| TechSmith | Software Engineer Intern, Full Stack |  | <a href="https://redirect.cvrve.me/f5a039a364ad94c35dcc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Software Test Engineer Intern |  | <a href="https://redirect.cvrve.me/3836ea2631006f386a85?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Squarespace | Software Engineering Intern | New York, NY | <a href="https://redirect.cvrve.me/5569f7171211cf06ea33?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| NOV | Software Engineering Intern | Houston, TX | <a href="https://redirect.cvrve.me/71c266ba8b57de9b785a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Mathworks | Software Engineer Intern, Test | Natick, MA | <a href="https://redirect.cvrve.me/8dc9654402b2c3e623ca?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Engineering Development Group Intern | Natick, MA | <a href="https://redirect.cvrve.me/4131c288b1b6b0540f55?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| K12 Coalition | Junior Software Development Engineer Intern, Test | Remote | <a href="https://redirect.cvrve.me/91bd0733f30f18a83cdc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Garrett | Engineering Internship, Software | Torrence, CA | <a href="https://redirect.cvrve.me/4c486c54e0df7b9cc56a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Empower | Software Engineer Intern, Financial Planning | Boston, MA | <a href="https://redirect.cvrve.me/54d2ca39860df9b6508d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Copart | SDET Java Intern | Dallas, TX | <a href="https://redirect.cvrve.me/cdca2a41a402d4606d8f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | UI Developer Intern | Dallas, TX | <a href="https://redirect.cvrve.me/0eda4e1394f751610eb1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Network Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/d0a21e78c3916c718322?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Software Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/89a3e6dda9122f6309c2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | AI / ML Intern | Dallas, TX | <a href="https://redirect.cvrve.me/b51a29ba790928661053?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| Autodesk | Software Engineer Intern | Remote | <a href="https://redirect.cvrve.me/0b4eb86c4e7a27c02991?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| AEG | Data Engineer Intern, LA Kings | Los Angeles, CA | <a href="https://redirect.cvrve.me/994c3bdcae3d592c19b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
+| ↳ | Application Development Intern, Global Technology | Los Angeles, CA | <a href="https://redirect.cvrve.me/8e72c25367ce04ef8c7b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
 | Zoox | Triage and Audit Research Analyst Intern | Foster City, CA | <a href="http://redirect.cvrve.me/a3f0739c6ee5d931bad2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | System Behavior Analysis Intern | Foster City, CA | <a href="http://redirect.cvrve.me/722a22ec8f5085793fab?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | ↳ | Software Development in Test Intern | Foster City, CA | <a href="http://redirect.cvrve.me/499e26e69c8b8defdff0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
