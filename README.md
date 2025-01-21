@@ -46,6 +46,20 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Woven by Toyota | Software Engineering Intern, Visualization | Ann Arbor, MI | <a href="https://redirect.cvrve.me/2c8a4501f9822444c1fd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Software Engineering Intern, Arene Tools | Pal Alto, CA | <a href="https://redirect.cvrve.me/fc9b7d5c3b4964e26c6d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Software Engineering Intern, Arene SDK | Ann Arbor, MI | <a href="https://redirect.cvrve.me/6d10f80bc986c77e6536?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Software Engineering Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://redirect.cvrve.me/fbba9f78ed549aaac054?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Software Engineering Intern, Arene Advanced Development | Sunnyvale, CA | <a href="https://redirect.cvrve.me/253573dd6e7959574652?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Machine Learning Intern, Perception | Palo Alto, CA | <a href="https://redirect.cvrve.me/eba9af7f39afd8306cfd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Machine Learning Intern, Planner | Palo Alto, CA | <a href="https://redirect.cvrve.me/8efbc989b6f68c9f8b09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Machine Learning Intern, Autolabeling | Palo Alto, CA | <a href="https://redirect.cvrve.me/6aebc4aa9de13d15d7c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| OneMain Financial | Technology Intern | Remote | <a href="https://redirect.cvrve.me/66d3fc77566c3b457567?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Associate Analyst Intern | Willmington, DE</br>Charlotte, NC | <a href="https://redirect.cvrve.me/0c9c77f9b51bd9dd6a42?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| Ibotta | Data Engineering Intern | Denver, CO | <a href="https://redirect.cvrve.me/737b8cf74ac96e30e3f6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| Datadog | IT Security Engineer Intern | New York, NY | <a href="https://redirect.cvrve.me/f5003bf3865e3b81cf42?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Security Engineer Intern | New York, NY | <a href="https://redirect.cvrve.me/13cee9bd222bcea166bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| ↳ | Software Engineer Intern, SRE | New York, NY | <a href="https://redirect.cvrve.me/f2659ef49bac946085b8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | Volvo | Software Engineer Intern | Shippensburg, PA | <a href="https://redirect.cvrve.me/b0d9b6a8e74768e8e305?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
 | USAA | Data and Analytics Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/e7196716aeda401d8d16?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
 | Toast | Software Engineer Intern | Boston, MA | <a href="https://redirect.cvrve.me/4191eb9974669fbc82b2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 20 |
