@@ -59665,5 +59665,430 @@
         "date_posted": 1737142127,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737419124,
+        "url": "https://redirect.cvrve.me/b51a29ba790928661053",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "AI / ML Intern",
+        "source": "vanshb03",
+        "id": "d2992e3c-5938-4b6a-bce0-60dd00285817",
+        "date_posted": 1737419124,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419128,
+        "url": "https://redirect.cvrve.me/d0a21e78c3916c718322",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Network Engineering Intern",
+        "source": "vanshb03",
+        "id": "b9d812cc-d7c1-4b0b-b788-0bd389070d56",
+        "date_posted": 1737419128,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419128,
+        "url": "https://redirect.cvrve.me/89a3e6dda9122f6309c2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "da21fc29-73aa-493c-a064-cc6522ee82b8",
+        "date_posted": 1737419128,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419130,
+        "url": "https://redirect.cvrve.me/0eda4e1394f751610eb1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "UI Developer Intern",
+        "source": "vanshb03",
+        "id": "c2d07f7f-a1d5-4d62-b849-42bf8d353f2e",
+        "date_posted": 1737419130,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419131,
+        "url": "https://redirect.cvrve.me/cdca2a41a402d4606d8f",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "SDET Java Intern",
+        "source": "vanshb03",
+        "id": "7f47da82-50b9-4547-a05a-0107e6b099f9",
+        "date_posted": 1737419131,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419133,
+        "url": "https://redirect.cvrve.me/8e72c25367ce04ef8c7b",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AEG",
+        "title": "Application Development Intern, Global Technology",
+        "source": "vanshb03",
+        "id": "86819666-1654-4340-afea-527c2323b9f8",
+        "date_posted": 1737419133,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419134,
+        "url": "https://redirect.cvrve.me/994c3bdcae3d592c19b1",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AEG",
+        "title": "Data Engineer Intern, LA Kings",
+        "source": "vanshb03",
+        "id": "58717592-c4c4-4235-bd42-afb9a927da04",
+        "date_posted": 1737419134,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419135,
+        "url": "https://redirect.cvrve.me/4c486c54e0df7b9cc56a",
+        "locations": [
+            "Torrence, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garrett",
+        "title": "Engineering Internship, Software",
+        "source": "vanshb03",
+        "id": "ed6b5cac-aa29-4083-aff5-74d29b0b50de",
+        "date_posted": 1737419135,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419135,
+        "url": "https://redirect.cvrve.me/0b4eb86c4e7a27c02991",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1a8acefb-e58f-46a2-aa60-41eec283dace",
+        "date_posted": 1737419135,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419148,
+        "url": "https://redirect.cvrve.me/6961d98b83e97ff76247",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "IT Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "fd82ef55-e98e-4bb3-bbfe-4ee03cf8b38e",
+        "date_posted": 1737419148,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419148,
+        "url": "https://redirect.cvrve.me/f2a9ff20c6940d63f9a2",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Data Lake Intern",
+        "source": "vanshb03",
+        "id": "45e1a5d6-592b-482a-8050-d1ec510b6fc6",
+        "date_posted": 1737419148,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419149,
+        "url": "https://redirect.cvrve.me/85bc0c5790021c5f9ce4",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Data Science Intern, Research & Technology",
+        "source": "vanshb03",
+        "id": "3864de7e-b48f-4ad6-8689-42737b366d1c",
+        "date_posted": 1737419149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419150,
+        "url": "https://redirect.cvrve.me/6892e5af7afe69b561a6",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Geoscience AI/ML Researcher Intern",
+        "source": "vanshb03",
+        "id": "8ed4cdb7-9d43-4fc5-8e03-9be440ef6893",
+        "date_posted": 1737419150,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419150,
+        "url": "https://redirect.cvrve.me/2d8647fe03ab4bfd5b98",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "69eae226-2335-4dda-94e3-c1e34856110b",
+        "date_posted": 1737419150,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419151,
+        "url": "https://redirect.cvrve.me/07412c6d8aa3c50b73be",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Software API Development Intern",
+        "source": "vanshb03",
+        "id": "6cd7de46-e75e-4e11-8cbf-f68e19836df6",
+        "date_posted": 1737419151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419151,
+        "url": "https://redirect.cvrve.me/986f53f081ec68b961c8",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Software API Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "cf429156-3b70-4000-baaf-436138cfd38d",
+        "date_posted": 1737419151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419151,
+        "url": "https://redirect.cvrve.me/ba585594e16a03805cf1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TGS",
+        "title": "Data Science Intern, DMS",
+        "source": "vanshb03",
+        "id": "dac2ae07-1fc2-4d4e-b103-e2b650595678",
+        "date_posted": 1737419151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419157,
+        "url": "https://redirect.cvrve.me/3836ea2631006f386a85",
+        "locations": [
+            ""
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TechSmith",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "cc9ce067-e0f9-4d67-a43e-f74a89cb9fc2",
+        "date_posted": 1737419157,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419159,
+        "url": "https://redirect.cvrve.me/f5a039a364ad94c35dcc",
+        "locations": [
+            ""
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TechSmith",
+        "title": "Software Engineer Intern, Full Stack",
+        "source": "vanshb03",
+        "id": "c0fa8f8d-b28d-4ed7-b7e7-a695e393bd9a",
+        "date_posted": 1737419159,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419161,
+        "url": "https://redirect.cvrve.me/4131c288b1b6b0540f55",
+        "locations": [
+            "Natick, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mathworks",
+        "title": "Engineering Development Group Intern",
+        "source": "vanshb03",
+        "id": "eb87894b-65b1-4e0b-a1a6-fd1be719c5ad",
+        "date_posted": 1737419161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419162,
+        "url": "https://redirect.cvrve.me/8dc9654402b2c3e623ca",
+        "locations": [
+            "Natick, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mathworks",
+        "title": "Software Engineer Intern, Test",
+        "source": "vanshb03",
+        "id": "63c1b7b7-6d88-477e-bcab-9b79dd37aea6",
+        "date_posted": 1737419162,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419174,
+        "url": "https://redirect.cvrve.me/5569f7171211cf06ea33",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Squarespace",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a9d1f7ce-e67d-4774-9b3b-25df61079658",
+        "date_posted": 1737419174,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419176,
+        "url": "https://redirect.cvrve.me/71c266ba8b57de9b785a",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NOV",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "787bb917-844b-446d-b90b-8051611f06ba",
+        "date_posted": 1737419176,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419177,
+        "url": "https://redirect.cvrve.me/91bd0733f30f18a83cdc",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "K12 Coalition",
+        "title": "Junior Software Development Engineer Intern, Test",
+        "source": "vanshb03",
+        "id": "4331d031-27d9-42eb-b2bd-3ccf7d9410fe",
+        "date_posted": 1737419177,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737419180,
+        "url": "https://redirect.cvrve.me/54d2ca39860df9b6508d",
+        "locations": [
+            "Boston, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Empower",
+        "title": "Software Engineer Intern, Financial Planning",
+        "source": "vanshb03",
+        "id": "e6329f74-0c43-4ed6-8f8c-0a18329bd9d2",
+        "date_posted": 1737419180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
