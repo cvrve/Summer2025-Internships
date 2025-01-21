@@ -60758,5 +60758,126 @@
         "date_posted": 1737497367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737496955,
+        "url": "https://redirect.cvrve.me/5b3e0bf23f381e2aa2b3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cyberark",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9896a0f-6b61-464b-a5a8-d77817faa8bb",
+        "date_posted": 1737496955,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737496983,
+        "url": "https://redirect.cvrve.me/6c606ea64d5fd31b646b",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "iCapital",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a8a365c1-ff77-4c8b-a7ae-0c7898ad56df",
+        "date_posted": 1737496983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737497072,
+        "url": "https://redirect.cvrve.me/552dca8068ee02f11516",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northwestern Mutual",
+        "title": "Financial Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f494e9af-e55b-4ddf-a0fb-d086b51cd7c1",
+        "date_posted": 1737497072,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737497098,
+        "url": "https://redirect.cvrve.me/341616baaa620d518576",
+        "locations": [
+            "Solon, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "nvent",
+        "title": "Software Engineering Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "70aa53ed-cbf6-40bc-8b41-7c2c2d79f58b",
+        "date_posted": 1737497098,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737497141,
+        "url": "https://redirect.cvrve.me/2b85c3e04b9edd8af8aa",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Otis",
+        "title": "Software Engineering Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d3a24f6-d6d1-442c-922e-a76eba6fa142",
+        "date_posted": 1737497141,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737497271,
+        "url": "https://redirect.cvrve.me/0b3dfb5743b636d0b34a",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verint",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bd8e15ca-ac16-4650-938b-eb088de3406f",
+        "date_posted": 1737497271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737497301,
+        "url": "https://redirect.cvrve.me/4268ef24646ef55c33f3",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acushnet Company",
+        "title": "Software Engineering Intern- R&D",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7289b6a6-702a-43bc-9adf-bd99459b6432",
+        "date_posted": 1737497301,
+        "company_url": "",
+        "is_visible": true
     }
 ]
