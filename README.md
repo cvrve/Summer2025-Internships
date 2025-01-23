@@ -46,6 +46,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Spotify | Product & Technology Intern | New York, NY | <a href="https://redirect.cvrve.me/55bd18a2cfffe67da7bc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
+| Gemini | Software Engineering Intern | Remote</br>US | <a href="https://redirect.cvrve.me/f259eaee97ff2ad183d9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
+| Chime | Software Engineer Intern, Spend & Credit Progress | San Francisco, CA | <a href="https://redirect.cvrve.me/3e024f180b4a6868df4b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
+| ↳ | Software Engineer Intern, Community | San Francisco, CA | <a href="https://redirect.cvrve.me/b568df85f33ed05a3bf1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
+| ↳ | Software Engineer Intern, Autobots | San Francisco, CA | <a href="https://redirect.cvrve.me/63bcf458a85d1f8c9c63?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
+| ↳ | Software Engineer Intern, Manage Money | San Francisco, CA | <a href="https://redirect.cvrve.me/ab058a66840f378887b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
 | Woven by Toyota | Software Engineering Intern, Visualization | Ann Arbor, MI | <a href="https://redirect.cvrve.me/2c8a4501f9822444c1fd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | ↳ | Software Engineering Intern, Arene Tools | Pal Alto, CA | <a href="https://redirect.cvrve.me/fc9b7d5c3b4964e26c6d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | ↳ | Software Engineering Intern, Arene SDK | Ann Arbor, MI | <a href="https://redirect.cvrve.me/6d10f80bc986c77e6536?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
