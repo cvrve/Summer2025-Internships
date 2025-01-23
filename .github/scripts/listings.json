@@ -60879,5 +60879,108 @@
         "date_posted": 1737497301,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737584927,
+        "url": "https://redirect.cvrve.me/f259eaee97ff2ad183d9",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gemini",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "774778e9-1a63-4c7e-b58c-200550e77644",
+        "date_posted": 1737584927,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737584956,
+        "url": "https://redirect.cvrve.me/ab058a66840f378887b0",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "Software Engineer Intern, Manage Money",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a01e57d9-329b-406b-878e-ffc20863919b",
+        "date_posted": 1737584956,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737585023,
+        "url": "https://redirect.cvrve.me/63bcf458a85d1f8c9c63",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "Software Engineer Intern, Autobots",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cd54e75f-22c0-4243-859a-0554bd3944fd",
+        "date_posted": 1737585023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737585092,
+        "url": "https://redirect.cvrve.me/b568df85f33ed05a3bf1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "Software Engineer Intern, Community",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "38731e58-8f80-4cfd-9a6f-e331a2edb4a1",
+        "date_posted": 1737585092,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737585117,
+        "url": "https://redirect.cvrve.me/3e024f180b4a6868df4b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "Software Engineer Intern, Spend & Credit Progress",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "83775f2b-a474-4fa7-8087-34407803d50b",
+        "date_posted": 1737585117,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737594729,
+        "url": "https://redirect.cvrve.me/55bd18a2cfffe67da7bc",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Product & Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8b82fe8-8032-40db-90c4-54fdcf645b3e",
+        "date_posted": 1737594729,
+        "company_url": "",
+        "is_visible": true
     }
 ]
