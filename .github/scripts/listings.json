@@ -61463,5 +61463,22 @@
         "date_posted": 1737812110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812144,
+        "url": "http://redirect.cvrve.me/d33bb139961f071b2025",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kyndryl",
+        "title": "Tech Developer & Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "489723a4-ef3c-41f2-ab7b-185362278582",
+        "date_posted": 1737812144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
