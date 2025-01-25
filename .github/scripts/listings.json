@@ -60982,5 +60982,451 @@
         "date_posted": 1737594729,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737809559,
+        "url": "https://redirect.cvrve.me/8cea70f78ab8f1a91e0a",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Typeface",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ab4c0499-e3e0-4b7a-8af5-f5c4ca52707d",
+        "date_posted": 1737809559,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809584,
+        "url": "https://redirect.cvrve.me/b0b90622fe5dcc6313d7",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Typeface",
+        "title": "Product Security Intern",
+        "source": "vanshb03",
+        "id": "0e5837b6-777b-41ac-8ac6-6b3ad734c5c7",
+        "date_posted": 1737809584,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809585,
+        "url": "https://redirect.cvrve.me/5a0629a696c10e036ec9",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Typeface",
+        "title": "ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "b8d940c2-ebcc-425a-a3e3-bc9680e08a88",
+        "date_posted": 1737809585,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809586,
+        "url": "https://redirect.cvrve.me/457c7c32b64dc0790f3e",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Typeface",
+        "title": "Applied AI Research Intern - PhD",
+        "source": "vanshb03",
+        "id": "e1730ff8-af0e-4681-b2f7-2db465926718",
+        "date_posted": 1737809586,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809627,
+        "url": "https://redirect.cvrve.me/04bd078a7e4a11d4185e",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Content Platform Research Scientist Intern - PhD",
+        "source": "vanshb03",
+        "id": "55f5b129-dcfb-46d9-96a4-f687af2dae65",
+        "date_posted": 1737809627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809628,
+        "url": "https://redirect.cvrve.me/8e2d2e7fa625ca4c875d",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spotify",
+        "title": "Research Scientist Intern, Interdisciplinary - PhD",
+        "source": "vanshb03",
+        "id": "3003138f-1203-4f7b-8db3-b896a7fc710d",
+        "date_posted": 1737809628,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809630,
+        "url": "https://redirect.cvrve.me/d767216771dbabfc236b",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Machine Learning Engineer Intern, VLMs",
+        "source": "vanshb03",
+        "id": "f83453f9-6025-40d7-934d-b2a9378ea569",
+        "date_posted": 1737809630,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809631,
+        "url": "https://redirect.cvrve.me/991a7dc61b565f2ab3ac",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Gen AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "82e10b30-4ba4-4272-9170-e4c7a5e309a2",
+        "date_posted": 1737809631,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809633,
+        "url": "https://redirect.cvrve.me/1468a07e1a9175d94a38",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "DRAM Applications Intern",
+        "source": "vanshb03",
+        "id": "8b6783c5-79c7-43f3-97c1-39422337c1a3",
+        "date_posted": 1737809633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809635,
+        "url": "https://redirect.cvrve.me/28ec218d43e295bdc35d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "System Software Engineer Intern, CXL",
+        "source": "vanshb03",
+        "id": "9d5ebc2f-4544-4946-a707-32e002f75521",
+        "date_posted": 1737809635,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809636,
+        "url": "https://redirect.cvrve.me/961462c1d0a998ebdf88",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "System Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "49efcc01-864a-45a4-bbb7-3025ccfef34a",
+        "date_posted": 1737809636,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809637,
+        "url": "https://redirect.cvrve.me/2b13487029f32ac88c49",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Memory Solutions Research Engineer Intern",
+        "source": "vanshb03",
+        "id": "72733d10-dd37-4719-8396-8b4a3b26c61f",
+        "date_posted": 1737809637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809637,
+        "url": "https://redirect.cvrve.me/05253b4416352e8f9ef4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Data Parallel Programming Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "9534012a-e46e-4609-a023-e5acd47f101f",
+        "date_posted": 1737809637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809639,
+        "url": "https://redirect.cvrve.me/3c463fa4d919b8ffbda0",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "CXL Deep Memory Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "9e9841dc-9167-44e6-a1fd-a64cec31aa1e",
+        "date_posted": 1737809639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809641,
+        "url": "https://redirect.cvrve.me/3c22e75781818039b301",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "AI/ML Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "04ebfe1c-7d16-42e0-a547-32ffc1fd31b2",
+        "date_posted": 1737809641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809642,
+        "url": "https://redirect.cvrve.me/e97eefc45c19d1facb33",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "AI Device Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "67303beb-daff-4726-8d8b-79dc60bd8458",
+        "date_posted": 1737809642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809643,
+        "url": "https://redirect.cvrve.me/fcc298927925f66791b1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Machine Learning Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "583ef411-b67d-4e59-b52b-cabab9363945",
+        "date_posted": 1737809643,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809644,
+        "url": "https://redirect.cvrve.me/15158bdae9256e035af1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "a72a1915-36b8-4975-8bdd-0667f580301b",
+        "date_posted": 1737809644,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809645,
+        "url": "https://redirect.cvrve.me/4b087172656e42d8429a",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Visualization Engineer Intern",
+        "source": "vanshb03",
+        "id": "20430634-f914-445f-b135-2b7af3d46a36",
+        "date_posted": 1737809645,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809653,
+        "url": "https://redirect.cvrve.me/6e5bd4f3cea841a0c067",
+        "locations": [
+            "Lowell, AR"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J.B Hunt",
+        "title": "Application Development Intern, Engineering & Technology",
+        "source": "vanshb03",
+        "id": "a2c74d92-e7b4-4904-b4c9-94d1b1405473",
+        "date_posted": 1737809653,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809655,
+        "url": "https://redirect.cvrve.me/e1b397f344ea93445295",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insulet",
+        "title": "DevOps Engineering Intern",
+        "source": "vanshb03",
+        "id": "0f1ba02c-c041-4ddc-940b-45536f07c5ac",
+        "date_posted": 1737809655,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809656,
+        "url": "https://redirect.cvrve.me/e73374272f74b5e21935",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insulet",
+        "title": "R&D Engineering Operations Intern",
+        "source": "vanshb03",
+        "id": "8de59432-d0a9-4cd0-a50b-d58d66550ea9",
+        "date_posted": 1737809656,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809657,
+        "url": "https://redirect.cvrve.me/0f933a212b43f5f71f38",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flagship Pioneering",
+        "title": "Computational Biology and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "06c157cf-6c98-4ef4-9f82-8f117db3af17",
+        "date_posted": 1737809657,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809658,
+        "url": "https://redirect.cvrve.me/43b7208b1179cd4607e1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flagship Pioneering",
+        "title": "AI Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "dd696007-c7a8-476c-973b-1ba4353f9019",
+        "date_posted": 1737809658,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809662,
+        "url": "https://redirect.cvrve.me/c84dd8a13640f79ba6fe",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOLV Energy",
+        "title": "OTI Systems/DevOps Intern",
+        "source": "vanshb03",
+        "id": "8922eec6-6583-4fff-b808-cd9e3f2db7b7",
+        "date_posted": 1737809662,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737809663,
+        "url": "https://redirect.cvrve.me/5ed3f379f1f9a5c58606",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOLV Energy",
+        "title": "Procurement Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "4ea385ef-7283-42cc-abbc-56bb61f5cba4",
+        "date_posted": 1737809663,
+        "company_url": "",
+        "is_visible": true
     }
 ]
