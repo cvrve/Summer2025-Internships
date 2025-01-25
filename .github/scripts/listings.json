@@ -61946,5 +61946,22 @@
         "date_posted": 1737815735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815780,
+        "url": "http://redirect.cvrve.me/060b45944607ab7165bb",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db5453d7-52fe-40a2-87ae-d6c7a0b48bf7",
+        "date_posted": 1737815780,
+        "company_url": "",
+        "is_visible": true
     }
 ]
