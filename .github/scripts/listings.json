@@ -61704,5 +61704,22 @@
         "date_posted": 1737813197,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813461,
+        "url": "http://redirect.cvrve.me/2cf4de3c6262514c9cfd",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db591556-c585-4b7e-b8b8-977f86e5d60c",
+        "date_posted": 1737813461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
