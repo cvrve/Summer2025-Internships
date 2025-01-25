@@ -61601,5 +61601,23 @@
         "date_posted": 1737812735,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812870,
+        "url": "http://redirect.cvrve.me/a048307d800181bceaba",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Engineering Inttern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9045ea79-4d22-44cd-9de6-aa5ffb99b25c",
+        "date_posted": 1737812870,
+        "company_url": "",
+        "is_visible": true
     }
 ]
