@@ -61895,5 +61895,22 @@
         "date_posted": 1737815594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815669,
+        "url": "http://redirect.cvrve.me/d89f559cd137e66f6d36",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fujitsu Network Communications, Inc",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac68e371-cb57-4a7b-8875-608ed0fc969d",
+        "date_posted": 1737815669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
