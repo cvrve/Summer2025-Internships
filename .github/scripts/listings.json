@@ -61653,5 +61653,22 @@
         "date_posted": 1737813079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813115,
+        "url": "http://redirect.cvrve.me/edf91b9b5b8fec3e7fa0",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kimberly-Clark",
+        "title": "Product Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c7480a6-7038-4d2a-94c1-85a32e2c95ed",
+        "date_posted": 1737813115,
+        "company_url": "",
+        "is_visible": true
     }
 ]
