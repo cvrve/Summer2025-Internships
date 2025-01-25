@@ -61980,5 +61980,22 @@
         "date_posted": 1737815819,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815900,
+        "url": "http://redirect.cvrve.me/97dab9ed7fcc80203951",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, Dojo",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f389dacb-a75b-447a-8e6d-15d149700809",
+        "date_posted": 1737815900,
+        "company_url": "",
+        "is_visible": true
     }
 ]
