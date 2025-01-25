@@ -61721,5 +61721,22 @@
         "date_posted": 1737813461,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813531,
+        "url": "http://redirect.cvrve.me/4e03abb7df76dead1b67",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Discount Tyre",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "873b5e01-95a1-4f07-b896-b3ee67a72796",
+        "date_posted": 1737813531,
+        "company_url": "",
+        "is_visible": true
     }
 ]
