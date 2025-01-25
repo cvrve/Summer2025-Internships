@@ -61567,5 +61567,22 @@
         "date_posted": 1737812333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812365,
+        "url": "http://redirect.cvrve.me/c066f08da9c17a721464",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Comprehensive Simulator Framework Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa5b3353-7d76-46ff-930f-3d33bb824c39",
+        "date_posted": 1737812365,
+        "company_url": "",
+        "is_visible": true
     }
 ]
