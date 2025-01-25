@@ -61446,5 +61446,22 @@
         "date_posted": 1737812087,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812110,
+        "url": "http://redirect.cvrve.me/77e9cce9cae607a1f180",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "AI / ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "54246d3c-5d32-40d6-bf88-cdcdcfefc870",
+        "date_posted": 1737812110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
