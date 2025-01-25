@@ -61772,5 +61772,22 @@
         "date_posted": 1737815111,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815208,
+        "url": "http://redirect.cvrve.me/847823d8512a1e30479b",
+        "locations": [
+            "King George, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7cf50b96-6fe5-452a-8dd9-9f6561a51d76",
+        "date_posted": 1737815208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
