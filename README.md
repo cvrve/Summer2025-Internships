@@ -68,6 +68,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | DRAM Applications Intern | San Jose, CA | <a href="https://redirect.cvrve.me/1468a07e1a9175d94a38?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | ↳ | Gen AI Engineer Intern | San Jose, CA | <a href="https://redirect.cvrve.me/991a7dc61b565f2ab3ac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | ↳ | Machine Learning Engineer Intern, VLMs | San Jose, CA | <a href="https://redirect.cvrve.me/d767216771dbabfc236b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| Rivian | Software Engineering Intern - Cybersecurity | Palo Alto, CA | <a href="http://redirect.cvrve.me/ee70351e74f1861f5dd8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Leidos | AI / ML Intern | Reston, VA | <a href="http://redirect.cvrve.me/77e9cce9cae607a1f180?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | ↳ | Database Management Intern | Remote</br>US | <a href="http://redirect.cvrve.me/2fa9da20023bc2a19d9d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Kyndryl | Tech Developer & Engineering Intern | Phoenix, AZ | <a href="http://redirect.cvrve.me/d33bb139961f071b2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
