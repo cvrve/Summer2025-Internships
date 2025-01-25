@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Workiva | Software Engineering Inttern | Remote</br>US | <a href="http://redirect.cvrve.me/a048307d800181bceaba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| Workiva | Product Management Intern | Remote</br>US | <a href="http://redirect.cvrve.me/3ca29b6748215e5f25f9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| ↳ | Software Engineering Inttern | Remote</br>US | <a href="http://redirect.cvrve.me/a048307d800181bceaba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Verizon | Verizon Global Services Technology Intern | Basking Ridge, NJ | <a href="http://redirect.cvrve.me/ecd91c751d2edf961f5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Verily | Software Engineering Intern, Developer Platform | San Bruno, CA | <a href="http://redirect.cvrve.me/8afd084559eab9ea82c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | ↳ | Software Engineering Intern, Verily Me | Boston, MA | <a href="http://redirect.cvrve.me/c5e96e46cd500e112f0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
