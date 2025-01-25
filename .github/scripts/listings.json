@@ -61738,5 +61738,22 @@
         "date_posted": 1737813531,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813573,
+        "url": "http://redirect.cvrve.me/f71f14e4a70f9f0b88c0",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Appfolio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "17faf221-69fa-49c9-ae4b-cb0dd1577c88",
+        "date_posted": 1737813573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
