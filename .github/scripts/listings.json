@@ -61755,5 +61755,22 @@
         "date_posted": 1737813573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815111,
+        "url": "http://redirect.cvrve.me/ce42a509bb93286fef3b",
+        "locations": [
+            "Spartanburg, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW Group",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed2b7410-c084-43bb-8ea2-b845045c337d",
+        "date_posted": 1737815111,
+        "company_url": "",
+        "is_visible": true
     }
 ]
