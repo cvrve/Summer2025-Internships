@@ -61531,5 +61531,24 @@
         "date_posted": 1737812247,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812297,
+        "url": "http://redirect.cvrve.me/75edf3c3d1f5c8bd75e9",
+        "locations": [
+            "Boulder, CO",
+            "New York, NY",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TIFIN",
+        "title": "Machine Learning, Engineering, Quant Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d197f56-03ad-4ebd-b9e3-2eb9f37651d5",
+        "date_posted": 1737812297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
