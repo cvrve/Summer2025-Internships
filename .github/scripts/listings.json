@@ -61619,5 +61619,22 @@
         "date_posted": 1737812870,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737813026,
+        "url": "http://redirect.cvrve.me/ecd91c751d2edf961f5e",
+        "locations": [
+            "Basking Ridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon",
+        "title": "Verizon Global Services Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a2c2a342-7693-4346-928b-aad6adf3ac2e",
+        "date_posted": 1737813026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
