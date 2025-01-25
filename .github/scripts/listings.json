@@ -61497,5 +61497,22 @@
         "date_posted": 1737812179,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812214,
+        "url": "http://redirect.cvrve.me/2766d5207be2e01eca47",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohesity",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0b5912d-52f5-45d3-bbca-c65047f96d2f",
+        "date_posted": 1737812214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
