@@ -61823,5 +61823,26 @@
         "date_posted": 1737815318,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815478,
+        "url": "http://redirect.cvrve.me/9b96870b9e2a99e06ce2",
+        "locations": [
+            "Boston, MA",
+            "California, USA",
+            "Sacramento, CA",
+            "Utah, USA",
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Software Engineer Intern- Analytics",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b7607b24-d4c8-454f-b7bf-44127d74d67e",
+        "date_posted": 1737815478,
+        "company_url": "",
+        "is_visible": true
     }
 ]
