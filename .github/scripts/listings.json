@@ -61912,5 +61912,22 @@
         "date_posted": 1737815669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815704,
+        "url": "http://redirect.cvrve.me/548e74ed96cf890eaf19",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4da2472a-5f35-4f03-a900-ab0c1e88a3eb",
+        "date_posted": 1737815704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
