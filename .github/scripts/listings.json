@@ -61514,5 +61514,22 @@
         "date_posted": 1737812214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812247,
+        "url": "http://redirect.cvrve.me/57c433bf025cf6611e55",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora",
+        "title": "Software Engineering Intern - Perception",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c3d216e4-1642-4b14-9f1e-b20c2810857d",
+        "date_posted": 1737812247,
+        "company_url": "",
+        "is_visible": true
     }
 ]
