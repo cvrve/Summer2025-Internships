@@ -48,7 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Workiva | Software Engineering Inttern | Remote</br>US | <a href="http://redirect.cvrve.me/a048307d800181bceaba?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Verizon | Verizon Global Services Technology Intern | Basking Ridge, NJ | <a href="http://redirect.cvrve.me/ecd91c751d2edf961f5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
-| Verily | Software Engineering Intern, Verily Me | Boston, MA | <a href="http://redirect.cvrve.me/c5e96e46cd500e112f0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| Verily | Software Engineering Intern, Developer Platform | San Bruno, CA | <a href="http://redirect.cvrve.me/8afd084559eab9ea82c8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
+| ↳ | Software Engineering Intern, Verily Me | Boston, MA | <a href="http://redirect.cvrve.me/c5e96e46cd500e112f0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Ultima Genomics | System Analytics Intern | Fremont, CA | <a href="http://redirect.cvrve.me/8c4e3cc7849e2259514f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | Typeface | Applied AI Research Intern - PhD | Palo Alto, CA</br>Seattle, WA | <a href="https://redirect.cvrve.me/457c7c32b64dc0790f3e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | ↳ | ML Engineer Intern | Palo Alto, CA</br>Seattle, WA | <a href="https://redirect.cvrve.me/5a0629a696c10e036ec9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
