@@ -58488,7 +58488,7 @@
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -59810,7 +59810,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
