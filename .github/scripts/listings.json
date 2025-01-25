@@ -61929,5 +61929,22 @@
         "date_posted": 1737815704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737815735,
+        "url": "http://redirect.cvrve.me/101741a454be0bea91ec",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic Avionics Corporation",
+        "title": "Software Engineering Intern-Device Verification SW",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b15bcfb-ea61-4d6f-98a8-7c382fbd4ea3",
+        "date_posted": 1737815735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
