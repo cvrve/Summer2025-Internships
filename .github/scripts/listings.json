@@ -61997,5 +61997,22 @@
         "date_posted": 1737815900,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737816026,
+        "url": "http://redirect.cvrve.me/0a90158a629ecfcdb898",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4bc3e914-29d8-4761-a954-4afc171c3a91",
+        "date_posted": 1737816026,
+        "company_url": "",
+        "is_visible": true
     }
 ]
