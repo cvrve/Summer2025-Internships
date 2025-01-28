@@ -62085,5 +62085,209 @@
         "date_posted": 1737822568,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738073842,
+        "url": "https://redirect.cvrve.me/fe67e44ef2015ed1a606",
+        "locations": [
+            "Boston, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verily",
+        "title": "Software Engineering Intern, Personal Health Records",
+        "source": "vanshb03",
+        "id": "4eb2add0-f58d-4392-a273-b27560b2c847",
+        "date_posted": 1738073842,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076549,
+        "url": "https://redirect.cvrve.me/58fb20db732d2c75f727",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineering Intern, JavaScript/Node.js",
+        "source": "vanshb03",
+        "id": "9de5b4c8-7f31-46f1-ac24-b65e8e077e25",
+        "date_posted": 1738076549,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076633,
+        "url": "https://redirect.cvrve.me/e2a5adaef70886ca4efb",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "9ffa4043-2eda-4205-839b-58c1478b1118",
+        "date_posted": 1738076633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076637,
+        "url": "https://redirect.cvrve.me/2a78cbdc55a0716c56bf",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maximus",
+        "title": "IT Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6640a166-f0b4-4eb8-ad28-fd0e079e2187",
+        "date_posted": 1738076637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076641,
+        "url": "https://redirect.cvrve.me/88a2a25d4b118ea86c30",
+        "locations": [
+            "Foothill Ranch, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kaman",
+        "title": "Engineering Software Systems Intern",
+        "source": "vanshb03",
+        "id": "45e15771-6f38-4f75-8e5b-7b46d9aca6aa",
+        "date_posted": 1738076641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076642,
+        "url": "https://redirect.cvrve.me/8e7bb8840d0e5e4d6430",
+        "locations": [
+            "Foothill Ranch, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kaman",
+        "title": "Applications Engineering Intern",
+        "source": "vanshb03",
+        "id": "aab1779a-2ff2-471d-ae7e-e643ad5ec5b3",
+        "date_posted": 1738076642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076648,
+        "url": "https://redirect.cvrve.me/9defd573676ae3657e4f",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amidon Heavy Industries",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6852c655-e8c6-4323-acea-2dc871fe3ee5",
+        "date_posted": 1738076648,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076658,
+        "url": "https://redirect.cvrve.me/b6925fbed60635d08d65",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SelectQuote",
+        "title": "IT Intern, Application Development",
+        "source": "vanshb03",
+        "id": "a00b82fe-a200-49cc-b7bf-e0ad5c4a2610",
+        "date_posted": 1738076658,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076659,
+        "url": "https://redirect.cvrve.me/b3be5193faf1eae708b1",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SelectQuote",
+        "title": "IT Intern, Onboarding",
+        "source": "vanshb03",
+        "id": "02df6a9f-0723-453f-a498-e439a7e7f6dc",
+        "date_posted": 1738076659,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076697,
+        "url": "https://redirect.cvrve.me/81e3104f27470e0e7c2d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineer Intern, Web/App Development",
+        "source": "vanshb03",
+        "id": "54ee2081-4af3-4bcf-ac4d-3e336dce5f38",
+        "date_posted": 1738076697,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076702,
+        "url": "https://redirect.cvrve.me/4e977f1c6915d78d317b",
+        "locations": [
+            "Austin, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PMG",
+        "title": "AI & Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "534e16b6-69dc-48b3-b604-9568a39ad77e",
+        "date_posted": 1738076702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738076706,
+        "url": "https://redirect.cvrve.me/a3b18755e18cf235075c",
+        "locations": [
+            "Austin, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RPM",
+        "title": "Software Support & Engineering/Analytics Intern",
+        "source": "vanshb03",
+        "id": "894ffc63-0e3a-4b2d-92b0-b064bd7f813b",
+        "date_posted": 1738076706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
