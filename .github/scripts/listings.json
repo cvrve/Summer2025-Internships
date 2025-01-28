@@ -62306,5 +62306,22 @@
         "date_posted": 1738077186,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738077471,
+        "url": "http://redirect.cvrve.me/a252d1b8ed54acb2905f",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "TRL11",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d78055c-3d5f-4adc-acff-7f696fdf2a89",
+        "date_posted": 1738077471,
+        "company_url": "",
+        "is_visible": true
     }
 ]

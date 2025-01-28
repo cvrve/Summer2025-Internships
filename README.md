@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Western Digital | Software Engineer Intern, Web/App Development | San Jose, CA | <a href="https://redirect.cvrve.me/81e3104f27470e0e7c2d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | Verily | Software Engineering Intern, Personal Health Records | Boston, MA | <a href="https://redirect.cvrve.me/fe67e44ef2015ed1a606?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
+| TRL11 | Software Engineer Intern | Irvine, CA | <a href="http://redirect.cvrve.me/a252d1b8ed54acb2905f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | SelectQuote | IT Intern, Onboarding | Remote | <a href="https://redirect.cvrve.me/b3be5193faf1eae708b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | ↳ | IT Intern, Application Development | Remote | <a href="https://redirect.cvrve.me/b6925fbed60635d08d65?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | RPM | Software Support & Engineering/Analytics Intern | Austin, TX | <a href="https://redirect.cvrve.me/a3b18755e18cf235075c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
