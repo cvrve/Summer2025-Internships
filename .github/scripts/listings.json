@@ -62289,5 +62289,22 @@
         "date_posted": 1738076706,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738077186,
+        "url": "http://redirect.cvrve.me/8f6509800af80a9c05c9",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Software Engineering Intern - Autonomy, Perception",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e8f7dcb2-536c-42a4-9a7e-ddd1ee183b0d",
+        "date_posted": 1738077186,
+        "company_url": "",
+        "is_visible": true
     }
 ]
