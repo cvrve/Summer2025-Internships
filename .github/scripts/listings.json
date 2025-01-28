@@ -61428,5 +61428,662 @@
         "date_posted": 1737809663,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1737812087,
+        "url": "http://redirect.cvrve.me/2fa9da20023bc2a19d9d",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Database Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ee2a0b3f-36f3-4e31-88d1-b3a00ce35b1c",
+        "date_posted": 1737812087,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812110,
+        "url": "http://redirect.cvrve.me/77e9cce9cae607a1f180",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "AI / ML Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "54246d3c-5d32-40d6-bf88-cdcdcfefc870",
+        "date_posted": 1737812110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812144,
+        "url": "http://redirect.cvrve.me/d33bb139961f071b2025",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kyndryl",
+        "title": "Tech Developer & Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "489723a4-ef3c-41f2-ab7b-185362278582",
+        "date_posted": 1737812144,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812179,
+        "url": "http://redirect.cvrve.me/21af08d5dda26ebbcb2b",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fresenius Medical Care",
+        "title": "R&D Student Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d9b628d8-4d7e-46b0-a1eb-39fd85cab600",
+        "date_posted": 1737812179,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812214,
+        "url": "http://redirect.cvrve.me/2766d5207be2e01eca47",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohesity",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0b5912d-52f5-45d3-bbca-c65047f96d2f",
+        "date_posted": 1737812214,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812247,
+        "url": "http://redirect.cvrve.me/57c433bf025cf6611e55",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora",
+        "title": "Software Engineering Intern - Perception",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "c3d216e4-1642-4b14-9f1e-b20c2810857d",
+        "date_posted": 1737812247,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812297,
+        "url": "http://redirect.cvrve.me/75edf3c3d1f5c8bd75e9",
+        "locations": [
+            "Boulder, CO",
+            "New York, NY",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TIFIN",
+        "title": "Machine Learning, Engineering, Quant Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d197f56-03ad-4ebd-b9e3-2eb9f37651d5",
+        "date_posted": 1737812297,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812333,
+        "url": "http://redirect.cvrve.me/ee70351e74f1861f5dd8",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Software Engineering Intern - Cybersecurity",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1b6e17fc-cd66-49d8-b549-482047c763a1",
+        "date_posted": 1737812333,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812365,
+        "url": "http://redirect.cvrve.me/c066f08da9c17a721464",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Comprehensive Simulator Framework Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "aa5b3353-7d76-46ff-930f-3d33bb824c39",
+        "date_posted": 1737812365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812735,
+        "url": "http://redirect.cvrve.me/c3647cadc69284f96ec7",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Data Science Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "01125eb5-3ef1-45c3-9334-8433d2a54431",
+        "date_posted": 1737812735,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737812870,
+        "url": "http://redirect.cvrve.me/a048307d800181bceaba",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Engineering Inttern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9045ea79-4d22-44cd-9de6-aa5ffb99b25c",
+        "date_posted": 1737812870,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813026,
+        "url": "http://redirect.cvrve.me/ecd91c751d2edf961f5e",
+        "locations": [
+            "Basking Ridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon",
+        "title": "Verizon Global Services Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a2c2a342-7693-4346-928b-aad6adf3ac2e",
+        "date_posted": 1737813026,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813079,
+        "url": "http://redirect.cvrve.me/8c4e3cc7849e2259514f",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ultima Genomics",
+        "title": "System Analytics Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d7cf4d91-a9eb-4007-a3e1-d61103289af1",
+        "date_posted": 1737813079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813115,
+        "url": "http://redirect.cvrve.me/edf91b9b5b8fec3e7fa0",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kimberly-Clark",
+        "title": "Product Engineer Co-Op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7c7480a6-7038-4d2a-94c1-85a32e2c95ed",
+        "date_posted": 1737813115,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813153,
+        "url": "http://redirect.cvrve.me/014326b7a1cf80a4b88f",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICE",
+        "title": "Software Engineer, Mobile Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "eb5d9abe-5b63-4575-9709-7c59e30343ca",
+        "date_posted": 1737813153,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813197,
+        "url": "http://redirect.cvrve.me/1ccaf79dd49c5bfc2975",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Technical Advisor Intern - GenAI",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4bf9432e-572a-4df1-9e93-7aaeeaf9fb6f",
+        "date_posted": 1737813197,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813461,
+        "url": "http://redirect.cvrve.me/2cf4de3c6262514c9cfd",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db591556-c585-4b7e-b8b8-977f86e5d60c",
+        "date_posted": 1737813461,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813531,
+        "url": "http://redirect.cvrve.me/4e03abb7df76dead1b67",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Discount Tyre",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "873b5e01-95a1-4f07-b896-b3ee67a72796",
+        "date_posted": 1737813531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737813573,
+        "url": "http://redirect.cvrve.me/f71f14e4a70f9f0b88c0",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Appfolio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "17faf221-69fa-49c9-ae4b-cb0dd1577c88",
+        "date_posted": 1737813573,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815111,
+        "url": "http://redirect.cvrve.me/ce42a509bb93286fef3b",
+        "locations": [
+            "Spartanburg, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW Group",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ed2b7410-c084-43bb-8ea2-b845045c337d",
+        "date_posted": 1737815111,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815208,
+        "url": "http://redirect.cvrve.me/847823d8512a1e30479b",
+        "locations": [
+            "King George, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "7cf50b96-6fe5-452a-8dd9-9f6561a51d76",
+        "date_posted": 1737815208,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815245,
+        "url": "http://redirect.cvrve.me/71d8b6ed4d3ea529a9ef",
+        "locations": [
+            "Carrollton, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwire",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "688da49f-a70b-40c8-ab93-6fa7df4a90a9",
+        "date_posted": 1737815245,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815318,
+        "url": "http://redirect.cvrve.me/bed7a676c3734f56e57b",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "SW Engineer Intern -- Fall",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "63679264-07bc-44cd-a73a-d05a814fd300",
+        "date_posted": 1737815318,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815478,
+        "url": "http://redirect.cvrve.me/9b96870b9e2a99e06ce2",
+        "locations": [
+            "Boston, MA",
+            "California, USA",
+            "Sacramento, CA",
+            "Utah, USA",
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Software Engineer Intern- Analytics",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b7607b24-d4c8-454f-b7bf-44127d74d67e",
+        "date_posted": 1737815478,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815531,
+        "url": "http://redirect.cvrve.me/b2aac4979b77e10ede10",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkley",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "53740d19-2472-405c-97f2-0f877e4a6252",
+        "date_posted": 1737815531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815565,
+        "url": "http://redirect.cvrve.me/c5e96e46cd500e112f0c",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verily",
+        "title": "Software Engineering Intern, Verily Me",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "2869a4ee-e558-41db-aed5-48f2b99b46c0",
+        "date_posted": 1737815565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815594,
+        "url": "http://redirect.cvrve.me/8afd084559eab9ea82c8",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verily",
+        "title": "Software Engineering Intern, Developer Platform",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "050f4e69-c495-481d-8c8c-0634df7a3208",
+        "date_posted": 1737815594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815669,
+        "url": "http://redirect.cvrve.me/d89f559cd137e66f6d36",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fujitsu Network Communications, Inc",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ac68e371-cb57-4a7b-8875-608ed0fc969d",
+        "date_posted": 1737815669,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815704,
+        "url": "http://redirect.cvrve.me/548e74ed96cf890eaf19",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4da2472a-5f35-4f03-a900-ab0c1e88a3eb",
+        "date_posted": 1737815704,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815735,
+        "url": "http://redirect.cvrve.me/101741a454be0bea91ec",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panasonic Avionics Corporation",
+        "title": "Software Engineering Intern-Device Verification SW",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b15bcfb-ea61-4d6f-98a8-7c382fbd4ea3",
+        "date_posted": 1737815735,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815780,
+        "url": "http://redirect.cvrve.me/060b45944607ab7165bb",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "db5453d7-52fe-40a2-87ae-d6c7a0b48bf7",
+        "date_posted": 1737815780,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815819,
+        "url": "http://redirect.cvrve.me/b88cfd23d73bf5a467e0",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paramount",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4eff9317-5427-4406-ba0d-2c5fa4afea75",
+        "date_posted": 1737815819,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737815900,
+        "url": "http://redirect.cvrve.me/97dab9ed7fcc80203951",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, Dojo",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f389dacb-a75b-447a-8e6d-15d149700809",
+        "date_posted": 1737815900,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737816026,
+        "url": "http://redirect.cvrve.me/0a90158a629ecfcdb898",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4bc3e914-29d8-4761-a954-4afc171c3a91",
+        "date_posted": 1737816026,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737822140,
+        "url": "http://redirect.cvrve.me/20af971f112684418fab",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Product Management Intern, Residential Energy Products",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6ad3c2e3-686b-4f83-8110-3f7a347a54b6",
+        "date_posted": 1737822140,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737822249,
+        "url": "http://redirect.cvrve.me/3ca29b6748215e5f25f9",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e0e38eb2-34fc-490b-9eed-70212537a7af",
+        "date_posted": 1737822249,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737822391,
+        "url": "http://redirect.cvrve.me/e3c4fd0b55c48068a2db",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arity",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "42cf6b46-6f0a-4283-b49b-2c05d372b1f9",
+        "date_posted": 1737822391,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1737822568,
+        "url": "http://redirect.cvrve.me/5252998af99a9536c76d",
+        "locations": [
+            "Dubois, PA",
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xylem",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "6e1a69af-8de1-4bab-bf62-fb41d2483ab0",
+        "date_posted": 1737822568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
