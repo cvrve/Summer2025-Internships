@@ -46,7 +46,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Randolph-Brooks Federal Credit Union | Mortgage Technology Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/0ab516fa54dd4905594b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
+| ↳ | IT Audit/Data Analytics Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/5b826a26b92797406092?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
+| ↳ | IT Web Intern, Angular | San Antonio, TX | <a href="https://redirect.cvrve.me/02f56287488a980e4b87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | Ramp | Product Designer Intern | New York, NY | <a href="http://redirect.cvrve.me/76b040404c7a80c99416?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
+| Energy Solutions | Software Engineering Intern | Remote | <a href="https://redirect.cvrve.me/53eace349c05cf28c5b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
+| Addepar | Software Engineer Intern, Analysis Workflow | Remote | <a href="https://redirect.cvrve.me/64228ccb37cb52ef4e5f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
+| ↳ | Software Engineer Intern, Research | Remote | <a href="https://redirect.cvrve.me/618efa7047419267d141?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | Western Digital | Software Engineer Intern, Web/App Development | San Jose, CA | <a href="https://redirect.cvrve.me/81e3104f27470e0e7c2d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | Verily | Software Engineering Intern, Personal Health Records | Boston, MA | <a href="https://redirect.cvrve.me/fe67e44ef2015ed1a606?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | TRL11 | Software Engineer Intern | Irvine, CA | <a href="http://redirect.cvrve.me/a252d1b8ed54acb2905f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
