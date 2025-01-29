@@ -62340,5 +62340,107 @@
         "date_posted": 1738177914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738193430,
+        "url": "https://redirect.cvrve.me/02f56287488a980e4b87",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Randolph-Brooks Federal Credit Union",
+        "title": "IT Web Intern, Angular",
+        "source": "vanshb03",
+        "id": "f9eca5a8-d7ba-4ace-b9de-72900f72e7e3",
+        "date_posted": 1738193430,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738193440,
+        "url": "https://redirect.cvrve.me/5b826a26b92797406092",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Randolph-Brooks Federal Credit Union",
+        "title": "IT Audit/Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "f04b0a46-c7ac-461e-93a7-29712e0c1eda",
+        "date_posted": 1738193440,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738193442,
+        "url": "https://redirect.cvrve.me/0ab516fa54dd4905594b",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Randolph-Brooks Federal Credit Union",
+        "title": "Mortgage Technology Intern",
+        "source": "vanshb03",
+        "id": "94d5e67d-8611-475f-bd7b-1ccbef0dfc41",
+        "date_posted": 1738193442,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738193502,
+        "url": "https://redirect.cvrve.me/618efa7047419267d141",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Software Engineer Intern, Research",
+        "source": "vanshb03",
+        "id": "802d3549-a941-4b32-9c43-aa92ee82b3bd",
+        "date_posted": 1738193502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738193503,
+        "url": "https://redirect.cvrve.me/64228ccb37cb52ef4e5f",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Software Engineer Intern, Analysis Workflow",
+        "source": "vanshb03",
+        "id": "9d70d606-bb77-41b4-9d14-a21afbe5ca14",
+        "date_posted": 1738193503,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738193513,
+        "url": "https://redirect.cvrve.me/53eace349c05cf28c5b1",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Energy Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2e8e7ddf-40fa-4970-a805-b9bc0cf0b677",
+        "date_posted": 1738193513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
