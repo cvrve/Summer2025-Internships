@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Brooks | Software/Computer Vision Intern | Fremont, CA | <a href="http://redirect.cvrve.me/cdd5635d1f1420d0b6a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | BIOVIA | Machine Learning Applications Intern | San Diego, CA | <a href="http://redirect.cvrve.me/24374da052396e475518?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
+| Archer | Data Engineering Intern | San Jose, CA | <a href="http://redirect.cvrve.me/6d14827397fbe93f40d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | Randolph-Brooks Federal Credit Union | Mortgage Technology Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/0ab516fa54dd4905594b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | ↳ | IT Audit/Data Analytics Intern | San Antonio, TX | <a href="https://redirect.cvrve.me/5b826a26b92797406092?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | ↳ | IT Web Intern, Angular | San Antonio, TX | <a href="https://redirect.cvrve.me/02f56287488a980e4b87?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
