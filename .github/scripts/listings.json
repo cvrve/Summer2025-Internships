@@ -62595,5 +62595,23 @@
         "date_posted": 1738268624,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738268661,
+        "url": "http://redirect.cvrve.me/c505424a83fa7a7410dc",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gamechanger",
+        "title": "Software Engineer Intern, User Growth",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8de2b441-0ef3-4e23-bafb-0243eadf9361",
+        "date_posted": 1738268661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
