@@ -62459,5 +62459,22 @@
         "date_posted": 1738267580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738267620,
+        "url": "http://redirect.cvrve.me/24374da052396e475518",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BIOVIA",
+        "title": "Machine Learning Applications Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a68e51c6-5337-44cf-984e-124d372bd03c",
+        "date_posted": 1738267620,
+        "company_url": "",
+        "is_visible": true
     }
 ]
