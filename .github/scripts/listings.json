@@ -62493,5 +62493,22 @@
         "date_posted": 1738267695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738267753,
+        "url": "http://redirect.cvrve.me/1468790b25415a8df748",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chime",
+        "title": "Software Engineer Intern, Lending & Financial Goals",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8c1b9f99-82e1-4696-b532-cafbe8e36549",
+        "date_posted": 1738267753,
+        "company_url": "",
+        "is_visible": true
     }
 ]

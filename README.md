@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Chime | Software Engineer Intern, Lending & Financial Goals | San Francisco, CA | <a href="http://redirect.cvrve.me/1468790b25415a8df748?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | Brooks | Software/Computer Vision Intern | Fremont, CA | <a href="http://redirect.cvrve.me/cdd5635d1f1420d0b6a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | BIOVIA | Machine Learning Applications Intern | San Diego, CA | <a href="http://redirect.cvrve.me/24374da052396e475518?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | Archer | Data Engineering Intern | San Jose, CA | <a href="http://redirect.cvrve.me/6d14827397fbe93f40d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
