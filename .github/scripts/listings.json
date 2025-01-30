@@ -62613,5 +62613,23 @@
         "date_posted": 1738268661,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738268722,
+        "url": "http://redirect.cvrve.me/d9a2d0dd6e73ca917628",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pluralsight",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0ecb26d1-da5f-4ace-ae26-b6e3b3288a59",
+        "date_posted": 1738268722,
+        "company_url": "",
+        "is_visible": true
     }
 ]
