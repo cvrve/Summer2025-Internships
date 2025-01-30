@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| IDEMIA | Software Engineering Intern | Fort Wayne, IN | <a href="http://redirect.cvrve.me/a2b1381a5c52445fe2dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | Chime | Software Engineer Intern, Design Systems | San Francisco, CA | <a href="http://redirect.cvrve.me/f95736ef15dbfcba59ea?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | ↳ | Software Engineer Intern, Lending & Financial Goals | San Francisco, CA | <a href="http://redirect.cvrve.me/1468790b25415a8df748?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | Brooks | Software/Computer Vision Intern | Fremont, CA | <a href="http://redirect.cvrve.me/cdd5635d1f1420d0b6a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
