@@ -63642,5 +63642,22 @@
         "date_posted": 1738597945,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738601779,
+        "url": "http://redirect.cvrve.me/a04a2523a933bc7a3885",
+        "locations": [
+            "Hazel Park, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "96e5996a-a1c6-45b4-a548-69a5b9f6ef7b",
+        "date_posted": 1738601779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
