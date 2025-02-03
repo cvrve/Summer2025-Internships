@@ -63506,5 +63506,22 @@
         "date_posted": 1738596787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738596824,
+        "url": "http://redirect.cvrve.me/6146aaf4c3c11bd1ed22",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bytedance",
+        "title": "Software Engineer Intern - Summer/Fall",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f9dedefc-1516-4e0a-b2cf-b21f08108ab5",
+        "date_posted": 1738596824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
