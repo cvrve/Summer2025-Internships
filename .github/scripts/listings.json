@@ -63540,5 +63540,22 @@
         "date_posted": 1738596873,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738596911,
+        "url": "http://redirect.cvrve.me/6f9b5d1350bd04197ae8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Firmware DevOps Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a11ab3d5-7b90-4049-9f54-4d6bd5832c43",
+        "date_posted": 1738596911,
+        "company_url": "",
+        "is_visible": true
     }
 ]
