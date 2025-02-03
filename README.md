@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Skyworks | DSP Firmware Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/22385d09644531335b5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
 | CDD Vault | Software Engineering Intern | Burlingame, CA | <a href="http://redirect.cvrve.me/5a2dd7d4a659d0ed955e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
 | Bytedance | Software Engineer Intern - Summer/Fall | San Jose, CA | <a href="http://redirect.cvrve.me/6146aaf4c3c11bd1ed22?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
 | webAI | Software Engineer Intern | Austin, TX | <a href="https://redirect.cvrve.me/0dda15e435c4b1ce13ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |

@@ -63523,5 +63523,22 @@
         "date_posted": 1738596824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738596873,
+        "url": "http://redirect.cvrve.me/22385d09644531335b5e",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "DSP Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d9be968-47c0-4c96-9671-80e1e1f03e97",
+        "date_posted": 1738596873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
