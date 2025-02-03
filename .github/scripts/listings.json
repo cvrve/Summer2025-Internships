@@ -63574,5 +63574,22 @@
         "date_posted": 1738597208,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738597240,
+        "url": "http://redirect.cvrve.me/275ef3e98176a725b1b2",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron",
+        "title": "Systems Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a0064781-a40f-40d4-9d53-e8bf7e8e6811",
+        "date_posted": 1738597240,
+        "company_url": "",
+        "is_visible": true
     }
 ]
