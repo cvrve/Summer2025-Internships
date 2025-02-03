@@ -63557,5 +63557,22 @@
         "date_posted": 1738596911,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738597208,
+        "url": "http://redirect.cvrve.me/6d7ed64dd72ed4ce85bb",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern, Antenna Systems",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "27201093-b739-4d3a-aed9-3456314cb741",
+        "date_posted": 1738597208,
+        "company_url": "",
+        "is_visible": true
     }
 ]
