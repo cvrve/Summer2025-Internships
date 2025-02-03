@@ -63676,5 +63676,22 @@
         "date_posted": 1738601826,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738601873,
+        "url": "http://redirect.cvrve.me/5d71ce608d3912b9ca93",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kion Group",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "b20f4dbe-4d41-4bae-8e36-dfc8117eed9d",
+        "date_posted": 1738601873,
+        "company_url": "",
+        "is_visible": true
     }
 ]
