@@ -63763,5 +63763,23 @@
         "date_posted": 1738602164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738602204,
+        "url": "http://redirect.cvrve.me/801b63a8d5ab964403f1",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GameChanger",
+        "title": "Full Stack Software Engineer Intern, Diamond Sports",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a03ea1cf-f6c6-4576-bdbb-075609073314",
+        "date_posted": 1738602204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
