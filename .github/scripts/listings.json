@@ -63781,5 +63781,22 @@
         "date_posted": 1738602204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738602268,
+        "url": "http://redirect.cvrve.me/0026a80b9d58f801d159",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persistent Systems",
+        "title": "Software Test Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d37323e4-a09a-4265-b9c2-81d904c0894f",
+        "date_posted": 1738602268,
+        "company_url": "",
+        "is_visible": true
     }
 ]
