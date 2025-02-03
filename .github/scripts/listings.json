@@ -63625,5 +63625,22 @@
         "date_posted": 1738597552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738597945,
+        "url": "http://redirect.cvrve.me/3863f9ba20129d41cbf6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Life",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "92598b69-7035-4b26-ae45-dda37c9828fc",
+        "date_posted": 1738597945,
+        "company_url": "",
+        "is_visible": true
     }
 ]
