@@ -63608,5 +63608,22 @@
         "date_posted": 1738597507,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738597552,
+        "url": "http://redirect.cvrve.me/70a7b602d8357456a400",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sabre",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "77b200bc-8b5c-4446-9189-a7af85f2a22e",
+        "date_posted": 1738597552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
