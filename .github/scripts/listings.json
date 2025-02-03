@@ -63591,5 +63591,22 @@
         "date_posted": 1738597240,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738597507,
+        "url": "http://redirect.cvrve.me/f2dda3bf23f7281fc6e7",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Box",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "e4b4e1a2-7fa0-400f-a80d-a1a839741ddb",
+        "date_posted": 1738597507,
+        "company_url": "",
+        "is_visible": true
     }
 ]
