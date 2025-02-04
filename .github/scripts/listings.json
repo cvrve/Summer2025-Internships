@@ -194,7 +194,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "company_name": "SIG",
         "title": "Quantitative Research Intern",
         "source": "raoanmol",
@@ -211,7 +211,7 @@
         ],
         "season": "Summer",
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "company_name": "SIG",
         "title": "Quantitative Systematic Trading Intern",
         "source": "Ouckah",
@@ -7794,7 +7794,7 @@
             "Spring, TX"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Hewlett Packard Enterprise",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -8202,7 +8202,7 @@
             "Spring, TX"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "HP",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9049,7 +9049,7 @@
             "Lincolnshire, IL"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Zebra",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -10021,7 +10021,7 @@
             "Garner, NC"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Butterball",
         "title": "Support Engineer Intern",
         "season": "Summer",
@@ -13852,7 +13852,7 @@
             "Coralville, IA"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Danaher",
         "title": "IDT Applications Developer Intern",
         "season": "Summer",
