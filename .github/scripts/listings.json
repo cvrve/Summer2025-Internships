@@ -63815,5 +63815,332 @@
         "date_posted": 1738602328,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738776733,
+        "url": "https://redirect.cvrve.me/6ff117361e98cff0d35f",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RedPeg",
+        "title": "Creative Technologist Intern",
+        "source": "vanshb03",
+        "id": "42e7655f-b010-454a-95f6-b99d7101d17a",
+        "date_posted": 1738776733,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776754,
+        "url": "https://redirect.cvrve.me/c0bf739e16e2279ebd78",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Research Engineer Intern, Full Stack",
+        "source": "vanshb03",
+        "id": "950ccb57-2822-46ba-a01b-05158159d55d",
+        "date_posted": 1738776754,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776760,
+        "url": "https://redirect.cvrve.me/53321af3eea5a3d219f1",
+        "locations": [
+            "Remote",
+            "Hasting, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hastings Insurance",
+        "title": "IT Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "4ed65473-17af-4314-850c-a44994056a83",
+        "date_posted": 1738776760,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776761,
+        "url": "https://redirect.cvrve.me/220a6bfd882079dc2c00",
+        "locations": [
+            "Hasting, MI",
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hastings Insurance",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "4d2417c8-c0d7-4866-a2b4-95e2c29629b3",
+        "date_posted": 1738776761,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776762,
+        "url": "https://redirect.cvrve.me/cd4aeea4379fcdd66e7c",
+        "locations": [
+            "Remote",
+            "Hasting, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hastings Insurance",
+        "title": "Data & Business Intelligence Intern",
+        "source": "vanshb03",
+        "id": "1922d18c-235e-4f27-be26-ceba12e071f4",
+        "date_posted": 1738776762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776765,
+        "url": "https://redirect.cvrve.me/ca12217ffd7fe4a6b123",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prudential Financial",
+        "title": "Fixed Income Sophomore Externship Program, Technology Solutions Group",
+        "source": "vanshb03",
+        "id": "6e0163a9-e777-4224-9ad2-3f663969d08b",
+        "date_posted": 1738776765,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776767,
+        "url": "https://redirect.cvrve.me/c423da4c3a9637887bd8",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercedes-Benz Research & Development North America",
+        "title": "Programming Accelerators Intern, Embedded Systems",
+        "source": "vanshb03",
+        "id": "07c5c56c-58cc-4dae-86d2-d1996295e0c7",
+        "date_posted": 1738776767,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776773,
+        "url": "https://redirect.cvrve.me/0c7a03407e943d7b08c4",
+        "locations": [
+            "San Marcos, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hunter Industries",
+        "title": "Software QA Engineer Intern",
+        "source": "vanshb03",
+        "id": "30b88a0f-9b12-44af-8c1d-f91483129d0b",
+        "date_posted": 1738776773,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776775,
+        "url": "https://redirect.cvrve.me/c6937ab9e2a7879880d0",
+        "locations": [
+            "San Marcos, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hunter Industries",
+        "title": "SEO & Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "c35778e1-79f2-4cad-8867-9232d5975d3e",
+        "date_posted": 1738776775,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776776,
+        "url": "https://redirect.cvrve.me/17555d64d484883c29bd",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAES",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "650bd044-446f-466e-b583-c5a98417fa56",
+        "date_posted": 1738776776,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776779,
+        "url": "https://redirect.cvrve.me/867877312b28dd2aad78",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Baldwin Group",
+        "title": "Technology Intern, Westwood Insurance Agency",
+        "source": "vanshb03",
+        "id": "32fbc956-ce23-4f5b-8528-f257ceabdd06",
+        "date_posted": 1738776779,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776779,
+        "url": "https://redirect.cvrve.me/b625442721566ed6ee94",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Box",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1e589ceb-2f79-4243-9805-7725df0098a0",
+        "date_posted": 1738776779,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776781,
+        "url": "https://redirect.cvrve.me/71004386af5340a2087b",
+        "locations": [
+            "Remote",
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JLL",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c255225c-a93f-4194-9d1f-df11e1b397b2",
+        "date_posted": 1738776781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776792,
+        "url": "https://redirect.cvrve.me/473958fa29df83f7f1b3",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuantCo",
+        "title": "Deep Learning Engineer Intern, Medical Imaging",
+        "source": "vanshb03",
+        "id": "0bb9561f-f376-47be-99a7-32df4c0f0a6b",
+        "date_posted": 1738776792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776794,
+        "url": "https://redirect.cvrve.me/31b7bab3880d4fd18c0c",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "031bb167-b636-4b47-8818-82bef5976897",
+        "date_posted": 1738776794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776794,
+        "url": "https://redirect.cvrve.me/f000f15840ce2faced2f",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Together AI",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b131338-15a0-4e9b-9a2a-7285ce7c7337",
+        "date_posted": 1738776794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776796,
+        "url": "https://redirect.cvrve.me/1a0ddb984bd8270722f2",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modern Treasury",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "87880fb8-1ca1-4965-9287-b74e251ed338",
+        "date_posted": 1738776796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776798,
+        "url": "https://redirect.cvrve.me/90e0ca72a6fdbf2e346c",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SGNL",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2c8a64d0-b8f3-4404-951a-303ec6fd66f8",
+        "date_posted": 1738776798,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1738776809,
+        "url": "https://redirect.cvrve.me/97a9b68c46160b2f4955",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PROS Holdings",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "829917c4-a3e5-45b9-81af-5669fbef7c95",
+        "date_posted": 1738776809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
