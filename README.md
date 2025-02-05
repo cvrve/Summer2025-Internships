@@ -46,6 +46,25 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Together AI | Research Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/31b7bab3880d4fd18c0c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| ↳ | Engineering Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/f000f15840ce2faced2f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| The Baldwin Group | Technology Intern, Westwood Insurance Agency | Woodland Hills, CA | <a href="https://redirect.cvrve.me/867877312b28dd2aad78?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| SGNL | Software Engineering Intern | Remote | <a href="https://redirect.cvrve.me/90e0ca72a6fdbf2e346c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| RedPeg | Creative Technologist Intern | Alexandria, VA | <a href="https://redirect.cvrve.me/6ff117361e98cff0d35f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| QuantCo | Deep Learning Engineer Intern, Medical Imaging | New York, NY | <a href="https://redirect.cvrve.me/473958fa29df83f7f1b3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Prudential Financial | Fixed Income Sophomore Externship Program, Technology Solutions Group | Newark, NJ | <a href="https://redirect.cvrve.me/ca12217ffd7fe4a6b123?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| PROS Holdings | Software Engineer Intern | Houston, TX | <a href="https://redirect.cvrve.me/97a9b68c46160b2f4955?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Modern Treasury | Software Engineer Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/1a0ddb984bd8270722f2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Mercedes-Benz Research & Development North America | Programming Accelerators Intern, Embedded Systems | Sunnyvale, CA | <a href="https://redirect.cvrve.me/c423da4c3a9637887bd8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Magna | Research Engineer Intern, Full Stack | Troy, MI | <a href="https://redirect.cvrve.me/c0bf739e16e2279ebd78?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| JLL | Software Engineering Intern | Remote</br>New York, NY | <a href="https://redirect.cvrve.me/71004386af5340a2087b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Hunter Industries | SEO & Data Analyst Intern | San Marcos, CA | <a href="https://redirect.cvrve.me/c6937ab9e2a7879880d0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| ↳ | Software QA Engineer Intern | San Marcos, CA | <a href="https://redirect.cvrve.me/0c7a03407e943d7b08c4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Hastings Insurance | Data & Business Intelligence Intern | Remote</br>Hasting, MI | <a href="https://redirect.cvrve.me/cd4aeea4379fcdd66e7c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| ↳ | Application Development Intern | Hasting, MI</br>Remote | <a href="https://redirect.cvrve.me/220a6bfd882079dc2c00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| ↳ | IT Infrastructure Intern | Remote</br>Hasting, MI | <a href="https://redirect.cvrve.me/53321af3eea5a3d219f1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| CAES | Software Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/17555d64d484883c29bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| Box | Software Engineer Intern | Redwood City, CA | <a href="https://redirect.cvrve.me/b625442721566ed6ee94?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | Viasat | Software Engineer Intern, Antenna Systems | Duluth, GA | <a href="http://redirect.cvrve.me/6d7ed64dd72ed4ce85bb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
 | Skyworks | Firmware DevOps Intern | Austin, TX | <a href="http://redirect.cvrve.me/6f9b5d1350bd04197ae8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
 | ↳ | DSP Firmware Engineering Intern | Austin, TX | <a href="http://redirect.cvrve.me/22385d09644531335b5e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 03 |
