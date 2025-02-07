@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Five Rings | Quantitative Trader Intern - Winter 2026 | New York, NY | <a href="http://redirect.cvrve.me/f4b9b1aca3cbd8fb5959?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 07 |
 | CIBC | Risk Technology Intern - Fall | New York, NY | <a href="http://redirect.cvrve.me/4af4b62e0784a84e78c9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 24 |
 | MKS | Software Engineering Co-op - Fall | Rochester, NY | <a href="http://redirect.cvrve.me/ba254a9721aa86b867b1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 18 |
 | Western Digital | Software Engineering Co-op - Fall | Rochester, MN | <a href="https://redirect.cvrve.me/4e54ecf4b2e9487e478a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
