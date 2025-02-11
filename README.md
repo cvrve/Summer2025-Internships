@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Stonebranch | Software Engineer Intern - QA | Alpharetta, GA | <a href="http://redirect.cvrve.me/623bd4a7301320fa1d35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
+| Stonebranch | Software Engineer Intern - Java | Alpharetta, GA | <a href="http://redirect.cvrve.me/fd2b831131707b3a1fbc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
+| ↳ | Software Engineer Intern - QA | Alpharetta, GA | <a href="http://redirect.cvrve.me/623bd4a7301320fa1d35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | Weber Shandwick | Data Science Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/659bdfd4bf039d27fe01?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 09 |
 | Virtru | Software Developer Intern - Graduate | Washington, D.C.</br>Remote | <a href="https://redirect.cvrve.me/03a2e3db6f733e8c09ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 09 |
 | Viant | Engineering Intern, Corp IT | Irvine, CA | <a href="https://redirect.cvrve.me/1bdc1038a01d0dd3dfa8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 09 |
