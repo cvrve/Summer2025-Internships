@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Jane Street | Quantitative Trader Intern | New York, NY | <a href="http://redirect.cvrve.me/5acde66fbe4f7953ed5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
+| Jane Street | Quantitative Researcher Intern | New York, NY | <a href="http://redirect.cvrve.me/b963c9347fee0ff898de?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
+| ↳ | Quantitative Trader Intern | New York, NY | <a href="http://redirect.cvrve.me/5acde66fbe4f7953ed5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8081e2267dbd1f225b10?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | Vimeo | Frontend Platform Intern | New York, NY | <a href="http://redirect.cvrve.me/3f9050876e9dbc53fd88?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | TurionSpace | Flight Software Engineer Intern -- Summer/Winter | Irvine, CA | <a href="http://redirect.cvrve.me/e8003b2f19abd840575b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
