@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | VSP Vision | Software Engineer Intern | Remote</br>US | <a href="http://redirect.cvrve.me/8081e2267dbd1f225b10?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
+| TurionSpace | Flight Software Engineer Intern -- Summer/Winter | Irvine, CA | <a href="http://redirect.cvrve.me/e8003b2f19abd840575b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | Stonebranch | Software Engineer Intern - C | Alpharetta, GA | <a href="http://redirect.cvrve.me/f518920179f1d2561e1c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | ↳ | Software Engineer Intern - Java | Alpharetta, GA | <a href="http://redirect.cvrve.me/fd2b831131707b3a1fbc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |
 | ↳ | Software Engineer Intern - QA | Alpharetta, GA | <a href="http://redirect.cvrve.me/623bd4a7301320fa1d35?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 10 |

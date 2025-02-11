@@ -65185,5 +65185,22 @@
         "date_posted": 1739238635,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739238681,
+        "url": "http://redirect.cvrve.me/e8003b2f19abd840575b",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TurionSpace",
+        "title": "Flight Software Engineer Intern -- Summer/Winter",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "cb1188f0-65f5-4c98-9a73-741c189a4ee1",
+        "date_posted": 1739238681,
+        "company_url": "",
+        "is_visible": true
     }
 ]
