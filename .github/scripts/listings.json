@@ -65253,5 +65253,22 @@
         "date_posted": 1739282833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739282868,
+        "url": "http://redirect.cvrve.me/47e8871017c529272d86",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Machine Learning Researcher Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "15fc15b5-7ab0-48a4-be1e-61fd4370a732",
+        "date_posted": 1739282868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
