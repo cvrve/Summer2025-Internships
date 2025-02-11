@@ -65116,5 +65116,22 @@
         "date_posted": 1739108375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739238494,
+        "url": "http://redirect.cvrve.me/623bd4a7301320fa1d35",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stonebranch",
+        "title": "Software Engineer Intern - QA",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4cdda0d0-5f1e-4148-9adf-9989e0f5d8ad",
+        "date_posted": 1739238494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
