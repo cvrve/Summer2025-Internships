@@ -65219,5 +65219,22 @@
         "date_posted": 1739241027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739282779,
+        "url": "http://redirect.cvrve.me/5acde66fbe4f7953ed5a",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "df1d684b-b957-4dee-b12d-338bc72f55fe",
+        "date_posted": 1739282779,
+        "company_url": "",
+        "is_visible": true
     }
 ]
