@@ -65150,5 +65150,22 @@
         "date_posted": 1739238529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739238572,
+        "url": "http://redirect.cvrve.me/f518920179f1d2561e1c",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stonebranch",
+        "title": "Software Engineer Intern - C",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9b86e3f3-8c68-4420-9f18-416a749f804d",
+        "date_posted": 1739238572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
