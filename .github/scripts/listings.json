@@ -65304,5 +65304,345 @@
         "date_posted": 1739282950,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739445425,
+        "url": "https://redirect.cvrve.me/ebf9bd8088a9e4b885c1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Okta",
+        "title": "Software Engineer Intern, Salesforce",
+        "source": "vanshb03",
+        "id": "2207d6b8-d15c-4693-828e-2744dbcce625",
+        "date_posted": 1739445425,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445449,
+        "url": "https://redirect.cvrve.me/c347c971dab885f12c76",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vimeo",
+        "title": "Software Engineering Intern, Platform",
+        "source": "vanshb03",
+        "id": "2e25be19-55a2-47e6-a258-bb0a37421c5b",
+        "date_posted": 1739445449,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445449,
+        "url": "https://redirect.cvrve.me/4b49dc6db85bc8840423",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vimeo",
+        "title": "Software Engineer Intern, Library",
+        "source": "vanshb03",
+        "id": "7ae113a2-4e00-48b6-a965-be69a422d4ee",
+        "date_posted": 1739445449,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445451,
+        "url": "https://redirect.cvrve.me/ef96f3faddfaaf08ff03",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vimeo",
+        "title": "Software Engineer Intern, Viewer Home",
+        "source": "vanshb03",
+        "id": "9c41225e-a7b6-416b-8eff-8420825e4752",
+        "date_posted": 1739445451,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445455,
+        "url": "https://redirect.cvrve.me/6afce374ee38922a6b5a",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vimeo",
+        "title": "Video Playback Engineering Intern",
+        "source": "vanshb03",
+        "id": "f97362f0-a34c-4844-b401-7cb27f3b52e9",
+        "date_posted": 1739445455,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445459,
+        "url": "https://redirect.cvrve.me/1f6322b8d66044726fc8",
+        "locations": [
+            "Bedford, MAA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Werfen",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "ddf4124a-ca48-4be0-804d-128d7c13c3f8",
+        "date_posted": 1739445459,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445463,
+        "url": "https://redirect.cvrve.me/b26b755c6081a2335b08",
+        "locations": [
+            "Bedford, MAA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Werfen",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "79b4a8b7-0c74-4180-9f27-e99e55a41f03",
+        "date_posted": 1739445463,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445465,
+        "url": "https://redirect.cvrve.me/9d6b8fce803770e094a6",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "70f3b020-239b-4b24-85f5-238542b2ca7d",
+        "date_posted": 1739445465,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445467,
+        "url": "https://redirect.cvrve.me/64fd823db2b44e390706",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "ce9ad800-f571-4bd6-91b0-ac2504a75f8b",
+        "date_posted": 1739445467,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445469,
+        "url": "https://redirect.cvrve.me/90519ace5bb9ce3a3dde",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Digital Experience Developer Intern",
+        "source": "vanshb03",
+        "id": "55d6bf94-4e2a-4889-ba2b-1f964d5876c1",
+        "date_posted": 1739445469,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445476,
+        "url": "https://redirect.cvrve.me/8f9324e607a842ca1ec4",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Weber Shandwick",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "7245d354-9076-44a7-b90c-4afac49e8990",
+        "date_posted": 1739445476,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445478,
+        "url": "https://redirect.cvrve.me/f7d80662b32a39ab38fd",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stonebranch",
+        "title": "Software Engineer Intern, C",
+        "source": "vanshb03",
+        "id": "59ba8045-520c-4b70-87f0-1834c5e8bffd",
+        "date_posted": 1739445478,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445479,
+        "url": "https://redirect.cvrve.me/f33b8410a72ca6a5877c",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BD",
+        "title": "R&D Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "34f19895-da5f-46cc-8cc2-3d7ecd25cdd2",
+        "date_posted": 1739445479,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445481,
+        "url": "https://redirect.cvrve.me/ff82ca99538f5fd7c132",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lamini",
+        "title": "Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "3d689714-6e35-4823-ae87-7575a2bda262",
+        "date_posted": 1739445481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445483,
+        "url": "https://redirect.cvrve.me/e7c1413aada6a4bfd836",
+        "locations": [
+            "Boston, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raptor Maps",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "056ba511-947b-439b-b646-0c71bb5ffc58",
+        "date_posted": 1739445483,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445484,
+        "url": "https://redirect.cvrve.me/b5e3428572b9650f2409",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tatari",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "a2df9a56-7a2f-4642-9d4d-f04abb47bc34",
+        "date_posted": 1739445484,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445486,
+        "url": "https://redirect.cvrve.me/bfae7c05276b4fc3c194",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "316da518-5301-460d-81dd-a03edf4807b1",
+        "date_posted": 1739445486,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445489,
+        "url": "https://redirect.cvrve.me/add90c5a8fd429edf6f2",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Salesforce AI Research Intern",
+        "source": "vanshb03",
+        "id": "ce112c1b-b897-4638-9a4c-0c38b9d16f8a",
+        "date_posted": 1739445489,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445491,
+        "url": "https://redirect.cvrve.me/e0639dc9d2762fcfe487",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Generative AI and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "aaa0d972-1045-49d5-a8e7-fd6b5c493dff",
+        "date_posted": 1739445491,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739445492,
+        "url": "https://redirect.cvrve.me/cdd1d74db179819cf02f",
+        "locations": [
+            "Milford, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waters Corporation",
+        "title": "Data AnalyticsIntern",
+        "source": "vanshb03",
+        "id": "3edab154-a9cd-4807-affc-1d80645098b8",
+        "date_posted": 1739445492,
+        "company_url": "",
+        "is_visible": true
     }
 ]
