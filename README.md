@@ -46,6 +46,26 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Werfen | Software Engineering Intern | Bedford, MAA | <a href="https://redirect.cvrve.me/b26b755c6081a2335b08?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | IT Intern | Bedford, MAA | <a href="https://redirect.cvrve.me/1f6322b8d66044726fc8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Weber Shandwick | Data Engineering Intern | Washington, D.C. | <a href="https://redirect.cvrve.me/8f9324e607a842ca1ec4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Waters Corporation | Data AnalyticsIntern | Milford, MA | <a href="https://redirect.cvrve.me/cdd1d74db179819cf02f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Generative AI and Machine Learning Intern | Milford, MA | <a href="https://redirect.cvrve.me/e0639dc9d2762fcfe487?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Salesforce AI Research Intern | Milford, MA | <a href="https://redirect.cvrve.me/add90c5a8fd429edf6f2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Software Development Intern | Milford, MA | <a href="https://redirect.cvrve.me/bfae7c05276b4fc3c194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Digital Experience Developer Intern | Milford, MA | <a href="https://redirect.cvrve.me/90519ace5bb9ce3a3dde?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Cloud Engineer Intern | Milford, MA | <a href="https://redirect.cvrve.me/64fd823db2b44e390706?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Software Engineering Intern | New Castle, DE | <a href="https://redirect.cvrve.me/9d6b8fce803770e094a6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Vimeo | Video Playback Engineering Intern | New York, NY | <a href="https://redirect.cvrve.me/6afce374ee38922a6b5a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Software Engineer Intern, Viewer Home | New York, NY | <a href="https://redirect.cvrve.me/ef96f3faddfaaf08ff03?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Software Engineering Intern, Platform | New York, NY | <a href="https://redirect.cvrve.me/c347c971dab885f12c76?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| ↳ | Software Engineer Intern, Library | New York, NY | <a href="https://redirect.cvrve.me/4b49dc6db85bc8840423?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Tatari | Software Engineer Intern, Backend | Los Angeles, CA | <a href="https://redirect.cvrve.me/b5e3428572b9650f2409?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Stonebranch | Software Engineer Intern, C | Alpharetta, GA | <a href="https://redirect.cvrve.me/f7d80662b32a39ab38fd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Raptor Maps | Software Engineering Intern | Boston, MA | <a href="https://redirect.cvrve.me/e7c1413aada6a4bfd836?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Okta | Software Engineer Intern, Salesforce | San Francisco, CA | <a href="https://redirect.cvrve.me/ebf9bd8088a9e4b885c1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| Lamini | Machine Learning Engineering Intern | Menlo Park, CA | <a href="https://redirect.cvrve.me/ff82ca99538f5fd7c132?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
+| BD | R&D Intern, Software Engineering | San Diego, CA | <a href="https://redirect.cvrve.me/f33b8410a72ca6a5877c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 13 |
 | Jane Street | Trading Desk Operations Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/f08a63d371dcb2adfc92?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | ↳ | Windows Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/a34ae8b28112c6bc6d8f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | ↳ | Machine Learning Researcher Intern | New York, NY | <a href="http://redirect.cvrve.me/47e8871017c529272d86?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
