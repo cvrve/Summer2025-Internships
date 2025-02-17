@@ -46,6 +46,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ParkHub | Data Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/8f3c3bbf535ea123b4da?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| ↳ | Full Stack Intern | Dallas, TX | <a href="https://redirect.cvrve.me/ea6a7377c28156bfa400?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| ↳ | AI & Machine Learning Intern | Dallas, TX | <a href="https://redirect.cvrve.me/3c6fee102ac767bad46b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| Modular | E2E Optimizations Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/09507338440514b53838?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| ↳ | Models & Tools Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/c922ccdea8dd35c556e5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| ↳ | Models Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/f4c6623cf7ca68fad7c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| ↳ | GenAI Libraries Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/9ded48695f25e32a3633?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | Scout Motors | Platform Engineering / Data Platform Intern | Tysons, VA | <a href="https://redirect.cvrve.me/d02069221fb8537b97a5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 15 |
 | ↳ | AI Implementation Intern, Production | Columbia, SC | <a href="https://redirect.cvrve.me/8c459c6cea06d0912d70?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 15 |
 | Rokt | ML Engineering Intern | Seattle, WA | <a href="https://redirect.cvrve.me/0f610a6ac37b8cee84f8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 15 |
