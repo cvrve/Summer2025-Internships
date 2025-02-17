@@ -66378,5 +66378,22 @@
         "date_posted": 1739814750,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739822096,
+        "url": "http://redirect.cvrve.me/f7927486ff9b132b2857",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Software Engineering Institute",
+        "title": "Development Intern - Summer 2025",
+        "season": "Summer",
+        "source": "zheintzleman",
+        "id": "92a6280a-208f-436a-a279-ec7ab58cf1df",
+        "date_posted": 1739822096,
+        "company_url": "",
+        "is_visible": true
     }
 ]

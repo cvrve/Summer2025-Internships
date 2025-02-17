@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Software Engineering Institute | Development Intern - Summer 2025 | Pittsburgh, PA | <a href="http://redirect.cvrve.me/f7927486ff9b132b2857?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ParkHub | Data Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/8f3c3bbf535ea123b4da?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | Full Stack Intern | Dallas, TX | <a href="https://redirect.cvrve.me/ea6a7377c28156bfa400?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | AI & Machine Learning Intern | Dallas, TX | <a href="https://redirect.cvrve.me/3c6fee102ac767bad46b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
