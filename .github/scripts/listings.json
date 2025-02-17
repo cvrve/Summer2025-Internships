@@ -66412,5 +66412,22 @@
         "date_posted": 1739822237,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739822290,
+        "url": "http://redirect.cvrve.me/1f7bf9aad5c0779f8a4d",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pearson",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a72b6b0d-8f00-4134-b63e-bcfc3e4bdd9b",
+        "date_posted": 1739822290,
+        "company_url": "",
+        "is_visible": true
     }
 ]
