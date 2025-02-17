@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ParkHub | Data Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/8f3c3bbf535ea123b4da?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | Full Stack Intern | Dallas, TX | <a href="https://redirect.cvrve.me/ea6a7377c28156bfa400?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | AI & Machine Learning Intern | Dallas, TX | <a href="https://redirect.cvrve.me/3c6fee102ac767bad46b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
+| Paccar | Software Engineer Intern | Renton, WA | <a href="http://redirect.cvrve.me/13615017c01a29ee85c3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | Modular | E2E Optimizations Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/09507338440514b53838?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | Models & Tools Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/c922ccdea8dd35c556e5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ↳ | Models Intern | Los Altos, CA | <a href="https://redirect.cvrve.me/f4c6623cf7ca68fad7c7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
