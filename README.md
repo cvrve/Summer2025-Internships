@@ -46,6 +46,17 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Resmed | Data Engineering Intern | San Diego, CA | <a href="https://redirect.cvrve.me/04b974733d5236c643ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| Northrop Grumman | Software Engineer Intern | Plainview, NY | <a href="https://redirect.cvrve.me/f4d74e5dccd7ecb9f653?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| Motorola | Software Engineering Intern | Chicago, IL | <a href="https://redirect.cvrve.me/c9ccced4e8f10ee06521?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| ↳ | Presale Systems Engineer | Chicago, IL</br>Minnesota, MN | <a href="https://redirect.cvrve.me/b3d1968fba815f2150aa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| KeyBank | Analytics and Quantitative Modeling Intern | Cleveland, OH | <a href="https://redirect.cvrve.me/4543d6f25f091403a8d4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| Jabil | Generative AI Intern | St. Petersburg, FL | <a href="https://redirect.cvrve.me/d01243719cdcd09d42bd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| Global Relay | Co-op C# Developer | Vancouver, Canada | <a href="https://redirect.cvrve.me/7e21f93a08e3ed6d3650?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| Genuine Parts Company | Software Developer Ebusiness Intern | Birmingham, AL | <a href="https://redirect.cvrve.me/a17cd2f0e4ee5b9b6d64?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| FM Global | Software Development Intern | Remote</br>US | <a href="https://redirect.cvrve.me/6a69a2029aa73d25a47f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| CVS Health | Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer | Smithfield, RI</br>Scottsdale, AZ</br>Hartford, CT | <a href="https://redirect.cvrve.me/c1caf3dfdecd0cd9275f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| 7-Eleven | Enterprise Technology Intern | Irving, TX | <a href="https://redirect.cvrve.me/fe505441bdec6f6ef4d6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | Software Engineering Institute | Development Intern - Summer 2025 | Pittsburgh, PA | <a href="http://redirect.cvrve.me/f7927486ff9b132b2857?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | Pearson | Software Engineering Intern | Bloomington, MN | <a href="http://redirect.cvrve.me/1f7bf9aad5c0779f8a4d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | ParkHub | Data Engineering Intern | Dallas, TX | <a href="https://redirect.cvrve.me/8f3c3bbf535ea123b4da?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
