@@ -66446,5 +66446,196 @@
         "date_posted": 1739822335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739883211,
+        "url": "https://redirect.cvrve.me/c1caf3dfdecd0cd9275f",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CVS Health",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+        "source": "vanshb03",
+        "id": "fb3fbcc3-01f8-4fc7-986c-a8f6bafcd51b",
+        "date_posted": 1739883211,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883252,
+        "url": "https://redirect.cvrve.me/fe505441bdec6f6ef4d6",
+        "locations": [
+            "Irving, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "7-Eleven",
+        "title": "Enterprise Technology Intern",
+        "source": "vanshb03",
+        "id": "2446bc13-7b58-4f99-94fd-b7bdbc5ac203",
+        "date_posted": 1739883252,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883274,
+        "url": "https://redirect.cvrve.me/04b974733d5236c643ed",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resmed",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "28218447-f841-4c15-b552-f90cb4c24c9f",
+        "date_posted": 1739883274,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883385,
+        "url": "https://redirect.cvrve.me/d01243719cdcd09d42bd",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Generative AI Intern",
+        "source": "vanshb03",
+        "id": "622f571e-8932-4e57-8987-63a781686223",
+        "date_posted": 1739883385,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883417,
+        "url": "https://redirect.cvrve.me/a17cd2f0e4ee5b9b6d64",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genuine Parts Company",
+        "title": "Software Developer Ebusiness Intern",
+        "source": "vanshb03",
+        "id": "bbf3508b-9022-439d-a48c-d5db7d4139da",
+        "date_posted": 1739883417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883457,
+        "url": "https://redirect.cvrve.me/b3d1968fba815f2150aa",
+        "locations": [
+            "Chicago, IL",
+            "Minnesota, MN"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Presale Systems Engineer",
+        "source": "vanshb03",
+        "id": "817329bc-3768-4ae1-8350-b1924ff97fff",
+        "date_posted": 1739883457,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883472,
+        "url": "https://redirect.cvrve.me/c9ccced4e8f10ee06521",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f5bf021f-3fbb-4c19-b0b0-a301227e264e",
+        "date_posted": 1739883472,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883483,
+        "url": "https://redirect.cvrve.me/f4d74e5dccd7ecb9f653",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b68dfa62-701e-4ef4-96cd-dacd421b8a88",
+        "date_posted": 1739883483,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883508,
+        "url": "https://redirect.cvrve.me/4543d6f25f091403a8d4",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Intern",
+        "source": "vanshb03",
+        "id": "38952855-9bd3-43e0-adb4-8384e830cb97",
+        "date_posted": 1739883508,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883533,
+        "url": "https://redirect.cvrve.me/7e21f93a08e3ed6d3650",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Global Relay",
+        "title": "Co-op C# Developer",
+        "source": "vanshb03",
+        "id": "38babdfa-0732-4fb4-b911-9853e76a0127",
+        "date_posted": 1739883533,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1739883573,
+        "url": "https://redirect.cvrve.me/6a69a2029aa73d25a47f",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FM Global",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "fc0c6012-e72f-47be-972f-3feae78a1959",
+        "date_posted": 1739883573,
+        "company_url": "",
+        "is_visible": true
     }
 ]
