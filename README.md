@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Credit Acceptance | DevOps Intern | Remote</br>US | <a href="http://redirect.cvrve.me/962b45102692d71010b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 21 |
 | Resmed | Data Engineering Intern | San Diego, CA | <a href="https://redirect.cvrve.me/04b974733d5236c643ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | Northrop Grumman | Software Engineer Intern | Plainview, NY | <a href="https://redirect.cvrve.me/f4d74e5dccd7ecb9f653?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | Motorola | Software Engineering Intern | Chicago, IL | <a href="https://redirect.cvrve.me/c9ccced4e8f10ee06521?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |

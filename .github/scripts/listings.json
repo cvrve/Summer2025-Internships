@@ -66637,5 +66637,23 @@
         "date_posted": 1739883573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740173994,
+        "url": "http://redirect.cvrve.me/962b45102692d71010b0",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Credit Acceptance",
+        "title": "DevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d51fce38-7593-4526-8353-43ba5f069190",
+        "date_posted": 1740173994,
+        "company_url": "",
+        "is_visible": true
     }
 ]
