@@ -66637,5 +66637,249 @@
         "date_posted": 1739883573,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740260017,
+        "url": "https://redirect.cvrve.me/af269090e29b36ba6f66",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hinge Health",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5fb33f5d-b32b-447f-acdb-f16c58a8d323",
+        "date_posted": 1740260017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260042,
+        "url": "https://redirect.cvrve.me/2f14c5beeaa1e2065d28",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hinge Health",
+        "title": "Software Engineer Intern - AI Platform",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "081e88c3-2612-4d80-ade2-71e47de98242",
+        "date_posted": 1740260042,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260069,
+        "url": "https://redirect.cvrve.me/a6f85841883004cdd4ad",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "98882166-cff3-4227-bccf-f0db7082acaf",
+        "date_posted": 1740260069,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260090,
+        "url": "https://redirect.cvrve.me/34ca7aba67c0bf92ece6",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rho",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5d84f4db-3fbf-4296-bc84-8b0e2dcb0164",
+        "date_posted": 1740260090,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260137,
+        "url": "https://redirect.cvrve.me/1da3eb8ea1f533dad7ac",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4eeea11-522c-42c7-bae8-29a26af13c7b",
+        "date_posted": 1740260137,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260164,
+        "url": "https://redirect.cvrve.me/dfd9386532f0f2732297",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rakuten",
+        "title": "Software Engineering Intern, AI User Experience",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a7c71b09-427c-4a7e-853a-054186887d94",
+        "date_posted": 1740260164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260199,
+        "url": "https://redirect.cvrve.me/e1e35015055a7dd6463a",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Headway Technologies Inc",
+        "title": "Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "13550bbc-5296-4dd6-b836-e3babc5a30be",
+        "date_posted": 1740260199,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260229,
+        "url": "https://redirect.cvrve.me/bc13592ed74310c24c57",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maximus",
+        "title": "AI Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a3051b67-ed01-470d-97c2-e2f36865d9af",
+        "date_posted": 1740260229,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260264,
+        "url": "https://redirect.cvrve.me/3929d8e76cc77f839f64",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paramount",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b5dfb6b8-321c-478c-b1c4-46790d285708",
+        "date_posted": 1740260264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260315,
+        "url": "https://redirect.cvrve.me/b161c552925e3d0d87dd",
+        "locations": [
+            "Louisville, KT",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Humana",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bee9e7b8-1d29-41d6-a54f-5d4c453ab8e8",
+        "date_posted": 1740260315,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260437,
+        "url": "https://redirect.cvrve.me/a8a3597ea76d619ff034",
+        "locations": [
+            "Mountlake Terrace, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Premera",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f8a9a9c4-eb45-4b3b-9c34-8faabc81cb71",
+        "date_posted": 1740260437,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260487,
+        "url": "https://redirect.cvrve.me/ae00b2325c08a280f25b",
+        "locations": [
+            "Portland, ME",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wex",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8c89669e-57d9-4601-a538-d34dc950ad0a",
+        "date_posted": 1740260487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260520,
+        "url": "https://redirect.cvrve.me/58c3f298b0f9647aebe4",
+        "locations": [
+            "Carlsbad, CA",
+            "Tempe, AZ",
+            "Duluth, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Network Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0260119c-68d3-4046-a1b0-f33f33baea7e",
+        "date_posted": 1740260520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740260591,
+        "url": "https://redirect.cvrve.me/e2fd5e21d58bf7ef144e",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astrolab",
+        "title": "Robotics Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7a6357be-43ba-4810-b4df-dcc0a007245d",
+        "date_posted": 1740260591,
+        "company_url": "",
+        "is_visible": true
     }
 ]
