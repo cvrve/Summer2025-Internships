@@ -46,6 +46,20 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wex | Site Reliability Engineer Intern | Portland, ME</br>Boston, MA | <a href="https://redirect.cvrve.me/ae00b2325c08a280f25b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Viasat | Network Automation Engineer Intern | Carlsbad, CA</br>Tempe, AZ</br>Duluth, GA | <a href="https://redirect.cvrve.me/58c3f298b0f9647aebe4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Rho | Software Engineer Intern | Durham, NC | <a href="https://redirect.cvrve.me/34ca7aba67c0bf92ece6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Rakuten | Software Engineering Intern, AI User Experience | San Mateo, CA | <a href="https://redirect.cvrve.me/dfd9386532f0f2732297?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Premera | Software Development Engineer Intern | Mountlake Terrace, WA | <a href="https://redirect.cvrve.me/a8a3597ea76d619ff034?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Paramount | Software Engineering Intern | Burbank, CA | <a href="https://redirect.cvrve.me/3929d8e76cc77f839f64?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Maximus | AI Software Engineering Intern | Remote</br>US | <a href="https://redirect.cvrve.me/bc13592ed74310c24c57?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Humana | IT Intern | Louisville, KT</br>Remote</br>US | <a href="https://redirect.cvrve.me/b161c552925e3d0d87dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Hinge Health | Software Engineer Intern - AI Platform | San Francisco, CA | <a href="https://redirect.cvrve.me/2f14c5beeaa1e2065d28?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://redirect.cvrve.me/af269090e29b36ba6f66?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Headway Technologies Inc | Automation Engineer Intern | Milpitas, CA | <a href="https://redirect.cvrve.me/e1e35015055a7dd6463a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Disney | Software Engineering Intern | Seattle, WA | <a href="https://redirect.cvrve.me/1da3eb8ea1f533dad7ac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| ↳ | Software Engineering Intern | Morrisville, NC | <a href="https://redirect.cvrve.me/a6f85841883004cdd4ad?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
+| Astrolab | Robotics Software Engineering Intern | Hawthorne, CA | <a href="https://redirect.cvrve.me/e2fd5e21d58bf7ef144e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
 | Credit Acceptance | DevOps Intern | Remote</br>US | <a href="http://redirect.cvrve.me/962b45102692d71010b0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 21 |
 | Resmed | Data Engineering Intern | San Diego, CA | <a href="https://redirect.cvrve.me/04b974733d5236c643ed?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | Northrop Grumman | Software Engineer Intern | Plainview, NY | <a href="https://redirect.cvrve.me/f4d74e5dccd7ecb9f653?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
