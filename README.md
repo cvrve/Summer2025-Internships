@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tandem | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/e3bbe9a963fba65bd183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Wex | Site Reliability Engineer Intern | Portland, ME</br>Boston, MA | <a href="https://redirect.cvrve.me/ae00b2325c08a280f25b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
 | Viasat | Network Automation Engineer Intern | Carlsbad, CA</br>Tempe, AZ</br>Duluth, GA | <a href="https://redirect.cvrve.me/58c3f298b0f9647aebe4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
 | Rho | Software Engineer Intern | Durham, NC | <a href="https://redirect.cvrve.me/34ca7aba67c0bf92ece6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
