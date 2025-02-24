@@ -46,11 +46,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Velera | Summer 2025 Intern - Product | Remote</br>US | <a href="?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
+| Velera | Summer 2025 Intern - Product | Remote</br>US | <a href="http://redirect.cvrve.me/b8362e682f6b3ec0c032?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Tandem | Software Engineer Intern | New York, NY | <a href="http://redirect.cvrve.me/e3bbe9a963fba65bd183?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
-| Splunk | Product Management Intern – Go-To-Market (US, Remote - Summer 2025) | Remote</br>US | <a href="http://redirect.cvrve.me/9f8503f555e31b20f665?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
+| Splunk | Product Management Intern | Remote</br>US | <a href="http://redirect.cvrve.me/9f8503f555e31b20f665?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Rivian and VW Group Technology | Software Engineering Intern - Product Manager | Palo Alto, CA | <a href="http://redirect.cvrve.me/1cf2a1114298a23c847e?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
-| Premera Blue Cross | Summer Intern - Agile Product Owner (MSFT Copilot) | Mountlake Terrace, WA | <a href="http://redirect.cvrve.me/0c1e93321a43965b168a?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
+| Premera Blue Cross | Agile Product Owner Intern | Mountlake Terrace, WA | <a href="http://redirect.cvrve.me/0c1e93321a43965b168a?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Live Nation | Software Engineer Intern | Reston, VA | <a href="http://redirect.cvrve.me/1875aa32ff8b2e800163?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Alarm.com | Product Management Intern | Tysons Corner, VA | <a href="http://redirect.cvrve.me/69e47fc7a9596e25b0c5?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 24 |
 | Wex | Site Reliability Engineer Intern | Portland, ME</br>Boston, MA | <a href="https://redirect.cvrve.me/ae00b2325c08a280f25b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 22 |
