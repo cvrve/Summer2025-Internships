@@ -66916,5 +66916,109 @@
         "date_posted": 1740423239,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740431855,
+        "url": "http://redirect.cvrve.me/1875aa32ff8b2e800163?utm_source=intern",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Live Nation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3477899c-8a2e-44be-8f31-c3efed3728d7",
+        "date_posted": 1740431855,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740432387,
+        "url": "http://redirect.cvrve.me/69e47fc7a9596e25b0c5?utm_source=intern",
+        "locations": [
+            "Tysons Corner, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alarm.com",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d9b4d3fe-fe01-4e58-b780-568edc8ec790",
+        "date_posted": 1740432387,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740432520,
+        "url": "http://redirect.cvrve.me/9f8503f555e31b20f665?utm_source=intern",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Product Management Intern – Go-To-Market (US, Remote - Summer 2025)",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "4b5ce074-57f1-4a01-8382-2b0e8eb7bbdc",
+        "date_posted": 1740432520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740432529,
+        "url": "http://redirect.cvrve.me/0c1e93321a43965b168a?utm_source=intern",
+        "locations": [
+            "Mountlake Terrace, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Premera Blue Cross",
+        "title": "Summer Intern - Agile Product Owner (MSFT Copilot)",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "71606603-a2d1-494f-a85e-dcaefcbd0bd8",
+        "date_posted": 1740432529,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740432557,
+        "url": "",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Velera",
+        "title": "Summer 2025 Intern - Product",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8e8f270a-3764-4462-b5f0-7ddcdb4da81a",
+        "date_posted": 1740432557,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740432661,
+        "url": "http://redirect.cvrve.me/1cf2a1114298a23c847e?utm_source=intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and VW Group Technology",
+        "title": "Software Engineering Intern - Product Manager",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "0417a28b-9e6a-4012-a6ea-1cbe6e29cd4b",
+        "date_posted": 1740432661,
+        "company_url": "",
+        "is_visible": true
     }
 ]
