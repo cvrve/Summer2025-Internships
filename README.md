@@ -46,6 +46,28 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Venturi Astrolab | Robotics Software Engineering Intern | Hawthorne, CA | <a href="https://redirect.cvrve.me/7b26b583f84d07a95b1d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| Trepp | Data Science Intern | New York, NY | <a href="https://redirect.cvrve.me/116ceaf5c61c66d59297?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| Reliance | Software Engineer Intern | Cypress, CA | <a href="https://redirect.cvrve.me/d4475d1e5034dce22ee6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| PTC | Software Development Intern | Boston, MA | <a href="https://redirect.cvrve.me/029e80d45864774408f9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| Magna | Data Analytics, Simulation, &IoT, AMI Intern | Troy, MI | <a href="https://redirect.cvrve.me/5f5c6db555eb5d6c46a1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Robotics AI Implementation & Test Intern | Troy, MI | <a href="https://redirect.cvrve.me/9daa7fc7fb9f7f4ed83a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Robotics Implementation Intern | Troy, MI | <a href="https://redirect.cvrve.me/8809da5ad8af0a47c444?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Robotics AI Software Intern | Troy, MI | <a href="https://redirect.cvrve.me/1617ed5695e3e415a0d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Robotics Controls Intern | Troy, MI | <a href="https://redirect.cvrve.me/34270ce7fbae6a43c8dc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Computer Vision/AI Intern | Troy, MI | <a href="https://redirect.cvrve.me/9ec539e1beaa06e86846?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Robotics AI Algorithm Intern | Troy, MI | <a href="https://redirect.cvrve.me/d94737368192bbcf2454?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Computer Vision & Simulation Engineer Intern | Troy, MI | <a href="https://redirect.cvrve.me/d560bca44ddb3c312785?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | WaveLogic Software Intern | Atlanta, GA | <a href="https://redirect.cvrve.me/9ff9145d468b35ce5dcf?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| KLA | Software Engineering Intern, AR/VR (C++, C# and JavaScript) | Milpitas, CA | <a href="https://redirect.cvrve.me/d3f3f6d099b2f2410a98?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Software Engineering Intern | Ann Arbor, MI | <a href="https://redirect.cvrve.me/d8cfee2d8cd5a225a932?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Data Science and SW Engineering Intern | Ann Arbor, MI | <a href="https://redirect.cvrve.me/e746aba5548f2c4b3185?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Algorithm Engineering Intern | Ann Arbor, MI | <a href="https://redirect.cvrve.me/c201a9139359340e55fe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | AI Scientist Intern | Ann Arbor, MI | <a href="https://redirect.cvrve.me/6074f8e259507741944a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Software Engineer Intern, AI/ML | Austin, TX | <a href="https://redirect.cvrve.me/26d74a046fea06731ce8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Software Intern, CUDA | Milpitas, CA | <a href="https://redirect.cvrve.me/159dad9b61fab27f62a6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Algorithm Engineering Intern, Image Processing | Ann Arbor, MI | <a href="https://redirect.cvrve.me/302c66d9ea7e096bbff8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
+| ↳ | Software Engineering Intern, C++, Unix | Milpitas, CA | <a href="https://redirect.cvrve.me/8a7dafa84509c8925bee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
 | Zocdoc | Machine Learning Software Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/cc32cb4b696d3c1638fd?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 27 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="http://redirect.cvrve.me/d30eb2f59a29e761ef84?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 27 |
 | WEX | Software Engineering Intern, Data, AI, and Risk Technology | <details><summary>**4 locations**</summary>Portland, ME</br>Boston, MA</br>Bay Area, CA</br>Chicago, IL</details> | <a href="http://redirect.cvrve.me/ea149b5803c8a4686a9f?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 27 |
