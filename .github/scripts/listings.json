@@ -67749,5 +67749,379 @@
         "date_posted": 1740665289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740800183,
+        "url": "https://redirect.cvrve.me/9ff9145d468b35ce5dcf",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "WaveLogic Software Intern",
+        "source": "vanshb03",
+        "id": "04f70f68-72f2-419a-b70e-4a27df1b3050",
+        "date_posted": 1740800183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800206,
+        "url": "https://redirect.cvrve.me/d560bca44ddb3c312785",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Computer Vision & Simulation Engineer Intern",
+        "source": "vanshb03",
+        "id": "b024dd9c-081b-43ce-a014-36fa413a5936",
+        "date_posted": 1740800206,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800210,
+        "url": "https://redirect.cvrve.me/d94737368192bbcf2454",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics AI Algorithm Intern",
+        "source": "vanshb03",
+        "id": "68b19f16-676d-45fc-82d7-c1d063752f6d",
+        "date_posted": 1740800210,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800213,
+        "url": "https://redirect.cvrve.me/9ec539e1beaa06e86846",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Computer Vision/AI Intern",
+        "source": "vanshb03",
+        "id": "b61b22ef-1a50-4bfd-819d-dc8d52d70888",
+        "date_posted": 1740800213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800214,
+        "url": "https://redirect.cvrve.me/34270ce7fbae6a43c8dc",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics Controls Intern",
+        "source": "vanshb03",
+        "id": "c2f10bab-3433-4b1f-a2d9-be80d019e85b",
+        "date_posted": 1740800214,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800216,
+        "url": "https://redirect.cvrve.me/1617ed5695e3e415a0d7",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics AI Software Intern",
+        "source": "vanshb03",
+        "id": "b965944b-14dc-4752-9b06-8347888f81db",
+        "date_posted": 1740800216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800218,
+        "url": "https://redirect.cvrve.me/8809da5ad8af0a47c444",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics Implementation Intern",
+        "source": "vanshb03",
+        "id": "6dc10eac-fc8d-47e7-bd43-065f2d10b091",
+        "date_posted": 1740800218,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800220,
+        "url": "https://redirect.cvrve.me/9daa7fc7fb9f7f4ed83a",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Robotics AI Implementation & Test Intern",
+        "source": "vanshb03",
+        "id": "2b6003a6-f1f8-458a-97ab-b7400e1e9a3b",
+        "date_posted": 1740800220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800222,
+        "url": "https://redirect.cvrve.me/5f5c6db555eb5d6c46a1",
+        "locations": [
+            "Troy, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magna",
+        "title": "Data Analytics, Simulation, &IoT, AMI Intern",
+        "source": "vanshb03",
+        "id": "6198cc5d-1024-4c52-9874-df049f3eba96",
+        "date_posted": 1740800222,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800228,
+        "url": "https://redirect.cvrve.me/8a7dafa84509c8925bee",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern, C++, Unix",
+        "source": "vanshb03",
+        "id": "a3aad3fc-d173-44b6-80eb-c5093c2e83a6",
+        "date_posted": 1740800228,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800232,
+        "url": "https://redirect.cvrve.me/302c66d9ea7e096bbff8",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Algorithm Engineering Intern, Image Processing",
+        "source": "vanshb03",
+        "id": "21fff7d5-62fb-4adc-b738-9fc0f8487fb9",
+        "date_posted": 1740800232,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800233,
+        "url": "https://redirect.cvrve.me/159dad9b61fab27f62a6",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Intern, CUDA",
+        "source": "vanshb03",
+        "id": "625a474e-ac29-450b-a687-a7cca13f5967",
+        "date_posted": 1740800233,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800235,
+        "url": "https://redirect.cvrve.me/26d74a046fea06731ce8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "3278d8d7-33cb-4240-b6aa-4f777728cf01",
+        "date_posted": 1740800235,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800238,
+        "url": "https://redirect.cvrve.me/6074f8e259507741944a",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "AI Scientist Intern",
+        "source": "vanshb03",
+        "id": "e77b8396-b560-4592-a939-edb6057d9726",
+        "date_posted": 1740800238,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800242,
+        "url": "https://redirect.cvrve.me/c201a9139359340e55fe",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Algorithm Engineering Intern",
+        "source": "vanshb03",
+        "id": "77a657ab-1ed0-4cf7-a629-9c7b98569cf5",
+        "date_posted": 1740800242,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800244,
+        "url": "https://redirect.cvrve.me/e746aba5548f2c4b3185",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Data Science and SW Engineering Intern",
+        "source": "vanshb03",
+        "id": "83bdbcdd-94f0-44d7-8f9e-a9b42677ee5d",
+        "date_posted": 1740800244,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800245,
+        "url": "https://redirect.cvrve.me/d8cfee2d8cd5a225a932",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4f4d2d64-9b5e-41cb-b5ce-7645af4af90b",
+        "date_posted": 1740800245,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800248,
+        "url": "https://redirect.cvrve.me/d3f3f6d099b2f2410a98",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern, AR/VR (C++, C# and JavaScript)",
+        "source": "vanshb03",
+        "id": "bf23db5e-cd80-4af3-8622-7d3027e50f99",
+        "date_posted": 1740800248,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800251,
+        "url": "https://redirect.cvrve.me/d4475d1e5034dce22ee6",
+        "locations": [
+            "Cypress, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliance",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4a3bc847-d7f6-48dc-a85d-324add1e61a6",
+        "date_posted": 1740800251,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800252,
+        "url": "https://redirect.cvrve.me/7b26b583f84d07a95b1d",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Venturi Astrolab",
+        "title": "Robotics Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4d95de83-a632-434a-9a9f-c979a2ee914d",
+        "date_posted": 1740800252,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800254,
+        "url": "https://redirect.cvrve.me/116ceaf5c61c66d59297",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trepp",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "7cac0ee7-82df-486b-88b6-a44fd895c71f",
+        "date_posted": 1740800254,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740800256,
+        "url": "https://redirect.cvrve.me/029e80d45864774408f9",
+        "locations": [
+            "Boston, MA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "87553e92-e149-4d6e-a5c8-f4260dc90203",
+        "date_posted": 1740800256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
