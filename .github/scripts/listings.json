@@ -68293,5 +68293,90 @@
         "date_posted": 1740939203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740940227,
+        "url": "https://redirect.cvrve.me/763da889438c2d0e751f",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "a1b04f32-3742-4129-954b-220af2c5dfa5",
+        "date_posted": 1740940227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740940236,
+        "url": "https://redirect.cvrve.me/61ac091327f62e95e3d3",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper",
+        "title": "Originations Analytics Intern",
+        "source": "vanshb03",
+        "id": "b52b2bd5-2c1d-4bb7-a4c7-bd5c69d4f006",
+        "date_posted": 1740940236,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740940250,
+        "url": "https://redirect.cvrve.me/2857dc7a7c5ddc954226",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "11dc45ff-4254-4ece-8612-841b1178c67e",
+        "date_posted": 1740940250,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740940280,
+        "url": "https://redirect.cvrve.me/3d8963f621e0693144ad",
+        "locations": [
+            "Austin, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2d7d1814-ca55-4c87-93e0-487417532dbc",
+        "date_posted": 1740940280,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740940298,
+        "url": "https://redirect.cvrve.me/38d50d79fd6e9db78d0d",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interac Corp.",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "dcec6277-2788-4a5e-86fc-9390d74e76c2",
+        "date_posted": 1740940298,
+        "company_url": "",
+        "is_visible": true
     }
 ]
