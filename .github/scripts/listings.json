@@ -68123,5 +68123,175 @@
         "date_posted": 1740800256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740939192,
+        "url": "https://redirect.cvrve.me/5eedd2fe6f5f9a80ad8b",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calix",
+        "title": "Software Engineering Intern, Network Management",
+        "source": "vanshb03",
+        "id": "3b20df1f-1271-4fab-9856-c17999c293db",
+        "date_posted": 1740939192,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939193,
+        "url": "https://redirect.cvrve.me/76cac09f8738f48343f4",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calix",
+        "title": "Software Engineering Intern, Calix Cloud",
+        "source": "vanshb03",
+        "id": "867c57bb-a7c7-451f-98bd-34c28b62b256",
+        "date_posted": 1740939193,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939195,
+        "url": "https://redirect.cvrve.me/74f547f9f7ee921a4f90",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SNC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f7bb0674-afe0-46bf-a66e-668a553ea5a2",
+        "date_posted": 1740939195,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939196,
+        "url": "https://redirect.cvrve.me/ab2d602265bb9d0ab57c",
+        "locations": [
+            "Houston, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "Web Application Intern",
+        "source": "vanshb03",
+        "id": "06517802-6011-4668-ac27-e8ebcacf09b1",
+        "date_posted": 1740939196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939197,
+        "url": "https://redirect.cvrve.me/6c0e2efd3c2139d2a2dd",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "a08bb205-906f-464d-9913-bacdae28b485",
+        "date_posted": 1740939197,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939198,
+        "url": "https://redirect.cvrve.me/e994c3fb3796d1cd72b6",
+        "locations": [
+            "Keene, NH"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "Application Migration Intern, Mainframe",
+        "source": "vanshb03",
+        "id": "b0dd3d05-6131-4c42-9c9a-3f9fbe1a7d21",
+        "date_posted": 1740939198,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939199,
+        "url": "https://redirect.cvrve.me/1e811438529902200094",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "940fae7d-4ad4-4a52-885b-0290c38ee81d",
+        "date_posted": 1740939199,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939200,
+        "url": "https://redirect.cvrve.me/761721247b5d61429fd9",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "b9378303-107c-4bb4-9573-c260a4069578",
+        "date_posted": 1740939200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939201,
+        "url": "https://redirect.cvrve.me/c8d0c697a1dd0348d122",
+        "locations": [
+            "Okland, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ThredUp",
+        "title": "Software Engineering Intern, Data Engineering",
+        "source": "vanshb03",
+        "id": "6c26d19f-cf0c-4d42-a6ba-7638680f4679",
+        "date_posted": 1740939201,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740939203,
+        "url": "https://redirect.cvrve.me/7217825b98ac9d5a4b7a",
+        "locations": [
+            "Okland, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ThredUp",
+        "title": "Fintech Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a8524b01-e24c-4aa0-a533-825d060f1ad6",
+        "date_posted": 1740939203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
