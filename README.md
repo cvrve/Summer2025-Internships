@@ -46,6 +46,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ThredUp | Fintech Software Engineering Intern | Okland, CA | <a href="https://redirect.cvrve.me/7217825b98ac9d5a4b7a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Software Engineering Intern, Data Engineering | Okland, CA | <a href="https://redirect.cvrve.me/c8d0c697a1dd0348d122?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| SNC | Software Engineer Intern | Folsom, CA | <a href="https://redirect.cvrve.me/74f547f9f7ee921a4f90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| Calix | Software Engineering Intern, Calix Cloud | Remote | <a href="https://redirect.cvrve.me/76cac09f8738f48343f4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Software Engineering Intern, Network Management | Remote | <a href="https://redirect.cvrve.me/5eedd2fe6f5f9a80ad8b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| C&S Wholesale Grocers | Cyber Security Intern | Edison, NJ | <a href="https://redirect.cvrve.me/761721247b5d61429fd9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Data Analyst Intern | Edison, NJ | <a href="https://redirect.cvrve.me/1e811438529902200094?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Application Migration Intern, Mainframe | Keene, NH | <a href="https://redirect.cvrve.me/e994c3fb3796d1cd72b6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Data Science Intern | Edison, NJ | <a href="https://redirect.cvrve.me/6c0e2efd3c2139d2a2dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
+| ↳ | Web Application Intern | Houston, TX | <a href="https://redirect.cvrve.me/ab2d602265bb9d0ab57c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 02 |
 | Venturi Astrolab | Robotics Software Engineering Intern | Hawthorne, CA | <a href="https://redirect.cvrve.me/7b26b583f84d07a95b1d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
 | Trepp | Data Science Intern | New York, NY | <a href="https://redirect.cvrve.me/116ceaf5c61c66d59297?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
 | Reliance | Software Engineer Intern | Cypress, CA | <a href="https://redirect.cvrve.me/d4475d1e5034dce22ee6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 28 |
