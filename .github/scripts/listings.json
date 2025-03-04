@@ -68410,5 +68410,22 @@
         "date_posted": 1741114501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741132003,
+        "url": "http://redirect.cvrve.me/019b0766d155f81da8b7",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Quality Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d62a2e9-33ea-46c4-a723-c5cc9254d513",
+        "date_posted": 1741132003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
