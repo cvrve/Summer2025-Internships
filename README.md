@@ -46,6 +46,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Clorox | Data Engineer Intern | Pleasanton, CA | <a href="https://redirect.cvrve.me/c7fe1662dae180403ab3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| ↳ | Machine Learning Engineer Intern | Durham, NC | <a href="https://redirect.cvrve.me/1283a441dbf174cdd05a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| Bloom Energy | RMCC Software Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/6a5227625836d9506d9d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| ↳ | Data Analytics Intern, Service Operations | San Jose, CA | <a href="https://redirect.cvrve.me/8f84e3500d4a484a3ad8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| ↳ | Quality Data Analysis Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/264e685acc7d7798ede8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
+| ↳ | Data Science Intern - Master's/Ph.D | San Jose, CA | <a href="https://redirect.cvrve.me/a43130e3326e91704625?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 07 |
 | Teradyne | Software Quality Engineer Co-op | North Reading, MA | <a href="http://redirect.cvrve.me/019b0766d155f81da8b7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
 | Block | Software Engineer Intern | Bay Area, CA | <a href="http://redirect.cvrve.me/9fc0e02c032cf3c7d305?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
 | Blackrock | 2026 Summer Intern | <details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details> | <a href="http://redirect.cvrve.me/0a24352c13dad0845efc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
