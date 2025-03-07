@@ -68444,5 +68444,107 @@
         "date_posted": 1741132395,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741367979,
+        "url": "https://redirect.cvrve.me/1283a441dbf174cdd05a",
+        "locations": [
+            "Durham, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clorox",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "a58e0dab-2a96-45f2-bfc0-7a23f0b93d4f",
+        "date_posted": 1741367979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741367985,
+        "url": "https://redirect.cvrve.me/a43130e3326e91704625",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Data Science Intern - Master's/Ph.D",
+        "source": "vanshb03",
+        "id": "39ac7875-3c1a-407f-98f9-595fe28f5db2",
+        "date_posted": 1741367985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741367986,
+        "url": "https://redirect.cvrve.me/264e685acc7d7798ede8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Quality Data Analysis Engineering Intern",
+        "source": "vanshb03",
+        "id": "d103b40f-c6cd-4209-a4ce-80a0d6916356",
+        "date_posted": 1741367986,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741367988,
+        "url": "https://redirect.cvrve.me/8f84e3500d4a484a3ad8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Data Analytics Intern, Service Operations",
+        "source": "vanshb03",
+        "id": "25267126-df57-4671-8ead-f910b73eb473",
+        "date_posted": 1741367988,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741367990,
+        "url": "https://redirect.cvrve.me/6a5227625836d9506d9d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "RMCC Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1dba3585-b1c6-41e8-8f52-55741ae49541",
+        "date_posted": 1741367990,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741367993,
+        "url": "https://redirect.cvrve.me/c7fe1662dae180403ab3",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clorox",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "6e4de7b7-1e4b-47b3-98a7-f9b275949e29",
+        "date_posted": 1741367993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
