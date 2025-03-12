@@ -69059,5 +69059,22 @@
         "date_posted": 1741663452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741782217,
+        "url": "http://redirect.cvrve.me/1b86253b58b62f1cde90",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "Full-Stack Developer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ccf0028e-67f0-444e-ac8b-c5e3e508b676",
+        "date_posted": 1741782217,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Figure AI | Full-Stack Developer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/1b86253b58b62f1cde90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
 | ThredUp | Machine Learning Engineer Intern | Scottsdale, AZ | <a href="https://redirect.cvrve.me/b8cc23ba8bdaa91185ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
 | ThousandEyes | Software Engineering Intern, Subscription Management Platform | San Francisco, CA | <a href="https://redirect.cvrve.me/05518e23e0b4006fad2e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
 | ↳ | Software Engineering Intern, Integrations Platform | San Francisco, CA | <a href="https://redirect.cvrve.me/fa5f4bb28ceccaaacfe3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |
