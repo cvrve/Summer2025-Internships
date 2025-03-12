@@ -69076,5 +69076,22 @@
         "date_posted": 1741782217,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741782257,
+        "url": "http://redirect.cvrve.me/0e3d81cc7b6c8d8c3ed7",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "Embedded Audio Signal Processing Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "a32cce57-8108-4803-b3ab-7f3fa8ba76bd",
+        "date_posted": 1741782257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
