@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Figure AI | Embedded Software Intern | San Jose, CA | <a href="http://redirect.cvrve.me/6c6f543a592c66f08dd5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
+| Figure AI | FPGA Design Intern | San Jose, CA | <a href="http://redirect.cvrve.me/0584634d82b2074b84b8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
+| ↳ | Embedded Software Intern | San Jose, CA | <a href="http://redirect.cvrve.me/6c6f543a592c66f08dd5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
 | ↳ | Embedded Audio Signal Processing Intern | San Jose, CA | <a href="http://redirect.cvrve.me/0e3d81cc7b6c8d8c3ed7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
 | ↳ | Full-Stack Developer Intern | San Jose, CA | <a href="http://redirect.cvrve.me/1b86253b58b62f1cde90?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 12 |
 | ThredUp | Machine Learning Engineer Intern | Scottsdale, AZ | <a href="https://redirect.cvrve.me/b8cc23ba8bdaa91185ce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 10 |

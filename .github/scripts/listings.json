@@ -69110,5 +69110,22 @@
         "date_posted": 1741782414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741782516,
+        "url": "http://redirect.cvrve.me/0584634d82b2074b84b8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "FPGA Design Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "9565a455-ad78-4bf3-bf01-088eb16a5b36",
+        "date_posted": 1741782516,
+        "company_url": "",
+        "is_visible": true
     }
 ]
