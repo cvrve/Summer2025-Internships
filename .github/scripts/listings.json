@@ -69127,5 +69127,22 @@
         "date_posted": 1741782516,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741782636,
+        "url": "http://redirect.cvrve.me/25ccb645519094f482a7",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "Teleop Controls Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "8b5e0c59-0bf2-4592-bbff-6c26f83fb069",
+        "date_posted": 1741782636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
