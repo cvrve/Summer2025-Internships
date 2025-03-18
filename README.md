@@ -46,6 +46,26 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Verint | Software Engineer Intern | Columbia, MD | <a href="https://redirect.cvrve.me/9ace87dae8518c57b553?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Trellis Company | Software Engineer Intern | Remote | <a href="https://redirect.cvrve.me/39ed07ac0a94b2d1ee1b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Spothero | Mobile Engineer Intern, Android | Chicago, IL | <a href="https://redirect.cvrve.me/a37b0efe3d3905b37072?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| SonicWall | Platform Engineering Intern | Remote | <a href="https://redirect.cvrve.me/0dc9e8f4f2df8e94604d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | Gen AI Development Intern | Remote | <a href="https://redirect.cvrve.me/f10c2508b7edbc7025e9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | Data Plane Engineer Intern | Remote | <a href="https://redirect.cvrve.me/d37236ac192381466de3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | Developer Intern | Remote | <a href="https://redirect.cvrve.me/6ad250fe3b286956737d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Salesforce | Software Engineer Intern | San Francisco, CA</br>Seattle, WA | <a href="https://redirect.cvrve.me/32c7e745497fef655884?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Posit | Software Engineer Intern, Connect | Remote | <a href="https://redirect.cvrve.me/77f4e15f43f3de7c3168?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| NRECA | Artificial Intelligence Applications Intern | Arlington, VA | <a href="https://redirect.cvrve.me/c63188cfad95975d55c4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| G2 | Data Analytics Intern | Chicago, IL | <a href="https://redirect.cvrve.me/c356c505b707403067b9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | Ruby on Rails Software Engineer Intern | Chicago, IL | <a href="https://redirect.cvrve.me/e2698ceb05ea50a317fd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Franklin Templeton | Enterprise Data & Analytics Intern - Undergrad | Baltimore, MD | <a href="https://redirect.cvrve.me/e6eb7ebbeee847406094?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | HNW Wealth Management Technology Intern - Undergrad | New York, NY | <a href="https://redirect.cvrve.me/cb10a04b0f85dd1cf0f1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | AI & Digital Transformation Intern - Undergrad | San Ramon, CA</br>New York, NY</br>Short Hills, NJ | <a href="https://redirect.cvrve.me/e16dda8937af263912f9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | Digital Technology Intern, AI - Undergrad | San Ramon, CA</br>San Mateo, CA</br>New York, NY | <a href="https://redirect.cvrve.me/f21c8d1b7526cf455775?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Arvinas | Computational Chemistry & Artificial Intelligence Intern | Remote | <a href="https://redirect.cvrve.me/b7d05b14906903d6d4d5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Airbus | Paint Shop Data Analyst Intern | Mobile Area, AL | <a href="https://redirect.cvrve.me/a70e71d6bbbf19e3ae6d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| ↳ | ADU Shop Data Analyst Intern | Mobile Area, AL | <a href="https://redirect.cvrve.me/0e88849a8dab48a3ce7b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
+| Acuity | Front End Software Engineering Intern | Remote | <a href="https://redirect.cvrve.me/5f4720e89f84acef1b15?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
 | Zymo Research | Cybersecurity Full Stack Developer Intern | Irvine, CA | <a href="https://redirect.cvrve.me/aca523dfc1e9c2ee802f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | ↳ | Web App Development Automation Intern | Irvine, CA | <a href="https://redirect.cvrve.me/a4b08149c37af0f12d24?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
 | ↳ | Backend and Database Developer Intern | Irvine, CA | <a href="https://redirect.cvrve.me/995cb65ef2648286550c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 13 |
