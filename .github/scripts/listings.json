@@ -69961,5 +69961,350 @@
         "date_posted": 1741915120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1742323509,
+        "url": "https://redirect.cvrve.me/9ace87dae8518c57b553",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verint",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d43cfca5-f95b-485c-81bd-8b5bf32ede78",
+        "date_posted": 1742323509,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323624,
+        "url": "https://redirect.cvrve.me/b7d05b14906903d6d4d5",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arvinas",
+        "title": "Computational Chemistry & Artificial Intelligence Intern",
+        "source": "vanshb03",
+        "id": "3a9f96cb-20b9-49c1-97da-31b9c48ff110",
+        "date_posted": 1742323624,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323626,
+        "url": "https://redirect.cvrve.me/0e88849a8dab48a3ce7b",
+        "locations": [
+            "Mobile Area, AL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airbus",
+        "title": "ADU Shop Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "5927fa2f-28a3-4e66-9435-1cdc56c6b0e6",
+        "date_posted": 1742323626,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323627,
+        "url": "https://redirect.cvrve.me/a70e71d6bbbf19e3ae6d",
+        "locations": [
+            "Mobile Area, AL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airbus",
+        "title": "Paint Shop Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "e94a1526-5637-4ab1-a41a-3d8c68d4a923",
+        "date_posted": 1742323627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323628,
+        "url": "https://redirect.cvrve.me/6ad250fe3b286956737d",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SonicWall",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "c4e090e9-93d4-4e6d-aed8-9c882054ab6e",
+        "date_posted": 1742323628,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323630,
+        "url": "https://redirect.cvrve.me/d37236ac192381466de3",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SonicWall",
+        "title": "Data Plane Engineer Intern",
+        "source": "vanshb03",
+        "id": "7d445ba6-01d3-4d39-9315-7eda3c4f4e1b",
+        "date_posted": 1742323630,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323630,
+        "url": "https://redirect.cvrve.me/32c7e745497fef655884",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f31797ea-96cf-49f4-b2f6-9751e0f80073",
+        "date_posted": 1742323630,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323633,
+        "url": "https://redirect.cvrve.me/f10c2508b7edbc7025e9",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SonicWall",
+        "title": "Gen AI Development Intern",
+        "source": "vanshb03",
+        "id": "c7ca3c18-cabb-406a-9550-9e12e6f2d0c6",
+        "date_posted": 1742323633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323634,
+        "url": "https://redirect.cvrve.me/0dc9e8f4f2df8e94604d",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SonicWall",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "20fb7319-4b67-44d7-ace7-6377157a04d7",
+        "date_posted": 1742323634,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323637,
+        "url": "https://redirect.cvrve.me/39ed07ac0a94b2d1ee1b",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trellis Company",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "38dd6431-fda5-4152-bca2-eea480dec5fd",
+        "date_posted": 1742323637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323638,
+        "url": "https://redirect.cvrve.me/e2698ceb05ea50a317fd",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "G2",
+        "title": "Ruby on Rails Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b4f5d8dc-09ae-4493-82c0-8655940c7465",
+        "date_posted": 1742323638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323639,
+        "url": "https://redirect.cvrve.me/c356c505b707403067b9",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "G2",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "98dca96f-1da2-40a4-bb65-22d8e3f6fcaa",
+        "date_posted": 1742323639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323641,
+        "url": "https://redirect.cvrve.me/a37b0efe3d3905b37072",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spothero",
+        "title": "Mobile Engineer Intern, Android",
+        "source": "vanshb03",
+        "id": "92633d77-edcb-4975-8c3a-107c5a04d973",
+        "date_posted": 1742323641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323643,
+        "url": "https://redirect.cvrve.me/77f4e15f43f3de7c3168",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Posit",
+        "title": "Software Engineer Intern, Connect",
+        "source": "vanshb03",
+        "id": "f4d2db95-8f8b-46b3-88c6-5bc53402e628",
+        "date_posted": 1742323643,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323645,
+        "url": "https://redirect.cvrve.me/f21c8d1b7526cf455775",
+        "locations": [
+            "San Ramon, CA",
+            "San Mateo, CA",
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Franklin Templeton",
+        "title": "Digital Technology Intern, AI - Undergrad",
+        "source": "vanshb03",
+        "id": "07f34245-b1f7-4842-9ea7-aa68be9c93c9",
+        "date_posted": 1742323645,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323646,
+        "url": "https://redirect.cvrve.me/e16dda8937af263912f9",
+        "locations": [
+            "San Ramon, CA",
+            "New York, NY",
+            "Short Hills, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Franklin Templeton",
+        "title": "AI & Digital Transformation Intern - Undergrad",
+        "source": "vanshb03",
+        "id": "af3198bb-2888-42e8-9f87-fb7bfb81baad",
+        "date_posted": 1742323646,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323647,
+        "url": "https://redirect.cvrve.me/cb10a04b0f85dd1cf0f1",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Franklin Templeton",
+        "title": "HNW Wealth Management Technology Intern - Undergrad",
+        "source": "vanshb03",
+        "id": "3025fc61-5b88-47e7-9b81-c95914cd8a02",
+        "date_posted": 1742323647,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323649,
+        "url": "https://redirect.cvrve.me/e6eb7ebbeee847406094",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Franklin Templeton",
+        "title": "Enterprise Data & Analytics Intern - Undergrad",
+        "source": "vanshb03",
+        "id": "4a0a1e89-afde-4c8a-8a65-cfa96084e40d",
+        "date_posted": 1742323649,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323650,
+        "url": "https://redirect.cvrve.me/c63188cfad95975d55c4",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NRECA",
+        "title": "Artificial Intelligence Applications Intern",
+        "source": "vanshb03",
+        "id": "67f3224c-e963-435a-9b84-d9555b5867b9",
+        "date_posted": 1742323650,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742323652,
+        "url": "https://redirect.cvrve.me/5f4720e89f84acef1b15",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acuity",
+        "title": "Front End Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ab55c343-d198-404f-b837-7dd20f1c99de",
+        "date_posted": 1742323652,
+        "company_url": "",
+        "is_visible": true
     }
 ]
