@@ -67,6 +67,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pitney Bowes | Presort Data Product Engineering Intern | Shelton, CT | <a href="https://redirect.cvrve.me/692ea448ec8e7e8ea0a0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | ↳ | Software Engineering Intern | Shelton, CT | <a href="https://redirect.cvrve.me/28bf84c3d6d5363c2902?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | Pico | C Developer Intern | Woburn, MA | <a href="https://redirect.cvrve.me/c455ee4359bf0a67f738?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
+| Philips | Embedded Test Engineer Intern | Murrysville, PA | <a href="http://redirect.cvrve.me/e3eaf7718fe3e15fd90b?utm_source=intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | Hunt | Software Developer Intern | Dallas, TX | <a href="https://redirect.cvrve.me/aab4e6ab0f0523f4afac?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | HARMAN | Software Engineering Intern | Novi, MI | <a href="https://redirect.cvrve.me/6675b4f2f2795d239ed5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | ↳ | Web Tools Intern | Novi, MI | <a href="https://redirect.cvrve.me/e6ca3ce8fa3dd0010a1f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
