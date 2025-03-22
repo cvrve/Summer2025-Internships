@@ -70838,5 +70838,56 @@
         "date_posted": 1742603754,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1742603779,
+        "url": "http://redirect.cvrve.me/2b0a0b265bfa391b3597?utm_source=intern",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE HEALTHCARE",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "d2b9a9d2-b007-41d3-b3d7-235067d42478",
+        "date_posted": 1742603779,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742603877,
+        "url": "http://redirect.cvrve.me/28ac7920e71e25c1da77?utm_source=intern",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Programmer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "ebfb54f2-7959-4d20-b2ee-99ec19e152b9",
+        "date_posted": 1742603877,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742604025,
+        "url": "http://redirect.cvrve.me/8a7f73a904e8fc662266?utm_source=intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "AI Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "af1880b6-a2ec-47ef-a541-1fe143ba29d4",
+        "date_posted": 1742604025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
