@@ -46,6 +46,27 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Walter P Moore | Software Developer Intern | Austin, TX | <a href="https://redirect.cvrve.me/51eaa2c82f4c0ffa9ca3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| Versant Health | IT ePMO Intern | Remote | <a href="https://redirect.cvrve.me/0400b117f0eaa1776abf?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | IT Application Development Intern | Remote | <a href="https://redirect.cvrve.me/f5f1abf932f3ee1674f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| Vantage | Software Engineering Intern | New York, NY | <a href="https://redirect.cvrve.me/b8b09bb5ae4bc17d9597?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| UTZ Brands | Web Development Intern | Remote</br>Hanover, PA | <a href="https://redirect.cvrve.me/65ad0062ead78e0476eb?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | IT Infrastructure Intern | Hanover, PA | <a href="https://redirect.cvrve.me/7832144b1c673448cef4?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| Norstella | Software Engineering Intern | Remote | <a href="https://redirect.cvrve.me/29ef749fc48ae20d3649?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Software Engineering / Machine Learning Intern | Remote | <a href="https://redirect.cvrve.me/45032db4aa04e441f632?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| Crestron Electronics | Software Engineering Intern, Device Drivers | Plano, TX | <a href="https://redirect.cvrve.me/063793bb0b68b78ff0c9?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Firmware Engineering Intern, BSP | Plano, TX | <a href="https://redirect.cvrve.me/637380368adc0c4195d7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Firmware Engineering Intern, Test Automation | Rockleigh, NJ | <a href="https://redirect.cvrve.me/44eb1deb0d4ba32a05f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | FQuality Engineering Intern, UC Windows | Rockleigh, NJ | <a href="https://redirect.cvrve.me/4f425fd279ab8909d6e8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| BigHat Biosciences | Data Science Intern | San Mateo, CA | <a href="https://redirect.cvrve.me/9ee7d5b6c45d13c94cf3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Machine Learning Intern | San Mateo, CA | <a href="https://redirect.cvrve.me/83fdc2fe3318cc760f22?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| AssetWorks | Software Test Automation Engineer Intern | Plano, TX | <a href="https://redirect.cvrve.me/03b762c37d362018992c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Software Development Intern | Plano, TX | <a href="https://redirect.cvrve.me/382f10dc871575173742?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ASSA ABLOY | Firmware Engineering Intern | Lake Forest, CA | <a href="https://redirect.cvrve.me/ba4c48effacd6acf115e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ABC Fitness | IT Corporate Apps Intern | Remote | <a href="https://redirect.cvrve.me/0b2562bdceb182e651ec?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Software Engineer Intern, SQL Development | Remote | <a href="https://redirect.cvrve.me/5471da065754a24001a8?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Software Development Intern, Full Stack | Remote | <a href="https://redirect.cvrve.me/4f84f9f7bd51de52f86b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
+| ↳ | Software Development Intern, Java | Remote | <a href="https://redirect.cvrve.me/a8208bdbb7a2df862d26?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
 | Wurl | Full Stack Software Engineer Intern Intern | Remote | <a href="https://redirect.cvrve.me/ab075088d5f5b2a95cc0?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | World Kinect | Technology Intern | Miami, FL | <a href="https://redirect.cvrve.me/af3f021d7c89a65a0445?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
 | WM | Software Engineer Intern, Collections Operations Optimization Center | Houston, TX | <a href="https://redirect.cvrve.me/72ba1f423072d608f8fa?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 21 |
