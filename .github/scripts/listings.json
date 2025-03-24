@@ -70906,5 +70906,363 @@
         "date_posted": 1742604148,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1742850930,
+        "url": "https://redirect.cvrve.me/83fdc2fe3318cc760f22",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BigHat Biosciences",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "11a81468-7360-4733-b888-520cffae9185",
+        "date_posted": 1742850930,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850932,
+        "url": "https://redirect.cvrve.me/9ee7d5b6c45d13c94cf3",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BigHat Biosciences",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "c803eb02-b0f3-4cfa-a2c9-f9bf96bdad93",
+        "date_posted": 1742850932,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850933,
+        "url": "https://redirect.cvrve.me/51eaa2c82f4c0ffa9ca3",
+        "locations": [
+            "Austin, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walter P Moore",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "da91a609-af4a-4a78-9a2f-f0dda6e39539",
+        "date_posted": 1742850933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850934,
+        "url": "https://redirect.cvrve.me/382f10dc871575173742",
+        "locations": [
+            "Plano, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AssetWorks",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "a553be3e-46a9-4091-b193-8cb1c2ac5d91",
+        "date_posted": 1742850934,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850935,
+        "url": "https://redirect.cvrve.me/03b762c37d362018992c",
+        "locations": [
+            "Plano, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AssetWorks",
+        "title": "Software Test Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "5a655acb-4439-4034-a04f-db9334b879c4",
+        "date_posted": 1742850935,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850937,
+        "url": "https://redirect.cvrve.me/45032db4aa04e441f632",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Norstella",
+        "title": "Software Engineering / Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "5355b675-0241-441e-8f8b-f8d090e300b9",
+        "date_posted": 1742850937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850938,
+        "url": "https://redirect.cvrve.me/29ef749fc48ae20d3649",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Norstella",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "04b66c47-aaf3-4d70-9778-1e5feeca8045",
+        "date_posted": 1742850938,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850939,
+        "url": "https://redirect.cvrve.me/a8208bdbb7a2df862d26",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "Software Development Intern, Java",
+        "source": "vanshb03",
+        "id": "2fdf18ba-0d97-4712-8dd3-3c5721a4946c",
+        "date_posted": 1742850939,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850941,
+        "url": "https://redirect.cvrve.me/4f84f9f7bd51de52f86b",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "Software Development Intern, Full Stack",
+        "source": "vanshb03",
+        "id": "1b009f7b-a30a-410e-8e3c-440b1448ef96",
+        "date_posted": 1742850941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850942,
+        "url": "https://redirect.cvrve.me/5471da065754a24001a8",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "Software Engineer Intern, SQL Development",
+        "source": "vanshb03",
+        "id": "4ff7f907-76d6-4383-804d-0ab12f21a5da",
+        "date_posted": 1742850942,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850944,
+        "url": "https://redirect.cvrve.me/0b2562bdceb182e651ec",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "IT Corporate Apps Intern",
+        "source": "vanshb03",
+        "id": "d04d805c-bb8f-4439-9c35-155ff58b0859",
+        "date_posted": 1742850944,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850945,
+        "url": "https://redirect.cvrve.me/f5f1abf932f3ee1674f5",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Versant Health",
+        "title": "IT Application Development Intern",
+        "source": "vanshb03",
+        "id": "6c088e5c-4e08-48b4-8d7d-b02a4b831e07",
+        "date_posted": 1742850945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850946,
+        "url": "https://redirect.cvrve.me/0400b117f0eaa1776abf",
+        "locations": [
+            "Remote"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Versant Health",
+        "title": "IT ePMO Intern",
+        "source": "vanshb03",
+        "id": "8acaca08-565f-426d-a303-a4ce0253b2a2",
+        "date_posted": 1742850946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850947,
+        "url": "https://redirect.cvrve.me/4f425fd279ab8909d6e8",
+        "locations": [
+            "Rockleigh, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crestron Electronics",
+        "title": "FQuality Engineering Intern, UC Windows",
+        "source": "vanshb03",
+        "id": "d25f87e3-d9ed-41a8-946f-cd9d6367bcbd",
+        "date_posted": 1742850947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850948,
+        "url": "https://redirect.cvrve.me/44eb1deb0d4ba32a05f3",
+        "locations": [
+            "Rockleigh, NJ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crestron Electronics",
+        "title": "Firmware Engineering Intern, Test Automation",
+        "source": "vanshb03",
+        "id": "f31acb5f-f184-4d42-a7ec-1d887de8b355",
+        "date_posted": 1742850948,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850950,
+        "url": "https://redirect.cvrve.me/637380368adc0c4195d7",
+        "locations": [
+            "Plano, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crestron Electronics",
+        "title": "Firmware Engineering Intern, BSP",
+        "source": "vanshb03",
+        "id": "bf5929f0-b268-4531-83cc-9060a1956911",
+        "date_posted": 1742850950,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850951,
+        "url": "https://redirect.cvrve.me/063793bb0b68b78ff0c9",
+        "locations": [
+            "Plano, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crestron Electronics",
+        "title": "Software Engineering Intern, Device Drivers",
+        "source": "vanshb03",
+        "id": "5d606aeb-b74e-4708-889b-62926e9742fc",
+        "date_posted": 1742850951,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850951,
+        "url": "https://redirect.cvrve.me/ba4c48effacd6acf115e",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASSA ABLOY",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "8f02aaca-3800-4f4d-b364-638dd54d45e1",
+        "date_posted": 1742850951,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850952,
+        "url": "https://redirect.cvrve.me/7832144b1c673448cef4",
+        "locations": [
+            "Hanover, PA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UTZ Brands",
+        "title": "IT Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "f34b2823-2421-4e1f-a2e8-c357d01ce311",
+        "date_posted": 1742850952,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850953,
+        "url": "https://redirect.cvrve.me/65ad0062ead78e0476eb",
+        "locations": [
+            "Remote",
+            "Hanover, PA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UTZ Brands",
+        "title": "Web Development Intern",
+        "source": "vanshb03",
+        "id": "e4ef0ffd-d7d5-4a8c-97e6-d80e1aa7dbe9",
+        "date_posted": 1742850953,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1742850954,
+        "url": "https://redirect.cvrve.me/b8b09bb5ae4bc17d9597",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vantage",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "fdeaf98a-d41a-4273-9cc1-6b83a8473c16",
+        "date_posted": 1742850954,
+        "company_url": "",
+        "is_visible": true
     }
 ]
