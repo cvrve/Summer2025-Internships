@@ -71264,22 +71264,5 @@
         "date_posted": 1742850954,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1743068694,
-        "url": "http://redirect.cvrve.me/0b05016600db405ca13e",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Chewy",
-        "title": "Software Engineer I",
-        "season": "Summer",
-        "source": "cvrve-bot",
-        "id": "d2aa559a-3118-4ac3-b775-da64d2468225",
-        "date_posted": 1743068694,
-        "company_url": "",
-        "is_visible": true
     }
 ]
