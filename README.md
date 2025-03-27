@@ -46,7 +46,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Chewy | Software Engineer I | Bellevue, WA | <a href="http://redirect.cvrve.me/0b05016600db405ca13e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 27 |
 | Walter P Moore | Software Developer Intern | Austin, TX | <a href="https://redirect.cvrve.me/51eaa2c82f4c0ffa9ca3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
 | Versant Health | IT ePMO Intern | Remote | <a href="https://redirect.cvrve.me/0400b117f0eaa1776abf?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
 | ↳ | IT Application Development Intern | Remote | <a href="https://redirect.cvrve.me/f5f1abf932f3ee1674f5?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 24 |
