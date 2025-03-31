@@ -46,6 +46,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NetApp | Software Engineer Intern, Generative AI | San Jose, CA | <a href="https://redirect.cvrve.me/9b050ed475b73cf3579e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| ↳ | IT Software Engineer Intern | RTP, NC | <a href="https://redirect.cvrve.me/661a00d08bd716617cf6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| ↳ | Software Engineer Intern | <details><summary>**5 locations**</summary>Boulder, CO</br>Cranberry, PA</br>RTP, NC</br>San Jose, CA</br>Witchita, KS</details> | <a href="https://redirect.cvrve.me/8a532df796e17b4eee9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| ↳ | Solution Engineer Intern | <details><summary>**4 locations**</summary>RTP, NC</br>New York, NY</br>San Jose, CA</br>Vienna, VA</details> | <a href="https://redirect.cvrve.me/cece320b25bca545c96a?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| ↳ | Information Technology Intern | RTP, NC | <a href="https://redirect.cvrve.me/c5105af32aca56374398?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| Lumentum | Software Engineering Intern | San Jose, CA | <a href="https://redirect.cvrve.me/a87204e2c2e609e2642f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| Docusign | Software Engineer Intern | Seattle, WA | <a href="https://redirect.cvrve.me/0b7352ed8110032efc8e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| Definitive Healthcare | Data Intern | Framingham, MA | <a href="https://redirect.cvrve.me/af379e7a090bf923b984?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| Avande | Software Developer Intern | Chicago, IL</br>Houston, TX</br>Seattle, WA | <a href="https://redirect.cvrve.me/996a9ae5c87f8f5359a3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | Veolia | Data Analyst Intern | Paramus, NJ | <a href="https://redirect.cvrve.me/59ef624f7e1b296b5b78?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 28 |
 | TrustLab | Python Developer Intern, Internal Tools | Pal Alto, CA | <a href="https://redirect.cvrve.me/d9946cb63f97352e8eee?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 28 |
 | Tatari | Data Science Analyst Intern | Los Angeles, CA | <a href="https://redirect.cvrve.me/427ac3802a35cea8fff7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 28 |
