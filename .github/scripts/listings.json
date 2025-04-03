@@ -72004,5 +72004,22 @@
         "date_posted": 1743412290,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743687694,
+        "url": "http://redirect.cvrve.me/a7f4b951c8f19e2a07dd",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canon",
+        "title": "Software Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "dbe96361-db5f-4ed8-9714-49b3eebb3aa7",
+        "date_posted": 1743687694,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Canon | Software Intern | Irvine, CA | <a href="http://redirect.cvrve.me/a7f4b951c8f19e2a07dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 | NetApp | Software Engineer Intern, Generative AI | San Jose, CA | <a href="https://redirect.cvrve.me/9b050ed475b73cf3579e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | ↳ | IT Software Engineer Intern | RTP, NC | <a href="https://redirect.cvrve.me/661a00d08bd716617cf6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | ↳ | Software Engineer Intern | <details><summary>**5 locations**</summary>Boulder, CO</br>Cranberry, PA</br>RTP, NC</br>San Jose, CA</br>Witchita, KS</details> | <a href="https://redirect.cvrve.me/8a532df796e17b4eee9b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
