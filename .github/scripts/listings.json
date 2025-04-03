@@ -72055,5 +72055,23 @@
         "date_posted": 1743687818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743687889,
+        "url": "http://redirect.cvrve.me/982908f336184dcce06c",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Concentrix",
+        "title": "Database SRE Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "f0a5081f-83e5-4f10-bf5e-51e3549826bc",
+        "date_posted": 1743687889,
+        "company_url": "",
+        "is_visible": true
     }
 ]

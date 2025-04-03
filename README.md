@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | i3 | Medical Software Intern | Huntsville, AL | <a href="http://redirect.cvrve.me/2a2b3a8194050c94e7d3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
+| Concentrix | Database SRE Intern | Remote</br>US | <a href="http://redirect.cvrve.me/982908f336184dcce06c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 | Canon | Software Intern | Irvine, CA | <a href="http://redirect.cvrve.me/a7f4b951c8f19e2a07dd?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 | NetApp | Software Engineer Intern, Generative AI | San Jose, CA | <a href="https://redirect.cvrve.me/9b050ed475b73cf3579e?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | ↳ | IT Software Engineer Intern | RTP, NC | <a href="https://redirect.cvrve.me/661a00d08bd716617cf6?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
