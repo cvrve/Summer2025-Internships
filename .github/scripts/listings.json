@@ -72073,5 +72073,22 @@
         "date_posted": 1743687889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1743688117,
+        "url": "http://redirect.cvrve.me/d016a7bf1c29cfe2c63c",
+        "locations": [
+            "Montvale, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Benjamin Moore",
+        "title": "DevOps Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "1f21d7c0-0598-4131-8179-5a9f7b1ab6d4",
+        "date_posted": 1743688117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
