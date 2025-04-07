@@ -1,6 +1,6 @@
-# Spring & Fall 2025 Tech Internships by Ouckah & Cvrve
+# Spring & Fall 2025 Tech Internships by Ouckah & Vansh
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Spring & Fall 2025**. The list is maintained collaboratively by [cvrve](https://cvrve.me) and [CSCareers](https://discord.gg/cscareers)!
+The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Spring & Fall 2025/2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
 
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
