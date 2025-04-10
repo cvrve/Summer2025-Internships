@@ -72510,5 +72510,24 @@
         "date_posted": 1744269580,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269769,
+        "url": "https://jobs.ashbyhq.com/olive/113c9846-0310-44f1-bf10-4a8fed8c53be",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Olive - YC",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "634c8f16-ba5f-4386-a0d4-b05e4a9f148d",
+        "date_posted": 1744269769,
+        "company_url": "",
+        "is_visible": true
     }
 ]
