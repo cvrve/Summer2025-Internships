@@ -72476,5 +72476,22 @@
         "date_posted": 1744269392,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269433,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--NGC-Data-Platform---Fall-2025_JR1990285",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, NGC Data Platform - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "25ed1b44-e5ed-4988-bbb0-192fe1f83d19",
+        "date_posted": 1744269433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
