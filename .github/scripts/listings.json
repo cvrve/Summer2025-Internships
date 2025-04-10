@@ -72493,5 +72493,22 @@
         "date_posted": 1744269433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269580,
+        "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6790014",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Artisan Partners",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4f033b31-7a5c-4693-9a29-b192ebaac6fd",
+        "date_posted": 1744269580,
+        "company_url": "",
+        "is_visible": true
     }
 ]
