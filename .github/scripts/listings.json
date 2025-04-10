@@ -24587,7 +24587,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "IBM",
-        "title": "Software Engineer – Large Scale Language Models Intern",
+        "title": "Software Engineer \u2013 Large Scale Language Models Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "62709401-4d48-4adf-b5dd-10527dc5d24e",
@@ -24607,7 +24607,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "IBM",
-        "title": "Software Engineer – AI-powered Automation Intern",
+        "title": "Software Engineer \u2013 AI-powered Automation Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "c59b16b0-402c-49ee-8b5e-35097ace6942",
@@ -24627,7 +24627,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "IBM",
-        "title": "Software Engineer – Semiconductor Intern",
+        "title": "Software Engineer \u2013 Semiconductor Intern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "8527ced7-4766-4cf5-a847-84bf4e24b7f7",
@@ -36238,7 +36238,7 @@
         "sponsorship": "Other",
         "active": false,
         "company_name": "The Aerospace Corporation",
-        "title": "Embedded Specialized Compute Engineering Intern",
+        "title": "Embedded Specialized Compute Engineering\u202fIntern",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "231e0f08-c910-4179-9dfd-e37a3c4007b6",
@@ -56473,7 +56473,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Jabil",
-        "title": "Data Science Intern – AI/ML",
+        "title": "Data Science Intern \u2013 AI/ML",
         "season": "Summer",
         "source": "cvrve-bot",
         "id": "087e5d00-f6bb-4405-b38f-902b88f7604d",
@@ -57781,7 +57781,7 @@
         "season": "Summer",
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Schrödinger",
+        "company_name": "Schr\u00f6dinger",
         "title": "Software Development Intern, PyMOL",
         "source": "vanshb03",
         "id": "e617f60b-a4f8-4813-a40a-89f44f9a8e25",
@@ -58200,7 +58200,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Mondelēz International",
+        "company_name": "Mondel\u0113z International",
         "title": "Digital Solutions Intern",
         "season": "Summer",
         "source": "cvrve-bot",
@@ -72299,7 +72299,7 @@
         "date_updated": 1744262309,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/DevOps-Intern_R12165",
         "locations": [
-          "Draper, UT"
+            "Draper, UT"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72316,7 +72316,7 @@
         "date_updated": 1744262351,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12140?q=Intern",
         "locations": [
-          "Sunnyvale, CA"
+            "Sunnyvale, CA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72333,9 +72333,9 @@
         "date_updated": 1744263426,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12140?q=Intern",
         "locations": [
-          "Sunnyvale, CA",
-          "Pittsburgh, PA",
-          "Draper, UT"
+            "Sunnyvale, CA",
+            "Pittsburgh, PA",
+            "Draper, UT"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72352,7 +72352,7 @@
         "date_updated": 1744263457,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern_R12158?q=Intern",
         "locations": [
-          "Sunnyvale, CA"
+            "Sunnyvale, CA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72369,12 +72369,12 @@
         "date_updated": 1744263518,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/California/Security-Research-Engineer-Intern_R12161?q=Intern",
         "locations": [
-          "Sunnyvale, CA",
-          "Austin, TX",
-          "Draper, UT",
-          "Newton, MA",
-          "Greenwood Village, CO",
-          "Pittsburgh, PA"
+            "Sunnyvale, CA",
+            "Austin, TX",
+            "Draper, UT",
+            "Newton, MA",
+            "Greenwood Village, CO",
+            "Pittsburgh, PA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72391,12 +72391,12 @@
         "date_updated": 1744263656,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/California/Threat-Detection-Engineer-Intern_R12162-1?q=Intern",
         "locations": [
-          "Sunnyvale, CA",
-          "Austin, TX",
-          "Draper, UT",
-          "Newton, MA",
-          "Greenwood Village, CO",
-          "Pittsburgh, PA"
+            "Sunnyvale, CA",
+            "Austin, TX",
+            "Draper, UT",
+            "Newton, MA",
+            "Greenwood Village, CO",
+            "Pittsburgh, PA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72406,6 +72406,23 @@
         "source": "vanshb03",
         "id": "77e09d20-c8eb-4ad5-ae91-b567a9969acf",
         "date_posted": 1744263656,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269252,
+        "url": "https://jobs.jobvite.com/careers/nutanix/job/otcOvfwI",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c8d1713a-04dc-4dc3-b59e-969411ea7bc9",
+        "date_posted": 1744269252,
         "company_url": "",
         "is_visible": true
     }
