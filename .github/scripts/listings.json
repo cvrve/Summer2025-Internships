@@ -72459,5 +72459,22 @@
         "date_posted": 1744269363,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269392,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Summer-2025_JR1989482",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Server Firmware Manageability Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d3343afa-ec93-4233-b3f2-9f2f58e38a1c",
+        "date_posted": 1744269392,
+        "company_url": "",
+        "is_visible": true
     }
 ]
