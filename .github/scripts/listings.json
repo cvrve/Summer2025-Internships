@@ -72716,5 +72716,22 @@
         "date_posted": 1744271564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271648,
+        "url": "https://careers.amd.com/careers-home/jobs/63596/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op - Masters - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2a7705a7-5237-4734-b75f-d1ccc91fa159",
+        "date_posted": 1744271648,
+        "company_url": "",
+        "is_visible": true
     }
 ]
