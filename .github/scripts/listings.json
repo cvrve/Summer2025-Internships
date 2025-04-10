@@ -72580,5 +72580,22 @@
         "date_posted": 1744269903,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744270025,
+        "url": "https://apply.ukg.com/careers/job/893380942580",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UKG",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e7f865d-d913-4bbf-af21-8daee3f5e9a3",
+        "date_posted": 1744270025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
