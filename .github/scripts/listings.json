@@ -72733,5 +72733,22 @@
         "date_posted": 1744271648,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271721,
+        "url": "https://www.tesla.com/careers/search/job/240980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Red Team Security Engineer, Vehicle Software Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744271721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
