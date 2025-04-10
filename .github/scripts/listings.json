@@ -72665,5 +72665,22 @@
         "date_posted": 1744270686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271326,
+        "url": "https://www.tesla.com/careers/search/job/240982",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer, Cell Manufacturing Software Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "48cc21d4-8358-4679-84f5-96cdd216ff04",
+        "date_posted": 1744271326,
+        "company_url": "",
+        "is_visible": true
     }
 ]
