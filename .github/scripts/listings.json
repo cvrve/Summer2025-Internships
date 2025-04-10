@@ -72767,5 +72767,22 @@
         "date_posted": 1744271804,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271845,
+        "url": "https://careers-calamp.icims.com/jobs/4162/job",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CalAmp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f43cc627-7d06-465d-a6d2-656c42b8d26c",
+        "date_posted": 1744271845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
