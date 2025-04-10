@@ -72682,5 +72682,22 @@
         "date_posted": 1744271326,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271371,
+        "url": "https://www.tesla.com/careers/search/job/240953",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Haskell Software Developer, Vehicle Firmware Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "92a37e8d-7652-4f27-bf5d-c829fca1ffca",
+        "date_posted": 1744271371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
