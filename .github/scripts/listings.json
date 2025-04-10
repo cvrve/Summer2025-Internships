@@ -72818,5 +72818,22 @@
         "date_posted": 1744272276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744317983,
+        "url": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bridgewater Associates",
+        "title": "Campus Investment Engineer Intern - 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "17f808e1-d403-486f-882a-af94e5855f70",
+        "date_posted": 1744317983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
