@@ -72631,5 +72631,22 @@
         "date_posted": 1744270531,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744270638,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Platform-Software-Engineer-Intern--Summer-2025_JR1994801",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "DGX Cloud Platform Software Engineer Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "215b6640-da35-4ecb-b60e-5bb35d10efe5",
+        "date_posted": 1744270638,
+        "company_url": "",
+        "is_visible": true
     }
 ]
