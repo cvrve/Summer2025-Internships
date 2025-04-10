@@ -72614,5 +72614,22 @@
         "date_posted": 1744270494,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744270531,
+        "url": "https://jobs.citizensbank.com/job/-/-/288/79796233088",
+        "locations": [
+            "Johnston, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2fb53f6a-b206-436b-90f7-238534491598",
+        "date_posted": 1744270531,
+        "company_url": "",
+        "is_visible": true
     }
 ]
