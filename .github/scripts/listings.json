@@ -72563,5 +72563,22 @@
         "date_posted": 1744269875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269903,
+        "url": "https://careers.unitedregional.org/en/sites/unitedregionalcareers/job/10835",
+        "locations": [
+            "Wichita Falls, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United Regional Health Care System, Inc",
+        "title": "Robotic Process Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "55388c06-7ae2-40fe-9165-bb4424a83a46",
+        "date_posted": 1744269903,
+        "company_url": "",
+        "is_visible": true
     }
 ]
