@@ -72546,5 +72546,22 @@
         "date_posted": 1744269824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269875,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR32259-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b830c26b-77a5-4724-8d71-adca02957374",
+        "date_posted": 1744269875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
