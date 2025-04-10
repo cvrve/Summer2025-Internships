@@ -72699,5 +72699,22 @@
         "date_posted": 1744271371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744271564,
+        "url": "https://jobs.ashbyhq.com/delinea/c20f90dc-e242-4431-b2ee-559d4f4c359a",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delinea",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "628a0ac6-3853-44a9-9c1d-72d03263ea10",
+        "date_posted": 1744271564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
