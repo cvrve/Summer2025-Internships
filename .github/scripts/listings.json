@@ -72529,5 +72529,22 @@
         "date_posted": 1744269769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269824,
+        "url": "https://jobs.jobvite.com/careers/gigamon/job/ocANvfwO",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gigamon",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "01243566-e82b-4c5e-9fa1-e8b5cda9ca14",
+        "date_posted": 1744269824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
