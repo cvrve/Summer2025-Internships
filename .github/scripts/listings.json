@@ -72597,5 +72597,22 @@
         "date_posted": 1744270025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744270494,
+        "url": "https://jobs.ametek.com/job/Herndon-Software-Engineering-Intern-VA-20171/1280672200/",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ametek",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09271a80-b8c1-417a-b9f2-a74cd885d11c",
+        "date_posted": 1744270494,
+        "company_url": "",
+        "is_visible": true
     }
 ]
