@@ -72442,5 +72442,22 @@
         "date_posted": 1744269311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269363,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering_JR011519",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveRamp",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "daffaaa2-2b25-4be7-8686-749ffecf0c96",
+        "date_posted": 1744269363,
+        "company_url": "",
+        "is_visible": true
     }
 ]
