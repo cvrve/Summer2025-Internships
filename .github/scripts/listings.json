@@ -72835,5 +72835,22 @@
         "date_posted": 1744317983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744342983,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4552477005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Software Engineer Intern - Design Systems",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f1be8b00-1a7e-4714-bdb5-005f6042797f",
+        "date_posted": 1744342983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
