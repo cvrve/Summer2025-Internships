@@ -72903,5 +72903,22 @@
         "date_posted": 1744344423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744344471,
+        "url": "https://careers.servicenow.com/jobs/744000053195651/intern-associate-software-engineer/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e46b1271-25e4-446d-af16-cde0857db7a2",
+        "date_posted": 1744344471,
+        "company_url": "",
+        "is_visible": true
     }
 ]
