@@ -72869,5 +72869,22 @@
         "date_posted": 1744343324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744344371,
+        "url": "https://careers.heb.com/jobs/154916/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HEB",
+        "title": "Software Engineer Intern, React - Highschool",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "222ec0fe-f27c-43f0-b965-2bb9dc4a9c27",
+        "date_posted": 1744344371,
+        "company_url": "",
+        "is_visible": true
     }
 ]
