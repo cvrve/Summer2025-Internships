@@ -72960,7 +72960,7 @@
         "date_updated": 1744399051,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Summer-2025_JR1989683?utm_source=Simplify&ref=Simplify",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -72970,6 +72970,23 @@
         "source": "vanshb03",
         "id": "d4c8dc83-9ab9-4fcb-b15e-b52cac6fd8c0",
         "date_posted": 1744399051,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744415850,
+        "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/4705090007",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Forward Deployed Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "571453c0-ff90-4d35-8824-1b1b1346893f",
+        "date_posted": 1744415850,
         "company_url": "",
         "is_visible": true
     }
