@@ -72937,5 +72937,23 @@
         "date_posted": 1744344619,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744344789,
+        "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4592512008",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lawyer",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "14e84d92-d8c6-4038-89cd-f5b93d73a64e",
+        "date_posted": 1744344789,
+        "company_url": "",
+        "is_visible": true
     }
 ]
