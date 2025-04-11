@@ -72852,5 +72852,22 @@
         "date_posted": 1744342983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744343324,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4552718005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Content Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "45a320f9-c0ad-4664-b73f-ffb36c077a77",
+        "date_posted": 1744343324,
+        "company_url": "",
+        "is_visible": true
     }
 ]
