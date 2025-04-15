@@ -72989,5 +72989,22 @@
         "date_posted": 1744415850,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744678805,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000053727625-summer-2025-intern-failure-analysis-engineering",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Failure Analysis Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dd44ba0c-ecf1-4b2f-b7fe-1c1a60784098",
+        "date_posted": 1744678805,
+        "company_url": "",
+        "is_visible": true
     }
 ]

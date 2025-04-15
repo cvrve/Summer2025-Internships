@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Western Digital | Failure Analysis Engineering Intern | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000053727625-summer-2025-intern-failure-analysis-engineering?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | NVIDIA | Deep Learning Server Software Intern, DGX | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Summer-2025_JR1989683?utm_source=Simplify&ref=Simplify&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | Arcesium | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/arcesiumllc/jobs/4705090007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | VulcanForms | Software Engineering Intern | Devens, MA | <a href="https://vulcanforms.bamboohr.com/careers/446?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
