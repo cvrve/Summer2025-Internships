@@ -73006,5 +73006,56 @@
         "date_posted": 1744678805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744736753,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--Distributed-Systems---Summer-2025_JR1994245?source=Appcast_Indeedo&ittk=ACUDO4ISHS",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Systems Software Engineering Intern, Distributed Systems",
+        "source": "vanshb03",
+        "id": "228d2ead-dea0-456a-a33c-b771d96457ce",
+        "date_posted": 1744736753,
+        "company_url": "",
+        "is_visible": true
+      },
+      {
+        "date_updated": 1744736754,
+        "url": "https://www.tesla.com/careers/search/job/240980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Android Engineer, Mobile Software Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744736754,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744736784,
+        "url": "https://www.tesla.com/careers/search/job/241088",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack C++ Engineer, Vehicle User Interface Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744736784,
+        "company_url": "",
+        "is_visible": true
     }
 ]
