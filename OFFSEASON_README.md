@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Fullstack C++ Engineer, Vehicle User Interface Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241088?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
+| ↳ | Android Engineer, Mobile Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | UKG | Software Engineering Intern - Fall | Seattle, WA | <a href="https://apply.ukg.com/careers/job/893380942580?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Tesla | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240953?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Fullstack Engineer, Cell Manufacturing Software Intern - Fall | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/240982?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
