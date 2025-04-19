@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vilya | Software Engineer Intern | Seattle, WA | <a href="https://ats.rippling.com/en-GB/vilya/jobs/6db26c59-6a82-4b43-b726-39dbe9d5b8a2?applicant_guid&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | ZEISS | Advanced Development & Design Research Intern - Cloud Computing | Dublin, CA | <a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Cloud-Computing_JR_1040760-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Advanced Development & Design Research Intern - Image Quality | Dublin, CA | <a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Image-Quality_JR_1040761?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Advanced Development & Design Research Intern - Detectors | Dublin, CA | <a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Detectors_JR_1040759-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |

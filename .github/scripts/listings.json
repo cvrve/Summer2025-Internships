@@ -73011,7 +73011,7 @@
         "date_updated": 1744736753,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--Distributed-Systems---Summer-2025_JR1994245?source=Appcast_Indeedo&ittk=ACUDO4ISHS",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Summer",
         "sponsorship": "Other",
@@ -73023,8 +73023,8 @@
         "date_posted": 1744736753,
         "company_url": "",
         "is_visible": true
-      },
-      {
+    },
+    {
         "date_updated": 1744736754,
         "url": "https://www.tesla.com/careers/search/job/240980",
         "locations": [
@@ -73370,6 +73370,23 @@
         "source": "vanshb03",
         "id": "f2f611cb-25d6-4233-8146-76d744c5ff8c",
         "date_posted": 1744737194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745094248,
+        "url": "https://ats.rippling.com/en-GB/vilya/jobs/6db26c59-6a82-4b43-b726-39dbe9d5b8a2?applicant_guid",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vilya",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2c55bccd-351f-4583-9081-3d1d7d57e70b",
+        "date_posted": 1745094248,
         "company_url": "",
         "is_visible": true
     }
