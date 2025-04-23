@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://jobs.colgate.com/job/Piscataway-Software-Development-Internship-NJ/1284061400/?feedId=173900&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 22 |
 | Vilya | Software Engineer Intern | Seattle, WA | <a href="https://ats.rippling.com/en-GB/vilya/jobs/6db26c59-6a82-4b43-b726-39dbe9d5b8a2?applicant_guid&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | Kalderos | Data Engineering Intern | Boston, MA | <a href="https://www.kalderos.com/company/job-board?gh_jid=6548373003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | ZEISS | Advanced Development & Design Research Intern - Cloud Computing | Dublin, CA | <a href="https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Cloud-Computing_JR_1040760-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
