@@ -73423,5 +73423,124 @@
         "date_posted": 1745380897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745624832,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Shoreline Backend Engineering Intern - Fall",
+        "source": "vanshb03",
+        "id": "acda8b70-db75-4a20-bbdb-e012785707ef",
+        "date_posted": 1745624832,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624911,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Management-Intern--CUDA---Fall-2025_JR1993871?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Technical Product Management Intern, CUDA - Fall",
+        "source": "vanshb03",
+        "id": "d053a73c-d06b-497a-8f8c-888c77bffa61",
+        "date_posted": 1745624911,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624946,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Robotics Software Intern, Robotics Platform - Fall",
+        "source": "vanshb03",
+        "id": "4faabb7f-a1d3-43c2-bc0b-22a0c2317860",
+        "date_posted": 1745624946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Physics-ML-Research-Intern---Fall-2025_JR1996924?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Applied Physics ML Research Intern - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Storage-Infrastructure---Fall-2025_JR1996386?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, AI Storage Infrastructure - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Deep-Learning-Accelerator---Fall-2025_JR1996923?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, Deep Learning Accelerator - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--GPU-Communications-and-Networking---Fall-2025_JR1996389?q=Fall&source=jobboardlinkedin&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+          "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, GPU Communications and Networking - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
     }
 ]
