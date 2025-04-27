@@ -73428,7 +73428,7 @@
         "date_updated": 1745624832,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73445,7 +73445,7 @@
         "date_updated": 1745624911,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Management-Intern--CUDA---Fall-2025_JR1993871?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73462,7 +73462,7 @@
         "date_updated": 1745624946,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73479,7 +73479,7 @@
         "date_updated": 1745624976,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Physics-ML-Research-Intern---Fall-2025_JR1996924?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73496,7 +73496,7 @@
         "date_updated": 1745624976,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Storage-Infrastructure---Fall-2025_JR1996386?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73513,7 +73513,7 @@
         "date_updated": 1745624976,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Deep-Learning-Accelerator---Fall-2025_JR1996923?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73530,7 +73530,7 @@
         "date_updated": 1745624976,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--GPU-Communications-and-Networking---Fall-2025_JR1996389?q=Fall&source=jobboardlinkedin&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
-          "Santa Clara, CA"
+            "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
@@ -73540,6 +73540,23 @@
         "source": "vanshb03",
         "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
         "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745724228,
+        "url": "https://jobs.ashbyhq.com/sauron/8023f4f1-4ef4-4bc0-ac2d-7337ac0a11e3",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sauron",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f11b0afa-3340-418f-8565-d22d31c2dd5c",
+        "date_posted": 1745724228,
         "company_url": "",
         "is_visible": true
     }
