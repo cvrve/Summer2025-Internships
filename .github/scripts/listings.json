@@ -73559,5 +73559,30 @@
         "date_posted": 1745724228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1745877660,
+        "url": "https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Palo Alto, CA",
+            "Atlanta, GA",
+            "Boston, MA",
+            "New York, NY",
+            "Burlington, MA",
+            "Dallas, TX",
+            "Indianapolis, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern - 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1b7298f8-3be1-4373-b3bf-352687108161",
+        "date_posted": 1745877660,
+        "company_url": "",
+        "is_visible": true
     }
 ]
