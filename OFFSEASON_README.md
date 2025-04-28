@@ -43,6 +43,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Software Engineer Intern, Thermal & Chassis Analytics | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242048?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
+| ↳ | Data Analytics Intern, Supply Chain | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/240190?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
+| ↳ | Software Engineering Intern, Applications Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242108?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | TD Bank | Active Trader Segment Intern/Co-op | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Active-Trader-Segment-Intern-Co-op--Fall-2025-_R_1410919?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | ↳ | Mobile Software Engineer Intern/Co-op | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op_R_1412266?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | ↳ | Software Engineer Intern/Co-op | Toronto, Canada | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1412258?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
