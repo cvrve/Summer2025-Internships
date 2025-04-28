@@ -73925,5 +73925,56 @@
         "date_posted": 1745882092,
         "company_url": "",
         "is_visible": true
+    },
+  {
+    "date_updated": 1745882292,
+    "url": "https://www.tesla.com/careers/search/job/242048",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "season": "Fall",
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "Software Engineer Intern, Thermal & Chassis Analytics",
+    "source": "vanshb03",
+    "id": "1215e6cd-e15e-4e2b-9a9a-5ac26ba4421d",
+    "date_posted": 1745882292,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1745882292,
+    "url": "https://www.tesla.com/careers/search/job/240190",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "season": "",
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "Data Analytics Intern, Supply Chain",
+    "source": "vanshb03",
+    "id": "0a210bf2-0cf5-4f0d-ae75-bde69f1fdf7d",
+    "date_posted": 1745882292,
+    "company_url": "",
+    "is_visible": true
+  },
+  {
+    "date_updated": 1745882292,
+    "url": "https://www.tesla.com/careers/search/job/242108",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "season": "Fall",
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Tesla",
+    "title": "Software Engineering Intern, Applications Engineering",
+    "source": "vanshb03",
+    "id": "c04684dd-bc32-47e2-9c45-931871138b2a",
+    "date_posted": 1745882292,
+    "company_url": "",
+    "is_visible": true
     }
 ]
