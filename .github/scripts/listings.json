@@ -74455,5 +74455,22 @@
         "date_posted": 1746114921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746123755,
+        "url": "https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d0966d46-3fb0-4dd0-8970-b784acc028e7",
+        "date_posted": 1746123755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
