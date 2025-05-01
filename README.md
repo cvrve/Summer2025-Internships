@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Teradyne | Software Engineering Intern | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2025-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1287519100/?feedId=320000&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | ServiceNow | Software Quality Engineer Intern | Santa Clara, CA | <a href="https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Uhaul | SQL Data Analyst Intern | Tempe, AZ | <a href="https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/SQL-Data-Analyst-Intern_R218345?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | Highspot | Associate Engineer Intern | Seattle, WA | <a href="https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
