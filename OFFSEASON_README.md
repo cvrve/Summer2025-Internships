@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242174?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | Rocket Lab USA | Flight Software Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/6546477003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | Nokia | Analytics/Next-Gen AI Co-op/Intern | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20116?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |

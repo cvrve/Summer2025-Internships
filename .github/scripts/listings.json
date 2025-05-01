@@ -73994,448 +73994,466 @@
         "company_url": "",
         "is_visible": true
     },
-  {
-    "date_updated": 1745978620,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158287",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Leidos",
-    "title": "Junior Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "3be5ccf6-dadd-408f-b80a-b8cc39a6210c",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158286",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Leidos",
-    "title": "Junior Software Engineer Intern",
-    "source": "vanshb03",
-    "id": "3a9990f0-aeb5-4442-b672-86090ceff120",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
-    "locations": [
-      "Urbana, IL"
-    ],
-    "season": "Spring",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Brunswick",
-    "title": "Computer Graphics Software Developer Intern",
-    "source": "vanshb03",
-    "id": "db6ad7ce-aa64-4f3c-b0d4-fe0391a2ce4b",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20177",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nokia",
-    "title": "Next-Gen AI Co-op/Intern",
-    "source": "vanshb03",
-    "id": "cb99a2a3-6cf3-415e-9c54-57667f9afc2b",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20172",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nokia",
-    "title": "Analytics/Next-Gen AI Co-op/Intern",
-    "source": "vanshb03",
-    "id": "2655718e-1faa-4c96-9fe8-59ff7d0ac5f1",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Data-Scientist-Intern_R027795",
-    "locations": [
-      "Remote",
-      "US"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Ciena",
-    "title": "Data Scientist Intern",
-    "source": "vanshb03",
-    "id": "6dbb4970-494f-4a9e-b2c8-4c8a868ce1b7",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000056483405",
-    "locations": [
-      "Durham, NC"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Intuitive Surgical",
-    "title": "Software Engineering Co-op",
-    "source": "vanshb03",
-    "id": "93f3fb9d-673d-4bc7-9333-cb12562ccea6",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://job-boards.greenhouse.io/veranahealth/jobs/7975863002",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Verana Health",
-    "title": "Data Engineer Co-Op",
-    "source": "vanshb03",
-    "id": "7f0e5654-14e1-4dad-beff-e32efa7ba22d",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineering-Intern--GenAI---Fall-2025_JR1993478",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Software Engineering Intern - GenAI",
-    "source": "vanshb03",
-    "id": "e79696f5-7e9d-4793-b4ff-84d74be73948",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20258",
-    "locations": [
-      "Ottawa, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nokia",
-    "title": "AI Agent Developer Co-op/Intern",
-    "source": "vanshb03",
-    "id": "547a93d7-fedb-4265-ab80-2e8bf18d1c07",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20170",
-    "locations": [
-      "Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nokia",
-    "title": "Analytics/Next-Gen AI Co-op/Intern",
-    "source": "vanshb03",
-    "id": "1beba774-15f6-4a7e-8cad-7a024276f4d6",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://jobs.lever.co/aledade/8465e84c-791c-4253-8cf2-e3de4a240a38/apply",
-    "locations": [
-      "Remote",
-      "US"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Aledade",
-    "title": "Web Analyst Intern",
-    "source": "vanshb03",
-    "id": "e026af5a-346a-4a95-9be6-c68dfb9aecc7",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Quantitative-Analyst-Intern_023848",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Mr. Cooper",
-    "title": "Quantitative Analyst Intern",
-    "source": "vanshb03",
-    "id": "d883a7f9-5037-403a-bf54-0dd46c4b5bc7",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
+    {
+        "date_updated": 1745978620,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158287",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3be5ccf6-dadd-408f-b80a-b8cc39a6210c",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Science-Intern_R2513571",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Applied Materials",
-      "title": "Data Science Intern",
-      "source": "vanshb03",
-      "id": "988ad074-8752-4b95-a175-765a54fcd11d",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00158286",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3a9990f0-aeb5-4442-b672-86090ceff120",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://jobs.ashbyhq.com/articul8/229af139-7ceb-4f27-9bb2-f9bd96df03b2/application",
-      "locations": [
-        "Dublin, CA"
-      ],
-      "season": "",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Articul8",
-      "title": "Intern \u2013 Software Engineer",
-      "source": "vanshb03",
-      "id": "26589c93-5f94-4e08-9501-9e3bd8bb4798",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "season": "Spring",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Computer Graphics Software Developer Intern",
+        "source": "vanshb03",
+        "id": "db6ad7ce-aa64-4f3c-b0d4-fe0391a2ce4b",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20116",
-      "locations": [
-        "Canada"
-      ],
-      "season": "Fall",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Nokia",
-      "title": "Analytics/Next-Gen AI Co-op/Intern",
-      "source": "vanshb03",
-      "id": "0ba0fa66-2616-45c4-8e29-93f77b9ba928",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20177",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "cb99a2a3-6cf3-415e-9c54-57667f9afc2b",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Engineer_R148783",
-      "locations": [
-        "New York, NY"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Adobe",
-      "title": "Software Engineer Intern",
-      "source": "vanshb03",
-      "id": "9765d799-64ac-42ad-9eb1-d28ecc950bea",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20172",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Analytics/Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "2655718e-1faa-4c96-9fe8-59ff7d0ac5f1",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Portland-Oregon/Software-Intern_R0010870",
-      "locations": [
-        "Portland, OR"
-      ],
-      "season": "",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Cognex",
-      "title": "Software Intern",
-      "source": "vanshb03",
-      "id": "18354658-8d4c-4ee2-8bb5-c461381f4c81",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Data-Scientist-Intern_R027795",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "6dbb4970-494f-4a9e-b2c8-4c8a868ce1b7",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20178",
-      "locations": [
-        "Canada"
-      ],
-      "season": "Fall",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Nokia",
-      "title": "Next-Gen AI Co-op/Intern",
-      "source": "vanshb03",
-      "id": "e073e597-779a-4057-afe3-2870ab647324",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000056483405",
+        "locations": [
+            "Durham, NC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive Surgical",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "93f3fb9d-673d-4bc7-9333-cb12562ccea6",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://job-boards.greenhouse.io/deepintent/jobs/5530250004",
-      "locations": [
-        "NYC"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "DeepIntent",
-      "title": "AI Engineering Intern",
-      "source": "vanshb03",
-      "id": "cd901093-a7bc-4676-93b2-ba510a06a4bf",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://job-boards.greenhouse.io/veranahealth/jobs/7975863002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verana Health",
+        "title": "Data Engineer Co-Op",
+        "source": "vanshb03",
+        "id": "7f0e5654-14e1-4dad-beff-e32efa7ba22d",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6546477003",
-      "locations": [
-        "Long Beach, CA"
-      ],
-      "season": "Fall",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Rocket Lab USA",
-      "title": "Flight Software Intern",
-      "source": "vanshb03",
-      "id": "9dcda7c1-3a85-4af4-9794-087ec04ac6d3",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineering-Intern--GenAI---Fall-2025_JR1993478",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern - GenAI",
+        "source": "vanshb03",
+        "id": "e79696f5-7e9d-4793-b4ff-84d74be73948",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20180",
-      "locations": [
-        "Canada"
-      ],
-      "season": "Fall",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Nokia",
-      "title": "Next-Gen AI Co-op/Intern",
-      "source": "vanshb03",
-      "id": "a5a63ae9-3135-460a-ac8b-4a13bfac6f55",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20258",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "AI Agent Developer Co-op/Intern",
+        "source": "vanshb03",
+        "id": "547a93d7-fedb-4265-ab80-2e8bf18d1c07",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/SQL-Data-Analyst-Intern_R218345",
-      "locations": [
-        "Tempe, AZ"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Uhaul",
-      "title": "SQL Data Analyst Intern",
-      "source": "vanshb03",
-      "id": "a484a958-abb0-4d84-8dd9-ec62282f791b",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20170",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Analytics/Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "1beba774-15f6-4a7e-8cad-7a024276f4d6",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Highspot",
-      "title": "Associate Engineer Intern",
-      "source": "vanshb03",
-      "id": "08dce30e-89b3-4f96-9a34-baf23014876f",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://jobs.lever.co/aledade/8465e84c-791c-4253-8cf2-e3de4a240a38/apply",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aledade",
+        "title": "Web Analyst Intern",
+        "source": "vanshb03",
+        "id": "e026af5a-346a-4a95-9be6-c68dfb9aecc7",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Provider-Data-Reporting-Intern_R-45583",
-      "locations": [
-        "Chattanooga, TN"
-      ],
-      "season": "Summer",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "BlueCross BlueShied of Tennessee",
-      "title": "Provider Data Reporting Intern",
-      "source": "vanshb03",
-      "id": "9a55adbe-d053-441f-9993-382959428f75",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1745978620,
+        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Quantitative-Analyst-Intern_023848",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mr. Cooper",
+        "title": "Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "d883a7f9-5037-403a-bf54-0dd46c4b5bc7",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
     },
     {
-      "date_updated": 1746053933,
-      "url": "https://www.tesla.com/careers/search/job/242174",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "season": "Fall",
-      "sponsorship": "Other",
-      "active": true,
-      "company_name": "Tesla",
-      "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
-      "source": "vanshb03",
-      "id": "0f93d6d6-11ed-4d23-9dba-0ef86b8ec003",
-      "date_posted": 1746053933,
-      "company_url": "",
-      "is_visible": true
+        "date_updated": 1746053933,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Science-Intern_R2513571",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "988ad074-8752-4b95-a175-765a54fcd11d",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://jobs.ashbyhq.com/articul8/229af139-7ceb-4f27-9bb2-f9bd96df03b2/application",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "season": "",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Articul8",
+        "title": "Intern \u2013 Software Engineer",
+        "source": "vanshb03",
+        "id": "26589c93-5f94-4e08-9501-9e3bd8bb4798",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20116",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Analytics/Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "0ba0fa66-2616-45c4-8e29-93f77b9ba928",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Engineer_R148783",
+        "locations": [
+            "New York, NY"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9765d799-64ac-42ad-9eb1-d28ecc950bea",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Portland-Oregon/Software-Intern_R0010870",
+        "locations": [
+            "Portland, OR"
+        ],
+        "season": "",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "18354658-8d4c-4ee2-8bb5-c461381f4c81",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20178",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "e073e597-779a-4057-afe3-2870ab647324",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://job-boards.greenhouse.io/deepintent/jobs/5530250004",
+        "locations": [
+            "NYC"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DeepIntent",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "cd901093-a7bc-4676-93b2-ba510a06a4bf",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6546477003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lab USA",
+        "title": "Flight Software Intern",
+        "source": "vanshb03",
+        "id": "9dcda7c1-3a85-4af4-9794-087ec04ac6d3",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20180",
+        "locations": [
+            "Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Next-Gen AI Co-op/Intern",
+        "source": "vanshb03",
+        "id": "a5a63ae9-3135-460a-ac8b-4a13bfac6f55",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/SQL-Data-Analyst-Intern_R218345",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uhaul",
+        "title": "SQL Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "a484a958-abb0-4d84-8dd9-ec62282f791b",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highspot",
+        "title": "Associate Engineer Intern",
+        "source": "vanshb03",
+        "id": "08dce30e-89b3-4f96-9a34-baf23014876f",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Provider-Data-Reporting-Intern_R-45583",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlueCross BlueShied of Tennessee",
+        "title": "Provider Data Reporting Intern",
+        "source": "vanshb03",
+        "id": "9a55adbe-d053-441f-9993-382959428f75",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://www.tesla.com/careers/search/job/242174",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
+        "source": "vanshb03",
+        "id": "0f93d6d6-11ed-4d23-9dba-0ef86b8ec003",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746114921,
+        "url": "https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Software Engineer Intern/Co-op - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "9c9979a3-2c8e-44a7-9ba5-442e4b3aa898",
+        "date_posted": 1746114921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
