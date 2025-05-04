@@ -74489,5 +74489,22 @@
         "date_posted": 1746123860,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746373101,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/6856157",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f38ae76-80bf-438d-8aec-374bb98b5c9a",
+        "date_posted": 1746373101,
+        "company_url": "",
+        "is_visible": true
     }
 ]
