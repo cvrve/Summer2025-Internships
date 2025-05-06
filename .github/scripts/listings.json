@@ -74558,5 +74558,22 @@
         "date_posted": 1746564839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746564874,
+        "url": "https://job-boards.greenhouse.io/iherb/jobs/6565266003?gh_src=051ec5f33us",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "iHerb",
+        "title": "Software Developer Intern - Backend",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "86572c34-7319-410e-81ba-8d24292c7e8f",
+        "date_posted": 1746564874,
+        "company_url": "",
+        "is_visible": true
     }
 ]
