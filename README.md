@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nimble | Software Engineer Intern - Fall | Redwood City, CA | <a href="https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | Skyryse | Software Engineer Intern | Los Angeles, CA | <a href="https://job-boards.greenhouse.io/skyryse/jobs/6856157?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 04 |
 | Teradyne | Software Engineering Intern | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2025-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1287519100/?feedId=320000&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | ServiceNow | Software Quality Engineer Intern | Santa Clara, CA | <a href="https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
