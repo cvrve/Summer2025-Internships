@@ -74575,5 +74575,22 @@
         "date_posted": 1746564874,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746564957,
+        "url": "https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Site-Reliability-Engineer-Intern_54148-1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gen",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dcc1afad-ee03-43c2-acb1-76e172ba9dac",
+        "date_posted": 1746564957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
