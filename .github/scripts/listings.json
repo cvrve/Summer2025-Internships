@@ -74626,5 +74626,22 @@
         "date_posted": 1746565065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746565196,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000303666/part-time-intern-engineering/",
+        "locations": [
+            "Mossville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Part-Time Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bf925395-7c2e-4b02-bfad-e5aa01d986eb",
+        "date_posted": 1746565196,
+        "company_url": "",
+        "is_visible": true
     }
 ]
