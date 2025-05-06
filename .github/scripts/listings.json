@@ -74609,5 +74609,22 @@
         "date_posted": 1746564998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746565065,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/AMA_Careers/job/Hampton-VA/Artificial-Intelligence-Intern_R-100277",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AMA",
+        "title": "Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "872dd2e6-ae41-42c3-bc5b-5126ca6e1cd7",
+        "date_posted": 1746565065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
