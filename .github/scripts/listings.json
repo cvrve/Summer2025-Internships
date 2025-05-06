@@ -74592,5 +74592,22 @@
         "date_posted": 1746564957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746564998,
+        "url": "https://activision.wd1.myworkdayjobs.com/en-US/External/job/Sherman-Oaks/Machine-Learning-Security-Intern_R024774-1",
+        "locations": [
+            "Sherman Oaks, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision",
+        "title": "Machine Learning Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74f6389e-5718-47fe-9789-4fd4b8236a2a",
+        "date_posted": 1746564998,
+        "company_url": "",
+        "is_visible": true
     }
 ]
