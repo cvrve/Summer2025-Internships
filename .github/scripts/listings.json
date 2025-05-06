@@ -74523,5 +74523,22 @@
         "date_posted": 1746564690,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746564783,
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Battelle",
+        "title": "Cyber Trust & Analytics Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "43089dc6-3361-46dc-8b75-f4957eb8e54b",
+        "date_posted": 1746564783,
+        "company_url": "",
+        "is_visible": true
     }
 ]
