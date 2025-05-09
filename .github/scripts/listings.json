@@ -74643,5 +74643,447 @@
         "date_posted": 1746565196,
         "company_url": "",
         "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Data-Governance-Analyst-Co-op---Fall-2025_JR25050378",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Manulife",
+      "title": "Data Governance Analyst Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "3e39daf2-d787-496d-b84a-43947c835525",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/4670658008",
+      "locations": [
+        "Boston, MA"
+      ],
+      "season": "",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "QuEra Computing",
+      "title": "Scientific Software Intern",
+      "source": "vanshb03",
+      "id": "0a576b11-d387-41c8-8ca0-364280b7fac9",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Summer-Software-Engineering-Co-op_R17359",
+      "locations": [
+        "Solon, OH"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "nVent",
+      "title": "op Intern",
+      "source": "vanshb03",
+      "id": "ba756834-abe2-4e99-a713-4570afbacf9f",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49943-2",
+      "locations": [
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Cadence Design Systems",
+      "title": "Software Engineering Intern",
+      "source": "vanshb03",
+      "id": "83ca46c4-8a11-4653-86d1-126df308c803",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R410773",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Machine Learning Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "888ba9ac-546e-4616-9a31-fe1e391e9785",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Development-Intern--San-Jose--CA_R2024-2430",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Elekta",
+      "title": "Software Development Intern",
+      "source": "vanshb03",
+      "id": "6faa748c-0e25-4010-a03e-e9d22ea5fb07",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Automation-Engineer-Co-op_R411014",
+      "locations": [
+        "Mt Laurel Township, NJ"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Automation Engineer Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "5f9ddb48-fbe1-4e35-8ad7-d9263fa51ebb",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R410983",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Aegis/Iris Software Development Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "97d61aa1-21b9-4960-b19a-e5453d4c92e0",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Innovation-Labs-Co-op_R410776",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Innovation Labs Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "bdfbbe15-8e99-4f2c-86da-49d5eabe5814",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410418",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Software Engineer Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "71516eb5-765d-4677-acb8-f1b672257976",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Software Engineer Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "c11c73bf-0aae-40d0-8ca6-09934fffb8f5",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Program-Delivery-Co-op_R410992",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Data Program Delivery Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "c1bc516e-3b8d-4ee8-93e7-1eba23f7ccb1",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410997",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Software Engineer Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "732a1623-0bf1-4e02-866e-6c17cc16b4ec",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410777",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Software Engineer Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "b537df60-09a5-4401-8c46-ed3c6c87caae",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49944-1",
+      "locations": [
+        "Austin, TX"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Cadence Design Systems",
+      "title": "Software Engineering Intern",
+      "source": "vanshb03",
+      "id": "8c0c49cb-03c9-4bc6-a114-17c17c28fc80",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://careers.formlabs.com/job/6830690/apply/?gh_jid=6830690",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Formlabs",
+      "title": "Hardware Systems Engineering Intern",
+      "source": "vanshb03",
+      "id": "69e4d7a5-0445-4dde-9159-f45d631d09b6",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Aquatic Capital Management",
+      "title": "Quantitative Researcher Intern",
+      "source": "vanshb03",
+      "id": "d6bbeef2-67fd-4cc5-9a81-519792823b38",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-DevX-Portfolio-Co-op_R410406",
+      "locations": [
+        "West Chester, PA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Comcast",
+      "title": "Comcast Devx Portfolio Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "e52b8b55-854a-41b6-980c-7f1f5feba037",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://www.tesla.com/careers/search/job/242661",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Tesla",
+      "title": "Performance Modeling Engineer Intern, Dojo",
+      "source": "vanshb03",
+      "id": "ea970ccb-fe15-4803-8bc4-fada40b952b6",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://www.tesla.com/careers/search/job/242665",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Tesla",
+      "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+      "source": "vanshb03",
+      "id": "10aedcdc-1e0a-4dc2-a3f1-5f91accfc05b",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://job-boards.greenhouse.io/later/jobs/7989112002",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Later",
+      "title": "Data Analyst Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "b7cb4661-6808-4855-b828-5a7477aeab77",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Business-Intelligence-Analyst-Co-op---Fall-2025_JR25050371",
+      "locations": [
+        "Kitchener, ON, Canada"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Manulife",
+      "title": "Business Intelligence Analyst Intern, Co-Op",
+      "source": "vanshb03",
+      "id": "efe4e7b4-8036-44f8-86a5-17d0fe681bf7",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://jobs.lever.co/stackadapt/62f59dd6-8766-4fee-9615-f26895c1852a/apply",
+      "locations": [
+        "Remote in Canada"
+      ],
+      "season": "",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "StackAdapt",
+      "title": "Data Analyst Intern",
+      "source": "vanshb03",
+      "id": "658f880e-61c5-4195-9b2c-59da97fc9544",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern_JR-0075878",
+      "locations": [
+        "Grand Rapids, MI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "KION",
+      "title": "Software Engineer Intern",
+      "source": "vanshb03",
+      "id": "79de5488-67e4-4417-879f-1e05e0abf2e9",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://www.tesla.com/careers/search/job/242482",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Tesla",
+      "title": "Hardware Design Engineer Intern, Silicon Development",
+      "source": "vanshb03",
+      "id": "63c3ec90-6819-4286-82d1-d8b26e5d9e6e",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746749561,
+      "url": "https://www.tesla.com/careers/search/job/236327",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Tesla",
+      "title": "Fullstack Engineer Intern, Design Technology",
+      "source": "vanshb03",
+      "id": "00a9a871-e645-4168-95f3-b7ee3d9d8225",
+      "date_posted": 1746749561,
+      "company_url": "",
+      "is_visible": true
     }
 ]
