@@ -75085,5 +75085,260 @@
       "date_posted": 1746749561,
       "company_url": "",
       "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0219628",
+      "locations": [
+        "Fayetteville, NC"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Booz Allen",
+      "title": "University Intern, Systems Engineer",
+      "source": "vanshb03",
+      "id": "657891b7-fbe1-4bb8-b260-d3065c1485fe",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Research-Engineering-Intern_JR0275474-1",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Intel",
+      "title": "AI Research Engineering Intern",
+      "source": "vanshb03",
+      "id": "ae7e1f57-01ad-466d-989e-71a9bc0e0393",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/AI-Digital-Technology-Intern_R5009391",
+      "locations": [
+        "Sharonville, OH"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "GE Aerospace",
+      "title": "AI Digital Technology Intern",
+      "source": "vanshb03",
+      "id": "b7324132-01bb-47bc-8064-97fbfcc0dac7",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00159032",
+      "locations": [
+        "Remote"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Leidos",
+      "title": "Technical Intern",
+      "source": "vanshb03",
+      "id": "677f9c04-784d-4671-8642-21b07bf93330",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Corporate-Intern_JR-02146986",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Lowe's ",
+      "title": "Corporate Intern",
+      "source": "vanshb03",
+      "id": "7fdcae15-6553-41de-9c2b-ad278bf7c9e9",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Financial-Data-Analyst-College-Co-Op_JREQ-216100",
+      "locations": [
+        "Detroit, MI"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "American Axle & Manufacturing",
+      "title": "Financial Data Analyst College Co-op Intern",
+      "source": "vanshb03",
+      "id": "ec67140f-26c6-4b01-acd2-66971df328b1",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://jobs.ashbyhq.com/Commure-Athelas/b48a9b63-c86d-4ddb-8212-32d598bdbecd/application",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Commure",
+      "title": "Software Engineering Intern, Rcm Core",
+      "source": "vanshb03",
+      "id": "9ed811c9-a48a-4fb2-906c-0870986fe6d5",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/California-United-States-Remote/FPGA-IP-Software-Development-Engineer-Intern_R00764",
+      "locations": [
+        "California"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Altera Corporation",
+      "title": "FPGA IP Software Development Engineer Intern",
+      "source": "vanshb03",
+      "id": "f8e21781-4173-46cd-86e2-b6ab3df7fa7e",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20681",
+      "locations": [
+        "Naperville, IL"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Nokia",
+      "title": "Session Border Controller R&D Intern",
+      "source": "vanshb03",
+      "id": "c864b7ff-fbcd-4d4b-b71b-156ad911c57d",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00159046",
+      "locations": [
+        "Arlington, VA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Leidos",
+      "title": "Software Engineering Intern",
+      "source": "vanshb03",
+      "id": "b2012c08-3394-4ed6-b17f-f10b7a5e4d88",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000058636185",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Western Digital",
+      "title": "Servo Firmware Intern",
+      "source": "vanshb03",
+      "id": "725f2651-87d3-4d3a-8fd2-9670d3621ec7",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://www.tesla.com/careers/search/job/242741",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Tesla",
+      "title": "ML Performance Software Engineer Intern, Dojo",
+      "source": "vanshb03",
+      "id": "7bcdc721-8d15-4da0-a500-1df62973c094",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045",
+      "locations": [
+        "Berkeley Heights, NJ"
+      ],
+      "season": "Fall",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Nokia",
+      "title": "Hardware Development Co-op Intern",
+      "source": "vanshb03",
+      "id": "6581432c-9c44-46ee-ab32-1767dab90051",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://jobs.lever.co/economicmodeling/4d61f491-69d0-498c-891f-7833b0f09368/apply",
+      "locations": [
+        "Moscow, ID"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Lightcast",
+      "title": "Software Engineering Intern",
+      "source": "vanshb03",
+      "id": "caba5cc7-5160-4234-84ab-527a70ab602c",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
+    },
+    {
+      "date_updated": 1746908794,
+      "url": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/XMLNAME-2025-US-Summer-Internships---AI-Engineering---Infinity-Ward_R025309",
+      "locations": [
+        "Canoga Park, LA"
+      ],
+      "season": "Summer",
+      "sponsorship": "Other",
+      "active": true,
+      "company_name": "Activision-Blizzard",
+      "title": "AI Engineering Intern, Infinity Ward",
+      "source": "vanshb03",
+      "id": "68e70709-f00d-4510-9ccd-a2694a9905eb",
+      "date_posted": 1746908794,
+      "company_url": "",
+      "is_visible": true
     }
 ]
