@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Snowflake | Software Engineer Intern (Core Engineering) | Menlo Park, CA | <a href="https://careers.snowflake.com/us/en/job/SNCOUS1ECD6729D4D744D7ADB3BCD438B54E27EXTERNALENUSD606671FAB0C4305B901CDD4E66DEA76/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Nokia | Hardware Development Co-op Intern | Berkeley Heights, NJ | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 10 |
 | Tesla | Performance Modeling Engineer Intern, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242661?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
