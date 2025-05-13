@@ -75357,5 +75357,22 @@
         "date_posted": 1747169933,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747170022,
+        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20929",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Chubb",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SitaaronKL",
+        "id": "05eca357-96ed-4237-8856-663e86b4ba78",
+        "date_posted": 1747170022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
