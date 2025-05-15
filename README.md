@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242996?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Brex | Software Engineer Intern | New York, NY | <a href="https://www.brex.com/careers/7985666002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Chubb | Software Engineer Intern | Jersey City, NJ | <a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Western Digital | Servo Firmware Intern | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000058636185?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 10 |
