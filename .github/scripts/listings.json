@@ -75408,5 +75408,23 @@
         "date_posted": 1747299682,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299758,
+        "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f9d5d5dc-57e7-43af-94d5-e95a41e1d8f6",
+        "date_posted": 1747299758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
