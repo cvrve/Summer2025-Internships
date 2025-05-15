@@ -75374,5 +75374,22 @@
         "date_posted": 1747170022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299637,
+        "url": "https://www.brex.com/careers/7985666002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brex",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9045402-c439-4d24-af19-52a10bc3df7c",
+        "date_posted": 1747299637,
+        "company_url": "",
+        "is_visible": true
     }
 ]
