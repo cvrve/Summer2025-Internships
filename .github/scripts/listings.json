@@ -75443,5 +75443,23 @@
         "date_posted": 1747650526,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747650566,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Camera-Systems-Software-Engineering-Intern---Fall-2025_JR1993696",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Camera Systems Software Engineering Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "89befab7-7063-452c-9106-c08b889497fb",
+        "date_posted": 1747650566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
