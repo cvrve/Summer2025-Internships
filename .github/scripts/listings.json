@@ -75426,5 +75426,22 @@
         "date_posted": 1747299758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747650526,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Fall-2025_JR1990592",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Server Software Intern, DGX - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7ec6ba77-9a92-4f2a-ae29-93c7b68f2e16",
+        "date_posted": 1747650526,
+        "company_url": "",
+        "is_visible": true
     }
 ]
