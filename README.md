@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| OpenAI | Software Engineer Intern/Co-Op, Applied Engineering | San Francisco, CA</br>Seattle, WA | <a href="https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Tesla | Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242996?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Brex | Software Engineer Intern | New York, NY | <a href="https://www.brex.com/careers/7985666002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Chubb | Software Engineer Intern | Jersey City, NJ | <a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
