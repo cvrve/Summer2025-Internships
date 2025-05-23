@@ -75479,5 +75479,22 @@
         "date_posted": 1747930183,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748032363,
+        "url": "https://jobs.bytedance.com/en/position/7507012740722166023/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d7aa2e63-f377-4348-860c-b1a223a7c273",
+        "date_posted": 1748032363,
+        "company_url": "",
+        "is_visible": true
     }
 ]
