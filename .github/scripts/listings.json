@@ -268,23 +268,6 @@
     "is_visible": true
   },
   {
-    "date_updated": 1744269392,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Summer-2025_JR1989482",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Server Firmware Manageability Intern",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "d3343afa-ec93-4233-b3f2-9f2f58e38a1c",
-    "date_posted": 1744269392,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
     "date_updated": 1744269433,
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--NGC-Data-Platform---Fall-2025_JR1990285",
     "locations": [
@@ -366,23 +349,6 @@
     "source": "vanshb03",
     "id": "09271a80-b8c1-417a-b9f2-a74cd885d11c",
     "date_posted": 1744270494,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744270638,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Platform-Software-Engineer-Intern--Summer-2025_JR1994801",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "DGX Cloud Platform Software Engineer Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "215b6640-da35-4ecb-b60e-5bb35d10efe5",
-    "date_posted": 1744270638,
     "company_url": "",
     "is_visible": true
   },
@@ -536,57 +502,6 @@
     "source": "vanshb03",
     "id": "e46b1271-25e4-446d-af16-cde0857db7a2",
     "date_posted": 1744344471,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744399051,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Summer-2025_JR1989683?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Deep Learning Server Software Intern, DGX",
-    "source": "vanshb03",
-    "id": "d4c8dc83-9ab9-4fcb-b15e-b52cac6fd8c0",
-    "date_posted": 1744399051,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744678805,
-    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000053727625-summer-2025-intern-failure-analysis-engineering",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Western Digital",
-    "title": "Failure Analysis Engineering Intern",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "dd44ba0c-ecf1-4b2f-b7fe-1c1a60784098",
-    "date_posted": 1744678805,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744736753,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--Distributed-Systems---Summer-2025_JR1994245?source=Appcast_Indeedo&ittk=ACUDO4ISHS",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Systems Software Engineering Intern, Distributed Systems",
-    "source": "vanshb03",
-    "id": "228d2ead-dea0-456a-a33c-b771d96457ce",
-    "date_posted": 1744736753,
     "company_url": "",
     "is_visible": true
   },
@@ -1436,40 +1351,6 @@
     "is_visible": true
   },
   {
-    "date_updated": 1746123755,
-    "url": "https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "ServiceNow",
-    "title": "Software Quality Engineer Intern",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "d0966d46-3fb0-4dd0-8970-b784acc028e7",
-    "date_posted": 1746123755,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746123860,
-    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2025-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1287519100/?feedId=320000",
-    "locations": [
-      "North Reading, MA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Teradyne",
-    "title": "Software Engineering Intern",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "9d0ca4fb-8004-4317-a2c0-dd5be8522d8a",
-    "date_posted": 1746123860,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
     "date_updated": 1746564690,
     "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce",
     "locations": [
@@ -1619,23 +1500,6 @@
     "title": "Scientific Software Intern",
     "source": "vanshb03",
     "id": "0a576b11-d387-41c8-8ca0-364280b7fac9",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49943-2",
-    "locations": [
-      "Austin, TX"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Cadence Design Systems",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "83ca46c4-8a11-4653-86d1-126df308c803",
     "date_posted": 1746749561,
     "company_url": "",
     "is_visible": true
@@ -1806,23 +1670,6 @@
     "title": "Comcast Software Engineer Intern, Co-Op",
     "source": "vanshb03",
     "id": "b537df60-09a5-4401-8c46-ed3c6c87caae",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49944-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Cadence Design Systems",
-    "title": "Software Engineering Intern",
-    "source": "vanshb03",
-    "id": "8c0c49cb-03c9-4bc6-a114-17c17c28fc80",
     "date_posted": 1746749561,
     "company_url": "",
     "is_visible": true
