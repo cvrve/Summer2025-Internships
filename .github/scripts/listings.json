@@ -1,1035 +1,1052 @@
 [
-  {
-    "date_updated": 1744270686,
-    "url": "https://www.tesla.com/careers/search/job/241053",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Software Controls Engineer Intern, Optimus - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "06a66d4b-7139-4aee-9563-e08f6ac6b339",
-    "date_posted": 1744270686,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744271371,
-    "url": "https://www.tesla.com/careers/search/job/240953",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Haskell Software Developer, Vehicle Firmware Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "92a37e8d-7652-4f27-bf5d-c829fca1ffca",
-    "date_posted": 1744271371,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744271648,
-    "url": "https://careers.amd.com/careers-home/jobs/63596/job",
-    "locations": [
-      "Austin, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "AMD",
-    "title": "Software Engineering Intern/Co-op - Masters - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "2a7705a7-5237-4734-b75f-d1ccc91fa159",
-    "date_posted": 1744271648,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744271721,
-    "url": "https://www.tesla.com/careers/search/job/240980",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Red Team Security Engineer, Vehicle Software Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
-    "date_posted": 1744271721,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744271804,
-    "url": "https://careers.amd.com/careers-home/jobs/63597/job",
-    "locations": [
-      "Austin, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "AMD",
-    "title": "Firmware Engineering Intern/ Co-Op - Masters - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "3fecf134-032b-4b09-98ca-8d107579837d",
-    "date_posted": 1744271804,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744317983,
-    "url": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002",
-    "locations": [
-      "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Bridgewater Associates",
-    "title": "Campus Investment Engineer Intern - 2026",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "17f808e1-d403-486f-882a-af94e5855f70",
-    "date_posted": 1744317983,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744736754,
-    "url": "https://www.tesla.com/careers/search/job/240980",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Android Engineer, Mobile Software Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
-    "date_posted": 1744736754,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1744736784,
-    "url": "https://www.tesla.com/careers/search/job/241088",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Fullstack C++ Engineer, Vehicle User Interface Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
-    "date_posted": 1744736784,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624832,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Shoreline Backend Engineering Intern - Fall",
-    "source": "vanshb03",
-    "id": "acda8b70-db75-4a20-bbdb-e012785707ef",
-    "date_posted": 1745624832,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624911,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Management-Intern--CUDA---Fall-2025_JR1993871?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Technical Product Management Intern, CUDA - Fall",
-    "source": "vanshb03",
-    "id": "d053a73c-d06b-497a-8f8c-888c77bffa61",
-    "date_posted": 1745624911,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624946,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Robotics Software Intern, Robotics Platform - Fall",
-    "source": "vanshb03",
-    "id": "4faabb7f-a1d3-43c2-bc0b-22a0c2317860",
-    "date_posted": 1745624946,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624976,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Physics-ML-Research-Intern---Fall-2025_JR1996924?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Applied Physics ML Research Intern - Fall",
-    "source": "vanshb03",
-    "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
-    "date_posted": 1745624976,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624976,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Storage-Infrastructure---Fall-2025_JR1996386?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Software Engineering Intern, AI Storage Infrastructure - Fall",
-    "source": "vanshb03",
-    "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
-    "date_posted": 1745624976,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624976,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Deep-Learning-Accelerator---Fall-2025_JR1996923?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Software Engineering Intern, Deep Learning Accelerator - Fall",
-    "source": "vanshb03",
-    "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
-    "date_posted": 1745624976,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745624976,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--GPU-Communications-and-Networking---Fall-2025_JR1996389?q=Fall&source=jobboardlinkedin&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Software Engineering Intern, GPU Communications and Networking - Fall",
-    "source": "vanshb03",
-    "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
-    "date_posted": 1745624976,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745877660,
-    "url": "https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA",
-      "Palo Alto, CA",
-      "Atlanta, GA",
-      "Boston, MA",
-      "New York, NY",
-      "Burlington, MA",
-      "Dallas, TX",
-      "Indianapolis, ID"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Salesforce",
-    "title": "Software Engineer Intern - 2026",
-    "season": "Summer",
-    "source": "vanshb03",
-    "id": "1b7298f8-3be1-4373-b3bf-352687108161",
-    "date_posted": 1745877660,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Active-Trader-Segment-Intern-Co-op--Fall-2025-_R_1410919",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Active Trader Segment Intern/Co-op",
-    "source": "vanshb03",
-    "id": "3fbae75f-8aca-4dea-97b6-19af54e5fc7d",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op_R_1412266",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Mobile Software Engineer Intern/Co-op",
-    "source": "vanshb03",
-    "id": "79a85486-24bf-422d-91e8-2d2f3e464706",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1412258",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Software Engineer Intern/Co-op",
-    "source": "vanshb03",
-    "id": "b5faf971-f479-40e8-9f33-5062001ce7ff",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Distribution---Geospatial-Intelligence-Analyst-Intern-Co-op_R_1410739",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Distribution & Geospatial Intelligence Analyst Intern/Co-op",
-    "source": "vanshb03",
-    "id": "d5aa754e-0ad7-421d-9611-143a40f58c61",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Compliance-Business-Oversight-Co-op-Intern_R_1415690",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Compliance Model Oversight Analyst Intern/Co-op",
-    "source": "vanshb03",
-    "id": "64a17e0e-8444-44f3-8195-9334aaf7ad04",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op_R_1412261",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Data Analyst Intern/Co-op",
-    "source": "vanshb03",
-    "id": "8c764d3d-4767-420b-87ac-2ce38a74c2ef",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Asset-Management-Portfolio-Analytics-Developer-Intern-Co-op_R_1416200",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Asset Management Portfolio Analytics Developer Intern/Co-op",
-    "source": "vanshb03",
-    "id": "25bc9db4-1b4d-483a-979d-b7b0ae563db9",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Data-Management-Intern-Co-op_R_1415859",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Risk Data Management Intern/Co-op",
-    "source": "vanshb03",
-    "id": "1e794016-a1fb-45f8-bf1a-bf5fe85efa7f",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Developer-Intern-Co-op--FALL-2025-_R_1409616-1",
-    "locations": [
-      "Toronto, Canada",
-      "Kitchener, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Software Developer Intern/Co-op",
-    "source": "vanshb03",
-    "id": "0d4218c1-fadd-4bc1-9289-d70f493be76f",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Asset-Management-Portfolio-Analytics-Data-Analyst-Intern-Co-op--Fall-2025-_R_1416196",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Asset Management Portfolio Analytics Data Analyst Intern/Co-op",
-    "source": "vanshb03",
-    "id": "b8031317-8eef-47dc-a88a-9f176ff61201",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op_R_1412262",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Data Engineer Intern/Co-op",
-    "source": "vanshb03",
-    "id": "0ecc438c-32b6-4184-b77d-8dc7847136e7",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745880642,
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-System-Analyst-Intern-Co-op_R_1412250",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "TD Bank",
-    "title": "Business System Analyst Intern/Co-op",
-    "source": "vanshb03",
-    "id": "3f66e5f8-e441-4574-b461-1f68ecaa17cc",
-    "date_posted": 1745880642,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745882292,
-    "url": "https://www.tesla.com/careers/search/job/242048",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Software Engineer Intern, Thermal & Chassis Analytics",
-    "source": "vanshb03",
-    "id": "1215e6cd-e15e-4e2b-9a9a-5ac26ba4421d",
-    "date_posted": 1745882292,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745882292,
-    "url": "https://www.tesla.com/careers/search/job/240190",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Data Analytics Intern, Supply Chain",
-    "source": "vanshb03",
-    "id": "0a210bf2-0cf5-4f0d-ae75-bde69f1fdf7d",
-    "date_posted": 1745882292,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745882292,
-    "url": "https://www.tesla.com/careers/search/job/242108",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Software Engineering Intern, Applications Engineering",
-    "source": "vanshb03",
-    "id": "c04684dd-bc32-47e2-9c45-931871138b2a",
-    "date_posted": 1745882292,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
-    "locations": [
-      "Urbana, IL"
-    ],
-    "season": "Spring",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Brunswick",
-    "title": "Computer Graphics Software Developer Intern",
-    "source": "vanshb03",
-    "id": "db6ad7ce-aa64-4f3c-b0d4-fe0391a2ce4b",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1745978620,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineering-Intern--GenAI---Fall-2025_JR1993478",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Software Engineering Intern - GenAI",
-    "source": "vanshb03",
-    "id": "e79696f5-7e9d-4793-b4ff-84d74be73948",
-    "date_posted": 1745978620,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746053933,
-    "url": "https://www.tesla.com/careers/search/job/242174",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
-    "source": "vanshb03",
-    "id": "0f93d6d6-11ed-4d23-9dba-0ef86b8ec003",
-    "date_posted": 1746053933,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746114921,
-    "url": "https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30",
-    "locations": [
-      "Canada",
-      "United States"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Cohere",
-    "title": "Software Engineer Intern/Co-op - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "9c9979a3-2c8e-44a7-9ba5-442e4b3aa898",
-    "date_posted": 1746114921,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746564690,
-    "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nimble",
-    "title": "Software Engineer Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "d4188e2a-c65c-4d7d-83d4-37ca1b8b95f6",
-    "date_posted": 1746564690,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746564783,
-    "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Battelle",
-    "title": "Cyber Trust & Analytics Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "43089dc6-3361-46dc-8b75-f4957eb8e54b",
-    "date_posted": 1746564783,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R410773",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Machine Learning Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "888ba9ac-546e-4616-9a31-fe1e391e9785",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Automation-Engineer-Co-op_R411014",
-    "locations": [
-      "Mt Laurel Township, NJ"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Automation Engineer Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "5f9ddb48-fbe1-4e35-8ad7-d9263fa51ebb",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R410983",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Aegis/Iris Software Development Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "97d61aa1-21b9-4960-b19a-e5453d4c92e0",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Innovation-Labs-Co-op_R410776",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Innovation Labs Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "bdfbbe15-8e99-4f2c-86da-49d5eabe5814",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410418",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Software Engineer Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "71516eb5-765d-4677-acb8-f1b672257976",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Software Engineer Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "c11c73bf-0aae-40d0-8ca6-09934fffb8f5",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Program-Delivery-Co-op_R410992",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Data Program Delivery Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "c1bc516e-3b8d-4ee8-93e7-1eba23f7ccb1",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410997",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Software Engineer Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "732a1623-0bf1-4e02-866e-6c17cc16b4ec",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410777",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Software Engineer Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "b537df60-09a5-4401-8c46-ed3c6c87caae",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://careers.formlabs.com/job/6830690/apply/?gh_jid=6830690",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Formlabs",
-    "title": "Hardware Systems Engineering Intern",
-    "source": "vanshb03",
-    "id": "69e4d7a5-0445-4dde-9159-f45d631d09b6",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "season": "Summer",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Aquatic Capital Management",
-    "title": "Quantitative Researcher Intern",
-    "source": "vanshb03",
-    "id": "d6bbeef2-67fd-4cc5-9a81-519792823b38",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-DevX-Portfolio-Co-op_R410406",
-    "locations": [
-      "West Chester, PA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Comcast",
-    "title": "Comcast Devx Portfolio Intern, Co-Op",
-    "source": "vanshb03",
-    "id": "e52b8b55-854a-41b6-980c-7f1f5feba037",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://www.tesla.com/careers/search/job/242661",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Performance Modeling Engineer Intern, Dojo",
-    "source": "vanshb03",
-    "id": "ea970ccb-fe15-4803-8bc4-fada40b952b6",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746749561,
-    "url": "https://www.tesla.com/careers/search/job/242665",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
-    "source": "vanshb03",
-    "id": "10aedcdc-1e0a-4dc2-a3f1-5f91accfc05b",
-    "date_posted": 1746749561,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746908794,
-    "url": "https://www.tesla.com/careers/search/job/242741",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "ML Performance Software Engineer Intern, Dojo",
-    "source": "vanshb03",
-    "id": "7bcdc721-8d15-4da0-a500-1df62973c094",
-    "date_posted": 1746908794,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1746908794,
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "season": "Fall",
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Nokia",
-    "title": "Hardware Development Co-op Intern",
-    "source": "vanshb03",
-    "id": "6581432c-9c44-46ee-ab32-1767dab90051",
-    "date_posted": 1746908794,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747169933,
-    "url": "https://careers.snowflake.com/us/en/job/SNCOUS1ECD6729D4D744D7ADB3BCD438B54E27EXTERNALENUSD606671FAB0C4305B901CDD4E66DEA76/",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "company_name": "Snowflake",
-    "title": "Software Engineer Intern (Core Engineering)",
-    "season": "Fall",
-    "source": "SitaaronKL",
-    "id": "f5220c0c-35fe-4efd-8f0b-db919e7cd1da",
-    "date_posted": 1747169933,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747299682,
-    "url": "https://www.tesla.com/careers/search/job/242996",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Tesla",
-    "title": "Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "100f17d2-08bf-49b7-a239-4ed9d456b0d6",
-    "date_posted": 1747299682,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747299758,
-    "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
-    "locations": [
-      "New York, NY",
-      "San Francisco, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Ramp",
-    "title": "Software Engineer Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "f9d5d5dc-57e7-43af-94d5-e95a41e1d8f6",
-    "date_posted": 1747299758,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747650526,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Fall-2025_JR1990592",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Deep Learning Server Software Intern, DGX - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "7ec6ba77-9a92-4f2a-ae29-93c7b68f2e16",
-    "date_posted": 1747650526,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747650566,
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Camera-Systems-Software-Engineering-Intern---Fall-2025_JR1993696",
-    "locations": [
-      "Austin, TX",
-      "Santa Clara, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "NVIDIA",
-    "title": "Camera Systems Software Engineering Intern - Fall",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "89befab7-7063-452c-9106-c08b889497fb",
-    "date_posted": 1747650566,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1747930183,
-    "url": "https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA"
-    ],
-    "sponsorship": "Offers Sponsorship",
-    "active": true,
-    "company_name": "OpenAI",
-    "title": "Software Engineer Intern/Co-Op, Applied Engineering",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "772d28be-7952-4dcf-a3f4-7999f7d612e1",
-    "date_posted": 1747930183,
-    "company_url": "",
-    "is_visible": true
-  },
-  {
-    "date_updated": 1748032363,
-    "url": "https://jobs.bytedance.com/en/position/7507012740722166023/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "ByteDance",
-    "title": "Backend Software Engineer Intern",
-    "season": "Fall",
-    "source": "vanshb03",
-    "id": "d7aa2e63-f377-4348-860c-b1a223a7c273",
-    "date_posted": 1748032363,
-    "company_url": "",
-    "is_visible": true
-  }
+    {
+        "date_updated": 1744270686,
+        "url": "https://www.tesla.com/careers/search/job/241053",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Controls Engineer Intern, Optimus - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "06a66d4b-7139-4aee-9563-e08f6ac6b339",
+        "date_posted": 1744270686,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271371,
+        "url": "https://www.tesla.com/careers/search/job/240953",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Haskell Software Developer, Vehicle Firmware Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "92a37e8d-7652-4f27-bf5d-c829fca1ffca",
+        "date_posted": 1744271371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271648,
+        "url": "https://careers.amd.com/careers-home/jobs/63596/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op - Masters - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2a7705a7-5237-4734-b75f-d1ccc91fa159",
+        "date_posted": 1744271648,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271721,
+        "url": "https://www.tesla.com/careers/search/job/240980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Red Team Security Engineer, Vehicle Software Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744271721,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271804,
+        "url": "https://careers.amd.com/careers-home/jobs/63597/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern/ Co-Op - Masters - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "3fecf134-032b-4b09-98ca-8d107579837d",
+        "date_posted": 1744271804,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744317983,
+        "url": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bridgewater Associates",
+        "title": "Campus Investment Engineer Intern - 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "17f808e1-d403-486f-882a-af94e5855f70",
+        "date_posted": 1744317983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744736754,
+        "url": "https://www.tesla.com/careers/search/job/240980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Android Engineer, Mobile Software Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744736754,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744736784,
+        "url": "https://www.tesla.com/careers/search/job/241088",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack C++ Engineer, Vehicle User Interface Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744736784,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624832,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Shoreline Backend Engineering Intern - Fall",
+        "source": "vanshb03",
+        "id": "acda8b70-db75-4a20-bbdb-e012785707ef",
+        "date_posted": 1745624832,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624911,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Management-Intern--CUDA---Fall-2025_JR1993871?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Technical Product Management Intern, CUDA - Fall",
+        "source": "vanshb03",
+        "id": "d053a73c-d06b-497a-8f8c-888c77bffa61",
+        "date_posted": 1745624911,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624946,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Robotics Software Intern, Robotics Platform - Fall",
+        "source": "vanshb03",
+        "id": "4faabb7f-a1d3-43c2-bc0b-22a0c2317860",
+        "date_posted": 1745624946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Physics-ML-Research-Intern---Fall-2025_JR1996924?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Applied Physics ML Research Intern - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Storage-Infrastructure---Fall-2025_JR1996386?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, AI Storage Infrastructure - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Deep-Learning-Accelerator---Fall-2025_JR1996923?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, Deep Learning Accelerator - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745624976,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--GPU-Communications-and-Networking---Fall-2025_JR1996389?q=Fall&source=jobboardlinkedin&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, GPU Communications and Networking - Fall",
+        "source": "vanshb03",
+        "id": "9912734a-0166-4abf-bf9f-60b859a8e36f",
+        "date_posted": 1745624976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745877660,
+        "url": "https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Palo Alto, CA",
+            "Atlanta, GA",
+            "Boston, MA",
+            "New York, NY",
+            "Burlington, MA",
+            "Dallas, TX",
+            "Indianapolis, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern - 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1b7298f8-3be1-4373-b3bf-352687108161",
+        "date_posted": 1745877660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Active-Trader-Segment-Intern-Co-op--Fall-2025-_R_1410919",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Active Trader Segment Intern/Co-op",
+        "source": "vanshb03",
+        "id": "3fbae75f-8aca-4dea-97b6-19af54e5fc7d",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op_R_1412266",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Mobile Software Engineer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "79a85486-24bf-422d-91e8-2d2f3e464706",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1412258",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Software Engineer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "b5faf971-f479-40e8-9f33-5062001ce7ff",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Distribution---Geospatial-Intelligence-Analyst-Intern-Co-op_R_1410739",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Distribution & Geospatial Intelligence Analyst Intern/Co-op",
+        "source": "vanshb03",
+        "id": "d5aa754e-0ad7-421d-9611-143a40f58c61",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Compliance-Business-Oversight-Co-op-Intern_R_1415690",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Compliance Model Oversight Analyst Intern/Co-op",
+        "source": "vanshb03",
+        "id": "64a17e0e-8444-44f3-8195-9334aaf7ad04",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op_R_1412261",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Data Analyst Intern/Co-op",
+        "source": "vanshb03",
+        "id": "8c764d3d-4767-420b-87ac-2ce38a74c2ef",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Asset-Management-Portfolio-Analytics-Developer-Intern-Co-op_R_1416200",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Asset Management Portfolio Analytics Developer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "25bc9db4-1b4d-483a-979d-b7b0ae563db9",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Data-Management-Intern-Co-op_R_1415859",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Risk Data Management Intern/Co-op",
+        "source": "vanshb03",
+        "id": "1e794016-a1fb-45f8-bf1a-bf5fe85efa7f",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Developer-Intern-Co-op--FALL-2025-_R_1409616-1",
+        "locations": [
+            "Toronto, Canada",
+            "Kitchener, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Software Developer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "0d4218c1-fadd-4bc1-9289-d70f493be76f",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Asset-Management-Portfolio-Analytics-Data-Analyst-Intern-Co-op--Fall-2025-_R_1416196",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Asset Management Portfolio Analytics Data Analyst Intern/Co-op",
+        "source": "vanshb03",
+        "id": "b8031317-8eef-47dc-a88a-9f176ff61201",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op_R_1412262",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Data Engineer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "0ecc438c-32b6-4184-b77d-8dc7847136e7",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745880642,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-System-Analyst-Intern-Co-op_R_1412250",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Business System Analyst Intern/Co-op",
+        "source": "vanshb03",
+        "id": "3f66e5f8-e441-4574-b461-1f68ecaa17cc",
+        "date_posted": 1745880642,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745882292,
+        "url": "https://www.tesla.com/careers/search/job/242048",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Thermal & Chassis Analytics",
+        "source": "vanshb03",
+        "id": "1215e6cd-e15e-4e2b-9a9a-5ac26ba4421d",
+        "date_posted": 1745882292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745882292,
+        "url": "https://www.tesla.com/careers/search/job/240190",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Analytics Intern, Supply Chain",
+        "source": "vanshb03",
+        "id": "0a210bf2-0cf5-4f0d-ae75-bde69f1fdf7d",
+        "date_posted": 1745882292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745882292,
+        "url": "https://www.tesla.com/careers/search/job/242108",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineering Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "c04684dd-bc32-47e2-9c45-931871138b2a",
+        "date_posted": 1745882292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745978620,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "season": "Spring",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Computer Graphics Software Developer Intern",
+        "source": "vanshb03",
+        "id": "db6ad7ce-aa64-4f3c-b0d4-fe0391a2ce4b",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745978620,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineering-Intern--GenAI---Fall-2025_JR1993478",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern - GenAI",
+        "source": "vanshb03",
+        "id": "e79696f5-7e9d-4793-b4ff-84d74be73948",
+        "date_posted": 1745978620,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746053933,
+        "url": "https://www.tesla.com/careers/search/job/242174",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
+        "source": "vanshb03",
+        "id": "0f93d6d6-11ed-4d23-9dba-0ef86b8ec003",
+        "date_posted": 1746053933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746114921,
+        "url": "https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30",
+        "locations": [
+            "Canada",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohere",
+        "title": "Software Engineer Intern/Co-op - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "9c9979a3-2c8e-44a7-9ba5-442e4b3aa898",
+        "date_posted": 1746114921,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564690,
+        "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nimble",
+        "title": "Software Engineer Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d4188e2a-c65c-4d7d-83d4-37ca1b8b95f6",
+        "date_posted": 1746564690,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564783,
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Battelle",
+        "title": "Cyber Trust & Analytics Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "43089dc6-3361-46dc-8b75-f4957eb8e54b",
+        "date_posted": 1746564783,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R410773",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Machine Learning Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "888ba9ac-546e-4616-9a31-fe1e391e9785",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Automation-Engineer-Co-op_R411014",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Automation Engineer Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "5f9ddb48-fbe1-4e35-8ad7-d9263fa51ebb",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AeGIS-Iris-Software-Development-Co-op_R410983",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Aegis/Iris Software Development Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "97d61aa1-21b9-4960-b19a-e5453d4c92e0",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Innovation-Labs-Co-op_R410776",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Innovation Labs Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "bdfbbe15-8e99-4f2c-86da-49d5eabe5814",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410418",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Software Engineer Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "71516eb5-765d-4677-acb8-f1b672257976",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Software Engineer Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "c11c73bf-0aae-40d0-8ca6-09934fffb8f5",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Program-Delivery-Co-op_R410992",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Data Program Delivery Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "c1bc516e-3b8d-4ee8-93e7-1eba23f7ccb1",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410997",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Software Engineer Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "732a1623-0bf1-4e02-866e-6c17cc16b4ec",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R410777",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Software Engineer Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "b537df60-09a5-4401-8c46-ed3c6c87caae",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://careers.formlabs.com/job/6830690/apply/?gh_jid=6830690",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Hardware Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "69e4d7a5-0445-4dde-9159-f45d631d09b6",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "season": "Summer",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aquatic Capital Management",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "d6bbeef2-67fd-4cc5-9a81-519792823b38",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-DevX-Portfolio-Co-op_R410406",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Comcast Devx Portfolio Intern, Co-Op",
+        "source": "vanshb03",
+        "id": "e52b8b55-854a-41b6-980c-7f1f5feba037",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://www.tesla.com/careers/search/job/242661",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Performance Modeling Engineer Intern, Dojo",
+        "source": "vanshb03",
+        "id": "ea970ccb-fe15-4803-8bc4-fada40b952b6",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746749561,
+        "url": "https://www.tesla.com/careers/search/job/242665",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+        "source": "vanshb03",
+        "id": "10aedcdc-1e0a-4dc2-a3f1-5f91accfc05b",
+        "date_posted": 1746749561,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746908794,
+        "url": "https://www.tesla.com/careers/search/job/242741",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "ML Performance Software Engineer Intern, Dojo",
+        "source": "vanshb03",
+        "id": "7bcdc721-8d15-4da0-a500-1df62973c094",
+        "date_posted": 1746908794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746908794,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20045",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "season": "Fall",
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Hardware Development Co-op Intern",
+        "source": "vanshb03",
+        "id": "6581432c-9c44-46ee-ab32-1767dab90051",
+        "date_posted": 1746908794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747169933,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS1ECD6729D4D744D7ADB3BCD438B54E27EXTERNALENUSD606671FAB0C4305B901CDD4E66DEA76/",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core Engineering)",
+        "season": "Fall",
+        "source": "SitaaronKL",
+        "id": "f5220c0c-35fe-4efd-8f0b-db919e7cd1da",
+        "date_posted": 1747169933,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747299682,
+        "url": "https://www.tesla.com/careers/search/job/242996",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "100f17d2-08bf-49b7-a239-4ed9d456b0d6",
+        "date_posted": 1747299682,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747299758,
+        "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f9d5d5dc-57e7-43af-94d5-e95a41e1d8f6",
+        "date_posted": 1747299758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747650526,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Fall-2025_JR1990592",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Server Software Intern, DGX - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "7ec6ba77-9a92-4f2a-ae29-93c7b68f2e16",
+        "date_posted": 1747650526,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747650566,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Camera-Systems-Software-Engineering-Intern---Fall-2025_JR1993696",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Camera Systems Software Engineering Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "89befab7-7063-452c-9106-c08b889497fb",
+        "date_posted": 1747650566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747930183,
+        "url": "https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "OpenAI",
+        "title": "Software Engineer Intern/Co-Op, Applied Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "772d28be-7952-4dcf-a3f4-7999f7d612e1",
+        "date_posted": 1747930183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748032363,
+        "url": "https://jobs.bytedance.com/en/position/7507012740722166023/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d7aa2e63-f377-4348-860c-b1a223a7c273",
+        "date_posted": 1748032363,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748109783,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "28cd77fc-36e9-4331-b3f3-39e9f4149c33",
+        "date_posted": 1748109783,
+        "company_url": "",
+        "is_visible": true
+    }
 ]
