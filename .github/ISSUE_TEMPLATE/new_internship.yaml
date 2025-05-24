@@ -65,10 +65,10 @@ body:
         the Internship Title what the sponsorship status is
       multiple: false
       options:
+        - Other
         - Offers Sponsorship
         - Does Not Offer Sponsorship
         - U.S. Citizenship is Required
-        - Other
     validations:
       required: true
   - type: dropdown
