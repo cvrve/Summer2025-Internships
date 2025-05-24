@@ -1,10 +1,10 @@
-# Summer 2025 Tech Internships by Vansh & Ouckah
+# Summer 2026 Tech Internships by Vansh & Ouckah
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025 and Summer 2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
+The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
@@ -41,7 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 > For new-grad tech jobs, check out [New-Grad](https://github.com/cvrve/New-Grad).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/Ouckah/Summer2025-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/vanshb03/Summer2026-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -135,14 +135,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Benjamin Moore | DevOps Engineer Intern | Montvale, NJ | <a href="https://careers-benjaminmoore.icims.com/jobs/1930/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/Ouckah/Summer2025-Internships#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/vanshb03/Summer2026-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
 
-Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)!
+Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)!
 
-<a href="https://github.com/ouckah/Summer2025-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ouckah/Summer2025-Internships" />
+<a href="https://github.com/vanshb03/Summer2026-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vanshb03/Summer2026-Internships" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks)!
