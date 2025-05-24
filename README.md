@@ -48,8 +48,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Point72 | Quantitative Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/point72/jobs/7297613002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
-| Salesforce | Software Engineer Intern - 2026 | <details><summary>**9 locations**</summary>San Francisco, CA</br>Seattle, WA</br>Palo Alto, CA</br>Atlanta, GA</br>Boston, MA</br>New York, NY</br>Burlington, MA</br>Dallas, TX</br>Indianapolis, ID</details> | <a href="https://careers.salesforce.com/en/jobs/jr293195/summer-2026-intern-software-engineer/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | Bridgewater Associates | Campus Investment Engineer Intern - 2026 | New York, NY | <a href="https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
+| Salesforce | Software Engineer Intern - 2026 | <details><summary>**9 locations**</summary>San Francisco, CA</br>Seattle, WA</br>Palo Alto, CA</br>Atlanta, GA</br>Boston, MA</br>New York, NY</br>Burlington, MA</br>Dallas, TX</br>Indianapolis, ID</details> | 🔒 | Apr 28 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/vanshb03/Summer2026-Internships#the-list-)
