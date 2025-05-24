@@ -1048,5 +1048,22 @@
         "date_posted": 1748109783,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748109811,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer-Intern---Fall-2025_JR1997903",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Backend Compiler Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fb84e7fd-4a82-424c-97a1-8ae901cc8190",
+        "date_posted": 1748109811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
