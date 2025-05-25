@@ -1422,5 +1422,22 @@
         "date_posted": 1748143354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748143628,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Applied-AI-Engineer--Fall-2025-Associate_REQ6818",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Applied AI Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c36fb023-da01-4fad-a8b3-9087e066c2f8",
+        "date_posted": 1748143628,
+        "company_url": "",
+        "is_visible": true
     }
 ]
