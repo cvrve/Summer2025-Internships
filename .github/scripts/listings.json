@@ -1252,5 +1252,22 @@
         "date_posted": 1748137917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748138389,
+        "url": "https://www.janestreet.com/join-jane-street/position/7430822002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4dbcf05a-d0a1-4f33-bc04-d9507b512d3d",
+        "date_posted": 1748138389,
+        "company_url": "",
+        "is_visible": true
     }
 ]
