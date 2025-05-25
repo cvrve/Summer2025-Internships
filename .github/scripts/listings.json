@@ -1167,5 +1167,22 @@
         "date_posted": 1748137043,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748137106,
+        "url": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D.E Shaw",
+        "title": "Fundamental Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ad838857-2d4c-4e16-b227-726ea9ae2829",
+        "date_posted": 1748137106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
