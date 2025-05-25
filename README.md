@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Stoke Space | Software Engineer Intern | Kent, WA | <a href="https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
+| Simpson Gumpertz & Heger | Building Technology Intern | Washington, DC | <a href="https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Protiviti | Digital Intern 🛂 | New York, NY | <a href="https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Point72 | Quantitative Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/point72/jobs/7297613002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Citi | Quantitative Analyst Intern | New York, NY | <a href="https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |

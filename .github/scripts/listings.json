@@ -1133,5 +1133,22 @@
         "date_posted": 1748135864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748136991,
+        "url": "https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simpson Gumpertz & Heger",
+        "title": "Building Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b369b5dd-1cf7-429b-a18a-4e2d99079d1c",
+        "date_posted": 1748136991,
+        "company_url": "",
+        "is_visible": true
     }
 ]
