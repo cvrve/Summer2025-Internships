@@ -653,7 +653,7 @@
         "id": "888ba9ac-546e-4616-9a31-fe1e391e9785",
         "date_posted": 1746749561,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1748144939,
@@ -721,7 +721,7 @@
         "id": "71516eb5-765d-4677-acb8-f1b672257976",
         "date_posted": 1746749561,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1746749561,
@@ -755,7 +755,7 @@
         "id": "c1bc516e-3b8d-4ee8-93e7-1eba23f7ccb1",
         "date_posted": 1746749561,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1748144939,
@@ -789,7 +789,7 @@
         "id": "b537df60-09a5-4401-8c46-ed3c6c87caae",
         "date_posted": 1746749561,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1746749561,
@@ -840,7 +840,7 @@
         "id": "e52b8b55-854a-41b6-980c-7f1f5feba037",
         "date_posted": 1746749561,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1746749561,
