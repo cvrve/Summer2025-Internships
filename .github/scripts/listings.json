@@ -1371,5 +1371,22 @@
         "date_posted": 1748139313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748139819,
+        "url": "https://tower-research.com/open-positions/?gh_jid=6651908",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tower Research Capital",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "acc124c6-3cce-4f88-a9ab-89c4b0d4f2da",
+        "date_posted": 1748139819,
+        "company_url": "",
+        "is_visible": true
     }
 ]
