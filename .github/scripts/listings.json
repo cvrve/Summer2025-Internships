@@ -1286,5 +1286,22 @@
         "date_posted": 1748138567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748138967,
+        "url": "https://careers.sig.com/job/9305/Quantitative-Systematic-Trading-Internship-Master-s-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Systematic Trading Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92d245ee-c6a9-4baf-9efa-9c83fb98ec84",
+        "date_posted": 1748138967,
+        "company_url": "",
+        "is_visible": true
     }
 ]
