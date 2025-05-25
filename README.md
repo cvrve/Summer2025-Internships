@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Voloridge | Research Software Engineer Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Stoke Space | Software Engineer Intern | Kent, WA | <a href="https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Simpson Gumpertz & Heger | Building Technology Intern | Washington, DC | <a href="https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Protiviti | Digital Intern 🛂 | New York, NY | <a href="https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
