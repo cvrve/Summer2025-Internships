@@ -1337,5 +1337,22 @@
         "date_posted": 1748139125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748139176,
+        "url": "https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Systematic Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d81bf3bf-8a31-4027-b214-77a4d8461695",
+        "date_posted": 1748139176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
