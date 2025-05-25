@@ -1218,5 +1218,22 @@
         "date_posted": 1748137316,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748137378,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aquatic Capital Management",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ecafac9-6d95-4d0a-b80a-02801756cd47",
+        "date_posted": 1748137378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
