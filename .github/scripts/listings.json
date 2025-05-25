@@ -1082,5 +1082,22 @@
         "date_posted": 1748135738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135782,
+        "url": "https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Quantitative Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "29420c35-16c9-4f56-acaf-613e8b5653b6",
+        "date_posted": 1748135782,
+        "company_url": "",
+        "is_visible": true
     }
 ]
