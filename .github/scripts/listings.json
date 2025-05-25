@@ -1354,5 +1354,22 @@
         "date_posted": 1748139176,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748139313,
+        "url": "https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7ccf8feb-5b2b-4929-8286-19d50dff6934",
+        "date_posted": 1748139313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
