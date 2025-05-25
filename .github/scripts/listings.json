@@ -1405,5 +1405,22 @@
         "date_posted": 1748140200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748143354,
+        "url": "https://careers.garmin.com/careers-home/jobs/15952/job",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e5576919-db7a-4b85-9478-7ec92161fb73",
+        "date_posted": 1748143354,
+        "company_url": "",
+        "is_visible": true
     }
 ]
