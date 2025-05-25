@@ -1065,5 +1065,22 @@
         "date_posted": 1748109811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135738,
+        "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stoke Space",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebf41b25-e4f1-47e1-b7cf-f1db857f8e8c",
+        "date_posted": 1748135738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
