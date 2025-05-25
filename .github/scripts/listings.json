@@ -1235,5 +1235,22 @@
         "date_posted": 1748137378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748137917,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=7526394002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GSA Capital",
+        "title": "Quantitative Researcher Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f32cb2b5-99e8-44c6-9809-e74574d52aef",
+        "date_posted": 1748137917,
+        "company_url": "",
+        "is_visible": true
     }
 ]
