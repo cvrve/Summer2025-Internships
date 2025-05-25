@@ -1201,5 +1201,22 @@
         "date_posted": 1748137289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748137316,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a0116925-ec94-42c0-92e6-479fa1e97aa0",
+        "date_posted": 1748137316,
+        "company_url": "",
+        "is_visible": true
     }
 ]
