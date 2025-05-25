@@ -1116,5 +1116,22 @@
         "date_posted": 1748135823,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135864,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Protiviti",
+        "title": "Digital Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c9998b27-de30-404c-b0da-560a7e5b8dea",
+        "date_posted": 1748135864,
+        "company_url": "",
+        "is_visible": true
     }
 ]
