@@ -1099,5 +1099,22 @@
         "date_posted": 1748135782,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135823,
+        "url": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c2b21661-422f-4182-bddb-47793bd82bcb",
+        "date_posted": 1748135823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
