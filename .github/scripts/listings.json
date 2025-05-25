@@ -1388,5 +1388,22 @@
         "date_posted": 1748139819,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748140200,
+        "url": "https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994752",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Cyber Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75090051-0bc6-44bd-a486-90301c70279c",
+        "date_posted": 1748140200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
