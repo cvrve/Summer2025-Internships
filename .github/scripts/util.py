@@ -144,6 +144,7 @@ def sortListings(listings):
 
 
 def checkSchema(listings):
+    # This function checks if the listings have the correct schema
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
              "date_posted", "url", "locations", "season", "company_url",
