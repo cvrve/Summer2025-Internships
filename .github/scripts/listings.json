@@ -1473,5 +1473,22 @@
         "date_posted": 1748281436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748281686,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compute-Systems-Software-Intern---Fall-2025_JR1997349",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Compute Systems Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d789ef6e-4bce-4071-93e6-783ec4ba6fbd",
+        "date_posted": 1748281686,
+        "company_url": "",
+        "is_visible": true
     }
 ]
