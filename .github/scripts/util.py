@@ -18,8 +18,8 @@ def setOutput(key, value):
             print(f'{key}={value}', file=fh)
 
 
+# This function is used to set the error message in the GitHub Actions output
 def fail(why):
-    # This function is used to set the error message in the GitHub Actions output
     setOutput("error_message", why)
     exit(1)
 
@@ -30,12 +30,14 @@ def getLocations(listing):
     num = str(len(listing["locations"])) + " locations"
     return f'<details><summary>**{num}**</summary>{locations}</details>'
 
+
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
         return " 🛂"
     elif listing["sponsorship"] == "U.S. Citizenship is Required":
         return " 🇺🇸"
     return ""
+
 
 def getLink(listing):
     if not listing["active"]:
@@ -86,7 +88,6 @@ def create_md_table(listings):
         table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
 
     return table
-
 
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
@@ -145,7 +146,6 @@ def sortListings(listings):
 
 
 def checkSchema(listings):
-    # This function checks if the listings have the correct schema
     props = ["source", "company_name",
              "id", "title", "active", "date_updated", "is_visible",
              "date_posted", "url", "locations", "season", "company_url",
