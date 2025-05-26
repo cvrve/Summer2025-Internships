@@ -1490,5 +1490,22 @@
         "date_posted": 1748281686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748281738,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Intern--Power-Management---Fall-2025_JR1991268",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "System Software Intern, Power Management",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f2f7f6d2-b522-47ca-9dd4-65d4fbda2d4a",
+        "date_posted": 1748281738,
+        "company_url": "",
+        "is_visible": true
     }
 ]
