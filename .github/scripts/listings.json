@@ -1439,5 +1439,22 @@
         "date_posted": 1748143628,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748279549,
+        "url": "https://lifeattiktok.com/search/7507388155302185223?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tiktok",
+        "title": "Full Stack Software Engineer Intern, Foundation Platform",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "b96e13dc-feb3-411d-b5a7-28c9f08e9075",
+        "date_posted": 1748279549,
+        "company_url": "",
+        "is_visible": true
     }
 ]
