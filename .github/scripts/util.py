@@ -8,7 +8,8 @@ import time
 os.environ['TZ'] = 'America/Los_Angeles'
 time.tzset()
 
-LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
+# Constants for the apply button
+APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 
 def setOutput(key, value):
@@ -47,7 +48,7 @@ def getLink(listing):
         link += "&utm_source=ouckah"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
-    return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
+    return f'<a href="{link}"><img src="{APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 
 def create_md_table(listings):
