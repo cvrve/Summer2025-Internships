@@ -8,11 +8,6 @@ import time
 os.environ['TZ'] = 'America/Los_Angeles'
 time.tzset()
 
-# keeping this stuff on purpose to give simplify more monies
-# SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
-SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
-SHORT_APPLY_BUTTON = "https://i.imgur.com/w6lyvuC.png"
-SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 
@@ -21,7 +16,9 @@ def setOutput(key, value):
         with open(output, 'a') as fh:
             print(f'{key}={value}', file=fh)
 
+
 def fail(why):
+    # This function is used to set the error message in the GitHub Actions output
     setOutput("error_message", why)
     exit(1)
 
@@ -50,11 +47,7 @@ def getLink(listing):
         link += "&utm_source=ouckah"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
-    if listing["source"] != "Simplify":
-        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
-    
-    simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
+    return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 
 def create_md_table(listings):
