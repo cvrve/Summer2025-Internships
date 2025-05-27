@@ -20,7 +20,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 				<br>
 			<div>
 				<a href="https://discord.com/invite/pSaBUXsTkF">
-          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Simplify">
+          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Ouckah Discord">
         </a>
 			</div>
 		</a>
