@@ -20,8 +20,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 				<br style="color: #0073e6; font-size: 1.2em;">
 				<br>
 			<div>
-				<a href="https://redirect.cvrve.me/discord">
-		  <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Simplify">
+				<a href="https://discord.com/invite/pSaBUXsTkF">
+		  <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="Ouckah Discord">
 		</a>
 			</div>
 		</a>
