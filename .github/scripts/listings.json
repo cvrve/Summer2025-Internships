@@ -1507,5 +1507,22 @@
         "date_posted": 1748281738,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748306604,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--GPU-Virtualization---Fall-2025_JR1996983",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Systems Software Engineering Intern, GPU Virtualization",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "48725354-b0ce-4ad0-8aac-591a98b813d9",
+        "date_posted": 1748306604,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NVIDIA | Systems Software Engineering Intern, GPU Virtualization | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--GPU-Virtualization---Fall-2025_JR1996983?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 26 |
 | Voloridge | Quantitative Research Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | ↳ | Research Software Engineer Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Tower Research Capital | Machine Learning Intern | New York, NY | <a href="https://tower-research.com/open-positions/?gh_jid=6651908&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
