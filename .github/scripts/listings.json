@@ -1558,5 +1558,22 @@
         "date_posted": 1748452496,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748452529,
+        "url": "https://www.tesla.com/careers/search/job/243733",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "System Validation Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d6db48c0-75da-4375-9908-50d7f566ecbb",
+        "date_posted": 1748452529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
