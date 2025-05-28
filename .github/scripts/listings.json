@@ -1541,5 +1541,22 @@
         "date_posted": 1748306636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748452496,
+        "url": "https://www.tesla.com/careers/search/job/243711",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "011de9be-ae63-4f06-adc4-7734117d2f58",
+        "date_posted": 1748452496,
+        "company_url": "",
+        "is_visible": true
     }
 ]
