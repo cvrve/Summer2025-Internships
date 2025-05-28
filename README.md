@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| GE Appliances | Software Engineering Co-op | Louisville, KY | <a href="https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2026_REQ-22833?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Voloridge | Quantitative Research Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | ↳ | Research Software Engineer Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Tower Research Capital | Machine Learning Intern | New York, NY | <a href="https://tower-research.com/open-positions/?gh_jid=6651908&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
