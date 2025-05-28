@@ -1592,5 +1592,22 @@
         "date_posted": 1748452808,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748453117,
+        "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-op---Fall-2025_R-011682",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Software Engineering Co-op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "768cf45a-2369-49fe-9b05-b4b0cbc59e4b",
+        "date_posted": 1748453117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
