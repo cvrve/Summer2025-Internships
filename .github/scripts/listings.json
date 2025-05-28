@@ -1649,5 +1649,25 @@
         "date_posted": 1748453205,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748453220,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5548047004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Frontend Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d661c723-72a2-4e21-9894-07812bae0640",
+        "date_posted": 1748453220,
+        "company_url": "",
+        "is_visible": true
     }
 ]
