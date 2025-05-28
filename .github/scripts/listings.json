@@ -1609,5 +1609,25 @@
         "date_posted": 1748453117,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748453179,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5463106004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Backend Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "92dc5839-c89c-40fe-9bf8-0b4d736d9b97",
+        "date_posted": 1748453179,
+        "company_url": "",
+        "is_visible": true
     }
 ]
