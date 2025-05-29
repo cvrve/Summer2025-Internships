@@ -1754,5 +1754,22 @@
         "date_posted": 1748492055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748492386,
+        "url": "https://www.amazon.jobs/en/jobs/2993367/asic-engineering-internship-fall-2025-rfic-communications-systems-project-kuiper",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ASIC Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "bedb98d8-0bf9-46ce-a77c-6998e80b017e",
+        "date_posted": 1748492386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
