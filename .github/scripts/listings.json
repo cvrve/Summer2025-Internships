@@ -1737,5 +1737,22 @@
         "date_posted": 1748492000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748492055,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4609412007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Technical Support Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "3a7b77e4-b87a-4966-a683-2c98fa4c3850",
+        "date_posted": 1748492055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
