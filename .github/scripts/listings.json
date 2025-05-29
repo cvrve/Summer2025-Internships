@@ -1720,5 +1720,22 @@
         "date_posted": 1748491931,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748492000,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4634987007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Software Engineering Intern, Mobile",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "98541bf1-875a-490e-9a63-aacc75579f5f",
+        "date_posted": 1748492000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
