@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NVIDIA | Software Engineering Intern, AI Tools Analysis | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | Tesla | Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243735?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | Relativity Space | Software Engineer Intern | Stennis, MI | <a href="https://job-boards.greenhouse.io/rsinternboard/jobs/7855756002?gh_jid=7855756002&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | NVIDIA | Networking Software Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
