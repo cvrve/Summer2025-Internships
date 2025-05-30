@@ -1857,5 +1857,22 @@
         "date_posted": 1748579559,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748581077,
+        "url": "https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Quant Research & Trading Intern",
+        "season": "Summer",
+        "source": "lsgordon",
+        "id": "cb963f0b-3aa1-42de-a688-ee13b0a40830",
+        "date_posted": 1748581077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
