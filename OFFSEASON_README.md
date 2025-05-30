@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Podium | Security Engineering Intern | Lehi, UT | <a href="https://job-boards.greenhouse.io/podium81/jobs/6932534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | NVIDIA | Software Engineering Intern, AI Tools Analysis | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | AMD | Software Engineering Intern/Co-Op | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/63578?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | ↳ | Firmware Engineering Intern/Co-Op | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63889?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
