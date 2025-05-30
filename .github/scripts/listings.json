@@ -1959,5 +1959,23 @@
         "date_posted": 1748644572,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748645257,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wurl",
+        "title": "Full Stack Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4276cc6a-3ca2-4dca-b70a-acef5998b763",
+        "date_posted": 1748645257,
+        "company_url": "",
+        "is_visible": true
     }
 ]
