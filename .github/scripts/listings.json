@@ -1908,5 +1908,22 @@
         "date_posted": 1748638851,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748638875,
+        "url": "https://careers.amd.com/careers-home/jobs/63578?lang=en-us",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6183fc69-1f01-4025-9d7e-211b282ef2a5",
+        "date_posted": 1748638875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
