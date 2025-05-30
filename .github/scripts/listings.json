@@ -724,14 +724,14 @@
         "is_visible": false
     },
     {
-        "date_updated": 1746749561,
+        "date_updated": 1748631575,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R411729",
         "locations": [
             "Philadelphia, PA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Comcast",
         "title": "Comcast Software Engineer Intern, Co-Op",
         "source": "vanshb03",
@@ -963,13 +963,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747650526,
+        "date_updated": 1748631577,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Fall-2025_JR1990592",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Deep Learning Server Software Intern, DGX - Fall",
         "season": "Fall",
@@ -1050,13 +1050,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748109811,
+        "date_updated": 1748631580,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer-Intern---Fall-2025_JR1997903",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Backend Compiler Engineer Intern",
         "season": "Fall",
@@ -1475,13 +1475,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748281686,
+        "date_updated": 1748631587,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compute-Systems-Software-Intern---Fall-2025_JR1997349",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Compute Systems Software Intern",
         "season": "Fall",
@@ -1509,13 +1509,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748306604,
+        "date_updated": 1748631592,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--GPU-Virtualization---Fall-2025_JR1996983",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Systems Software Engineering Intern, GPU Virtualization",
         "season": "Fall",
@@ -1526,13 +1526,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748306636,
+        "date_updated": 1748631594,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Core-Computer-Vision---Fall-2025_JR1990301",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern, Core Computer Vision",
         "season": "Fall",
