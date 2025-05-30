@@ -1840,5 +1840,22 @@
         "date_posted": 1748579303,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748579559,
+        "url": "https://neuralink.com/careers/apply/?gh_jid=6569020003&gh_src=c356a2533us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Software Engineer Intern, Implant",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "abc7845c-16bf-414c-9758-a887ee764eb5",
+        "date_posted": 1748579559,
+        "company_url": "",
+        "is_visible": true
     }
 ]
