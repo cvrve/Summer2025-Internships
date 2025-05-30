@@ -1805,5 +1805,22 @@
         "date_posted": 1748577110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748577171,
+        "url": "https://www.tesla.com/careers/search/job/243735",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "31e04c2d-6f72-440c-a7fd-053c9e8e35ff",
+        "date_posted": 1748577171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
