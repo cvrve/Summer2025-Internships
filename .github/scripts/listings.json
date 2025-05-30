@@ -1822,5 +1822,23 @@
         "date_posted": 1748577171,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748579303,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637",
+        "locations": [
+            "San Francisco, CA",
+            "Little Rock, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveRamp",
+        "title": "Software Engineer, Co-op - Clean Rooms",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "75f8104e-7429-4b0a-8362-4b69f94c2861",
+        "date_posted": 1748579303,
+        "company_url": "",
+        "is_visible": true
     }
 ]
