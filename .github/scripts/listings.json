@@ -1942,5 +1942,22 @@
         "date_posted": 1748644489,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748644572,
+        "url": "https://careers.formlabs.com/job/6901361/apply/?gh_jid=6901361",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Web Development Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "395e43f7-5436-4017-ab14-006cffe52e8d",
+        "date_posted": 1748644572,
+        "company_url": "",
+        "is_visible": true
     }
 ]
