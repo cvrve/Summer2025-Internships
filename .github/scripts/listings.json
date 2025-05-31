@@ -85,13 +85,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744317983,
+        "date_updated": 1748655033,
         "url": "https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bridgewater Associates",
         "title": "Campus Investment Engineer Intern - 2026",
         "season": "Summer",
@@ -1237,13 +1237,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748137917,
+        "date_updated": 1748655033,
         "url": "https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=7526394002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GSA Capital",
         "title": "Quantitative Researcher Intern",
         "season": "Summer",
