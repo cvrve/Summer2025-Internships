@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Leonardo DRS | Software Engineer Intern | Beavercreek, OH | <a href="https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295374800/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Wurl | Full Stack Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | Podium | Security Engineering Intern | Lehi, UT | <a href="https://job-boards.greenhouse.io/podium81/jobs/6932534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | NVIDIA | Software Engineering Intern, AI Tools Analysis | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
