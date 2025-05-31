@@ -1994,5 +1994,22 @@
         "date_posted": 1748716965,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748716996,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "SRE DevOps Engineer Intern, IPP",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4d0e23b0-4d43-4b23-9e6d-115fadf3b0a2",
+        "date_posted": 1748716996,
+        "company_url": "",
+        "is_visible": true
     }
 ]
