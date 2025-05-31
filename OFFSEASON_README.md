@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | NVIDIA | SRE DevOps Engineer Intern, IPP | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Leonardo DRS | Software Engineer Intern | Beavercreek, OH | <a href="https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295374800/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Wurl | Full Stack Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |

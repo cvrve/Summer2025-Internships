@@ -2011,5 +2011,22 @@
         "date_posted": 1748716996,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748717027,
+        "url": "https://www.tesla.com/careers/search/job/243876",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0fdcfac8-9a23-4afb-859b-bb610eb58586",
+        "date_posted": 1748717027,
+        "company_url": "",
+        "is_visible": true
     }
 ]
