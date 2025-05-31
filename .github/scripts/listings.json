@@ -2045,5 +2045,22 @@
         "date_posted": 1748717045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748717073,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594261003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "17c11c35-3ea2-4558-acda-699516b5521a",
+        "date_posted": 1748717073,
+        "company_url": "",
+        "is_visible": true
     }
 ]
