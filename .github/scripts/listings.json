@@ -2028,5 +2028,22 @@
         "date_posted": 1748717027,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748717045,
+        "url": "https://www.tesla.com/careers/search/job/243937",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, AI Hardware",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "99d348dd-d73a-4b82-a62d-7c6bf05f698d",
+        "date_posted": 1748717045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
