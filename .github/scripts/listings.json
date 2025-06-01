@@ -2062,5 +2062,22 @@
         "date_posted": 1748717073,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748751124,
+        "url": "https://www.tesla.com/careers/search/job/243734",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Powerwall Product Manager Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "568cf828-3aec-408f-852d-70ed367ca35e",
+        "date_posted": 1748751124,
+        "company_url": "",
+        "is_visible": true
     }
 ]

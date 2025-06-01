@@ -43,7 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Tesla | Firmware Engineer Intern, AI Hardware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243937?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
+| Tesla | Powerwall Product Manager Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243734?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
+| ↳ | Firmware Engineer Intern, AI Hardware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243937?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | ↳ | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | NVIDIA | SRE DevOps Engineer Intern, IPP | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Neuralink | Machine Learning Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6594261003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
