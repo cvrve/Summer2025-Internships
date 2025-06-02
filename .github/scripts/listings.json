@@ -2130,5 +2130,22 @@
         "date_posted": 1748829161,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748829173,
+        "url": "https://jobs.apple.com/en-us/details/200606475/hardware-engineering-internships?team=STDNT",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0eb17c82-149d-49c5-9af2-773b45522ea5",
+        "date_posted": 1748829173,
+        "company_url": "",
+        "is_visible": true
     }
 ]
