@@ -2164,5 +2164,22 @@
         "date_posted": 1748829269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748829739,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-research-intern-nlp-&jobCode=CSS-0013383",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Research Intern (NLP)",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "37adb69c-1e7c-4593-b9cf-3af7748786e6",
+        "date_posted": 1748829739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
