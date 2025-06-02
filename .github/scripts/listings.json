@@ -2096,5 +2096,22 @@
         "date_posted": 1748829126,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748829139,
+        "url": "https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Engineering Program Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "20ab5502-4bef-447a-b152-92a6536dc5b8",
+        "date_posted": 1748829139,
+        "company_url": "",
+        "is_visible": true
     }
 ]
