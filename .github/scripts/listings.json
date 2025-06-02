@@ -2147,5 +2147,22 @@
         "date_posted": 1748829173,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748829269,
+        "url": "https://jobs.apple.com/en-us/details/200606145/software-engineering-internships?team=STDNT",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "34a2859a-4b01-440c-9f21-c7f2c43173ed",
+        "date_posted": 1748829269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
