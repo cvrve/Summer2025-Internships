@@ -2198,5 +2198,22 @@
         "date_posted": 1748830508,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748830749,
+        "url": "https://www.tesla.com/careers/search/job/243890",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "AI Engineer Intern, Self-Driving",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e199e264-141f-4fe8-a458-fbf5ed911ca7",
+        "date_posted": 1748830749,
+        "company_url": "",
+        "is_visible": true
     }
 ]
