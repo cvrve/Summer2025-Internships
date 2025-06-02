@@ -2181,5 +2181,22 @@
         "date_posted": 1748829739,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748830508,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Origin",
+        "title": "Avionics Software Engineer Intern",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "7b5f0bd2-2ecd-49da-85b0-21a45ada50af",
+        "date_posted": 1748830508,
+        "company_url": "",
+        "is_visible": true
     }
 ]
