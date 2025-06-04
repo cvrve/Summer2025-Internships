@@ -1611,7 +1611,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453179,
+        "date_updated": 1749001123,
         "url": "https://job-boards.greenhouse.io/mercury/jobs/5463106004",
         "locations": [
             "San Francisco, CA",
@@ -1620,7 +1620,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mercury",
         "title": "Backend Engineering Intern",
         "season": "Fall",
@@ -1631,7 +1631,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453205,
+        "date_updated": 1749001122,
         "url": "https://job-boards.greenhouse.io/mercury/jobs/5548410004",
         "locations": [
             "San Francisco, CA",
@@ -1640,7 +1640,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mercury",
         "title": "Full-stack Engineering Intern",
         "season": "Fall",
@@ -1651,7 +1651,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453220,
+        "date_updated": 1749001122,
         "url": "https://job-boards.greenhouse.io/mercury/jobs/5548047004",
         "locations": [
             "San Francisco, CA",
@@ -1660,7 +1660,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mercury",
         "title": "Frontend Engineering Intern",
         "season": "Fall",
@@ -1790,13 +1790,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748577110,
+        "date_updated": 1749001124,
         "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/7855756002?gh_jid=7855756002",
         "locations": [
             "Stennis, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Relativity Space",
         "title": "Software Engineer Intern",
         "season": "Fall",
