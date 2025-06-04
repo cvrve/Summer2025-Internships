@@ -2233,5 +2233,22 @@
         "date_posted": 1748954354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749080297,
+        "url": "https://www.tesla.com/careers/search/job/243842",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c48b73c6-19da-40db-86c1-774b700280d8",
+        "date_posted": 1749080297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
