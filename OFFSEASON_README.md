@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TikTok | Tool Software Engineer Intern, TikTok Effect House | San Jose, CA | <a href="https://lifeattiktok.com/search/7392099728617523507?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | Splunk | Software Engineer Co-Op, Backend/Full-stack | Remote</br>Canada | <a href="https://jobs.jobvite.com/splunk-careers/job/otG8vfww?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | ↳ | Software Engineer Intern, Backend/Full-stack | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | ↳ | Software Engineer Intern, Frontend | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |

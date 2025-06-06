@@ -2423,5 +2423,22 @@
         "date_posted": 1749173854,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749176486,
+        "url": "https://lifeattiktok.com/search/7392099728617523507?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Tool Software Engineer Intern, TikTok Effect House",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4433892d-730c-4ab7-ad04-d06c44f90f3a",
+        "date_posted": 1749176486,
+        "company_url": "",
+        "is_visible": true
     }
 ]
