@@ -2406,5 +2406,22 @@
         "date_posted": 1749173824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749173854,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Feature Detection and Data Science Co-op Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cdda7630-e9b4-4a03-b2f1-3ede8cb1ba03",
+        "date_posted": 1749173854,
+        "company_url": "",
+        "is_visible": true
     }
 ]
