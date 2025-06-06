@@ -2250,5 +2250,22 @@
         "date_posted": 1749080297,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749172617,
+        "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "N1",
+        "title": "Software Engineer Intern (Backend, Rust)",
+        "season": "Summer",
+        "source": "Orazej",
+        "id": "03b12e4c-fcdb-4a64-b65e-5661c5bef7b1",
+        "date_posted": 1749172617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
