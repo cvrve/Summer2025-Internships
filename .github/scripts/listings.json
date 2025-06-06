@@ -2371,5 +2371,23 @@
         "date_posted": 1749173708,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749173760,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/otG8vfww",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Software Engineer Co-Op, Backend/Full-stack",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c8f481f0-e484-4033-88e4-b78d5ef13bfb",
+        "date_posted": 1749173760,
+        "company_url": "",
+        "is_visible": true
     }
 ]
