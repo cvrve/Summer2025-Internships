@@ -2335,5 +2335,23 @@
         "date_posted": 1749173471,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749173670,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Software Engineer Intern, Frontend",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2d37610b-5d2e-47d7-b9ef-c0e5f3c18e18",
+        "date_posted": 1749173670,
+        "company_url": "",
+        "is_visible": true
     }
 ]
