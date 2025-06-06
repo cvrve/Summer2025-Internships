@@ -43,7 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Splunk | Software Engineer Intern, Frontend | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
+| Splunk | Software Engineer Intern, Backend/Full-stack | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
+| ↳ | Software Engineer Intern, Frontend | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | Tesla | Firmware Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243842?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 04 |
 | Splunk | Site Reliability Engineer Intern | Remote</br>US | <a href="https://www.splunk.com/en_us/careers/jobs/site-reliability-engineer-intern-33064.html?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
 | Tesla | AI Engineer Intern, Self-Driving | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243890?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
