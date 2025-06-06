@@ -2267,5 +2267,22 @@
         "date_posted": 1749172617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749172644,
+        "url": "https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "N1",
+        "title": "Software Engineer Intern (Fullstack)",
+        "season": "Summer",
+        "source": "Orazej",
+        "id": "d1078860-a360-4cba-b4f9-a94cdbd4530d",
+        "date_posted": 1749172644,
+        "company_url": "",
+        "is_visible": true
     }
 ]
