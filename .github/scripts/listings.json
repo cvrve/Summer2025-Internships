@@ -2284,5 +2284,22 @@
         "date_posted": 1749172644,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749173404,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749924007?gh_jid=4749924007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "be869a9d-2920-4aa2-b2ee-f778140abb2f",
+        "date_posted": 1749173404,
+        "company_url": "",
+        "is_visible": true
     }
 ]
