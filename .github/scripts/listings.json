@@ -2562,5 +2562,23 @@
         "date_posted": 1749262000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749268538,
+        "url": "https://www.amazon.jobs/en/jobs/2875846/amazon-robotics-software-development-engineer-co-op-fall-2025",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon Robotics",
+        "title": "Software Development Engineer Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d1d88f10-7402-471a-8869-3fa42d8884ab",
+        "date_posted": 1749268538,
+        "company_url": "",
+        "is_visible": true
     }
 ]
