@@ -2527,5 +2527,22 @@
         "date_posted": 1749261151,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749261180,
+        "url": "https://fireflyspace.com/careers/?jobId=EE4A2E87-DC33-C12B-D025-085A77D1CA8C",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firefly Aerospace",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fd02b15d-cc4b-4a0e-be25-b8206af35a5a",
+        "date_posted": 1749261180,
+        "company_url": "",
+        "is_visible": true
     }
 ]
