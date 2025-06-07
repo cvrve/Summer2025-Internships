@@ -1492,13 +1492,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748281738,
+        "date_updated": 1749294146,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Intern--Power-Management---Fall-2025_JR1991268",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "System Software Intern, Power Management",
         "season": "Fall",
@@ -1671,13 +1671,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453270,
+        "date_updated": 1749294153,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2026_REQ-22833",
         "locations": [
             "Louisville, KY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Appliances",
         "title": "Software Engineering Co-op",
         "season": "Summer",
@@ -1876,13 +1876,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748638810,
+        "date_updated": 1749294165,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern, AI Tools Analysis",
         "season": "Fall",
