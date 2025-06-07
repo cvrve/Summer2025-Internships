@@ -2457,5 +2457,23 @@
         "date_posted": 1749177218,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749260792,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Frontend Software Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "df70fa57-977b-4f31-832e-a0e57ed070b5",
+        "date_posted": 1749260792,
+        "company_url": "",
+        "is_visible": true
     }
 ]
