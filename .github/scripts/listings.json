@@ -2544,5 +2544,23 @@
         "date_posted": 1749261180,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749262000,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "859558cb-6cc3-4251-8a23-4545fdfaebfa",
+        "date_posted": 1749262000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
