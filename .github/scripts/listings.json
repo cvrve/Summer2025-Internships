@@ -1141,7 +1141,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Simpson Gumpertz & Heger",
         "title": "Building Technology Intern",
         "season": "Summer",
@@ -1149,7 +1149,7 @@
         "id": "b369b5dd-1cf7-429b-a18a-4e2d99079d1c",
         "date_posted": 1748136991,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1748137043,
