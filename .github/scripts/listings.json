@@ -2510,5 +2510,22 @@
         "date_posted": 1749261120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749261151,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, LLM NIM Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8cb5de01-60e2-4ea2-a080-ccfc5298e2e2",
+        "date_posted": 1749261151,
+        "company_url": "",
+        "is_visible": true
     }
 ]
