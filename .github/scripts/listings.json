@@ -2597,5 +2597,24 @@
         "date_posted": 1749269059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749269167,
+        "url": "https://www.pinterestcareers.com/jobs/6917750/2025-fall-machine-learning-intern/?gh_jid=6917750",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Machine Learning Intern, Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c352773d-5803-4a57-8c37-379f300b9e32",
+        "date_posted": 1749269167,
+        "company_url": "",
+        "is_visible": true
     }
 ]
