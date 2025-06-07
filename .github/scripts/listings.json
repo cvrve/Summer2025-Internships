@@ -2475,5 +2475,22 @@
         "date_posted": 1749260792,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749260811,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "62b793bb-caea-465f-a95f-ce43bb81f1fc",
+        "date_posted": 1749260811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
