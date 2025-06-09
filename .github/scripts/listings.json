@@ -2633,5 +2633,22 @@
         "date_posted": 1749424625,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749443786,
+        "url": "https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7e3c6097-3845-4e04-b773-fb8bdf24c654",
+        "date_posted": 1749443786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
