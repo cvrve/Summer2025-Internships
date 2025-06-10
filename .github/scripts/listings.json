@@ -2718,5 +2718,22 @@
         "date_posted": 1749595643,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749596068,
+        "url": "https://jobs.dolby.com/careers/job/29526769",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Information Security Architecture Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e8741729-6e96-4f16-a21b-58ce51e16360",
+        "date_posted": 1749596068,
+        "company_url": "",
+        "is_visible": true
     }
 ]
