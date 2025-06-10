@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | WorldQuant | Software Engineer Intern, AI/LLM Initiative | Old Greenwich, CT | <a href="https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
+| Dolby | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512720?domain=dolby.com&hl=en&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | Susquehanna | Quantitative Trader Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |
 | TransMarket Group | Algorithmic Trader Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
