@@ -2650,5 +2650,22 @@
         "date_posted": 1749443786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749595407,
+        "url": "https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us",
+        "locations": [
+            "Old Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WorldQuant",
+        "title": "Software Engineer Intern, AI/LLM Initiative",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aff5ef46-63cf-4378-92a7-202fb2c2ee07",
+        "date_posted": 1749595407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
