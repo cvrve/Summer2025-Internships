@@ -2735,5 +2735,22 @@
         "date_posted": 1749596068,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749596100,
+        "url": "https://jobs.dolby.com/careers/job/29512719",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Dolby Vision Software QA Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f4702ef2-d799-4217-932e-1b7d2bd7c12c",
+        "date_posted": 1749596100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
