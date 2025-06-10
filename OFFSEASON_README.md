@@ -44,7 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Tesla | Software Engineering Intern, Recruiting | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/244394?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
-| Dolby | Dolby Vision Software QA Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512719?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
+| Dolby | Video Coding Research Intern, AI Focus | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512187?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
+| ↳ | Dolby Vision Software QA Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512719?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | ↳ | Information Security Architecture Intern | Atlanta, GA | <a href="https://jobs.dolby.com/careers/job/29526769?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | ↳ | Cloud QA Automation Engineer Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512720?domain=dolby.com&hl=en&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | Ansys | Meshing Software Internship | Evanston, IL | <a href="https://careers.ansys.com/job/Evanston-Spring-2026-Intern-Meshing-%28MSPHD%29-IL-60201/1292622200?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |

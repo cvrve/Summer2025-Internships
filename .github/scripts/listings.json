@@ -2752,5 +2752,22 @@
         "date_posted": 1749596100,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749596146,
+        "url": "https://jobs.dolby.com/careers/job/29512187",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Video Coding Research Intern, AI Focus",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "be9f0ab4-835a-4322-87e2-1593902bc0d5",
+        "date_posted": 1749596146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
