@@ -536,14 +536,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745978620,
+        "date_updated": 1749838568,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195",
         "locations": [
             "Urbana, IL"
         ],
         "season": "Spring",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brunswick",
         "title": "Computer Graphics Software Developer Intern",
         "source": "vanshb03",
@@ -1458,13 +1458,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748281436,
+        "date_updated": 1749838573,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Fleet-Health-Instrumentation-Intern---Fall-2025_JR1997488",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineer Intern, Fleet Health Instrumentation",
         "season": "Fall",
@@ -1773,13 +1773,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748577033,
+        "date_updated": 1749838585,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Networking Software Intern",
         "season": "Fall",
@@ -1996,13 +1996,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748716996,
+        "date_updated": 1749838591,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "SRE DevOps Engineer Intern, IPP",
         "season": "Fall",
@@ -2408,13 +2408,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173854,
+        "date_updated": 1749838599,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
         "locations": [
             "Wilton, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Feature Detection and Data Science Co-op Intern",
         "season": "Fall",
@@ -2512,13 +2512,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749261151,
+        "date_updated": 1749838604,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern, LLM NIM Engineering",
         "season": "Fall",
