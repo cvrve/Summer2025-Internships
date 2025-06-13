@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Abbott | IT Intern | Waukegan, IL | <a href="https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | WorldQuant | Software Engineer Intern, AI/LLM Initiative | Old Greenwich, CT | <a href="https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | Johnson & Johnson | Front End Software Engineering Intern | Santa Clara, CA | <a href="https://www.careers.jnj.com/en/jobs/r-018331/front-end-software-engineering-intern/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | Susquehanna | Quantitative Trader Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 08 |

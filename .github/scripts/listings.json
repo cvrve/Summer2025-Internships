@@ -2769,5 +2769,22 @@
         "date_posted": 1749596146,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749822368,
+        "url": "https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abbott",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "a1e1b0ef-dfd8-4a64-af47-c958d2f4ce09",
+        "date_posted": 1749822368,
+        "company_url": "",
+        "is_visible": true
     }
 ]
