@@ -2786,5 +2786,22 @@
         "date_posted": 1749822368,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749840316,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "84.51\u00b0",
+        "title": "Agile Delivery Co-op Program",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2c77f433-8750-437c-8f42-e168fe402f9d",
+        "date_posted": 1749840316,
+        "company_url": "",
+        "is_visible": true
     }
 ]
