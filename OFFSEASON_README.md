@@ -54,7 +54,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | Pinterest | Machine Learning Intern, Masters/PhD | San Francisco, CA</br>Remote</br>US | <a href="https://www.pinterestcareers.com/jobs/6917750/2025-fall-machine-learning-intern/?gh_jid=6917750&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | NVIDIA | Data Science and Insights Intern, Omniverse | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Science-and-Insights-Intern--Omniverse---Fall-2025_JR1996816?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
-| ↳ | Software Engineering Intern, LLM NIM Engineering | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | Firefly Aerospace | Software Engineering Intern | Cedar Park, TX | <a href="https://fireflyspace.com/careers/?jobId=EE4A2E87-DC33-C12B-D025-085A77D1CA8C&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | BMO | Junior Software Developer Intern | New York, NY</br>San Francisco, CA | <a href="https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | Amazon Robotics | Software Development Engineer Co-Op | Westborough, MA</br>North Reading, MA | <a href="https://www.amazon.jobs/en/jobs/2875846/amazon-robotics-software-development-engineer-co-op-fall-2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
@@ -63,7 +62,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Backend/Full-stack | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | ↳ | Software Engineer Intern, Frontend | Remote</br>US | <a href="https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | NVIDIA | Windows AI Engineering Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Windows-AI-Engineering-Intern---Fall-2025_JR1998337?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
-| ASML | Feature Detection and Data Science Co-op Intern | Wilton, CT | <a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 05 |
 | Tesla | Firmware Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243842?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 04 |
 | Splunk | Site Reliability Engineer Intern | Remote</br>US | <a href="https://www.splunk.com/en_us/careers/jobs/site-reliability-engineer-intern-33064.html?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 03 |
 | Tesla | AI Engineer Intern, Self-Driving | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243890?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
@@ -71,7 +69,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Powerwall Product Manager Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243734?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | ↳ | Firmware Engineer Intern, AI Hardware | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243937?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | ↳ | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
-| NVIDIA | SRE DevOps Engineer Intern, IPP | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Neuralink | Machine Learning Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6594261003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Leonardo DRS | Software Engineer Intern | Beavercreek, OH | <a href="https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295374800/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Podium | Security Engineering Intern | Lehi, UT | <a href="https://job-boards.greenhouse.io/podium81/jobs/6932534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
@@ -79,7 +76,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AMD | Software Engineering Intern/Co-Op | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/63578?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | ↳ | Firmware Engineering Intern/Co-Op | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63889?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | Tesla | Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243735?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
-| NVIDIA | Networking Software Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | Neuralink | Software Engineer Intern, Implant | Austin, TX | <a href="https://neuralink.com/careers/apply/?gh_jid=6569020003&gh_src=c356a2533us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | LiveRamp | Software Engineer, Co-op - Clean Rooms | San Francisco, CA</br>Little Rock, AR | <a href="https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | Verkada | Technical Support Engineering Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4609412007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
@@ -92,7 +88,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GE Appliances | Software Engineering Co-op | Louisville, KY | <a href="https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2026_REQ-21720?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Amazon | ASIC Engineering Intern | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2993367/asic-engineering-internship-fall-2025-rfic-communications-systems-project-kuiper?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Tiktok | Full Stack Software Engineer Intern, Foundation Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7507388155302185223?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 26 |
-| NVIDIA | Software Engineer Intern, Fleet Health Instrumentation | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Fleet-Health-Instrumentation-Intern---Fall-2025_JR1997488?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 26 |
 | Jane Street | Software Engineer Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7430822002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Garmin | Software Engineer Intern/Co-Op | Chandler, AZ | <a href="https://careers.garmin.com/careers-home/jobs/15952/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Balyasny Asset Management | Applied AI Engineer Intern | New York, NY | <a href="https://bambusdev.my.site.com/s/details?jobReq=Applied-AI-Engineer--Fall-2025-Associate_REQ6818&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
@@ -110,7 +105,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Battelle | Cyber Trust & Analytics Intern - Fall | Columbus, OH | <a href="https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242174?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
-| Brunswick | Computer Graphics Software Developer Intern | Urbana, IL | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-046195?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 29 |
 | Tesla | Software Engineer Intern, Thermal & Chassis Analytics | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242048?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | ↳ | Data Analytics Intern, Supply Chain | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/240190?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | ↳ | Software Engineering Intern, Applications Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242108?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
@@ -122,13 +116,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241053?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | AMD | Firmware Engineering Intern/ Co-Op - Masters - Fall | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63597/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Software Engineering Intern/Co-op - Masters - Fall | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63596/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
+| NVIDIA | Software Engineering Intern, LLM NIM Engineering | Santa Clara, CA | 🔒 | Jun 06 |
+| ASML | Feature Detection and Data Science Co-op Intern | Wilton, CT | 🔒 | Jun 05 |
+| NVIDIA | SRE DevOps Engineer Intern, IPP | Santa Clara, CA | 🔒 | May 31 |
 | Wurl | Full Stack Software Engineer Intern | Remote</br>US | 🔒 | May 30 |
 | NVIDIA | Software Engineering Intern, AI Tools Analysis | Santa Clara, CA | 🔒 | May 30 |
 | Relativity Space | Software Engineer Intern | Stennis, MI | 🔒 | May 29 |
+| NVIDIA | Networking Software Intern | Santa Clara, CA | 🔒 | May 29 |
 | Mercury | Backend Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
 | ↳ | Full-stack Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
 | ↳ | Frontend Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
-| NVIDIA | System Software Intern, Power Management | Santa Clara, CA | 🔒 | May 26 |
+| NVIDIA | Software Engineer Intern, Fleet Health Instrumentation | Santa Clara, CA | 🔒 | May 26 |
+| ↳ | System Software Intern, Power Management | Santa Clara, CA | 🔒 | May 26 |
 | ↳ | Software Engineering Intern, Core Computer Vision | Santa Clara, CA | 🔒 | May 26 |
 | ↳ | Systems Software Engineering Intern, GPU Virtualization | Santa Clara, CA | 🔒 | May 26 |
 | ↳ | Compute Systems Software Intern | Santa Clara, CA | 🔒 | May 26 |
@@ -146,6 +145,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Comcast Software Engineer Intern, Co-Op | Philadelphia, PA | 🔒 | May 08 |
 | ↳ | Comcast Devx Portfolio Intern, Co-Op | West Chester, PA | 🔒 | May 08 |
 | NVIDIA | Software Engineering Intern - GenAI | Santa Clara, CA | 🔒 | Apr 29 |
+| Brunswick | Computer Graphics Software Developer Intern | Urbana, IL | 🔒 | Apr 29 |
 | TD Bank | Active Trader Segment Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 | ↳ | Mobile Software Engineer Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 | ↳ | Software Engineer Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
