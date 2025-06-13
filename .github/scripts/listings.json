@@ -1961,14 +1961,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748645257,
+        "date_updated": 1749838380,
         "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wurl",
         "title": "Full Stack Software Engineer Intern",
         "season": "Fall",
@@ -2442,13 +2442,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749177218,
+        "date_updated": 1749838380,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TransMarket Group",
         "title": "Algorithmic Trader Intern",
         "season": "Summer",
