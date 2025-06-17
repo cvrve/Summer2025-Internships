@@ -2962,5 +2962,23 @@
         "date_posted": 1750128277,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750128407,
+        "url": "https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Trading Fundamental Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b4ab7381-a892-473c-a0e4-b1cc70d3b115",
+        "date_posted": 1750128407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
