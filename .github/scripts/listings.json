@@ -170,14 +170,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745624946,
+        "date_updated": 1750126997,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
             "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Robotics Software Intern, Robotics Platform - Fall",
         "source": "vanshb03",
@@ -2391,13 +2391,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173824,
+        "date_updated": 1750127015,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Windows-AI-Engineering-Intern---Fall-2025_JR1998337",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Windows AI Engineering Intern",
         "season": "Fall",
@@ -2582,13 +2582,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749269059,
+        "date_updated": 1750127021,
         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Science-and-Insights-Intern--Omniverse---Fall-2025_JR1996816",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Data Science and Insights Intern, Omniverse",
         "season": "Fall",
