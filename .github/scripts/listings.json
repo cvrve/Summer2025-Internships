@@ -2943,5 +2943,24 @@
         "date_posted": 1750127582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750128277,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Software Engineer Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "28436037-2337-4abb-99b7-73150f69aad9",
+        "date_posted": 1750128277,
+        "company_url": "",
+        "is_visible": true
     }
 ]
