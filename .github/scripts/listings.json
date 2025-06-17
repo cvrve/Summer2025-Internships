@@ -2886,5 +2886,22 @@
         "date_posted": 1750126581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750127499,
+        "url": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+        "locations": [
+            "Jersey CIty, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Technology Analyst Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "b366e768-f6d7-40d6-b649-db2c0dc5a17c",
+        "date_posted": 1750127499,
+        "company_url": "",
+        "is_visible": true
     }
 ]
