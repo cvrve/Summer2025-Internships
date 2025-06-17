@@ -2923,5 +2923,25 @@
         "date_posted": 1750127563,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750127582,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Denver, CO",
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "gracejinsotrue",
+        "id": "16c32b0f-71dc-47d6-98a8-4a6b4f97d9a5",
+        "date_posted": 1750127582,
+        "company_url": "",
+        "is_visible": true
     }
 ]
