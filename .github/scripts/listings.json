@@ -2837,5 +2837,22 @@
         "date_posted": 1749840383,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750126581,
+        "url": "https://www.tesla.com/careers/search/job/240889",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Fleetnet",
+        "season": "Fall",
+        "source": "georgetsai2028",
+        "id": "c35a2bc9-9716-4050-9184-5936200ccc96",
+        "date_posted": 1750126581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
