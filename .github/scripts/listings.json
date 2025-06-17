@@ -2903,5 +2903,25 @@
         "date_posted": 1750127499,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750127563,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12929/global-quantitative-data-analytics-summer-2026-analyst-global-risk-management-multiple-locations",
+        "locations": [
+            "Atlanta, GA",
+            "Charlotte, NC",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Quantitative Data Analytics Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d066245-d318-4b70-ac87-98fdde208093",
+        "date_posted": 1750127563,
+        "company_url": "",
+        "is_visible": true
     }
 ]
