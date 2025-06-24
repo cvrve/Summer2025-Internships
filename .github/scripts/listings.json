@@ -3031,5 +3031,22 @@
         "date_posted": 1750796432,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750796485,
+        "url": "https://morganstanley.tal.net/vx/candidate/apply/19159",
+        "locations": [
+            "New York City"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Morgan Stanley",
+        "title": "SWE Intern, Data Analyst Intern",
+        "season": "Summer",
+        "source": "pablomoreno10",
+        "id": "562ba18e-c705-47c5-8989-3cff73b10839",
+        "date_posted": 1750796485,
+        "company_url": "",
+        "is_visible": true
     }
 ]
