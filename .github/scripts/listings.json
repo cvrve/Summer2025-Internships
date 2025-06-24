@@ -2997,5 +2997,22 @@
         "date_posted": 1750134605,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750796306,
+        "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176",
+        "locations": [
+            "Annapolis Junction, Maryland"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer - Intern",
+        "season": "Summer",
+        "source": "Its-mehul",
+        "id": "6950b4f6-6074-40c9-a455-f3cfe6b59b06",
+        "date_posted": 1750796306,
+        "company_url": "",
+        "is_visible": true
     }
 ]

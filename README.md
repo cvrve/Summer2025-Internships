@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lockheed Martin | Software Engineer - Intern 🇺🇸 | Annapolis Junction, Maryland | <a href="https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Citadel Securities | Trading Fundamental Analyst Intern | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | BNP Paribas | Technology Analyst Intern | Jersey CIty, NJ | <a href="http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Bank of America | Software Engineer Summer Analyst Intern | Charlotte, NC</br>Chicago, IL</br>Dallas, TX | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
