@@ -1626,13 +1626,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453117,
+        "date_updated": 1750945539,
         "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-op---Fall-2025_R-011682",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Engineering Co-op",
         "season": "Fall",
@@ -1720,13 +1720,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453296,
+        "date_updated": 1750945544,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2026_REQ-21720",
         "locations": [
             "Louisville, KY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Appliances",
         "title": "Software Engineering Co-op",
         "season": "Spring",
@@ -2526,14 +2526,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749261120,
+        "date_updated": 1750945553,
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BMO",
         "title": "Junior Software Developer Intern",
         "season": "Fall",
@@ -2837,13 +2837,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749840335,
+        "date_updated": 1750945522,
         "url": "https://job-boards.greenhouse.io/8451university/jobs/8028856002",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "84.51\u00b0",
         "title": "Software Engineer Co-op Program",
         "season": "Fall",
