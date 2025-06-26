@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Parachute Health | Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/parachutehealth/jobs/4772847007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | TikTok | Software Engineer Intern, TikTok-Social-Product Innovation | San Jose, CA | <a href="https://lifeattiktok.com/search/7514157460153895175?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Tesla | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240889?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | ATPCO | Platform Capability Engineering Intern | Herndon, VA | <a href="https://jobs.smartrecruiters.com/ATPCO1/744000064390815?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
