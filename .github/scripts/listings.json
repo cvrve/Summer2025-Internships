@@ -3137,5 +3137,22 @@
         "date_posted": 1750976034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750976744,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7842108002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Radix Trading",
+        "title": "Quantitative Technologist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9c12121-0051-4e0e-b1e6-69ad43c79c81",
+        "date_posted": 1750976744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
