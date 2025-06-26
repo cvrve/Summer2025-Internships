@@ -3065,5 +3065,24 @@
         "date_posted": 1750945664,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750945726,
+        "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1",
+        "locations": [
+            "Rahway, NJ",
+            "West Point, PA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merck",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "bf84da0c-9a6a-46f8-aff0-5b902ef342f7",
+        "date_posted": 1750945726,
+        "company_url": "",
+        "is_visible": true
     }
 ]

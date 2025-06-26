@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Merck | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | <a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Lockheed Martin | Software Engineering Intern 🇺🇸 | Littleton, Colorado | <a href="https://www.lockheedmartinjobs.com/job/littleton/software-engineering-intern/694/82475330752?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Morgan Stanley | SWE Intern, Data Analyst Intern | New York, NY | <a href="https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Lockheed Martin | Software Engineer - Intern 🇺🇸 | Annapolis Junction, MD | <a href="https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
