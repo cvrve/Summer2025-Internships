@@ -3102,5 +3102,22 @@
         "date_posted": 1750946211,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750946339,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "System Software Engineering Intern, CUDA Driver",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "9f1cd278-afa2-446f-864f-b2ea9f627754",
+        "date_posted": 1750946339,
+        "company_url": "",
+        "is_visible": true
     }
 ]
