@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Siemens | Software Development Intern | Huntsville, AL</br>Marlborough, MA | <a href="https://jobs.siemens.com/careers/job/563156125662755?microsite=siemens.com&hl=en&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Parachute Health | Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/parachutehealth/jobs/4772847007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | NVIDIA | System Software Engineering Intern, CUDA Driver | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | TikTok | Software Engineer Intern, TikTok-Social-Product Innovation | San Jose, CA | <a href="https://lifeattiktok.com/search/7514157460153895175?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |

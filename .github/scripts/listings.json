@@ -3119,5 +3119,23 @@
         "date_posted": 1750946339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1750976034,
+        "url": "https://jobs.siemens.com/careers/job/563156125662755?microsite=siemens.com&hl=en",
+        "locations": [
+            "Huntsville, AL",
+            "Marlborough, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Software Development Intern",
+        "season": "Fall",
+        "source": "karthik961",
+        "id": "cdca2680-46e9-4a55-a080-318aedb1e9c6",
+        "date_posted": 1750976034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
