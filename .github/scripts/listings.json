@@ -3154,5 +3154,22 @@
         "date_posted": 1750976744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751246845,
+        "url": "https://scale.com/careers/4553274005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Technical Advisor Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a7e45de9-cebf-469d-884d-11617f5acc29",
+        "date_posted": 1751246845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
