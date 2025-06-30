@@ -3222,5 +3222,22 @@
         "date_posted": 1751247028,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751252617,
+        "url": "https://ag.wd3.myworkdayjobs.com/airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
+        "locations": [
+            "Bingen, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airbus",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "aa287d6d-7919-4dad-b247-e37a085d4760",
+        "date_posted": 1751252617,
+        "company_url": "",
+        "is_visible": true
     }
 ]
