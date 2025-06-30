@@ -3171,5 +3171,22 @@
         "date_posted": 1751246845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751246874,
+        "url": "https://www.skydio.com/jobs/6220445003?gh_jid=6220445003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Middleware Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6cc9c9fd-84ff-47f8-8699-3639bf665214",
+        "date_posted": 1751246874,
+        "company_url": "",
+        "is_visible": true
     }
 ]
