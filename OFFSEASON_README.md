@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Operational Automation Engineer Intern, Residential Energy | Draper, UT | <a href="https://www.tesla.com/careers/search/job/245029?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Skydio | Middleware Software Intern | San Mateo, CA | <a href="https://www.skydio.com/jobs/6220445003?gh_jid=6220445003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Scale AI | Technical Advisor Intern | San Francisco, CA | <a href="https://scale.com/careers/4553274005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Siemens | Software Development Intern | Huntsville, AL</br>Marlborough, MA | <a href="https://jobs.siemens.com/careers/job/563156125662755?microsite=siemens.com&hl=en&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |

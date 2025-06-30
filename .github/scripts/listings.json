@@ -3188,5 +3188,22 @@
         "date_posted": 1751246874,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751246898,
+        "url": "https://www.tesla.com/careers/search/job/245029",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Operational Automation Engineer Intern, Residential Energy",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c40de3ed-c2eb-47f3-96bf-8f913c385829",
+        "date_posted": 1751246898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
