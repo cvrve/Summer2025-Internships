@@ -3309,5 +3309,22 @@
         "date_posted": 1751252839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751252883,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Systems Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0b776873-d912-4387-bedc-76a0a738c328",
+        "date_posted": 1751252883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
