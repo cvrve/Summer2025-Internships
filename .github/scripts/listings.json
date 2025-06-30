@@ -3205,5 +3205,22 @@
         "date_posted": 1751246898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751247028,
+        "url": "https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295356000",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4dbd52ce-2194-4b7c-8308-48ae40a91c0d",
+        "date_posted": 1751247028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
