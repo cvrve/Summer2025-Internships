@@ -3343,5 +3343,22 @@
         "date_posted": 1751253777,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751253794,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565276006",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walleye Capital",
+        "title": "Risk Quant Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e31f41fa-2647-446b-a3a7-9979a01cb17d",
+        "date_posted": 1751253794,
+        "company_url": "",
+        "is_visible": true
     }
 ]
