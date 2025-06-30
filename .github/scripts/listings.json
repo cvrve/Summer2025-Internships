@@ -3274,5 +3274,22 @@
         "date_posted": 1751252711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751252823,
+        "url": "https://jobs.lever.co/hermeus/db80c020-a26f-491f-8915-d6a28d44933e",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hermeus",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "b9cc96e5-4b02-48dd-942f-e867d304cce4",
+        "date_posted": 1751252823,
+        "company_url": "",
+        "is_visible": true
     }
 ]
