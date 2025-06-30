@@ -3239,5 +3239,40 @@
         "date_posted": 1751252617,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751252711,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124737151496528582-student-researcher",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Princeton, NJ",
+            "Pittsburgh, PA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Student Researcher",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d0193614-3226-4dbe-9c4e-d07bcec9127b",
+        "date_posted": 1751252711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
