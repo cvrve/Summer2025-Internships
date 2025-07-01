@@ -58,7 +58,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TikTok | Software Engineer Intern, TikTok-Social-Product Innovation | San Jose, CA | <a href="https://lifeattiktok.com/search/7514157460153895175?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Tesla | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240889?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | ATPCO | Platform Capability Engineering Intern | Herndon, VA | <a href="https://jobs.smartrecruiters.com/ATPCO1/744000064390815?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
-| 84.51° | Agile Delivery Co-op Program | Cincinnati, OH | <a href="https://job-boards.greenhouse.io/8451university/jobs/8028712002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 13 |
 | Tesla | Software Engineering Intern, Recruiting | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/244394?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | Dolby | Video Coding Research Intern, AI Focus | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512187?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
 | ↳ | Dolby Vision Software QA Intern | Sunnyvale, CA | <a href="https://jobs.dolby.com/careers/job/29512719?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 10 |
@@ -123,7 +122,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241053?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | AMD | Firmware Engineering Intern/ Co-Op - Masters - Fall | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63597/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Software Engineering Intern/Co-op - Masters - Fall | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63596/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| 84.51° | Software Engineer Co-op Program | Cincinnati, OH | 🔒 | Jun 13 |
+| 84.51° | Agile Delivery Co-op Program | Cincinnati, OH | 🔒 | Jun 13 |
+| ↳ | Software Engineer Co-op Program | Cincinnati, OH | 🔒 | Jun 13 |
 | NVIDIA | Data Science and Insights Intern, Omniverse | Santa Clara, CA | 🔒 | Jun 06 |
 | ↳ | Software Engineering Intern, LLM NIM Engineering | Santa Clara, CA | 🔒 | Jun 06 |
 | BMO | Junior Software Developer Intern | New York, NY</br>San Francisco, CA | 🔒 | Jun 06 |
