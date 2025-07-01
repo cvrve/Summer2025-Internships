@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Salesforce | Associate Product Manager Intern | San Francisco, CA | <a href="https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| Palantir | Software Engineer Intern, Production Infrastructure | Seattle, WA | <a href="https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | IMC | Quantitative Trader Intern | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580757101?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Quantitative Research Intern, Trading | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580808101?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580810101/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |

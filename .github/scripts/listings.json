@@ -3513,5 +3513,22 @@
         "date_posted": 1751390309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751391303,
+        "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Production Infrastructure",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e3f6912b-e056-4a03-a003-b2de74aa4ed4",
+        "date_posted": 1751391303,
+        "company_url": "",
+        "is_visible": true
     }
 ]
