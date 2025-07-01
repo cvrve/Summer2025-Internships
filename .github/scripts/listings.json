@@ -3768,5 +3768,33 @@
         "date_posted": 1751392364,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751392407,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie",
+        "locations": [
+            "Tucson, AZ",
+            "Griffin, GA",
+            "Decatur",
+            "Mossville",
+            "Mossville",
+            "Washington",
+            "Pontiac, IL",
+            "Lafayette, IN",
+            "Brooklyn Park, MN",
+            "Clayton, NC",
+            "Fort Worth",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "73305ff4-33fe-45b9-9b2b-87d84d2d0d6c",
+        "date_posted": 1751392407,
+        "company_url": "",
+        "is_visible": true
     }
 ]
