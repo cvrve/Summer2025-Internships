@@ -3683,5 +3683,22 @@
         "date_posted": 1751391711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751391756,
+        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, US Government",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "93d6c3a4-f4bb-4d10-8c76-a552f3e2ed7e",
+        "date_posted": 1751391756,
+        "company_url": "",
+        "is_visible": true
     }
 ]
