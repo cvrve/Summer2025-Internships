@@ -3615,5 +3615,22 @@
         "date_posted": 1751391426,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751391438,
+        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "89f61024-3858-4e86-80eb-0281659f8885",
+        "date_posted": 1751391438,
+        "company_url": "",
+        "is_visible": true
     }
 ]
