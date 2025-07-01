@@ -3445,5 +3445,22 @@
         "date_posted": 1751387656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751390040,
+        "url": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000003P6DN2A0/ai-internship-developing-experimenting-with-ai-tools",
+        "locations": [
+            "Washington, District of Columbia (D.C.)"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nasa",
+        "title": "AI Internship: Developing & Experimenting with AI Tools",
+        "season": "Fall",
+        "source": "jcodes101",
+        "id": "fd9229b1-173f-448f-91ed-383cfb1e4a78",
+        "date_posted": 1751390040,
+        "company_url": "",
+        "is_visible": true
     }
 ]

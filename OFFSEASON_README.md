@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nasa | AI Internship: Developing & Experimenting with AI Tools 🇺🇸 | Washington, District of Columbia (D.C.) | <a href="https://stemgateway.nasa.gov/s/course-offering/a0BSJ000003P6DN2A0/ai-internship-developing-experimenting-with-ai-tools?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Tesla | Operational Automation Engineer Intern, Residential Energy | Draper, UT | <a href="https://www.tesla.com/careers/search/job/245029?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Skydio | Middleware Software Intern | San Mateo, CA | <a href="https://www.skydio.com/jobs/6220445003?gh_jid=6220445003&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Scale AI | Technical Advisor Intern | San Francisco, CA | <a href="https://scale.com/careers/4553274005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
