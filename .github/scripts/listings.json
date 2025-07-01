@@ -3496,5 +3496,22 @@
         "date_posted": 1751390250,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751390309,
+        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geneva Trading",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4ae7a6f6-0376-4acb-9766-1c7d5879fb01",
+        "date_posted": 1751390309,
+        "company_url": "",
+        "is_visible": true
     }
 ]
