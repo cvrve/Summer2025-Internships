@@ -3428,5 +3428,22 @@
         "date_posted": 1751386762,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751387656,
+        "url": "https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Summer 2026 Associate Product Manager Intern",
+        "season": "Summer",
+        "source": "mouchatt6",
+        "id": "6a1383dc-82eb-440c-bee0-b6d2bdb9bd07",
+        "date_posted": 1751387656,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Salesforce | Summer 2026 Associate Product Manager Intern | San Francisco, CA | <a href="https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | IMC | Software Engineer Intern - Summer 2026 | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580810101/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Walleye Capital | Equity Volatility Quant Researcher Intern | Miami, FL | <a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4572985006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | ↳ | Quantitative Developer Intern | Boston, MA | <a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
