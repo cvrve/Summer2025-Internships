@@ -3479,5 +3479,22 @@
         "date_posted": 1751390235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751390250,
+        "url": "https://www.imc.com/us/careers/jobs/4580757101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7af02008-8445-4e27-81ed-4288a257b85d",
+        "date_posted": 1751390250,
+        "company_url": "",
+        "is_visible": true
     }
 ]
