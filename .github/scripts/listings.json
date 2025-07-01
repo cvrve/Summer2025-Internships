@@ -3796,5 +3796,25 @@
         "date_posted": 1751392407,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751392535,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science",
+        "locations": [
+            "Minneapolis, MN",
+            "Bloomington, MN",
+            "Noblesville, IN",
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1387e9a9-6372-4eca-8029-1d44dc0f9d4f",
+        "date_posted": 1751392535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
