@@ -1105,7 +1105,7 @@
             "Kent, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stoke Space",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2820,13 +2820,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749840316,
+        "date_updated": 1751389912,
         "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "84.51\u00b0",
         "title": "Agile Delivery Co-op Program",
         "season": "Fall",
