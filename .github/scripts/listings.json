@@ -1959,13 +1959,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748644489,
+        "date_updated": 1751486202,
         "url": "https://job-boards.greenhouse.io/podium81/jobs/6932534",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Podium",
         "title": "Security Engineering Intern",
         "season": "Fall",
