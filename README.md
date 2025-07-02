@@ -126,7 +126,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quantitative Systematic Trading Intern, Masters | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9305/Quantitative-Systematic-Trading-Internship-Master-s-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Protiviti | Digital Intern 🛂 | New York, NY | <a href="https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Point72 | Quantitative Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/point72/jobs/7297613002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
-| Lockheed Martin | Cyber Software Engineering Intern | Herndon, VA | <a href="https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994752?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Jane Street | Tools & Compilers Research and Development Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/5869205002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | D.E Shaw | Fundamental Research Analyst Intern | New York, NY | <a href="https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | ↳ | Proprietary Trading Intern | New York, NY | <a href="https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2026-5379?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
@@ -139,6 +138,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GE Appliances | Software Engineering Co-op | Louisville, KY | 🔒 | May 28 |
 | Stoke Space | Software Engineer Intern | Kent, WA | 🔒 | May 24 |
 | Simpson Gumpertz & Heger | Building Technology Intern | Washington, DC | 🔒 | May 24 |
+| Lockheed Martin | Cyber Software Engineering Intern | Herndon, VA | 🔒 | May 24 |
 | GSA Capital | Quantitative Researcher Intern | New York, NY | 🔒 | May 24 |
 | Salesforce | Software Engineer Intern - 2026 | <details><summary>**9 locations**</summary>San Francisco, CA</br>Seattle, WA</br>Palo Alto, CA</br>Atlanta, GA</br>Boston, MA</br>New York, NY</br>Burlington, MA</br>Dallas, TX</br>Indianapolis, ID</details> | 🔒 | Apr 28 |
 | Bridgewater Associates | Campus Investment Engineer Intern - 2026 | New York, NY | 🔒 | Apr 10 |
