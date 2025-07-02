@@ -85,7 +85,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243876?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Neuralink | Machine Learning Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6594261003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
 | Leonardo DRS | Software Engineer Intern | Beavercreek, OH | <a href="https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295374800/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 31 |
-| Podium | Security Engineering Intern | Lehi, UT | <a href="https://job-boards.greenhouse.io/podium81/jobs/6932534?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | Formlabs | Web Development Intern | Somerville, MA | <a href="https://careers.formlabs.com/job/6901361/apply/?gh_jid=6901361&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | AMD | Software Engineering Intern/Co-Op | San Jose, CA | <a href="https://careers.amd.com/careers-home/jobs/63578?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
 | ↳ | Firmware Engineering Intern/Co-Op | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63889?lang=en-us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 30 |
@@ -133,6 +132,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ASML | Feature Detection and Data Science Co-op Intern | Wilton, CT | 🔒 | Jun 05 |
 | NVIDIA | SRE DevOps Engineer Intern, IPP | Santa Clara, CA | 🔒 | May 31 |
 | Wurl | Full Stack Software Engineer Intern | Remote</br>US | 🔒 | May 30 |
+| Podium | Security Engineering Intern | Lehi, UT | 🔒 | May 30 |
 | NVIDIA | Software Engineering Intern, AI Tools Analysis | Santa Clara, CA | 🔒 | May 30 |
 | Relativity Space | Software Engineer Intern | Stennis, MI | 🔒 | May 29 |
 | NVIDIA | Networking Software Intern | Santa Clara, CA | 🔒 | May 29 |
