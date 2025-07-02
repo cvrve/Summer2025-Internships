@@ -3957,5 +3957,25 @@
         "date_posted": 1751454704,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454820,
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3e43bbc9-4dda-49fe-bc78-9b010eae5822",
+        "date_posted": 1751454820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
