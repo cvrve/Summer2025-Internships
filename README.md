@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Optiver | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033071002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| Optiver | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7832160002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
+| ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033071002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_src=9fb491cd2&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Citadel Securities | Designated Market Maker (DMM) Trading Intern | New York, NY | <a href="https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trading-intern-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Launch Intern | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/launch-intern-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
