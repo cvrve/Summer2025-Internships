@@ -3904,5 +3904,23 @@
         "date_posted": 1751454635,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454650,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "50c57c61-e782-41ab-b801-a7f2336d65a3",
+        "date_posted": 1751454650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
