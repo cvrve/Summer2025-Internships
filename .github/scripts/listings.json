@@ -3816,5 +3816,22 @@
         "date_posted": 1751392535,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751424789,
+        "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2026/27259",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Epic",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "jcodes101",
+        "id": "884ab66b-d3eb-4033-8812-78a4ce151534",
+        "date_posted": 1751424789,
+        "company_url": "",
+        "is_visible": true
     }
 ]
