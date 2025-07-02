@@ -3940,5 +3940,22 @@
         "date_posted": 1751454666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454704,
+        "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trading-intern-us/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Designated Market Maker (DMM) Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "38f05d35-538f-4601-9715-fca0c4a12842",
+        "date_posted": 1751454704,
+        "company_url": "",
+        "is_visible": true
     }
 ]
