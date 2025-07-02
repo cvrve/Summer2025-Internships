@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| SIG | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Optiver | Quantitative Research Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7967593002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7832160002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033071002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |

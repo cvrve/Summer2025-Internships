@@ -4064,5 +4064,22 @@
         "date_posted": 1751455133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751455233,
+        "url": "https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SIG",
+        "title": "Quantitative Strategy Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5c1b44f8-932e-4e5a-be2d-2ba1403cd470",
+        "date_posted": 1751455233,
+        "company_url": "",
+        "is_visible": true
     }
 ]
