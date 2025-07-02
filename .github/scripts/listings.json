@@ -3886,5 +3886,23 @@
         "date_posted": 1751454618,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454635,
+        "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "FPGA Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2afba971-5170-4246-b694-e832658ee0ee",
+        "date_posted": 1751454635,
+        "company_url": "",
+        "is_visible": true
     }
 ]
