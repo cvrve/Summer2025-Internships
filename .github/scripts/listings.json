@@ -3850,5 +3850,23 @@
         "date_posted": 1751424845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454598,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "81f5fccc-3e16-4b69-a854-d8f7d14e8332",
+        "date_posted": 1751454598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
