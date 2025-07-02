@@ -3977,5 +3977,24 @@
         "date_posted": 1751454820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454891,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a378447b-544a-4684-9111-bb9ebf1ebaca",
+        "date_posted": 1751454891,
+        "company_url": "",
+        "is_visible": true
     }
 ]
