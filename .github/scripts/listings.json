@@ -4099,5 +4099,22 @@
         "date_posted": 1751484185,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751484214,
+        "url": "https://careers.t-mobile.com/fall-2025-product-manager-intern/job/99F63B25A0C19559715D8EC4C351D427",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Product Manager Intern",
+        "season": "Fall",
+        "source": "nchalla3",
+        "id": "0d19d30a-69cd-43ea-84ca-f07a4ceb6232",
+        "date_posted": 1751484214,
+        "company_url": "",
+        "is_visible": true
     }
 ]
