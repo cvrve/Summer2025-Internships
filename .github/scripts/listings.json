@@ -4013,5 +4013,22 @@
         "date_posted": 1751454918,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751455067,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033071002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bfbda897-56c3-4ace-8b4c-5dfc76ab58c6",
+        "date_posted": 1751455067,
+        "company_url": "",
+        "is_visible": true
     }
 ]
