@@ -4047,5 +4047,22 @@
         "date_posted": 1751455110,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751455133,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7967593002/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "599435a1-da66-45ee-95cc-c12a88fe7ef4",
+        "date_posted": 1751455133,
+        "company_url": "",
+        "is_visible": true
     }
 ]
