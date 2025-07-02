@@ -3922,5 +3922,23 @@
         "date_posted": 1751454650,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454666,
+        "url": "https://www.citadelsecurities.com/careers/details/launch-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Launch Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "46ea0135-a5d7-4772-ae40-4f00457e4525",
+        "date_posted": 1751454666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
