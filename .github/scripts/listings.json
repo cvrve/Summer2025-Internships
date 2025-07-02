@@ -4081,5 +4081,23 @@
         "date_posted": 1751455233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751484185,
+        "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Summer-2026-LEAD-Information-Technology-Intern_R0099765",
+        "locations": [
+            "Pittsburgh, PA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wabtec",
+        "title": "Summer 2026 LEAD Information Technology Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "e6c3cd46-2f04-4b7c-8a15-95681c4c515a",
+        "date_posted": 1751484185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
