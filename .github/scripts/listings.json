@@ -4116,5 +4116,22 @@
         "date_posted": 1751484214,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751519705,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7",
+        "locations": [
+            "US, MO, St. Louis"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Performance Engineer Intern, Gaming",
+        "season": "Spring",
+        "source": "Prabhjot-khera",
+        "id": "221bd487-189d-406a-8f95-07b9dea37774",
+        "date_posted": 1751519705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
