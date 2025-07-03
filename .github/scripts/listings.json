@@ -4133,5 +4133,22 @@
         "date_posted": 1751519705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751584655,
+        "url": "https://app.ripplematch.com/v2/public/job/968aeefe",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, AI Intern",
+        "season": "Fall",
+        "source": "nchalla3",
+        "id": "673aa357-b569-48c1-8ceb-de12a936f03d",
+        "date_posted": 1751584655,
+        "company_url": "",
+        "is_visible": true
     }
 ]
