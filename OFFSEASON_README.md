@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Whatnot | Software Engineer Intern | Remote</br>US | <a href="https://boards.greenhouse.io/embed/job_app?token=5562040004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | Notion | Software Engineer, AI Intern | San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/968aeefe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | T-Mobile | Product Manager Intern | Bellevue, WA | <a href="https://careers.t-mobile.com/fall-2025-product-manager-intern/job/99F63B25A0C19559715D8EC4C351D427?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | NVIDIA | Performance Engineer Intern, Gaming | US, MO, St. Louis | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
