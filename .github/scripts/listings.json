@@ -4186,5 +4186,22 @@
         "date_posted": 1751650291,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751650317,
+        "url": "https://careers.tsmc.com/en_US/careers/JobDetail/Summer-2026-TSMC-AZ-Internship-Opportunities-Engineering-Roles/16376",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TSMC",
+        "title": "Computer Integrated Manufacturing (CIM) Engineer Intern",
+        "season": "Summer",
+        "source": "dlln9001",
+        "id": "d4d2ec95-c02d-4152-b8a7-2b496ed9eadf",
+        "date_posted": 1751650317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
