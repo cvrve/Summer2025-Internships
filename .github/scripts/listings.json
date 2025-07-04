@@ -4168,5 +4168,23 @@
         "date_posted": 1751584862,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751650291,
+        "url": "https://www.amazon.jobs/en/jobs/2878134/software-development-engineer-intern",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "jcas12",
+        "id": "2a8885fd-b48c-4e23-a0a9-37e7822095d5",
+        "date_posted": 1751650291,
+        "company_url": "",
+        "is_visible": true
     }
 ]
