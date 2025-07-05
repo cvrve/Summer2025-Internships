@@ -4203,5 +4203,22 @@
         "date_posted": 1751650317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751748785,
+        "url": "https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer Intern, Product RD and Infrastructure",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6e54bde8-8c18-4b79-b0ce-9c7a9cd6ce59",
+        "date_posted": 1751748785,
+        "company_url": "",
+        "is_visible": true
     }
 ]
