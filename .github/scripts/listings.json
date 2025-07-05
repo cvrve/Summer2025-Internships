@@ -2735,13 +2735,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749595643,
+        "date_updated": 1751747075,
         "url": "https://www.careers.jnj.com/en/jobs/r-018331/front-end-software-engineering-intern/",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Front End Software Engineering Intern",
         "season": "Summer",
