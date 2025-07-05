@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ByteDance | Backend Software Engineer Intern, Product RD and Infrastructure 🛂 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | Whatnot | Software Engineer Intern | Remote</br>US | <a href="https://boards.greenhouse.io/embed/job_app?token=5562040004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | Notion | Software Engineer, AI Intern | San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/968aeefe?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 03 |
 | T-Mobile | Product Manager Intern | Bellevue, WA | <a href="https://careers.t-mobile.com/fall-2025-product-manager-intern/job/99F63B25A0C19559715D8EC4C351D427?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
