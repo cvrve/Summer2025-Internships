@@ -1,0 +1,64 @@
+name: Close Internship
+description: Request to close/archive an internship listing
+title: "Close Internship"
+labels: ["close_internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Close Internship Request
+        Use this form to request closing an internship listing.
+        
+  - type: input
+    id: company_name
+    attributes:
+      label: Company Name
+      description: Name of the company
+      placeholder: ex. Google
+    validations:
+      required: true
+      
+  - type: input
+    id: role_title
+    attributes:
+      label: Role Title
+      description: Title of the internship role
+      placeholder: ex. Software Engineering Intern
+    validations:
+      required: true
+      
+  - type: input
+    id: job_url
+    attributes:
+      label: Job URL (Optional)
+      description: |
+        Link to the job posting (optional, helps with identification if there are multiple similar roles)
+      placeholder: ex. https://example.com/careers/software-engineer-intern
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: closure_reason
+    attributes:
+      label: Reason for closing
+      description: Why should this listing be closed?
+      multiple: false
+      options:
+        - Position filled
+        - Application deadline passed
+        - Posting removed by company
+        - Duplicate listing
+        - Position cancelled
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information (Optional)
+      description: |
+        Any additional context about why this listing should be closed
+      placeholder: The company has confirmed the position is no longer available...
+    validations:
+      required: false

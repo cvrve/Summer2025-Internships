@@ -19,6 +19,15 @@ LINES = {
     "email_is_edit": 17
 }
 
+# Lines for close_internship form
+CLOSE_LINES = {
+    "company_name": 1,
+    "role_title": 3,
+    "job_url": 5,
+    "closure_reason": 7,
+    "additional_info": 9
+}
+
 # lines that require special handling
 SPECIAL_LINES = set(["url", "locations", "sponsorship", "active", "email", "email_is_edit"])
 
@@ -28,10 +37,26 @@ def add_https_to_url(url):
     return url
 
 
-def getData(body, is_edit, username):
+def getData(body, is_edit, is_close, username):
     lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
     
     data = {"date_updated": int(datetime.now().timestamp())}
+
+    if is_close:
+        # Handle close internship form
+        if "no response" not in lines[CLOSE_LINES["company_name"]].lower():
+            data["company_name"] = lines[CLOSE_LINES["company_name"]].strip()
+        if "no response" not in lines[CLOSE_LINES["role_title"]].lower():
+            data["role_title"] = lines[CLOSE_LINES["role_title"]].strip()
+        if "no response" not in lines[CLOSE_LINES["job_url"]].lower():
+            data["job_url"] = add_https_to_url(lines[CLOSE_LINES["job_url"]].strip())
+        if "no response" not in lines[CLOSE_LINES["closure_reason"]].lower():
+            data["closure_reason"] = lines[CLOSE_LINES["closure_reason"]].strip()
+        
+        # Set default email for close operations
+        util.setOutput("commit_email", "action@github.com")
+        util.setOutput("commit_username", "GitHub Action")
+        return data
 
     # url handling
     if "no response" not in lines[ LINES["url"] ].lower():
@@ -85,9 +110,10 @@ def main():
 
     new_internship = "new_internship" in [label["name"] for label in event_data["issue"]["labels"]]
     edit_internship = "edit_internship" in [label["name"] for label in event_data["issue"]["labels"]]
+    close_internship = "close_internship" in [label["name"] for label in event_data["issue"]["labels"]]
 
-    if not new_internship and not edit_internship:
-        util.fail("Only new_internship and edit_internship issues can be approved")
+    if not new_internship and not edit_internship and not close_internship:
+        util.fail("Only new_internship, edit_internship, and close_internship issues can be approved")
 
 
     # GET DATA FROM ISSUE FORM
@@ -95,7 +121,7 @@ def main():
     issue_body = event_data['issue']['body']
     issue_user = event_data['issue']['user']['login']
 
-    data = getData(issue_body, is_edit=edit_internship, username=issue_user)
+    data = getData(issue_body, is_edit=edit_internship, is_close=close_internship, username=issue_user)
 
     if new_internship:
         data["source"] = issue_user
@@ -104,12 +130,13 @@ def main():
         data["company_url"] = ""
         data["is_visible"] = True
 
-    # remove utm-source
-    utm = data["url"].find("?utm_source")
-    if utm == -1:
-        utm = data["url"].find("&utm_source")
-    if utm != -1:
-        data["url"] = data["url"][:utm]
+    if not close_internship:
+        # remove utm-source
+        utm = data["url"].find("?utm_source")
+        if utm == -1:
+            utm = data["url"].find("&utm_source")
+        if utm != -1:
+            data["url"] = data["url"][:utm]
 
 
     # UPDATE LISTINGS
@@ -123,21 +150,56 @@ def main():
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
-    if listing_to_update := next(
-        (item for item in listings if item["url"] == data["url"]), None
-    ):
-        if new_internship:
-            util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
-        for key, value in data.items():
-            listing_to_update[key] = value
-
-        util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
+    if close_internship:
+        # Handle closing internship by company name, role title, and optionally URL
+        company_name = data.get("company_name")
+        role_title = data.get("role_title")
+        job_url = data.get("job_url")
+        
+        if not company_name or not role_title:
+            util.fail("Company name and role title are required to close an internship")
+        
+        # Find matching listings
+        candidates = []
+        for item in listings:
+            if (item["company_name"].lower() == company_name.lower() and 
+                item["title"].lower() == role_title.lower()):
+                candidates.append(item)
+        
+        # If URL provided, filter by URL
+        if job_url and candidates:
+            url_matches = [item for item in candidates if item["url"] == job_url]
+            if url_matches:
+                candidates = url_matches
+        
+        if not candidates:
+            util.fail(f"No internship found matching company '{company_name}' and role '{role_title}'")
+        elif len(candidates) > 1:
+            util.fail(f"Multiple internships found matching company '{company_name}' and role '{role_title}'. Please provide the job URL to specify which one to close.")
+        
+        listing_to_close = candidates[0]
+        
+        # Mark as inactive and update timestamp
+        listing_to_close["active"] = False
+        listing_to_close["date_updated"] = data["date_updated"]
+        
+        util.setOutput("commit_message", "closed listing: " + get_commit_text(listing_to_close))
     else:
-        if edit_internship:
-            util.fail("We could not find this internship in our list. Please double check you inserted the right url")
-        listings.append(data)
+        if listing_to_update := next(
+            (item for item in listings if item["url"] == data["url"]), None
+        ):
+            if new_internship:
+                util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+            for key, value in data.items():
+                listing_to_update[key] = value
 
-        util.setOutput("commit_message", "added listing: " + get_commit_text(data))
+            util.setOutput("commit_message", "updated listing: " + get_commit_text(listing_to_update))
+        else:
+            if edit_internship:
+                util.fail("We could not find this internship in our list. Please double check you inserted the right url")
+            listings.append(data)
+
+            util.setOutput("commit_message", "added listing: " + get_commit_text(data))
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))
