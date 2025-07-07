@@ -4306,5 +4306,22 @@
         "date_posted": 1751907807,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751915338,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6926715",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "DRW",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "mkhosla11",
+        "id": "b65bb765-244c-4d48-bcc4-67ffdb591856",
+        "date_posted": 1751915338,
+        "company_url": "",
+        "is_visible": true
     }
 ]

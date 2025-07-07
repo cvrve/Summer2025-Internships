@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| DRW | Software Developer Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/drweng/jobs/6926715?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | <a href="https://www.capitalonecareers.com/job/mclean/product-development-internship-program-summer-2026/31238/83485599760?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
 | TSMC | Computer Integrated Manufacturing (CIM) Engineer Intern | Phoenix, AZ | <a href="https://careers.tsmc.com/en_US/careers/JobDetail/Summer-2026-TSMC-AZ-Internship-Opportunities-Engineering-Roles/16376?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
 | Wabtec | Summer 2026 LEAD Information Technology Intern | Pittsburgh, PA</br>Chicago, IL | <a href="https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Summer-2026-LEAD-Information-Technology-Intern_R0099765?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
