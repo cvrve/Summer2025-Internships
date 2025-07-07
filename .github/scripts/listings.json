@@ -3050,13 +3050,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750945664,
+        "date_updated": 1751926321,
         "url": "https://www.lockheedmartinjobs.com/job/littleton/software-engineering-intern/694/82475330752",
         "locations": [
             "Littleton, Colorado"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Lockheed Martin",
         "title": "Software Engineering Intern",
         "season": "Summer",
