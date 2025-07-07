@@ -4220,5 +4220,56 @@
         "date_posted": 1751748785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751791189,
+        "url": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
+        "locations": [
+            "Macedonia, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peak Nano",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d2a61ff5-c64a-4a6d-81ee-b25ac232e11c",
+        "date_posted": 1751791189,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1751795210,
+        "url": "https://careers.hitachi.com/jobs/16376125-ai-slash-ml-engineering-intern",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi Energy USA Inc",
+        "title": "AI/ML Engineering Intern",
+        "source": "vanshb03",
+        "id": "c2577653-3dcd-4ced-87c5-cc97fb403e27",
+        "date_posted": 1751795210,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1751851167,
+        "url": "https://www.ycombinator.com/companies/vly-ai-2/jobs/5xe004o-full-stack-applied-ai-software-engineering-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "vly.ai",
+        "title": "Full-Stack + Applied AI Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "996de9d2-d161-4567-a63a-6906bb1a4076",
+        "date_posted": 1751851167,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
