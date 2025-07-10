@@ -4342,20 +4342,37 @@
         "is_visible": true
     },
     {
-    "date_updated": 1752164507,
-    "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735",
-    "locations": [
-        "Tampa, FL"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "The Mosaic Company",
-    "title": "Data Analyst Intern, Co-op",
-    "source": "vanshb03",
-    "id": "118a9c4b-6ab2-4e0d-8b39-d260c8bc5219",
-    "date_posted": 1752164507,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Spring"
+        "date_updated": 1752164507,
+        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Mosaic Company",
+        "title": "Data Analyst Intern, Co-op",
+        "source": "vanshb03",
+        "id": "118a9c4b-6ab2-4e0d-8b39-d260c8bc5219",
+        "date_posted": 1752164507,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1752164767,
+        "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Fall",
+        "source": "Vitamoon",
+        "id": "49442d16-208a-4fa6-b0ea-d4f9d8519a06",
+        "date_posted": 1752164767,
+        "company_url": "",
+        "is_visible": true
     }
 ]
