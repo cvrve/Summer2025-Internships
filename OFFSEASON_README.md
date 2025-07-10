@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Splunk | Product Manager Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Mercedes-Benz | Software Developer - AIX Intern | San Jose, CA | <a href="https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
 | vly.ai | Full-Stack + Applied AI Software Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/vly-ai-2/jobs/5xe004o-full-stack-applied-ai-software-engineering-intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
 | Peak Nano | Software Engineer Intern 🇺🇸 | Macedonia, OH | <a href="https://www.peaknano.com/careers/software-engineer-intern-spring-26?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
