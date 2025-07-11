@@ -4273,14 +4273,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1751907760,
+        "date_updated": 1752195481,
         "url": "https://www.capitalonecareers.com/job/mclean/product-development-internship-program-summer-2026/31238/83485599760",
         "locations": [
             "McLean, VA",
             "Plano, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Product Development Intern",
         "season": "Summer",
