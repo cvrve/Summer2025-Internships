@@ -161,7 +161,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Systems Software Engineering Intern, GPU Virtualization | Santa Clara, CA | 🔒 | May 26 |
 | ↳ | Compute Systems Software Intern | Santa Clara, CA | 🔒 | May 26 |
 | NVIDIA | Backend Compiler Engineer Intern | Santa Clara, CA | 🔒 | May 24 |
-| Jane Street | Software Engineer Intern | New York, NY | 🔒 | May 24 |
 | OpenAI | Software Engineer Intern/Co-Op, Applied Engineering | San Francisco, CA</br>Seattle, WA | 🔒 | May 22 |
 | NVIDIA | Deep Learning Server Software Intern, DGX - Fall | Santa Clara, CA | 🔒 | May 19 |
 | ↳ | Camera Systems Software Engineering Intern - Fall | Austin, TX</br>Santa Clara, CA | 🔒 | May 19 |
