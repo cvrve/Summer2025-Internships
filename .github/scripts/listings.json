@@ -4391,5 +4391,22 @@
         "date_posted": 1752164825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752195232,
+        "url": "https://www.tesla.com/en_IE/careers/search/job/internship-software-machine-learning-engineer-reliability-energy-engineering-fall-2025-242665",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Machine Learning Engineer, Reliability Energy Engineering",
+        "season": "Fall",
+        "source": "ouckah",
+        "id": "ac3ce946-fab6-4bd7-8155-a5d387c077fd",
+        "date_posted": 1752195232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
