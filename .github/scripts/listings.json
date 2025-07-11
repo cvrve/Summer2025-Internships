@@ -4376,13 +4376,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752164825,
+        "date_updated": 1752194941,
         "url": "https://www.tesla.com/careers/search/job/245486",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Machine Learning Engineer Intern, Energy Engineering",
         "season": "Summer",
