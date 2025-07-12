@@ -4595,5 +4595,22 @@
         "date_posted": 1752254084,
         "company_url": "",
         "is_visible": true
+    },
+    {
+    "date_updated": 1752296073,
+    "url": "https://www.pinterestcareers.com/jobs/6868494/software-engineering-intern-2025-toronto/?gh_jid=6868494",
+    "locations": [
+        "Toronto, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Pinterest",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "a4802cc2-ecaa-48f4-ad27-f601f8653660",
+    "date_posted": 1752296073,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
     }
 ]
