@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Pinterest | Software Engineering Intern | Toronto, Canada | <a href="https://www.pinterestcareers.com/jobs/6868494/software-engineering-intern-2025-toronto/?gh_jid=6868494&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
 | The Mosaic Company | Data Analyst Intern, Co-op | Tampa, FL | <a href="https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Tesla | Software Machine Learning Engineer, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/en_IE/careers/search/job/internship-software-machine-learning-engineer-reliability-energy-engineering-fall-2025-242665?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Splunk | Site Reliability Engineer Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
