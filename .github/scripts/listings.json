@@ -1822,14 +1822,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748579303,
+        "date_updated": 1752437274,
         "url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637",
         "locations": [
             "San Francisco, CA",
             "Little Rock, AR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LiveRamp",
         "title": "Software Engineer, Co-op - Clean Rooms",
         "season": "Fall",
@@ -2181,13 +2181,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748830508,
+        "date_updated": 1752437276,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Avionics Software Engineer Intern",
         "season": "Spring",
@@ -3033,7 +3033,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750945726,
+        "date_updated": 1752437279,
         "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1",
         "locations": [
             "Rahway, NJ",
@@ -3041,7 +3041,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Merck",
         "title": "IT Intern",
         "season": "Summer",
@@ -3052,14 +3052,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750946211,
+        "date_updated": 1752437259,
         "url": "https://job-boards.greenhouse.io/parachutehealth/jobs/4772847007",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Parachute Health",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -3070,13 +3070,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750946339,
+        "date_updated": 1752437281,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "System Software Engineering Intern, CUDA Driver",
         "season": "Fall",
@@ -3259,14 +3259,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751252839,
+        "date_updated": 1752437259,
         "url": "https://job-boards.greenhouse.io/ada18/jobs/4746106007",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ada18",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -3277,13 +3277,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751252883,
+        "date_updated": 1752437287,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551",
         "locations": [
             "Fayetteville, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Systems Engineer Intern",
         "season": "Fall",
