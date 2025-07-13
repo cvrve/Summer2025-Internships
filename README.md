@@ -107,7 +107,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Risk Quant Research Intern | New York, NY | <a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565276006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | ↳ | Technology Intern | New York, NY | <a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565278006?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Radix Trading | Quantitative Technologist Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=7842108002&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
-| Merck | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | <a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Morgan Stanley | SWE Intern, Data Analyst Intern | New York, NY | <a href="https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | Lockheed Martin | Software Engineer - Intern 🇺🇸 | Annapolis Junction, MD | <a href="https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | D. E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
@@ -149,6 +148,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Machine Learning Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Jul 10 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Jul 07 |
 | Amazon | Software Development Intern | Boston, MA</br>Seattle, WA | 🔒 | Jul 04 |
+| Merck | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | 🔒 | Jun 26 |
 | Lockheed Martin | Software Engineering Intern 🇺🇸 | Littleton, Colorado | 🔒 | Jun 26 |
 | Johnson & Johnson | Front End Software Engineering Intern | Santa Clara, CA | 🔒 | Jun 10 |
 | TransMarket Group | Algorithmic Trader Intern | Chicago, IL | 🔒 | Jun 05 |
