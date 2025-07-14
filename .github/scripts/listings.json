@@ -4768,5 +4768,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1752526651,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CTC",
+        "title": "Quant Trading Intern",
+        "source": "vanshb03",
+        "id": "331e247c-58b7-4bb0-b517-1ad2bfc08282",
+        "date_posted": 1752526651,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
