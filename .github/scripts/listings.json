@@ -4750,5 +4750,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1752526536,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CTC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9465616f-b882-4a6b-ad84-14b011ede204",
+        "date_posted": 1752526536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
