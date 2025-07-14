@@ -4646,5 +4646,22 @@
         "date_posted": 1752391629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752523527,
+        "url": "https://careers.sig.com/job/SUSQA004Y9571?mode=apply",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "hfeng20",
+        "id": "0154c697-b4f0-4da2-aecd-7fcafa588e62",
+        "date_posted": 1752523527,
+        "company_url": "",
+        "is_visible": true
     }
 ]

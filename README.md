@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Susquehanna | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/SUSQA004Y9571?mode=apply&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Tower Research Capital | Quantitative Trader Intern | New York, NY | <a href="https://tower-research.com/open-positions/?gh_jid=7062358&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | ↳ | Software Developer Intern | New York | <a href="https://tower-research.com/open-positions/?gh_jid=6790327&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Bank of America | Analytics, Modeling and Insights (AMI) Analyst Intern 🛂 | Charlotte, NC | <a href="https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/12932-Global-Quantitative-Data-Analytics-Summer-2026-Analyst-Analytics-Modeling-and-Insights-AMI/en-GB?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 11 |
