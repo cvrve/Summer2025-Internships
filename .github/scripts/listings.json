@@ -1218,13 +1218,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748137289,
+        "date_updated": 1752506000,
         "url": "https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026",
         "locations": [
             "Jupiter, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Voloridge",
         "title": "Research Software Engineer Intern",
         "season": "Summer",

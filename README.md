@@ -129,7 +129,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Engineering Program Management Intern | United States | <a href="https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | ↳ | Hardware Technology Intern | United States | <a href="https://jobs.apple.com/en-us/details/200606143/hardware-technology-internships?team=STDNT&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 01 |
 | BNP Paribas | Quant Research & Trading Intern | New York, NY | <a href="https://group.bnpparibas/en/careers/job-offer/2026-summer-associate-internship-global-markets-quantitative-research-and-trading-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
-| Voloridge | Research Software Engineer Intern | Jupiter, FL | <a href="https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Tower Research Capital | Machine Learning Intern | New York, NY | <a href="https://tower-research.com/open-positions/?gh_jid=6651908&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Susquehanna | Quantitative Research Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | ↳ | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
@@ -153,7 +152,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johnson & Johnson | Front End Software Engineering Intern | Santa Clara, CA | 🔒 | Jun 10 |
 | TransMarket Group | Algorithmic Trader Intern | Chicago, IL | 🔒 | Jun 05 |
 | GE Appliances | Software Engineering Co-op | Louisville, KY | 🔒 | May 28 |
-| Voloridge | Quantitative Research Intern | Jupiter, FL | 🔒 | May 24 |
+| Voloridge | Research Software Engineer Intern | Jupiter, FL | 🔒 | May 24 |
+| ↳ | Quantitative Research Intern | Jupiter, FL | 🔒 | May 24 |
 | Stoke Space | Software Engineer Intern | Kent, WA | 🔒 | May 24 |
 | Simpson Gumpertz & Heger | Building Technology Intern | Washington, DC | 🔒 | May 24 |
 | Lockheed Martin | Cyber Software Engineering Intern | Herndon, VA | 🔒 | May 24 |
