@@ -47,7 +47,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Susquehanna | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/SUSQA004Y9571?mode=apply&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
-| CTC | Software Engineer Intern | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
+| CTC | Quant Trading Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
+| ↳ | Software Engineer Intern | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Caterpillar | Digital and Analytics Intern | Chicago, IL</br>Peoria, IL</br>Irving, TX | <a href="https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6996427&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | ↳ | Software Engineer Intern, Python | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=7055471&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
