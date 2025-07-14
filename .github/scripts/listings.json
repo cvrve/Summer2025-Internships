@@ -4682,5 +4682,73 @@
         "date_posted": 1752523598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752524226,
+        "url": "https://akunacapital.com/job-details?gh_jid=7055793",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Research Intern",
+        "source": "vanshb03",
+        "id": "9d1d4706-da39-4861-b31f-b19d69674b15",
+        "date_posted": 1752524226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752524234,
+        "url": "https://akunacapital.com/job-details?gh_jid=7055471",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern, Python",
+        "source": "vanshb03",
+        "id": "49add84b-f0ee-4c2c-bc29-7892622c61c6",
+        "date_posted": 1752524234,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752524240,
+        "url": "https://akunacapital.com/job-details?gh_jid=6996427",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern, C++",
+        "source": "vanshb03",
+        "id": "1136c7af-7eca-4dc9-bb7d-ee5ad127ecf0",
+        "date_posted": 1752524240,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752524369,
+        "url": "https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "Quantitative Trading Intern",
+        "source": "vanshb03",
+        "id": "cfb9420c-289e-4b59-822d-a687edbdac21",
+        "date_posted": 1752524369,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
