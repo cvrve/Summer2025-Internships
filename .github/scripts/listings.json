@@ -4820,5 +4820,39 @@
         "date_posted": 1752606122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752605746,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033372002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "6840442b-8894-4cd3-8460-bb827fce3fb3",
+        "date_posted": 1752605746,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752605757,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033390002/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "27411cda-23fd-4274-b41c-60224c5c13e2",
+        "date_posted": 1752605757,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
