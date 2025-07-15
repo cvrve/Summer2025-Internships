@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Bill | Software Engineer Intern | San Jose, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=5588094004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
+| Bill | Machine Learning Engineer Intern | San Jose, CA</br>Draper, UT | <a href="https://www.bill.com/job?5588103004&gh_jid=5588103004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
+| ↳ | Software Engineer Intern | San Jose, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=5588094004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Susquehanna | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/SUSQA004Y9571?mode=apply&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | CTC | Quant Trading Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | ↳ | Software Engineer Intern | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |

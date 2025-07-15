@@ -4802,5 +4802,23 @@
         "date_posted": 1752603567,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752606122,
+        "url": "https://www.bill.com/job?5588103004&gh_jid=5588103004",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bill",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "39b5cb33-bf64-48fb-805d-da30f4c499a2",
+        "date_posted": 1752606122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
