@@ -4871,5 +4871,23 @@
         "date_posted": 1752646165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752646317,
+        "url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2026/31238/83803176160",
+        "locations": [
+            "McLean, VA",
+            "Rishmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "nityalily",
+        "id": "99548ed8-9ec0-4116-ab79-882bc9957313",
+        "date_posted": 1752646317,
+        "company_url": "",
+        "is_visible": true
     }
 ]
