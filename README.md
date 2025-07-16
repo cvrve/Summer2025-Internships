@@ -46,6 +46,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Five Rings | Quantitative Researcher Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
+| ↳ | Quantitative Trader Intern 🛂 | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
+| ↳ | Software Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Optiver | FPGA Engineer Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | ↳ | FPGA Engineer Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Capital One | Data Analyst Intern | McLean, VA</br>Rishmond, VA | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2026/31238/83803176160?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
