@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cisco (Meraki) | Network Support Engineer | Chicago, IL</br>San Francisco, CA | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Fall-2025-Meraki/1441865"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Optiver | FPGA Engineer Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033390002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | ↳ | FPGA Engineer Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/8033372002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Capital One | Data Analyst Intern | McLean, VA</br>Rishmond, VA | <a href="https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2026/31238/83803176160?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
