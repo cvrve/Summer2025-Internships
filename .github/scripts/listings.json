@@ -4889,5 +4889,73 @@
         "date_posted": 1752646317,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752691346,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "2bcda7b6-e4fc-45f0-9cb8-3e3a818cba29",
+        "date_posted": 1752691346,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752691352,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Trader Intern",
+        "source": "vanshb03",
+        "id": "c87b28e0-dff5-43bc-a275-23fd0dd66a01",
+        "date_posted": 1752691352,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752691356,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "b3b8ddba-30ce-48f0-a64c-834d121c5c62",
+        "date_posted": 1752691356,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1752691362,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "c87bf68b-ddca-4032-876e-fb494c2ef406",
+        "date_posted": 1752691362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
