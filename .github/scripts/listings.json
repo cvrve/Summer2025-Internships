@@ -4957,5 +4957,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1752732671,
+        "url": "https://jobs.ashbyhq.com/whatnot/d401d83d-e22f-4cfa-be83-19102767d89d",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Whatnot",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "nchalla3",
+        "id": "3ebe4cb5-12f1-4e85-b03a-1ca53498ca4d",
+        "date_posted": 1752732671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
