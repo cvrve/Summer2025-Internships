@@ -4974,5 +4974,22 @@
         "date_posted": 1752732671,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752732725,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "DutrieuxLU",
+        "id": "f089385d-617a-4d41-b212-d0534dec7aeb",
+        "date_posted": 1752732725,
+        "company_url": "",
+        "is_visible": true
     }
 ]
