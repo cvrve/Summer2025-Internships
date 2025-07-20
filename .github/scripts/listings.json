@@ -5025,5 +5025,23 @@
         "date_posted": 1752995288,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753035112,
+        "url": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
+        "locations": [
+            "Austin, TX",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Method Financial",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "Junebuglovesyou",
+        "id": "18c26fbf-052e-48d7-bc00-868c55404449",
+        "date_posted": 1753035112,
+        "company_url": "",
+        "is_visible": true
     }
 ]
