@@ -3190,13 +3190,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751252617,
+        "date_updated": 1753043043,
         "url": "https://ag.wd3.myworkdayjobs.com/airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
         "locations": [
             "Bingen, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Airbus",
         "title": "Software Engineering Intern",
         "season": "Fall",
@@ -4084,13 +4084,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751519705,
+        "date_updated": 1753043048,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7",
         "locations": [
             "US, MO, St. Louis"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Performance Engineer Intern, Gaming",
         "season": "Spring",
@@ -4308,13 +4308,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752164507,
+        "date_updated": 1753043051,
         "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735",
         "locations": [
             "Tampa, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Mosaic Company",
         "title": "Data Analyst Intern, Co-op",
         "source": "vanshb03",
