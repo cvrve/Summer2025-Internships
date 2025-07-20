@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Kohler | Digital Intern 🛂 | Kohler, WI | <a href="https://kohler.csod.com/ux/ats/careersite/16/home/requisition/67738?c=kohler&source=LinkedIn&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
 | Neuralink | Firmware Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Five Rings | Quantitative Researcher Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | ↳ | Quantitative Trader Intern 🛂 | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |

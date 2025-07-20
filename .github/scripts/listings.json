@@ -4991,5 +4991,22 @@
         "date_posted": 1752732725,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752991251,
+        "url": "https://kohler.csod.com/ux/ats/careersite/16/home/requisition/67738?c=kohler&source=LinkedIn",
+        "locations": [
+            "Kohler, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Kohler",
+        "title": "Digital Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "ed6da867-bf42-496b-aa24-3c8cfc49273e",
+        "date_posted": 1752991251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
