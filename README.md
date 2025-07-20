@@ -94,7 +94,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Citadel | Quantitative Research Analyst Intern | Greenwich, CT</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Software Engineer Intern | <details><summary>**4 locations**</summary>Chicago, IL</br>Miami, FL</br>New York, NY</br>Houston, TX</details> | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Trane Technologies | Engineering Intern | <details><summary>**4 locations**</summary>Minneapolis, MN</br>Bloomington, MN</br>Noblesville, IN</br>St Paul, MN</details> | <a href="https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
-| Salesforce | Associate Product Manager Intern | San Francisco, CA | <a href="https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Palantir | Software Engineer Intern, Infrastructure | New York, NY | <a href="https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Software Engineer Intern | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | ↳ | Forward Deployed Software Engineer Intern, US Government 🇺🇸 | New York, NY | <a href="https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
@@ -163,6 +162,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Machine Learning Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Jul 10 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Jul 07 |
 | Amazon | Software Development Intern | Boston, MA</br>Seattle, WA | 🔒 | Jul 04 |
+| Salesforce | Associate Product Manager Intern | San Francisco, CA | 🔒 | Jul 01 |
 | Merck | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | 🔒 | Jun 26 |
 | Lockheed Martin | Software Engineering Intern 🇺🇸 | Littleton, Colorado | 🔒 | Jun 26 |
 | Johnson & Johnson | Front End Software Engineering Intern | Santa Clara, CA | 🔒 | Jun 10 |
