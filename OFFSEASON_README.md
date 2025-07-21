@@ -43,6 +43,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Sony Pictures | Security Technology AI Intern, Facilities/S3 | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376960?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
+| ↳ | Information Systems Intern, Financial Source-to-Pay | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376064?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
+| Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
+| LiveRamp | Software Engineer Co-Op | San Francisco, CA</br>New York, NY</br>Little Rock, AR | <a href="https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | <a href="https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | TikTok | Machine Learning Engineer Intern, TikTok-Recommendation | Seattle, WA | <a href="https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Oracle Health | Software Engineer Intern | Remote | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/302269?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
