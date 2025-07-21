@@ -5111,5 +5111,28 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1753079044,
+        "url": "https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5005281EXTERNALENGLOBAL/GE-Vernova-Digital-Technology-Internship-Summer-2026",
+        "locations": [
+            "Greenville",
+            "South Carolina",
+            "Schenectady",
+            "New York",
+            "Atlanta",
+            "Georgia",
+            "other GE Vernova locations"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Digital Technology Intern",
+        "season": "Summer",
+        "source": "caoye310",
+        "id": "a965b6b4-52ea-4e64-907b-6865e32ae6ce",
+        "date_posted": 1753079044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
