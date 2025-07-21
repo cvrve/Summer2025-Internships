@@ -5153,5 +5153,75 @@
         "date_posted": 1753106510,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+    "date_updated": 1753108243,
+    "url": "https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern",
+    "locations": [
+        "San Francisco, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Nowadays",
+    "title": "Product Engineer Intern",
+    "source": "vanshb03",
+    "id": "828946fc-f633-4351-a1ed-dcf8388deb0e",
+    "date_posted": 1753108243,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+},
+{
+    "date_updated": 1753108255,
+    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692",
+    "locations": [
+        "San Francisco, CA",
+        "New York, NY",
+        "Little Rock, AR"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "LiveRamp",
+    "title": "Software Engineer Co-Op",
+    "source": "vanshb03",
+    "id": "f0d69a8d-9724-40ec-abf4-dc8eebd7366d",
+    "date_posted": 1753108255,
+    "company_url": "",
+    "is_visible": true,
+    "season": null
+},
+{
+    "date_updated": 1753108345,
+    "url": "https://www.sonypicturesjobs.com/job/-/-/22978/83913376064",
+    "locations": [
+        "Culver City, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Sony Pictures",
+    "title": "Information Systems Intern, Financial Source-to-Pay",
+    "source": "vanshb03",
+    "id": "7304b31a-8b85-4b9b-ba47-8d0eec9ba8c7",
+    "date_posted": 1753108345,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+},
+{
+    "date_updated": 1753108358,
+    "url": "https://www.sonypicturesjobs.com/job/-/-/22978/83913376960",
+    "locations": [
+        "Culver City, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Sony Pictures",
+    "title": "Security Technology AI Intern, Facilities/S3",
+    "source": "vanshb03",
+    "id": "d51200e8-bd23-4602-bed0-59d9ba87cecb",
+    "date_posted": 1753108358,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+}
 ]
