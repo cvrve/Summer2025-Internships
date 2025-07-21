@@ -5134,5 +5134,24 @@
         "date_posted": 1753079044,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753106510,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
+        "locations": [
+            "Seattle, WA",
+            "Denver, CO",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Blue Origin",
+        "title": "Avionics Software Engineering Intern",
+        "season": "Spring",
+        "source": "karthik961",
+        "id": "48cc9ef8-3977-4401-bbad-ffdb3952604f",
+        "date_posted": 1753106510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
