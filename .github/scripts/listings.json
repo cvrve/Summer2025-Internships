@@ -5113,7 +5113,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753079044,
+        "date_updated": 1753106763,
         "url": "https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5005281EXTERNALENGLOBAL/GE-Vernova-Digital-Technology-Internship-Summer-2026",
         "locations": [
             "Greenville",
@@ -5125,7 +5125,7 @@
             "other GE Vernova locations"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "Digital Technology Intern",
         "season": "Summer",

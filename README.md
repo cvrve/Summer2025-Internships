@@ -46,7 +46,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| GE Vernova | Digital Technology Intern 🛂 | <details><summary>**7 locations**</summary>Greenville</br>South Carolina</br>Schenectady</br>New York</br>Atlanta</br>Georgia</br>other GE Vernova locations</details> | <a href="https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5005281EXTERNALENGLOBAL/GE-Vernova-Digital-Technology-Internship-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Kohler | Digital Intern 🛂 | Kohler, WI | <a href="https://kohler.csod.com/ux/ats/careersite/16/home/requisition/67738?c=kohler&source=LinkedIn&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
 | Neuralink | Firmware Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Five Rings | Quantitative Researcher Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
@@ -160,6 +159,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aquatic Capital Management | Software Engineer Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Blackrock | 2026 Summer Intern | <details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details> | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
+| GE Vernova | Digital Technology Intern 🛂 | <details><summary>**7 locations**</summary>Greenville</br>South Carolina</br>Schenectady</br>New York</br>Atlanta</br>Georgia</br>other GE Vernova locations</details> | 🔒 | Jul 20 |
 | Capital One | Data Analyst Intern | McLean, VA</br>Rishmond, VA | 🔒 | Jul 15 |
 | Tesla | Machine Learning Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Jul 10 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Jul 07 |
