@@ -5313,5 +5313,22 @@
         "date_posted": 1753215340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215378,
+        "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genworth",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "36eb59d2-d51a-42ad-a5b9-2cfdc0455726",
+        "date_posted": 1753215378,
+        "company_url": "",
+        "is_visible": true
     }
 ]
