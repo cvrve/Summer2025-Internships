@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| The Trade Desk | Software Engineering Intern | <details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details> | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Tenstorrent | Software Intern - AI Compilers | Austin, TX</br>Santa Clara, CA</br>Toronto, ON | <a href="https://boards.greenhouse.io/embed/job_app?token=4501189007&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | M&T Bank | Software Engineering Intern | Buffalo, NY | <a href="https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | ↳ | 2026 Technology Internship Program | Buffalo, NY | <a href="https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?jobFamily=8cc34509fd6910020c408e4228020000&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |

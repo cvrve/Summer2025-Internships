@@ -5347,5 +5347,26 @@
         "date_posted": 1753215408,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215757,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
+        "locations": [
+            "Boulder, CO",
+            "Denver, CO",
+            "Irvine, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Trade Desk",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "hfeng20",
+        "id": "172ba6fc-b1dc-42c4-925d-60b502bbc0b3",
+        "date_posted": 1753215757,
+        "company_url": "",
+        "is_visible": true
     }
 ]
