@@ -5330,5 +5330,22 @@
         "date_posted": 1753215378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215408,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Front Office Software Engineer Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "efd1a91e-a10a-445f-94f4-d89d071c9545",
+        "date_posted": 1753215408,
+        "company_url": "",
+        "is_visible": true
     }
 ]
