@@ -5243,5 +5243,24 @@
         "date_posted": 1753113017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753214983,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4501189007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Software Intern - AI Compilers",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "aad5a9cb-07a9-4f3d-aa67-afa083f279c4",
+        "date_posted": 1753214983,
+        "company_url": "",
+        "is_visible": true
     }
 ]
