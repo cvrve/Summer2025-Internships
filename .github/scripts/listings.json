@@ -5279,5 +5279,22 @@
         "date_posted": 1753215216,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215256,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "6b62fb9f-e5b2-4642-aa97-6f8de860f23e",
+        "date_posted": 1753215256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
