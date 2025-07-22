@@ -5296,5 +5296,22 @@
         "date_posted": 1753215256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215340,
+        "url": "https://careers.kearneyco.com/jobs/4822",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kearney&Company",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "b68ff75a-a996-48bb-818e-7a735268c931",
+        "date_posted": 1753215340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
