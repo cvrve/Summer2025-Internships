@@ -5262,5 +5262,22 @@
         "date_posted": 1753214983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753215216,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?jobFamily=8cc34509fd6910020c408e4228020000",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "2026 Technology Internship Program",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "26e07bed-6f5d-46d7-bf75-bf2499e0f0e5",
+        "date_posted": 1753215216,
+        "company_url": "",
+        "is_visible": true
     }
 ]
