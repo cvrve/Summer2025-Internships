@@ -5369,5 +5369,39 @@
         "date_posted": 1753215757,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753227763,
+        "url": "https://impulsespace.pinpointhq.com/en/postings/5df86c9c-8f1a-4ba4-81a7-5de09800cb4f",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Impulse Space",
+        "title": "Flight/Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cb415a97-84c4-4766-bf26-025d57ef146a",
+        "date_posted": 1753227763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753227780,
+        "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories (SEL)",
+        "title": "Software Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "e0aa96ed-a311-4993-89a6-4b9f59e44508",
+        "date_posted": 1753227780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
