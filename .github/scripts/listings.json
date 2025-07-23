@@ -5188,7 +5188,7 @@
         "date_posted": 1753108255,
         "company_url": "",
         "is_visible": true,
-        "season": null
+        "season": "Summer"
     },
     {
         "date_updated": 1753108345,
@@ -5403,5 +5403,84 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1753228381,
+        "url": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014089",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CCC Intelligent Solutions Inc.",
+        "title": "AI Enablement Intern",
+        "source": "vanshb03",
+        "id": "b2905314-d1cf-457c-92cd-6e730ba1c8c6",
+        "date_posted": 1753228381,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753228444,
+        "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-summer-analyst/7014521?gh_jid=7014521#/",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR Capital Management",
+        "title": "Research Summer Analyst",
+        "source": "vanshb03",
+        "id": "c56aae90-e784-41d1-9222-e39fb2f2347d",
+        "date_posted": 1753228444,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753228474,
+        "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-solutions-group-summer-analyst/7055103?gh_jid=7055103#/",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR Capital Management",
+        "title": "Summer Analyst, Portfolio Solutions Group",
+        "source": "vanshb03",
+        "id": "2b2c8796-0640-475d-89e1-13aaa51bdc8a",
+        "date_posted": 1753228474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753228484,
+        "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR Capital Management",
+        "title": "Summer Analyst, Portfolio Implementation, Trading and Portfolio Finance",
+        "source": "vanshb03",
+        "id": "9a0b259a-f45c-4976-bd92-bc8ee4198d2c",
+        "date_posted": 1753228484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753228765,
+        "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Squarepoint",
+        "title": "Quant Researcher Intern",
+        "source": "vanshb03",
+        "id": "34cb4faa-9bc2-41f0-9dc1-f09c28bf588e",
+        "date_posted": 1753228765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
