@@ -5568,5 +5568,22 @@
         "date_posted": 1753298942,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753299118,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "GenAI Intern",
+        "season": "Summer",
+        "source": "rayank906",
+        "id": "c3f47785-f39d-4dc9-879a-de691711399d",
+        "date_posted": 1753299118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
