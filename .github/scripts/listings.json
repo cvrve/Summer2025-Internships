@@ -5551,5 +5551,22 @@
         "date_posted": 1753286313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753298942,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Data Science ML Intern",
+        "season": "Summer",
+        "source": "rayank906",
+        "id": "280f02ce-5838-490f-a114-71e9b61c36d8",
+        "date_posted": 1753298942,
+        "company_url": "",
+        "is_visible": true
     }
 ]
