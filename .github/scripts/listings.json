@@ -5533,5 +5533,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1753286313,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105",
+        "locations": [
+            "Stamford, CT",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "AaravSureban",
+        "id": "ee289733-799d-4448-ae6c-fac2fb396039",
+        "date_posted": 1753286313,
+        "company_url": "",
+        "is_visible": true
     }
 ]

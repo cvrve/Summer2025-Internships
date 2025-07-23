@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Castleton Commodities International | Data Engineering Intern | Stamford, CT</br>Houston, TX | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | The Trade Desk | Software Engineering Intern | <details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details> | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Tenstorrent | Software Intern - AI Compilers | Austin, TX</br>Santa Clara, CA</br>Toronto, ON | <a href="https://boards.greenhouse.io/embed/job_app?token=4501189007&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Squarepoint | Quant Researcher Intern | New York, NY | <a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
