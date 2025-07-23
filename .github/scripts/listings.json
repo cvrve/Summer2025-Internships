@@ -5482,5 +5482,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1753234465,
+        "url": "https://asana.com/jobs/apply/7078082?gh_jid=7078082",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cfd0a26e-9286-4643-8af9-01a7fe29ff8f",
+        "date_posted": 1753234465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753234471,
+        "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "389cadcf-de5b-4dbf-8109-12aa070416af",
+        "date_posted": 1753234471,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753234475,
+        "url": "https://asana.com/jobs/apply/7078075?gh_jid=7078075",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8c6cfa33-fcc9-4e81-90db-c62eb136cf18",
+        "date_posted": 1753234475,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
