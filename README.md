@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lynk | Telecommunications Intern | Washington DC | <a href="https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Castleton Commodities International | GenAI Intern | Houston, TX | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | ↳ | Data Science ML Intern | Stamford, CT | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | ↳ | Data Engineering Intern | Stamford, CT</br>Houston, TX | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |

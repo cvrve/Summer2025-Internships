@@ -5585,5 +5585,22 @@
         "date_posted": 1753299118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753368957,
+        "url": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7",
+        "locations": [
+            "Washington DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lynk",
+        "title": "Telecommunications Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "037ccd6f-7e3f-4d6b-b7e6-78dd4efa6d47",
+        "date_posted": 1753368957,
+        "company_url": "",
+        "is_visible": true
     }
 ]
