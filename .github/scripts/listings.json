@@ -5602,5 +5602,42 @@
         "date_posted": 1753368957,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753383599,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
+        "locations": [
+            "Austin, TX",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Virtu",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "817fc79c-9e7d-47fe-bd3a-7b7405541b39",
+        "date_posted": 1753383599,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753383608,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virtu",
+        "title": "Quantitative Trading Intern",
+        "source": "vanshb03",
+        "id": "bbdd2162-860c-42a2-b484-c0d06c0461b4",
+        "date_posted": 1753383608,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
