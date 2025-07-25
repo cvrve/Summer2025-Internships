@@ -5724,5 +5724,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1753480405,
+        "url": "https://jobs.lever.co/Arcade/86df65b1-b11f-41fb-b733-6fd17aabfe6d",
+        "locations": [
+            "Presidio, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcade",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "f7c57893-e7fa-49aa-b5b0-d91bbfbc2e13",
+        "date_posted": 1753480405,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
