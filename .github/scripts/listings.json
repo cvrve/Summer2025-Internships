@@ -66,13 +66,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744271648,
+        "date_updated": 1753392726,
         "url": "https://careers.amd.com/careers-home/jobs/63596/job",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineering Intern/Co-op - Masters - Fall",
         "season": "Fall",
@@ -100,13 +100,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744271804,
+        "date_updated": 1753392727,
         "url": "https://careers.amd.com/careers-home/jobs/63597/job",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineering Intern/ Co-Op - Masters - Fall",
         "season": "Fall",
@@ -654,13 +654,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746564783,
+        "date_updated": 1753392748,
         "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Battelle",
         "title": "Cyber Trust & Analytics Intern - Fall",
         "season": "Fall",
@@ -824,14 +824,14 @@
         "is_visible": false
     },
     {
-        "date_updated": 1746749561,
+        "date_updated": 1753392763,
         "url": "https://careers.formlabs.com/job/6830690/apply/?gh_jid=6830690",
         "locations": [
             "Cambridge, MA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Formlabs",
         "title": "Hardware Systems Engineering Intern",
         "source": "vanshb03",
@@ -943,13 +943,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747169933,
+        "date_updated": 1753392764,
         "url": "https://careers.snowflake.com/us/en/job/SNCOUS1ECD6729D4D744D7ADB3BCD438B54E27EXTERNALENUSD606671FAB0C4305B901CDD4E66DEA76/",
         "locations": [
             "Menlo Park, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Snowflake",
         "title": "Software Engineer Intern (Core Engineering)",
         "season": "Fall",
@@ -1320,13 +1320,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748139125,
+        "date_updated": 1753392768,
         "url": "https://careers.sig.com/job/9053/Growth-Equity-Investment-Analyst-Internship-Summer-2026",
         "locations": [
             "Bala Cynwyd, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Susquehanna",
         "title": "Growth Equity Investment Analyst Intern",
         "season": "Summer",
@@ -1405,13 +1405,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748143354,
+        "date_updated": 1753392769,
         "url": "https://careers.garmin.com/careers-home/jobs/15952/job",
         "locations": [
             "Chandler, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineer Intern/Co-Op",
         "season": "Fall",
@@ -1575,13 +1575,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748452808,
+        "date_updated": 1753392770,
         "url": "https://careers.medpace.com/jobs/11408/job",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Medpace",
         "title": "Web Developer Intern, Feasibility & Proposals",
         "season": "Fall",
@@ -1891,13 +1891,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748638851,
+        "date_updated": 1753392781,
         "url": "https://careers.amd.com/careers-home/jobs/63889?lang=en-us",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineering Intern/Co-Op",
         "season": "Fall",
@@ -1908,13 +1908,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748638875,
+        "date_updated": 1753392780,
         "url": "https://careers.amd.com/careers-home/jobs/63578?lang=en-us",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineering Intern/Co-Op",
         "season": "Fall",
@@ -1942,13 +1942,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748644572,
+        "date_updated": 1753392780,
         "url": "https://careers.formlabs.com/job/6901361/apply/?gh_jid=6901361",
         "locations": [
             "Somerville, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Formlabs",
         "title": "Web Development Intern",
         "season": "Fall",
@@ -2215,14 +2215,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748954354,
+        "date_updated": 1753392803,
         "url": "https://www.splunk.com/en_us/careers/jobs/site-reliability-engineer-intern-33064.html",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Site Reliability Engineer Intern",
         "season": "Fall",
@@ -2597,7 +2597,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749269167,
+        "date_updated": 1753392817,
         "url": "https://www.pinterestcareers.com/jobs/6917750/2025-fall-machine-learning-intern/?gh_jid=6917750",
         "locations": [
             "San Francisco, CA",
@@ -2605,7 +2605,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pinterest",
         "title": "Machine Learning Intern, Masters/PhD",
         "season": "Fall",
@@ -2820,13 +2820,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749840383,
+        "date_updated": 1753392818,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000064390815",
         "locations": [
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ATPCO",
         "title": "Platform Capability Engineering Intern",
         "season": "Fall",
@@ -2965,13 +2965,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750796306,
+        "date_updated": 1753392845,
         "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Lockheed Martin",
         "title": "Software Engineer - Intern",
         "season": "Summer",
@@ -3087,14 +3087,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750976034,
+        "date_updated": 1753392846,
         "url": "https://jobs.siemens.com/careers/job/563156125662755?microsite=siemens.com&hl=en",
         "locations": [
             "Huntsville, AL",
             "Marlborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Siemens",
         "title": "Software Development Intern",
         "season": "Fall",
@@ -3764,7 +3764,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751392535,
+            "date_updated": 1753392864,
         "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science",
         "locations": [
             "Minneapolis, MN",
@@ -3773,7 +3773,7 @@
             "St Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trane Technologies",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -4067,13 +4067,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751484214,
+        "date_updated": 1753392866,
         "url": "https://careers.t-mobile.com/fall-2025-product-manager-intern/job/99F63B25A0C19559715D8EC4C351D427",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Product Manager Intern",
         "season": "Fall",
@@ -4205,13 +4205,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1751795210,
+        "date_updated": 1753392874,
         "url": "https://careers.hitachi.com/jobs/16376125-ai-slash-ml-engineering-intern",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi Energy USA Inc",
         "title": "AI/ML Engineering Intern",
         "source": "vanshb03",
@@ -4597,13 +4597,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752296073,
+        "date_updated": 1753392879,
         "url": "https://www.pinterestcareers.com/jobs/6868494/software-engineering-intern-2025-toronto/?gh_jid=6868494",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pinterest",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
