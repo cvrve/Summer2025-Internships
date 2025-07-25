@@ -1703,13 +1703,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748491931,
+        "date_updated": 1753480142,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4726446007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Software Engineering Intern, Backend",
         "season": "Fall",
@@ -3764,7 +3764,7 @@
         "is_visible": true
     },
     {
-            "date_updated": 1753392864,
+        "date_updated": 1753392864,
         "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science",
         "locations": [
             "Minneapolis, MN",
@@ -5641,88 +5641,88 @@
         "season": "Summer"
     },
     {
-    "date_updated": 1753390693,
-    "url": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
-    "locations": [
-        "Tulsa, OK"
-    ],
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
-    "company_name": "L3Harris",
-    "title": "Software Engineer Intern, Tulsa",
-    "source": "vanshb03",
-    "id": "b523c769-9252-4e90-8eb0-4c4a9364ea9c",
-    "date_posted": 1753390693,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
-},
-{
-    "date_updated": 1753390700,
-    "url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Joule-Full-Stack-Developer-Palo-Alto%2C-CA-CA-94304/1195716901/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed&jobPipeline=Indeed",
-    "locations": [
-        "Palo Alto, CA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "SAP",
-    "title": "SAP iXp Intern, Joule Full-Stack Developer",
-    "source": "vanshb03",
-    "id": "d4ac6bdf-85a9-47e8-a0ca-ee124de686d1",
-    "date_posted": 1753390700,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
-},
-{
-    "date_updated": 1753390709,
-    "url": "https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058",
-    "locations": [
-        "Plano, TX"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Inogen",
-    "title": "Firmware Engineering Intern",
-    "source": "vanshb03",
-    "id": "e4e56fd7-e943-434c-b740-b643b667c5d0",
-    "date_posted": 1753390709,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer"
-},
-{
-    "date_updated": 1753390714,
-    "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html?mode=job&iis=Indeed&iisn=Indeed.com",
-    "locations": [
-        "Woodcliff Lake, NJ"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "BMW",
-    "title": "Product Development Intern, Telematics & ConnectedDrive Services",
-    "source": "vanshb03",
-    "id": "105e17c0-652a-44fe-b869-be25963d3ad9",
-    "date_posted": 1753390714,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
-},
-{
-    "date_updated": 1753390722,
-    "url": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US?jobPipeline=Indeed&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed",
-    "locations": [
-        "Warrendale, PA"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Komatsu",
-    "title": "Embedded Controls Software Intern",
-    "source": "vanshb03",
-    "id": "fab45cd0-2be7-4fd2-a5bd-13a91d49fee5",
-    "date_posted": 1753390722,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
-}
+        "date_updated": 1753390693,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Software Engineer Intern, Tulsa",
+        "source": "vanshb03",
+        "id": "b523c769-9252-4e90-8eb0-4c4a9364ea9c",
+        "date_posted": 1753390693,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753390700,
+        "url": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Joule-Full-Stack-Developer-Palo-Alto%2C-CA-CA-94304/1195716901/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed&jobPipeline=Indeed",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "SAP iXp Intern, Joule Full-Stack Developer",
+        "source": "vanshb03",
+        "id": "d4ac6bdf-85a9-47e8-a0ca-ee124de686d1",
+        "date_posted": 1753390700,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753390709,
+        "url": "https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inogen",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "e4e56fd7-e943-434c-b740-b643b667c5d0",
+        "date_posted": 1753390709,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753390714,
+        "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html?mode=job&iis=Indeed&iisn=Indeed.com",
+        "locations": [
+            "Woodcliff Lake, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW",
+        "title": "Product Development Intern, Telematics & ConnectedDrive Services",
+        "source": "vanshb03",
+        "id": "105e17c0-652a-44fe-b869-be25963d3ad9",
+        "date_posted": 1753390714,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753390722,
+        "url": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US?jobPipeline=Indeed&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Komatsu",
+        "title": "Embedded Controls Software Intern",
+        "source": "vanshb03",
+        "id": "fab45cd0-2be7-4fd2-a5bd-13a91d49fee5",
+        "date_posted": 1753390722,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    }
 ]
