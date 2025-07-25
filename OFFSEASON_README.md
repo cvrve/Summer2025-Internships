@@ -106,7 +106,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243735?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | Neuralink | Software Engineer Intern, Implant | Austin, TX | <a href="https://neuralink.com/careers/apply/?gh_jid=6569020003&gh_src=c356a2533us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 29 |
 | Verkada | Technical Support Engineering Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4609412007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
-| ↳ | Software Engineering Intern, Backend | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4726446007?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Tesla | System Validation Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243733?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | ↳ | Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/243711?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
 | Amazon | ASIC Engineering Intern | Redmond, WA | <a href="https://www.amazon.jobs/en/jobs/2993367/asic-engineering-internship-fall-2025-rfic-communications-systems-project-kuiper?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 28 |
@@ -162,7 +161,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Relativity Space | Software Engineer Intern | Stennis, MI | 🔒 | May 29 |
 | NVIDIA | Networking Software Intern | Santa Clara, CA | 🔒 | May 29 |
 | LiveRamp | Software Engineer, Co-op - Clean Rooms | San Francisco, CA</br>Little Rock, AR | 🔒 | May 29 |
-| Verkada | Software Engineering Intern, Mobile | San Mateo, CA | 🔒 | May 28 |
+| Verkada | Software Engineering Intern, Backend | San Mateo, CA | 🔒 | May 28 |
+| ↳ | Software Engineering Intern, Mobile | San Mateo, CA | 🔒 | May 28 |
 | Mercury | Backend Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
 | ↳ | Full-stack Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
 | ↳ | Frontend Engineering Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Portland, OR</br>Remote</details> | 🔒 | May 28 |
