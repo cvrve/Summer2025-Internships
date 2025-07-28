@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Hudson River Trading | Algorithm Development Quant Research Intern | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| Hudson River Trading | Software Engineering Intern | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| ↳ | Algorithm Development Quant Research Intern | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Virtu | Quantitative Trading Intern | Austin, TX</br>Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/virtu/jobs/7848562002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern | Austin, TX</br>New York, NY | <a href="https://job-boards.greenhouse.io/virtu/jobs/7848570002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Lynk | Telecommunications Intern 🛂 | Washington DC | <a href="https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |

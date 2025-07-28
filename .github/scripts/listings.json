@@ -5758,5 +5758,22 @@
         "date_posted": 1753746667,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753746685,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "496ea0f0-714c-4497-8b38-767cd40af1fb",
+        "date_posted": 1753746685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
