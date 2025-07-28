@@ -5775,5 +5775,22 @@
         "date_posted": 1753746685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753746718,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "30fa6fce-02d2-451b-be62-31ab019c3178",
+        "date_posted": 1753746718,
+        "company_url": "",
+        "is_visible": true
     }
 ]
