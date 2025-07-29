@@ -5826,5 +5826,22 @@
         "date_posted": 1753801524,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753824611,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2026/307248",
+        "locations": [
+            "Hermitage, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Deloitte",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "9dad47e9-9174-4ce9-8935-1f7c13d7762f",
+        "date_posted": 1753824611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
