@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Arcade | Software Engineer Intern | Presidio, CA | <a href="https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Arcade | Associate Product Manager Intern | Presidio, CA | <a href="https://jobs.lever.co/Arcade/86df65b1-b11f-41fb-b733-6fd17aabfe6d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | SAP | SAP iXp Intern, Joule Full-Stack Developer | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Joule-Full-Stack-Developer-Palo-Alto%2C-CA-CA-94304/1195716901/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed&jobPipeline=Indeed&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | L3Harris | Software Engineer Intern, Tulsa 🇺🇸 | Tulsa, OK | <a href="https://careers.l3harris.com/en/job/-/-/4832/84133135648?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |

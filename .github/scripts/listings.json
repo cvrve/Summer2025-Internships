@@ -5792,5 +5792,22 @@
         "date_posted": 1753746718,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753747452,
+        "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+        "locations": [
+            "Presidio, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcade",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "RobertP2705",
+        "id": "b68c125a-3915-42c3-b2c7-e9d3dc085650",
+        "date_posted": 1753747452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
