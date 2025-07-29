@@ -5809,5 +5809,22 @@
         "date_posted": 1753747452,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753801524,
+        "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
+        "locations": [
+            "Presidio, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcade",
+        "title": "Research Engineer Intern - Applied AI",
+        "season": "Fall",
+        "source": "RobertP2705",
+        "id": "45c0e7da-1a48-4346-87cf-6b968f099ad2",
+        "date_posted": 1753801524,
+        "company_url": "",
+        "is_visible": true
     }
 ]
