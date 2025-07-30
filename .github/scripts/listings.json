@@ -6474,5 +6474,42 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1753909894,
+        "url": "https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1311812900/?jobPipeline=Indeed",
+        "locations": [
+            "Bridgeton, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d573787f-6d00-40ac-8f3f-46661fdf0a1d",
+        "date_posted": 1753909894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753909899,
+        "url": "https://careers.pnc.com/global/en/job/PNC1GLOBALR196693/Technology-Summer-Intern?utm_source=Indeed&utm_medium=symphonytalent-jobads&utm_campaign=Students%20&%20Graduates&utm_content=Technology%20Summer%20Intern&utm_term=R196693",
+        "locations": [
+            "Pittsburgh, PA",
+            "Birmingham, AL",
+            "Cleveland, OH",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PNC",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "d2a90856-5a7f-44de-b32d-4317fd4c8d99",
+        "date_posted": 1753909899,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
