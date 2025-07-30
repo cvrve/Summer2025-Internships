@@ -106,7 +106,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quantitative Trader Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8047137002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | DRW | Software Developer Intern 🛂 | Chicago, IL | <a href="https://job-boards.greenhouse.io/drweng/jobs/6926715?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
 | TSMC | Computer Integrated Manufacturing (CIM) Engineer Intern | Phoenix, AZ | <a href="https://careers.tsmc.com/en_US/careers/JobDetail/Summer-2026-TSMC-AZ-Internship-Opportunities-Engineering-Roles/16376?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 04 |
-| Wabtec | Summer 2026 LEAD Information Technology Intern | Pittsburgh, PA</br>Chicago, IL | <a href="https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Summer-2026-LEAD-Information-Technology-Intern_R0099765?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Susquehanna | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | Optiver | Quantitative Research Intern | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7967593002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
 | ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7832160002/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 02 |
@@ -188,6 +187,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Machine Learning Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Jul 10 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Jul 07 |
 | Amazon | Software Development Intern | Boston, MA</br>Seattle, WA | 🔒 | Jul 04 |
+| Wabtec | Summer 2026 LEAD Information Technology Intern | Pittsburgh, PA</br>Chicago, IL | 🔒 | Jul 02 |
 | Trane Technologies | Engineering Intern | <details><summary>**4 locations**</summary>Minneapolis, MN</br>Bloomington, MN</br>Noblesville, IN</br>St Paul, MN</details> | 🔒 | Jul 01 |
 | Salesforce | Associate Product Manager Intern | San Francisco, CA | 🔒 | Jul 01 |
 | Geneva Trading | Quantitative Trader Intern | Chicago, IL | 🔒 | Jul 01 |
