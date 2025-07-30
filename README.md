@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| TikTok | Data Scientist Intern, Privacy and Data Protection Office | San Jose, CA | <a href="https://lifeattiktok.com/search/7530728287904844050?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
+| TikTok | QA Engineer Intern (TikTok-Privacy and Security-Product Privacy) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532183663443839250?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
+| ↳ | Data Scientist Intern, Privacy and Data Protection Office | San Jose, CA | <a href="https://lifeattiktok.com/search/7530728287904844050?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Strategy Intern, TikTok Shop Resource Management | Seattle | <a href="https://lifeattiktok.com/search/7531999126562130194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Frontend Engineer Intern, Trust and Safety-Engineering-Data Product & General Service | San Jose, CA | <a href="https://lifeattiktok.com/search/7527615375778416914?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Software Engineer Intern, Trust and Safety -Engineer-AI Safety | San Jose, CA | <a href="https://lifeattiktok.com/search/7527618943449909522?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |

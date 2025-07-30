@@ -6132,5 +6132,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1753841055,
+        "url": "https://lifeattiktok.com/search/7532183663443839250",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "3c82ae3b-6d18-45e5-9d75-de2340e1bdcb",
+        "date_posted": 1753841055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
