@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Harmonic | Software Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/harmonic/jobs/4591178005?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | TikTok | QA Engineer Intern (TikTok-Privacy and Security-Product Privacy) | San Jose, CA | <a href="https://lifeattiktok.com/search/7532183663443839250?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Data Scientist Intern, Privacy and Data Protection Office | San Jose, CA | <a href="https://lifeattiktok.com/search/7530728287904844050?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | ↳ | Strategy Intern, TikTok Shop Resource Management | Seattle | <a href="https://lifeattiktok.com/search/7531999126562130194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
