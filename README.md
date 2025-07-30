@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| EControls | IoT Software Developer Intern | San Antonio, TX | <a href="https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026?referrer=20250726200811ZNQDWWSCFMG3YER8&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | Deloitte | Technology Intern 🛂 | Hermitage, TN | <a href="https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2026/307248?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | KeyBank | Analytics and Quantitative Modeling Intern | Cleveland, OH | <a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Hudson River Trading | Software Engineering Intern | New York, NY | <a href="https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |

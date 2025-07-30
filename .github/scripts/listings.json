@@ -5843,5 +5843,22 @@
         "date_posted": 1753824611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753840185,
+        "url": "https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026?referrer=20250726200811ZNQDWWSCFMG3YER8",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EControls",
+        "title": "IoT Software Developer Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "7a8b7b5e-5beb-4da0-8a67-5bb6faba0676",
+        "date_posted": 1753840185,
+        "company_url": "",
+        "is_visible": true
     }
 ]
