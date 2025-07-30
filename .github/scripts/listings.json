@@ -6149,5 +6149,22 @@
         "date_posted": 1753841055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753842246,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HP",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "964bce97-81c3-4665-a14d-c714b7770142",
+        "date_posted": 1753842246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
