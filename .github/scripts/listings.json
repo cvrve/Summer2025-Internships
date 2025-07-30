@@ -6183,5 +6183,296 @@
         "date_posted": 1753858875,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753840797,
+        "url": "https://lifeattiktok.com/search/7532247736243865864",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Global CRM",
+        "source": "vanshb03",
+        "id": "a3be0cb4-5230-4f3a-a912-13addba43eeb",
+        "date_posted": 1753840797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753842610,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4365284006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Test Automation Intern, Fall 2025",
+        "source": "vanshb03",
+        "id": "a2b742fc-ac56-4b76-b2fc-fead3cbf08fe",
+        "date_posted": 1753842610,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753842629,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4573642006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Robotics Integration Intern",
+        "source": "vanshb03",
+        "id": "8e3248fc-cfc9-4bde-90c9-9b0913a3c1bc",
+        "date_posted": 1753842629,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753906357,
+        "url": "https://jobs.ashbyhq.com/allium/0071bb2f-9fcf-430b-87d5-26a8f4001e2d?utm_source=Simplify",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allium",
+        "title": "Engineering Intern, Internal Platform",
+        "source": "vanshb03",
+        "id": "b8d3feec-b60b-4c77-a328-e26011895cf8",
+        "date_posted": 1753906357,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906364,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KBR",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3b476bf9-aa16-4099-9f68-e527803f614f",
+        "date_posted": 1753906364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906370,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Cloud Media Services Intern",
+        "source": "vanshb03",
+        "id": "38dabae6-7568-410c-8e74-fed977e31434",
+        "date_posted": 1753906370,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906377,
+        "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780",
+        "locations": [
+            "Pittsburgh, PA",
+            "Tysons, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PNC",
+        "title": "Quantitative Analytics Intern",
+        "source": "vanshb03",
+        "id": "9f371bb0-99c9-4035-94cb-32581372a77c",
+        "date_posted": 1753906377,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906383,
+        "url": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
+        "locations": [
+            "Macedonia, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peak Nano",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d6aa68c6-e0a8-4391-a838-7caa54c9f9c0",
+        "date_posted": 1753906383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1753906388,
+        "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html",
+        "locations": [
+            "Woodcliff Lake, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW",
+        "title": "Product Development Intern, Telematics & ConnectedDrive Services",
+        "source": "vanshb03",
+        "id": "fb666055-594e-4ce4-8f37-e9cc6fcadb90",
+        "date_posted": 1753906388,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753906396,
+        "url": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
+        "locations": [
+            "Austin, TX",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Method",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "edaf4e53-6130-4ade-985a-f89b5dc6e392",
+        "date_posted": 1753906396,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753906422,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "8c8d0a57-a9ae-474e-82f5-172c254d8432",
+        "date_posted": 1753906422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906443,
+        "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf?utm_source=Simplify",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fable Security",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b12151d7-db74-436b-adab-14704a5726a6",
+        "date_posted": 1753906443,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906458,
+        "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9?utm_source=Simplify",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gimlet Labs",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "077c32ab-8fcc-4114-a1a5-e566ece40a91",
+        "date_posted": 1753906458,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906488,
+        "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5?utm_source=Simplify",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIMLET LABS",
+        "title": "AI Researcher Intern",
+        "source": "vanshb03",
+        "id": "317ea9ab-968b-40cc-aaa8-39c4bb3899f6",
+        "date_posted": 1753906488,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906493,
+        "url": "https://asana.com/jobs/apply/7078152",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "0e879b7e-3198-4d5c-8a62-3f4296776bd9",
+        "date_posted": 1753906493,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906497,
+        "url": "https://asana.com/jobs/apply/7071272",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "3d7c4fa5-65b5-42cb-844d-5fcbf71d5fbb",
+        "date_posted": 1753906497,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1753906501,
+        "url": "https://asana.com/jobs/apply/7078192",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "512fd98a-f9c6-43ab-b04a-3241e2e6a9d2",
+        "date_posted": 1753906501,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
