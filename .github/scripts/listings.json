@@ -4665,7 +4665,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752523598,
+        "date_updated": 1753973908,
         "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
         "locations": [
             "Chicago, IL",
@@ -4673,7 +4673,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Caterpillar",
         "title": "Digital and Analytics Intern",
         "season": "Summer",

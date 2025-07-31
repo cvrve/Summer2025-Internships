@@ -121,7 +121,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Susquehanna | Software Engineering Intern | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/SUSQA004Y9571?mode=apply&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Chicago Trading Company | Quant Trading Intern | Chicago, IL | <a href="https://grnh.se/rw14eooo5us?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | ↳ | Software Engineer Intern | Chicago, IL</br>New York, NY | <a href="https://grnh.se/p32j1zwl5us?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
-| Caterpillar | Digital and Analytics Intern | Chicago, IL</br>Peoria, IL</br>Irving, TX | <a href="https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=6996427&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | ↳ | Software Engineer Intern, Python | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=7055471&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
 | ↳ | Quantitative Research Intern | Chicago, IL | <a href="https://akunacapital.com/job-details?gh_jid=7055793&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 14 |
@@ -220,6 +219,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CCC Intelligent Solutions Inc. | AI Enablement Intern | Chicago, IL | 🔒 | Jul 22 |
 | GE Vernova | Digital Technology Intern 🛂 | <details><summary>**7 locations**</summary>Greenville</br>South Carolina</br>Schenectady</br>New York</br>Atlanta</br>Georgia</br>other GE Vernova locations</details> | 🔒 | Jul 20 |
 | Capital One | Data Analyst Intern | McLean, VA</br>Rishmond, VA | 🔒 | Jul 15 |
+| Caterpillar | Digital and Analytics Intern | Chicago, IL</br>Peoria, IL</br>Irving, TX | 🔒 | Jul 14 |
 | Tesla | Machine Learning Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Jul 10 |
 | Capital One | Product Development Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Jul 07 |
 | Amazon | Software Development Intern | Boston, MA</br>Seattle, WA | 🔒 | Jul 04 |
