@@ -6562,5 +6562,22 @@
         "date_posted": 1753973937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753974000,
+        "url": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "William-Leung",
+        "id": "69f94901-a162-4fb6-a854-a7f9976ac8be",
+        "date_posted": 1753974000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
