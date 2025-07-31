@@ -6545,5 +6545,22 @@
         "date_posted": 1753921538,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753973937,
+        "url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "New York Life Insurance",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "d7799e03-4749-4575-bea0-3404a9e22e66",
+        "date_posted": 1753973937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
