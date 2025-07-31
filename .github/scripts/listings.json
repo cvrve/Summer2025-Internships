@@ -6528,5 +6528,22 @@
         "date_posted": 1753921311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753921538,
+        "url": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reality Defender",
+        "title": "Computer Vision Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "fa2cd518-0417-46af-bd11-5490b7cc08e4",
+        "date_posted": 1753921538,
+        "company_url": "",
+        "is_visible": true
     }
 ]
