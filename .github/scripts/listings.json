@@ -6596,5 +6596,23 @@
         "date_posted": 1754002571,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754002635,
+        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Baseten",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "6c9d25bd-9dff-4757-99fe-3215f057acee",
+        "date_posted": 1754002635,
+        "company_url": "",
+        "is_visible": true
     }
 ]
