@@ -6579,5 +6579,22 @@
         "date_posted": 1753974000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754002571,
+        "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&gh_src=cb2018976us",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AppLovin",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "nchalla3",
+        "id": "a76bd7f1-29f3-46cd-b88f-588dadea328d",
+        "date_posted": 1754002571,
+        "company_url": "",
+        "is_visible": true
     }
 ]
