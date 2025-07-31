@@ -6511,5 +6511,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1753921311,
+        "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AI Fund",
+        "title": "Full-Stack Engineer Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "a6ebd32a-f4f2-4360-9059-482743de909a",
+        "date_posted": 1753921311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
