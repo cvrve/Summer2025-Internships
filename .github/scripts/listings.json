@@ -6614,5 +6614,22 @@
         "date_posted": 1754002635,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754043550,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Mobile Developer Intern (AI / ML)",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "66811fb9-d13e-4318-bb2a-21f277bcda7b",
+        "date_posted": 1754043550,
+        "company_url": "",
+        "is_visible": true
     }
 ]
