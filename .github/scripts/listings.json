@@ -6716,5 +6716,22 @@
         "date_posted": 1754173868,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754173898,
+        "url": "http://altruist.com/join-altruist/?gh_jid=5601833004",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "e8488aa3-8bf9-469e-8822-78f5c4ff5cf3",
+        "date_posted": 1754173898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
