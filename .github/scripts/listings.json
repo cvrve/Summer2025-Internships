@@ -6699,5 +6699,22 @@
         "date_posted": 1754173839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754173868,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?gh_src=5734qado5us",
+        "locations": [
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Commodities",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "ashah1002",
+        "id": "6a02e37e-e05b-458b-a1ac-4ae1eedd0d53",
+        "date_posted": 1754173868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
