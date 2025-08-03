@@ -6733,5 +6733,39 @@
         "date_posted": 1754173898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754190420,
+        "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Frontend",
+        "source": "vanshb03",
+        "id": "90757837-1325-4af3-b1f7-67fe9c0795df",
+        "date_posted": 1754190420,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1754190427,
+        "url": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "1d17f338-16c9-436a-b814-4f277adc6197",
+        "date_posted": 1754190427,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
     }
 ]
