@@ -3294,13 +3294,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253777,
+        "date_updated": 1754209247,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565278006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Technology Intern",
         "season": "Summer",
@@ -3311,13 +3311,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253794,
+        "date_updated": 1754209246,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565276006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Risk Quant Research Intern",
         "season": "Summer",
@@ -3362,13 +3362,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253848,
+        "date_updated": 1754209246,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4572985006",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Equity Volatility Quant Researcher Intern",
         "season": "Summer",
@@ -5246,7 +5246,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753214983,
+        "date_updated": 1754209247,
         "url": "https://boards.greenhouse.io/embed/job_app?token=4501189007",
         "locations": [
             "Austin, TX",
@@ -5254,7 +5254,7 @@
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Software Intern - AI Compilers",
         "season": "Summer",
@@ -5388,13 +5388,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753227780,
+        "date_updated": 1754209269,
         "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
         "locations": [
             "Pullman, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schweitzer Engineering Laboratories (SEL)",
         "title": "Software Application Engineer Intern",
         "source": "vanshb03",
@@ -6287,14 +6287,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753906377,
+        "date_updated": 1754209289,
         "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780",
         "locations": [
             "Pittsburgh, PA",
             "Tysons, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PNC",
         "title": "Quantitative Analytics Intern",
         "source": "vanshb03",
