@@ -6767,5 +6767,62 @@
         "company_url": "",
         "is_visible": true,
         "season": null
+    },
+    {
+        "date_updated": 1754198208,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2026_R40546-1",
+        "locations": [
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a6f23c2d-f3e7-420b-b7fd-496d74251c89",
+        "date_posted": 1754198208,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754198417,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/IT-Intern-Summer-2026_R40583-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "c4f2c4e8-221f-4cfe-804b-b8cb6f983337",
+        "date_posted": 1754198417,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754198425,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/R-D-Engineering-Intern---Summer-2026_R40521-1",
+        "locations": [
+            "Minneapolis, MN",
+            "Tempe, AZ",
+            "Santa Rosa, CA",
+            "Lafayette, CO",
+            "Boulder, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "R&D Engineering Intern",
+        "source": "vanshb03",
+        "id": "286bf14c-5271-45ea-bfc8-1c0aae3f036f",
+        "date_posted": 1754198425,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
