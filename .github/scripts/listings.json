@@ -6824,5 +6824,109 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754199924,
+        "url": "https://www.tesla.com/careers/search/job/247304",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Factory Software",
+        "source": "vanshb03",
+        "id": "9a27f31f-3e0b-43ff-a340-e115b25375a9",
+        "date_posted": 1754199924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754199929,
+        "url": "https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Brooklyn Park, MN",
+            "Elgin, IL",
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Automation Development & Tooling Engineer Intern",
+        "source": "vanshb03",
+        "id": "9256bd41-01d4-484f-94a3-eda4709d9de6",
+        "date_posted": 1754199929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754199933,
+        "url": "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
+        "source": "vanshb03",
+        "id": "19e7cd23-5523-47d5-a0e3-fa819636bf40",
+        "date_posted": 1754199933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754199945,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?gh_src=9yscuffh3us",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPR",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5753e9a7-4178-4400-bc3f-56d8c37e7711",
+        "date_posted": 1754199945,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754199951,
+        "url": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE",
+        "locations": [
+            "San Jose"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Data Ecosystem",
+        "source": "vanshb03",
+        "id": "6d037d93-2eaa-46bb-88c3-0fe6781aee6e",
+        "date_posted": 1754199951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754199957,
+        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Otis",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "60684a51-3af0-47d3-be1b-55e947f011b5",
+        "date_posted": 1754199957,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
