@@ -7152,5 +7152,22 @@
         "date_posted": 1754347522,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754347539,
+        "url": "https://www.amazon.jobs/en/jobs/3037587/2026-program-manager-intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Program Manager Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "5c8bf978-3d57-4464-b9e6-b27bbf73c5e1",
+        "date_posted": 1754347539,
+        "company_url": "",
+        "is_visible": true
     }
 ]
