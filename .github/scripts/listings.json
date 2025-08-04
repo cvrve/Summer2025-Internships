@@ -6947,5 +6947,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754312548,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
+        "locations": [
+            "McLean, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "0893ca28-50ba-4e16-9495-7b6371aabaa8",
+        "date_posted": 1754312548,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
