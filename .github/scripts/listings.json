@@ -6981,7 +6981,7 @@
         "date_posted": 1754341908,
         "company_url": "",
         "is_visible": true,
-        "season": null
+        "season": "Summer"
     },
     {
         "date_updated": 1754341947,
@@ -7013,6 +7013,125 @@
         "source": "vanshb03",
         "id": "25502da7-825e-430a-ad3e-93f4999a8799",
         "date_posted": 1754341952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754341994,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "8069d3ec-6830-4121-baf1-3e4446d6f0fe",
+        "date_posted": 1754341994,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342028,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Group",
+        "title": "Software Development Intern, DV Commodities",
+        "source": "vanshb03",
+        "id": "1c4b2d63-4819-4ea5-8731-e62bacb4f039",
+        "date_posted": 1754342028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342049,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Trading",
+        "title": "Trading Intern, DV Commodities",
+        "source": "vanshb03",
+        "id": "ee4ff177-1f23-43bf-a71f-e01aa62c6449",
+        "date_posted": 1754342049,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342109,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580809101?utm_source=Simplify&ref=Simplify",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Hardware Engineer Intern",
+        "source": "vanshb03",
+        "id": "8b0317e5-0c56-47fa-8499-fc91d6a3eb5d",
+        "date_posted": 1754342109,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342181,
+        "url": "https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Intelligent Creation - Generative AI and Graphics",
+        "source": "vanshb03",
+        "id": "20bd33d3-87cc-434f-a6e7-3992e9ad55a4",
+        "date_posted": 1754342181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754342193,
+        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15762",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Williams-Sonoma, Inc.",
+        "title": "Research Engineering Intern, AI, Computer Vision, & Visualization",
+        "source": "vanshb03",
+        "id": "c69bfe3e-f5cd-4a0c-921d-61627fc9cec2",
+        "date_posted": 1754342193,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754342253,
+        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30?lever-source=Indeed",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cultivarium",
+        "title": "Computer Vision and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "a4c04d54-03d6-4db2-98e8-9ac5df6a240a",
+        "date_posted": 1754342253,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
