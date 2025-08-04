@@ -7169,5 +7169,23 @@
         "date_posted": 1754347539,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754347585,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/details/Summer-2026---UMD-College-Park---UIUC-Incubator-Labs--Summer-Cohort_R218755-1?q=intern",
+        "locations": [
+            "College Park, MD",
+            "Urbana Champaign, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "UMD-College Park & UIUC Incubator Labs Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2329cf5d-0296-4e23-bc51-7f05f0bd91fd",
+        "date_posted": 1754347585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
