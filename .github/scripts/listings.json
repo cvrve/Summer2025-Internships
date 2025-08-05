@@ -7187,5 +7187,22 @@
         "date_posted": 1754347585,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754380685,
+        "url": "https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Marquee Insurance Group",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "ffda8002-f698-4699-9603-94730494b8cc",
+        "date_posted": 1754380685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
