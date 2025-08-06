@@ -7238,5 +7238,22 @@
         "date_posted": 1754498498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754498510,
+        "url": "https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SebRodDev",
+        "id": "a293fb66-4d8b-468c-a4da-681c55388283",
+        "date_posted": 1754498510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
