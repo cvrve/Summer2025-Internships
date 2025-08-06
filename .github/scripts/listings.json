@@ -7204,5 +7204,22 @@
         "date_posted": 1754380685,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754451713,
+        "url": "https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HD Supply",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "awu-hub",
+        "id": "2802fdde-58b9-466b-97cb-812dfbc9d4dc",
+        "date_posted": 1754451713,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | <a href="https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
+| HD Supply | Information Technology Intern | Atlanta, GA | <a href="https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | TikTok | Software Engineer Intern, Intelligent Creation - Generative AI and Graphics | San Jose, CA | <a href="https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Talos | Quantitative Analyst Intern | New York, NY | <a href="https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | ↳ | Software Engineer Intern, Backend, Dealer | New York, NY | <a href="https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
