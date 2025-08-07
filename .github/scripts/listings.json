@@ -7255,5 +7255,232 @@
         "date_posted": 1754498510,
         "company_url": "",
         "is_visible": true
+    },
+    ,
+    {
+        "date_updated": 1754388481,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Developer Productivity Intern",
+        "source": "vanshb03",
+        "id": "93e4076a-e2c8-4109-9166-1b11b8abfe3e",
+        "date_posted": 1754388481,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754556774,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f7d522bf-4d37-4318-b3f8-b28ee8a2ca5b",
+        "date_posted": 1754556774,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754556802,
+        "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2e6052bf-553a-4ef0-a35d-5b912c911c2e",
+        "date_posted": 1754556802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754556850,
+        "url": "https://jobs.renesas.com/job/software-engineering-intern-in-columbia-maryland-united-states-jid-3340",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "48853324-2c17-4a75-b3e8-f17c952f0840",
+        "date_posted": 1754556850,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754556864,
+        "url": "https://bnymellon.eightfold.ai/careers/job/30606533",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "BNY",
+        "title": "Engineering (Developer) Intern",
+        "source": "vanshb03",
+        "id": "3de4458e-6364-4782-8cbc-b6a630471626",
+        "date_posted": 1754556864,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754556908,
+        "url": "https://bnymellon.eightfold.ai/careers/job/30606823",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "New York, NY",
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "BNY",
+        "title": "Engineering Intern, Data Science",
+        "source": "vanshb03",
+        "id": "38f07514-3925-43bd-9b1d-6d1426c2c9f1",
+        "date_posted": 1754556908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557025,
+        "url": "https://www.jumptrading.com/careers/7124905/?gh_jid=7124905",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "b0cc80b1-38d1-4910-bd9e-bb093ffe972f",
+        "date_posted": 1754557025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557033,
+        "url": "https://www.jumptrading.com/careers/7125381/?gh_jid=7125381",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "UI Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8e5e7dc2-7401-4b8b-b982-1730fdae2414",
+        "date_posted": 1754557033,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557039,
+        "url": "https://www.jumptrading.com/careers/7124769/?gh_jid=7124769",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "261722b3-1ad0-4822-abcd-bb57d4afcc0b",
+        "date_posted": 1754557039,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557043,
+        "url": "https://www.jumptrading.com/careers/6900970/?gh_jid=6900970",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Quantitative Trader Intern",
+        "source": "vanshb03",
+        "id": "4bfe8967-cf5b-47c5-8611-f770b9a41c56",
+        "date_posted": 1754557043,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1754557047,
+        "url": "https://www.jumptrading.com/careers/7026718/?gh_jid=7026718",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "5c6b7280-498f-4bcc-8c05-1a699e8de7ed",
+        "date_posted": 1754557047,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557052,
+        "url": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Tech Ops Engineer Intern",
+        "source": "vanshb03",
+        "id": "66a25d8b-bb9b-4100-9286-192eaf4a92fd",
+        "date_posted": 1754557052,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754557102,
+        "url": "https://astrolab.pinpointhq.com/en/postings/99e22152-e86f-4f82-86ae-9d3acdc50ce9",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Venturi Astrolab, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f7382c6c-dd0a-4a02-8c46-51cb4af37e61",
+        "date_posted": 1754557102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
