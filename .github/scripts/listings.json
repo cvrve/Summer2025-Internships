@@ -7669,5 +7669,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754667727,
+        "url": "https://job-boards.greenhouse.io/xantium/jobs/7094436?gh-src=71mp662q1us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xantium",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "0df9f696-df8e-4be2-bfdc-3730f92242dc",
+        "date_posted": 1754667727,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754667734,
+        "url": "https://job-boards.greenhouse.io/xantium/jobs/7104184?gh-src=71mp662q1us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xantium",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "62b66dfb-724e-4994-b214-3fc5f9670626",
+        "date_posted": 1754667734,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
