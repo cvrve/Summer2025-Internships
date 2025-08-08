@@ -46,6 +46,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Nicolet National Bank | Software Developer Intern |  | <a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf&source=&lang=en&source=Indeed.com&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
+| Metropolitan Transportation Authority | Software Development Intern, Emerging Talent | New York, NY | <a href="https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
+| Dell | Software Engineering Intern, ISG | Austin/Round Rock, TX</br>Hopkinton, MA | <a href="https://jobs.dell.com/en/job/hopkinton/dell-isg-software-engineering-intern/375/84768353520?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
+| Cognitiv | Machine Learning Engineer Intern | San Mateo, CA | <a href="https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
+| ByteDance | Site Reliability Engineer Intern, Data Infrastructure | Seattle | <a href="https://jobs.bytedance.com/en/position/7535972870166677778/detail?spread=A3T3U6W&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Jump Trading | Tech Ops Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/7077897/?gh_jid=7077897&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | Quantitative Researcher Intern | Chicago, IL</br>New York, NY | <a href="https://www.jumptrading.com/careers/7026718/?gh_jid=7026718&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | Quantitative Trader Intern | New York, NY</br>Chicago, IL | <a href="https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
