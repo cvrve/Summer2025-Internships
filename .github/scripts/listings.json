@@ -6930,7 +6930,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754312235,
+        "date_updated": 1754628411,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
         "locations": [
             "McLean, VA",
@@ -6938,7 +6938,7 @@
             "Plano, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Technology Internship Program",
         "source": "vanshb03",
