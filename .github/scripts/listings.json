@@ -7739,5 +7739,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754696114,
+        "url": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, AI Intern",
+        "season": "Winter",
+        "source": "amhw460",
+        "id": "c8d37f5f-6835-4d6f-b57b-1a98e90b191e",
+        "date_posted": 1754696114,
+        "company_url": "",
+        "is_visible": true
     }
 ]
