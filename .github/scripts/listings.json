@@ -7570,7 +7570,9 @@
     {
         "date_updated": 1754666249,
         "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf&source=&lang=en&source=Indeed.com",
-        "locations": [],
+        "locations": [
+            "Green Bay, WI"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "Nicolet National Bank",
