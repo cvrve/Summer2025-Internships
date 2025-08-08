@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Jump Trading | Tech Ops Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/7077897/?gh_jid=7077897&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | Quantitative Researcher Intern | Chicago, IL</br>New York, NY | <a href="https://www.jumptrading.com/careers/7026718/?gh_jid=7026718&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
+| ↳ | Quantitative Trader Intern | New York, NY</br>Chicago, IL | <a href="https://www.jumptrading.com/careers/6900970/?gh_jid=6900970&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/7124769/?gh_jid=7124769&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | UI Software Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/7125381/?gh_jid=7125381&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | ↳ | FPGA Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/careers/7124905/?gh_jid=7124905&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
