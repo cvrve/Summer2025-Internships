@@ -7481,5 +7481,191 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1754666209,
+        "url": "https://www.tesla.com/careers/search/job/247990",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Chassis Validation Engineer Intern, Vehicle Firmware",
+        "source": "vanshb03",
+        "id": "020292c9-4a70-4388-a707-6084cce20cb6",
+        "date_posted": 1754666209,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754666224,
+        "url": "https://www.tesla.com/careers/search/job/247862",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "C++ Software Engineer Intern, Systems, AI",
+        "source": "vanshb03",
+        "id": "8c025004-2b27-43e8-8d60-a9f2eca60b3a",
+        "date_posted": 1754666224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754666230,
+        "url": "https://www.tesla.com/careers/search/job/247889",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Compiler Engineer Intern, AI Inference",
+        "source": "vanshb03",
+        "id": "081541d1-52bb-41c4-8962-263271c11537",
+        "date_posted": 1754666230,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754666235,
+        "url": "https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer Intern, AI Platforms",
+        "source": "vanshb03",
+        "id": "c4682ada-4a5b-48bd-b9fd-61f17680ee9b",
+        "date_posted": 1754666235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754666243,
+        "url": "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Chassis Integration Engineer Intern, Vehicle Firmware",
+        "source": "vanshb03",
+        "id": "cb4d410c-659a-49c3-b1b6-43ba7a6aedca",
+        "date_posted": 1754666243,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754666249,
+        "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf&source=&lang=en&source=Indeed.com",
+        "locations": [],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nicolet National Bank",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "9c77806d-9e48-4659-8be3-bd9054a513e6",
+        "date_posted": 1754666249,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754666256,
+        "url": "https://jobs.bytedance.com/en/position/7535972870166677778/detail?spread=A3T3U6W",
+        "locations": [
+            "Seattle"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infrastructure",
+        "source": "vanshb03",
+        "id": "125b73c6-3b5f-430a-9cdd-2e5037978eff",
+        "date_posted": 1754666256,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754666263,
+        "url": "https://www.careers.signify.com/global/en/job/360011/Software-Quality-Engineer-Intern-Fall-2025",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signify",
+        "title": "Software Quality Engineer Intern",
+        "source": "vanshb03",
+        "id": "c38774fc-38df-4274-9a50-b6ed4bdbf7ee",
+        "date_posted": 1754666263,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1754666273,
+        "url": "https://jobs.dell.com/en/job/hopkinton/dell-isg-software-engineering-intern/375/84768353520",
+        "locations": [
+            "Austin/Round Rock, TX",
+            "Hopkinton, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell",
+        "title": "Software Engineering Intern, ISG",
+        "source": "vanshb03",
+        "id": "64024ec5-cd7d-4262-9ee5-050383556187",
+        "date_posted": 1754666273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754666468,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Metropolitan Transportation Authority",
+        "title": "Software Development Intern, Emerging Talent",
+        "source": "vanshb03",
+        "id": "cf5119ff-74bf-466c-ba08-65f84065f8fb",
+        "date_posted": 1754666468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754666482,
+        "url": "https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognitiv",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "bbc96cfa-a4a8-4b09-80f9-32b8d4eadb17",
+        "date_posted": 1754666482,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
