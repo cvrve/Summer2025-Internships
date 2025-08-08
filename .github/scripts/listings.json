@@ -7703,5 +7703,41 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754667961,
+        "url": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, iOS",
+        "source": "vanshb03",
+        "id": "7186a96a-dc84-4050-b504-2eb9fb5bac86",
+        "date_posted": 1754667961,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754667967,
+        "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Android",
+        "source": "vanshb03",
+        "id": "ccea08b5-df32-452c-b4cd-f7907cf89340",
+        "date_posted": 1754667967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
