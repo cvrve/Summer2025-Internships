@@ -7969,5 +7969,23 @@
         "date_posted": 1754748272,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754764748,
+        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer, Mobile Intern",
+        "season": "Summer",
+        "source": "amhw460",
+        "id": "45adcbc5-ef23-4a22-8a59-7a859bb622fc",
+        "date_posted": 1754764748,
+        "company_url": "",
+        "is_visible": true
     }
 ]
