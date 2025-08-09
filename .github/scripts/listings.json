@@ -7619,14 +7619,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1754666273,
+        "date_updated": 1754759066,
         "url": "https://jobs.dell.com/en/job/hopkinton/dell-isg-software-engineering-intern/375/84768353520",
         "locations": [
             "Austin/Round Rock, TX",
             "Hopkinton, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dell",
         "title": "Software Engineering Intern, ISG",
         "source": "vanshb03",
