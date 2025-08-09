@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| MIcrosoft | Product Management Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Xantium | Quantitative Researcher Intern | New York, NY | <a href="https://www.xantium.com/careers/interns_2026/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | ↳ | Quantitative Developer Intern | New York, NY | <a href="https://www.xantium.com/careers/interns_2026/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Ramp | Software Engineer Intern, Android | New York, NY</br>San Francisco, CA | <a href="https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |

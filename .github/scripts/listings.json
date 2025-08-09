@@ -7899,5 +7899,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754748064,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MIcrosoft",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2512609c-7b23-4b74-8aef-18f4c58f66d4",
+        "date_posted": 1754748064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
