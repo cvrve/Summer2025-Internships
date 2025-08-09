@@ -7934,5 +7934,23 @@
         "date_posted": 1754748090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754748135,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=f6d5520e3us",
+        "locations": [
+            "Austin, TX",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "awu-hub",
+        "id": "cd6d5bff-f201-4e77-a90b-eeed3b578731",
+        "date_posted": 1754748135,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Neuralink | Software Engineer Intern | Austin, TX</br>Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=f6d5520e3us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | MIcrosoft | Product Management Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Belvedere Trading | Software Engineering Intern | Chicago, IL</br>Boulder, CO | <a href="https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Xantium | Quantitative Researcher Intern | New York, NY | <a href="https://www.xantium.com/careers/interns_2026/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
