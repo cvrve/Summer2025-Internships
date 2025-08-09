@@ -1150,13 +1150,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748135864,
+        "date_updated": 1754706004,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Protiviti",
         "title": "Digital Intern",
         "season": "Summer",
@@ -1737,13 +1737,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748492055,
+        "date_updated": 1754705996,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4609412007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Technical Support Engineering Intern",
         "season": "Fall",
@@ -5777,13 +5777,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753746718,
+        "date_updated": 1754706027,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
         "locations": [
             "Cleveland, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KeyBank",
         "title": "Analytics and Quantitative Modeling Intern",
         "season": "Summer",
@@ -6253,13 +6253,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753906364,
+        "date_updated": 1754706033,
         "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933",
         "locations": [
             "Sioux Falls, SD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KBR",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -6513,13 +6513,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753921311,
+        "date_updated": 1754705997,
         "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AI Fund",
         "title": "Full-Stack Engineer Intern",
         "season": "Summer",
@@ -6581,13 +6581,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754002571,
+        "date_updated": 1754705997,
         "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006&gh_src=cb2018976us",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AppLovin",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -6949,14 +6949,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754312548,
+        "date_updated": 1754706051,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
         "locations": [
             "McLean, VA",
             "Plano, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Cyber Security Intern",
         "source": "vanshb03",
@@ -7654,13 +7654,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754666482,
+        "date_updated": 1754705998,
         "url": "https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cognitiv",
         "title": "Machine Learning Engineer Intern",
         "source": "vanshb03",
