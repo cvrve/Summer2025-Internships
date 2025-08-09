@@ -7757,5 +7757,147 @@
         "date_posted": 1754696114,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754705138,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Algorithm Trader Intern",
+        "source": "vanshb03",
+        "id": "cc8da998-0f38-40db-b5b0-81a2c76f2950",
+        "date_posted": 1754705138,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754706360,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7eb54af7-42df-4c14-a9af-54eb08328fb3",
+        "date_posted": 1754706360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754706367,
+        "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2026-6883068002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "73648653-0082-4e15-ae22-372354bb7657",
+        "date_posted": 1754706367,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754706381,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Data Science Intern, Data",
+        "source": "vanshb03",
+        "id": "53bfdeba-c089-44e9-a770-fe1303dd77fe",
+        "date_posted": 1754706381,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754706705,
+        "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "dda575a0-d904-4878-b3f9-03def22e7edd",
+        "date_posted": 1754706705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754707411,
+        "url": "https://campusjobs.mlp.com/careers?pid=755944533187&location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&recommended=1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Software Engineer Intern, New York",
+        "source": "vanshb03",
+        "id": "52608083-190d-4c90-949c-176dbf41c450",
+        "date_posted": 1754707411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754707422,
+        "url": "https://campusjobs.mlp.com/careers?location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&pid=755944533543&domain=mlp.com&sort_by=relevance&recommended=1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "AI Engineer Intern, New York",
+        "source": "vanshb03",
+        "id": "a2299bb9-34d4-4c30-ba8a-586619ca60e8",
+        "date_posted": 1754707422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754707427,
+        "url": "https://campusjobs.mlp.com/careers?location=New%20York%2C%20New%20York%2C%20United%20States%20of%20America&pid=755944541610&domain=mlp.com&sort_by=relevance&recommended=1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Project Management Intern",
+        "source": "vanshb03",
+        "id": "16308545-0b87-4576-a1a1-64e883f98ba8",
+        "date_posted": 1754707427,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
