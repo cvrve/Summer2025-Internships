@@ -7137,13 +7137,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754347522,
+        "date_updated": 1754707088,
         "url": "https://careers.gehealthcare.com/global/en/job/R4027636/Information-Technology-Development-Program-Internship",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GE Healthcare",
         "title": "Information Technology Development Program",
         "season": "Summer",
