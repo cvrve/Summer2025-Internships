@@ -8196,5 +8196,22 @@
         "date_posted": 1754806557,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754806570,
+        "url": "https://jobs.redbull.com/us-en/east-hanover-2025-internship-summer-data-science-remote-prv-ref23605a?sourceTypeId=PAID&sourceId=cf9c853d-3d03-4305-93a7-9bd9c04803b1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Red Bulls",
+        "title": "Data Science Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "e48c3157-4177-49da-b638-0b289b723273",
+        "date_posted": 1754806570,
+        "company_url": "",
+        "is_visible": true
     }
 ]
