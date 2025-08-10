@@ -8128,5 +8128,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1754806429,
+        "url": "https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=10-01525",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Southwest Research Institute",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "mikuv-chain",
+        "id": "3d3663ad-f3ab-43dd-98b7-646c903be84c",
+        "date_posted": 1754806429,
+        "company_url": "",
+        "is_visible": true
     }
 ]
