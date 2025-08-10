@@ -8077,5 +8077,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1754805647,
+        "url": "https://jobs.bytedance.com/en/position/7535646140345272584/detail?spread=A3T3U6W",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infrastructure",
+        "source": "vanshb03",
+        "id": "ea461625-eb08-48cb-87e4-2e516bee5b51",
+        "date_posted": 1754805647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754805657,
+        "url": "https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "ae51687f-ada7-4d45-b3df-5b4f65f7cba5",
+        "date_posted": 1754805657,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754805673,
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Air Lines, Inc.",
+        "title": "IT Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "f8fcf5a2-868c-41ca-bdf2-2f97dcb8a4ee",
+        "date_posted": 1754805673,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
