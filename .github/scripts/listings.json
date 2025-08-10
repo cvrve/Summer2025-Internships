@@ -7987,5 +7987,95 @@
         "date_posted": 1754764748,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754803033,
+        "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cdc6c8df-5933-45d5-ac85-1d3da9d33685",
+        "date_posted": 1754803033,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803849,
+        "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a405e7dd-4aa4-4671-b28c-e9b2f0d4a3a9",
+        "date_posted": 1754803849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1754803857,
+        "url": "https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, AI",
+        "source": "vanshb03",
+        "id": "a352984c-bf23-4dcc-9a4b-e731e5f64d78",
+        "date_posted": 1754803857,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803866,
+        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "0e5e4b3b-462f-4b2b-a601-222045db683b",
+        "date_posted": 1754803866,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1754803873,
+        "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "d6e8c2c2-c141-4d6d-bcd9-da3f96d51a18",
+        "date_posted": 1754803873,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
