@@ -8231,5 +8231,22 @@
         "date_posted": 1754806636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754806650,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Data---AI-QA-Intern_JR103915",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Data & AI QA Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "8dfd6e01-8811-4e14-b924-3d5035e14265",
+        "date_posted": 1754806650,
+        "company_url": "",
+        "is_visible": true
     }
 ]
