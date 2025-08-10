@@ -8179,5 +8179,22 @@
         "date_posted": 1754806491,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754806557,
+        "url": "https://careers.honeywell.com/en/sites/Honeywell/my-profile/preview/109972",
+        "locations": [
+            "Mason, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Software Engineer Co-Op",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "9f61639a-d3b1-4e1d-a96e-954ddf89c308",
+        "date_posted": 1754806557,
+        "company_url": "",
+        "is_visible": true
     }
 ]
