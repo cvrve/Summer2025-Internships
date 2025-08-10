@@ -8162,5 +8162,22 @@
         "date_posted": 1754806479,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754806491,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Fall-Winter-2025-IT-Co-Op_168888",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "IT Co-Op Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "d04295e6-750a-4075-8eda-d509a34ddef1",
+        "date_posted": 1754806491,
+        "company_url": "",
+        "is_visible": true
     }
 ]
