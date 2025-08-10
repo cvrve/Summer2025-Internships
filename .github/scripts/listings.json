@@ -8213,5 +8213,23 @@
         "date_posted": 1754806570,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754806636,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4570159006?gh_src=5874d0446us",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wurl LLC.",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "Tar-ive",
+        "id": "7a661287-6d4e-4de4-8486-248e4cfea1be",
+        "date_posted": 1754806636,
+        "company_url": "",
+        "is_visible": true
     }
 ]
