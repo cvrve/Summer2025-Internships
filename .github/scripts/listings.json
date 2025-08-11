@@ -8147,13 +8147,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754806479,
+        "date_updated": 1754930612,
         "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EPIC",
         "title": "Software Engineer Intern",
         "season": "Summer",
