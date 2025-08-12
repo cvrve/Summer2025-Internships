@@ -8270,5 +8270,56 @@
         "date_posted": 1754939799,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755007426,
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025849EXTERNALENGLOBAL/Graphics-Engineering-Intern?utm_source=indeed&utm_medium=phenom-feeds",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Graphics Engineering Intern, Overwatch",
+        "source": "vanshb03",
+        "id": "e382b1cc-a82b-4505-96ef-8b8301a5fe35",
+        "date_posted": 1755007426,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755007496,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=316815&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48&source=Indeed",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oklahoma City Thunder",
+        "title": "Software Engineer Intern, Basketball Operations",
+        "source": "vanshb03",
+        "id": "af9ec73d-491c-400f-b119-5e21b2c1328b",
+        "date_posted": 1755007496,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755007507,
+        "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005?gh_src=orgc7kfu5us",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Radiant",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f0e7574f-050c-4787-bc1e-37fdeda9ec2f",
+        "date_posted": 1755007507,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
