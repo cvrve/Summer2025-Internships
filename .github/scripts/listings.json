@@ -8215,14 +8215,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754806636,
+        "date_updated": 1755004433,
         "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4570159006?gh_src=5874d0446us",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wurl LLC.",
         "title": "Data Engineer Intern",
         "season": "Summer",
