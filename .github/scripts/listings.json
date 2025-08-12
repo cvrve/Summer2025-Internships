@@ -7637,13 +7637,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754666468,
+        "date_updated": 1754980344,
         "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb?nl=1&fr=true",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Metropolitan Transportation Authority",
         "title": "Software Development Intern, Emerging Talent",
         "source": "vanshb03",
