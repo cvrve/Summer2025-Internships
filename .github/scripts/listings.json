@@ -8260,7 +8260,7 @@
             "Reston, VA",
             "Seattle, WA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "company_name": "Anduril",
         "title": "Software Engineer Intern",
@@ -8424,5 +8424,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1755106686,
+        "url": "https://job-boards.greenhouse.io/mill/jobs/4597024005?ref=vansh",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mill",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "ce6d2d92-5be7-4019-b205-07a3ecee3ea7",
+        "date_posted": 1755106686,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755106694,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209&req_loc=813128&&&nohd#job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TetraMem",
+        "title": "Software Intern, Machine Learning",
+        "source": "vanshb03",
+        "id": "357bf918-3fc4-4b79-9028-e55d39847627",
+        "date_posted": 1755106694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755106699,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&req_loc=960817&&&nohd#job?ref=vansh",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "",
+        "title": "Software Intern, Embedded",
+        "source": "vanshb03",
+        "id": "22446a2a-ab54-45b7-af8c-5a44bfc44062",
+        "date_posted": 1755106699,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
