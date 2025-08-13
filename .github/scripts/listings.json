@@ -8463,5 +8463,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755116225,
+        "url": "https://careers.newyorklife.com/careers?location=New%20York%2C%20New%20York%2C%20US&pid=30591072&domain=newyorklife.com&sort_by=relevance",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Life",
+        "title": "Investments AI & Data Intern, AI & DS Team",
+        "source": "vanshb03",
+        "id": "cf5a2688-b0ed-4fbb-b3ca-3543030cdd35",
+        "date_posted": 1755116225,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
