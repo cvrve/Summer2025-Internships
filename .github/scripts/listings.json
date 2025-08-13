@@ -5424,7 +5424,9 @@
     {
         "date_updated": 1753228444,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-summer-analyst/7014521?gh_jid=7014521#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -5439,7 +5441,9 @@
     {
         "date_updated": 1753228474,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-solutions-group-summer-analyst/7055103?gh_jid=7055103#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -5454,7 +5458,9 @@
     {
         "date_updated": 1753228484,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
-        "locations": [],
+        "locations": [
+            "Greenwich, CT"
+        ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "AQR Capital Management",
@@ -8449,7 +8455,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "",
+        "company_name": "TetraMem",
         "title": "Software Intern, Embedded",
         "source": "vanshb03",
         "id": "22446a2a-ab54-45b7-af8c-5a44bfc44062",
