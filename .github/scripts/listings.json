@@ -8338,5 +8338,22 @@
         "date_posted": 1755068949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755090375,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "177a6792-f602-4066-9750-c3471f0a7fae",
+        "date_posted": 1755090375,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
