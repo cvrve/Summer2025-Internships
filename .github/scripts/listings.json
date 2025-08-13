@@ -8321,5 +8321,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755068949,
+        "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "USA Engineering Internships",
+        "season": "Summer",
+        "source": "PranavMarneni",
+        "id": "2c2776b1-2f12-43a4-a066-ad8b81fc6982",
+        "date_posted": 1755068949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
