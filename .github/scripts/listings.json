@@ -8355,5 +8355,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755091238,
+        "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sonic Healthcare USA, Inc",
+        "title": "Software Development Intern, Cache",
+        "source": "vanshb03",
+        "id": "b72064c8-5ca1-467f-9457-5288d252e499",
+        "date_posted": 1755091238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755091306,
+        "url": "https://www.tesla.com/careers/search/job/248358",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Backend Software Engineer Intern, Diagnostics",
+        "source": "vanshb03",
+        "id": "10a4c1fc-00fd-4484-a2cb-67f889fde2c0",
+        "date_posted": 1755091306,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755091317,
+        "url": "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
+        "source": "vanshb03",
+        "id": "1598d29a-fd49-438c-b311-639e9bb943a7",
+        "date_posted": 1755091317,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755091339,
+        "url": "https://lifeattiktok.com/search/7537493362585979154?spread=XKM9ZXE",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Recommendation Infrastructure",
+        "source": "vanshb03",
+        "id": "a973cca2-2a71-4381-b2f7-c2d649c9b978",
+        "date_posted": 1755091339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
