@@ -8306,13 +8306,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755007507,
+        "date_updated": 1755106922,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005?gh_src=orgc7kfu5us",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Radiant",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
