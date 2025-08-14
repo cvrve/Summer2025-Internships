@@ -105,7 +105,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Engineering (Developer) Intern 🛂 | Pittsburgh, PA | <a href="https://bnymellon.eightfold.ai/careers/job/30606533?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 | Roblox | Software Engineer Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/7114765?fbclid=PAZXh0bgNhZW0CMTEAAacJ6fn8yHQ6R-Xp_hftOF2j9kC4QiKk5Q_8hTSWMPHEkd9N_hiA62Myxz0ULA_aem_yhDi7BqGgqyKbKlnOnSspw&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Confluent | Software Engineering Intern | Austin, TX | <a href="https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
-| Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | <a href="https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | HD Supply | Information Technology Intern | Atlanta, GA | <a href="https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
 | TikTok | Software Engineer Intern, Intelligent Creation - Generative AI and Graphics | San Jose, CA | <a href="https://lifeattiktok.com/search/7533029779479791890?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Talos | Quantitative Analyst Intern | New York, NY | <a href="https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
@@ -301,6 +300,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Metropolitan Transportation Authority | Software Development Intern, Emerging Talent | New York, NY | 🔒 | Aug 08 |
 | Dell | Software Engineering Intern, ISG | Austin/Round Rock, TX</br>Hopkinton, MA | 🔒 | Aug 08 |
 | Cognitiv | Machine Learning Engineer Intern | San Mateo, CA | 🔒 | Aug 08 |
+| Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | 🔒 | Aug 05 |
 | GE Healthcare | Information Technology Development Program 🛂 | Remote | 🔒 | Aug 04 |
 | Capital One | Cyber Security Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Aug 04 |
 | ↳ | Technology Internship Program 🛂 | McLean, VA</br>Richmond, VA</br>Plano, TX | 🔒 | Aug 04 |
