@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| New York Post | Technology Intern | New York, NY | <a href="https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
+| Intuit | Software Developer Co-op 🛂 | Toronto, Canada | <a href="https://jobs.intuit.com/job/-/-/27595/82936409280?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | TikTok | Software Engineer Intern, Recommendation Infrastructure | Seattle, WA | <a href="https://lifeattiktok.com/search/7537493362585979154?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Tesla | Software Engineer Intern, Maps & Self-Driving Navigation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | Backend Software Engineer Intern, Diagnostics | Palo Alto, CA</br>Austin, TX | <a href="https://www.tesla.com/careers/search/job/248358?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
