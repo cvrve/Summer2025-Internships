@@ -8490,7 +8490,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "Microsoft",
-        "title": "Applied Scientist Intern, Microsoft AI – PhD",
+        "title": "Applied Scientist Intern, Microsoft AI \u2013 PhD",
         "source": "vanshb03",
         "id": "41657dc7-443e-4487-bc1d-4db4aa7c0dd8",
         "date_posted": 1755162371,
@@ -8616,5 +8616,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755164904,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3496176?src=LinkedIn",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Detroit Pistons",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "sbui056",
+        "id": "502e8ff3-0de2-4eda-970c-00a0babb2d17",
+        "date_posted": 1755164904,
+        "company_url": "",
+        "is_visible": true
     }
 ]
