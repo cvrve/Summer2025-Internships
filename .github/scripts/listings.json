@@ -8480,5 +8480,141 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755162371,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861062/Applied-Scientist%3A-Microsoft-AI-%E2%80%93-PhD-Internship-Opportunities-%E2%80%93-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Applied Scientist Intern, Microsoft AI – PhD",
+        "source": "vanshb03",
+        "id": "41657dc7-443e-4487-bc1d-4db4aa7c0dd8",
+        "date_posted": 1755162371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162394,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "b3cb79b1-b838-4b37-bc42-60466ec6de10",
+        "date_posted": 1755162394,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162407,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860947/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "519bc055-2c5b-42b0-8fad-fa8cea4a6f01",
+        "date_posted": 1755162407,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162416,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Security",
+        "source": "vanshb03",
+        "id": "fa5661a0-2bba-46d2-9ed0-da2d1cf400bd",
+        "date_posted": 1755162416,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162422,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860979/Software-Engineer%3A-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "fea3865d-dc88-4ca9-83f4-22078fb7e839",
+        "date_posted": 1755162422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162426,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Frontend",
+        "source": "vanshb03",
+        "id": "8e00e04a-5b74-42f4-9e28-bb7d643360e9",
+        "date_posted": 1755162426,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162430,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860960/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "d7af1653-4625-46bc-a62b-6743dea6a4e5",
+        "date_posted": 1755162430,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755162437,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Systems",
+        "source": "vanshb03",
+        "id": "ba47af97-33b6-459d-8666-419de8007089",
+        "date_posted": 1755162437,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
