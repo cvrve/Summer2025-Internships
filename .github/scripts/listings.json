@@ -8650,5 +8650,22 @@
         "date_posted": 1755164943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755203800,
+        "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morgan Stanley",
+        "title": "Firmwide AI Strategy & Solutions Analyst Intern",
+        "season": "Summer",
+        "source": "RK896",
+        "id": "4da185c6-b3f7-4e7f-8675-aa49b903ac0a",
+        "date_posted": 1755203800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
