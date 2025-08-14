@@ -8701,5 +8701,56 @@
         "date_posted": 1755203839,
         "company_url": "",
         "is_visible": true
-    }
+    },
+    {
+    "date_updated": 1755205617,
+    "url": "https://jobs.intuit.com/job/-/-/27595/82936409280",
+    "locations": [
+        "Toronto, Canada"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "company_name": "Intuit",
+    "title": "Software Developer Co-op",
+    "source": "vanshb03",
+    "id": "afe2550b-4464-4b84-b319-c4ecc35c3945",
+    "date_posted": 1755205617,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+},
+{
+    "date_updated": 1755205799,
+    "url": "https://www.epicgames.com/site/en-US/careers/jobs/5620310004",
+    "locations": [
+        "Cary, NC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Epic Games",
+    "title": "Gameplay Programmer Intern",
+    "source": "vanshb03",
+    "id": "86e92313-3934-47ad-bceb-26b76bbed0ba",
+    "date_posted": 1755205799,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer"
+},
+{
+    "date_updated": 1755205831,
+    "url": "https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194",
+    "locations": [
+        "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "New York Post",
+    "title": "Technology Intern",
+    "source": "vanshb03",
+    "id": "832d62c7-886f-40ae-b467-07edcaa39ff6",
+    "date_posted": 1755205831,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Fall"
+}
 ]
