@@ -8667,5 +8667,22 @@
         "date_posted": 1755203800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755203820,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "sbui056",
+        "id": "16ae1284-ea84-41a5-8512-05a133969b51",
+        "date_posted": 1755203820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
