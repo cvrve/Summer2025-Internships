@@ -8684,5 +8684,22 @@
         "date_posted": 1755203820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755203839,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079",
+        "locations": [
+            "Rome, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "2025 Software Engineer Intern",
+        "season": "Summer",
+        "source": "sbui056",
+        "id": "e34b4e39-3a42-471b-9baf-12fe442aec10",
+        "date_posted": 1755203839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
