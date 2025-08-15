@@ -8718,39 +8718,158 @@
     "company_url": "",
     "is_visible": true,
     "season": "Fall"
-},
-{
-    "date_updated": 1755205799,
-    "url": "https://www.epicgames.com/site/en-US/careers/jobs/5620310004",
-    "locations": [
-        "Cary, NC"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "Epic Games",
-    "title": "Gameplay Programmer Intern",
-    "source": "vanshb03",
-    "id": "86e92313-3934-47ad-bceb-26b76bbed0ba",
-    "date_posted": 1755205799,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Summer"
-},
-{
-    "date_updated": 1755205831,
-    "url": "https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194",
-    "locations": [
-        "New York, NY"
-    ],
-    "sponsorship": "Other",
-    "active": true,
-    "company_name": "New York Post",
-    "title": "Technology Intern",
-    "source": "vanshb03",
-    "id": "832d62c7-886f-40ae-b467-07edcaa39ff6",
-    "date_posted": 1755205831,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
-}
+    },
+    {
+        "date_updated": 1755205799,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5620310004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Gameplay Programmer Intern",
+        "source": "vanshb03",
+        "id": "86e92313-3934-47ad-bceb-26b76bbed0ba",
+        "date_posted": 1755205799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755205831,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Post",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "832d62c7-886f-40ae-b467-07edcaa39ff6",
+        "date_posted": 1755205831,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755262215,
+        "url": "https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPE",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "243f2dec-d95d-444b-8416-ae38b135f9c9",
+        "date_posted": 1755262215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755262249,
+        "url": "https://careers.hpe.com/us/en/job/HPE1US1192961EXTERNALENUS/Software-Engineering-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6b085d0d-9094-4e3a-ace1-09e318452cc7",
+        "date_posted": 1755262249,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755262258,
+        "url": "https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "7ec04e00-a052-4fce-b010-a0868e8bcb5c",
+        "date_posted": 1755262258,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755262269,
+        "url": "https://careers.gevernova.com/global/en/job/R5017939/GE-Vernova-CIC-Software-Engineer-Intern-Fall-2026",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "CIC Software Engineer Intern, Grid Solutions",
+        "source": "vanshb03",
+        "id": "72db6ad7-da91-4f65-a745-045f196a3692",
+        "date_posted": 1755262269,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755262283,
+        "url": "https://www.tesla.com/careers/search/job/248064",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "System Software Engineer Intern, System Software",
+        "source": "vanshb03",
+        "id": "08cd4385-b164-4898-b651-ad3901142318",
+        "date_posted": 1755262283,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755262291,
+        "url": "https://www.tesla.com/careers/search/job/248104",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Update Systems",
+        "source": "vanshb03",
+        "id": "be3adfc0-8208-4675-a53f-0ce6b4c3f606",
+        "date_posted": 1755262291,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755262300,
+        "url": "https://www.tesla.com/careers/search/job/248062",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Linux Update Systems",
+        "source": "vanshb03",
+        "id": "0d42096b-7395-4849-ad5e-1a6afb0bdcc0",
+        "date_posted": 1755262300,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    }
 ]
