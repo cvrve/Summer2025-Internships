@@ -9075,5 +9075,27 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755290435,
+        "url": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "SebRodDev",
+        "id": "fc775a3d-eed2-4c26-bc87-8aa0759abffb",
+        "date_posted": 1755290435,
+        "company_url": "",
+        "is_visible": true
     }
 ]
