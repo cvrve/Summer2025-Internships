@@ -9171,5 +9171,92 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755297045,
+        "url": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1294771EXTERNALENGLOBAL/AI-Powered-Marketing-Operations-Project-Management-Intern",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Beckman Coulter Life Sciences",
+        "title": "AI-Powered Marketing Operations & Project Management Intern",
+        "source": "vanshb03",
+        "id": "63c9a82b-9512-4401-b52c-6822aee22c02",
+        "date_posted": 1755297045,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755297064,
+        "url": "https://jobs.gusto.com/postings/aion-robotics-corporation-machine-learning-intern-fall-2025-4acf688a-28e2-4bb3-a121-1b8c3f2f9e20",
+        "locations": [
+            "Arvada, CO",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AION ROBOTICS CORPORATION",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "1d2d1806-78a4-45c5-81fb-6487fee9c952",
+        "date_posted": 1755297064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755297162,
+        "url": "https://www.amentumcareers.com/jobs/ai-and-robotics-intern-huntsville-alabama-united-states-4fa685a1-2e01-42fa-8597-b9f54e5818be",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amentum",
+        "title": "AI and Robotics Intern",
+        "source": "vanshb03",
+        "id": "f0a78905-0961-4be7-99c3-f879c8c55e93",
+        "date_posted": 1755297162,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755297170,
+        "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/XMLNAME-2026-Summer-Analyst-Program--Information-Technology---Tampa--FL_10072145-WD-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mitsubishi UFJ Financial Group (MUFG)",
+        "title": "Summer Analyst Intern, Information Technology",
+        "source": "vanshb03",
+        "id": "1f0fbab4-3299-46f4-9a25-dce37d14e2e9",
+        "date_posted": 1755297170,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755297183,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
+        "locations": [
+            "Chicago, IL",
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Supply Chain AI Intern",
+        "source": "vanshb03",
+        "id": "f2f34231-bb1a-4d1f-8d9b-d074353bb843",
+        "date_posted": 1755297183,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
