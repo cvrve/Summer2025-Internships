@@ -6208,13 +6208,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753842610,
+        "date_updated": 1755297327,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4365284006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Test Automation Intern, Fall 2025",
         "source": "vanshb03",
