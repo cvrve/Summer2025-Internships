@@ -8260,13 +8260,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755007426,
+        "date_updated": 1755290722,
         "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025849EXTERNALENGLOBAL/Graphics-Engineering-Intern?utm_source=indeed&utm_medium=phenom-feeds",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Activision Blizzard",
         "title": "Graphics Engineering Intern, Overwatch",
         "source": "vanshb03",
