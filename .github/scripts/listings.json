@@ -9131,5 +9131,45 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755296757,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Waltham, MA",
+            "Austin, TX",
+            "San Francisco, CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Machine Learning Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "235bfae2-3518-482e-8dbd-57d1fb16382c",
+        "date_posted": 1755296757,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755296797,
+        "url": "https://www.uline.jobs/JobDetails?jobid=R256032",
+        "locations": [
+            "Pleasant Prairie, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "d64ee47d-d250-4492-9b13-428d0031e2ce",
+        "date_posted": 1755296797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
