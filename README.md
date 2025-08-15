@@ -46,6 +46,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TikTok | Backend Software Engineer Intern, Media Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7538301580093720840?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Software Engineer Intern, Live Service | San Jose, CA | <a href="https://lifeattiktok.com/search/7538314547103762696?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Backend Software Engineer Intern, Foundation Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7538307729329277202?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Software Engineer Intern, Media Engine | San Jose, CA | <a href="https://lifeattiktok.com/search/7538304108715198727?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Software Engineer Intern, Video-on-Demand Algorithm | San Jose, CA | <a href="https://lifeattiktok.com/search/7538304000404244743?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| Skyworks | Applications Engineer Intern, Power Access | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | HPE | Cloud Engineer Intern | Spring, TX | <a href="https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Hewlett Packard Enterprise | Firmware Engineer Intern | Spring, TX | <a href="https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | Software Engineering Intern | Spring, TX | <a href="https://careers.hpe.com/us/en/job/HPE1US1192961EXTERNALENUS/Software-Engineering-Intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
