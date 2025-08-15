@@ -4257,13 +4257,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751907807,
+        "date_updated": 1755266098,
         "url": "https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mercedes-Benz",
         "title": "Software Developer - AIX Intern",
         "season": "Fall",
@@ -8703,21 +8703,21 @@
         "is_visible": true
     },
     {
-    "date_updated": 1755205617,
-    "url": "https://jobs.intuit.com/job/-/-/27595/82936409280",
-    "locations": [
-        "Toronto, Canada"
-    ],
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "company_name": "Intuit",
-    "title": "Software Developer Co-op",
-    "source": "vanshb03",
-    "id": "afe2550b-4464-4b84-b319-c4ecc35c3945",
-    "date_posted": 1755205617,
-    "company_url": "",
-    "is_visible": true,
-    "season": "Fall"
+        "date_updated": 1755205617,
+        "url": "https://jobs.intuit.com/job/-/-/27595/82936409280",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "afe2550b-4464-4b84-b319-c4ecc35c3945",
+        "date_posted": 1755205617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     },
     {
         "date_updated": 1755205799,
