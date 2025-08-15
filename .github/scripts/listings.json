@@ -8956,5 +8956,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755265930,
+        "url": "https://www.ycombinator.com/companies/silimate/jobs/1FT8OGR-eda-qa-testing-intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Silimate",
+        "title": "EDA QA/Testing Intern",
+        "source": "vanshb03",
+        "id": "d9ca2ca3-881a-4f4e-ba6d-9bb842fe4850",
+        "date_posted": 1755265930,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755265941,
+        "url": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Applications Engineer Intern, Power Access",
+        "source": "vanshb03",
+        "id": "43d7827a-c2dd-4602-a647-f2e21d597a13",
+        "date_posted": 1755265941,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755266012,
+        "url": "https://lifeattiktok.com/search/7538304000404244743",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Video-on-Demand Algorithm",
+        "source": "vanshb03",
+        "id": "2c1e2106-65e1-4373-8ca9-6a85a8d75306",
+        "date_posted": 1755266012,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755266016,
+        "url": "https://lifeattiktok.com/search/7538304108715198727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Media Engine",
+        "source": "vanshb03",
+        "id": "8b09ec49-eea1-4f7b-8eba-160438fac524",
+        "date_posted": 1755266016,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755266024,
+        "url": "https://lifeattiktok.com/search/7538307729329277202",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, Foundation Platform",
+        "source": "vanshb03",
+        "id": "49486b65-5b97-4797-abce-29dc9da331b0",
+        "date_posted": 1755266024,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755266028,
+        "url": "https://lifeattiktok.com/search/7538314547103762696",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Live Service",
+        "source": "vanshb03",
+        "id": "096139d2-cd5b-4b48-8731-cd360b205c41",
+        "date_posted": 1755266028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755266034,
+        "url": "https://lifeattiktok.com/search/7538301580093720840",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, Media Platform",
+        "source": "vanshb03",
+        "id": "fd672ec3-53c9-4b2b-844b-2e277062b109",
+        "date_posted": 1755266034,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
