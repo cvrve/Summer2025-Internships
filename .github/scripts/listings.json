@@ -8939,5 +8939,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1755265658,
+        "url": "https://higher.gs.com/roles/150598",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Goldman Sachs",
+        "title": "Analyst Intern",
+        "source": "vanshb03",
+        "id": "e398a381-cf17-44a6-8cc3-0abcea252fc0",
+        "date_posted": 1755265658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
