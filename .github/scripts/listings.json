@@ -8922,5 +8922,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755263049,
+        "url": "https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Atomic Semi",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e7cf7714-2071-4a0d-ad3a-ba69ecbb2e4b",
+        "date_posted": 1755263049,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
