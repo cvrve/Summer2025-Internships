@@ -43,6 +43,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248062?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248104?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| ↳ | System Software Engineer Intern, System Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248064?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| GE Vernova | CIC Software Engineer Intern, Grid Solutions 🇺🇸 | Rochester, NY | <a href="https://careers.gevernova.com/global/en/job/R5017939/GE-Vernova-CIC-Software-Engineer-Intern-Fall-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | New York Post | Technology Intern | New York, NY | <a href="https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Intuit | Software Developer Co-op 🛂 | Toronto, Canada | <a href="https://jobs.intuit.com/job/-/-/27595/82936409280?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | TikTok | Software Engineer Intern, Recommendation Infrastructure | Seattle, WA | <a href="https://lifeattiktok.com/search/7537493362585979154?spread=XKM9ZXE&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
