@@ -9097,5 +9097,39 @@
         "date_posted": 1755290435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755295903,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlackEdge Capital",
+        "title": "Quantitative Trader Intern",
+        "source": "vanshb03",
+        "id": "d4a8dd6b-ac21-4047-a430-c2fcddb5e0d5",
+        "date_posted": 1755295903,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755295925,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransPerfect",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ff769617-5cd3-40c2-9a35-5a5bc904c6ad",
+        "date_posted": 1755295925,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
