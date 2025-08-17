@@ -9292,5 +9292,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755436894,
+        "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WeRide",
+        "title": "Vehicle Embedded Engineer Intern, DBW",
+        "source": "vanshb03",
+        "id": "351b35eb-b769-4c13-98d6-bfd2675cb9fe",
+        "date_posted": 1755436894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1755436928,
+        "url": "https://www.uline.jobs/JobDetails?jobid=R256306",
+        "locations": [
+            "Pleasant Prairie, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "a40176eb-5a14-43ec-ae99-e3d97e447b19",
+        "date_posted": 1755436928,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
