@@ -45,9 +45,9 @@ def getLink(listing):
     link = listing["url"]
     # Adds cvrve's UTM source and ref on every link inside the table aka thinga-ma-bobber
     if "?" not in link:
-        link += "?utm_source=ouckah"
+        link += "?utm_source=github-vansh-ouckah"
     else:
-        link += "&utm_source=ouckah"
+        link += "&utm_source=github-vansh-ouckah"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     return f'<a href="{link}"><img src="{APPLY_BUTTON}" width="118" alt="Apply"></a>'
