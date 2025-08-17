@@ -9258,5 +9258,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755436318,
+        "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7158038",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PDT Partners",
+        "title": "Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "226cfa47-483f-49aa-a036-05c23f57cbd7",
+        "date_posted": 1755436318,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755436323,
+        "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PDT Partners",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "942c962b-85cc-4735-bf96-fabf406c66ef",
+        "date_posted": 1755436323,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
