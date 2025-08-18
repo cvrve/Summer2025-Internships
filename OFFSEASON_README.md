@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Datadog | Software Engineering Intern | Boston, MA</br>New York, NY | <a href="https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | WeRide | Vehicle Embedded Engineer Intern, DBW | San Jose, CA | <a href="https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248062?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248104?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |

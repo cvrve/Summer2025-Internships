@@ -9343,5 +9343,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755550213,
+        "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+        "locations": [
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Software Engineering Intern",
+        "season": "Winter",
+        "source": "sbui056",
+        "id": "0df51a0e-d9fa-466a-a91f-330f30e81f1d",
+        "date_posted": 1755550213,
+        "company_url": "",
+        "is_visible": true
     }
 ]
