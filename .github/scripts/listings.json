@@ -9326,5 +9326,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755543928,
+        "url": "https://careers.datadoghq.com/detail/7127832/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "4b57916e-71d7-4bdd-9842-d4825631fe34",
+        "date_posted": 1755543928,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
