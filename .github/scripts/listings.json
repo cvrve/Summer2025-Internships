@@ -9361,5 +9361,22 @@
         "date_posted": 1755550213,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755555711,
+        "url": "https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freddie Mac",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "3e88ae55-978e-48f4-9d85-b0fd51a0e338",
+        "date_posted": 1755555711,
+        "company_url": "",
+        "is_visible": true
     }
 ]
