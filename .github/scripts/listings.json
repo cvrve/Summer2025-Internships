@@ -9378,5 +9378,23 @@
         "date_posted": 1755555711,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755604160,
+        "url": "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Engineering and Data Intern",
+        "season": "Winter",
+        "source": "Mfon-19",
+        "id": "516d31ee-7c11-4198-b5eb-db701a4c7cbe",
+        "date_posted": 1755604160,
+        "company_url": "",
+        "is_visible": true
     }
 ]
