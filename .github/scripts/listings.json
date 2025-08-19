@@ -9604,5 +9604,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755639887,
+        "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Characterization Engineering Intern",
+        "source": "vanshb03",
+        "id": "677f3ec4-805d-4897-80e7-47b7d70e0e21",
+        "date_posted": 1755639887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755639897,
+        "url": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ad84f578-27b7-4243-8e2b-c404a334e011",
+        "date_posted": 1755639897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
