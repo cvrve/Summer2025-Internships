@@ -46,7 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| American Express | Campus Undergraduate Summer Internship Program - 2026 Software Engineer, Technology - Sunrise, FL 🛂 | Sunrise, FL | <a href="https://aexp.eightfold.ai/careers/job/30702546?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| American Express | Software Engineer Intern 🛂 | Sunrise, FL | <a href="https://aexp.eightfold.ai/careers/job/30702546?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineer Intern 🛂 | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers/job/30702550?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/30702556?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Freddie Mac | Technology Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
