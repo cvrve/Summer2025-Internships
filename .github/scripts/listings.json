@@ -9515,5 +9515,94 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755624099,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5623087004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "5495354e-44f7-4614-82f0-f19889237a68",
+        "date_posted": 1755624099,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755624342,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4a711dd8-a0bb-4715-84f1-dcda0208f95f",
+        "date_posted": 1755624342,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755624349,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "f3ee144d-cc56-4a38-8ca7-59c984e3032d",
+        "date_posted": 1755624349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755624355,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5616453004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Product Design Intern",
+        "source": "vanshb03",
+        "id": "b635559c-6143-45a8-9c17-e582ca25693a",
+        "date_posted": 1755624355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755624360,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5617444004",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Product Research Intern",
+        "source": "vanshb03",
+        "id": "dd486ae3-c591-4d19-b5d4-c8883892f3cf",
+        "date_posted": 1755624360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
