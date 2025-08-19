@@ -46,9 +46,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cargill | Software Engineer Intern | Atlanta, GA | <a href="https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| ByteDance | Machine Learning Engineer Intern, Global E-commerce Risk Control | Seattle, WA | <a href="https://joinbytedance.com/search/7535953226975054098?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| ↳ | Software Engineer Intern, Multi-Cloud CDN Platform | San Jose, CA | <a href="https://joinbytedance.com/search/7538139519473092882?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | American Express | Software Engineer Intern 🛂 | Sunrise, FL | <a href="https://aexp.eightfold.ai/careers/job/30702546?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineer Intern 🛂 | Phoenix, AZ | <a href="https://aexp.eightfold.ai/careers/job/30702550?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineer Intern 🛂 | New York, NY | <a href="https://aexp.eightfold.ai/careers/job/30702556?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Activision Blizzard | Graphics Engineering Intern, Overwatch | Irvine, CA | <a href="https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Freddie Mac | Technology Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Datadog | Product Management Intern | New York, NY | <a href="https://careers.datadoghq.com/detail/7127832/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Uline | DevOps Engineer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256306&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
