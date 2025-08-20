@@ -9740,5 +9740,22 @@
         "date_posted": 1755726975,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755727009,
+        "url": "https://careers.loreal.com/en_US/jobs/JobDetail/2026-L-Or-al-USA-Summer-Internship-Program-Information-Technology-IT-Undergraduate/215820",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L'Oreal",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "38b9bfe0-de09-46e7-80cb-4a1ef40c438f",
+        "date_posted": 1755727009,
+        "company_url": "",
+        "is_visible": true
     }
 ]
