@@ -9774,5 +9774,22 @@
         "date_posted": 1755727077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755727238,
+        "url": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "c9d8fc8a-91b2-4191-bb8b-1635c30513c8",
+        "date_posted": 1755727238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
