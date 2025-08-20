@@ -8328,13 +8328,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755090375,
+        "date_updated": 1755699461,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
         "locations": [
             "Malta, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -8345,13 +8345,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755091238,
+        "date_updated": 1755699465,
         "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sonic Healthcare USA, Inc",
         "title": "Software Development Intern, Cache",
         "source": "vanshb03",
@@ -8669,13 +8669,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755203820,
+        "date_updated": 1755699468,
         "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -9638,5 +9638,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755726355,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Full Stack Software Engineer Intern, Team Sprout",
+        "source": "vanshb03",
+        "id": "46446209-0097-44e7-bbc0-c6f5b18a689a",
+        "date_posted": 1755726355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726361,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Backend Software Engineer Intern, Customer Acquisitions",
+        "source": "vanshb03",
+        "id": "1a8eda14-0c81-494b-9a60-e12e6a8c4541",
+        "date_posted": 1755726361,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726366,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Planet-Express---Winter-2026_R223398",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Backend Software Engineer Intern, Team Planet Express",
+        "source": "vanshb03",
+        "id": "26a7499a-de8d-4583-98aa-5b6b99dad044",
+        "date_posted": 1755726366,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726371,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Integrated-Storefront---Winter-2025_R223399",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Full Stack Software Engineer Intern, Integrated Storefront",
+        "source": "vanshb03",
+        "id": "8dc2d57d-3850-4389-9a81-5a2143dc519c",
+        "date_posted": 1755726371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755726380,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Mobile Software Engineer Intern, Capital One Travel",
+        "source": "vanshb03",
+        "id": "013f6f79-a11e-463c-93c4-fb3d01a4c0af",
+        "date_posted": 1755726380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
