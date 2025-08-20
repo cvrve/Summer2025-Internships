@@ -3345,13 +3345,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253827,
+        "date_updated": 1755698921,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Quantitative Developer Intern",
         "season": "Summer",
