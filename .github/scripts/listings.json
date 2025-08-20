@@ -9757,5 +9757,22 @@
         "date_posted": 1755727009,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755727077,
+        "url": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Intern",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "a371d4bf-58fb-4aaa-8afb-53fd82f6142f",
+        "date_posted": 1755727077,
+        "company_url": "",
+        "is_visible": true
     }
 ]
