@@ -9723,5 +9723,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1755726975,
+        "url": "https://careers.salesforce.com/en/jobs/jr308066/fall-2025-intern-strategic-data-science/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Strategic Data Science Intern",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "9b6494d1-2405-40bc-a2af-1c8f554f7673",
+        "date_posted": 1755726975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
