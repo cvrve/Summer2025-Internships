@@ -9978,5 +9978,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755814247,
+        "url": "https://careers.adobe.com/us/en/job/R158742/2026-Intern-Enterprise-Architecture-Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Enterprise Architecture Analyst Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "536a3751-ab59-425b-924c-cefe17168166",
+        "date_posted": 1755814247,
+        "company_url": "",
+        "is_visible": true
     }
 ]
