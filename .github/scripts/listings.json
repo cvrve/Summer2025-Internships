@@ -9910,5 +9910,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755809802,
+        "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Software Tools Developer Intern, Global Operations",
+        "source": "vanshb03",
+        "id": "fbb162a8-7dc8-4611-b498-9da2c4503b3d",
+        "date_posted": 1755809802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1755809944,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group",
+        "title": "Online Portals & Next Gen Platforms (OPNG) Intern",
+        "source": "vanshb03",
+        "id": "2199ef9a-1466-49cb-a952-2cc3d696a9f7",
+        "date_posted": 1755809944,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809950,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Platform-Experience---Operations--PXO--Summer-Intern_R25_717",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Platform Experience & Operations Intern, PXO",
+        "source": "vanshb03",
+        "id": "8a8e6fea-6a95-4348-8c04-ca519894b65f",
+        "date_posted": 1755809950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755810024,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Database-Engineering-Summer-Intern_R25_712",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Database Engineering Intern",
+        "source": "vanshb03",
+        "id": "760be182-a5ce-42b0-a752-0d9c740f7a81",
+        "date_posted": 1755810024,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
