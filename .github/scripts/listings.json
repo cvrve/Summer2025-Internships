@@ -9825,5 +9825,90 @@
         "date_posted": 1755809281,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755809592,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC-United-States-of-America/Site-Reliability-Engineering-Summer-Intern_R25_716",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group Ltd.",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "e732151b-329d-4add-ab82-22ee3c115967",
+        "date_posted": 1755809592,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809606,
+        "url": "https://www.tesla.com/careers/search/job/248805",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Commercial UI Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "3ab83ab5-17ee-4730-b4ca-aacaa9fa3288",
+        "date_posted": 1755809606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755809613,
+        "url": "https://www.tesla.com/careers/search/job/248920",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
+        "source": "vanshb03",
+        "id": "232ecda7-7781-4356-9ba4-8dcdb4cb0570",
+        "date_posted": 1755809613,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755809625,
+        "url": "https://jobs.saic.com/jobs/16632564-software-engineer-intern",
+        "locations": [
+            "El Paso, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba3d0934-c21d-43b5-aaf9-3a6aebdeb513",
+        "date_posted": 1755809625,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755809686,
+        "url": "https://careers-empiricalfoods.icims.com/jobs/2972/job",
+        "locations": [
+            "Dakota Dunes, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "empirical",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "30b923ec-97dc-41a2-88a7-8f4f53260622",
+        "date_posted": 1755809686,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
