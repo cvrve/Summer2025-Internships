@@ -10016,5 +10016,22 @@
         "date_posted": 1755895313,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755895381,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Supply Chain Data Analyst Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "d908f114-44b6-43cf-9844-7115f9a7eceb",
+        "date_posted": 1755895381,
+        "company_url": "",
+        "is_visible": true
     }
 ]
