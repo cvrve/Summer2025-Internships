@@ -10033,5 +10033,22 @@
         "date_posted": 1755895381,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755895982,
+        "url": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineering Co-Op",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "1ce34eb2-c374-4724-a67d-5c9bb1443bfb",
+        "date_posted": 1755895982,
+        "company_url": "",
+        "is_visible": true
     }
 ]
