@@ -127,7 +127,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Skydio | Middleware Software Intern | San Mateo, CA | <a href="https://www.skydio.com/jobs/6220445003?gh_jid=6220445003&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Scale AI | Technical Advisor Intern | San Francisco, CA | <a href="https://scale.com/careers/4553274005?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Leonardo DRS | Software Engineering Intern | Beavercreek, OH | <a href="https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295356000?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
-| Hermeus | Software Engineer Intern | Atlanta, GA | <a href="https://jobs.lever.co/hermeus/db80c020-a26f-491f-8915-d6a28d44933e?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Google | Student Researcher | <details><summary>**19 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details> | <a href="https://www.google.com/about/careers/applications/jobs/results/124737151496528582-student-researcher?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | TikTok | Software Engineer Intern, TikTok-Social-Product Innovation | San Jose, CA | <a href="https://lifeattiktok.com/search/7514157460153895175?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Tesla | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240889?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
@@ -187,6 +186,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hitachi Energy USA Inc | AI/ML Engineering Intern | Remote | 🔒 | Jul 06 |
 | T-Mobile | Product Manager Intern | Bellevue, WA | 🔒 | Jul 02 |
 | NVIDIA | Performance Engineer Intern, Gaming | US, MO, St. Louis | 🔒 | Jul 02 |
+| Hermeus | Software Engineer Intern | Atlanta, GA | 🔒 | Jun 29 |
 | Booz Allen Hamilton | Systems Engineer Intern | Fayetteville, NC | 🔒 | Jun 29 |
 | Airbus | Software Engineering Intern | Bingen, WA | 🔒 | Jun 29 |
 | Ada18 | Software Engineer Intern | Remote</br>US | 🔒 | Jun 29 |
