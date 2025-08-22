@@ -10101,5 +10101,22 @@
         "date_posted": 1755896125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755896164,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/details/Summer-2026-Internship--Technology-Services_R2025-0955?q=%27intern%27",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "QTS",
+        "title": "Technology Services Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "0ac05a46-0e69-44bc-9a46-a0e6f9313f7d",
+        "date_posted": 1755896164,
+        "company_url": "",
+        "is_visible": true
     }
 ]
