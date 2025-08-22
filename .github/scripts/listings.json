@@ -10118,5 +10118,39 @@
         "date_posted": 1755896164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755878485,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/85279001840",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "source": "vanshb03",
+        "id": "c6236752-09a7-4c5b-9c8d-03e3f9f85e18",
+        "date_posted": 1755878485,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755896763,
+        "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.163729.html?mode=job",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMW Manufacturing",
+        "title": "Full Stack Developer Intern",
+        "source": "vanshb03",
+        "id": "3b144f03-5d14-48b5-8717-0daff0937e99",
+        "date_posted": 1755896763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
