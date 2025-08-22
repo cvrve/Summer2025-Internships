@@ -10118,5 +10118,26 @@
         "date_posted": 1755896164,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755898709,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering----Intern--Bachelors_JR0276780",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Silicon Hardware Engineering Intern, Bachelors",
+        "source": "vanshb03",
+        "id": "baaf4050-839f-4571-9576-fd0d5914313f",
+        "date_posted": 1755898709,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
