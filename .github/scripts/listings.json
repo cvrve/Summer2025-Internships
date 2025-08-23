@@ -10139,5 +10139,75 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755914293,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Commodities-Investment-Team--Summer-Internship-_REQ7178",
+        "locations": [
+            "Boston, MA",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Quantitative Analyst Intern, Commodities Investment Team",
+        "source": "vanshb03",
+        "id": "df0c9eb9-d9cf-4c4d-83f5-76e567d49528",
+        "date_posted": 1755914293,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755914324,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Analyst---Macro-Investment-Team--Summer-Internship--_REQ7171",
+        "locations": [
+            "Miami",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Quantitative Analyst Intern, Macro Investment Team",
+        "source": "vanshb03",
+        "id": "157cdd2f-0ff0-4c7a-8f72-687ab36a2606",
+        "date_posted": 1755914324,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755914329,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Data-Engineering--2026-Summer-Internship---Austin-_REQ7221",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Data Engineer Intern, Data Science & AI Academy",
+        "source": "vanshb03",
+        "id": "7c1cc7c0-7934-4f67-8741-15245da91a6c",
+        "date_posted": 1755914329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755914335,
+        "url": "https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ6919",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Balyasny Asset Management",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1546a806-c1b9-478a-9028-9cc9a4d330fa",
+        "date_posted": 1755914335,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
