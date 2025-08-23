@@ -10209,5 +10209,35 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755916791,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845",
+        "locations": [
+            "Sandy Springs, GA",
+            "Poughkeepsie, NY",
+            "Lowell, MA",
+            "Rochester, NY",
+            "Tucson, AZ",
+            "Research Triangle Park, NC",
+            "Durham, NC",
+            "Hopewell Junction, NY",
+            "San Jose, CA",
+            "Dallas, TX",
+            "Houston, TX",
+            "Austin, TX",
+            "Herndon, VA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "RK896",
+        "id": "e658e3b5-3331-4959-82f1-2f5f9035e584",
+        "date_posted": 1755916791,
+        "company_url": "",
+        "is_visible": true
     }
 ]
