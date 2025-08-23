@@ -10256,5 +10256,56 @@
         "date_posted": 1755916830,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755919028,
+        "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Metronome",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "19b87017-fc7d-4929-8c41-01348f73e8d2",
+        "date_posted": 1755919028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755919037,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-GB/caterpillarcareers/job/Nashville-Tennessee/XMLNAME-2026-Summer-Intern---Information-Technology_R0000320847",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Caterpillar Inc.",
+        "title": "Information Technology Intern",
+        "source": "vanshb03",
+        "id": "70a50dad-356e-427f-9f96-6adb57a19569",
+        "date_posted": 1755919037,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755919132,
+        "url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Oklahoma-City-OK/Technology-Intern---Summer-2026_R25262",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Devon",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "85443b43-910d-4574-8744-fff6386b5879",
+        "date_posted": 1755919132,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
