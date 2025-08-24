@@ -10307,5 +10307,114 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1755991604,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Software Engineering Intern, Wallet Core",
+        "source": "vanshb03",
+        "id": "c61715b1-90e3-4878-9d22-809cb3c8f920",
+        "date_posted": 1755991604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1755991612,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BitGo",
+        "title": "Software Engineering Intern, HSM",
+        "source": "vanshb03",
+        "id": "fbff1dd9-8514-4507-9014-1e2a64137d4d",
+        "date_posted": 1755991612,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1756068299,
+        "url": "https://careers.mitre.org/us/en/job/MITRUSR115479EXTERNALENUS/Internships-in-Computer-Science-or-Software-Engineering?utm_source=indeed&src=JB-10061&utm_medium=phenom-feeds",
+        "locations": [
+            "McLean, VA",
+            "Bellevue, NE",
+            "Huntsville, AL",
+            "Austin, TX",
+            "Quantico, VA",
+            "Tampa, FL",
+            "Bedford, MA",
+            "Fairborn, OH",
+            "Bridgeport, WV",
+            "San Antonio, TX",
+            "Domestic Teleworker, MA",
+            "Colorado Springs, CO",
+            "Offutt AFB, NE",
+            "Annapolis Junction, MD",
+            "Gaithersburg, MD",
+            "San Diego, CA",
+            "Charlottesville, VA",
+            "El Segundo, CA",
+            "Lexington Park, MD",
+            "Windsor, MD",
+            "Shaw AFB, SC",
+            "Honolulu, HI",
+            "Shrewsbury, NJ",
+            "Aberdeen, MD",
+            "Fort Walton Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Computer Science or Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "25cc855a-8683-421b-b9a2-a83b102ef056",
+        "date_posted": 1756068299,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756068163,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1?source=Appcast_Indeedo&source=jobboardindeed&ittk=NFPYJGP0UO",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Embedded Systems Software Intern, Linux and Jetson",
+        "source": "vanshb03",
+        "id": "12a3002b-c978-46d8-b6a5-3b138dbbad15",
+        "date_posted": 1756068163,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1756068169,
+        "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Platform-Engineering-Summer-Intern_REQ-4355?source=Indeed",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "05306b2b-292e-4f47-925e-8a079fdf918e",
+        "date_posted": 1756068169,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
