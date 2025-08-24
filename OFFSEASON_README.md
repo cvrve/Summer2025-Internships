@@ -43,6 +43,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1?source=Appcast_Indeedo&source=jobboardindeed&ittk=NFPYJGP0UO&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
+| BitGo | Software Engineering Intern, HSM | Waterloo, Canada | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
+| ↳ | Software Engineering Intern, Wallet Core | Waterloo, Canada | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Tesla | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248920?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | ↳ | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248805?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Cirrus Logic | Software Tools Developer Intern, Global Operations | Austin, TX | <a href="https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
