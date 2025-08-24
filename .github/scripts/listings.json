@@ -10399,5 +10399,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756068841,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Enterprise Quality Management Summer Intern",
+        "season": "Summer",
+        "source": "Ronitsabhaya75",
+        "id": "c91aa8c9-28f1-42f3-aa18-2e7e73b971f2",
+        "date_posted": 1756068841,
+        "company_url": "",
+        "is_visible": true
     }
 ]
