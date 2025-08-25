@@ -10928,5 +10928,23 @@
         "date_posted": 1756134710,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756162054,
+        "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2026-Technology-Internship-Program_R-121813-1",
+        "locations": [
+            "Newark, NJ",
+            "Tampa, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Prudential Financial",
+        "title": "Technology Internship Program",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "1d9bc747-69c7-4cf7-972d-54e6811676a0",
+        "date_posted": 1756162054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
