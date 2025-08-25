@@ -10693,5 +10693,22 @@
         "date_posted": 1756133944,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134015,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2505323/Systems-Engineer-Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "awu-hub",
+        "id": "debf0676-6caf-4cd1-bc81-6ea75f496d12",
+        "date_posted": 1756134015,
+        "company_url": "",
+        "is_visible": true
     }
 ]
