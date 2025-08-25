@@ -10901,5 +10901,32 @@
         "date_posted": 1756134695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134710,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
+        "locations": [
+            "Rosemont, IL",
+            "Atlanta, GA",
+            "Minneapolis, MN",
+            "Chicago, IL",
+            "Washington, DC",
+            "Boston, MA",
+            "New York, NY",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Seattle, WA",
+            "Houston, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PwC",
+        "title": "Software Engineering Intern, Commercial Technology & Innovation Office",
+        "season": "Summer",
+        "source": "Andy2887",
+        "id": "7f010bfa-bc89-4b8d-b0c5-b8cc5335da3f",
+        "date_posted": 1756134710,
+        "company_url": "",
+        "is_visible": true
     }
 ]
