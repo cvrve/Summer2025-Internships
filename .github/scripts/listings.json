@@ -10840,5 +10840,22 @@
         "date_posted": 1756134297,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134322,
+        "url": "https://jobs.nokia.com/en/sites/CX_1/jobs/preview/23986/?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000480126&selectedTitlesFacet=TRA",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Quality Assurance Co-op",
+        "season": "Spring",
+        "source": "aprameyak",
+        "id": "e05673a3-d960-4a39-894f-0d287654a496",
+        "date_posted": 1756134322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
