@@ -10710,5 +10710,32 @@
         "date_posted": 1756134015,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134035,
+        "url": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/",
+        "locations": [
+            "New Brunswick, NJ",
+            "Santa Clara, CA",
+            "Irvine, CA",
+            "Jacksonville, FL",
+            "Palm Beach Gardens, FL",
+            "Raritan, NJ",
+            "Titusville, NJ",
+            "Horsham, PA",
+            "Fort Washington, PA",
+            "Spring House, PA",
+            "West Chester, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson and Johnson",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "d6f08b8c-c8eb-4ef7-9003-305f51cb8956",
+        "date_posted": 1756134035,
+        "company_url": "",
+        "is_visible": true
     }
 ]
