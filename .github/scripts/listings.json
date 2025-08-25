@@ -10676,5 +10676,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756133944,
+        "url": "https://www.disneycareers.com/en/job/lake-buena-vista/wdw-computer-science-computer-engineering-interns-spring-2026/391/85399414704",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Computer Engineering Intern",
+        "season": "Spring",
+        "source": "aprameyak",
+        "id": "93a1cfa1-840a-4ccf-a504-4591480f587e",
+        "date_posted": 1756133944,
+        "company_url": "",
+        "is_visible": true
     }
 ]

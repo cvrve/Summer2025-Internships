@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Disney | Computer Engineering Intern | Lake Buena Vista, FL | <a href="https://www.disneycareers.com/en/job/lake-buena-vista/wdw-computer-science-computer-engineering-interns-spring-2026/391/85399414704?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1?source=Appcast_Indeedo&source=jobboardindeed&ittk=NFPYJGP0UO&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | BitGo | Software Engineering Intern, HSM | Waterloo, Canada | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | ↳ | Software Engineering Intern, Wallet Core | Waterloo, Canada | <a href="https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
