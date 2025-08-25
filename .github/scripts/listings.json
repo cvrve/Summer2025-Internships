@@ -10823,5 +10823,22 @@
         "date_posted": 1756134267,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134297,
+        "url": "https://jobs.nokia.com/en/sites/CX_1/jobs/preview/23983/?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000480126&selectedTitlesFacet=TRA",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Development Co-Op",
+        "season": "Spring",
+        "source": "aprameyak",
+        "id": "71ca41dd-36ea-4889-8e02-39615e02799a",
+        "date_posted": 1756134297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
