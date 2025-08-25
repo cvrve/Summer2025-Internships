@@ -10737,5 +10737,28 @@
         "date_posted": 1756134035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134113,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=",
+        "locations": [
+            "Research Triangle Park, NC",
+            "Dallas, TX",
+            "Austin, TX",
+            "San Francisco, CA",
+            "WASHINGTON, DC",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "AI Engineer Intern",
+        "season": "Summer",
+        "source": "awu-hub",
+        "id": "74a868b0-edec-403f-bda5-19187c9f70be",
+        "date_posted": 1756134113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
