@@ -10806,5 +10806,22 @@
         "date_posted": 1756134233,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756134267,
+        "url": "https://jobs.northropgrumman.com/careers/job/1340060650174",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrup Grumman",
+        "title": "2026 Intern Software Engineer",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "00689129-e838-41ae-9772-abe01673a241",
+        "date_posted": 1756134267,
+        "company_url": "",
+        "is_visible": true
     }
 ]
