@@ -11344,5 +11344,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756241740,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b447a693-ca7b-4ead-8aa1-aa3ed9ab1b22",
+        "date_posted": 1756241740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
