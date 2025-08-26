@@ -11052,5 +11052,22 @@
         "date_posted": 1756185221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756185234,
+        "url": "https://careers.crowe.com/job/R-50113/GRC-Technology-Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "GRC Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "63e510d1-6d96-40d8-a090-c213afc48ffc",
+        "date_posted": 1756185234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
