@@ -11087,5 +11087,159 @@
         "date_posted": 1756185276,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756222209,
+        "url": "https://careers.zebra.com/careers/job/343627851934",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Software Engineering Intern, Handheld Mobile Computer",
+        "source": "vanshb03",
+        "id": "2f91a7d9-6004-4a2b-81de-39c3878678d1",
+        "date_posted": 1756222209,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222217,
+        "url": "https://careers.zebra.com/careers/job/343627780597",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "AVS Mobile Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ef944d78-68b4-41ea-b0d4-dc2e9f2ff389",
+        "date_posted": 1756222217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222229,
+        "url": "https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Software-Engineering-Intern_R320481",
+        "locations": [
+            "Cedar Falls, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SciPlay",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1be2a185-aad1-4b89-b838-8132a86b8d0d",
+        "date_posted": 1756222229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222235,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "002b168c-11c2-4528-adad-fac42ac52189",
+        "date_posted": 1756222235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222241,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f8c0a8db-4592-4d39-b101-2197ca810fd7",
+        "date_posted": 1756222241,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222250,
+        "url": "https://www.pepsicojobs.com/main/jobs/392034?lang=en-us",
+        "locations": [
+            "Plano, TX",
+            "Purchase, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PepsiCo",
+        "title": "Technology Software Development & Engineering Intern",
+        "source": "vanshb03",
+        "id": "c45522dc-df03-4772-9ca7-905ac7fae9d5",
+        "date_posted": 1756222250,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222271,
+        "url": "https://careers.arcb.com/careersmarketplace/JobDetail?id=26993",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ArcBest Technologies",
+        "title": "Software Engineer Intern, ArcBest Technologies",
+        "source": "vanshb03",
+        "id": "7c59ed78-65e4-4f2f-8154-e2ebe2d4b593",
+        "date_posted": 1756222271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222282,
+        "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38789",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Hanover",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "1033fc11-871b-4c69-a141-c4dba0d7e88b",
+        "date_posted": 1756222282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756222289,
+        "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Hanover",
+        "title": "Associate Solutions Developer Intern",
+        "source": "vanshb03",
+        "id": "9f631f71-fe6e-4dfe-b683-c8b894906213",
+        "date_posted": 1756222289,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
