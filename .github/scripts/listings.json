@@ -9991,7 +9991,6 @@
         ],
         "sponsorship": "Other",
         "active": false,
-        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -11209,13 +11208,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756222282,
+        "date_updated": 1756241583,
         "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38789",
         "locations": [
             "Worcester, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Hanover",
         "title": "Cloud Engineer Intern",
         "source": "vanshb03",
