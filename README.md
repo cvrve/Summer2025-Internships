@@ -150,7 +150,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Fullstack | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Applied Scientist Intern, Microsoft AI – PhD | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1861062/Applied-Scientist%3A-Microsoft-AI-%E2%80%93-PhD-Internship-Opportunities-%E2%80%93-Redmond?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Epic Games | Gameplay Programmer Intern | Cary, NC | <a href="https://www.epicgames.com/site/en-US/careers/jobs/5620310004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
-| Detroit Pistons | Software Development Intern | Detroit, MI | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3496176?src=LinkedIn&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | TetraMem | Software Intern, Embedded | San Jose, CA | <a href="https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042&req_loc=960817&&&nohd#job?ref=vansh&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | Software Intern, Machine Learning | San Jose, CA | <a href="https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209&req_loc=813128&&&nohd#job&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Shopify | USA Engineering Internships 🛂 | Remote | <a href="https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
@@ -386,6 +385,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Arch Capital Group | Online Portals & Next Gen Platforms (OPNG) Intern | Greensboro, NC | 🔒 | Aug 21 |
 | Skyworks | Applications Engineer Intern, Power Access | Austin, TX | 🔒 | Aug 15 |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | 🔒 | Aug 14 |
+| Detroit Pistons | Software Development Intern | Detroit, MI | 🔒 | Aug 14 |
 | Cisco | Software Engineer Intern | San Jose, CA | 🔒 | Aug 14 |
 | Sonic Healthcare USA, Inc | Software Development Intern, Cache | Dallas, TX | 🔒 | Aug 13 |
 | GlobalFoundries | Software Engineering Intern | Malta, NY | 🔒 | Aug 13 |

@@ -8618,13 +8618,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755164904,
+        "date_updated": 1756185328,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3496176?src=LinkedIn",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Detroit Pistons",
         "title": "Software Development Intern",
         "season": "Summer",
