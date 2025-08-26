@@ -8975,13 +8975,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1755265941,
+        "date_updated": 1756185249,
         "url": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyworks",
         "title": "Applications Engineer Intern, Power Access",
         "source": "vanshb03",
