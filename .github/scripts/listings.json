@@ -11015,5 +11015,22 @@
         "date_posted": 1756185187,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756185201,
+        "url": "https://careers.crowe.com/job/R-50098/AI-Functional-Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "AI Functional Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a129030b-4476-4b10-b513-ce5ed2364e3c",
+        "date_posted": 1756185201,
+        "company_url": "",
+        "is_visible": true
     }
 ]
