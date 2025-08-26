@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| CrowdVolt | Full-Stack Engineer Intern 🇺🇸 | New York, NY | <a href="https://www.workatastartup.com/jobs/80516?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Nokia | Deepfield Software Engineer Co-op | Ann Arbor, MI | <a href="https://jobs.nokia.com/en/sites/CX_1/jobs/preview/23889/?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000480126&selectedTitlesFacet=TRA&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Quality Assurance Co-op | Sunnyvale, CA | <a href="https://jobs.nokia.com/en/sites/CX_1/jobs/preview/23986/?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000480126&selectedTitlesFacet=TRA&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | ↳ | Software Development Co-Op | Sunnyvale, CA | <a href="https://jobs.nokia.com/en/sites/CX_1/jobs/preview/23983/?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000480126&selectedTitlesFacet=TRA&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
