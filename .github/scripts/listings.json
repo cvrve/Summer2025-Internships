@@ -11378,5 +11378,22 @@
         "date_posted": 1756241758,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756241789,
+        "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "d0b4012c-5069-4a13-a1a9-c82fec7f483a",
+        "date_posted": 1756241789,
+        "company_url": "",
+        "is_visible": true
     }
 ]
