@@ -11361,5 +11361,22 @@
         "date_posted": 1756241740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756241758,
+        "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7bc08dbf-7b75-4769-aeae-50f454b8e41a",
+        "date_posted": 1756241758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
