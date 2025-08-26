@@ -11395,5 +11395,22 @@
         "date_posted": 1756241789,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756241808,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "04f81fb9-61e5-4df2-8b4a-d217e9844f29",
+        "date_posted": 1756241808,
+        "company_url": "",
+        "is_visible": true
     }
 ]
