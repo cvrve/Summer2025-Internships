@@ -11241,5 +11241,92 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756225269,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307",
+        "locations": [
+            "Delaware, OH",
+            "Fort Lauderdale, FL",
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Design Engineering Intern",
+        "source": "vanshb03",
+        "id": "57fc7dec-071b-4bdd-b993-37ceb5e0aa2e",
+        "date_posted": 1756225269,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225351,
+        "url": "https://www.workatastartup.com/jobs/80516",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "CrowdVolt",
+        "title": "Full-Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "33897b4e-9b2b-46aa-8419-3c208bec8323",
+        "date_posted": 1756225351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1756225515,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Software Engineer Intern, Performance",
+        "source": "vanshb03",
+        "id": "de8f7158-d47c-45f0-8c19-0d6820005a2b",
+        "date_posted": 1756225515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225540,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Software Engineering Intern, Mapping & Localization",
+        "source": "vanshb03",
+        "id": "63ca278b-159f-4307-b6bc-585207d82532",
+        "date_posted": 1756225540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756225638,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "Systems Engineering Intern, Scenario Taxonomy",
+        "source": "vanshb03",
+        "id": "7b1daeb6-2d04-41da-b0d6-820d11348751",
+        "date_posted": 1756225638,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
