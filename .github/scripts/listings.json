@@ -11412,5 +11412,24 @@
         "date_posted": 1756241808,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756241824,
+        "url": "https://jobs.hilton.com/us/en/job/COR015AL/2026-Corporate-Summer-Internship-Technology-Cyber-Engineering-Product-Management",
+        "locations": [
+            "McLean, VA",
+            "Memphis, TN",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hilton",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "059dc66b-c432-4fb7-b80e-bdccd4d8106e",
+        "date_posted": 1756241824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
