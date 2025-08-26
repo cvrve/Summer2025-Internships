@@ -10980,5 +10980,22 @@
         "date_posted": 1756185154,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756185166,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1423&BRID=1230773&SBDID=943&lang=1",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "14396964-6b2a-485c-ac1f-4841142ad843",
+        "date_posted": 1756185166,
+        "company_url": "",
+        "is_visible": true
     }
 ]
