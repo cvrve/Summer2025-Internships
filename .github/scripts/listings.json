@@ -11032,5 +11032,25 @@
         "date_posted": 1756185201,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756185221,
+        "url": "https://careers.crowe.com/job/R-50106/Cybersecurity-Intern",
+        "locations": [
+            "Chicago, IL",
+            "Dallas, TX",
+            "New York, NY",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "95eaaaa4-9624-4263-980d-585754bba60f",
+        "date_posted": 1756185221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
