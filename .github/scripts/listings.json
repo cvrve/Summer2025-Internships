@@ -11327,5 +11327,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756240368,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Undergraduate Intern, Technology",
+        "source": "vanshb03",
+        "id": "c198d5ad-62ed-46c9-828b-51096a1f5b93",
+        "date_posted": 1756240368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
