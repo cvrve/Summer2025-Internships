@@ -9980,7 +9980,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755895313,
+        "date_updated": 1756185373,
         "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
         "locations": [
             "San Jose, CA",
@@ -9990,7 +9990,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineering Intern",
         "season": "Summer",
