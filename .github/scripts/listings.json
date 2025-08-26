@@ -11431,5 +11431,22 @@
         "date_posted": 1756241824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756241845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Network Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f6a10211-2938-4cd7-85c1-f713db2654f7",
+        "date_posted": 1756241845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
