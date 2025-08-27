@@ -11485,5 +11485,22 @@
         "date_posted": 1756314965,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756314999,
+        "url": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock%2C-Texas%2C-United-States/Dell-Summer-Internship---Software-Engineering_R276698",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "86b92636-f18f-4ae0-b617-980ac60f433f",
+        "date_posted": 1756314999,
+        "company_url": "",
+        "is_visible": true
     }
 ]
