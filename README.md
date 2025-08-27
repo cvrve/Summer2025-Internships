@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Cisco | Security Consulting Engineer Intern 🛂 | RTP, NC | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates&user=1&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Zebra | AVS Mobile Software Engineer Intern | Lincolnshire, IL | <a href="https://careers.zebra.com/careers/job/343627780597?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | ↳ | Software Engineering Intern, Handheld Mobile Computer 🛂 | Holtsville, NY | <a href="https://careers.zebra.com/careers/job/343627851934?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Vertiv | Design Engineering Intern 🛂 | Delaware, OH</br>Fort Lauderdale, FL</br>Huntsville, AL | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |

@@ -11448,5 +11448,22 @@
         "date_posted": 1756241845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756314940,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates&user=1",
+        "locations": [
+            "RTP, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Security Consulting Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "ca5e3641-c147-4b8c-8d3c-e5b5538ffef3",
+        "date_posted": 1756314940,
+        "company_url": "",
+        "is_visible": true
     }
 ]
