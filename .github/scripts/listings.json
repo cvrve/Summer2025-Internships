@@ -11465,5 +11465,25 @@
         "date_posted": 1756314940,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756314965,
+        "url": "https://www.jobs-ups.com/global/en/job/UPBUPSGLOBALR25028843EXTERNALENGLOBAL/AI-Fluency-Co-op",
+        "locations": [
+            "Mahwah, NJ",
+            "Parsippany, NJ",
+            "Atlanta, GA",
+            "Louisville, KY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "UPS",
+        "title": "AI Fluency Coop",
+        "season": "Spring",
+        "source": "aprameyak",
+        "id": "4dfa0b92-fe2d-4664-8dcf-66550ac8dae9",
+        "date_posted": 1756314965,
+        "company_url": "",
+        "is_visible": true
     }
 ]
