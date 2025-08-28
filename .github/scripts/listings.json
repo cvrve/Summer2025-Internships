@@ -13155,5 +13155,22 @@
         "date_posted": 1756401768,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756401787,
+        "url": "https://db.recsolu.com/external/requisitions/Bw7mjFK6IZkEJB1Wtse0YA",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Deutsche Bank",
+        "title": "Technology, Data and Innovation Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "75084653-baa3-477f-8074-f6fcc8b6e605",
+        "date_posted": 1756401787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
