@@ -11617,5 +11617,22 @@
         "date_posted": 1756341232,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341243,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "aac60e9a-ef51-4823-892a-07e66a894a22",
+        "date_posted": 1756341243,
+        "company_url": "",
+        "is_visible": true
     }
 ]
