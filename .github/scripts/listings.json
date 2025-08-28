@@ -12173,5 +12173,61 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1756355682,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306097/?keyword=Intern&mode=location",
+        "locations": [
+            "Seattle, WA",
+            "Redwood City, CA",
+            "Santa Clara, CA",
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Oracle Health & Analytics",
+        "source": "vanshb03",
+        "id": "59b3b82c-fb31-44ed-b4b6-d6d1b1579131",
+        "date_posted": 1756355682,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355690,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305903/?keyword=Intern&mode=location",
+        "locations": [
+            "Redwood City, CA",
+            "Pleasanton, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Fusion",
+        "source": "vanshb03",
+        "id": "639b90e8-0cc6-4f4d-9441-2c7825dee43d",
+        "date_posted": 1756355690,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355694,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306080/?keyword=Intern&lastSelectedFacet=AttributeChar4&mode=location",
+        "locations": [
+            "Redwood Shores, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Advanced Degree Software Engineer Intern, Database Technologies",
+        "source": "vanshb03",
+        "id": "ddfd44f5-48f9-42aa-b4a6-d704553caf0b",
+        "date_posted": 1756355694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
