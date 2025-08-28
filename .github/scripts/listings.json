@@ -11570,5 +11570,35 @@
         "date_posted": 1756341138,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341165,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55372&source=WEB_Search_NA&tags=&user=&formValues=",
+        "locations": [
+            "Sandy Springs, GA",
+            "Poughkeepsie, NY",
+            "Lowell, MA",
+            "Rochester, MN",
+            "Tucson, AZ",
+            "Research Triangle Park, NC",
+            "Durham, NC",
+            "Hopewell Junction, NY",
+            "San Jose, CA",
+            "Dallas, TX",
+            "Houston, TX",
+            "Austin, TX",
+            "Herndon, VA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IBM",
+        "title": "Back End Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "56d8fe9d-20f8-4e28-a4e0-c6819d1cf4a7",
+        "date_posted": 1756341165,
+        "company_url": "",
+        "is_visible": true
     }
 ]
