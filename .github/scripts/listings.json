@@ -11755,5 +11755,40 @@
         "date_posted": 1756341774,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341787,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/TDP-Software-Intern_R0059640",
+        "locations": [
+            "Chevy Chase, MD",
+            "Virginia Beach, VA",
+            "Getzville, NY",
+            "Poway, CA",
+            "Richardson, TX",
+            "Renton, WA",
+            "North Liberty, IA",
+            "Katy, TX",
+            "Marlton, NJ",
+            "Lakeland, FL",
+            "Fredericksburg, VA",
+            "Lenexa, KS",
+            "Anchorage, AK",
+            "Woodbury, NY",
+            "Jacksonville, FL",
+            "Indianapolis, IN",
+            "Tucson, AZ",
+            "Macon, GA",
+            "Springfield, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geico",
+        "title": "TDP Software Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "07f58a2b-14da-4442-83f8-14b6d51adb11",
+        "date_posted": 1756341787,
+        "company_url": "",
+        "is_visible": true
     }
 ]
