@@ -11651,5 +11651,22 @@
         "date_posted": 1756341256,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341537,
+        "url": "https://www.amazon.jobs/en/jobs/3066625/data-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Data Engineer Co-op Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4fc9707b-90a1-41ba-955c-6ee9d067c222",
+        "date_posted": 1756341537,
+        "company_url": "",
+        "is_visible": true
     }
 ]
