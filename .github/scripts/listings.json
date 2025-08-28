@@ -11702,5 +11702,22 @@
         "date_posted": 1756341692,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341724,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE",
+        "title": "Software Engineering Co-op - Fall 2026",
+        "season": "Fall",
+        "source": "aprameyak",
+        "id": "aca6b440-a8c9-4549-8735-78f4196c73d4",
+        "date_posted": 1756341724,
+        "company_url": "",
+        "is_visible": true
     }
 ]
