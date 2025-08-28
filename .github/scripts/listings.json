@@ -11685,5 +11685,22 @@
         "date_posted": 1756341666,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341692,
+        "url": "https://www.amazon.jobs/en/jobs/3066646/business-intelligence-engineer-co-op-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Business Intelligence Engineer Co-Op",
+        "season": "Winter",
+        "source": "aprameyak",
+        "id": "46fbb9cb-7a88-410b-93f5-eb316fd423ea",
+        "date_posted": 1756341692,
+        "company_url": "",
+        "is_visible": true
     }
 ]
