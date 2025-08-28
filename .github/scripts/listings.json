@@ -13138,5 +13138,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756401768,
+        "url": "https://db.recsolu.com/external/requisitions/DgVKlwNjlhY8M4_JOkMEnw",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Deutsche Bank",
+        "title": "Technology, Data and Innovation Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "40c2e232-c50c-4dd7-8df3-94b819f356fb",
+        "date_posted": 1756401768,
+        "company_url": "",
+        "is_visible": true
     }
 ]
