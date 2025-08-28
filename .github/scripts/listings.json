@@ -11634,5 +11634,22 @@
         "date_posted": 1756341243,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341256,
+        "url": "https://www.amazon.jobs/en/jobs/3066561/business-intelligence-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Business Intelligence Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "15119166-1477-44f5-af87-01efe78e3fa6",
+        "date_posted": 1756341256,
+        "company_url": "",
+        "is_visible": true
     }
 ]
