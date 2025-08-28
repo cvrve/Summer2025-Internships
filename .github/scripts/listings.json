@@ -11994,5 +11994,41 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756347704,
+        "url": "https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787",
+        "locations": [
+            "Ames, IA",
+            "Clear Lake, IA",
+            "Fort Myers, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kingland",
+        "title": "Advanced Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d3b7574e-a442-4ca6-a4e5-a8809d960029",
+        "date_posted": 1756347704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347737,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0c60e87f-4e12-4124-84bc-1d7777a3e629",
+        "date_posted": 1756347737,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
