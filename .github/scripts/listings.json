@@ -11600,5 +11600,22 @@
         "date_posted": 1756341165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341232,
+        "url": "https://careers.hpe.com/us/en/job/1193025/Software-Engineering-Intern",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "9ab550e2-4c5e-42c4-9332-94319e5e7ce2",
+        "date_posted": 1756341232,
+        "company_url": "",
+        "is_visible": true
     }
 ]
