@@ -11807,5 +11807,192 @@
         "date_posted": 1756344725,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756347498,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Commure",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d3b69af9-e44e-4166-a9da-560c800e4dbe",
+        "date_posted": 1756347498,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347506,
+        "url": "https://careers.qorvo.com/job/Greensboro-Software-Developer-Intern-NC-27409/1320964700/",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "a1863126-26c1-4458-bfb8-d8f469577f47",
+        "date_posted": 1756347506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347510,
+        "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/30545",
+        "locations": [
+            "Austin, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hormel Foods",
+        "title": "IT Application Development Analyst Intern",
+        "source": "vanshb03",
+        "id": "c160a304-126b-4337-a43f-601d6e118e53",
+        "date_posted": 1756347510,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347515,
+        "url": "https://burnsmcd.jobs/kansas-city-mo/software-developer-intern-kansas-city/89D63A85530C4FD8ADFC3AC4DC580A93/job/",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Burns & McDonnell",
+        "title": "Software Developer Intern, Kansas City",
+        "source": "vanshb03",
+        "id": "c7e52508-9609-4995-83b6-e191ae9a0e49",
+        "date_posted": 1756347515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347521,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9cddf080-c924-401f-a793-8751798ec843",
+        "date_posted": 1756347521,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347526,
+        "url": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Newrez LLC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "615256c7-5176-446b-bf99-403ac89015cd",
+        "date_posted": 1756347526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347571,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Embedded Software Intern, Analog Garage PST",
+        "source": "vanshb03",
+        "id": "76b9b833-5f7d-43a7-bc44-0fbd06464821",
+        "date_posted": 1756347571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347589,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1620",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5e53e2e4-6b29-4715-99a0-69e98abc8f92",
+        "date_posted": 1756347589,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347595,
+        "url": "https://lifeattiktok.com/search/7540823148805032210",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, AI Applications",
+        "source": "vanshb03",
+        "id": "9b1d4247-336c-4293-969c-520747cf9fb4",
+        "date_posted": 1756347595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1756347603,
+        "url": "https://myjobs.adp.com/bessemer/cx/job-details?reqId=5001145764006",
+        "locations": [
+            "Woodbridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bessemer Trust",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "03000237-b5ec-4647-9d4e-50476e9ee83d",
+        "date_posted": 1756347603,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756347627,
+        "url": "https://careers.kodak.com/job/USA-Web-Developer-Intern-CA/1320436300/",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kodak",
+        "title": "Web Developer Intern",
+        "source": "vanshb03",
+        "id": "b74c1a7b-cb65-4177-b21a-8d74cda144b3",
+        "date_posted": 1756347627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
