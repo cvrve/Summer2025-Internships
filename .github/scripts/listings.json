@@ -12229,5 +12229,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756396712,
+        "url": "https://careers.garmin.com/jobs/16829?lang=en-us",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Web/DevOps",
+        "source": "vanshb03",
+        "id": "9870e56f-7208-4b8c-b12c-0f7e911bc167",
+        "date_posted": 1756396712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756396717,
+        "url": "https://careers.garmin.com/jobs/16828/job",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Embedded",
+        "source": "vanshb03",
+        "id": "f876b8f7-2e3f-4b81-987d-caca09db5e62",
+        "date_posted": 1756396717,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756396814,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/39666",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Mantech",
+        "title": "CNO Developer Intern",
+        "source": "vanshb03",
+        "id": "18b9d3f5-c671-4c1f-ade8-129eb7c2b4fa",
+        "date_posted": 1756396814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756396818,
+        "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/US-Territory-Field-based/IT-Junior-Engineer---Technical-Deliver-Intern--Summer-2026-_R0023201",
+        "locations": [
+            "US Territory Field based"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elanco",
+        "title": "IT Junior Engineer Intern, Technical Deliver",
+        "source": "vanshb03",
+        "id": "10cfa10e-1479-4092-9d3a-f7a06b1bf906",
+        "date_posted": 1756396818,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756396837,
+        "url": "https://careers-aluminumdynamics.icims.com/jobs/6351/job",
+        "locations": [
+            "Columbus, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aluminum Dynamics",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b115d1f3-252d-4215-90f0-62845e7c8e4b",
+        "date_posted": 1756396837,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756396990,
+        "url": "https://www.workatastartup.com/jobs/79941",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Silimate",
+        "title": "EDA QA/Testing Intern",
+        "source": "vanshb03",
+        "id": "d55b0006-ab5d-449a-a94b-63f5ba13d130",
+        "date_posted": 1756396990,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756397083,
+        "url": "https://www.workatastartup.com/jobs/80699",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cuckoo Labs",
+        "title": "Full Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "53dbf255-8371-4bdd-b0ff-b0599e0e45c1",
+        "date_posted": 1756397083,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
