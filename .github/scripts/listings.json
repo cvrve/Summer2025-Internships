@@ -12105,5 +12105,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756355525,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/112823",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Technology Modernization Intern",
+        "source": "vanshb03",
+        "id": "a0659cc5-b615-41ee-bee2-126393f9d388",
+        "date_posted": 1756355525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756355530,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447396832",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "System Quality Assurance Co-op, Robots",
+        "source": "vanshb03",
+        "id": "2aea6480-7c33-4c43-bc5c-5951bf7143d4",
+        "date_posted": 1756355530,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756355536,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447395184",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Mobile App Developer Co-op",
+        "source": "vanshb03",
+        "id": "d7944e69-ebb4-4895-aaf4-ab1e1b423049",
+        "date_posted": 1756355536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756355541,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/85447396384",
+        "locations": [
+            "Madison, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "388253e9-b20d-426f-b701-2c8a62127164",
+        "date_posted": 1756355541,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
