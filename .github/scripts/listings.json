@@ -12030,5 +12030,63 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756354273,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306078/",
+        "locations": [
+            "Redwood Shores, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Database Technologies",
+        "source": "vanshb03",
+        "id": "bc8ce9d2-fb7e-4831-920e-f3c773a254c4",
+        "date_posted": 1756354273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354278,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305997/",
+        "locations": [
+            "Austin, TX",
+            "Nashville, TN",
+            "Santa Clara, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Technical Program Manager Intern, Oracle Cloud Infrastructure",
+        "source": "vanshb03",
+        "id": "dba741b4-79ea-425c-a47a-3d664f72e5c1",
+        "date_posted": 1756354278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756354285,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306133/",
+        "locations": [
+            "Redwood City, CA",
+            "Santa Clara, CA",
+            "Pleasanton, CA",
+            "Seattle, WA",
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Oracle Health and Analytics",
+        "source": "vanshb03",
+        "id": "d80c357f-c657-442b-8c83-a27ec019485a",
+        "date_posted": 1756354285,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
