@@ -10808,13 +10808,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756134267,
+        "date_updated": 1756340884,
         "url": "https://jobs.northropgrumman.com/careers/job/1340060650174",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrup Grumman",
         "title": "2026 Intern Software Engineer",
         "season": "Summer",
@@ -11329,13 +11329,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756240368,
+        "date_updated": 1756340878,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047",
         "locations": [
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Fidelity",
         "title": "Undergraduate Intern, Technology",
         "source": "vanshb03",
@@ -11451,9 +11451,9 @@
     },
     {
         "date_updated": 1756314940,
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates&user=1",
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/",
         "locations": [
-            "RTP, NC"
+            "Research Triangle Park, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -11487,13 +11487,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756314999,
+        "date_updated": 1756340881,
         "url": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock%2C-Texas%2C-United-States/Dell-Summer-Internship---Software-Engineering_R276698",
         "locations": [
             "Round Rock, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dell",
         "title": "Software Engineer Intern",
         "season": "Summer",
