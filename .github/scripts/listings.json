@@ -11757,7 +11757,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341787,
+        "date_updated": 1756397240,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/TDP-Software-Intern_R0059640",
         "locations": [
             "Chevy Chase, MD",
@@ -11781,7 +11781,7 @@
             "Springfield, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geico",
         "title": "TDP Software Intern",
         "season": "Summer",
