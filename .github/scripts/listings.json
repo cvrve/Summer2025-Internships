@@ -11668,5 +11668,22 @@
         "date_posted": 1756341537,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341666,
+        "url": "https://www.amazon.jobs/en/jobs/3066439/front-end-engineer-internship-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Front-End Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "32178424-4822-4b93-beed-67ac8d3f60cc",
+        "date_posted": 1756341666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
