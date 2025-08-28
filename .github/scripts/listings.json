@@ -11519,5 +11519,22 @@
         "date_posted": 1756315064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341058,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "5c273aba-3299-40ee-b44d-971603c3d265",
+        "date_posted": 1756341058,
+        "company_url": "",
+        "is_visible": true
     }
 ]
