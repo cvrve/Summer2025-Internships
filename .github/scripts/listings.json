@@ -11738,5 +11738,22 @@
         "date_posted": 1756341741,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756341774,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Consulting Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "852d5048-4a9a-42dd-bca3-60387ca171ab",
+        "date_posted": 1756341774,
+        "company_url": "",
+        "is_visible": true
     }
 ]
