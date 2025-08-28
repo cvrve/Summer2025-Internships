@@ -11790,5 +11790,22 @@
         "date_posted": 1756341787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756344725,
+        "url": "https://www.janestreet.com/join-jane-street/position/8069279002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Cybersecurity Analyst Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "a84de1d1-f1a7-4915-8f49-9baab585a183",
+        "date_posted": 1756344725,
+        "company_url": "",
+        "is_visible": true
     }
 ]
