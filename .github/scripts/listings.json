@@ -12088,5 +12088,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756354373,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CInternSoftware%22",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern, Oracle Cloud Infrastructure (OCI)",
+        "source": "vanshb03",
+        "id": "ee4ef44e-d59a-4627-a4b7-8f6600e4c969",
+        "date_posted": 1756354373,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
