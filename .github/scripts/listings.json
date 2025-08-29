@@ -13191,5 +13191,22 @@
         "date_posted": 1756459611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756459654,
+        "url": "https://www.santandercareers.com/job/dallas/it-project-management-it-originations-intern/1771/85497363664",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "IT Project Management Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "0a713ca0-8adb-40e8-aa92-00b27a963a08",
+        "date_posted": 1756459654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
