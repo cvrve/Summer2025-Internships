@@ -13208,5 +13208,22 @@
         "date_posted": 1756459654,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756508415,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2026-_JR12655",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "fec41c46-42ad-45e6-b7a5-871071272764",
+        "date_posted": 1756508415,
+        "company_url": "",
+        "is_visible": true
     }
 ]
