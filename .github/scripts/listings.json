@@ -13172,5 +13172,24 @@
         "date_posted": 1756401787,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756459611,
+        "url": "https://www.santandercareers.com/job/-/-/1771/85497363568?fbclid=PAZXh0bgNhZW0CMTEAAacIhtTqz01AOmxbttDIs7PaCLVvt_GRxTj5XLrS3GVAf0TaqIjwdMD23UYekg_aem_b_unyIxUc47fQBBj0CzErA",
+        "locations": [
+            "Dallas, TX",
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "Information Security Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4c7d5d73-6022-41e4-abde-839c3bc37d97",
+        "date_posted": 1756459611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
