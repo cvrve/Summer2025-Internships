@@ -13225,5 +13225,24 @@
         "date_posted": 1756508415,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756509518,
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/details/Software-Engineer-Intern_R-050088?q=intern",
+        "locations": [
+            "Raleigh, NC",
+            "Boston, MA",
+            "Lowell, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Hat",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f0c6664d-3d68-410a-bb7c-51abc54eecf1",
+        "date_posted": 1756509518,
+        "company_url": "",
+        "is_visible": true
     }
 ]
