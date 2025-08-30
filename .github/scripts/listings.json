@@ -13505,5 +13505,145 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756538022,
+        "url": "https://careers.sig.com/job/9749/Trading-System-Engineering-Internship-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Trading System Engineering Intern",
+        "source": "vanshb03",
+        "id": "760d46a7-5580-474c-bbe1-2a1a8d886d01",
+        "date_posted": 1756538022,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538029,
+        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Quality Engineer Intern",
+        "source": "vanshb03",
+        "id": "396384a1-4228-43ff-84cf-92f32b433506",
+        "date_posted": 1756538029,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538036,
+        "url": "https://dowjones.jobs/gaithersburg-md/summer-2026-internship-opis-software-development-intern/747839E0165045449869A77FCB5233B1/job/",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Software Development Intern, OPIS",
+        "source": "vanshb03",
+        "id": "51f871f8-f5e6-41d1-9601-34ff3cf78219",
+        "date_posted": 1756538036,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538041,
+        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL316653EXTERNALENGLOBAL/Software-Engineer-Intern-Summer-2026",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0209f19d-1eb2-454b-a932-01635b117105",
+        "date_posted": 1756538041,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538047,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3531297/Transcard-Payments-LLC/2026---Software-Engineer-Intern",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Transcard",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "21fec700-d1c3-4474-b410-c2ef7a69abbd",
+        "date_posted": 1756538047,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538051,
+        "url": "https://www.schwabjobs.com/job/southlake/2026-charles-schwab-technology-intern-software-engineering/33727/",
+        "locations": [
+            "Southlake, TX",
+            "Austin, TX",
+            "Westlake, TX",
+            "Ann Arbor, MI",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a4568c49-cfb8-4ae9-9b8b-9700e36b1939",
+        "date_posted": 1756538051,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756538056,
+        "url": "https://www.tesla.com/careers/search/job/248001",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Factory Software",
+        "source": "vanshb03",
+        "id": "14a6bbc2-315f-4165-83eb-40fefb6d95a7",
+        "date_posted": 1756538056,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1756538062,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/113405",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Software Engineer & Computer Science Intern",
+        "source": "vanshb03",
+        "id": "aa6e3dd8-00f8-4075-bc8a-29a31df9f662",
+        "date_posted": 1756538062,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
