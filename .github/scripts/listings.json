@@ -13329,5 +13329,32 @@
         "date_posted": 1756535351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756536806,
+        "url": "https://careers.boozallen.com/jobs/JobDetail?jobId=115072",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Atlanta, GA",
+            "Charleston, SC",
+            "Colorado Springs, CO",
+            "El Segundo, CA",
+            "Honolulu, HI",
+            "Huntsville, AL",
+            "Panama City, FL",
+            "Rome, NY",
+            "San Diego, CA",
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "University, 2026 Summer Games Cybersecurity Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4cd1bc39-255c-4d81-888c-e41f08813217",
+        "date_posted": 1756536806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
