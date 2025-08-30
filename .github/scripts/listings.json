@@ -13391,8 +13391,7 @@
             "Austin ,TX",
             "Fort Collins, CO",
             "Longmont, CO",
-            "Boxborough , MA",
-            ""
+            "Boxborough , MA"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -13404,5 +13403,107 @@
         "date_posted": 1756536833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756537559,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9298",
+        "locations": [
+            "Saint Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Computershare",
+        "title": "Junior Developer Intern",
+        "source": "vanshb03",
+        "id": "7bbc4e48-8fd7-4d7b-9fe1-147f22ed0408",
+        "date_posted": 1756537559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756537573,
+        "url": "https://job-boards.greenhouse.io/descriptinc/jobs/6671019003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Descript",
+        "title": "SWE Intern",
+        "source": "vanshb03",
+        "id": "e9a1a7f7-d816-45de-9f0c-0b76e1084798",
+        "date_posted": 1756537573,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756537699,
+        "url": "https://altruist.com/join-altruist/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altruist Financial LLC",
+        "title": "Quantitative Engineer Intern",
+        "source": "vanshb03",
+        "id": "a2367266-8373-4dc7-91fa-4440b07c3f21",
+        "date_posted": 1756537699,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756537801,
+        "url": "https://www.workatastartup.com/jobs/80749",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SubImage - YC(W25)",
+        "title": "Full Stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "03154584-bee6-4d45-bb29-1b6ddf44a246",
+        "date_posted": 1756537801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756537810,
+        "url": "https://www.workatastartup.com/jobs/80751",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ThirdLayer- YC(W25)",
+        "title": "Full-Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "f0ac6369-7db2-488a-a9ac-e0b1e7089046",
+        "date_posted": 1756537810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756537816,
+        "url": "https://www.workatastartup.com/jobs/80757",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "YouLearn - YC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "23278953-27ca-4cac-a7e8-725d395cb64a",
+        "date_posted": 1756537816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
