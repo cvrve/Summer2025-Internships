@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Software Engineer Intern, Factory Software | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/248001?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| Descript | SWE Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/descriptinc/jobs/6671019003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ZeroEntropy | Machine Learning Engineering Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/78042?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Yondu (W24) | Computer Vision Intern, Co-Op | Los Angeles, CA | <a href="https://www.workatastartup.com/jobs/79734?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | vly.ai | Full-Stack + Applied AI Software Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/76805?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
