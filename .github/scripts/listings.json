@@ -12265,13 +12265,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756396814,
+        "date_updated": 1756513804,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/39666",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Mantech",
         "title": "CNO Developer Intern",
         "source": "vanshb03",
