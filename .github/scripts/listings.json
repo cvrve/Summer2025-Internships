@@ -13666,5 +13666,94 @@
         "date_posted": 1756602556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756602621,
+        "url": "https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inspire",
+        "title": "Infrastructure and DevOps Intern",
+        "source": "vanshb03",
+        "id": "c6a0d9d0-4a09-4537-8396-f2b3badf765e",
+        "date_posted": 1756602621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602626,
+        "url": "https://www.santandercareers.com/job/-/-/1771/85580175488",
+        "locations": [
+            "Dallas, TX",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "IT Application Development Intern",
+        "source": "vanshb03",
+        "id": "241d9ad7-f017-4b26-a826-07558a298b0b",
+        "date_posted": 1756602626,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602632,
+        "url": "https://careers.amd.com/careers-home/jobs/70483/job",
+        "locations": [
+            "Austin, TX",
+            "Fort Collins, CO",
+            "Boxborough, MA",
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a975e138-0a9f-4ad9-a38c-39351490047b",
+        "date_posted": 1756602632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602644,
+        "url": "https://jobs.keysight.com/external/jobs/49350/job",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "a5ceb8a5-22c8-4079-824a-e7281df616c3",
+        "date_posted": 1756602644,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756602652,
+        "url": "https://www.santandercareers.com/job/-/-/1771/85568135264",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Santander",
+        "title": "Application Development Intern, Auto",
+        "source": "vanshb03",
+        "id": "5d4839f2-72ea-415a-9392-3715853248a1",
+        "date_posted": 1756602652,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
