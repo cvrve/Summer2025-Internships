@@ -13645,5 +13645,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756602556,
+        "url": "https://www.schwabjobs.com/job/southlake/2026-charles-schwab-technology-intern-software-engineering/33727/85564474864",
+        "locations": [
+            "Southlake, TX",
+            "Austin, TX",
+            "Westlake, TX",
+            "Ann Arbor, MI",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2a83b8e6-f1f0-497f-a976-a6d509a912ae",
+        "date_posted": 1756602556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
