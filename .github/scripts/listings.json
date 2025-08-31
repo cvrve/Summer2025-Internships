@@ -10367,13 +10367,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756068163,
+        "date_updated": 1756595618,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1?source=Appcast_Indeedo&source=jobboardindeed&ittk=NFPYJGP0UO",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Embedded Systems Software Intern, Linux and Jetson",
         "source": "vanshb03",
@@ -10384,13 +10384,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1756068169,
+        "date_updated": 1756595620,
         "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Platform-Engineering-Summer-Intern_REQ-4355?source=Indeed",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
@@ -10401,13 +10401,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756068841,
+        "date_updated": 1756595623,
         "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Enterprise Quality Management Summer Intern",
         "season": "Summer",
@@ -10930,14 +10930,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756162054,
+        "date_updated": 1756595635,
         "url": "https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2026-Technology-Internship-Program_R-121813-1",
         "locations": [
             "Newark, NJ",
             "Tampa, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Prudential Financial",
         "title": "Technology Internship Program",
         "season": "Summer",
