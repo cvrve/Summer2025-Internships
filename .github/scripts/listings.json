@@ -13755,5 +13755,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756851501,
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=332561#jobDetails=332561_5131",
+        "locations": [
+            "Weekhawken, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UBS",
+        "title": "Technology Inter",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "10616bcb-cf95-4298-bf83-8ca7e23df30f",
+        "date_posted": 1756851501,
+        "company_url": "",
+        "is_visible": true
     }
 ]

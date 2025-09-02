@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| UBS | Technology Inter | Weekhawken, NJ | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=332561#jobDetails=332561_5131&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | YouLearn - YC | Software Engineering Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/80757?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | Transcard | Software Engineer Intern 🛂 | Chattanooga, TN | <a href="https://recruiting.paylocity.com/recruiting/jobs/Details/3531297/Transcard-Payments-LLC/2026---Software-Engineer-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ThirdLayer- YC(W25) | Full-Stack Engineer Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/80751?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
