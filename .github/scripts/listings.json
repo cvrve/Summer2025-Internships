@@ -13772,5 +13772,26 @@
         "date_posted": 1756851501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756851520,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Shaunak-Sinha-05",
+        "id": "46acadfb-d89b-4511-aa57-80d86a740c52",
+        "date_posted": 1756851520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
