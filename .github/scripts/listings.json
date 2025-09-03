@@ -14364,5 +14364,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756869684,
+        "url": "https://www.workatastartup.com/jobs/80843",
+        "locations": [
+            "CA",
+            "US",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gale",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "737623b4-4206-47cb-87c3-97adefe5bba8",
+        "date_posted": 1756869684,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
