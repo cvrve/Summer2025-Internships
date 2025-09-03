@@ -14313,5 +14313,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756869559,
+        "url": "https://jobs.plexus.com/careers/job/1099542548960",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6a0e10f2-6cd0-441b-be0d-87529549d6cd",
+        "date_posted": 1756869559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1756869565,
+        "url": "https://jobs.plexus.com/careers/job/1099542501274",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Automation Controls Engineer Intern",
+        "source": "vanshb03",
+        "id": "2836cd9c-353d-4935-8902-be7d6a5d7b81",
+        "date_posted": 1756869565,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756869571,
+        "url": "https://jobs.plexus.com/careers/job/1099542548181",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Engineering Productivity Intern, Software",
+        "source": "vanshb03",
+        "id": "c0461149-86df-4450-ad6b-6d4b96bde07b",
+        "date_posted": 1756869571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
