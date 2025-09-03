@@ -14383,5 +14383,245 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1756871316,
+        "url": "https://www.mathworks.com/company/jobs/opportunities/28174-technical-documentation-intern-undergraduate",
+        "locations": [
+            "Natick, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MathWorks",
+        "title": "Technical Documentation Intern, Undergraduate",
+        "source": "vanshb03",
+        "id": "7e544a72-1302-4d7f-9e84-ce51aa95e408",
+        "date_posted": 1756871316,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871326,
+        "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship",
+        "locations": [
+            "Natick, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MathWorks",
+        "title": "Engineering Development Group Intern",
+        "source": "vanshb03",
+        "id": "f7650d30-89e0-4d0e-8e10-2b42a4459580",
+        "date_posted": 1756871326,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871386,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2026-Corporate-Internship_202508673-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DICK'S Sporting Goods",
+        "title": "Software Engineer Intern, Corporate",
+        "source": "vanshb03",
+        "id": "cc415574-043b-4e57-baa3-5f4addc4fb0f",
+        "date_posted": 1756871386,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871393,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Technology-Operations_170065",
+        "locations": [
+            "Malvern, PA",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "College to Corporate Intern, Technology Operations",
+        "source": "vanshb03",
+        "id": "c2c527e8-0180-48c3-89bc-73066416a0a5",
+        "date_posted": 1756871393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871403,
+        "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2026-CO-80112/1321878500/",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "United Launch Alliance",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5ce39307-6814-4f9a-8bdc-a952e69f1cdc",
+        "date_posted": 1756871403,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871519,
+        "url": "https://www.atlassian.com/company/careers/details/20956",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "678815d5-5d06-45b6-9213-e9743af5c8fd",
+        "date_posted": 1756871519,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871599,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8149124002",
+        "locations": [
+            "Bastrop, TX",
+            "Brownsville, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Vandenberg, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "6ae22024-1c53-4542-aa07-7153b7411d6d",
+        "date_posted": 1756871599,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871645,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8149154002",
+        "locations": [
+            "Bastrop, TX",
+            "Brownsville, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "1159b242-f624-4808-97f4-5baca9782af0",
+        "date_posted": 1756871645,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871656,
+        "url": "https://careers.usbank.com/global/en/job/2025-0020194/2026-Engineering-Summer-Intern",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U.S. Bank",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "14c451ef-3f8c-4da0-bc38-e7ca3c581e9d",
+        "date_posted": 1756871656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871705,
+        "url": "https://www.atlassian.com/company/careers/details/20963",
+        "locations": [
+            "Seattle, WA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "f9a39c87-7adf-4fb5-8655-e5ab7ef2f613",
+        "date_posted": 1756871705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871711,
+        "url": "https://www.atlassian.com/company/careers/details/20962",
+        "locations": [
+            "Seattle, WA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "c76d3d4c-9d26-4348-bb9d-68841357613f",
+        "date_posted": 1756871711,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871947,
+        "url": "https://careers.roblox.com/jobs/7167364",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Product Design Intern",
+        "source": "vanshb03",
+        "id": "98325593-a2ae-498f-8344-3360f13f028d",
+        "date_posted": 1756871947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756871957,
+        "url": "https://careers.roblox.com/jobs/7167598",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "6829ff1a-0cb9-46b9-b391-2d274c638208",
+        "date_posted": 1756871957,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
