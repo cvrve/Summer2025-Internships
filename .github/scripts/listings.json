@@ -13812,5 +13812,468 @@
         "date_posted": 1756851613,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756866571,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0ef5b8ad-9ce8-4586-93a4-e05c4a65119d",
+        "date_posted": 1756866571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866580,
+        "url": "https://careers.cai.io/us/en/job/CAICAIUSR6094EXTERNALENUS/Software-Developer-Intern",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CAI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "3f0a94f4-49a4-4bb6-9379-65bdb5b0e552",
+        "date_posted": 1756866580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866584,
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000685611",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "c810722b-2ae5-47f9-84be-f71ed02fd5a9",
+        "date_posted": 1756866584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866630,
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000685610",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Software Test Engineering Intern, ASUX",
+        "source": "vanshb03",
+        "id": "1eea9466-e4a2-4e58-94a1-f1dee307a08c",
+        "date_posted": 1756866630,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866638,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427",
+        "locations": [
+            "Lowell, MI",
+            "Menomonee Falls, WI",
+            "Fond du Lac, WI",
+            "Mettawa, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brunswick",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "aa2d4873-e32a-4835-b10d-4c3bb0fbbbae",
+        "date_posted": 1756866638,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1756866647,
+        "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northern Trust",
+        "title": "Technology Intern, Software Development",
+        "source": "vanshb03",
+        "id": "dbb1df87-16de-40fb-ad85-d86b31fec949",
+        "date_posted": 1756866647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866662,
+        "url": "https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR40813EXTERNALENUS/Engineer-Intern-Software-Summer-2026",
+        "locations": [
+            "Dodge Center, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McNeilus",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bc3417f2-4d72-4dba-b72c-2a300f88088d",
+        "date_posted": 1756866662,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866713,
+        "url": "https://careers.oshkoshcorp.com/us/en/job/R40623/Engineer-Intern-Software-Summer-2026",
+        "locations": [
+            "Greenville, WI",
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pierce Manufacturing",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5a86db83-9f7c-485c-b0be-addfa1551545",
+        "date_posted": 1756866713,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866894,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Robotics-Research_JR2003245",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Robotics Research Intern",
+        "source": "vanshb03",
+        "id": "7e4a1d7b-0128-4ccc-bcaf-73a03599de31",
+        "date_posted": 1756866894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866901,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Large-Language-Models-Research_JR2003243",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Large Language Models Research Intern",
+        "source": "vanshb03",
+        "id": "1b7e3acb-832d-4276-9239-4afd39f3650d",
+        "date_posted": 1756866901,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866905,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Hardware-Research_JR2003247",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Hardware Research Intern",
+        "source": "vanshb03",
+        "id": "59d2f738-c1e9-4236-a6c3-b5e4fe88027b",
+        "date_posted": 1756866905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866909,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Graphics and Simulation Research Intern",
+        "source": "vanshb03",
+        "id": "1e2d7b85-23be-4502-a20f-d46dab9ec67a",
+        "date_posted": 1756866909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866914,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Generative AI Research Intern",
+        "source": "vanshb03",
+        "id": "e8b62c60-4794-4c29-8e9a-be26e97c93dd",
+        "date_posted": 1756866914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866919,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Computer Vision and Deep Learning Research Intern",
+        "source": "vanshb03",
+        "id": "f0ecdf67-9a71-4e1d-883a-7d49422b2f6b",
+        "date_posted": 1756866919,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866924,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Computer-Architecture-and-Systems-Research_JR2003246",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Computer Architecture and Systems Research Intern",
+        "source": "vanshb03",
+        "id": "d442acba-67eb-4af2-876e-81198b1d1bd6",
+        "date_posted": 1756866924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866929,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244?ittk=SWK2WUHSBD",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "PhD Autonomous Vehicles Research Intern",
+        "source": "vanshb03",
+        "id": "db525ee1-c273-4a2d-89b8-51f754770acb",
+        "date_posted": 1756866929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866933,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware Physical Design Intern, VLSI",
+        "source": "vanshb03",
+        "id": "7ba9e5af-5ed0-4182-995f-68a411aa5139",
+        "date_posted": 1756866933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866937,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Mixed Signal Design and Digital Circuit Design Intern",
+        "source": "vanshb03",
+        "id": "e18a9f86-07a0-4b8f-8e88-f4d907279912",
+        "date_posted": 1756866937,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866941,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware Verification Intern",
+        "source": "vanshb03",
+        "id": "97458f2e-9be8-4fed-93b6-65e53a95d519",
+        "date_posted": 1756866941,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866971,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "e65d918a-a090-4876-8c6e-c7a21973ed44",
+        "date_posted": 1756866971,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866979,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Hardware ASIC Design Intern",
+        "source": "vanshb03",
+        "id": "8a3e3187-9e07-4ba1-aaae-4d69abce97cf",
+        "date_posted": 1756866979,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866985,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Computer Architecture Intern",
+        "source": "vanshb03",
+        "id": "d497f45b-6eb8-46a8-a781-35fe86fca83c",
+        "date_posted": 1756866985,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866992,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Systems Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4e6586aa-4595-4824-92d8-089e4aa852ad",
+        "date_posted": 1756866992,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756866999,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Intern",
+        "source": "vanshb03",
+        "id": "08060a65-169b-4f3c-96cf-c75b2338b4f9",
+        "date_posted": 1756866999,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756867004,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Autonomous Vehicles and Robotics Intern",
+        "source": "vanshb03",
+        "id": "c233aef3-b813-4036-a98f-02ebaed9e1b4",
+        "date_posted": 1756867004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756867009,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Computer Architecture Intern",
+        "source": "vanshb03",
+        "id": "6bf46f3e-1c8e-40b6-9592-f6dbc31b16db",
+        "date_posted": 1756867009,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756867019,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b4796487-867a-439c-97ff-d6aae27f5b18",
+        "date_posted": 1756867019,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
