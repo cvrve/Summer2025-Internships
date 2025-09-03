@@ -14623,5 +14623,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756921521,
+        "url": "https://www.workatastartup.com/jobs/80989",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cloudglue - YC",
+        "title": "Full-Stack AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "56f6b98f-609c-444e-b873-9674909de48a",
+        "date_posted": 1756921521,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
