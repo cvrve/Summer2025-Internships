@@ -14275,5 +14275,43 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756869293,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
+        "locations": [
+            "O'Fallon, MO",
+            "Atlanta, GA",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4f553623-52ad-42b6-bcc4-e92dbf0c1e9a",
+        "date_posted": 1756869293,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756869342,
+        "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115",
+        "locations": [
+            "South San Francisco, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d2eeae11-84d7-4a52-af4e-6195d8e9d1e5",
+        "date_posted": 1756869342,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
