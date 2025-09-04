@@ -14277,7 +14277,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756869293,
+        "date_updated": 1756971717,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
         "locations": [
             "O'Fallon, MO",
@@ -14285,7 +14285,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Mastercard",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
