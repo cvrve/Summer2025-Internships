@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vercel | Engineering Spring Intern | New York, NY</br>San Fransisco, CA</br>Remote | <a href="https://vercel.com/careers/engineering-spring-intern-5628286004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Plexus | Software Engineer Intern | Neenah, WI | <a href="https://jobs.plexus.com/careers/job/1099542548960?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Gale | Software Engineer Intern | CA</br>US</br>Remote | <a href="https://www.workatastartup.com/jobs/80843?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Brunswick | Software Engineering Intern | <details><summary>**4 locations**</summary>Lowell, MI</br>Menomonee Falls, WI</br>Fond du Lac, WI</br>Mettawa, IL</details> | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
