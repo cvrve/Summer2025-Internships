@@ -14678,5 +14678,56 @@
         "date_posted": 1757041386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755611596,
+        "url": "https://joinbytedance.com/search/7538139519473092882?spread=A3T3U6W",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Multi-Cloud CDN Platform",
+        "source": "vanshb03",
+        "id": "da1f3a6b-61a2-4273-93d6-0d1eec2e768d",
+        "date_posted": 1755611596,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757069674,
+        "url": "https://jobs.thetorocompany.com/job/-/-/40062/85777272928",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Toro Company",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "99b46126-8dc4-4436-9441-f01d4442a04f",
+        "date_posted": 1757069674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757156064,
+        "url": "https://www.workatastartup.com/jobs/81229",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Eventual",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "219812e9-a204-4641-9987-ee742c32319c",
+        "date_posted": 1757156064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
