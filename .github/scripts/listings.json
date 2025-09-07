@@ -15058,5 +15058,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757250218,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301415",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICD",
+        "title": "Software Engineering Intern, ICD",
+        "source": "vanshb03",
+        "id": "46c24881-c0ed-4af8-b21d-b3d9a3e7124c",
+        "date_posted": 1757250218,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
