@@ -14973,5 +14973,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757249728,
+        "url": "https://www.epicgames.com/site/en-US/careers/jobs/5635299004",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Ecommerce Programmer Intern",
+        "source": "vanshb03",
+        "id": "76cc06b1-7c9a-44f3-af41-8d0c02d5326f",
+        "date_posted": 1757249728,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
