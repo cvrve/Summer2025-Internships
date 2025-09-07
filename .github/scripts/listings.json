@@ -15126,5 +15126,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757250226,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301414",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Full Stack Java Developer Intern",
+        "source": "vanshb03",
+        "id": "84a58266-0942-4c80-bab8-2b344dddd165",
+        "date_posted": 1757250226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
