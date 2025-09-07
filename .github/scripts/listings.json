@@ -15041,5 +15041,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757250215,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301423",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Software Engineer Intern, R8fin",
+        "source": "vanshb03",
+        "id": "01d5dab5-60e2-4c37-a3ef-756b2079e65b",
+        "date_posted": 1757250215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
