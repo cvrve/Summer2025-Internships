@@ -14729,5 +14729,129 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210659548",
+        "locations": [
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Columbus, OH",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JP Morgan Chase",
+        "title": "Risk Modeling Associate Intern, Consumer & Community Banking",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b8f848e6-4efa-4b26-bd92-3a261a9e9fca",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7233876",
+        "locations": [
+            "Dallas, TX",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles River Associates (CRA)",
+        "title": "Cyber and Forensic Technology Consulting Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6ff11e38-0bf5-45bb-a044-5c0e3890fd45",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern--Summer-2026_R202566787",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "832c25a0-ccb4-4014-a025-2f945c832d5d",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern--Summer-2026_R202566704",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5340fbc4-14a1-45e0-aeaf-d1f54fb18886",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Product-Management-Intern--Summer-2026_R202566799",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "747dd26a-2c67-4a6d-a3d3-e0c913128c12",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern--Summer-2026_R202566735",
+        "locations": [
+            "Long Island, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a43edc0b-013d-44b1-aa9c-0b532bd4783c",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757246920,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Mission-KS/Product-Management-Intern--Summer-2026_R202566767",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09e36e33-858e-43a7-badc-0e0c100dbee1",
+        "date_posted": 1757246920,
+        "company_url": "",
+        "is_visible": true
     }
 ]
