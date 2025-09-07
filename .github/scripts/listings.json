@@ -14887,5 +14887,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757247448,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2026-US-Summer-Internships---Game-Engineering_R025908",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Animation Engineering Intern",
+        "source": "vanshb03",
+        "id": "e31c26b0-ac3d-4ab0-88ce-69824dc0b443",
+        "date_posted": 1757247448,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
