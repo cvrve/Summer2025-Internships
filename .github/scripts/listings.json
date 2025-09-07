@@ -15109,5 +15109,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757250224,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301416",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "Java Developer Intern",
+        "source": "vanshb03",
+        "id": "1cfb9168-8f69-4aba-ac38-1ce302a4d2f7",
+        "date_posted": 1757250224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
