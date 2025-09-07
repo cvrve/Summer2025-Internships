@@ -14904,5 +14904,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757247745,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Production_R025916",
+        "locations": [
+            "Sherman Oaks, CA",
+            "Middleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Production Intern",
+        "source": "vanshb03",
+        "id": "b517d966-2e45-4ae6-8fb1-0070bcc4227f",
+        "date_posted": 1757247745,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
