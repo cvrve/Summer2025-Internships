@@ -15160,5 +15160,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757250628,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079993731",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "20ddbab2-d80c-4d19-b56e-d84fa9788f52",
+        "date_posted": 1757250628,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
