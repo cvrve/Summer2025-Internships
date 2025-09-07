@@ -14939,5 +14939,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757249954,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst---Intern--Product-Team--4-8-12-Months-_R1010514",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi Rail",
+        "title": "Software Analyst Intern, Product Team",
+        "source": "vanshb03",
+        "id": "b7c08198-33db-48cb-bb65-aa3755cb9375",
+        "date_posted": 1757249954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
