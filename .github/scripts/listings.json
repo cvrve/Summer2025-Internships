@@ -13411,7 +13411,7 @@
             "Saint Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Computershare",
         "title": "Junior Developer Intern",
         "source": "vanshb03",
@@ -13602,7 +13602,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles Schwab",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
