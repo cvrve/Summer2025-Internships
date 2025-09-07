@@ -14853,5 +14853,22 @@
         "date_posted": 1757246920,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757247102,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01791714",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineering Co-Op",
+        "source": "vanshb03",
+        "id": "021f2b6a-4ff2-4369-99a6-cf07817e8cb7",
+        "date_posted": 1757247102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
