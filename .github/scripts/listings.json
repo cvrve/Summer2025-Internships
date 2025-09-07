@@ -14870,5 +14870,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757247118,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Spring-Summer-2026---Onsite-_01791710",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Co-Op",
+        "source": "vanshb03",
+        "id": "d3d3f720-a376-4ca5-b8a1-f1447169c6f2",
+        "date_posted": 1757247118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
