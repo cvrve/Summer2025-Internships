@@ -15075,5 +15075,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757250219,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301421",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tradeweb",
+        "title": "STP Developer Intern",
+        "source": "vanshb03",
+        "id": "af65a09d-d862-4688-a3ed-f945f0015062",
+        "date_posted": 1757250219,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
