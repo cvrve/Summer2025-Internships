@@ -15449,5 +15449,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757344061,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202566837/software-engineering-intern-north-hills-ny/",
+        "locations": [
+            "North Hills, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Enterprises",
+        "title": "Software Engineering Intern, North Hills",
+        "source": "vanshb03",
+        "id": "25a64a91-4501-4b07-9c78-79fb9cdfe6b0",
+        "date_posted": 1757344061,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
