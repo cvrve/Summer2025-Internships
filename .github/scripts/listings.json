@@ -15253,5 +15253,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293361,
+        "url": "https://myjobs.adp.com/ameritasexternal/cx/job-details?reqId=5001146090600",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ameritas Life Insurance Corp",
+        "title": "Software Developer Intern, Packaged Systems",
+        "source": "vanshb03",
+        "id": "89adf586-d9d4-454f-a560-6bbc239140c1",
+        "date_posted": 1757293361,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
