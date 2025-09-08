@@ -15501,5 +15501,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757346580,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Product Design Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "89ba0514-4c6a-4bf6-9b05-6d8a331b373e",
+        "date_posted": 1757346580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
