@@ -15177,5 +15177,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293327,
+        "url": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA",
+            "San Diego, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arm",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "29b3fae7-ab0e-404c-bb34-787e901c02c3",
+        "date_posted": 1757293327,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
