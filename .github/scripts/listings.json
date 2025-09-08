@@ -15560,5 +15560,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757346617,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?q=Intern&location=United%20States",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Security Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "7b2cb1a1-4188-46d4-be5e-042b00be6395",
+        "date_posted": 1757346617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
