@@ -15377,5 +15377,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757343862,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4157EXTERNALENUS/Software-Engineer-in-Test-Intern-Data-Vantage-Engineering",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Software Engineer in Test Intern, Data Vantage Engineering",
+        "source": "vanshb03",
+        "id": "e714ae14-96ba-4076-bf99-291174cd3954",
+        "date_posted": 1757343862,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
