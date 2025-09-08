@@ -15270,5 +15270,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757294132,
+        "url": "https://careers-peraton.icims.com/jobs/158534/job",
+        "locations": [
+            "Herndon, VA",
+            "West Lafayette, IN",
+            "Blacksburg, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "1300Sarthak",
+        "id": "4726d3ac-1c32-4fbc-992a-c073c1b3509a",
+        "date_posted": 1757294132,
+        "company_url": "",
+        "is_visible": true
     }
 ]
