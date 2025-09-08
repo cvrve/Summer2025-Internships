@@ -15197,5 +15197,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293331,
+        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/248277",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pella Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c534215c-794a-4049-aaaa-373f25c2a8bb",
+        "date_posted": 1757293331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
