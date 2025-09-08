@@ -15612,5 +15612,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757347096,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8134376002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Algorithms",
+        "source": "vanshb03",
+        "id": "5defdbfc-36b3-4ebe-a62f-1c6d6314170a",
+        "date_posted": 1757347096,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
