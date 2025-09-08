@@ -15432,5 +15432,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757344053,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "DevOps and Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "d887d830-b95f-4063-8426-144641c53b86",
+        "date_posted": 1757344053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
