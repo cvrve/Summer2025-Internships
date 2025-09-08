@@ -15341,5 +15341,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757295170,
+        "url": "https://jobs.lever.co/bumbleinc/b21c0c9d-b805-4b82-ab4a-1a1d4c2b2ed8",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bumble Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c3446539-012c-49a1-b9b4-81a59e0ae968",
+        "date_posted": 1757295170,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
