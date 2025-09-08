@@ -15306,5 +15306,23 @@
         "date_posted": 1757294168,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757294356,
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/5628292004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vercel",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "koacow",
+        "id": "80145b53-e3a5-40fd-a1dd-1fb589f6b1d4",
+        "date_posted": 1757294356,
+        "company_url": "",
+        "is_visible": true
     }
 ]
