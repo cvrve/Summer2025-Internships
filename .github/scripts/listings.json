@@ -15466,5 +15466,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757344345,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern, Software",
+        "source": "vanshb03",
+        "id": "c5cc3697-a997-412b-add6-d0f9f0751f58",
+        "date_posted": 1757344345,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
