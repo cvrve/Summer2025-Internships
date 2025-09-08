@@ -15578,5 +15578,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757346993,
+        "url": "https://job-boards.greenhouse.io/vast/jobs/4594952006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vast",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e6cab598-a2bd-4dac-a77b-d13feb90fbd8",
+        "date_posted": 1757346993,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
