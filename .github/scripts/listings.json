@@ -15214,5 +15214,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293334,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Intern--US_R011627",
+        "locations": [
+            "Lake Forest, CA",
+            "Philadelphia, PA",
+            "San Leandro, CA",
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AVEVA",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "7e815b6d-aa48-4953-b0f6-c3eb8056e84f",
+        "date_posted": 1757293334,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
