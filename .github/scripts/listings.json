@@ -15415,5 +15415,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757344048,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R28348",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "58f3bf40-8364-424c-afe6-952bef420065",
+        "date_posted": 1757344048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
