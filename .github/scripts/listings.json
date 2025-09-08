@@ -15234,5 +15234,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757293351,
+        "url": "https://lennar.wd1.myworkdayjobs.com/en-US/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Software-Engineering_R25_0000003711",
+        "locations": [
+            "Miami, FL",
+            "Dallas, TX",
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Lennar",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c4c9b14e-e4d6-488d-b2df-5b4551509d8a",
+        "date_posted": 1757293351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
