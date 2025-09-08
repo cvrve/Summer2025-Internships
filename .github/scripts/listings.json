@@ -15324,5 +15324,22 @@
         "date_posted": 1757294356,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757295157,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2026-Summer-Internship_R107280",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Austin Semiconductor",
+        "title": "Engineer Intern",
+        "source": "vanshb03",
+        "id": "40d54eb1-972a-43f1-a2ef-48cc21845e20",
+        "date_posted": 1757295157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
