@@ -15735,5 +15735,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465564,
+        "url": "https://careersus-shure.icims.com/jobs/4438/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "aa7601a2-4306-4a04-ac2c-8e34a9cc869a",
+        "date_posted": 1757465564,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
