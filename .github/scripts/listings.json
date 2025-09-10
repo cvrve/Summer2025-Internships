@@ -15701,5 +15701,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465549,
+        "url": "https://careersus-shure.icims.com/jobs/4453/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Mobile Applications (iOS) Intern",
+        "source": "vanshb03",
+        "id": "0f145207-fbb8-46fb-a423-f2dff89a917d",
+        "date_posted": 1757465549,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
