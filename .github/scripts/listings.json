@@ -15821,5 +15821,22 @@
         "date_posted": 1757466157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757466175,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4606014005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale.ai",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "REDact324",
+        "id": "563d1d78-fab7-4157-8252-8c33be64b3af",
+        "date_posted": 1757466175,
+        "company_url": "",
+        "is_visible": true
     }
 ]
