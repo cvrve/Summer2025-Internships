@@ -15683,5 +15683,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757464415,
+        "url": "https://app.ripplematch.com/v2/public/job/146d369a",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Plaid",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e9041913-276f-47ab-a3cc-144084825aab",
+        "date_posted": 1757464415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
