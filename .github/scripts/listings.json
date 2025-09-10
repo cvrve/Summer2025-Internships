@@ -15838,5 +15838,22 @@
         "date_posted": 1757466175,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757466228,
+        "url": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "eb632d0e-8325-493d-ae28-bfea8162807c",
+        "date_posted": 1757466228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
