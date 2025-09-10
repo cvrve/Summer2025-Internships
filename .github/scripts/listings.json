@@ -15718,5 +15718,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465557,
+        "url": "https://careersus-shure.icims.com/jobs/4405/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Cloud Applications Development Intern",
+        "source": "vanshb03",
+        "id": "0ad52005-3f96-4290-ab85-682b00f87e5d",
+        "date_posted": 1757465557,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
