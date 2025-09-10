@@ -15666,5 +15666,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757349488,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "551336a6-09a8-46b5-82b7-66af61b302c7",
+        "date_posted": 1757349488,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
