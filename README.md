@@ -46,6 +46,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Shure | Embedded Software Development Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4426/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Mobile Applications (Android) Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4454/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Software Engineering Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4438/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Cloud Applications Development Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4405/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| ↳ | Mobile Applications (iOS) Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4453/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Plaid | Software Engineering Intern 🛂 | New York, NY</br>San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/146d369a?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Vast | Software Engineering Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/vast/jobs/4594952006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Texas Instruments | Information Technology Intern, Software 🛂 | Dallas, TX | <a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
