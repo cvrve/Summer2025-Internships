@@ -15855,5 +15855,23 @@
         "date_posted": 1757466228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757466400,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS4C6519509550483990BBE831D97EC14DEXTERNALENUS1BDB0EA7A7F444999F846B35FDD488EA/Software-Engineer-Intern-Core-Engineering-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Core Engineering",
+        "source": "vanshb03",
+        "id": "0fe122d7-1911-4a08-b2a5-7a47f29b3164",
+        "date_posted": 1757466400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
