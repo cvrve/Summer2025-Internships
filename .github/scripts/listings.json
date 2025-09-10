@@ -15769,5 +15769,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465572,
+        "url": "https://careersus-shure.icims.com/jobs/4426/job",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Embedded Software Development Intern",
+        "source": "vanshb03",
+        "id": "0c218ded-93d1-45d0-8967-1bc9f188d77e",
+        "date_posted": 1757465572,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
