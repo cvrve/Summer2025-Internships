@@ -43,7 +43,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | <a href="https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineering-Co-Op--Spring-Summer-2026---Onsite-_01791710?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | Relativity Space | Software Engineer Intern 🇺🇸 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rsinternboard/jobs/8143420002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | Vercel | Engineering Spring Intern | New York, NY</br>San Fransisco, CA</br>Remote | <a href="https://vercel.com/careers/engineering-spring-intern-5628286004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Plexus | Software Engineer Intern | Neenah, WI | <a href="https://jobs.plexus.com/careers/job/1099542548960?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -206,6 +205,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240953?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241053?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
+| RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | New York Post | Technology Intern | New York, NY | 🔒 | Aug 14 |
 | Vanguard | IT Co-Op Intern | Charlotte, NC | 🔒 | Aug 09 |
