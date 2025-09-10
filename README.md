@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Duolingo | Software Engineer Intern | Pittsburgh, PA | <a href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157171002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Texas Instruments | Information Technology Intern, Data Analysis & Engineering 🛂 | Dallas, TX | <a href="https://careers.ti.com/en/sites/CX/job/25007019/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Shure | Embedded Software Development Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4426/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | ↳ | Mobile Applications (Android) Intern | Niles, IL | <a href="https://careersus-shure.icims.com/jobs/4454/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
