@@ -15786,5 +15786,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757465915,
+        "url": "https://careers.ti.com/en/sites/CX/job/25007019/",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern, Data Analysis & Engineering",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "11ce27b8-72d7-4b9c-946b-d94c1495b5c7",
+        "date_posted": 1757465915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
