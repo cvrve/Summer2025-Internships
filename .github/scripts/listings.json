@@ -15647,5 +15647,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757349485,
+        "url": "https://careers.cboe.com/us/en/job/CBJCGMUSR4121EXTERNALENUS/Machine-Learning-Intern-Regulatory",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Machine Learning Intern, Regulatory",
+        "source": "vanshb03",
+        "id": "92e560bf-41da-4b0b-a2f0-6d5b9d1351ba",
+        "date_posted": 1757349485,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
