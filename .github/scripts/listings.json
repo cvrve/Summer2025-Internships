@@ -15803,5 +15803,23 @@
         "date_posted": 1757465915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757466157,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSFEFE11DFA95346F5B7E806BB23C91960EXTERNALENUS075C4CB06B1A4F3A8117637BE356CD45/Software-Engineer-Intern-AI-ML-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (AI/ML)",
+        "season": "Spring",
+        "source": "Mrnidhi",
+        "id": "e0d53ed5-023d-4bf3-90f5-d755d809a4c3",
+        "date_posted": 1757466157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
