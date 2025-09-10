@@ -15873,5 +15873,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757466412,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Infrastructure Automation",
+        "source": "vanshb03",
+        "id": "f1a8c298-b6da-4dc1-8c34-c3d76915be0c",
+        "date_posted": 1757466412,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
