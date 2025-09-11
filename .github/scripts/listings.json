@@ -16395,5 +16395,23 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025030",
+        "locations": [
+            "Shakopee, MN",
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d9fae2ba-366a-4ede-918a-94a15ecb2150",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
