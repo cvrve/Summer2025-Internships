@@ -16465,5 +16465,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757576517,
+        "url": "https://block.xyz/careers/jobs/4904196008",
+        "locations": [
+            "Remote",
+            "Bay Area, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Block, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "370db1a5-9fbe-46a0-8adc-b991047ea029",
+        "date_posted": 1757576517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
