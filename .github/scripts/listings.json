@@ -16290,5 +16290,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Application Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fa4aa389-8a73-43e9-91f8-1241f7357e0c",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
