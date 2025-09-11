@@ -16012,5 +16012,24 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41933",
+        "locations": [
+            "Providence, RI",
+            "Norwood, MA",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "057c5f82-25bc-417e-b847-4637d55d8659",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
