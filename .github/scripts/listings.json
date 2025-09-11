@@ -16273,5 +16273,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.ashbyhq.com/reframesystems/76b3c3d9-c741-4707-bd38-1d5e75781520/application",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reframe Systems",
+        "title": "Software Engineer and Full Stack Robotics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4bc5722f-67a8-4b27-876f-cf041889c2d0",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
