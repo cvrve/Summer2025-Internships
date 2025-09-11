@@ -5172,7 +5172,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753108255,
+        "date_updated": 1757559741,
         "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692",
         "locations": [
             "San Francisco, CA",
@@ -5180,7 +5180,7 @@
             "Little Rock, AR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LiveRamp",
         "title": "Software Engineer Co-Op",
         "source": "vanshb03",
@@ -10241,13 +10241,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755919028,
+        "date_updated": 1757559730,
         "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Metronome",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -15434,13 +15434,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757344053,
+        "date_updated": 1757559950,
         "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
         "locations": [
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "DevOps and Infrastructure Intern",
         "source": "vanshb03",
@@ -15912,13 +15912,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757532319,
+        "date_updated": 1757559731,
         "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157171002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -15927,5 +15927,22 @@
         "date_posted": 1757532319,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757559731,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8157163002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "ddd3e30a-eca6-463f-8bad-32c15daac663",
+        "date_posted": 1757538789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
