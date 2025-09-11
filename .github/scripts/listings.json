@@ -16375,5 +16375,25 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41920",
+        "locations": [
+            "Coralville, IA",
+            "Providence, RI",
+            "Columbus, OH",
+            "Norwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ae154a0-2c28-4e1d-9b97-be51f97a544a",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
