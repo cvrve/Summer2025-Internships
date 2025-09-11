@@ -16483,5 +16483,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757579328,
+        "url": "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+        "locations": [
+            "Walnut Creek, CA",
+            "San Diego, CA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wind River",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7d331660-55d4-4d61-8c5f-5c93bacb0632",
+        "date_posted": 1757579328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
