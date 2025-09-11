@@ -16031,5 +16031,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Cyber Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "441696c5-803c-4e50-8e88-1be0a9514e75",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
