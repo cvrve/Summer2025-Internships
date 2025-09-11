@@ -16256,5 +16256,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers.skyworksinc.com/job/Austin-Product-Engineer-Intern-TX-73301/1324850300",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9594ed5-0638-41b1-8ccd-7b24f376c5ab",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
