@@ -16219,5 +16219,25 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925",
+        "locations": [
+            "Coralville, IA",
+            "Providence, RI",
+            "Columbus, OH",
+            "Norwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e3302293-a3b9-49bd-b612-ff12a3caaeab",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
