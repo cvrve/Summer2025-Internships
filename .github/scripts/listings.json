@@ -15944,5 +15944,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Information-Security-Intern_R4276",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U.S. Venture",
+        "title": "Information Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1a7f08ac-a84e-4f3d-b97f-563a3510e469",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
