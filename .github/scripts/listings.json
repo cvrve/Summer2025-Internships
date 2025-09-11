@@ -16048,5 +16048,23 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-and-Master-s-Research---Development-Intern_R01155851",
+        "locations": [
+            "Austin, TX",
+            "Woodbury, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "3M",
+        "title": "Research & Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe654373-f055-4c98-b353-d4c36fb084dc",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
