@@ -16168,5 +16168,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.keysight.com/jobs/49447?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "IT Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5aed3b51-1158-4390-850b-015502af0a8b",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
