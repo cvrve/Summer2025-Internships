@@ -16185,5 +16185,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers.medpace.com/jobs/11562?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace, Inc.",
+        "title": "Informatics Internship/Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "78ee5aa1-4397-4f40-8890-6f9e3f4e118f",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
