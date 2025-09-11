@@ -16083,5 +16083,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://careers-sig.icims.com/jobs/9382/job",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "Quantitative Trader Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f821d8de-26c2-4dc4-a217-969a9a4593d7",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
