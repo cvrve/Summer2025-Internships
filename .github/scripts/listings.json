@@ -16100,5 +16100,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025054",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Cybersecurity Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c57a0aca-ee18-4dcf-a12c-b7b78121169f",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
