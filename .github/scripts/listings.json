@@ -16117,5 +16117,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0f76a807-8b0d-43ea-9046-6b90e1ad5229",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
