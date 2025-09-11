@@ -16324,5 +16324,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Cybersecurity_R-2293268",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e209b9a-ecfd-40e2-a01c-458dc33f3cd1",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
