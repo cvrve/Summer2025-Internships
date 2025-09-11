@@ -16202,5 +16202,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113348",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grant Thornton",
+        "title": "Audit IT Assurance Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7e1b6d3a-df57-45c0-9835-58f2c193348d",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
