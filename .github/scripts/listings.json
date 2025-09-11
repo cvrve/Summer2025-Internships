@@ -16431,5 +16431,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Development-Intern---US-AutoForce_R4289",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "U.S. Venture",
+        "title": "Software Development Intern, U.S. Autoforce",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e0096799-779f-4ba9-9a6d-aff3fdcbbc5a",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
