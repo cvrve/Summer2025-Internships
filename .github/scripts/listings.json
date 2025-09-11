@@ -15961,5 +15961,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Infrastructure-Internship_J-018965-1",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Huntsman",
+        "title": "IT Infrastructure Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3514e24d-0f08-4e6c-8bbc-c014b64dcdce",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
