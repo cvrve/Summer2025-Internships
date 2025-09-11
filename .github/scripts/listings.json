@@ -16066,5 +16066,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Intern--Colorado-_1193618",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "661f5181-dddf-457b-bb9a-2e3d43eadab8",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
