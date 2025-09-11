@@ -16239,5 +16239,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://jobs.ashbyhq.com/ramp/43ac03c8-65f5-4522-ab3d-6d496ae7d925",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Applied Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b76349be-ea95-4cc9-ac21-87ec62942af8",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
