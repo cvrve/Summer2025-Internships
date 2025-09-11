@@ -16448,5 +16448,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757577476,
+        "url": "https://www.workatastartup.com/jobs/81528",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SID",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "2f07ef1c-719d-410c-b6c9-d62e3ef357f3",
+        "date_posted": 1757577476,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
