@@ -15995,5 +15995,22 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757571264,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025755",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5b0682e5-bde0-4f5f-84c3-bb8dd6523c6b",
+        "date_posted": 1757571264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
