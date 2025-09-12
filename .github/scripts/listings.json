@@ -17091,5 +17091,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671739,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7231250",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Hudl",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "6fba0cca-2d83-47db-94d6-a3a56fc6d1b9",
+        "date_posted": 1757671739,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
