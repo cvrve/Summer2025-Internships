@@ -16716,5 +16716,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658842,
+        "url": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=MARTFAMO&cws=37&rid=5499",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin's Famous Pastry Shoppe, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3bb0f9cd-76a2-4c9d-abd8-832c1fbc04e3",
+        "date_posted": 1757658842,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
