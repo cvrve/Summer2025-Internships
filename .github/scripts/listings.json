@@ -16801,5 +16801,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1757669703,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85990407296",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walt Disney Imagineering",
+        "title": "Show Programming (Figure Programming) Intern",
+        "source": "vanshb03",
+        "id": "aa280c8b-23b8-4432-9461-50eb3b8b88d8",
+        "date_posted": 1757669703,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
