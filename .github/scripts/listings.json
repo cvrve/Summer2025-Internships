@@ -17126,5 +17126,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671879,
+        "url": "https://job-boards.greenhouse.io/avalabs/jobs/5644616004",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ava Labs",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "fac55e6c-49cb-4ddd-9e5a-e7e8dd017480",
+        "date_posted": 1757671879,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
