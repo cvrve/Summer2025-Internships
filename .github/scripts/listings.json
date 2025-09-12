@@ -4735,13 +4735,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752524369,
+        "date_updated": 1757658515,
         "url": "https://jobs.lever.co/belvederetrading/5e07daf3-a6bb-40d4-8125-b56d2ea20d81",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Belvedere Trading",
         "title": "Quantitative Trading Intern",
         "source": "vanshb03",
@@ -9640,13 +9640,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755726355,
+        "date_updated": 1757658580,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Full Stack Software Engineer Intern, Team Sprout",
         "source": "vanshb03",
