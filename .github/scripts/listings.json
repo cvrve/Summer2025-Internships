@@ -16818,5 +16818,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757669765,
+        "url": "https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR39717EXTERNALENUS/Software-Engineer-Intern",
+        "locations": [
+            "Greencastle, PA",
+            "Frederick, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ad818208-9fe6-4d56-a695-8eeb39f8ddd2",
+        "date_posted": 1757669765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
