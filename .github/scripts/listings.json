@@ -16972,5 +16972,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671220,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Operations_R10743",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Security Operations Intern",
+        "source": "vanshb03",
+        "id": "253e421f-05bf-4bfe-8927-efb1c8f8eb29",
+        "date_posted": 1757671220,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
