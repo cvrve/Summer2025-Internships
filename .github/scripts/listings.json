@@ -16536,5 +16536,22 @@
         "date_posted": 1757658372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://careers.qorvo.com/job/Greensboro-Database-Administrator-Intern-NC-27409/1325292500",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qorvo",
+        "title": "Database Administrator Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f2cdcc8c-3a10-45fd-8b0c-d5d0e1782325",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
