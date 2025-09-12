@@ -17074,5 +17074,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671736,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7157822",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudl",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e6373fdb-4234-40e4-9159-877736245fe7",
+        "date_posted": 1757671736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
