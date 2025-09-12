@@ -16784,5 +16784,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658863,
+        "url": "https://www.tesla.com/careers/search/job/250807",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "3ce99a88-1ca2-4f7b-875b-3e46530da636",
+        "date_posted": 1757658863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
