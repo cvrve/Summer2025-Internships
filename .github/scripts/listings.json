@@ -16921,5 +16921,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671203,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Software-Engineering_R10636",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "35e8fa20-bec6-4e84-a07f-9a68b92abbb3",
+        "date_posted": 1757671203,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
