@@ -16570,5 +16570,23 @@
         "date_posted": 1757658372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R39711",
+        "locations": [
+            "Frederick, MD",
+            "Hagerstown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5cc1af2b-546e-42af-ae7a-24ad7c1d384e",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
