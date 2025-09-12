@@ -16588,5 +16588,25 @@
         "date_posted": 1757658372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658926,
+        "url": "https://jobs.citizensbank.com/job/johnston/network-engineer-internship-summer-2026/288/85989791872",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Network Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "76188c3a-3bd6-4f74-873c-c8f73fac041f",
+        "date_posted": 1757658926,
+        "company_url": "",
+        "is_visible": true
     }
 ]
