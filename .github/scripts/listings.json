@@ -16989,5 +16989,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671229,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Machine-Learning-Engineer_R10688",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "b3c27c28-cb61-49b8-9cf3-16e1c50555fe",
+        "date_posted": 1757671229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
