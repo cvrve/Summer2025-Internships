@@ -16904,5 +16904,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757670253,
+        "url": "https://careers-rovisys.icims.com/jobs/1840/job",
+        "locations": [
+            "Holly Springs, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "RoviSys",
+        "title": "Software Engineer Co-op ",
+        "source": "vanshb03",
+        "id": "e4fd4308-ace7-4308-893e-579e0d846217",
+        "date_posted": 1757670253,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
