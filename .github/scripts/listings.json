@@ -16767,5 +16767,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658858,
+        "url": "https://careers.zebra.com/careers/job/343627917245",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Web Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "1bb61600-e741-4a4f-85a5-058c60d6f4b8",
+        "date_posted": 1757658858,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
