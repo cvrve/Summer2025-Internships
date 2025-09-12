@@ -16836,5 +16836,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757669880,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505499EXTERNALENGLOBAL/Embedded-Software-Developer-Intern",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Embedded Software Developer Intern",
+        "source": "vanshb03",
+        "id": "34bb7f5d-9035-4fbe-9f19-903cb9e05cbf",
+        "date_posted": 1757669880,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
