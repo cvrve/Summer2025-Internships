@@ -16733,5 +16733,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658847,
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2026_33043-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CME Group",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "18661999-441a-4524-bc22-c3cb34d34958",
+        "date_posted": 1757658847,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
