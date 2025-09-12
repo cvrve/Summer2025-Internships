@@ -17040,5 +17040,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671659,
+        "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rilla",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d7056417-0bea-4e3d-832c-d967ada9d7b1",
+        "date_posted": 1757671659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
