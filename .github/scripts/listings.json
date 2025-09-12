@@ -16750,5 +16750,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658853,
+        "url": "https://careers.zebra.com/careers/job/343627917244",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "4c8cdd60-e849-402b-8bcb-e86a33e8c4ff",
+        "date_posted": 1757658853,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
