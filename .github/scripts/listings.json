@@ -16648,5 +16648,22 @@
         "date_posted": 1757658968,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658981,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=802081#jobDetails=802081_5014",
+        "locations": [
+            "Bellevue, NE"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "34b1e904-1ad1-4758-b6b6-3288919ed326",
+        "date_posted": 1757658981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
