@@ -16870,5 +16870,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757670162,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505339EXTERNALENGLOBAL/Software-Test-Engineer-Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "eff3b322-e633-4f35-962e-1968126876f5",
+        "date_posted": 1757670162,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
