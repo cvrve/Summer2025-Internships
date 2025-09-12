@@ -16628,5 +16628,25 @@
         "date_posted": 1757658949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658968,
+        "url": "https://jobs.citizensbank.com/job/johnston/software-engineer-internship-summer-2026/288/85989791856",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "373f4aeb-13f8-4c03-8994-8c13d0139fbb",
+        "date_posted": 1757658968,
+        "company_url": "",
+        "is_visible": true
     }
 ]
