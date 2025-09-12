@@ -16665,5 +16665,22 @@
         "date_posted": 1757658981,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658746,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/956221/software-engineer-intern-2026",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge Investment Management",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "04d060d3-fed0-4a12-9fea-6ca3a0b71f23",
+        "date_posted": 1757658746,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
