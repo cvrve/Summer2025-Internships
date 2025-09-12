@@ -16955,5 +16955,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757671215,
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Engineering_R10742",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "b178eb61-442b-4e21-b5e5-6abb35e2d509",
+        "date_posted": 1757671215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
