@@ -17023,5 +17023,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757671321,
+        "url": "https://dell.wd1.myworkdayjobs.com/external/job/Round-Rock-Texas-United-States/AI-Solutions-Intern_R277648-1",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell Technologies",
+        "title": "AI Solutions Intern",
+        "source": "vanshb03",
+        "id": "0a3311d9-e55b-40fe-b502-73226632a8fa",
+        "date_posted": 1757671321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
