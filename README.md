@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Oshkosh | Software Engineer Intern | Greencastle, PA</br>Frederick, MD | <a href="https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR39717EXTERNALENUS/Software-Engineer-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Zebra | Web Application Engineer Intern | Holtsville, NY | <a href="https://careers.zebra.com/careers/job/343627917245?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | ↳ | Firmware Engineer Intern | Holtsville, NY | <a href="https://careers.zebra.com/careers/job/343627917244?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Wind River | Embedded Software Engineer Intern | Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA | <a href="https://jobs.jobvite.com/windriver/job/ooShxfwO?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
