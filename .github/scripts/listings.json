@@ -16608,5 +16608,25 @@
         "date_posted": 1757658926,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658949,
+        "url": "https://jobs.citizensbank.com/job/johnston/cloud-engineer-internship-summer-2026/288/85989791792",
+        "locations": [
+            "Johnston, RI",
+            "Westwood, MA",
+            "Iselin, NJ",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Citizens Financial Group",
+        "title": "Cloud Engineer Intern",
+        "season": "Summer",
+        "source": "IqtedarU",
+        "id": "a91b0d45-d436-488b-991f-fe3c67e43405",
+        "date_posted": 1757658949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
