@@ -16682,5 +16682,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757658750,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808549401",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "R&D Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cbfabc7e-302d-43ac-aad0-b07b415fce1a",
+        "date_posted": 1757658750,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
