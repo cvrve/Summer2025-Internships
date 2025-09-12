@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Workiva | Product & Application Security Intern 🛂 | Remote | <a href="https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Spring-2026-Intern---Product---Application-Security_R10744-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Walt Disney Imagineering | Show Programming (Figure Programming) Intern | Glendale, CA | <a href="https://www.disneycareers.com/en/job/-/-/391/85990407296?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Tesla | Software Integration Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/250807?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Snowflake | Software Engineer Intern, Infrastructure Automation | Menlo Park, CA</br>Bellevue, WA | <a href="https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
