@@ -16553,5 +16553,22 @@
         "date_posted": 1757658372,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757658372,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/ML-AI-Engineer--Intern_JR107344",
+        "locations": [
+            "Holland, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "ML/AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "17e87bb5-5ca2-416f-85f9-8cf41afe6827",
+        "date_posted": 1757658372,
+        "company_url": "",
+        "is_visible": true
     }
 ]
