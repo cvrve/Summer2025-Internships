@@ -5010,13 +5010,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752995288,
+        "date_updated": 1757786034,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/302269",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oracle Health",
         "title": "Software Engineer Intern",
         "season": "Fall",
