@@ -17625,5 +17625,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757734245,
+        "url": "https://careers.moodys.com/moody-s-ratings-technology-summer-internship-data-engineering/job/10710",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "895ac178-d168-483e-be06-9ec9a30e350d",
+        "date_posted": 1757734245,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
