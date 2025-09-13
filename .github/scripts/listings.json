@@ -17847,5 +17847,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743780,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Applied AI/ML",
+        "source": "vanshb03",
+        "id": "3dbdb04d-068e-4762-b1e4-7ed1d6e5ba56",
+        "date_posted": 1757743780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
