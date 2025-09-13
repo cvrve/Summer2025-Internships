@@ -17437,5 +17437,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733985,
+        "url": "https://jobs.jobvite.com/careers/altamiracorps/job/o0kUxfwv",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Altamira Technologies Corp.",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "8a332b7c-e2db-4205-a4ad-aca7435708f4",
+        "date_posted": 1757733985,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
