@@ -17608,5 +17608,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757734212,
+        "url": "https://jobs.jobvite.com/careers/inogen/job/oFzUxfwp",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inogen",
+        "title": "Embedded Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "8a926acb-e992-4caa-9272-c2cb696359fa",
+        "date_posted": 1757734212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
