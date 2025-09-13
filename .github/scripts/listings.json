@@ -17745,5 +17745,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733707,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Business Analytics Intern",
+        "source": "vanshb03",
+        "id": "7071e559-d08f-4504-8713-1c6775cb9534",
+        "date_posted": 1757733707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
