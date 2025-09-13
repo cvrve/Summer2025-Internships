@@ -17762,5 +17762,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743584,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Systems",
+        "source": "vanshb03",
+        "id": "c24b00d3-17fc-4055-a80c-50b5d8e1f90d",
+        "date_posted": 1757743584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
