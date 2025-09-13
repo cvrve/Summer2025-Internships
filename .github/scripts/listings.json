@@ -17710,5 +17710,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733691,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246131",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Reference Data Operations Intern",
+        "source": "vanshb03",
+        "id": "2fce5d77-6790-41fd-acd6-5f1c6245fdce",
+        "date_posted": 1757733691,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
