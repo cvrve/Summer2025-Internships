@@ -17471,5 +17471,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1757734040,
+        "url": "https://jobs.aligntech.com/en/postings/748d529c-e3ab-4f4b-a242-3cd8ae84e8b0",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align Technology",
+        "title": "Software Engineering Intern, 3D Product Research and Development",
+        "source": "vanshb03",
+        "id": "815a3a4e-a0d2-43c5-905c-53c759ee0ee8",
+        "date_posted": 1757734040,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
