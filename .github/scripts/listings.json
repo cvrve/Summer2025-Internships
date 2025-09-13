@@ -17642,5 +17642,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733587,
+        "url": "https://www.metacareers.com/jobs/785799000528657/",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Offensive Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "e59544a1-6b41-409b-b2db-856935312eb4",
+        "date_posted": 1757733587,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
