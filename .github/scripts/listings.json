@@ -17779,5 +17779,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743659,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Security",
+        "source": "vanshb03",
+        "id": "95641ddb-b120-4782-8f61-35070718496b",
+        "date_posted": 1757743659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
