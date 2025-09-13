@@ -2353,14 +2353,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173708,
+        "date_updated": 1757799072,
         "url": "https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Software Engineer Intern, Backend/Full-stack",
         "season": "Fall",
