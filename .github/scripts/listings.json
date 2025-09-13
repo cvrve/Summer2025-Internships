@@ -7907,13 +7907,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754748064,
+        "date_updated": 1757742218,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MIcrosoft",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -8584,13 +8584,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755162430,
+        "date_updated": 1757742220,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1860960/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Fullstack",
         "source": "vanshb03",
@@ -11433,13 +11433,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756241845,
+        "date_updated": 1757742220,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Cloud Network Engineer Intern",
         "season": "Summer",
@@ -11521,13 +11521,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341058,
+        "date_updated": 1757742219,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Data Engineer Intern",
         "season": "Summer",
@@ -11619,13 +11619,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341243,
+        "date_updated": 1757742219,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Quality Engineer Intern",
         "season": "Summer",
