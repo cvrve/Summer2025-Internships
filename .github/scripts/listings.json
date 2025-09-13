@@ -17693,5 +17693,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733680,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Market Risk Intern",
+        "source": "vanshb03",
+        "id": "9df42694-a08d-443f-a171-ad9942d2c5e4",
+        "date_posted": 1757733680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
