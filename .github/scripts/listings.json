@@ -17214,5 +17214,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733380,
+        "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0016999-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AB",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "62216a8f-e0b6-4827-8965-753ac5975235",
+        "date_posted": 1757733380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
