@@ -17231,5 +17231,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733386,
+        "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0017001-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AB",
+        "title": "Infrastructure Engineering Intern",
+        "source": "vanshb03",
+        "id": "b36c3d2b-ab4b-4dc1-b3c2-53174c96331a",
+        "date_posted": 1757733386,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
