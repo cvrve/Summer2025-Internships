@@ -17573,5 +17573,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757734158,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Engineering-Intern--Sales-Technology-----Summer-2026_R2515210",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medline",
+        "title": "IT Software Engineering Intern, Sales Technology",
+        "source": "vanshb03",
+        "id": "463113f9-0220-41bf-b38f-d661a64e061b",
+        "date_posted": 1757734158,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
