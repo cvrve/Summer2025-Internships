@@ -17676,5 +17676,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733671,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7248075",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "25c4443f-8f15-49b0-8cb5-750e0ceccce3",
+        "date_posted": 1757733671,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
