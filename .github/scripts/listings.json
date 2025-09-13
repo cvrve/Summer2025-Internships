@@ -17284,5 +17284,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733856,
+        "url": "https://careers.garmin.com/jobs/17150/job",
+        "locations": [
+            "Middlebury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Aviation Web Development",
+        "source": "vanshb03",
+        "id": "71edc619-d294-4d84-9446-a627f4612fe6",
+        "date_posted": 1757733856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
