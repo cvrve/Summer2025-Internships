@@ -17420,5 +17420,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733982,
+        "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-6394-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNA",
+        "title": "Technology Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "be50fd26-f084-4290-a7f4-3195bd5ba83b",
+        "date_posted": 1757733982,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
