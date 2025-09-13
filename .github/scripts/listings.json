@@ -4291,13 +4291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752164328,
+        "date_updated": 1757786048,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Product Manager Intern",
         "season": "Fall",
