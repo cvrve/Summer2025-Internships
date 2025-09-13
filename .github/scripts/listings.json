@@ -17796,5 +17796,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743690,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1877399/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Mountain-View",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "dfa33e0a-f53d-4e49-99cb-5156b8320d0c",
+        "date_posted": 1757743690,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
