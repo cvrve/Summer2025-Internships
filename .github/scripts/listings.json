@@ -17335,5 +17335,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733920,
+        "url": "https://careers.staples.com/en/job/-/-/44412/86032290864",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineering Intern, SDS e-Commerce",
+        "source": "vanshb03",
+        "id": "f362ebe2-df22-4ff0-96a4-59a1a796f5d5",
+        "date_posted": 1757733920,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
