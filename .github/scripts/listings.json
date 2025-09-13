@@ -17881,5 +17881,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743787,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Applied AI/ML",
+        "source": "vanshb03",
+        "id": "5d86d134-5ebd-4e6e-8025-8b21ec557272",
+        "date_posted": 1757743787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
