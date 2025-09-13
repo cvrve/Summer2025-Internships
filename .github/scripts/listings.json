@@ -17195,5 +17195,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733377,
+        "url": "https://activision.wd1.myworkdayjobs.com/external/job/Playa-Vista---Activision---Treyarch/XMLNAME-2026-US-Internships---Computer-Graphics_R025915",
+        "locations": [
+            "Playa Vista, CA",
+            "Redmond, WA",
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Computer Graphics Intern",
+        "source": "vanshb03",
+        "id": "18eaff01-62c3-4243-9b93-5a9febe67aa9",
+        "date_posted": 1757733377,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
