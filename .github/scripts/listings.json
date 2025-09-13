@@ -17454,5 +17454,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733987,
+        "url": "https://career4.successfactors.com/careers?career_ns=job_listing&company=colgate&selected_lang=nl-NL&career_job_req_id=169295",
+        "locations": [
+            "Piscataway, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Colgate-Palmolive",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "a2d054d1-b2ed-45cc-b1ab-e49e5f38130c",
+        "date_posted": 1757733987,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
