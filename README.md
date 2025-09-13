@@ -335,8 +335,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Database Technologies 🛂 | Redwood Shores, CA | <a href="https://careers.oracle.com/en/sites/jobsearch/job/306078/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Software Engineer Intern 🛂 | Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305901?utm_medium=jobboard&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Newrez LLC | Software Engineering Intern | Coppell, TX | <a href="https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| Microsoft | Software Quality Engineer Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| ↳ | Data Engineer Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Kodak | Web Developer Intern | United States | <a href="https://careers.kodak.com/job/USA-Web-Developer-Intern-CA/1320436300/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Kingland | Advanced Software Engineering Intern | Ames, IA</br>Clear Lake, IA</br>Fort Myers, FL | <a href="https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Jane Street | Cybersecurity Analyst Intern | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/8069279002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
@@ -369,7 +367,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PepsiCo | Technology Software Development & Engineering Intern 🛂 | Plano, TX</br>Purchase, NY | <a href="https://www.pepsicojobs.com/main/jobs/392034?lang=en-us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Nuro | Systems Engineering Intern, Scenario Taxonomy | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=7169069&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | ↳ | Software Engineering Intern, Mapping & Localization | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=6562194&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
-| Microsoft | Cloud Network Engineer Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Hilton | Technology Intern | McLean, VA</br>Memphis, TN</br>Dallas, TX | <a href="https://jobs.hilton.com/us/en/job/COR015AL/2026-Corporate-Summer-Internship-Technology-Cyber-Engineering-Product-Management?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | ArcBest Technologies | Software Engineer Intern, ArcBest Technologies 🛂 | Fort Smith, AR | <a href="https://careers.arcb.com/careersmarketplace/JobDetail?id=26993&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | Abridge | Full Stack Engineering Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
@@ -458,7 +455,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | <details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details> | <a href="https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Morgan Stanley | Firmwide AI Strategy & Solutions Analyst Intern | New York, NY | <a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | Microsoft | Software Engineer Intern, Systems | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
-| ↳ | Software Engineer Intern, Fullstack | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1860960/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Software Engineer Intern, Frontend | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Software Engineer Intern, AI/ML | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1860979/Software-Engineer%3A-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond?amp;utm_campaign=Copy-job-share&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | ↳ | Software Engineer Intern, Security | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
@@ -478,7 +474,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Neuralink | Software Engineer Intern | Austin, TX</br>Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=f6d5520e3us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Microsoft | Data Science Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
-| ↳ | Product Management Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Delta Air Lines, Inc. | IT Intern, Software Engineering | Atlanta, GA | <a href="https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | Copart | Data & AI QA Intern | Dallas, TX | <a href="https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Data---AI-QA-Intern_JR103915?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 | ByteDance | Site Reliability Engineer Intern, Data Infrastructure | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7535646140345272584/detail?spread=A3T3U6W&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
@@ -705,11 +700,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Computershare | Junior Developer Intern | Saint Paul, MN | 🔒 | Aug 30 |
 | Charles Schwab | Software Engineering Intern | <details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details> | 🔒 | Aug 30 |
 | Mantech | CNO Developer Intern 🇺🇸 | San Antonio, TX | 🔒 | Aug 28 |
+| Microsoft | Data Engineer Intern | Redmond, WA | 🔒 | Aug 27 |
+| ↳ | Software Quality Engineer Intern | Redmond, WA | 🔒 | Aug 27 |
 | Geico | TDP Software Intern | <details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>Renton, WA</br>North Liberty, IA</br>Katy, TX</br>Marlton, NJ</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details> | 🔒 | Aug 27 |
 | Dell | Software Engineer Intern | Round Rock, TX | 🔒 | Aug 27 |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | 🔒 | Aug 27 |
 | The Hanover | Cloud Engineer Intern | Worcester, MA | 🔒 | Aug 26 |
 | Nuro | Software Engineer Intern, Performance | Mountain View, CA | 🔒 | Aug 26 |
+| Microsoft | Cloud Network Engineer Intern | Redmond, WA | 🔒 | Aug 26 |
 | Fidelity | Undergraduate Intern, Technology 🛂 | United States | 🔒 | Aug 26 |
 | Prudential Financial | Global Technology & Operations, Internship Program 🛂 | Newark, NJ | 🔒 | Aug 25 |
 | ↳ | Technology Internship Program 🛂 | Newark, NJ</br>Tampa, FL | 🔒 | Aug 25 |
@@ -727,6 +725,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CCC Intelligent Solutions Inc. | Software Engineer Intern | Chicago, IL | 🔒 | Aug 15 |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | 🔒 | Aug 14 |
 | Northrop Grumman | 2025 Software Engineer Intern | Rome, NY | 🔒 | Aug 14 |
+| Microsoft | Software Engineer Intern, Fullstack | Redmond, WA | 🔒 | Aug 14 |
 | Detroit Pistons | Software Development Intern | Detroit, MI | 🔒 | Aug 14 |
 | Cisco | Software Engineer Intern | San Jose, CA | 🔒 | Aug 14 |
 | Sonic Healthcare USA, Inc | Software Development Intern, Cache | Dallas, TX | 🔒 | Aug 13 |
@@ -734,6 +733,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Radiant | Software Engineering Intern 🛂 | El Segundo, CA | 🔒 | Aug 12 |
 | Activision Blizzard | Graphics Engineering Intern, Overwatch | Irvine, CA | 🔒 | Aug 12 |
 | Wurl LLC. | Data Engineer Intern | Remote</br>United States | 🔒 | Aug 09 |
+| MIcrosoft | Product Management Intern | Redmond, WA | 🔒 | Aug 09 |
 | EPIC | Software Engineer Intern | Rochester, NY | 🔒 | Aug 09 |
 | Metropolitan Transportation Authority | Software Development Intern, Emerging Talent | New York, NY | 🔒 | Aug 08 |
 | Dell | Software Engineering Intern, ISG | Austin/Round Rock, TX</br>Hopkinton, MA | 🔒 | Aug 08 |
