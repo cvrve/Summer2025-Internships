@@ -17301,5 +17301,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733905,
+        "url": "https://careers.moodys.com/moody-s-ratings-technology-summer-internship-application-development/job/10620",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Ratings Technology Intern, Application Development",
+        "source": "vanshb03",
+        "id": "72437a3b-c47d-4791-95bc-ac20a295edc6",
+        "date_posted": 1757733905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
