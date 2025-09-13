@@ -17488,5 +17488,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757734057,
+        "url": "https://jobs.aligntech.com/en/postings/989b0ae6-69a6-41df-a1e9-40cbb4da5cff",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Align Technology",
+        "title": "C++ Intern",
+        "source": "vanshb03",
+        "id": "6dba86db-2f7a-4795-867e-5227a26cf9ae",
+        "date_posted": 1757734057,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
