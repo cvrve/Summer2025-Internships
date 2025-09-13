@@ -17830,5 +17830,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757743696,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Frontend",
+        "source": "vanshb03",
+        "id": "a48a0c37-2ed4-427b-8615-430247d0b0a8",
+        "date_posted": 1757743696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
