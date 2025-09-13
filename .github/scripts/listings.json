@@ -17265,5 +17265,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733439,
+        "url": "https://www.mongodb.com/careers/jobs/7239454",
+        "locations": [
+            "Austin, TX",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "92b23934-1170-464f-887b-495b85ad0be8",
+        "date_posted": 1757733439,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
