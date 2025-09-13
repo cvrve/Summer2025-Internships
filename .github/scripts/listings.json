@@ -17352,5 +17352,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733923,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/86043539312",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9ca39c9e-30c5-483a-ad3f-46faa695db05",
+        "date_posted": 1757733923,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
