@@ -4325,13 +4325,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1752164767,
+        "date_updated": 1757785867,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Splunk",
         "title": "Site Reliability Engineer Intern",
         "season": "Fall",
