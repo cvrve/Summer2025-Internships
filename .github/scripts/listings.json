@@ -17369,5 +17369,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733937,
+        "url": "https://uscareers-lennox.icims.com/jobs/50063/job",
+        "locations": [
+            "Carrollton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lennox",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "94dde935-04e5-4a48-81d7-210ddb344132",
+        "date_posted": 1757733937,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
