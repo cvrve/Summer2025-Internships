@@ -17177,5 +17177,23 @@
         "date_posted": 1757728361,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757733373,
+        "url": "https://activision.wd1.myworkdayjobs.com/blizzard_external_careers/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Cyber-Security_R025992-3",
+        "locations": [
+            "Sherman Oaks, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "5dcfe13b-b430-4594-8a31-aedca3243979",
+        "date_posted": 1757733373,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
