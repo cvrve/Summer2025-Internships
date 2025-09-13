@@ -17160,5 +17160,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757728361,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=824977#jobDetails=824977_5014",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "22e7c5ed-a3c8-4068-8a37-f3a18379dec6",
+        "date_posted": 1757728361,
+        "company_url": "",
+        "is_visible": true
     }
 ]
