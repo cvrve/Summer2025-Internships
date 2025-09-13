@@ -17318,5 +17318,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733912,
+        "url": "https://itron.wd5.myworkdayjobs.com/en-US/Itron/job/United-States-of-America-North-Carolina-Raleigh/Intern---Firmware---Hardware-Security-Engineer_JR101641-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Itron",
+        "title": "Firmware / Hardware Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "931583f3-ae0f-409b-a246-a9704065c328",
+        "date_posted": 1757733912,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
