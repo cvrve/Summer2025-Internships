@@ -17248,5 +17248,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733393,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/millerknoll/job/MI---Zeeland/Information-Security-Intern_JR107379",
+        "locations": [
+            "Zeeland, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "66cffd6c-8ac3-43e6-996b-5cc66a609848",
+        "date_posted": 1757733393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
