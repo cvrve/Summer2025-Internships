@@ -1,12 +1,12 @@
 [
     {
-        "date_updated": 1744270686,
+        "date_updated": 1757786110,
         "url": "https://www.tesla.com/careers/search/job/241053",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Controls Engineer Intern, Optimus - Fall",
         "season": "Fall",
