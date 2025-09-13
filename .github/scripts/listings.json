@@ -17386,5 +17386,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733968,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=235750&clientkey=43D75E2DF3DFB76BCB85A922B26DE5FA",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solarity",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9c9e0b17-fe0e-4eed-9b12-23087677782f",
+        "date_posted": 1757733968,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
