@@ -13831,13 +13831,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756866580,
+        "date_updated": 1757728350,
         "url": "https://careers.cai.io/us/en/job/CAICAIUSR6094EXTERNALENUS/Software-Developer-Intern",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CAI",
         "title": "Software Developer Intern",
         "source": "vanshb03",

@@ -211,7 +211,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technical Documentation Intern, Undergraduate 🛂 | Natick, MA | <a href="https://www.mathworks.com/company/jobs/opportunities/28174-technical-documentation-intern-undergraduate?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Intel | Software Engineer Intern 🛂 | <details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details> | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | DICK'S Sporting Goods | Software Engineer Intern, Corporate | Pittsburgh, PA | <a href="https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2026-Corporate-Internship_202508673-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
-| CAI | Software Developer Intern 🛂 | Remote | <a href="https://careers.cai.io/us/en/job/CAICAIUSR6094EXTERNALENUS/Software-Developer-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | BAE Systems | Software Engineering Intern | San Diego, CA | <a href="https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Atlassian | Data Science Intern 🛂 | Seattle, WA</br>Remote | <a href="https://www.atlassian.com/company/careers/details/20962?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Data Engineer Intern 🛂 | Seattle, WA</br>Remote | <a href="https://www.atlassian.com/company/careers/details/20963?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -669,6 +668,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Collins Aerospace | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
 | Bumble Inc. | Software Engineering Intern | Austin, TX | 🔒 | Sep 07 |
 | Mastercard | Software Engineer Intern 🛂 | O'Fallon, MO</br>Atlanta, GA</br>Arlington, VA | 🔒 | Sep 02 |
+| CAI | Software Developer Intern 🛂 | Remote | 🔒 | Sep 02 |
 | Computershare | Junior Developer Intern | Saint Paul, MN | 🔒 | Aug 30 |
 | Charles Schwab | Software Engineering Intern | <details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details> | 🔒 | Aug 30 |
 | Mantech | CNO Developer Intern 🇺🇸 | San Antonio, TX | 🔒 | Aug 28 |
