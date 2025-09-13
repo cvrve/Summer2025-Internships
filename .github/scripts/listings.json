@@ -17403,5 +17403,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733972,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007126",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9247bd0e-04d9-417c-ab8b-5d073f300a07",
+        "date_posted": 1757733972,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
