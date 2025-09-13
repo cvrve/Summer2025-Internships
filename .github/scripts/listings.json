@@ -17728,5 +17728,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757733695,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7245680",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "DMFI Summer Analyst Intern",
+        "source": "vanshb03",
+        "id": "ff588a3c-c350-40ff-9d4f-a7f8f1841dff",
+        "date_posted": 1757733695,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
