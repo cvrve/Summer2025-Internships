@@ -17522,5 +17522,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757734147,
+        "url": "https://jobs.jobvite.com/careers/tylertech/job/oreVxfwR",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tyler Technologies",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "41156e70-79d2-43b7-94b5-48a3de2bdf96",
+        "date_posted": 1757734147,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
