@@ -17898,5 +17898,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757797601,
+        "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allium Labs",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "leechenghan",
+        "id": "b5b7ae40-d8c1-4855-b881-98f352c79cfc",
+        "date_posted": 1757797601,
+        "company_url": "",
+        "is_visible": true
     }
 ]
