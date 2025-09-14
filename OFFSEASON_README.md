@@ -195,7 +195,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Performance Modeling Engineer Intern, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242661?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
-| Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242174?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | Capital One | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
@@ -279,6 +278,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Comcast Devx Portfolio Intern, Co-Op | West Chester, PA | 🔒 | May 08 |
 | Nimble | Software Engineer Intern - Fall | Redwood City, CA | 🔒 | May 06 |
 | Battelle | Cyber Trust & Analytics Intern - Fall | Columbus, OH | 🔒 | May 06 |
+| Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | 🔒 | Apr 30 |
 | NVIDIA | Software Engineering Intern - GenAI | Santa Clara, CA | 🔒 | Apr 29 |
 | Brunswick | Computer Graphics Software Developer Intern | Urbana, IL | 🔒 | Apr 29 |
 | Tesla | Software Engineering Intern, Applications Engineering | Fremont, CA | 🔒 | Apr 28 |

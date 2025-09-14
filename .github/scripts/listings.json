@@ -602,14 +602,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746053933,
+        "date_updated": 1757825786,
         "url": "https://www.tesla.com/careers/search/job/242174",
         "locations": [
             "Palo Alto, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack Software Engineer Intern, Machine Learning Platform",
         "source": "vanshb03",
