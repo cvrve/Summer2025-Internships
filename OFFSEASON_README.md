@@ -196,8 +196,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242174?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
-| Tesla | Software Engineer Intern, Thermal & Chassis Analytics | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242048?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
-| ↳ | Data Analytics Intern, Supply Chain | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/240190?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
+| Tesla | Data Analytics Intern, Supply Chain | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/240190?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | ↳ | Software Engineering Intern, Applications Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242108?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 28 |
 | Tesla | Fullstack C++ Engineer, Vehicle User Interface Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/241088?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Android Engineer, Mobile Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
@@ -288,6 +287,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Battelle | Cyber Trust & Analytics Intern - Fall | Columbus, OH | 🔒 | May 06 |
 | NVIDIA | Software Engineering Intern - GenAI | Santa Clara, CA | 🔒 | Apr 29 |
 | Brunswick | Computer Graphics Software Developer Intern | Urbana, IL | 🔒 | Apr 29 |
+| Tesla | Software Engineer Intern, Thermal & Chassis Analytics | Fremont, CA | 🔒 | Apr 28 |
 | TD Bank | Active Trader Segment Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 | ↳ | Mobile Software Engineer Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
 | ↳ | Software Engineer Intern/Co-op | Toronto, Canada | 🔒 | Apr 28 |
