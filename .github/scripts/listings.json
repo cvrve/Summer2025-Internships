@@ -17955,5 +17955,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757826192,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-mobile-ios-android-intern/27595/86084161264",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Software Engineer Intern, Mobile(iOS/Android)",
+        "source": "vanshb03",
+        "id": "1477676b-faa7-413d-a73b-549859a848c1",
+        "date_posted": 1757826192,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
