@@ -534,14 +534,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745882292,
+        "date_updated": 1757825400,
         "url": "https://www.tesla.com/careers/search/job/240190",
         "locations": [
             "Fremont, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Data Analytics Intern, Supply Chain",
         "source": "vanshb03",
