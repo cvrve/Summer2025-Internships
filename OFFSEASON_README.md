@@ -196,7 +196,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Tesla | Fullstack Software Engineer Intern, Machine Learning Platform | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242174?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
-| Tesla | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240953?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | Capital One | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
@@ -306,7 +305,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern, GPU Communications and Networking - Fall | Santa Clara, CA | 🔒 | Apr 25 |
 | Tesla | Android Engineer, Mobile Software Intern - Fall | Palo Alto, CA | 🔒 | Apr 15 |
 | ↳ | Fullstack C++ Engineer, Vehicle User Interface Intern - Fall | Palo Alto, CA | 🔒 | Apr 15 |
-| Tesla | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | 🔒 | Apr 10 |
+| Tesla | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | 🔒 | Apr 10 |
+| ↳ | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | 🔒 | Apr 10 |
 | ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | 🔒 | Apr 10 |
 | AMD | Firmware Engineering Intern/ Co-Op - Masters - Fall | Austin, TX | 🔒 | Apr 10 |
 | ↳ | Software Engineering Intern/Co-op - Masters - Fall | Austin, TX | 🔒 | Apr 10 |
