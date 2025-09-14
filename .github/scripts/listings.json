@@ -134,13 +134,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744736754,
+        "date_updated": 1757825633,
         "url": "https://www.tesla.com/careers/search/job/240980",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Android Engineer, Mobile Software Intern - Fall",
         "season": "Fall",
