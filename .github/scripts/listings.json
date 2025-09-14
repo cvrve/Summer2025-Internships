@@ -17935,5 +17935,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757826184,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-front-end-engineering-intern/27595/86084161248",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Front End Engineering Intern",
+        "source": "vanshb03",
+        "id": "0f8751b7-5f15-4d53-a5d1-d7907dcd7031",
+        "date_posted": 1757826184,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
