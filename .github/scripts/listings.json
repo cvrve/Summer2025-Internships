@@ -18035,5 +18035,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757827967,
+        "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+        "locations": [
+            "Redmond, WA",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Undergraduate Research Intern, Computing",
+        "source": "vanshb03",
+        "id": "8e7a91a7-7f63-4c13-ac02-c4c3b6670de6",
+        "date_posted": 1757827967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
