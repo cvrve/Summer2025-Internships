@@ -17915,5 +17915,25 @@
         "date_posted": 1757797601,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757826167,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-cyber-security-intern/27595/86084154656",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "595775f5-d827-49d0-9ace-1765490ed617",
+        "date_posted": 1757826167,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
