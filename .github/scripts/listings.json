@@ -17995,5 +17995,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757826208,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-science-intern/27595/86084163248",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "AI Science Intern",
+        "source": "vanshb03",
+        "id": "366dc475-8bb4-4e53-9d67-e7048c9f1c92",
+        "date_posted": 1757826208,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
