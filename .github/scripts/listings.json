@@ -18015,5 +18015,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757826216,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-backend-engineering-intern/27595/86084163280",
+        "locations": [
+            "Mountain View, CA",
+            "San Diego, CA",
+            "New York, NY",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuit",
+        "title": "Backend Engineering Intern",
+        "source": "vanshb03",
+        "id": "9d319acd-e5fc-429e-aa8b-e9de5975603f",
+        "date_posted": 1757826216,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
