@@ -18229,5 +18229,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962927,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Unisys",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2c0143e3-b350-456a-b889-19c641abfe7f",
+        "date_posted": 1757962927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
