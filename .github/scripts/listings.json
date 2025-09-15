@@ -18418,5 +18418,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963630,
+        "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Software-Engineering-Intern_JR8327",
+        "locations": [
+            "Austin, TX",
+            "Portland, OR",
+            "Hoffman Estates, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "CDK Global",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c7fc432e-7586-483b-8b35-2f0268700f35",
+        "date_posted": 1757963630,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
