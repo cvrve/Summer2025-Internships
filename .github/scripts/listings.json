@@ -18125,5 +18125,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962902,
+        "url": "https://seagatecareers.com/job/Shakopee-Firmware-EngineerResearch-Intern-Summer-2026-MN/1325865400/",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Engineer Intern, Research",
+        "source": "vanshb03",
+        "id": "bdcc4263-ee72-426f-a146-7ec020b2466c",
+        "date_posted": 1757962902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
