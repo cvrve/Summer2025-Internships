@@ -18070,5 +18070,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962737,
+        "url": "https://jobs.statefarm.com/main/jobs/41746?lang=en-us",
+        "locations": [
+            "Bloomington, IL",
+            "Dunwoody, GA",
+            "Richardson, TX",
+            "Tempe, AZ",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "State Farm",
+        "title": "Engineer Intern, Enterprise Technology",
+        "source": "vanshb03",
+        "id": "ba07561f-ad5f-4483-9865-07f9a50cb04c",
+        "date_posted": 1757962737,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
