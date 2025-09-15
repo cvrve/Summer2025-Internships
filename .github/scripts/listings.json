@@ -18053,5 +18053,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962716,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "Full-stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0affed2c-5566-472f-9f55-2ed00e1fbf21",
+        "date_posted": 1757962716,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
