@@ -18297,5 +18297,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962712,
+        "url": "https://careers.duolingo.com/jobs/8155655002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f9fa1276-9da2-4a15-8c77-b3adb331f311",
+        "date_posted": 1757962712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
