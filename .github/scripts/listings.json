@@ -18159,5 +18159,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962909,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202566778/software-engineering-intern-summer-2026-draper-ut/",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Automotive",
+        "title": "Software Engineering Intern, Draper",
+        "source": "vanshb03",
+        "id": "5d278eed-8dca-4ebd-a930-f736566ab666",
+        "date_posted": 1757962909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
