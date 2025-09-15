@@ -18246,5 +18246,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962555,
+        "url": "https://www.metacareers.com/jobs/1471056164046415",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Software Engineer Intern, Co-op",
+        "source": "vanshb03",
+        "id": "e08b438c-bca2-46e9-82f9-29e54e76cafd",
+        "date_posted": 1757962555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
