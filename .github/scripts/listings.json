@@ -18195,5 +18195,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962917,
+        "url": "https://careers.dexcom.com/careers/job/37990370",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dexcom",
+        "title": "SW Development Engineering Intern",
+        "source": "vanshb03",
+        "id": "2f515d19-3936-4c64-be45-47c8439c14a8",
+        "date_posted": 1757962917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
