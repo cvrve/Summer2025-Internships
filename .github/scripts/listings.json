@@ -18091,5 +18091,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962864,
+        "url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Athene",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "68dceb3c-ffff-4777-9ffc-b6b3e6d64add",
+        "date_posted": 1757962864,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
