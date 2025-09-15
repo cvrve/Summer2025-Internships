@@ -18176,5 +18176,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962914,
+        "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure",
+        "locations": [
+            "Reston, VA",
+            "Rockville, MD",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Cloud Engineer Intern, AWS/Azure",
+        "source": "vanshb03",
+        "id": "fad51bdd-19bf-4431-99ef-c5c5ea12126a",
+        "date_posted": 1757962914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
