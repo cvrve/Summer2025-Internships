@@ -18471,5 +18471,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963639,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineer Intern, Test Equipment",
+        "source": "vanshb03",
+        "id": "5fe93262-c738-49dc-a0c5-48c4abaec017",
+        "date_posted": 1757963639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
