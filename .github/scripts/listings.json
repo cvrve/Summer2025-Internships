@@ -18212,5 +18212,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962924,
+        "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "6ca184f4-5271-4bf0-a326-966d1e9553f3",
+        "date_posted": 1757962924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
