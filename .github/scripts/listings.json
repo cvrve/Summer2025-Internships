@@ -18488,5 +18488,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963643,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2026-Capital-Markets---Quantitative-Technology-Services-Summer-Analyst_R-0000140751",
+        "locations": [
+            "Jersey City, NJ",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RBC Capital Markets",
+        "title": "Summer Analyst, Quantitative Technology Services",
+        "source": "vanshb03",
+        "id": "d2f0f12a-ba45-4844-88cd-7b3ce033f2b4",
+        "date_posted": 1757963643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
