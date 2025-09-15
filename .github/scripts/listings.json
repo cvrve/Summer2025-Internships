@@ -18523,5 +18523,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1757963680,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "24875f0e-7824-4ff1-b8d8-aefb29086b24",
+        "date_posted": 1757963680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
