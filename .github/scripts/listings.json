@@ -18437,5 +18437,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963634,
+        "url": "https://entegris.wd1.myworkdayjobs.com/en-GB/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Data-Scientist-Co-Op---Spring-2026_REQ-9152",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Entegris",
+        "title": "Data Scientist Co-Op",
+        "source": "vanshb03",
+        "id": "1391c4f0-73b9-4f60-a44f-2372463af742",
+        "date_posted": 1757963634,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
