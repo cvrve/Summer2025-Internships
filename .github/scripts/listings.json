@@ -18454,5 +18454,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1757963636,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/CA---Irvine-5300-California-Ave-4thfloor/Comcast-Xumo-Engineering-Intern_R419366",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "670e8415-367a-42a8-9a1d-a634bccdb015",
+        "date_posted": 1757963636,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
