@@ -18142,5 +18142,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962906,
+        "url": "https://seagatecareers.com/job/Longmont-Software-Engineering-Intern-Summer-2026-CO-80501/1325866700/",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5f16f795-007d-4c46-8368-c4d8d49d2c35",
+        "date_posted": 1757962906,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
