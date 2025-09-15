@@ -18401,5 +18401,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963627,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Intern_R418938",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a84e9a4-ee0f-4751-a3ae-2d3b9f4b4edc",
+        "date_posted": 1757963627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
