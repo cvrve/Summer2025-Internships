@@ -18384,5 +18384,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963624,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Automation-Intern_R419581",
+        "locations": [
+            "Mount Laurel, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Network Automation Intern",
+        "source": "vanshb03",
+        "id": "a8f97ed2-9c21-464f-944c-45965a0f3fe0",
+        "date_posted": 1757963624,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
