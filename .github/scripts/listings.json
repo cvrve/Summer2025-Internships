@@ -18263,5 +18263,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962697,
+        "url": "https://careers.duolingo.com/jobs/8150883002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Software Engineer Intern, Thrive",
+        "source": "vanshb03",
+        "id": "e5bac24e-4f0e-4227-b853-0febf8a66b2a",
+        "date_posted": 1757962697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
