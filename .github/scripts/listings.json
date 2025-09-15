@@ -18108,5 +18108,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962898,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Intern",
+        "source": "vanshb03",
+        "id": "2b6bf9cd-1e95-4d7c-afa0-b1c91d2dc100",
+        "date_posted": 1757962898,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
