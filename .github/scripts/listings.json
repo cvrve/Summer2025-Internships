@@ -18280,5 +18280,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757962702,
+        "url": "https://careers.duolingo.com/jobs/8155399002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "ccc41efb-ed99-41fe-aa77-d4addbed6c4a",
+        "date_posted": 1757962702,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
