@@ -18314,5 +18314,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757963606,
+        "url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Cyber-Security-Data-Engineer-Intern_R418971",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Cyber Security Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "fa90c14b-1a74-42ed-8db0-eb1f6bff30a6",
+        "date_posted": 1757963606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
