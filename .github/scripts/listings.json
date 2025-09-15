@@ -4787,13 +4787,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752603567,
+        "date_updated": 1757962946,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5588094004",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bill",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5333,13 +5333,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753215408,
+        "date_updated": 1757962969,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
         "locations": [
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Front Office Software Engineer Intern",
         "season": "Summer",
@@ -5541,14 +5541,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1753286313,
+        "date_updated": 1757962972,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2026-_R1105",
         "locations": [
             "Stamford, CT",
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Engineering Intern",
         "season": "Summer",
@@ -5559,13 +5559,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753298942,
+        "date_updated": 1757962974,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103?locations=f2015cfc02f001a299736681a7011a0e",
         "locations": [
             "Stamford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Science ML Intern",
         "season": "Summer",
@@ -5576,13 +5576,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753299118,
+        "date_updated": 1757962987,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/GenAI-Internship--Summer-2026-_R1102?locations=f2015cfc02f001a299736681a7011a0e",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "GenAI Intern",
         "season": "Summer",
@@ -7263,13 +7263,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754388481,
+        "date_updated": 1757962947,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Developer Productivity Intern",
         "source": "vanshb03",
@@ -7960,13 +7960,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748272,
+        "date_updated": 1757962947,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -10292,13 +10292,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755991604,
+        "date_updated": 1757962950,
         "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BitGo",
         "title": "Software Engineering Intern, Wallet Core",
         "source": "vanshb03",
@@ -10309,13 +10309,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755991612,
+        "date_updated": 1757962950,
         "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BitGo",
         "title": "Software Engineering Intern, HSM",
         "source": "vanshb03",
@@ -16119,13 +16119,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757571264,
+        "date_updated": 1757963196,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
         "locations": [
             "Hoffman Estates, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -17025,13 +17025,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1757671321,
+        "date_updated": 1757963241,
         "url": "https://dell.wd1.myworkdayjobs.com/external/job/Round-Rock-Texas-United-States/AI-Solutions-Intern_R277648-1",
         "locations": [
             "Round Rock, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dell Technologies",
         "title": "AI Solutions Intern",
         "source": "vanshb03",
