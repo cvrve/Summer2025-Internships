@@ -18558,5 +18558,22 @@
         "date_posted": 1758062031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758062055,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=801044#jobDetails=801044_5014",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Internship",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "999e8f51-e6b8-440d-84d2-6933434baf1e",
+        "date_posted": 1758062055,
+        "company_url": "",
+        "is_visible": true
     }
 ]
