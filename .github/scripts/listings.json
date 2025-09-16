@@ -18540,5 +18540,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1758062031,
+        "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenAI",
+        "title": "Software Engineer Intern/Co-op",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "f3a57930-db69-424a-be6c-1eaeed82cc03",
+        "date_posted": 1758062031,
+        "company_url": "",
+        "is_visible": true
     }
 ]

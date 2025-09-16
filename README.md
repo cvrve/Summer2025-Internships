@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| OpenAI | Software Engineer Intern/Co-op | San Francisco, CA</br>Seattle, WA | <a href="https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Unisys | Software Engineer Intern | Eagan, MN | <a href="https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | State Farm | Engineer Intern, Enterprise Technology 🛂 | <details><summary>**5 locations**</summary>Bloomington, IL</br>Dunwoody, GA</br>Richardson, TX</br>Tempe, AZ</br>Remote</details> | <a href="https://jobs.statefarm.com/main/jobs/41746?lang=en-us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Seagate | Software Engineering Intern | Longmont, CO | <a href="https://seagatecareers.com/job/Longmont-Software-Engineering-Intern-Summer-2026-CO-80501/1325866700/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
