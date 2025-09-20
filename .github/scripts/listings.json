@@ -18821,5 +18821,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327874,
+        "url": "https://careers.peak6.com/jobs/business-operation-services/austin-texas-united-states-of-america/software-engineering-intern/JR103564",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "487b0001-645f-49c3-9c64-e5b3b7749e92",
+        "date_posted": 1758327874,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
