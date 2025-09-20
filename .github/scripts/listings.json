@@ -19333,5 +19333,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758340078,
+        "url": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+        "locations": [
+            "Syracuse, NY",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impel",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ca0b30dc-7115-4c0a-bfee-5905e44f96e4",
+        "date_posted": 1758340078,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
