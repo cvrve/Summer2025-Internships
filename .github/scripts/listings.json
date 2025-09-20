@@ -19453,5 +19453,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343762,
+        "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Des-Moines-Iowa-United-States/Software-Engineer-Intern_243147W",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva Agriscience",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2c760890-ce49-4d0f-96c4-74cfa990b861",
+        "date_posted": 1758343762,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
