@@ -19230,5 +19230,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758329033,
+        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Firmware-Intern--Summer-2026-_REQ-018907",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zurn Elkay Water Solutions Corporation",
+        "title": "Embedded Firmware Intern, ",
+        "source": "vanshb03",
+        "id": "cd3764d1-fe8b-403e-bfb9-0ec6093df637",
+        "date_posted": 1758329033,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
