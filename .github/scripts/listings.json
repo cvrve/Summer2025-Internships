@@ -18889,5 +18889,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327892,
+        "url": "https://myjobs.adp.com/astronautics/cx/job-details?reqId=5001151496906",
+        "locations": [
+            "Oak Creek, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astronautics",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bcba0632-ab81-464d-8c12-4a0e209dba78",
+        "date_posted": 1758327892,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
