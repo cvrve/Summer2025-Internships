@@ -18991,5 +18991,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328254,
+        "url": "https://careers.mastercard.com/us/en/job/MASRUSR257331EXTERNALENUS/Software-Engineer-Intern-Summer-2026-United-States",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d4db747e-6e24-4d8f-b9d5-6279b5b87342",
+        "date_posted": 1758328254,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
