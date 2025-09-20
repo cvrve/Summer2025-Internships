@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Partcl (X25) | ML Systems Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/82020?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| Elayne | Software Engineer Intern | New York, NY | <a href="https://www.workatastartup.com/jobs/81959?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Zurn Elkay Water Solutions Corporation | Embedded Firmware Intern, Milwaukee Headquarters | Milwaukee, WI | <a href="https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Firmware-Intern--Summer-2026-_REQ-018907?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Embedded Firmware Intern,  | Milwaukee, WI | <a href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Firmware-Intern--Summer-2026-_REQ-018907?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Waymo | Systems Engineering Intern, Behaviors | San Francisco, CA | <a href="https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-systems-engineering-behaviors-san-francisco-california-united-states?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
