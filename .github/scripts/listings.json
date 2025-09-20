@@ -19298,5 +19298,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758330767,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/86214487568",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Mobile App Developer Intern",
+        "source": "vanshb03",
+        "id": "5db355e3-0655-40d9-a696-7b5083aca005",
+        "date_posted": 1758330767,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
