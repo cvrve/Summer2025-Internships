@@ -19077,5 +19077,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328737,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/2f242b59-eee3-41f5-a5d7-55b7545cb9fb",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Full Stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "82e2d02b-39c8-460c-886e-080143da7db4",
+        "date_posted": 1758328737,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
