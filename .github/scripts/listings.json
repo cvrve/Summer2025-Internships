@@ -18906,5 +18906,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327895,
+        "url": "https://careers.micron.com/careers/job/38038147",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Software Engineer Intern, HBM",
+        "source": "vanshb03",
+        "id": "89aa1ed6-05a1-42c1-bc2f-affa870696bc",
+        "date_posted": 1758327895,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
