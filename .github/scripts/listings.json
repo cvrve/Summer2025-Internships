@@ -18872,5 +18872,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327889,
+        "url": "https://careers.dexcom.com/careers/job/38039370",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dexcom Corporation",
+        "title": "DevOps Engineering Intern, I",
+        "source": "vanshb03",
+        "id": "5f85131b-8952-4681-9495-27e0e166de5b",
+        "date_posted": 1758327889,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
