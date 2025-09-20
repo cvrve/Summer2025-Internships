@@ -19059,5 +19059,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328663,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/e4caf979-a0aa-48c8-94f6-31bb3deeef5b",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern, Backend Focused",
+        "source": "vanshb03",
+        "id": "a821eebe-79c1-43c9-be3f-fef4f93b4d39",
+        "date_posted": 1758328663,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
