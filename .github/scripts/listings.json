@@ -19368,5 +19368,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343662,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Software-Engineer-Intern_R21336",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allstate",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "93907948-8b3e-4f37-9719-a5d04a19f2a9",
+        "date_posted": 1758343662,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
