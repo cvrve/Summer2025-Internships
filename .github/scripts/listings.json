@@ -18663,5 +18663,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327585,
+        "url": "https://tai.hirescore.com/job/sdi-novi-4/",
+        "locations": [
+            "Calumet, MI",
+            "Novi, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ThermoAnalytics, Inc.",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7821147b-e726-4782-bba2-36cd8cef0d29",
+        "date_posted": 1758327585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
