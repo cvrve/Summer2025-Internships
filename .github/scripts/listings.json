@@ -19247,5 +19247,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758329038,
+        "url": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101/",
+        "locations": [
+            "Newtown Square, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAP",
+        "title": "Python Developer Intern, iXp",
+        "source": "vanshb03",
+        "id": "0bcc13d4-9dfa-430a-88cc-8db74506cdef",
+        "date_posted": 1758329038,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
