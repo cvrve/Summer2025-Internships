@@ -19008,5 +19008,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328615,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/86251645088",
+        "locations": [
+            "Rockwall, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0456b73c-d675-4570-8dc1-73647901bcd3",
+        "date_posted": 1758328615,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
