@@ -19470,5 +19470,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343766,
+        "url": "https://jobs.lever.co/tri/a5a628cd-44a9-4ff6-aeba-c775c516dfd2",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Mobile Manipulation, Perception",
+        "source": "vanshb03",
+        "id": "ab53bf07-e08e-49e2-89c1-ac33fa5181ed",
+        "date_posted": 1758343766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
