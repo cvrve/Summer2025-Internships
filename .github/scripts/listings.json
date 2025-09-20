@@ -19538,5 +19538,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758387480,
+        "url": "https://www.workatastartup.com/jobs/81959",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elayne",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "eb1777db-8f38-4c54-9c2c-2d5a783b7653",
+        "date_posted": 1758387480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
