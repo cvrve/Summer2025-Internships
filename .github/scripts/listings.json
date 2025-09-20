@@ -19572,5 +19572,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758387562,
+        "url": "https://www.workatastartup.com/jobs/82013",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Channel3",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "52758144-9b11-4286-9251-32b2964abfa2",
+        "date_posted": 1758387562,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
