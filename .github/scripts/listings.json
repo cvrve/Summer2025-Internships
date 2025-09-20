@@ -19402,5 +19402,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343681,
+        "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7413808003",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GlossGenius",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "b46221d5-b3cb-4495-9d02-c81e0dbb2da0",
+        "date_posted": 1758343681,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
