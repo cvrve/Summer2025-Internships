@@ -19213,5 +19213,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758329028,
+        "url": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Systems Integration Test Engineer Intern, Software",
+        "source": "vanshb03",
+        "id": "6b8f59de-0a18-409c-8737-52439338023a",
+        "date_posted": 1758329028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
