@@ -18611,5 +18611,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758322644,
+        "url": "https://www.metacareers.com/jobs/3195203507311171",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Security Engineer Intern, Detection & Response",
+        "source": "vanshb03",
+        "id": "efc4fe89-e647-4245-a757-5066bcb219af",
+        "date_posted": 1758322644,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
