@@ -18770,5 +18770,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327666,
+        "url": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Universal Orlando Resort",
+        "title": "Software Development Intern, Resort Accessibility And Compliance",
+        "source": "vanshb03",
+        "id": "ad6374d1-eb02-43bf-8d40-a07b51f9736e",
+        "date_posted": 1758327666,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
