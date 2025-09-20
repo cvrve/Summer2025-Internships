@@ -18629,5 +18629,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327405,
+        "url": "https://careers.sharkninja.com/job/-/-/47204/86214487840",
+        "locations": [
+            "Madison, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6c406e7a-f60a-4d1b-8bbb-e7914144ce93",
+        "date_posted": 1758327405,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
