@@ -18940,5 +18940,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328221,
+        "url": "https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "AI Operations Intern",
+        "source": "vanshb03",
+        "id": "5127bab8-4782-4ed8-b376-59cb87a7d60d",
+        "date_posted": 1758328221,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
