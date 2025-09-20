@@ -18575,5 +18575,23 @@
         "date_posted": 1758062055,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758028211,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "Software Engineering Intern, Fleet Health Instrumentation",
+        "source": "vanshb03",
+        "id": "6904ed65-3bbe-46b8-8ddf-5ea566508f17",
+        "date_posted": 1758028211,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
