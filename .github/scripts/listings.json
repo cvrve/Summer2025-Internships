@@ -19264,5 +19264,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758329192,
+        "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Philips",
+        "title": "System Test Automation Engineer Intern, San Diego",
+        "source": "vanshb03",
+        "id": "e761a57d-db8d-4b73-919e-fa8c727ace72",
+        "date_posted": 1758329192,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
