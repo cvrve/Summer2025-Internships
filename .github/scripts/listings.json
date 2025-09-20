@@ -18804,5 +18804,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1758327868,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636023",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "e1bc652a-63d4-426a-9899-ddb7240bea9c",
+        "date_posted": 1758327868,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
