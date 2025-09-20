@@ -19555,5 +19555,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758387484,
+        "url": "https://www.workatastartup.com/jobs/82020",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Partcl (X25)",
+        "title": "ML Systems Intern",
+        "source": "vanshb03",
+        "id": "cbd19555-06f7-44fe-8544-b03f2fab6d63",
+        "date_posted": 1758387484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
