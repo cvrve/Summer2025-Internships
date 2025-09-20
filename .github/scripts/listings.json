@@ -18838,5 +18838,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327876,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "enGen",
+        "title": "ETDP Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "afe40b95-af49-436a-a490-687c10774fb8",
+        "date_posted": 1758327876,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
