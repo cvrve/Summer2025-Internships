@@ -19436,5 +19436,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343758,
+        "url": "https://quantumsignalai.applytojob.com/apply/paMGQ9RKXd/RealTime-Software-Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Quantum Signal AI",
+        "title": "Real-Time Software Intern",
+        "source": "vanshb03",
+        "id": "16bf61dc-abf1-4675-a181-b34b506cc301",
+        "date_posted": 1758343758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
