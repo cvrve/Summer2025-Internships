@@ -18787,5 +18787,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327671,
+        "url": "https://jobs.siemens.com/careers/job/563156132037214?hl=en",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens Industry Software Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6e00a5b4-abb0-47be-9d0b-22e5bf5e0415",
+        "date_posted": 1758327671,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
