@@ -19281,5 +19281,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758330761,
+        "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exegy",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a01bdafd-e887-49a1-9f9b-4d1ed8be4f87",
+        "date_posted": 1758330761,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
