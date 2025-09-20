@@ -18974,5 +18974,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328248,
+        "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2658cd92-0296-4c23-95a4-51adc0f9d2b2",
+        "date_posted": 1758328248,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
