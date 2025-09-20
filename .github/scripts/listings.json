@@ -19179,5 +19179,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328861,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d3ad0721-f4e7-4f3c-b180-b6d7d6dbb496",
+        "date_posted": 1758328861,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
