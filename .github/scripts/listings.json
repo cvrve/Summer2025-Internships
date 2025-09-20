@@ -19145,5 +19145,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328851,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Modes-Software-Engineer-Intern-SUMMER-2026/210845",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern, Modes",
+        "source": "vanshb03",
+        "id": "2f741638-37eb-4eb4-9088-5dc02b1ceaba",
+        "date_posted": 1758328851,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
