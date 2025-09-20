@@ -19042,5 +19042,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328658,
+        "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Arup",
+        "title": "Software Development / Digital Delivery Intern",
+        "source": "vanshb03",
+        "id": "9d474c9e-d9dd-4613-808d-25ba955d9a91",
+        "date_posted": 1758328658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
