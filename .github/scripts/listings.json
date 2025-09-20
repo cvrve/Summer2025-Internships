@@ -19419,5 +19419,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343756,
+        "url": "https://quantumsignalai.applytojob.com/apply/o4xvPN56z1/Applications-Software-Engineering-Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Quantum Signal AI (QSAI)",
+        "title": "Applications Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "dd0077fb-ab97-4122-8d0b-9914a7515834",
+        "date_posted": 1758343756,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
