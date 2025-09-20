@@ -19128,5 +19128,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328785,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Gameplay Software Engineer Intern, SPORTS",
+        "source": "vanshb03",
+        "id": "a6431516-1ab0-4cfe-bdee-8eb9bf40a851",
+        "date_posted": 1758328785,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
