@@ -19351,5 +19351,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758340166,
+        "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brilliant",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bd150e9a-b229-456e-9915-33b6be999892",
+        "date_posted": 1758340166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
