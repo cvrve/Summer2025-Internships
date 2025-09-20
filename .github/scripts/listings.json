@@ -19196,5 +19196,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328944,
+        "url": "https://www.grammarly.com/careers/jobs/engineering/software-engineering-intern-summer-2026-?gh_jid=7255327",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Grammarly",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a9e58909-77c1-43ac-806d-4c136efe886d",
+        "date_posted": 1758328944,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
