@@ -8221,13 +8221,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754806650,
+        "date_updated": 1758327046,
         "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Data---AI-QA-Intern_JR103915",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Copart",
         "title": "Data & AI QA Intern",
         "season": "Summer",
@@ -9099,13 +9099,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755295903,
+        "date_updated": 1758327011,
         "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BlackEdge Capital",
         "title": "Quantitative Trader Intern",
         "source": "vanshb03",
@@ -10859,7 +10859,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756134417,
+        "date_updated": 1758327096,
         "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
         "locations": [
             "Rosemont, IL",
@@ -10875,7 +10875,7 @@
             "Houston, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PwC",
         "title": "Software Engineering Intern, Cloud Engineering, Data & Analytics",
         "season": "Summer",
@@ -10903,7 +10903,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756134710,
+        "date_updated": 1758327098,
         "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
         "locations": [
             "Rosemont, IL",
@@ -10919,7 +10919,7 @@
             "Houston, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PwC",
         "title": "Software Engineering Intern, Commercial Technology & Innovation Office",
         "season": "Summer",
@@ -13902,13 +13902,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1756866647,
+        "date_updated": 1758327135,
         "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northern Trust",
         "title": "Technology Intern, Software Development",
         "source": "vanshb03",
@@ -14787,13 +14787,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757246920,
+        "date_updated": 1758327191,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern--Summer-2026_R202566704",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cox",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -14804,13 +14804,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757246920,
+        "date_updated": 1758327193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Product-Management-Intern--Summer-2026_R202566799",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cox",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -15893,7 +15893,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1757468734,
+        "date_updated": 1758327220,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
         "locations": [
             "O'Fallon, MO",
@@ -15901,7 +15901,7 @@
             "Arlington, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Mastercard",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -18093,13 +18093,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757962864,
+        "date_updated": 1758327305,
         "url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Athene",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -18473,13 +18473,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757963639,
+        "date_updated": 1758327332,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571",
         "locations": [
             "Tucson, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon",
         "title": "Software Engineer Intern, Test Equipment",
         "source": "vanshb03",
