@@ -19315,5 +19315,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758339561,
+        "url": "https://careers.homedepot.com/job/22430119/software-engineer-internship-summer-2026-remote-remote",
+        "locations": [
+            "Atlanta, GA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Home Depot",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8d63ecb3-42a7-44fe-8151-aef3d2d57c99",
+        "date_posted": 1758339561,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
