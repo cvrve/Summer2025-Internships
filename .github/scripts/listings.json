@@ -19385,5 +19385,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758343669,
+        "url": "https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9",
+        "locations": [
+            "USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuantCo",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f88e13ca-50d9-4613-b21a-35130ad1e9a3",
+        "date_posted": 1758343669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
