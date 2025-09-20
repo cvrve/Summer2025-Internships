@@ -18593,5 +18593,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758322604,
+        "url": "https://www.metacareers.com/jobs/1993387314912727",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Product Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "c2cda347-aeb5-4215-afb1-ffb945908eb2",
+        "date_posted": 1758322604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
