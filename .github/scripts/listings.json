@@ -18923,5 +18923,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327898,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Platform-Software_JR33861",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineer Intern, Platform Software",
+        "source": "vanshb03",
+        "id": "7207d371-4c9b-4048-865f-8ee6aed79519",
+        "date_posted": 1758327898,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
