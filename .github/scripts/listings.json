@@ -19111,5 +19111,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328783,
+        "url": "https://eaton.eightfold.ai/careers/job/687232789551",
+        "locations": [
+            "Franksville, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "30bc531e-ee72-49de-b318-416b972a70ee",
+        "date_posted": 1758328783,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
