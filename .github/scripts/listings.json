@@ -18855,5 +18855,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758327879,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charter Communications",
+        "title": "DevOps Associate Intern",
+        "source": "vanshb03",
+        "id": "58a32cd8-8b0e-4791-94e1-dd9870e34df1",
+        "date_posted": 1758327879,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
