@@ -19162,5 +19162,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758328858,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Tools-Software-Engineer-Intern-Summer-2026/210888",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Tools Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "065367c0-6672-41c0-8d2f-13722e07c390",
+        "date_posted": 1758328858,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
