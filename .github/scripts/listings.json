@@ -20028,5 +20028,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626076,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239236",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Backend",
+        "source": "vanshb03",
+        "id": "2eba4d5e-a45f-45e7-bf5e-da0cb9edd0f4",
+        "date_posted": 1758626076,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
