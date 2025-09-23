@@ -19874,5 +19874,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://apply.workable.com/darkhive/j/1DA0B16639/",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Darkhiv",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff22cd57-4152-452c-a736-004400fff61f",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
