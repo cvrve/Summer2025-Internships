@@ -19925,5 +19925,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GDIT",
+        "title": "Data Scientist Associate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7bed1f6a-4bf0-48d8-89fd-f7d3fdc7c28b",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
