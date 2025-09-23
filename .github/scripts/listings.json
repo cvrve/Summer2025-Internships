@@ -20045,5 +20045,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626078,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239268",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, iOS",
+        "source": "vanshb03",
+        "id": "a698cb3f-acb0-4662-b215-c2ec8b6d1986",
+        "date_posted": 1758626078,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
