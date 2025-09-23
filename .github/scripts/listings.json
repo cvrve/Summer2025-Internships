@@ -20357,5 +20357,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808622802",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AIS R&D Research Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7e8a2d8-5a79-4964-8fe1-d9d6c3952dfc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
