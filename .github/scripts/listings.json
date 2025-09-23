@@ -20238,5 +20238,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49524?lang=en-us&icims=1",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "805ba514-b930-4390-a7c9-ecf88a883deb",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
