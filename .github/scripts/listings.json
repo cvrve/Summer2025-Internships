@@ -19606,5 +19606,35 @@
         "date_posted": 1758603769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758623327,
+        "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boston, MA",
+            "Charlotte, NC",
+            "Houston, TX",
+            "Irving, TX",
+            "Los Angeles, CA",
+            "Morristown, NJ",
+            "New York City, NY",
+            "Philadelphia, PA",
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Accenture",
+        "title": "Technology Summer Analyst Intern",
+        "source": "vanshb03",
+        "id": "0ef5e650-887d-480b-97ea-93ff7f48ee4a",
+        "date_posted": 1758623327,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
