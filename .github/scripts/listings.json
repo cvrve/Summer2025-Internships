@@ -19738,5 +19738,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Quality",
+        "title": "Analytics Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2e981fb1-5e41-42aa-802a-4212ef12433f",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
