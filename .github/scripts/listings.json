@@ -19908,5 +19908,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sift",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff624040-0a3c-4c9a-83b3-cdceab33e335",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
