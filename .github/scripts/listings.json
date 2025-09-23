@@ -20255,5 +20255,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ea1e0b4-ed56-416a-a7ac-2adc45dd22d3",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
