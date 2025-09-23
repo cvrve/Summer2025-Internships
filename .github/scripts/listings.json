@@ -20340,5 +20340,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---CA---Santa-Clara---Marvell-Park/IC-Application-Engineer-Intern---Masters-Degree_2502729-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "IC Application Engineer Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c9d5871a-1b45-41a3-8ad8-d7c542ba9bfc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
