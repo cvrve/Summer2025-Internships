@@ -19891,5 +19891,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c44637dd-6594-4227-adec-b52562daf13a",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
