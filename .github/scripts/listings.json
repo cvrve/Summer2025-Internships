@@ -20306,5 +20306,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern---Data-Analytics_R2025-242307",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransPerfect",
+        "title": "Operations Intern, Data Analytics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "40854f3b-19cc-41f1-a4a0-ce4dd3a89eb4",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
