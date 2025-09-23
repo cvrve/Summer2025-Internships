@@ -19840,5 +19840,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083014485",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "AI for Security Operations Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "48555464-ffb9-4586-8fe2-6ae605e6f747",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
