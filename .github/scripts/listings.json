@@ -19942,5 +19942,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758626064,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163234",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Machine Learning Engineer Intern, Applied ML",
+        "source": "vanshb03",
+        "id": "8961bf5c-f8b6-49de-ba65-a27e67fd7acc",
+        "date_posted": 1758626064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
