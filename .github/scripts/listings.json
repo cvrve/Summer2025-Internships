@@ -19994,5 +19994,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626072,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7238998",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Developer Intern, Web",
+        "source": "vanshb03",
+        "id": "d41ef520-7d57-4639-b2bd-041cde99baa0",
+        "date_posted": 1758626072,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
