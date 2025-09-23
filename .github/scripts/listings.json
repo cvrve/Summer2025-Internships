@@ -19823,5 +19823,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2025-3649",
+        "locations": [
+            "Kokomo, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Electronics Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "39aca5cc-becd-4274-a9ed-c85bb27289c9",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
