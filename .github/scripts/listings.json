@@ -20132,5 +20132,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626282,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161053",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Offensive Security Intern",
+        "source": "vanshb03",
+        "id": "fd4d3842-f49c-49b8-aff8-1abffece079c",
+        "date_posted": 1758626282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
