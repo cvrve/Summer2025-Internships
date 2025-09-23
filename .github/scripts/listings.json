@@ -20079,5 +20079,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626273,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161070",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Vulnerability Management Intern",
+        "source": "vanshb03",
+        "id": "58101f37-b328-47ba-b3e8-e6a080a98495",
+        "date_posted": 1758626273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
