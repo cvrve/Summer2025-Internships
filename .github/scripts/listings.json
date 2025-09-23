@@ -19589,5 +19589,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758603769,
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NorthMark Strategies",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "TimothyNaumov",
+        "id": "77bc52a5-08ac-43ec-a389-0672b12a784b",
+        "date_posted": 1758603769,
+        "company_url": "",
+        "is_visible": true
     }
 ]
