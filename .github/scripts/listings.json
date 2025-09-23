@@ -20168,5 +20168,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758637836,
+        "url": "https://job-boards.greenhouse.io/gusto/jobs/7238671",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gusto",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ee35ecfa-8c46-4262-959f-9283d16c2df1",
+        "date_posted": 1758637836,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
