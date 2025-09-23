@@ -20062,5 +20062,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626080,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239280",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Web",
+        "source": "vanshb03",
+        "id": "f8932f32-004d-464c-a025-158d846bd0a9",
+        "date_posted": 1758626080,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
