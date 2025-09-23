@@ -20187,5 +20187,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://careers-kinaxis.icims.com/jobs/33735/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Software Developer Intern/Coop",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "34f82a89-72ac-4087-9b83-bc437883655b",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
