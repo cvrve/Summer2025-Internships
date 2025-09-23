@@ -20151,5 +20151,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626286,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161054",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Offensive Security Intern",
+        "source": "vanshb03",
+        "id": "f5816ad3-e9b4-4d46-9710-583c74152946",
+        "date_posted": 1758626286,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
