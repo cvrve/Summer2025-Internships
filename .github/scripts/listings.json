@@ -20011,5 +20011,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626075,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239199",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Software Engineering Intern, Android",
+        "source": "vanshb03",
+        "id": "8e8d2c5c-abae-4a54-bbd6-4775051fae40",
+        "date_posted": 1758626075,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
