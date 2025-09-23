@@ -19857,5 +19857,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Business-Analyst-AI-Intern_R6109",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CAI",
+        "title": "Business Analyst AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ce1cc3c5-eef5-4852-8170-fd73e818f3ac",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
