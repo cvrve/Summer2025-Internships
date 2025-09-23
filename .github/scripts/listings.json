@@ -20289,5 +20289,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Software-Engineer-Intern---Master-s-Degree_2502348",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Software Engineer Intern, Master's",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1c2fb099-7ff3-452c-9e9c-64dd561c2b11",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
