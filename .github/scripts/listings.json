@@ -20323,5 +20323,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Engineer-Intern_R41052",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Autonomy Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6c8b5066-a9c4-47e8-8f54-06e1984bebdc",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
