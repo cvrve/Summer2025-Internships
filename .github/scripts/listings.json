@@ -20096,5 +20096,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626276,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161069",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Vulnerability Management Intern",
+        "source": "vanshb03",
+        "id": "acfd63c1-f2e9-46b7-aa1e-b7b346f55d3f",
+        "date_posted": 1758626276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
