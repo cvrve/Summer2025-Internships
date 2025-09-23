@@ -20272,5 +20272,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://jobs.keysight.com/jobs/49650?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e560cecb-60da-45e2-a341-2b009f662adb",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
