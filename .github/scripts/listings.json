@@ -19687,5 +19687,22 @@
         "date_posted": 1758625796,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CoBank",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "49c6f4ca-2d3a-43de-aada-8ee4e1a995ef",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
