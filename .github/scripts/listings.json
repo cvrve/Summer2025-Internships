@@ -20374,5 +20374,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758642118,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636860",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AIS R&D Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "85077d1c-ca67-490b-91d2-f003c250e778",
+        "date_posted": 1758642118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
