@@ -20115,5 +20115,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758626279,
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161061",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robinhood",
+        "title": "Security Risk Management Intern",
+        "source": "vanshb03",
+        "id": "626b393e-c119-44a1-9b67-51d2a16bb9e3",
+        "date_posted": 1758626279,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
