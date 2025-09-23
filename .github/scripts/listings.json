@@ -19636,5 +19636,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758625796,
+        "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
+        "locations": [
+            "Toronto, CAN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7b489d9-de67-4c50-81e1-b32e17d9e9de",
+        "date_posted": 1758625796,
+        "company_url": "",
+        "is_visible": true
     }
 ]
