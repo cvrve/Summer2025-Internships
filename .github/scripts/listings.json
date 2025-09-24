@@ -20858,5 +20858,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758724104,
+        "url": "https://jobs.ashbyhq.com/persona/2c62ac4f-d004-4b5d-b403-c14baa5b3f26",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persona",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0e461f20-b357-4647-a010-cf1533e096e3",
+        "date_posted": 1758724104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
