@@ -20426,5 +20426,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758641916,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Security-Automation-Engineer/210837",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Security Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "290801e6-33e4-42c9-b6c7-1682c11a42cb",
+        "date_posted": 1758641916,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
