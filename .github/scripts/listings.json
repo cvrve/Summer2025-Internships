@@ -20806,5 +20806,23 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758723776,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/110796638720533190-associate-product-manager-intern/",
+        "locations": [
+            "Mountain View, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "348212e8-7e35-4009-88b9-4e1bdf0c4cd4",
+        "date_posted": 1758723776,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
