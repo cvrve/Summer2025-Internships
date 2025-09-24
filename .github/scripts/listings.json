@@ -20391,5 +20391,22 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758641907,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5656952004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Truveta",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b8b80cfc-149b-46c2-9114-aee0331fb28e",
+        "date_posted": 1758641907,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
