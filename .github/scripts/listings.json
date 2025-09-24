@@ -21119,5 +21119,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758725462,
+        "url": "https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8af785c9-8e82-4597-a423-278e460d9a3f",
+        "date_posted": 1758725462,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
