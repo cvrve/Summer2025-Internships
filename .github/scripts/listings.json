@@ -20946,5 +20946,22 @@
         "date_posted": 1758724269,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724273,
+        "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bracebridge Capital",
+        "title": "Software Engineer Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a87dff26-b4be-4817-9fc9-fbf02de639b5",
+        "date_posted": 1758724273,
+        "company_url": "",
+        "is_visible": true
     }
 ]
