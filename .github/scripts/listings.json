@@ -20721,5 +20721,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Enterprise-Reference-Data-Analyst--CO-OP_R-778189",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Enterprise Reference Data Analyst Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d921840c-946c-4845-a3bd-73fa23ce1876",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
