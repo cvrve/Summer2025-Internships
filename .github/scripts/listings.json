@@ -20755,5 +20755,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://www.dltrading.io/careers?gh_jid=7452690003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DL Trading",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aa0ca4ab-e767-40a6-aeb0-9684cdbe3cef",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
