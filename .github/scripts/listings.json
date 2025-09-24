@@ -20528,5 +20528,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Trading-Commodities-Intern_JR102366-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gunvor",
+        "title": "Trading Commodities Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c62c1b17-a77a-41ee-b392-bbd71f0ff638",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
