@@ -20980,5 +20980,23 @@
         "date_posted": 1758724280,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724282,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003456",
+        "locations": [
+            "Des Moines, IA",
+            "Council Bluffs, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1477d4b0-1b9e-4d3f-acfe-8688f749203d",
+        "date_posted": 1758724282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
