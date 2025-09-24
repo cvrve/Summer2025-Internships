@@ -21032,5 +21032,22 @@
         "date_posted": 1758724289,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724292,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/XMLNAME-2026-Software-Engineering-Intern---Huntsville-AL_R10208559-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3344a7d3-7c20-4977-b367-4d2f54b7e214",
+        "date_posted": 1758724292,
+        "company_url": "",
+        "is_visible": true
     }
 ]
