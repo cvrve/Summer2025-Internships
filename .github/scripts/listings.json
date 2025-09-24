@@ -20963,5 +20963,22 @@
         "date_posted": 1758724273,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724280,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4916425007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedition Technology",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f50d7fd0-66de-441d-955e-01cb96573794",
+        "date_posted": 1758724280,
+        "company_url": "",
+        "is_visible": true
     }
 ]
