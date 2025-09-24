@@ -20664,5 +20664,27 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Alpharetta--V-Teamer-for-a-Day-2025-Global-Solutions-Intern-Program_R-1085779",
+        "locations": [
+            "Tampa, FL",
+            "Irvine, CA",
+            "Berkeley Heights, NJ",
+            "Ashburn, VA",
+            "Alpharetta, GA",
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon Communications",
+        "title": "Global Solutions Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dd83d6e1-7631-45ff-a63e-50211e7522cb",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
