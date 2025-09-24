@@ -20477,5 +20477,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758679362,
+        "url": "https://www.tesla.com/careers/search/job/251798",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack C++ Engineer Intern, Vehicle User Interface",
+        "source": "vanshb03",
+        "id": "025530e0-fa14-420f-b556-8b1d1df85ef5",
+        "date_posted": 1758679362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
