@@ -20596,5 +20596,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4024632009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kodiak Robotics",
+        "title": "Perception Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "82908684-fdac-4b49-8b78-1ca6871e9802",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
