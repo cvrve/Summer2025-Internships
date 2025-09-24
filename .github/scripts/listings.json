@@ -20841,5 +20841,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758723884,
+        "url": "https://jobs.lever.co/raine/e4bb952f-8b02-4a96-87e0-e1d4447fa962",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raine",
+        "title": "Analyst Intern, Summer 2027",
+        "source": "vanshb03",
+        "id": "04dc22bc-1ef2-4ac9-9140-7a4b5fda52c3",
+        "date_posted": 1758723884,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
