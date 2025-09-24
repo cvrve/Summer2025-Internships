@@ -20998,5 +20998,22 @@
         "date_posted": 1758724282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724284,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808714251",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9a461be7-fa81-4cc8-94cb-6925c84290e7",
+        "date_posted": 1758724284,
+        "company_url": "",
+        "is_visible": true
     }
 ]
