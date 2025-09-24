@@ -20686,5 +20686,23 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---San-Antonio-TX/Falcon-Complete-Analyst-Intern---Summer-2026_R24843",
+        "locations": [
+            "San Antonio, TX",
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Falcon Complete Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "006a2588-d635-4c67-9164-341e410a74c2",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
