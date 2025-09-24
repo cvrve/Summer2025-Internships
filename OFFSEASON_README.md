@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Tesla | Fullstack C++ Engineer Intern, Vehicle User Interface | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/251798?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Siemens Industry Software Inc. | Software Engineer Intern | Huntsville, AL | <a href="https://jobs.siemens.com/careers/job/563156132037214?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Figure | Firmware Engineer Intern | San Jose, CA | <a href="https://job-boards.greenhouse.io/figureai/jobs/4601309006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | ETHGlobal | Software Engineering Intern | Remote | <a href="https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
