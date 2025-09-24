@@ -20824,5 +20824,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758723784,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering---Milwaukee_R25-6604-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "7b4d422d-187e-4263-9b5e-c79e77ab373f",
+        "date_posted": 1758723784,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
