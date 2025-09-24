@@ -21171,5 +21171,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758750773,
+        "url": "https://www.careers.jnj.com/en/jobs/r-034545/data-science-co-op/",
+        "locations": [
+            "Danvers, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Data Science Co-op",
+        "season": "Spring",
+        "source": "alexg0405",
+        "id": "6afd3f8c-cad5-4969-8d72-610f5240bc06",
+        "date_posted": 1758750773,
+        "company_url": "",
+        "is_visible": true
     }
 ]

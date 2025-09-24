@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
+| Johnson & Johnson | Data Science Co-op 🛂 | Danvers, MA | <a href="https://www.careers.jnj.com/en/jobs/r-034545/data-science-co-op/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Tesla | Fullstack C++ Engineer Intern, Vehicle User Interface | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/251798?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Siemens Industry Software Inc. | Software Engineer Intern | Huntsville, AL | <a href="https://jobs.siemens.com/careers/job/563156132037214?hl=en&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Figure | Firmware Engineer Intern | San Jose, CA | <a href="https://job-boards.greenhouse.io/figureai/jobs/4601309006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
