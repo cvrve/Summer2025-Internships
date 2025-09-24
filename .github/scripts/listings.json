@@ -20443,5 +20443,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758679356,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024589",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "03e29f38-518d-40f4-ba00-ef680021a727",
+        "date_posted": 1758679356,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
