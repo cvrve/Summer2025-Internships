@@ -20647,5 +20647,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Ad-Operations-Intern/210898",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "AI Ad Operations Intern, Data & Insights",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "34e591e2-c50c-4581-9104-e67f137dd2f3",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
