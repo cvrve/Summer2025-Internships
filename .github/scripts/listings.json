@@ -20704,5 +20704,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Software-Engineering-Intern--Summer-2026-_JR-2502809",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bb0f0402-0d33-4dbd-8263-ef49689a1277",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
