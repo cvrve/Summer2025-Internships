@@ -21102,5 +21102,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758725420,
+        "url": "https://www.pinterestcareers.com/jobs/7241510/software-engineer-intern-2026/",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "93292667-5026-407c-9bad-93c1ce6a137f",
+        "date_posted": 1758725420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
