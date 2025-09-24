@@ -20929,5 +20929,22 @@
         "date_posted": 1758724268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724269,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Science-Intern_R39716",
+        "locations": [
+            "Frederick, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8c1b5b33-08a7-48e8-9d48-91059c00214d",
+        "date_posted": 1758724269,
+        "company_url": "",
+        "is_visible": true
     }
 ]
