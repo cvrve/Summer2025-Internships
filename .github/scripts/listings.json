@@ -21066,5 +21066,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758724414,
+        "url": "https://jobs.sick.com/usa/job/Canton-Software-Engineering-Internship-(AIML)-MA-02021/37406-en_US/",
+        "locations": [
+            "Boston, MA",
+            "Canton, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SICK",
+        "title": "Software Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "ad14e3f0-053b-4546-94b0-136b7d4594ee",
+        "date_posted": 1758724414,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
