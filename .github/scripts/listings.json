@@ -21015,5 +21015,22 @@
         "date_posted": 1758724284,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724289,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6174df07-486c-4848-b032-642a12e82b91",
+        "date_posted": 1758724289,
+        "company_url": "",
+        "is_visible": true
     }
 ]
