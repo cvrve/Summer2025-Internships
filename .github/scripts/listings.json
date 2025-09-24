@@ -20892,5 +20892,25 @@
         "date_posted": 1758724250,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724252,
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ce80146-8fa0-48ea-8be8-77a7597f6ddd",
+        "date_posted": 1758724252,
+        "company_url": "",
+        "is_visible": true
     }
 ]
