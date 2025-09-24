@@ -21049,5 +21049,22 @@
         "date_posted": 1758724292,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724401,
+        "url": "https://jobs.sanofi.com/en/job/-/-/2649/29541565056",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sanofi",
+        "title": "Global MSAT Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "3cca0439-f916-4b08-9e67-2ad234118625",
+        "date_posted": 1758724401,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
