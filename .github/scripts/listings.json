@@ -20579,5 +20579,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=250002CY",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vulcan Materials",
+        "title": "Information Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6471d7d5-e3de-4f6a-b13f-5f3a9f6080f4",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
