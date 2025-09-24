@@ -20511,5 +20511,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer-Intern_REQ106685",
+        "locations": [
+            "Moorpark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ensign-Bickford Aerospace & Defense Company",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "645d3eec-a8ec-46bb-9df4-77777aa82f3b",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
