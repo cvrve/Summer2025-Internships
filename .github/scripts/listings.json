@@ -20494,5 +20494,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1758679386,
+        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Intern--Software-_REQ48046",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordson Electronics Solutions",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "91d18b4a-ac03-4d0a-921d-398b0a70b2f4",
+        "date_posted": 1758679386,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
