@@ -20613,5 +20613,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "41f0004b-8fab-4451-bca5-9efb97a4f6b4",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
