@@ -20789,5 +20789,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-032215",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Business Intelligence Co-Op - Business Intelligence",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2ba44ae9-c169-4a95-8c6a-d675ccdb80f4",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
