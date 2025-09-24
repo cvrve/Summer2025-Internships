@@ -20912,5 +20912,22 @@
         "date_posted": 1758724252,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758724268,
+        "url": "https://www.tanium.com/careers/7228059?gh_jid=7228059",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tanium",
+        "title": "Cloud Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "46ded7a3-aa91-4f69-98c5-01a0150a8b09",
+        "date_posted": 1758724268,
+        "company_url": "",
+        "is_visible": true
     }
 ]
