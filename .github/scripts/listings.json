@@ -20460,5 +20460,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758679360,
+        "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Backend-Platform-Intern--Digital-Promotions-Network-Team--Summer-2026_JY2526552",
+        "locations": [
+            "Winston Salem, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Inmar Intelligence",
+        "title": "Backend Platform Intern, Digital Promotions Network Team",
+        "source": "vanshb03",
+        "id": "ddf16154-1753-43ec-a1a6-b3beb0e44cc0",
+        "date_posted": 1758679360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
