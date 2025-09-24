@@ -21171,22 +21171,5 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
-    },
-    {
-        "date_updated": 1758725580,
-        "url": "https://www.pinterestcareers.com/jobs/7202269/software-engineer-intern-2026-remote-us/",
-        "locations": [
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Pinterest",
-        "title": "Software Engineer Intern",
-        "source": "vanshb03",
-        "id": "fac2c0c3-8ea1-4321-aaac-84dd8a950239",
-        "date_posted": 1758725580,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
     }
 ]
