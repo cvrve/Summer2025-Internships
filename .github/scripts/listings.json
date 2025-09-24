@@ -21084,5 +21084,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758725071,
+        "url": "https://www.pinterestcareers.com/jobs/7210881/software-engineer-intern-2026/",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5c8051a7-b888-4550-ac7c-5656cd1ed1d9",
+        "date_posted": 1758725071,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
