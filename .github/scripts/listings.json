@@ -21136,5 +21136,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1758725471,
+        "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d3b06542-ab51-4b6a-a0ac-4869c2e9c530",
+        "date_posted": 1758725471,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
