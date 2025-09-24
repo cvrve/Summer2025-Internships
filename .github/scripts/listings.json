@@ -20545,5 +20545,22 @@
         "date_posted": 1758685988,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758685988,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182875002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IXL Learning",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "70115800-e1b3-4e63-888f-2128270f20ad",
+        "date_posted": 1758685988,
+        "company_url": "",
+        "is_visible": true
     }
 ]
