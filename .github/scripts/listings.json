@@ -21945,5 +21945,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003571",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8bcdb704-d9fd-4a62-aada-e0d27d1887ff",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
