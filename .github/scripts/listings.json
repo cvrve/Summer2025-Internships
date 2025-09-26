@@ -21876,5 +21876,23 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
+        "locations": [
+            "Windsor Mill, MD",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GDIT",
+        "title": "Software Developer Automation Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "39775e9c-b22e-4a98-9fa8-9dd2ab808d4b",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
