@@ -21911,5 +21911,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Machine-Learning-Intern_R-102114",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ibotta",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7badc057-a927-4fe9-9054-ba29c73d8799",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
