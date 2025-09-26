@@ -21446,5 +21446,22 @@
         "date_posted": 1758914071,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7119071003",
+        "locations": [
+            "Essex, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lab USA",
+        "title": "Security Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5019da27-042d-49de-90c6-7de8b25c8bce",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
