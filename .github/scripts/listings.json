@@ -21205,5 +21205,22 @@
         "date_posted": 1758914023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914028,
+        "url": "https://careers-gdms.icims.com/jobs/68043/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "144eff6a-dc62-4d18-a267-46341e0bc998",
+        "date_posted": 1758914028,
+        "company_url": "",
+        "is_visible": true
     }
 ]
