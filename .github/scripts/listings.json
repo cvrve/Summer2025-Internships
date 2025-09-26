@@ -21378,5 +21378,22 @@
         "date_posted": 1758914059,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914061,
+        "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R6564",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OATEY",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "86e07e65-e65e-4a12-82bd-9f7cf63706c5",
+        "date_posted": 1758914061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
