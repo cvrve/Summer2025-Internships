@@ -21568,5 +21568,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "http://prizepicks.com/position?gh_jid=7387802003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": " PrizePicks",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7354d231-114c-4840-942d-4ee9e829ed55",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
