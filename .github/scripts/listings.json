@@ -21188,5 +21188,22 @@
         "date_posted": 1758750773,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914023,
+        "url": "https://eaton.eightfold.ai/careers/job/687232641662",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton Corporation",
+        "title": "Application Engineer Intern, Marketing",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a66f02f8-fb02-49da-b2d0-8202a6edb944",
+        "date_posted": 1758914023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
