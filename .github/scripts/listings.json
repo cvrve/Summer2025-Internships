@@ -21361,5 +21361,22 @@
         "date_posted": 1758914057,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914059,
+        "url": "https://www.nuharborsecurity.com/careers?gh_jid=7256174",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NuHarbor Security",
+        "title": "Intern - Cybersecurity",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ef5249fd-e6c3-4368-9eca-514373230465",
+        "date_posted": 1758914059,
+        "company_url": "",
+        "is_visible": true
     }
 ]
