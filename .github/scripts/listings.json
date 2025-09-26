@@ -21962,5 +21962,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003592",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Network Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fe623bd1-d076-41e6-9bb6-f86a3fecf876",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
