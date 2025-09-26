@@ -21463,5 +21463,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7478737003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lab USA",
+        "title": "Security Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f2fb4e7b-8e58-485c-9b7e-a75e94bc55a9",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
