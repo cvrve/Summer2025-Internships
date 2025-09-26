@@ -21928,5 +21928,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---ENG---DEG-EMBEDDED---PE_JR83301",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Intern - Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "770edb03-1c24-4762-8bf9-dfbee1326938",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
