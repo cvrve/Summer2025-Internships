@@ -21738,5 +21738,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714867461",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Intern - And Sensors Subsystem Engineering Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "62b709ed-db18-4cb9-8be3-6304f4ed8590",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
