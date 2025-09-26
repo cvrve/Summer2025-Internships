@@ -21704,5 +21704,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://job-boards.greenhouse.io/pendo/jobs/8185867002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pendo",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "93c020fd-c45a-479e-a6d4-15d26d342850",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
