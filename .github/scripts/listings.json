@@ -21497,5 +21497,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://jobs.bytedance.com/en/position/7553577564628191495/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0b437142-5a30-47cc-8ebf-623f4f223879",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
