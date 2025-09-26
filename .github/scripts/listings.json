@@ -8890,13 +8890,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755262954,
+        "date_updated": 1758913548,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Development-Intern_JR-047200",
         "locations": [
             "Champaign, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Brunswick",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -8907,13 +8907,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755262991,
+        "date_updated": 1758913550,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Front-End-Development-Intern_JR-047199",
         "locations": [
             "Champaign, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Brunswick",
         "title": "Front-End Development Intern",
         "source": "vanshb03",
@@ -9589,13 +9589,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755624360,
+        "date_updated": 1758913510,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5617444004",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Product Research Intern",
         "source": "vanshb03",
@@ -9657,13 +9657,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755726361,
+        "date_updated": 1758913561,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Backend Software Engineer Intern, Customer Acquisitions",
         "source": "vanshb03",
@@ -10275,13 +10275,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755919132,
+        "date_updated": 1758913589,
         "url": "https://devonenergy.wd5.myworkdayjobs.com/careers/job/Oklahoma-City-OK/Technology-Intern---Summer-2026_R25262",
         "locations": [
             "Oklahoma City, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Devon",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -11312,13 +11312,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756225638,
+        "date_updated": 1758913511,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nuro",
         "title": "Systems Engineering Intern, Scenario Taxonomy",
         "source": "vanshb03",
@@ -13422,13 +13422,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756537573,
+        "date_updated": 1758913511,
         "url": "https://job-boards.greenhouse.io/descriptinc/jobs/6671019003",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Descript",
         "title": "SWE Intern",
         "source": "vanshb03",
@@ -15308,14 +15308,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757294356,
+        "date_updated": 1758913511,
         "url": "https://job-boards.greenhouse.io/vercel/jobs/5628292004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Vercel",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -19774,13 +19774,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758913876,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op_2521735",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Data Scientist Co-op",
         "season": "Summer",
@@ -19791,13 +19791,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758913879,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-Op_R-033712",
         "locations": [
             "Peabody, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Test Engineering Co-Op",
         "season": "Summer",
@@ -19808,13 +19808,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758913881,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2521716",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "AI Scientist Co-op",
         "season": "Summer",
@@ -19859,13 +19859,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758913887,
         "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Business-Analyst-AI-Intern_R6109",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CAI",
         "title": "Business Analyst AI Intern",
         "season": "Summer",
@@ -20308,13 +20308,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758642118,
+        "date_updated": 1758913892,
         "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern---Data-Analytics_R2025-242307",
         "locations": [
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TransPerfect",
         "title": "Operations Intern, Data Analytics",
         "season": "Summer",
@@ -20666,7 +20666,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1758913908,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Alpharetta--V-Teamer-for-a-Day-2025-Global-Solutions-Intern-Program_R-1085779",
         "locations": [
             "Tampa, FL",
@@ -20677,7 +20677,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Verizon Communications",
         "title": "Global Solutions Intern",
         "season": "Summer",
@@ -20740,13 +20740,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1758913919,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01795801",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -20843,13 +20843,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758723884,
+        "date_updated": 1758913513,
         "url": "https://jobs.lever.co/raine/e4bb952f-8b02-4a96-87e0-e1d4447fa962",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Raine",
         "title": "Analyst Intern, Summer 2027",
         "source": "vanshb03",
@@ -20877,13 +20877,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758724250,
+        "date_updated": 1758913927,
         "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PayPal",
         "title": "Data Science Intern",
         "season": "Summer",
