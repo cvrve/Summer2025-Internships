@@ -21842,5 +21842,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://www.getfiber.ai/careers?gh_jid=4918711007",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiber",
+        "title": "Software Engineer Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4ed9585d-63c2-4530-a3ea-213ba05aafbd",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
