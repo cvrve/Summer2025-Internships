@@ -21548,5 +21548,25 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7241588",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c9170c9f-3b51-4b5a-9456-9df4943ff888",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
