@@ -21222,5 +21222,22 @@
         "date_posted": 1758914028,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914031,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern---Master-s-Degree_2502383",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Physical Design Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "626ab8ca-e46d-42b2-98c8-dfe592ca044d",
+        "date_posted": 1758914031,
+        "company_url": "",
+        "is_visible": true
     }
 ]
