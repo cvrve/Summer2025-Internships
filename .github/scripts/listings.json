@@ -21687,5 +21687,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2026-Summer-Data-Scientist-Intern_R14997",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MKS Instruments",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f1ff859a-7181-45c6-bce2-c6681f0c567c",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
