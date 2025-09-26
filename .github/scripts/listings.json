@@ -21429,5 +21429,22 @@
         "date_posted": 1758914069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914071,
+        "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Technology-Solutions-Internship_R25_0000003139",
+        "locations": [
+            "Daytona Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brown & Brown Insurance",
+        "title": "Technology Solutions Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "94dd9eb5-41ab-4141-838d-abe0f19e910d",
+        "date_posted": 1758914071,
+        "company_url": "",
+        "is_visible": true
     }
 ]
