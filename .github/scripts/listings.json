@@ -21307,5 +21307,22 @@
         "date_posted": 1758914038,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914043,
+        "url": "https://ideas-sas.icims.com/jobs/40100/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IDeaS",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d87344d9-6378-417a-8d7b-655b3fcadfb5",
+        "date_posted": 1758914043,
+        "company_url": "",
+        "is_visible": true
     }
 ]
