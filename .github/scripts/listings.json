@@ -21602,5 +21602,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114348",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "IT Business Systems Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "468fbb96-73ee-43c0-a912-895bbbb24df4",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
