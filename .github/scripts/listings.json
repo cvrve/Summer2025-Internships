@@ -21825,5 +21825,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2026-_WD45305",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarios",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d361d2e5-6827-40b4-9e4a-b43c3bcc7f81",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
