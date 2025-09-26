@@ -21395,5 +21395,22 @@
         "date_posted": 1758914061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914061,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Product Management Specialist 1 Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f63a784b-1076-4ac9-a35f-ac921d1062cb",
+        "date_posted": 1758914061,
+        "company_url": "",
+        "is_visible": true
     }
 ]
