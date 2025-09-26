@@ -21636,5 +21636,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://jobs.ashbyhq.com/oneapp/d018ba22-f5ec-48d0-9940-fea52877316c/application",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ONE Finance",
+        "title": "AI Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6547f4e1-a43d-4657-8ce9-017a57aabea2",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
