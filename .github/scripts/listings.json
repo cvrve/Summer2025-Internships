@@ -21772,5 +21772,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://jobs.smartrecruiters.com/RESPECInc/744000083769455",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RESPEC",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "65bdd7ff-9396-4bf3-a6f4-c58a9accecc7",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
