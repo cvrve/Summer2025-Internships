@@ -21996,5 +21996,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8168725002?gh_jid=8168725002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Business Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3ba976fe-e6c7-40d8-aaf0-e5ba8661c2c7",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
