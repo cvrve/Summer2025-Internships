@@ -21412,5 +21412,22 @@
         "date_posted": 1758914061,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914069,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1882694",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Robot Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d6df1be7-38de-4332-9292-a978aface40a",
+        "date_posted": 1758914069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
