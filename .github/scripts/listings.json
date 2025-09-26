@@ -21239,5 +21239,22 @@
         "date_posted": 1758914031,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914034,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Product Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5f7a1e9c-5326-400b-8ec4-2551e58291e4",
+        "date_posted": 1758914034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
