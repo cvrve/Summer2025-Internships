@@ -21480,5 +21480,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Security-AI-Summer-Intern_REQ-4421",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OCC",
+        "title": "Security AI Summer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "acdcdc63-8809-4fde-b632-d416fb387bbd",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
