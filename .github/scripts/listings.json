@@ -21273,5 +21273,22 @@
         "date_posted": 1758914036,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914037,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Phoenix-Arizona-United-States/Intern--Software-Engineer---Phoenix_R25-7324-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "541b178e-3e60-46b7-af63-d1fe2e33ce5d",
+        "date_posted": 1758914037,
+        "company_url": "",
+        "is_visible": true
     }
 ]
