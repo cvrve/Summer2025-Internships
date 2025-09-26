@@ -21789,5 +21789,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Business-Analytics-Intern_R29857",
+        "locations": [
+            "Sandy Springs, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veritiv Corporation",
+        "title": "Business Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9eda10c0-80d5-4f1b-8dcb-6fe7b85ee106",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
