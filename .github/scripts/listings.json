@@ -21979,5 +21979,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Application-Developer---Intern_R2025607",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Cross and Blue Shield of Kansas",
+        "title": "Application Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d969f09-21c2-4e3d-8767-f834c5219a2a",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
