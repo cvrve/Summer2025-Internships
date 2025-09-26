@@ -21859,5 +21859,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758916598,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Software-Development-Internship--_RQ207541",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GDIT",
+        "title": "Software Development Internship",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fddaa5cb-e3db-476c-affc-c7b53e4d34bc",
+        "date_posted": 1758916598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
