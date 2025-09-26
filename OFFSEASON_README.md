@@ -64,7 +64,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Gale | Software Engineer Intern | CA</br>US</br>Remote | <a href="https://www.workatastartup.com/jobs/80843?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Brunswick | Software Engineering Intern | <details><summary>**4 locations**</summary>Lowell, MI</br>Menomonee Falls, WI</br>Fond du Lac, WI</br>Mettawa, IL</details> | <a href="https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Tesla | Software Engineer Intern, Factory Software | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/248001?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
-| Descript | SWE Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/descriptinc/jobs/6671019003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | ZeroEntropy | Machine Learning Engineering Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/78042?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Yondu (W24) | Computer Vision Intern, Co-Op | Los Angeles, CA | <a href="https://www.workatastartup.com/jobs/79734?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | vly.ai | Full-Stack + Applied AI Software Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/76805?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
@@ -93,7 +92,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Capital One | Mobile Software Engineer Intern, Capital One Travel | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Full Stack Software Engineer Intern, Integrated Storefront | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Integrated-Storefront---Winter-2025_R223399?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | ↳ | Backend Software Engineer Intern, Team Planet Express | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Planet-Express---Winter-2026_R223398?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
-| ↳ | Backend Software Engineer Intern, Customer Acquisitions | Toronto, Canada | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Datadog | Software Engineering Intern | Boston, MA</br>New York, NY | <a href="https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | WeRide | Vehicle Embedded Engineer Intern, DBW | San Jose, CA | <a href="https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
@@ -200,10 +198,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
+| Descript | SWE Intern | San Francisco, CA | 🔒 | Aug 30 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | BitGo | Software Engineering Intern, Wallet Core | Waterloo, Canada | 🔒 | Aug 23 |
 | ↳ | Software Engineering Intern, HSM | Waterloo, Canada | 🔒 | Aug 23 |
-| Capital One | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
+| Capital One | Backend Software Engineer Intern, Customer Acquisitions | Toronto, Canada | 🔒 | Aug 20 |
+| ↳ | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
 | New York Post | Technology Intern | New York, NY | 🔒 | Aug 14 |
 | Vanguard | IT Co-Op Intern | Charlotte, NC | 🔒 | Aug 09 |
 | New York Red Bulls | Data Science Intern | Remote | 🔒 | Aug 09 |
