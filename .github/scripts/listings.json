@@ -21721,5 +21721,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://job-boards.greenhouse.io/pendo/jobs/8185903002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pendo",
+        "title": "Security Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b5822053-e41c-4a63-bfea-3174a8ce09e2",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
