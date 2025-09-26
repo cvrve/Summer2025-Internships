@@ -21324,5 +21324,22 @@
         "date_posted": 1758914043,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914049,
+        "url": "https://lifeattiktok.com/search/7552972859305265415",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "33d4bfbf-610f-436c-af5b-fb3a44543ce4",
+        "date_posted": 1758914049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
