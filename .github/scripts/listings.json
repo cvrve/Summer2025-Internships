@@ -21670,5 +21670,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Machine-Learning-Intern_R41048",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e66bfcaa-dd37-4637-9488-cd40f3668ab4",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
