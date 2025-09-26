@@ -21341,5 +21341,25 @@
         "date_posted": 1758914049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914057,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/HPC-AI-Software-Engineering-Intern_1192979",
+        "locations": [
+            "Eau Claire, WI",
+            "Andover, MA",
+            "San Jose, CA",
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "HPC/AI Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b8497414-cf6a-4635-b1bb-b855bcf81578",
+        "date_posted": 1758914057,
+        "company_url": "",
+        "is_visible": true
     }
 ]
