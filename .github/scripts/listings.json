@@ -21619,5 +21619,22 @@
         "date_posted": 1758914890,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758914890,
+        "url": "https://jobs.bytedance.com/en/position/7553574360100063496/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Cloud Acceleration Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "35528c51-8202-4b5f-88e7-8a8ba7daef5e",
+        "date_posted": 1758914890,
+        "company_url": "",
+        "is_visible": true
     }
 ]
