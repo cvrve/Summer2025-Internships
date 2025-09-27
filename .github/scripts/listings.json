@@ -22030,5 +22030,22 @@
         "date_posted": 1758916598,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758995669,
+        "url": "https://university-uber.icims.com/jobs/149140/job",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "711f3f2f-545d-4199-b893-5709f9c55be4",
+        "date_posted": 1758995669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
