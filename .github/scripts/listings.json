@@ -22081,5 +22081,22 @@
         "date_posted": 1759241462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759241482,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Software-Application-Development-Engineer-Intern_JR-0100548?source=Careers_Website_ec",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Software Application Development Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "44c1e467-6d38-4ff9-9148-47bfe0183e36",
+        "date_posted": 1759241482,
+        "company_url": "",
+        "is_visible": true
     }
 ]
