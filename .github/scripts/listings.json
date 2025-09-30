@@ -22047,5 +22047,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759241423,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Software-Development-Engineer-Intern_JR-0100469?source=Careers_Website_ec",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "c661ef4a-b451-4c65-9b8b-a214e4ecafd5",
+        "date_posted": 1759241423,
+        "company_url": "",
+        "is_visible": true
     }
 ]
