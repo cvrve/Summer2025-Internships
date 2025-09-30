@@ -22064,5 +22064,22 @@
         "date_posted": 1759241423,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759241462,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Machine-Learning-Engineer-Intern_JR-0100565?source=Careers_Website_ec",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "ecfe1b97-91bd-4b4c-943e-cc092ea97cb1",
+        "date_posted": 1759241462,
+        "company_url": "",
+        "is_visible": true
     }
 ]
