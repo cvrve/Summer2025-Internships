@@ -23331,5 +23331,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Network-Performance-Summer-2026-Internship_R-1086176",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon Communications",
+        "title": "Network Performance Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92dbb365-287d-4de2-9eb8-b496580966c4",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
