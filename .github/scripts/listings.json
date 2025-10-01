@@ -22338,5 +22338,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Tudor Group",
+        "title": "Quantitative Developer Intern (Pipeline Team)",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8930cbe5-2fdf-4c48-9077-2964a2803922",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
