@@ -22902,5 +22902,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/CR1---700-District/Business-Information-Security-Analyst--Co-Op_R-777978",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Business Information Security Analyst, Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "55c1799c-2b40-46a9-a5af-1b190167774b",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
