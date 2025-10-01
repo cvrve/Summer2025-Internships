@@ -22270,5 +22270,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R008530",
+        "locations": [
+            "Apex, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Novanta",
+        "title": "Engineering Intern - ATI Industrial Automation",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6048a610-0d39-4065-9f98-4742d8a17dd4",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
