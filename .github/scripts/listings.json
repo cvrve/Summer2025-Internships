@@ -22406,5 +22406,23 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/BOSTON/Emerging-Technology-Governance--Co-Op_R-778255",
+        "locations": [
+            "Boston, MA",
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Emerging Technology Governance, Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "28c100c4-0b47-44d8-86c9-a9412c5ce318",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
