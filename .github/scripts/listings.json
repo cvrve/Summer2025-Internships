@@ -23089,5 +23089,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000084664630",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AECOM",
+        "title": "Data Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "38e43dc8-d987-44f1-b420-1bf55ff8d139",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
