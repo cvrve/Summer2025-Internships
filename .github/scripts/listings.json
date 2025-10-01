@@ -23845,5 +23845,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7284195",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8af86be4-fbbd-4e5d-b96d-eb7ba77e1256",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
