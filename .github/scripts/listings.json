@@ -23706,5 +23706,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/gofundme/jobs/7284112",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GoFundMe",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ebfc0ed-b9d6-4efa-8ecb-99156e52c660",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
