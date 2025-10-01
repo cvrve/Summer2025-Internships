@@ -22885,5 +22885,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maven Securities",
+        "title": "Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "78a2d82e-48ad-4e6b-aca1-f15a861c0249",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
