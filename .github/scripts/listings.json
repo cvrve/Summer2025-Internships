@@ -24053,5 +24053,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759332844,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/104981114489053894-software-engineering-intern/",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Google",
+        "title": "Software Engineering Intern, Google Public Sector",
+        "source": "vanshb03",
+        "id": "38e5920f-6125-47af-b0a0-29891a4dee80",
+        "date_posted": 1759332844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
