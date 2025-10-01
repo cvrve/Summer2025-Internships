@@ -23229,5 +23229,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HCT99-Field-Office---CT-Remote-Location-Remote-City-CT-06101-USA/Data-Analytics-Intern--Summer-2026---Remote-_01787872-1",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b35de177-1562-44b1-b76e-49bfc909b739",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
