@@ -23638,5 +23638,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808803335",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Hardware Intern, Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ddb9842a-0b63-4206-b9c4-2d62052b9e69",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
