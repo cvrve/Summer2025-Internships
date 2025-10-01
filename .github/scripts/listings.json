@@ -22560,5 +22560,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://tsys.wd1.myworkdayjobs.com/tsys/job/Columbus-Georgia-USA/CyberSecurity-Intern_R0066310",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TSYS",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3db4732a-1420-486c-b42d-ffd14fc95b58",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
