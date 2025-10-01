@@ -22424,5 +22424,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM financial",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b38f85b0-d7f1-4345-a992-882506dd2811",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
