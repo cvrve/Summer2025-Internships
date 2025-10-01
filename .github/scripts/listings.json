@@ -22167,5 +22167,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759320940,
+        "url": "https://www.metacareers.com/jobs/1285593229833650",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "d962cc34-84fa-4ac4-8096-ef1af02cd89d",
+        "date_posted": 1759320940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
