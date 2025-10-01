@@ -23964,5 +23964,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/22709",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlantic Health System",
+        "title": "Systems Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "64139d65-5ff5-4c6f-9b55-6486c39910b6",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
