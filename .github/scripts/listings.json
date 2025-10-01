@@ -22355,5 +22355,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Intern---Raytheon-Missile-Defense-Sensors-Software--Engineer-Intern--On-site-_01794116",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Intern - Missile Defense Sensors",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e525b10f-7d6a-4e7c-8a14-9bdd9a365b00",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
