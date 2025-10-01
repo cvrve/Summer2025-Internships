@@ -22628,5 +22628,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3796-2026-Software-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lazard",
+        "title": "Software Engineer Intern - Data Analytics Group",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f6aed164-0707-4e38-9381-1950ae0db52a",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
