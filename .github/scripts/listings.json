@@ -22149,5 +22149,23 @@
         "date_posted": 1759257709,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759320934,
+        "url": "https://www.metacareers.com/jobs/1529043521440305/",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Security Engineer Intern, Posture Management",
+        "source": "vanshb03",
+        "id": "74c15b56-cd3d-4eac-9552-9d6a66c501f1",
+        "date_posted": 1759320934,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
