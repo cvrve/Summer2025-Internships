@@ -22781,5 +22781,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://careers-gdms.icims.com/jobs/68251/job",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Network Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5d7e15ef-8407-4fe6-83e2-1634337de3f8",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
