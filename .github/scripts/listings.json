@@ -22321,5 +22321,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Software-Engineer-Intern_R2112801",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KBR",
+        "title": "Software Engineer Intern - National Security Solutions",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fc083068-0a9e-4e65-a25a-8dab484ebf57",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
