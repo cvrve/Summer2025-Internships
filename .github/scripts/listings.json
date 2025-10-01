@@ -23777,5 +23777,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030120",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FOX",
+        "title": "Technology Internship Program",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e05d6e01-9785-4289-a470-9a26c21e47fb",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
