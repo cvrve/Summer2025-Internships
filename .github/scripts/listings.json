@@ -22543,5 +22543,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/CyberSecurity-Intern_R0066308",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Global Payments",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dfd333ed-ad65-44fe-9dd0-bf92ba13d0c6",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
