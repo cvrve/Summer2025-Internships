@@ -22696,5 +22696,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Audax Group",
+        "title": "AI Engineer Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b8b246f7-c464-49fc-bef6-3b8667d6d80c",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
