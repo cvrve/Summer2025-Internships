@@ -22594,5 +22594,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0028559",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer 1 ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0ecabb51-5f83-4141-9be1-cd0a1d94c8e9",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
