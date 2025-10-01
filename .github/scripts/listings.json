@@ -22201,5 +22201,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759320963,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1884365",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program Intern",
+        "source": "vanshb03",
+        "id": "df9aaee8-8b1f-45e1-927e-f401488b2974",
+        "date_posted": 1759320963,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
