@@ -23192,5 +23192,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HOR32-Wilsonville-OR-27300-SW-Parkway---Wilsonville-OR-97070-9215-USA/Software-SEPP-Engineering-Intern--Summer-2026--Onsite-_01796355",
+        "locations": [
+            "Tualatin, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern, Avionics Test Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c183ff8e-cba1-44bc-841a-edbb776fb21b",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
