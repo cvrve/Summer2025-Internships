@@ -23501,5 +23501,23 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineer--Co-Op_R-778491",
+        "locations": [
+            "Princeton, NJ",
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bdb582c6-e63a-4ca0-8cbb-099a34510dc0",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
