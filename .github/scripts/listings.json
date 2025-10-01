@@ -23004,5 +23004,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://careers-stonex.icims.com/jobs/13829/job",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "StoneX Group",
+        "title": "Market Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0c382a40-98c9-4784-8f0f-91e0ae4e047c",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
