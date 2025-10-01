@@ -23998,5 +23998,26 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://www.metacareers.com/jobs/828130993062040",
+        "locations": [
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Menlo Park, CA",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Data Scientist Intern, Product Analytics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2f94a42e-e59f-4335-9dd1-7c1d4a9f4473",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
