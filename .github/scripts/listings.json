@@ -22764,5 +22764,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://apply.workable.com/eluvio/j/B37F02D08D/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eluvio",
+        "title": "AI Machine Learning Intern - Gen AI - Multimodal",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "adf5886d-2915-4d4f-825f-023772ba93db",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
