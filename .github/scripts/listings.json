@@ -23896,5 +23896,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Summer-Intern---United-States--Atlanta--GA-_JR2505379",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AIG",
+        "title": "Gen AI Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b8a764cb-7f13-42c8-998a-4a77a642bddb",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
