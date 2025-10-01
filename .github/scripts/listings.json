@@ -23604,5 +23604,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/Network---Cybersecurity-Intern---Summer-2026_318082",
+        "locations": [
+            "High Point, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Network / Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d0f27e65-f237-49d8-99e7-49c58d656213",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
