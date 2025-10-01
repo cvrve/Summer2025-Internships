@@ -24070,5 +24070,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759341758,
+        "url": "https://www.riotgames.com/en/work-with-us/job/7254441/software-engineering-intern-summer-2026-remote-los-angeles-usa",
+        "locations": [
+            "Los Angeles, USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Riot Games",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "fcdc8882-3f7b-48cf-8d4f-7164289c989f",
+        "date_posted": 1759341758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
