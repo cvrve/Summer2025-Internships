@@ -23655,5 +23655,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Product-Marketing-Intern_R418736",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Product Marketing Intern, FreeWheel",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "61f4ac26-c766-415c-8f2a-43f3c9c90b13",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
