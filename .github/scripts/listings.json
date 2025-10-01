@@ -24019,5 +24019,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://zebra.eightfold.ai/careers/job/343635436582",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra Technologies",
+        "title": "Flutter Mobile App Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "479384d2-45a9-44ae-9522-ffa467a22d1d",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
