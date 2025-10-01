@@ -23621,5 +23621,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Software-Engineering-Internship_20167964-1",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cardinal Health",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ecbdd6ef-d65e-4671-ad21-fdd585962858",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
