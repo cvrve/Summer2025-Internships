@@ -22458,5 +22458,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Hammond-IN-Operating-HQ/Intern-NIPSCO-OT---Network_R00940829",
+        "locations": [
+            "Markham, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NiSource",
+        "title": "Intern Nipsco Ot - Network",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7af506b5-e7c9-4af9-92aa-9040dadc2494",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
