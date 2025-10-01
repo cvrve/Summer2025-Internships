@@ -22730,5 +22730,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://lifeattiktok.com/search/7553882083882797330",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Strategist Intern - Global Monetization Product and Technology",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5b34d905-4432-4c9e-b22c-4e69d7976749",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
