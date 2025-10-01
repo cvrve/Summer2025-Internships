@@ -23365,5 +23365,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Product-Engineering_R-25-13395",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moog ",
+        "title": "Product Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3c19e8f8-2973-4773-b0e9-30986ff8a6ba",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
