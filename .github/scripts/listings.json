@@ -22475,5 +22475,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR33780",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Verification Intern - Quality Assurance",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e53222e7-519b-4065-94c2-6b7a72f8fcae",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
