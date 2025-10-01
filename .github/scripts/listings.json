@@ -22577,5 +22577,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Comcast-Machine-Learning-Research---Engineering-Intern_R420084",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Comcast",
+        "title": "Machine Learning Research Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "79dab007-64d3-4241-8e05-4e520d2cbe43",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
