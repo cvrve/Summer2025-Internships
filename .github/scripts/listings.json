@@ -23587,5 +23587,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2026_317703",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Development Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a8a02de6-2aa8-43ea-9fe2-b70ea5e86ac6",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
