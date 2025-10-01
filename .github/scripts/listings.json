@@ -22492,5 +22492,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-GTIO-Intern-IL-60607/1329553100",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McDonald's",
+        "title": "Global Technology Intern - Global Technology Infrastructure & Operations",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "63b90f66-fc16-47bb-a4f3-6eed8f0670d9",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
