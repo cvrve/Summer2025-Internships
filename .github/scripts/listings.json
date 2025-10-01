@@ -22304,5 +22304,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://aexp.eightfold.ai/careers/job/38206900",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Campus Graduate Summer Internship Program - Product Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "20a5c67e-529f-42d0-9136-9e6d58ca5612",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
