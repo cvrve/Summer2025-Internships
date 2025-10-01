@@ -23930,5 +23930,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/4924752007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hive Financial Systems",
+        "title": "Business Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cba5666d-2950-444f-b06e-74013bfe293b",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
