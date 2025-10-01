@@ -23399,5 +23399,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern---C-_2025-18100",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineering Intern, C#",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d9dc6344-95b0-42f4-ad40-3ca3f9580f54",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
