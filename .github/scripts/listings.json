@@ -23570,5 +23570,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/datacor/jobs/4918298007",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datacor",
+        "title": "Internship Program",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9759d0d1-8ecc-4dcc-96a8-cb0206276eca",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
