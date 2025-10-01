@@ -23072,5 +23072,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---Infrastructure_R00295940",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Michaels Stores",
+        "title": "Information Technology Intern, Infrastructure",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6988b736-7958-49c4-ae68-9f41ae8fc311",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
