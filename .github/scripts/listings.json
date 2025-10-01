@@ -23140,5 +23140,23 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-MBA-Intern--Summer-2026_R202567742",
+        "locations": [
+            "Long Island, New York",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac8a5366-0b8d-439f-a0db-4c27ba9f969b",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
