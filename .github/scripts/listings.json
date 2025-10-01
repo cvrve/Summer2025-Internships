@@ -23209,5 +23209,25 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8190526002",
+        "locations": [
+            "Irvine, CA",
+            "Redmond, WA",
+            "West Athens, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Silicon Hardware Engineering Intern/Co-op, Silicon Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6e3b9346-1788-4182-8620-3bdb9f9a10de",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
