@@ -22252,5 +22252,23 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://careers-rambus.icims.com/jobs/22360/job",
+        "locations": [
+            "San Jose, CA",
+            "Westlake Village, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rambus",
+        "title": "Intern CAD Engineering - CAD Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3ad9f4c1-7ac3-437d-a3fa-08e152b18806",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
