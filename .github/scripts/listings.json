@@ -22798,5 +22798,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Engineer-Intern---Summer-2026_317955-1",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineer Intern, HighVIEW Product Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "be755f95-f149-4a01-b39b-661c913aa97d",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
