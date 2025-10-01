@@ -23348,5 +23348,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Full-Stack-Software-Development-Summer-Internship-2026_R-1086183",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon Communications",
+        "title": "Full Stack Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bc6105b5-1ea0-4a3e-a4cc-cd79487c9987",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
