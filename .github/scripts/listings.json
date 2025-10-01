@@ -22645,5 +22645,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210881",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern - Recommendation Systems",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bbcb5b28-83dc-4a0c-943b-407364d24e2c",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
