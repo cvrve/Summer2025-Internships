@@ -23828,5 +23828,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41054",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GuideWell Mutual",
+        "title": "IT Summer Graduate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "487e9812-97a2-401c-9c90-c60025ac0a79",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
