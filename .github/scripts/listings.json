@@ -22441,5 +22441,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Engineering-Undergraduate-Intern_R013783",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Data Engineering Intern - Imaging Spectroscopy Department",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "978bbdfc-943e-444b-94a1-59be062044cb",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
