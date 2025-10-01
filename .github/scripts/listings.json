@@ -22184,5 +22184,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759320959,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1884627",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Explore Program Intern",
+        "source": "vanshb03",
+        "id": "d8a96ef3-bc47-419b-ba46-268387f2cefd",
+        "date_posted": 1759320959,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
