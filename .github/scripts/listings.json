@@ -23689,5 +23689,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/gofundme/jobs/7280698",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GoFundMe",
+        "title": "Data and Analytics Intern, Data and Decision Science",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6513bb24-6dc4-42b2-81e4-bcd87f652515",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
