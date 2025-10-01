@@ -22389,5 +22389,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Technology-Internship---Summer-2026_R21915",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "World Kinect",
+        "title": "Technology Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ee64f7e-18fd-4ff2-8ed1-97abf035a4b0",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
