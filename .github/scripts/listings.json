@@ -22287,5 +22287,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7478636003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern - System Software Engineer - CXL",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "57cdb173-0f10-432a-a04f-3572449bd0e9",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
