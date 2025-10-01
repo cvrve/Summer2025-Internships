@@ -23811,5 +23811,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/ServiceNow-Developer-Intern_2530483",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "ServiceNow Developer Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e58cd0cc-68d6-45fe-b6e2-376f213e3dc3",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
