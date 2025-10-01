@@ -23021,5 +23021,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://paypal.eightfold.ai/careers/job/274915802833",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Machine Learning Engineer Intern ",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "101a2499-1b3d-4b80-baa7-6a3853fc12de",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
