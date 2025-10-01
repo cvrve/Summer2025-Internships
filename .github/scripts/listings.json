@@ -23106,5 +23106,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-Intern_R-033873",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Technology Leadership Development Program",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3dd60b50-2d27-40f8-b91c-b3d4b7d96297",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
