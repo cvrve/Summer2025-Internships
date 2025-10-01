@@ -23246,5 +23246,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80620",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Macy's",
+        "title": "Business Operations Intern/Co-op, Product Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "25e6e96f-e436-4817-bba3-0ba2723ebdc6",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
