@@ -23158,5 +23158,22 @@
         "date_posted": 1759321007,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759321007,
+        "url": "https://careers-sig.icims.com/jobs/9859/job",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "Linux Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92b434f0-6ce4-4d7a-926f-6da7a60bc2af",
+        "date_posted": 1759321007,
+        "company_url": "",
+        "is_visible": true
     }
 ]
