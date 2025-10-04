@@ -24342,5 +24342,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597840,
+        "url": "https://seagatecareers.com/job/Shakopee-Firmware-Engineering-Internship-Summer-2026-MN/1331398300/",
+        "locations": [
+            "Shakopee, MN",
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "a6d379d2-aae3-4d29-9e54-b95fa8c14ec3",
+        "date_posted": 1759597840,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
