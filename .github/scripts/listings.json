@@ -24222,5 +24222,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597721,
+        "url": "https://jobs.adt.com/job/22497578/devops-cloud-engineer-intern-boca-raton-fl/",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ADT",
+        "title": "DevOps & Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "1a2c9c9e-6ac5-4455-ad5f-b393ff93fda3",
+        "date_posted": 1759597721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
