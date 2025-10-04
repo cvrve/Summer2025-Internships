@@ -24360,5 +24360,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597844,
+        "url": "https://careers.skyworksinc.com/job/Austin-Timing-Engineer-Summer-Intern-%28May-'26-Aug-'26%29-TX-73301/1322327900/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Timing Engineer Intern",
+        "source": "vanshb03",
+        "id": "70828528-242c-4fa7-9cd3-b45be73675b0",
+        "date_posted": 1759597844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
