@@ -24290,5 +24290,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597734,
+        "url": "https://jobs.jobvite.com/careers/idtus/job/oLGfyfwY",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Innovative Defense Technologies (IDT)",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "a9ef3980-00e1-4109-9cf8-2211afb3035d",
+        "date_posted": 1759597734,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
