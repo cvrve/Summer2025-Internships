@@ -24325,5 +24325,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597810,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2026-Summer-Intern---Motorsports--Software-Engineering_JR-202515322",
+        "locations": [
+            "Concord, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GM",
+        "title": "Software Engineer Intern, Motorsports",
+        "source": "vanshb03",
+        "id": "97d8d5bb-24f3-4f12-8875-bb78973f3011",
+        "date_posted": 1759597810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
