@@ -24377,5 +24377,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597855,
+        "url": "https://jobs.statefarm.com/main/jobs/41952/job",
+        "locations": [
+            "Bloomington, IL",
+            "Dallas, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "State Farm",
+        "title": "Software Developer Intern, Claims BASD",
+        "source": "vanshb03",
+        "id": "91cabc12-6e53-4de3-9ae7-d01fe2539df5",
+        "date_posted": 1759597855,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
