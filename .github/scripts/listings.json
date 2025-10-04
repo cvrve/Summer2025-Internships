@@ -24256,5 +24256,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597730,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Princeton-IL/Digital-Manufacturing-Intern_JR34017-1",
+        "locations": [
+            "Princeton, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Digital Manufacturing Intern",
+        "source": "vanshb03",
+        "id": "fac54063-c677-435c-a635-fa51918b3489",
+        "date_posted": 1759597730,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
