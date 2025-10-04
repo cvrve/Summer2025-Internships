@@ -24239,5 +24239,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597726,
+        "url": "https://jobs.adt.com/job/22497584/software-development-intern-boca-raton-fl/",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ADT",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "2da03515-cfce-4147-a259-dcc3133c993e",
+        "date_posted": 1759597726,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
