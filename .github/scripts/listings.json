@@ -24307,5 +24307,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597736,
+        "url": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt/apply",
+        "locations": [
+            "Arlington, VA",
+            "Mount Laurel, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Innovative Defense Technologies (IDT)",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ee236bb8-c513-4528-9167-cc17b373081d",
+        "date_posted": 1759597736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
