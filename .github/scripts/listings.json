@@ -24273,5 +24273,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597732,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---VA-Herndon/Software-Engineering-Intern-Summer-2026_R173159-1",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5a1e5563-3e85-4e8c-8b94-10ac9fcf380e",
+        "date_posted": 1759597732,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
