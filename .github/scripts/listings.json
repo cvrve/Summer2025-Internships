@@ -24186,5 +24186,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597150,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Embedded Computing Engineer Intern",
+        "source": "vanshb03",
+        "id": "a094d4c2-e767-45ca-9871-3067209555fe",
+        "date_posted": 1759597150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
