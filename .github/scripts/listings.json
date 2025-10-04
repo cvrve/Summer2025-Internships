@@ -24204,5 +24204,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597155,
+        "url": "https://jobs.dayforcehcm.com/en-US/centralins/CANDIDATEPORTAL/jobs/6169",
+        "locations": [
+            "Van Wert, OH",
+            "Dublin, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Central",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "aca2a291-e14d-44df-b0fb-def07a5e6e6c",
+        "date_posted": 1759597155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
