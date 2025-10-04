@@ -24166,5 +24166,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759597143,
+        "url": "https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Seattle, WA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Whatnot",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d5ed8b03-3be5-4aeb-bed7-a98838e6cf39",
+        "date_posted": 1759597143,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
