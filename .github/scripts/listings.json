@@ -25033,5 +25033,22 @@
         "date_posted": 1759771672,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759781988,
+        "url": "https://explore.jobs.netflix.net/careers/job/790312348360?microsite=vansh.nyc",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "56c311ee-b5c4-4f0d-b976-d3b10352c737",
+        "date_posted": 1759781988,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
