@@ -24691,5 +24691,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Software-Development-Intern_R41756",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d8d6512-9bfc-45ad-a6c0-6b71d71d6731",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
