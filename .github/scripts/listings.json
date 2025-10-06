@@ -24396,5 +24396,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759604248,
+        "url": "https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern/694/86769742816",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Cyber Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "fc6c8de1-27c2-4697-b382-05e8f58e11f0",
+        "date_posted": 1759604248,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
