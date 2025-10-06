@@ -24601,5 +24601,24 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/22778",
+        "locations": [
+            "Summit, NJ",
+            "Morristown, NJ",
+            "Wayne, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlantic Health System",
+        "title": "IT Support Technician Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "be8d590e-ae27-4070-86ff-279eb3475be1",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
