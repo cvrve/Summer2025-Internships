@@ -24584,5 +24584,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Desktop-Engineering-Associate--Co-Op_R-778571",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Desktop Engineering Associate, Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d05154b-be9e-4660-90dc-80085e9ddf61",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
