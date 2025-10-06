@@ -24413,5 +24413,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759767611,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Software-Engineering_JR2005168",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e5c69eff-15c9-438d-bcea-a294077aa3f3",
+        "date_posted": 1759767611,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
