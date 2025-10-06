@@ -24913,5 +24913,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Data-Science-Intern_DT-15389",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "Data Science Intern, Daimler Truck Remarketing, Machine Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5421565a-b22a-4973-b0c3-64b275512e1e",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
