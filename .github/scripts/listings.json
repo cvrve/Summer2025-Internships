@@ -24965,5 +24965,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/IT-Developer-Analyst-Intern_DT-15618",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "IT Developer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "219c3e2d-752a-4437-b026-49cd8578b15e",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
