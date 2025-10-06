@@ -24999,5 +24999,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759771647,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8174019002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twitch",
+        "title": "Undergrad Software Engineering Intern",
+        "season": "Summer",
+        "source": "shahsalonik",
+        "id": "ad121b67-1946-46e2-8dbb-f02babe3afc8",
+        "date_posted": 1759771647,
+        "company_url": "",
+        "is_visible": true
     }
 ]
