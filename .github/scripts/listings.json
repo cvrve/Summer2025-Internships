@@ -24896,5 +24896,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/AI-Documentation-Integration-Intern---Autonomous-Cascadia_DT-15546",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "AI Documentation Integration Intern, Autonomous Cascadia",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b6bb68e2-8042-4cd3-8738-bfcb7ed736a4",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
