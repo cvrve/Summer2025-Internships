@@ -24811,5 +24811,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://johndeere.eightfold.ai/careers/job/137476749430",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Data and Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "39d363f0-bacb-459a-847d-a87dde7c4c5a",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
