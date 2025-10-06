@@ -24930,5 +24930,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
+        "locations": [
+            "USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "Data Science Intern, Industries",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c5bf9c6c-f3f2-4074-a802-83997ceefa13",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
