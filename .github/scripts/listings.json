@@ -24793,5 +24793,23 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7191000",
+        "locations": [
+            "Summit, NJ",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles River Associates (CRA)",
+        "title": "Data Analytics Consulting Analyst/Associate Intern, Life Sciences/Analytics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bae0ed96-8ea8-4427-8afb-9d9afafadff8",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
