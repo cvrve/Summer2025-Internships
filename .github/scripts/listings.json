@@ -24637,5 +24637,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714977804",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7d49b410-f77a-48c8-9db7-36cabde880ef",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
