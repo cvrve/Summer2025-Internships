@@ -24481,5 +24481,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759767627,
+        "url": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
+        "locations": [
+            "Niskayuna, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Momentive",
+        "title": "Software Developer Intern, 2026",
+        "source": "vanshb03",
+        "id": "fe418c7e-eac9-469b-8b7f-58a4f43b7ba4",
+        "date_posted": 1759767627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
