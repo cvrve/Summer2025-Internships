@@ -24567,5 +24567,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Roseville-CA/University---Software-Developer_R0225554",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "Software Developer Intern, Full Stack Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7f0bfe66-148b-45ed-8d95-932e71903526",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
