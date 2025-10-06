@@ -25016,5 +25016,22 @@
         "date_posted": 1759771647,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759771672,
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=4309096414&f_C=39939%2C9202023%2C2587638%2C1337&f_E=1&f_F=eng&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Linkedin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4abd8bd3-006b-4aea-9897-c261b55602c7",
+        "date_posted": 1759771672,
+        "company_url": "",
+        "is_visible": true
     }
 ]
