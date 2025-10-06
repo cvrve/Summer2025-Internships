@@ -24620,5 +24620,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Cybersecurity-Summer-Intern_R25_994",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "82f837ea-eb0f-405d-aebb-9bea000dcab7",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
