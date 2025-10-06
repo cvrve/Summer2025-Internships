@@ -24845,5 +24845,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Online-Software-Engineer-Co-op/210922",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Online Software Engineer Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "27a14ce0-2367-4b4e-927e-f2b7b3ac1ce8",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
