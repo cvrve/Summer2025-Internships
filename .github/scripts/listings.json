@@ -24982,5 +24982,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KCF Technologies",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "922b5ed1-fead-4c1b-a3e3-1c2e838fcd27",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
