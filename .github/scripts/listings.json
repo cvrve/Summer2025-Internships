@@ -24947,5 +24947,23 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
+        "locations": [
+            "Arlington, VA",
+            "Mount Laurel, NJ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Innovative Defense Technologies",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4c671889-ab25-48f9-959e-8aeb0a7814d1",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
