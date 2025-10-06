@@ -24532,5 +24532,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759768175,
+        "url": "https://www.workatastartup.com/jobs/82607",
+        "locations": [
+            "Gardena, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Yondu",
+        "title": "Robotics Intern",
+        "source": "vanshb03",
+        "id": "1fd83976-4580-45af-90bc-4d8704a3a079",
+        "date_posted": 1759768175,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
