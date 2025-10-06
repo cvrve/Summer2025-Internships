@@ -24498,5 +24498,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759768166,
+        "url": "https://www.workatastartup.com/jobs/82823",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Speak (W17)",
+        "title": "AI Product Engineer Intern",
+        "source": "vanshb03",
+        "id": "d6ab4e59-0d2d-4189-9fae-37f2fbb9bf63",
+        "date_posted": 1759768166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
