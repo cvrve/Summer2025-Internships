@@ -24447,5 +24447,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759767618,
+        "url": "https://join.sephora.com/careers/job/790312030968",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Machine Learning Engineer Intern, Technology",
+        "source": "vanshb03",
+        "id": "e7f367e3-b000-4d98-841e-8e4a1390db76",
+        "date_posted": 1759767618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
