@@ -24828,5 +24828,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://job-boards.greenhouse.io/breezeairways/jobs/7485035003",
+        "locations": [
+            "Cottonwood Heights, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Breeze Airways",
+        "title": "Ancillary Revenue & Guest Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "51e92c41-e7d8-46da-942d-5af5489ef10c",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
