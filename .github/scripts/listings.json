@@ -24708,5 +24708,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://careers-snapon.icims.com/jobs/16233/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Kenosha, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snap-on",
+        "title": "College Intern - GMIS Conference",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1af5f029-a34b-437a-ab0e-3339860535d7",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
