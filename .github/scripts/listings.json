@@ -24725,5 +24725,22 @@
         "date_posted": 1759768915,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759768915,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/IT-Strategy-and-Change-Analyst--Co-Op_R-778572",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "IT Strategy and Change Analyst Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de7f16ba-5551-45a0-ab29-cf9e2df0e357",
+        "date_posted": 1759768915,
+        "company_url": "",
+        "is_visible": true
     }
 ]
