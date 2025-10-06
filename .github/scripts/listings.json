@@ -25050,5 +25050,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759786472,
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7262223",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Los Angeles, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DoorDash",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e9f67dbe-8f0b-497d-84fa-d454182d9123",
+        "date_posted": 1759786472,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
