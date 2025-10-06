@@ -24430,5 +24430,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759767616,
+        "url": "https://join.sephora.com/careers/job/790312030985",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "Intern, Marketplace Engineering",
+        "source": "vanshb03",
+        "id": "dac62297-6354-47cd-a0d8-46198feca113",
+        "date_posted": 1759767616,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
