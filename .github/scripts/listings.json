@@ -25071,5 +25071,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759853819,
+        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
+        "locations": [
+            "State College, PA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KCF Technologies",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a7bcc265-352f-417e-8fd8-053c26f4f4d7",
+        "date_posted": 1759853819,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
