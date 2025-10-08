@@ -25192,5 +25192,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759853825,
+        "url": "https://www.lockheedmartinjobs.com/job/denver/cyber-software-engineer-intern/694/86972661296",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Cyber Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4428620c-10cf-46a6-bc73-e5a5e0fb6d7c",
+        "date_posted": 1759853825,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
