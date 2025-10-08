@@ -25277,5 +25277,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759889122,
+        "url": "https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=CAUSCAPI&cws=37&rid=174",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Causeway",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "43c1ea44-e6cc-4a14-bbec-56e991144a90",
+        "date_posted": 1759889122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
