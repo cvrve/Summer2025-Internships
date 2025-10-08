@@ -25260,5 +25260,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759867102,
+        "url": "https://jobs.jobvite.com/src-inc/job/ohUjyfwM",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SRC Inc.",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "24f88238-737a-4974-b0c6-4cee7071af8b",
+        "date_posted": 1759867102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
