@@ -25209,5 +25209,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759853830,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Applications Engineer Intern",
+        "source": "vanshb03",
+        "id": "93c82fae-91b3-4aec-9da4-f722abcfda08",
+        "date_posted": 1759853830,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
