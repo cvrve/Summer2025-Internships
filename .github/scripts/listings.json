@@ -25226,5 +25226,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759867077,
+        "url": "https://careers.micron.com/careers/job/38429491",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "SSD Firmware Intern, Data Center",
+        "source": "vanshb03",
+        "id": "efaf7583-761d-49ff-a36e-55ab754eecb8",
+        "date_posted": 1759867077,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
