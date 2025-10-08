@@ -17575,13 +17575,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757734158,
+        "date_updated": 1759867354,
         "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Engineering-Intern--Sales-Technology-----Summer-2026_R2515210",
         "locations": [
             "Northbrook, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Medline",
         "title": "IT Software Engineering Intern, Sales Technology",
         "source": "vanshb03",
@@ -21034,13 +21034,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758724292,
+        "date_updated": 1759867418,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/XMLNAME-2026-Software-Engineering-Intern---Huntsville-AL_R10208559-1",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -21258,13 +21258,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914036,
+        "date_updated": 1759867426,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521255",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "IT Project Coordinator Co-op - Technology, Infrastructure, and Innovation",
         "season": "Summer",
@@ -22391,13 +22391,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1759867490,
         "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/Technology-Internship---Summer-2026_R21915",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "World Kinect",
         "title": "Technology Intern ",
         "season": "Summer",
@@ -22443,13 +22443,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1759867496,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Engineering-Undergraduate-Intern_R013783",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Aerospace Corporation",
         "title": "Data Engineering Intern - Imaging Spectroscopy Department",
         "season": "Summer",
@@ -24915,13 +24915,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1759867664,
         "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Data-Science-Intern_DT-15389",
         "locations": [
             "Fort Mill, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Daimler Truck",
         "title": "Data Science Intern, Daimler Truck Remarketing, Machine Learning",
         "season": "Summer",
@@ -25068,109 +25068,6 @@
         "source": "vanshb03",
         "id": "e9f67dbe-8f0b-497d-84fa-d454182d9123",
         "date_posted": 1759786472,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759853819,
-        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
-        "locations": [
-            "State College, PA",
-            "Remote"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "KCF Technologies",
-        "title": "Software Engineering Intern",
-        "source": "vanshb03",
-        "id": "a7bcc265-352f-417e-8fd8-053c26f4f4d7",
-        "date_posted": 1759853819,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759853825,
-        "url": "https://www.lockheedmartinjobs.com/job/denver/cyber-software-engineer-intern/694/86972661296",
-        "locations": [
-            "Denver, CO"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "Lockheed Martin",
-        "title": "Cyber Software Engineer Intern",
-        "source": "vanshb03",
-        "id": "4428620c-10cf-46a6-bc73-e5a5e0fb6d7c",
-        "date_posted": 1759853825,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759853830,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Analog Devices",
-        "title": "Applications Engineer Intern",
-        "source": "vanshb03",
-        "id": "93c82fae-91b3-4aec-9da4-f722abcfda08",
-        "date_posted": 1759853830,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759867077,
-        "url": "https://careers.micron.com/careers/job/38429491",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Micron Technology",
-        "title": "SSD Firmware Intern, Data Center",
-        "source": "vanshb03",
-        "id": "efaf7583-761d-49ff-a36e-55ab754eecb8",
-        "date_posted": 1759867077,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759867082,
-        "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville/Intern-Embedded-Software-Engineering-Murrysville--PA-Summer-2026_564982",
-        "locations": [
-            "Murrysville, PA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "company_name": "Philips",
-        "title": "Embedded Software Engineering Intern",
-        "source": "vanshb03",
-        "id": "eb1bb1e6-671b-4d63-9030-797020d14e9f",
-        "date_posted": 1759867082,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1759867102,
-        "url": "https://jobs.jobvite.com/src-inc/job/ohUjyfwM",
-        "locations": [
-            "Syracuse, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "SRC Inc.",
-        "title": "Firmware Engineer Intern",
-        "source": "vanshb03",
-        "id": "24f88238-737a-4974-b0c6-4cee7071af8b",
-        "date_posted": 1759867102,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
