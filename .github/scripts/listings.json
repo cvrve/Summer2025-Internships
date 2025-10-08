@@ -25243,5 +25243,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759867082,
+        "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville/Intern-Embedded-Software-Engineering-Murrysville--PA-Summer-2026_564982",
+        "locations": [
+            "Murrysville, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "eb1bb1e6-671b-4d63-9030-797020d14e9f",
+        "date_posted": 1759867082,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
