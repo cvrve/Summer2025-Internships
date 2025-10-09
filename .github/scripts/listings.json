@@ -3634,13 +3634,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391711,
+        "date_updated": 1760031937,
         "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, Commercial",
         "season": "Summer",
@@ -17661,13 +17661,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733638,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -17730,13 +17730,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733695,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7245680",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "DMFI Summer Analyst Intern",
         "source": "vanshb03",
@@ -17747,13 +17747,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733707,
+        "date_updated": 1760031943,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Business Analytics Intern",
         "source": "vanshb03",
@@ -23847,13 +23847,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7284195",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Quantitative Research Intern",
         "season": "Summer",
@@ -25073,14 +25073,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759853819,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
         "locations": [
             "State College, PA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -25176,14 +25176,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759853819,
+        "date_updated": 1760031947,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5662282004",
         "locations": [
             "State College, PA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
