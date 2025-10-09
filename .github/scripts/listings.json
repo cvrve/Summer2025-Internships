@@ -25401,5 +25401,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035462,
+        "url": "https://careers.expediagroup.com/jobs/job/?Machine+Learning+Science+Intern+-+Masters+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98584",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Machine Learning Science Intern, Masters",
+        "source": "vanshb03",
+        "id": "80d83b0e-e723-4796-b32d-09a320d4ecd9",
+        "date_posted": 1760035462,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
