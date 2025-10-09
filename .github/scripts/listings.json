@@ -25294,5 +25294,24 @@
         "date_posted": 1759889122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759976355,
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art",
+        "locations": [
+            "Woodland Hills, CA",
+            "Irvine, CA",
+            "Playa Vista, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Tech Art Intern",
+        "source": "vanshb03",
+        "id": "6acc720c-d913-4527-9717-55635ad6bdf6",
+        "date_posted": 1759976355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
