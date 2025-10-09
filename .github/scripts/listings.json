@@ -25330,5 +25330,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760031882,
+        "url": "https://ats.rippling.com/en-GB/chess/jobs/de7de575-d89b-4039-a2ce-ca68ef79c536",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chess.com",
+        "title": "Engineering Intern, Frontend",
+        "source": "vanshb03",
+        "id": "b9d5fd39-f2d2-403a-948e-9bf1fdbffb0b",
+        "date_posted": 1760031882,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
