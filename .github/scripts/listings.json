@@ -25813,5 +25813,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eight Sleep",
+        "title": "AI/ML Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c84dd8ef-2fbc-466a-a637-1c8a55a40ae4",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
