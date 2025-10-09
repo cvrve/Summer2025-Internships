@@ -25419,5 +25419,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035465,
+        "url": "https://careers.expediagroup.com/jobs/job/?Machine+Learning+Science+Intern+-+PhD+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98585",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Machine Learning Science Intern, PhD",
+        "source": "vanshb03",
+        "id": "c09c0b25-3281-441d-b578-312edbbad744",
+        "date_posted": 1760035465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
