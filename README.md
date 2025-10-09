@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Waymo | Generative Synthetic Data Intern | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-generative-synthetic-data-mountain-view-california-united-states?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
+| Activision Blizzard | Tech Art Intern | Woodland Hills, CA</br>Irvine, CA</br>Playa Vista, CA | <a href="https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | SRC Inc. | Firmware Engineer Intern | Syracuse, NY | <a href="https://jobs.jobvite.com/src-inc/job/ohUjyfwM?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Firmware Engineer Intern | Syracuse, NY | <a href="https://jobs.jobvite.com/src-inc/job/ohUjyfwM?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Philips | Embedded Software Engineering Intern 🛂 | Murrysville, PA | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville/Intern-Embedded-Software-Engineering-Murrysville--PA-Summer-2026_564982?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
