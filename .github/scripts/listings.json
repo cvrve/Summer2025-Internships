@@ -25778,5 +25778,23 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.ashbyhq.com/patreon/68ee2ece-6200-411b-8ccf-a1841b947e9a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Patreon",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dfcd794d-18c0-49d4-928e-2f5d15346663",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
