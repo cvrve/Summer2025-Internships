@@ -25455,5 +25455,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035627,
+        "url": "https://careers.expediagroup.com/jobs/job/?Security+Engineering+Intern+-+2026+-+Seattle-Seattle-Washington-j-R-98636",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "509986ff-c4e6-4cde-92e4-f951cd911700",
+        "date_posted": 1760035627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
