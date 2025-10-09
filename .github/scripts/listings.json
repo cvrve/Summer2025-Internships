@@ -25540,5 +25540,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58226",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "37cec51e-ad32-4c03-9171-73895fd046df",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
