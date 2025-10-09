@@ -25574,5 +25574,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://jobs.lumen.com/global/en/job/340218",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Strategic Fiber Planning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6e759d28-b981-40c9-84a2-ad499de4bbaa",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
