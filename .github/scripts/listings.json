@@ -25523,5 +25523,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Edge-AI-Engineering-Intern--Summer-2026-_R57897",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Edge AI Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b101f83a-fa37-482b-951b-64dc743de701",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
