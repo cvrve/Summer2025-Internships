@@ -25313,5 +25313,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1759976364,
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-generative-synthetic-data-mountain-view-california-united-states",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Generative Synthetic Data Intern",
+        "source": "vanshb03",
+        "id": "4a378c3b-847f-4201-8b39-cd1f38bbe047",
+        "date_posted": 1759976364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
