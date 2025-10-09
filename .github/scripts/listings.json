@@ -25437,5 +25437,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035624,
+        "url": "https://careers.expediagroup.com/jobs/job/?Cloud+Engineering+Intern+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98634",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Cloud Engineering Intern",
+        "source": "vanshb03",
+        "id": "3589a07a-d92b-4968-a941-2a6c4d2fe679",
+        "date_posted": 1760035624,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
