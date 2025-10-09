@@ -25364,5 +25364,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035632,
+        "url": "https://careers.expediagroup.com/jobs/job/?Mobile+Engineering+Intern+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98637",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Mobile Engineering Intern",
+        "source": "vanshb03",
+        "id": "8ecbce0d-c693-4a46-8443-ce72766eb9b1",
+        "date_posted": 1760035632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
