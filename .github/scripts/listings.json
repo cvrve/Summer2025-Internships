@@ -25382,5 +25382,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760035458,
+        "url": "https://careers.expediagroup.com/jobs/job/?Software+Development+Engineering+Intern+-+2026+-+Austin%2C+San+Jose%2C+Seattle-Austin-Texas-j-R-98557",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "2f7bdbc4-830b-4cb3-8544-1838718bedef",
+        "date_posted": 1760035458,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
