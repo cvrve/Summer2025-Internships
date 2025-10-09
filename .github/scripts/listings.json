@@ -25489,5 +25489,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760035726,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/7965",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seaspan",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6567dbc5-54e1-49fb-8882-7f5ff16bd3d2",
+        "date_posted": 1760035726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
