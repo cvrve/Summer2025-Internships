@@ -25779,5 +25779,26 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Intern-Network-Planning-&-Engineering-NY-11714/1332899600/?ats=successfactors",
+        "locations": [
+            "Plainview, NY",
+            "Golden, CO",
+            "Wakefield, MA",
+            "New York, NY",
+            "White Plains, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Network Planning & Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "49e8715c-8cf3-4896-baca-d453c2d1dc73",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
