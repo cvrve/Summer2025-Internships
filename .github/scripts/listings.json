@@ -25885,5 +25885,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://seagatecareers.com/job/Bloomington-Wafer-Metrology-Internship-Summer-2026-MN/1333345600/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Wafer Metrology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4e9ceb35-18af-466a-8834-82d7dd19bb5e",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
