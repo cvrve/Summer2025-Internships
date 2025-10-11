@@ -26091,5 +26091,23 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://job-boards.greenhouse.io/godaddyemployeereferrals/jobs/6645311003",
+        "locations": [
+            "Remote in USA",
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GoDaddy",
+        "title": "Tech Internship 2026 - General Referral",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "005c9f85-e23f-4c70-a939-899b2335c6c6",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
