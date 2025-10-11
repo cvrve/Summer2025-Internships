@@ -26469,5 +26469,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Manufacturing-Development-Engineering---Process_JR82916",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Intern - Manufacturing Development Engineering - Process",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3374dc42-83c5-4995-bf4c-8627908e72cc",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
