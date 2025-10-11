@@ -25694,5 +25694,22 @@
         "date_posted": 1760035726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760208133,
+        "url": "https://join.sephora.com/careers/job/790312348148",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "IT Warehouse & Distribution Automation Intern",
+        "season": "Summer",
+        "source": "dariadobrolinski",
+        "id": "17127839-ec56-4163-b7b8-dd1e9d4a1e3f",
+        "date_posted": 1760208133,
+        "company_url": "",
+        "is_visible": true
     }
 ]
