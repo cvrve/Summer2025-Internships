@@ -26367,5 +26367,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.lumen.com/global/en/job/340174",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Intern \u2013 AI Governance",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3586674d-88d2-41c1-a052-c096ba81ae1b",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
