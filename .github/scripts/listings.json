@@ -25919,5 +25919,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8196740002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nextiva",
+        "title": "AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e0e53a5d-4016-47e7-b4f0-f442beb0d58e",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
