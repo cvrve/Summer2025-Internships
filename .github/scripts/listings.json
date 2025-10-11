@@ -25800,5 +25800,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Intern-Product-Manager-NY-11714/1333305700/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c17e0e8f-2a13-4fb3-9cbd-bff77354f79d",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
