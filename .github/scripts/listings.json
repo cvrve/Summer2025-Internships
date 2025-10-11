@@ -26177,5 +26177,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://ats.rippling.com/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chess",
+        "title": "Engineering Internship, Backend",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f9415bae-2c81-47d6-85c5-ada4ec6c12c8",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
