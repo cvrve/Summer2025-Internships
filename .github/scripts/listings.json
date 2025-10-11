@@ -26589,5 +26589,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4828939007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Mission Operations Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cf37477a-1278-45b0-8cfe-ffd5760b7bdb",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
