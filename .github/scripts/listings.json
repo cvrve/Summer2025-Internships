@@ -26074,5 +26074,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://seagatecareers.com/job/Bloomington-Wafer-Manufacturing-Intern-MN/1333017700/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology ",
+        "title": "Wafer Manufacturing Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6ea62b00-ad00-4831-b6a2-19ff67dc3809",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
