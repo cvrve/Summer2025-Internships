@@ -25817,5 +25817,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105106",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Technology Product Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b506d2d0-2e2f-4965-88e1-2d0babda9ea1",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
