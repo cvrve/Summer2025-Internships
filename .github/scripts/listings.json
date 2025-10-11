@@ -26452,5 +26452,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7492480003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GCM Grosvenor",
+        "title": "Software Engineering Intern - Technology",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0e7b8675-aa3e-4ff2-8897-c724f5431403",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
