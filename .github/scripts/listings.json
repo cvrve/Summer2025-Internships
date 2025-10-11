@@ -26657,5 +26657,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://careers-gdms.icims.com/jobs/68534/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Intern Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "07e24cb1-cfa3-4c1e-a591-839c02e50d9a",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
