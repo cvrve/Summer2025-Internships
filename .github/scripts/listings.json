@@ -26554,5 +26554,23 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://www.tanium.com/careers/7228031?gh_jid=7228031",
+        "locations": [
+            "Oakland, CA",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tanium",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "221b4bbd-e30c-4bb5-b084-3db070909fde",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
