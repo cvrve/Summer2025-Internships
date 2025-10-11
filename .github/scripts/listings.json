@@ -26350,5 +26350,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Developer-Summer-2026/1333501200/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CenturyLink",
+        "title": "Intern - Software Developer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7c5d9d02-9512-4fe4-9cbb-61fe48223a93",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
