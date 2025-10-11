@@ -26606,5 +26606,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-IT-Applications-WA-98055/1256156801/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Intern - IT Applications",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fccf685f-1a67-4de9-a635-d57105c41e5f",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
