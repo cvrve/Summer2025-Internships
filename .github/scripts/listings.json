@@ -25711,5 +25711,22 @@
         "date_posted": 1760208133,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Diversified Automation",
+        "title": "Software Engineering Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74f7fef2-a5f4-4e2d-839f-42f09bc61052",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
