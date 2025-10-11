@@ -26401,5 +26401,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Asset-Protection-Intern--Summer-2026-_R00342996",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RaceTrac",
+        "title": "Asset Protection Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cdf9efef-0f02-4583-947b-82eedd9d4130",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
