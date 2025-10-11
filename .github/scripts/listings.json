@@ -26418,5 +26418,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Software-Engineering-Intern-Measurement-and-Control-FL-33408/1332910400/?ats=successfactors",
+        "locations": [
+            "Palm Beach Gardens, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NextEra Energy",
+        "title": "Software Engineering Intern - Measurement and Control",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "494bdb1d-07bf-4066-bc02-70c3e33cf897",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
