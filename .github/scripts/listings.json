@@ -26021,5 +26021,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1892596",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Artificial Intelligence",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "49026a3d-13fb-4d77-9e1e-ba195b559021",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
