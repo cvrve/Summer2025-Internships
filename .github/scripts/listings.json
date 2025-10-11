@@ -8414,13 +8414,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1755106686,
+        "date_updated": 1760078880,
         "url": "https://job-boards.greenhouse.io/mill/jobs/4597024005?ref=vansh",
         "locations": [
             "San Bruno, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Mill",
         "title": "Firmware Engineering Intern",
         "source": "vanshb03",
