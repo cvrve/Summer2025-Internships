@@ -26143,5 +26143,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492430003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern \u2013 Architecture Research Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7de4bc18-f59c-4ed8-8695-edae5ed9cc90",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
