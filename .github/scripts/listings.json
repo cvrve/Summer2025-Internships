@@ -26245,5 +26245,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Business-Operations-Intern_JR2025476387",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Boeing Company",
+        "title": "Data Science Business Operations Intern - Data Science and Analytics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1687fc47-fa49-4403-8462-a70922372de5",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
