@@ -26520,5 +26520,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1056",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM financial",
+        "title": "Intern \u2013 Software Development Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d33cdd95-93a7-4c26-b7fd-66931fec693c",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
