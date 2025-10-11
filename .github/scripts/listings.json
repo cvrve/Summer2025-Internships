@@ -25970,5 +25970,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1892421",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Networking Research Group",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "795500bd-9af1-44ce-8099-6cad3a4ee0a6",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
