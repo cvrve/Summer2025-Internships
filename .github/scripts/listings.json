@@ -26038,5 +26038,24 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1892617",
+        "locations": [
+            "Madison, WI",
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Gray Systems Lab",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "68ec221a-2596-4642-a5e9-242dac4d3cde",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
