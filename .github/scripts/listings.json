@@ -26333,5 +26333,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.lumen.com/global/en/job/340209",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Intern \u2013 Software Developer - Summer 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3f090f62-7e70-4da6-934c-dbebec33ac86",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
