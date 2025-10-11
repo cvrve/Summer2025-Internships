@@ -26313,5 +26313,25 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Windsor-CT/Summer-2026-Software-Engineering-Intern_R-028852",
+        "locations": [
+            "Manchester, NH",
+            "New Britain, CT",
+            "Hartford, CT",
+            "Norwood, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eversource Energy",
+        "title": "Software Engineering Intern - Software Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d2eded6d-0518-4035-8868-a36ac8a170e9",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
