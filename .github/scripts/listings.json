@@ -26537,5 +26537,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808922627",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Data Engineering Intern - Development",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de5494c5-459d-4a7d-90c4-20bd78c7d53c",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
