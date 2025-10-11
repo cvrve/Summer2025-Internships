@@ -26126,5 +26126,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sales-Excellence-Data-Analytics-Intern---Summer-2026--Remote-_R25067-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowdstrike",
+        "title": "Sales Excellence Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fdc3920d-d41e-4d7d-b452-647ffc0f361d",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
