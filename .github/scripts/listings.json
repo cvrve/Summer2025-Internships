@@ -26160,5 +26160,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492410003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern - Compiler Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c06993bf-1c30-4e34-9061-aacaaf498b61",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
