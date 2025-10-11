@@ -26057,5 +26057,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "http://corp.skillz.com/careers-list/?gh_jid=7308505",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "skillz",
+        "title": "Co-op \u2013 Product Management",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4be1980c-f10f-41a1-bc16-e7a4fdfda422",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
