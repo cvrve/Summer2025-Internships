@@ -26384,5 +26384,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003500",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Performance Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ea538cb-ec3c-4b4b-84f4-6efc37487584",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
