@@ -26228,5 +26228,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2025476385-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Boeing Company",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a9a29f0e-cf53-47f9-8f1a-b90ad28d1df2",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
