@@ -26572,5 +26572,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.lever.co/rhombus-systems/f0dbe3f9-aca0-4221-879d-4f1047931d62",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rhombus",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ec41560d-831a-4a46-baaa-2a7828d10889",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
