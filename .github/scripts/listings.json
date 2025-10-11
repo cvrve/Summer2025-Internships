@@ -25936,5 +25936,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/6176718",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Businessolver",
+        "title": "Software Engineer Intern - Java - SQL",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0bb88eb2-cc03-44ff-a983-b0c5aa639d11",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
