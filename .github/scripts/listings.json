@@ -26262,5 +26262,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00168404-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Technical Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5cc72267-09cd-4e3e-a97c-4025fda64d6d",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
