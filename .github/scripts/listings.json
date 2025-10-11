@@ -25728,5 +25728,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Machine-Learning_REQ21752",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Biogen",
+        "title": "Machine Learning Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3d800bf2-4914-41c1-ac17-2ff4e80664d2",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
