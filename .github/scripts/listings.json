@@ -26279,5 +26279,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1892721",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Artificial Intelligence",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "722176b3-0b14-4ab8-953a-cd64872a66d0",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
