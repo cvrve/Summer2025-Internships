@@ -26486,5 +26486,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760209105,
+        "url": "https://wing.com/careers/8203737002?gh_jid=8203737002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wing",
+        "title": "Hardware Engineer Intern - Electrical Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "16e6c2bf-2e38-4499-b225-127183265236",
+        "date_posted": 1760209105,
+        "company_url": "",
+        "is_visible": true
     }
 ]
