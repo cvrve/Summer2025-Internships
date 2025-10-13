@@ -26708,5 +26708,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760352751,
+        "url": "https://jobs.lever.co/WealthFinancialTechnologies/a4fe7c66-0e2a-4e06-a029-2f70c30a8e0a",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Wealth.com",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "73b94db2-8d98-4892-abed-39375e569a6d",
+        "date_posted": 1760352751,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
