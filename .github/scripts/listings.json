@@ -26674,5 +26674,22 @@
         "date_posted": 1760209105,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760352569,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7298481",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SeatGeek",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a3443fcf-6ada-452f-824e-6b2c7c9a3a4a",
+        "date_posted": 1760352569,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
