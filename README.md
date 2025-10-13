@@ -46,6 +46,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wealth.com | Software Engineer Intern 🛂 | Remote | <a href="https://jobs.lever.co/WealthFinancialTechnologies/a4fe7c66-0e2a-4e06-a029-2f70c30a8e0a?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
+| SeatGeek | Software Engineer Intern | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?token=7298481&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
+| Hone | Software Development Intern | Remote | <a href="https://job-boards.greenhouse.io/honehealth/jobs/4945588008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
+| Garage | Software Engineer Co-op | New York, NY | <a href="https://jobs.ashbyhq.com/garage/6337a053-92fc-4543-aa93-75230e5816a9?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Workday | Software Application Development Engineer Intern - Software Application Engineering | Pleasanton, CA | <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0100548?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Wing | Hardware Engineer Intern - Electrical Engineering | Palo Alto, CA | <a href="https://wing.com/careers/8203737002?gh_jid=8203737002&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Waymo | Intern - Fullstack Software Engineer - Data Tooling | Mountain View, CA | <a href="https://careers.withwaymo.com/jobs?gh_jid=7306072&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
