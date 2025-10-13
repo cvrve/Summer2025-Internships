@@ -26691,5 +26691,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760352739,
+        "url": "https://jobs.ashbyhq.com/garage/6337a053-92fc-4543-aa93-75230e5816a9",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garage",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "4eba3a66-3510-400c-ab26-77eb818b2086",
+        "date_posted": 1760352739,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
