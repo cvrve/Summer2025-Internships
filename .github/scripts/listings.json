@@ -27016,5 +27016,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760482566,
+        "url": "https://corporate.visa.com/en/jobs/REF93882I",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "AI and Data Insights Intern, Corporate Services",
+        "source": "vanshb03",
+        "id": "2315be3d-fbf8-4d58-b003-e39a8da1e9b9",
+        "date_posted": 1760482566,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
