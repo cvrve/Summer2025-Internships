@@ -26897,5 +26897,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760417376,
+        "url": "https://www.workatastartup.com/jobs/83361",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "a0.dev",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d6ec853-1c56-4b60-b993-ea57b00b2644",
+        "date_posted": 1760417376,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
