@@ -26828,5 +26828,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760409200,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7269743",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "75bb6651-b3f8-434f-b8c3-436dede18cd6",
+        "date_posted": 1760409200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
