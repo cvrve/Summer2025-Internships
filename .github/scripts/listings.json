@@ -19353,13 +19353,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758340166,
+        "date_updated": 1760409898,
         "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brilliant",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -20170,7 +20170,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758637836,
+        "date_updated": 1760409898,
         "url": "https://job-boards.greenhouse.io/gusto/jobs/7238671",
         "locations": [
             "San Francisco, CA",
@@ -20178,7 +20178,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Gusto",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -24984,13 +24984,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1760409899,
         "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
         "locations": [
             "State College, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KCF Technologies",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -25713,13 +25713,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1760409899,
         "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
         "locations": [
             "Louisville, KY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Diversified Automation",
         "title": "Software Engineering Co-op",
         "season": "Summer",
