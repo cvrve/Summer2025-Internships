@@ -26846,5 +26846,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760409225,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7317499",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Product Manager Intern, HR Technology",
+        "source": "vanshb03",
+        "id": "0e637d76-201c-49f2-bf7f-723bf0958d67",
+        "date_posted": 1760409225,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
