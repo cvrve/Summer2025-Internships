@@ -26811,5 +26811,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760409191,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7294075",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "0c31048e-6949-4579-80e3-47a15933a08c",
+        "date_posted": 1760409191,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
