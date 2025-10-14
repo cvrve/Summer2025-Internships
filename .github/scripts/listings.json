@@ -26999,5 +26999,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760482565,
+        "url": "https://corporate.visa.com/en/jobs/REF93945P",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Machine Learning Engineer Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "5225ab96-b004-4b89-967e-85400e062c0e",
+        "date_posted": 1760482565,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
