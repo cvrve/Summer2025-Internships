@@ -6225,13 +6225,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753842629,
+        "date_updated": 1760482397,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4573642006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Robotics Integration Intern",
         "source": "vanshb03",
@@ -26848,13 +26848,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409225,
+        "date_updated": 1760482402,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7317499",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Product Manager Intern, HR Technology",
         "source": "vanshb03",
