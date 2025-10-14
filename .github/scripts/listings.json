@@ -26948,5 +26948,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1760482559,
+        "url": "https://corporate.visa.com/en/jobs/REF93865Q",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "867d15cd-c337-47d5-9eec-13a859d8d968",
+        "date_posted": 1760482559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
