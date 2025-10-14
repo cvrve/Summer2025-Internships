@@ -27067,5 +27067,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760484876,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/details/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-498519?q=internship&locationHierarchy1=6cee717ed86e0100c34b9ba355480001",
+        "locations": [
+            "San Francisco, CA",
+            "San Leandro, CA",
+            "Concord, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wells Fargo",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "57f833e5-195d-4df1-9d1f-ef6997a2fe46",
+        "date_posted": 1760484876,
+        "company_url": "",
+        "is_visible": true
     }
 ]

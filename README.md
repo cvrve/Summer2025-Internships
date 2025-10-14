@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Wells Fargo | Software Engineer Intern | San Francisco, CA</br>San Leandro, CA</br>Concord, CA | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/details/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-498519?q=internship&locationHierarchy1=6cee717ed86e0100c34b9ba355480001&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Visa | Software Engineer Intern 🛂 | Bellevue, WA | <a href="https://jobs.smartrecruiters.com/Visa/744000087985128-software-engineer-intern-summer-2026-bellevue?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI and Data Insights Intern, Corporate Services 🛂 | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF93882I?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Machine Learning Engineer Intern, Global Data Office 🛂 | Foster City, CA | <a href="https://corporate.visa.com/en/jobs/REF93945P?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
