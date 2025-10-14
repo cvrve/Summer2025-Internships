@@ -26794,5 +26794,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760409157,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309504",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "8e140f6f-600b-4148-91ea-26b2fe826715",
+        "date_posted": 1760409157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
