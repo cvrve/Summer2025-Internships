@@ -27033,5 +27033,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760482686,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-Development_R25-8542",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Development Intern",
+        "source": "vanshb03",
+        "id": "7656d7ca-4432-47f0-88fa-078d26856763",
+        "date_posted": 1760482686,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
