@@ -26742,5 +26742,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760408468,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309530",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Analytics Engineer Intern",
+        "source": "vanshb03",
+        "id": "8226bb77-4370-42e5-9ad1-18ce697e23a7",
+        "date_posted": 1760408468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
