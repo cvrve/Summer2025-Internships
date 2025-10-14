@@ -27050,5 +27050,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760484425,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087985128-software-engineer-intern-summer-2026-bellevue",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5743bca7-18dc-4acb-ac87-6785239c884b",
+        "date_posted": 1760484425,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
