@@ -26880,5 +26880,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760410018,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3643466/Clarity-Partners-LLC/Software-Development-Internship",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarity Partners",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "af5e5e65-78ee-4f3c-a33f-4f6fcd2f7b04",
+        "date_posted": 1760410018,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
