@@ -26759,5 +26759,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760408939,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7309526",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "072069b8-4974-48cb-9dd2-56a09ee18c5f",
+        "date_posted": 1760408939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
