@@ -26776,5 +26776,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760409620,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7268895&for=coinbase&gh_jid=7268895",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7b0d36dd-5f39-47ae-a393-fee9b1ad19db",
+        "date_posted": 1760409620,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
