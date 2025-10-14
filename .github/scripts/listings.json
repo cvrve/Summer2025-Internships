@@ -26914,5 +26914,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760417380,
+        "url": "https://www.workatastartup.com/jobs/83225",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member Of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "2d99dbd0-d10b-4dc6-a8a3-c1f4863cb0bd",
+        "date_posted": 1760417380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
