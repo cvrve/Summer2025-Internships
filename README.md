@@ -46,6 +46,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Visa | AI and Data Insights Intern, Corporate Services 🛂 | Austin, TX | <a href="https://corporate.visa.com/en/jobs/REF93882I?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| ↳ | Machine Learning Engineer Intern, Global Data Office 🛂 | Foster City, CA | <a href="https://corporate.visa.com/en/jobs/REF93945P?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| ↳ | Machine Learning Engineer Intern, Global Data Office 🛂 | Foster City, CA | <a href="https://corporate.visa.com/en/jobs/REF93947M?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| ↳ | Data Science Intern, Global Data Office 🛂 | Foster City, CA | <a href="https://corporate.visa.com/en/jobs/REF93884E?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| ↳ | Data Science Intern, Global Data Office 🛂 | Foster City, CA | <a href="https://corporate.visa.com/en/jobs/REF93865Q?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Wealth.com | Software Engineer Intern 🛂 | Remote | <a href="https://jobs.lever.co/WealthFinancialTechnologies/a4fe7c66-0e2a-4e06-a029-2f70c30a8e0a?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | SeatGeek | Software Engineer Intern | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?token=7298481&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Northrop Grumman | Software Engineering Intern 🇺🇸 | Roy, UT | <a href="https://jobs.northropgrumman.com/careers/job/1340068298695?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
