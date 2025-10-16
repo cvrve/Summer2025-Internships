@@ -28264,5 +28264,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646821,
+        "url": "https://www.skydio.com/jobs/7493238003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Middleware Software Engineer Intern, Device Platform",
+        "source": "vanshb03",
+        "id": "73cbea00-580c-4d37-83f6-4dc520353d29",
+        "date_posted": 1760646821,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
