@@ -27975,5 +27975,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760646635,
+        "url": "https://careers.garmin.com/jobs/16975/job",
+        "locations": [
+            "Brea, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "884dba0c-d4b7-425c-9bff-971829a9a853",
+        "date_posted": 1760646635,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
