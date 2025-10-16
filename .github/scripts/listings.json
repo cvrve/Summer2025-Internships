@@ -28077,5 +28077,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646712,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Oklahoma-Tinker-AFB/XMLNAME-2026-Intern---Software-Quality-Engineer--Part-time-_R10209847",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Quality Engineer Intern",
+        "source": "vanshb03",
+        "id": "a13fa17a-9888-4331-9d1c-6b525207ac61",
+        "date_posted": 1760646712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
