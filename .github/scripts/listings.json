@@ -28369,5 +28369,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760647121,
+        "url": "https://jobs.lever.co/zushealth/8b4788c9-dce7-41a0-b9dc-c44a63fc0c14",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "f90aac1b-74a3-49ac-ada8-1fa7a1492043",
+        "date_posted": 1760647121,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
