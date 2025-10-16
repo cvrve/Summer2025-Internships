@@ -27784,5 +27784,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Software-Engineering-Intern---Summer-2026_318124",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d636d5e-7072-444a-8395-f830597acf4e",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
