@@ -27103,5 +27103,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://careers-chickfila.icims.com/jobs/18992/digital-transformation-and-technology-software-engineer-intern---summer-2026/job",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Chick-fil-A",
+        "title": "Digital Transformation and Technology Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7583d49f-0c9f-4aa6-ae15-d62c0d27a50d",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
