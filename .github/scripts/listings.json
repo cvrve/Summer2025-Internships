@@ -27375,5 +27375,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Applied Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ec5aa3f7-5da5-4456-b758-58ff1dabeed8",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
