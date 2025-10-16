@@ -27562,5 +27562,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1897214",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Brain-Computer Interfaces",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "076d8a79-4e92-43ff-86f2-e1889e30d4c0",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
