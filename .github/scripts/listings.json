@@ -27839,5 +27839,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sherwin-Williams",
+        "title": "R&D Product Engineering Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1f51d3b5-6b32-4f20-92ce-36ed00314075",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
