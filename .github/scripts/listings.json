@@ -27873,5 +27873,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Mission-Sensor---SEPP-Software-Engineer-Intern--Summer-2026---Onsite-_01792466",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Mission Sensor SEPP Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff04a1bd-f369-4561-8224-60b97cfc37c4",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
