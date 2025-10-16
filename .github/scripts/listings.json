@@ -28213,5 +28213,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646798,
+        "url": "https://www.skydio.com/jobs/7498514003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Summer 2026",
+        "source": "vanshb03",
+        "id": "4e4bc857-aa43-478a-b36e-62a4fa1081a9",
+        "date_posted": 1760646798,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
