@@ -28162,5 +28162,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1760646785,
+        "url": "https://jobs.smartrecruiters.com/visa/744000088193335-site-reliability-engineering-intern-summer-2026-austin",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Site Reliability Engineering Intern",
+        "source": "vanshb03",
+        "id": "2b60de77-f1af-4111-9de4-578ff1b389bb",
+        "date_posted": 1760646785,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
