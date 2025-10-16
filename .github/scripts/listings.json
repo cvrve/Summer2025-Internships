@@ -27614,5 +27614,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Software-Engineer-Intern_R-00168717",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "79203599-4746-4a33-bfbf-8ff98789a20d",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
