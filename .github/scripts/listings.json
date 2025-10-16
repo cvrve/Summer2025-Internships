@@ -27188,5 +27188,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.eu.lever.co/cirrus/61807ab1-ad75-43d7-80b8-b05d6886670e/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Hardware Platform Development Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae6fc769-aa98-4ae9-a4ea-c65b95201a20",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
