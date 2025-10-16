@@ -27682,5 +27682,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087985465",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "19a9b132-e107-4ed6-b1fe-1bca9cc56fa5",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
