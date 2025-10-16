@@ -27120,5 +27120,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Firmware-intern_R28337",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Embedded Firmware Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4dab02de-4f9c-4827-ae2c-c829d7037156",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
