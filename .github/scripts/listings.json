@@ -27597,5 +27597,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4308947004",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garda Capital Partners",
+        "title": "Trading Assistant Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5ba78716-bff1-4225-af85-a2a878f42d24",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
