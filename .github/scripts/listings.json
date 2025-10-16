@@ -27822,5 +27822,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009914716",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AbbVie",
+        "title": "AI Agent Engineer Co-Op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c7b38cdf-339f-40e5-981d-6e2e839033f9",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
