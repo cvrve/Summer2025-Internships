@@ -27767,5 +27767,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087985095",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f1c3cfb3-0297-4d30-a7f2-6d41cabfce1c",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
