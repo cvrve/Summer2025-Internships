@@ -27648,5 +27648,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7634935002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPENG Motors",
+        "title": "Computer Vision Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b4cc1b85-b278-4acc-89b6-b0bc396734fe",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
