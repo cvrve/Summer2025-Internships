@@ -28352,5 +28352,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760647118,
+        "url": "https://jobs.lever.co/zushealth/ac5f2a7f-7355-42bc-9efd-fc20fa9666f1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "13cf3bd9-d6d2-4712-bba8-3feac8c7f8fb",
+        "date_posted": 1760647118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
