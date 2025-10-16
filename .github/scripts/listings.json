@@ -27426,5 +27426,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20773",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "IT Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cef4e0ce-fe19-430e-bdb7-62a8bc5d23b6",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
