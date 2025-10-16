@@ -27273,5 +27273,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer_R21837",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "IT Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8655a65f-377f-498a-bb10-916ab3f3dbae",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
