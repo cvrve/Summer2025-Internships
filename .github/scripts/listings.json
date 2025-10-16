@@ -3328,13 +3328,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751253816,
+        "date_updated": 1760646988,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565293006",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Quantitative Researcher Intern",
         "season": "Summer",
@@ -26727,13 +26727,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760352756,
+        "date_updated": 1760646994,
         "url": "https://job-boards.greenhouse.io/honehealth/jobs/4945588008",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hone",
         "title": "Software Development Intern",
         "source": "vanshb03",
