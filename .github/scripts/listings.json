@@ -28230,5 +28230,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646806,
+        "url": "https://www.skydio.com/jobs/7498519003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Computer Vision/Deep Learning",
+        "source": "vanshb03",
+        "id": "a17a5341-4124-473a-8a74-22fd6a2061c9",
+        "date_posted": 1760646806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
