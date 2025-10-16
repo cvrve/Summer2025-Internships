@@ -27409,5 +27409,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8202566002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research America",
+        "title": "ML/NLP Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ff2ebcea-2b6a-48f8-a02a-8d593fcb1d1b",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
