@@ -27392,5 +27392,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/39C72ADCFF/apply",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "68133e3c-bd3b-4fe3-ba32-ce9e465fb8d0",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
