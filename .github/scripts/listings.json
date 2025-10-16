@@ -27477,5 +27477,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.lever.co/CesiumAstro/577c77c6-ef9c-405b-b635-4670eb3ef9d2/apply",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CesiumAstro",
+        "title": "Embedded Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "36a449ec-d218-4a69-b8a9-dea51b757c44",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
