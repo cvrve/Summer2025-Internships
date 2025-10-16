@@ -28281,5 +28281,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646827,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/en-GB/exact_sciences/job/US---CA---San-Diego/Software-Test-Quality-Engineering-Intern---Summer-2026_R25-10593",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exact Sciences",
+        "title": "Software Test/Quality Engineering Intern",
+        "source": "vanshb03",
+        "id": "24d86353-48a5-4c46-ab24-2c6260d58e0b",
+        "date_posted": 1760646827,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
