@@ -27941,5 +27941,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Software-Developer-Intern---Workforce-Capability-System_JR107497",
+        "locations": [
+            "Holland, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MillerKnoll",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f9691522-9ff2-4f65-8b46-858f33ac64b4",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
