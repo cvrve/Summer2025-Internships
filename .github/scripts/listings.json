@@ -27716,5 +27716,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087949258",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f1c928a1-cceb-472b-8c78-1fce8bfb7aff",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
