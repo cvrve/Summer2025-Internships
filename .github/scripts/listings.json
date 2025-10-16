@@ -27460,5 +27460,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Systems-Software-Intern-Boulder-CO_R10211112",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Systems/Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3df39f46-ff6d-4776-93f5-7e69f97c4fe0",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
