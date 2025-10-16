@@ -27528,5 +27528,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1897207",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern - Audio and Acoustics",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ced5b5c2-055b-439c-a1a9-0e855f9cfcd5",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
