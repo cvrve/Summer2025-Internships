@@ -27443,5 +27443,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Product-Management-Organization-Intern_R-037243",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Product Management Organization Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ba540e7-996e-49e0-bbfd-7881f5f58268",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
