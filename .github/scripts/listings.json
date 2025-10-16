@@ -27992,5 +27992,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646696,
+        "url": "https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00168796",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f354b7b3-70fb-4225-80d7-0d4132078fa3",
+        "date_posted": 1760646696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
