@@ -27665,5 +27665,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mach9",
+        "title": "Perception Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6220cd00-a952-4cd5-9e14-c068a9b95e2a",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
