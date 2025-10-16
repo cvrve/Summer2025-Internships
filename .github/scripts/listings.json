@@ -27494,5 +27494,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate--Internship-_RQ207542-2",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "Artificial Intelligence/Machine Learning Associate Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae7e7da1-f63e-4678-812b-91e7895456eb",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
