@@ -28420,5 +28420,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760647196,
+        "url": "https://netflix.wd1.myworkdayjobs.com/netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1",
+        "locations": [
+            "Los Gatos, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Machine Learning Engineer Intern, (MS/PhD)",
+        "source": "vanshb03",
+        "id": "552f1198-b313-43cd-a077-4e398886db68",
+        "date_posted": 1760647196,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
