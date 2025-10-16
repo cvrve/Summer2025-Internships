@@ -27699,5 +27699,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087948470",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e289608-13ab-4a0e-a7b9-de1a50c366d2",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
