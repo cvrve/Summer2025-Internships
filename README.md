@@ -125,7 +125,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Wealth.com | Software Engineer Intern 🛂 | Remote | <a href="https://jobs.lever.co/WealthFinancialTechnologies/a4fe7c66-0e2a-4e06-a029-2f70c30a8e0a?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | SeatGeek | Software Engineer Intern | New York, NY | <a href="https://boards.greenhouse.io/embed/job_app?token=7298481&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Northrop Grumman | Software Engineering Intern 🇺🇸 | Roy, UT | <a href="https://jobs.northropgrumman.com/careers/job/1340068298695?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| Hone | Software Development Intern | Remote | <a href="https://job-boards.greenhouse.io/honehealth/jobs/4945588008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Herdora | Member Of Technical Staff Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/83225?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Garage | Software Engineer Co-op | New York, NY | <a href="https://jobs.ashbyhq.com/garage/6337a053-92fc-4543-aa93-75230e5816a9?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Coinbase | Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=7268895&for=coinbase&gh_jid=7268895&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -1112,7 +1111,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Chicago, IL | <a href="https://www.imc.com/us/careers/jobs/4580810101/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Epic | Software Development Intern 🇺🇸 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2026/27259?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | Caterpillar | Engineering Intern | <details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details> | <a href="https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
-| Walleye Capital | Quantitative Researcher Intern | Boston, MA | <a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565293006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 29 |
 | Radix Trading | Quantitative Technologist Intern | Chicago, IL | <a href="https://boards.greenhouse.io/embed/job_app?token=7842108002&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 26 |
 | Morgan Stanley | SWE Intern, Data Analyst Intern | New York, NY | <a href="https://morganstanley.tal.net/vx/candidate/apply/19159?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
 | D. E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 24 |
@@ -1148,6 +1146,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aquatic Capital Management | Software Engineer Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Blackrock | 2026 Summer Intern | <details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details> | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
+| Hone | Software Development Intern | Remote | 🔒 | Oct 13 |
 | Coinbase | Product Manager Intern, HR Technology | New York, NY | 🔒 | Oct 13 |
 | Diversified Automation | Software Engineering Co-op | Louisville, KY | 🔒 | Oct 11 |
 | KCF Technologies | Software Engineering Intern | State College, PA</br>Remote | 🔒 | Oct 07 |
@@ -1359,7 +1358,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Salesforce | Associate Product Manager Intern | San Francisco, CA | 🔒 | Jul 01 |
 | Palantir | Forward Deployed Software Engineer Intern, Commercial | New York, NY | 🔒 | Jul 01 |
 | Geneva Trading | Quantitative Trader Intern | Chicago, IL | 🔒 | Jul 01 |
-| Walleye Capital | Quantitative Developer Intern | Boston, MA | 🔒 | Jun 29 |
+| Walleye Capital | Quantitative Researcher Intern | Boston, MA | 🔒 | Jun 29 |
+| ↳ | Quantitative Developer Intern | Boston, MA | 🔒 | Jun 29 |
 | ↳ | Technology Intern | New York, NY | 🔒 | Jun 29 |
 | ↳ | Risk Quant Research Intern | New York, NY | 🔒 | Jun 29 |
 | ↳ | Equity Volatility Quant Researcher Intern | Miami, FL | 🔒 | Jun 29 |
