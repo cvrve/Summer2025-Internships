@@ -27750,5 +27750,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087984147",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "30c4d7fa-2e04-42a7-9257-a48357538dd3",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
