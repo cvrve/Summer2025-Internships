@@ -28315,5 +28315,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760647102,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Software-Engineer---Corporate-Internship_R-774599",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordstrom",
+        "title": "Software Engineer Intern, Corporate",
+        "source": "vanshb03",
+        "id": "ba0eccf1-d163-43b0-97d8-14cbc43150e6",
+        "date_posted": 1760647102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
