@@ -27733,5 +27733,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087951106",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "AI and Data Insights Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7db1dd66-9bbd-4814-8b47-b068f056fb49",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
