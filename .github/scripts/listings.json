@@ -28128,5 +28128,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646777,
+        "url": "https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/Software-Engineering-Web-Intern_R25624",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valmont",
+        "title": "Software Engineering Web Intern",
+        "source": "vanshb03",
+        "id": "8645ca5f-59d0-4487-929f-25fe72a4db3a",
+        "date_posted": 1760646777,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
