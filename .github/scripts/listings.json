@@ -24038,13 +24038,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759332697,
+        "date_updated": 1760594048,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1886465",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Fullstack",
         "source": "vanshb03",
