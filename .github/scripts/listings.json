@@ -28332,5 +28332,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760647106,
+        "url": "https://jobs.lever.co/zushealth/54557977-eaa9-4ae9-aadd-9a1ac9551575",
+        "locations": [
+            "Boston, MA",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Portland, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zus Health",
+        "title": "Data Platform Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "f6a211e3-f8bf-450a-94ac-9fb3d7ccd6af",
+        "date_posted": 1760647106,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
