@@ -27205,5 +27205,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://jobs.eu.lever.co/cirrus/435b9583-fffa-4466-9987-1f314040fb7b/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Validation Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a6e49430-3112-4399-b3a0-d7f7c13d1b47",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
