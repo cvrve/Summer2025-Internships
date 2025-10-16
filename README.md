@@ -240,8 +240,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PayPal | Machine Learning Engineer Intern  | San Jose, CA | <a href="https://paypal.eightfold.ai/careers/job/274915802833?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Moog  | Product Engineering Intern | Blacksburg, VA | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Product-Engineering_R-25-11822?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Product Engineering Intern | Blacksburg, VA | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Product-Engineering_R-25-13395?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
-| Microsoft | Software Engineer Intern, Fullstack | Cambridge, MA | <a href="https://jobs.careers.microsoft.com/global/en/job/1886465?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
-| ↳ | Explore Program Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1884365?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
+| Microsoft | Explore Program Intern | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1884365?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Explore Program Intern | Atlanta, GA | <a href="https://jobs.careers.microsoft.com/global/en/job/1884627?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Michaels Stores | Information Technology Intern - Data Engineering | Irving, TX | <a href="https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---Data-Engineering_R00295941?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | ↳ | Information Technology Intern | Irving, TX | <a href="https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---AI_R00295928?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -1106,6 +1105,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern, Avionics Test Engineering | Tualatin, OR | 🔒 | Oct 01 |
 | Novanta | Engineering Intern - ATI Industrial Automation | Apex, NC | 🔒 | Oct 01 |
 | NiSource | Intern Nipsco Ot - Network | Markham, IL | 🔒 | Oct 01 |
+| Microsoft | Software Engineer Intern, Fullstack | Cambridge, MA | 🔒 | Oct 01 |
 | Johnson & Johnson | Technology Leadership Development Program | Bridgewater Township, NJ | 🔒 | Oct 01 |
 | Hive Financial Systems | Business Analyst Intern | Atlanta, GA | 🔒 | Oct 01 |
 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Associate Intern 🛂 | Falls Church, VA | 🔒 | Oct 01 |
