@@ -28111,5 +28111,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646718,
+        "url": "https://ats.rippling.com/en-GB/theguarantors-open-positions/jobs/f5580a3b-ef6b-4bb7-93f6-39e4910060fd",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TheGuarantors",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d3e5532-bb56-4ffb-b1f2-b9ff9a4529e2",
+        "date_posted": 1760646718,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
