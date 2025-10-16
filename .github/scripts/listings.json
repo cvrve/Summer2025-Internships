@@ -28060,5 +28060,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1760646710,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110934",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "97663e2b-0fd4-48ac-9316-0e43fc5f5bae",
+        "date_posted": 1760646710,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
