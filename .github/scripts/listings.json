@@ -27086,5 +27086,22 @@
         "date_posted": 1760484876,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://apply.workable.com/connectprep/j/390EB8941D/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ConnectPrep",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7dd1c266-9cb4-462b-81d2-1406c8d01a75",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
