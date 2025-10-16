@@ -27307,5 +27307,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Operations_J25420",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": " RGA Reinsurance Company",
+        "title": "Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a3cf26e6-b7da-489d-a8b8-33e7ce901485",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
