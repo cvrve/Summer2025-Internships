@@ -28043,5 +28043,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646707,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01789471",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineer Co-Op",
+        "source": "vanshb03",
+        "id": "03dd677f-b25e-4902-a815-de29392bb3df",
+        "date_posted": 1760646707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
