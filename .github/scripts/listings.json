@@ -27341,5 +27341,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492746003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Test AI Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "be964756-3704-4c16-8be5-4e7c99072856",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
