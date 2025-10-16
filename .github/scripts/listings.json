@@ -27358,5 +27358,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=7239049",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "50f7290c-7685-4b29-863d-b0861bad631e",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
