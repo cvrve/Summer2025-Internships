@@ -28196,5 +28196,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760646792,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7498520003",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Multimedia Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a87fad4c-c02a-4544-9694-6265c40bff8e",
+        "date_posted": 1760646792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
