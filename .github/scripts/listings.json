@@ -27801,5 +27801,26 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2026_R258321",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "Product Marketing Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "706fe88d-ccb6-4ea3-ba24-0bff782b0a8d",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
