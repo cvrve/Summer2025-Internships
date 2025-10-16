@@ -27256,5 +27256,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Systems-Engineering-Intern_JR-20731",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d065a826-dacd-48b4-a088-2e476020a2f9",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
