@@ -27856,5 +27856,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cook Group",
+        "title": "Statistics & Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8a915e9a-f2c6-4018-8aef-bb6f3e742990",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
