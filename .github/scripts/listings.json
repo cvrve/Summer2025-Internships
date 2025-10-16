@@ -27631,5 +27631,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineer-Intern_R-00168719",
+        "locations": [
+            "O'Fallon, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1d4f7dad-6aba-4d84-bb33-eeee082561d0",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
