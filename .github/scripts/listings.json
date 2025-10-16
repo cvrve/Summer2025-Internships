@@ -28145,5 +28145,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1760646781,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2026_10134633-2",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walt Disney Parks and Resorts",
+        "title": "System Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c9f6d0b6-0517-43af-a52e-407bfcbffbc7",
+        "date_posted": 1760646781,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
