@@ -27958,5 +27958,22 @@
         "date_posted": 1760594094,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760594094,
+        "url": "https://www.skydio.com/jobs/7493211003?gh_jid=7493211003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de5b466d-e736-4d21-9943-6d0cca14ec18",
+        "date_posted": 1760594094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
