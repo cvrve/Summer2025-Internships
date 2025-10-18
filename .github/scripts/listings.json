@@ -28490,5 +28490,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784598,
+        "url": "https://lifeattiktok.com/search/7561941583777941813",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Monetization Technology",
+        "source": "vanshb03",
+        "id": "09c61fbb-d261-4ed2-bcf8-aa139a6cde8a",
+        "date_posted": 1760784598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
