@@ -28593,5 +28593,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784683,
+        "url": "https://www.pega.com/about/careers/22692/software-engineer-summer-intern-software-delivery-excellence-alliance",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Pega",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "01dfa008-7f7b-4114-bbf3-4ef97bb78d4e",
+        "date_posted": 1760784683,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
