@@ -28524,5 +28524,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784605,
+        "url": "https://careers.arthrex.com/NorthAmerica/job/Naples-Custom-Dev-_NET-Intern-FL-34108/1335818300/",
+        "locations": [
+            "Naples, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arthrex",
+        "title": "Custom Dev .NET Intern",
+        "source": "vanshb03",
+        "id": "a050e8fd-988e-4716-bbde-83e51e49a984",
+        "date_posted": 1760784605,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
