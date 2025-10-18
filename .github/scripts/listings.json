@@ -28576,5 +28576,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784676,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0011348",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cognex",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4968119-7112-4720-a53c-29561682326b",
+        "date_posted": 1760784676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
