@@ -28455,5 +28455,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784590,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "419e3b2f-1196-470d-8f8e-7b6b7b6de055",
+        "date_posted": 1760784590,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
