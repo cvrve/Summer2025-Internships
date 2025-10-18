@@ -28559,5 +28559,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784619,
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-sqr-san-francisco-california-united-states",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineer Intern, SQR",
+        "source": "vanshb03",
+        "id": "f5647f5f-5d28-4231-a97d-e4f73d9388f3",
+        "date_posted": 1760784619,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
