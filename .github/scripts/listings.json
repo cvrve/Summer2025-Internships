@@ -3685,13 +3685,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391947,
+        "date_updated": 1760784532,
         "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -18577,14 +18577,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758028211,
+        "date_updated": 1760784533,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6680704003",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "Software Engineering Intern, Fleet Health Instrumentation",
         "source": "vanshb03",
@@ -22887,13 +22887,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1760784534,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Maven Securities",
         "title": "Trading Intern",
         "season": "Summer",
@@ -26642,13 +26642,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1760784535,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7493936003",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "AI/ML Graduate Engineering Intern",
         "season": "Summer",
