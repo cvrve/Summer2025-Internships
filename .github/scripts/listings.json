@@ -28438,5 +28438,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784581,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1877919/Software-Engineer-Azure-Data-Intern-Opportunities-for-University-Students-Austin",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Azure Data",
+        "source": "vanshb03",
+        "id": "05877ecf-1039-4ba0-a0bc-197d1422719f",
+        "date_posted": 1760784581,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
