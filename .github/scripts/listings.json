@@ -28473,5 +28473,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784594,
+        "url": "https://www.amazon.jobs/en/jobs/3111792/software-eng-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0e92933-d07a-4813-9be3-900990aef125",
+        "date_posted": 1760784594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
