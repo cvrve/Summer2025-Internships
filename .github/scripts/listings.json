@@ -28541,5 +28541,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784607,
+        "url": "https://careers.arthrex.com/NorthAmerica/job/Naples-SAP-Global-Release-Management-Intern-FL-34108/1335816400/",
+        "locations": [
+            "Naples, FL",
+            "Fort Myers, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arthrex",
+        "title": "SAP Global Release Management Intern",
+        "source": "vanshb03",
+        "id": "56c99bc2-b9b3-4d4d-9258-4a5ea8ac508e",
+        "date_posted": 1760784607,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
