@@ -28507,5 +28507,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784601,
+        "url": "https://careers.fedex.com/software-engineer-intern-summer-2026/job/P25-284903-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Express Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "544c0c4c-dbb9-4d78-90a5-56dcd7800a01",
+        "date_posted": 1760784601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
