@@ -28610,5 +28610,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784801,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Game-Design-Intern-Star-Wars-Jedi/210929",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Technical Game Design Intern, Jedi Team",
+        "source": "vanshb03",
+        "id": "6dd6e05c-9ff0-4802-a4f5-fa27d9467267",
+        "date_posted": 1760784801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
