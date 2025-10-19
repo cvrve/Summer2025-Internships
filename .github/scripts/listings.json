@@ -28661,5 +28661,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760841546,
+        "url": "https://www.ycombinator.com/companies/stratus-aviation/jobs/3uZVkok-embedded-software-engineer-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stratus Aviation",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e3e280b7-515e-44fa-a325-bc3236c47f1e",
+        "date_posted": 1760841546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
