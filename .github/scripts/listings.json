@@ -28627,5 +28627,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760784810,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Narrative-Design-Intern-Star-Wars-Jedi/210905",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Narrative Design Intern, Star Wars Jedi",
+        "source": "vanshb03",
+        "id": "1fe07232-3800-443d-9ee8-0f6ec76dd866",
+        "date_posted": 1760784810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
