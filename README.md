@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| HNTB | Technology Intern 🛂 | Austin, TX</br>Chicago, IL</br>Kansas City, MO | <a href="https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2026_R-27864-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Waymo | Software Engineer Intern, SQR | San Francisco, CA | <a href="https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-sqr-san-francisco-california-united-states?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | TikTok | Software Engineer Intern, Monetization Technology | San Jose, CA | <a href="https://lifeattiktok.com/search/7561941583777941813?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Stratus Aviation | Embedded Software Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/stratus-aviation/jobs/3uZVkok-embedded-software-engineer-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |

@@ -28678,5 +28678,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760928769,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2026_R-27864-1",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HNTB",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "9b48188a-7588-4f15-aed0-7ffd74e505d9",
+        "date_posted": 1760928769,
+        "company_url": "",
+        "is_visible": true
     }
 ]
