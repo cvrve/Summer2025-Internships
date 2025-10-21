@@ -28986,5 +28986,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761045828,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Machine Learning and Statistics",
+        "source": "vanshb03",
+        "id": "3160a9ea-ef71-4eca-86f7-9b42346ef6b4",
+        "date_posted": 1761045828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
