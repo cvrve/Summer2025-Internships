@@ -28918,5 +28918,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018490,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341625",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Electrical Engineering Intern, El Segundo",
+        "source": "vanshb03",
+        "id": "1e7b86d6-1e54-4a65-adbc-cc429b90cd6f",
+        "date_posted": 1761018490,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
