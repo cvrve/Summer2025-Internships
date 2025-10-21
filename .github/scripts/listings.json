@@ -28952,5 +28952,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761042022,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2532274-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Applications Engineering Intern",
+        "source": "vanshb03",
+        "id": "52542050-02f9-4814-80cb-9250d384c2b1",
+        "date_posted": 1761042022,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
