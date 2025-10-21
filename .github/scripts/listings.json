@@ -28816,5 +28816,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018395,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345049",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Vehicle Design Intern",
+        "source": "vanshb03",
+        "id": "17d47248-d7f6-4cd9-962d-0fd51545fc59",
+        "date_posted": 1761018395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
