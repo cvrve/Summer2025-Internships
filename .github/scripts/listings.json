@@ -28867,5 +28867,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018405,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341514",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Test Instrumentation Intern",
+        "source": "vanshb03",
+        "id": "cc78d7e2-4344-4dcb-88fe-798258d1e77c",
+        "date_posted": 1761018405,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
