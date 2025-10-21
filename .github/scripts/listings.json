@@ -28697,5 +28697,22 @@
         "date_posted": 1760928769,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1760999502,
+        "url": "https://www.sartorius.com/en/company/careers/vacancies-job-opportunities/software-engineer-intern-onsite-fremont-ca-fremont-ca-united-states-of-america-1762096?locale=en",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sartorius",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "30afbb40-e3cb-42a4-8755-ab82f09fc668",
+        "date_posted": 1760999502,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
