@@ -28884,5 +28884,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018410,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341502",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "9dab440f-b820-42ba-9f3e-612f16fea2c3",
+        "date_posted": 1761018410,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
