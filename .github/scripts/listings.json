@@ -29003,5 +29003,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761045816,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Ecommerce-Machine-Learning_25WD92181",
+        "locations": [
+            "Remote",
+            "San Francisco, CA",
+            "Toronto, Canada",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Ecommerce Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "0d204261-7125-405d-8203-b5ca5d508e63",
+        "date_posted": 1761045816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
