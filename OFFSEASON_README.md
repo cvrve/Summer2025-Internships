@@ -102,7 +102,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GE Vernova | CIC Software Engineer Intern, Grid Solutions 🇺🇸 | Rochester, NY | <a href="https://careers.gevernova.com/global/en/job/R5017939/GE-Vernova-CIC-Software-Engineer-Intern-Fall-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Atomic Semi | Embedded Software Engineering Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | AION ROBOTICS CORPORATION | Machine Learning Intern | Arvada, CO</br>Remote | <a href="https://jobs.gusto.com/postings/aion-robotics-corporation-machine-learning-intern-fall-2025-4acf688a-28e2-4bb3-a121-1b8c3f2f9e20?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| Intuit | Software Developer Co-op 🛂 | Toronto, Canada | <a href="https://jobs.intuit.com/job/-/-/27595/82936409280?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
 | TikTok | Software Engineer Intern, Recommendation Infrastructure | Seattle, WA | <a href="https://lifeattiktok.com/search/7537493362585979154?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | Tesla | Software Engineer Intern, Maps & Self-Driving Navigation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | ↳ | Backend Software Engineer Intern, Diagnostics | Palo Alto, CA</br>Austin, TX | <a href="https://www.tesla.com/careers/search/job/248358?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
@@ -205,6 +204,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Backend Software Engineer Intern, Customer Acquisitions | Toronto, Canada | 🔒 | Aug 20 |
 | ↳ | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
 | New York Post | Technology Intern | New York, NY | 🔒 | Aug 14 |
+| Intuit | Software Developer Co-op 🛂 | Toronto, Canada | 🔒 | Aug 14 |
 | Mill | Firmware Engineering Intern 🛂 | San Bruno, CA | 🔒 | Aug 13 |
 | Vanguard | IT Co-Op Intern | Charlotte, NC | 🔒 | Aug 09 |
 | New York Red Bulls | Data Science Intern | Remote | 🔒 | Aug 09 |
