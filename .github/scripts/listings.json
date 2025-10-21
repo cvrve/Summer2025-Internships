@@ -28901,5 +28901,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018415,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342085",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Flight Performance Engineering Intern, AI",
+        "source": "vanshb03",
+        "id": "24577dac-85bd-4a26-9b6f-5d17ebfc80c5",
+        "date_posted": 1761018415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
