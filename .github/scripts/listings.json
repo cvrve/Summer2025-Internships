@@ -28748,5 +28748,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018278,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341596",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineering Intern, AI",
+        "source": "vanshb03",
+        "id": "96540bbc-c158-4918-8f07-5a3dcb7ebffa",
+        "date_posted": 1761018278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
