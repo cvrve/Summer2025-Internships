@@ -28850,5 +28850,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018400,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341607",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Guidance, Navigation, and Control Engineering Intern",
+        "source": "vanshb03",
+        "id": "ebb1b478-8e83-4f4f-a049-d7afc4f63c1a",
+        "date_posted": 1761018400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
