@@ -28833,5 +28833,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018397,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345041",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Visualization Design Intern",
+        "source": "vanshb03",
+        "id": "12ca9044-bd78-47a4-9d74-cc9328744e16",
+        "date_posted": 1761018397,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
