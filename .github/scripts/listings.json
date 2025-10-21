@@ -28714,5 +28714,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761006974,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/IT-Software-Engineering-Intern_JR33513",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "IT Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "feb361b7-532e-45f7-b5c5-8442a2d47e13",
+        "date_posted": 1761006974,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
