@@ -28782,5 +28782,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018387,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342038",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Systems Engineering Intern, El Segundo",
+        "source": "vanshb03",
+        "id": "ad895100-5c78-454f-9ece-e654b3937bf2",
+        "date_posted": 1761018387,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
