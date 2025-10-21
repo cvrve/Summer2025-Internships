@@ -28765,5 +28765,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018384,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341756",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Verification & Validation Engineering Intern",
+        "source": "vanshb03",
+        "id": "1a69f3ed-beb3-40e8-9671-63c4dd625d27",
+        "date_posted": 1761018384,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
