@@ -29023,5 +29023,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761047536,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Intern--Robotics-Integration-Applications_25WD92298-1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Robotics Integration Applications Intern",
+        "source": "vanshb03",
+        "id": "8a5dabc5-75f8-43e5-8e25-f889ad40dc7a",
+        "date_posted": 1761047536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
