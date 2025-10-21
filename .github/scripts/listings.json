@@ -28969,5 +28969,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761042031,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, AI Hardware",
+        "source": "vanshb03",
+        "id": "b3febba0-3684-40ef-8fba-3a85ee7f7e59",
+        "date_posted": 1761042031,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
