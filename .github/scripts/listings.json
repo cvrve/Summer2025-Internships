@@ -28731,5 +28731,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018273,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341574",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Software Engineer Intern, Tools",
+        "source": "vanshb03",
+        "id": "82e59cdb-52d1-4dfe-84d7-bdb2bcf18f41",
+        "date_posted": 1761018273,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
