@@ -28799,5 +28799,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761018392,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342074",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyryse",
+        "title": "Systems Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "ebfe6772-b412-4120-adc9-9aaf5482bbba",
+        "date_posted": 1761018392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
