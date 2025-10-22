@@ -29346,5 +29346,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20528-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silicon Laboratories",
+        "title": "Design Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "73059505-3966-44d2-995f-1f95557c08ed",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
