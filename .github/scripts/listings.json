@@ -29773,5 +29773,23 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.ashbyhq.com/SecondDinner/15d9eea6-8ab6-486d-84ac-9de05be54901",
+        "locations": [
+            "Irvine, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Second Dinner",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "19445317-b492-435f-a3a4-275da9bee780",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
