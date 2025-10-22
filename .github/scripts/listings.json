@@ -29176,5 +29176,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers-stifel.icims.com/jobs/8210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stifel",
+        "title": "Technology Product Development Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "afce860a-cd35-42e2-9c6b-6e665385e949",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
