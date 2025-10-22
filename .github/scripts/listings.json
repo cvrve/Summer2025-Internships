@@ -29550,5 +29550,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089134665",
+        "locations": [
+            "Simpsonville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "Computer Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74dc90e3-ea41-453a-b512-28d59670215c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
