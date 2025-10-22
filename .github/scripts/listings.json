@@ -29074,5 +29074,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761124874,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621108005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Silicon Photonics",
+        "source": "vanshb03",
+        "id": "1665ec1e-bd4e-431a-a09d-c6580d322259",
+        "date_posted": 1761124874,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
