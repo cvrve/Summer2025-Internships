@@ -29125,5 +29125,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Enterprise-Architect-Intern---Summer-2026_R202566794-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Enterprise Architect Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d1921ba2-412a-4cf1-97ab-83af1f679306",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
