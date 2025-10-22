@@ -29465,5 +29465,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://careers.hfsinclair.com/job/Dallas-Intern,-IT-Data-Analytics-TX-75201/1336209800/?ats=successfactors",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HF Sinclair",
+        "title": "IT Data Analytics Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e77ab0f-85bb-4652-8454-8a04dcf925a5",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
