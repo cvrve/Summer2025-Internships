@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Figure | Helix AI Intern, Speech | San Jose, CA | <a href="https://job-boards.greenhouse.io/figureai/jobs/4611748006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Walt Disney Parks and Resorts | System Software Engineering Intern | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2026_10134633-2?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Valmont | Software Engineering Web Intern | Omaha, NE | <a href="https://valmont.wd1.myworkdayjobs.com/valmontcareers/job/Omaha-NE/Software-Engineering-Web-Intern_R25624?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Collins Aerospace | Software Engineer Co-Op 🇺🇸 | Cedar Rapids, IA | <a href="https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01789471?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |

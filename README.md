@@ -46,6 +46,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Celestial AI | Reliability Engineering Intern, Silicon Photonics | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/celestialai/jobs/4621108005?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| ↳ | Reliability Engineering Intern, Datacenter RAS | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/celestialai/jobs/4621109005?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| ↳ | Reliability Engineering Intern, Database Development | Santa Clara, CA | <a href="https://job-boards.greenhouse.io/celestialai/jobs/4621107005?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Microsoft | Research Intern, Machine Learning and Statistics | Cambridge, MA | <a href="https://jobs.careers.microsoft.com/global/en/job/1900003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Research Intern, AI Hardware | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1900014?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | KLA | Applications Engineering Intern | Milpitas, CA | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2532274-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
