@@ -29499,5 +29499,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089131715",
+        "locations": [
+            "Simpsonville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8fdfacf3-93d6-415a-ac31-5284f2b3ead2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
