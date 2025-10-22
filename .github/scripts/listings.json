@@ -6174,13 +6174,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753858875,
+        "date_updated": 1761124974,
         "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Harmonic",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -17712,14 +17712,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733691,
+        "date_updated": 1761124976,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246131",
         "locations": [
             "Miami, FL",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Reference Data Operations Intern",
         "source": "vanshb03",
@@ -24830,13 +24830,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1761124978,
         "url": "https://job-boards.greenhouse.io/breezeairways/jobs/7485035003",
         "locations": [
             "Cottonwood Heights, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Breeze Airways",
         "title": "Ancillary Revenue & Guest Analytics Intern",
         "season": "Summer",
@@ -26454,13 +26454,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1761124979,
         "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7492480003",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GCM Grosvenor",
         "title": "Software Engineering Intern - Technology",
         "season": "Summer",
@@ -27479,13 +27479,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1761124980,
         "url": "https://jobs.lever.co/CesiumAstro/577c77c6-ef9c-405b-b635-4670eb3ef9d2/apply",
         "locations": [
             "Westminster, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CesiumAstro",
         "title": "Embedded Software Engineering Intern",
         "season": "Summer",
@@ -27599,13 +27599,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1761124980,
         "url": "https://job-boards.greenhouse.io/gardacp/jobs/4308947004",
         "locations": [
             "Wayzata, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garda Capital Partners",
         "title": "Trading Assistant Intern",
         "season": "Summer",
