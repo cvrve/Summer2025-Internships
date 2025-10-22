@@ -29278,5 +29278,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1899706",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Data Systems",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "028c0bce-4752-4031-baa2-bcbb51ead9f8",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
