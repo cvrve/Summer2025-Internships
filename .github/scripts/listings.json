@@ -29210,5 +29210,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Data-Digital-Managed-Services_31850R",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vizient",
+        "title": "Data Digital Managed Services Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4d70fd6-77ba-43f1-a12b-d6c83b7fa6aa",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
