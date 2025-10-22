@@ -29755,5 +29755,23 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---People-Data-Scientist_R161486",
+        "locations": [
+            "San Francisco, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "People Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "781e7ef5-779f-454e-ad80-dda97b2ef85c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
