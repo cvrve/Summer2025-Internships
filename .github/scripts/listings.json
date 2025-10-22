@@ -29738,5 +29738,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://boards.greenhouse.io/inflectionai/jobs/4611934006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inflection",
+        "title": "Technical Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6cac3177-7b5f-4bb5-aabe-c3cab650d95d",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
