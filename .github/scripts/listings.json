@@ -29057,5 +29057,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761124866,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621109005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Datacenter RAS",
+        "source": "vanshb03",
+        "id": "550b746e-2144-4905-9e48-85e55be9dc52",
+        "date_posted": 1761124866,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
