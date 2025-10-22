@@ -29227,5 +29227,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://www.getfiber.ai/careers?gh_jid=4949164007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Clerkie",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7af65d26-98cb-4fed-b097-0225ee58fc28",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
