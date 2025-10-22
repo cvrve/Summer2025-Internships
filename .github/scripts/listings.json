@@ -29261,5 +29261,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Supply-Chain-Data-Scientist-Intern_R25_0000008884",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "7-Eleven",
+        "title": "Supply Chain Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6cfc3601-69e9-4c81-86ce-88fdb998f792",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
