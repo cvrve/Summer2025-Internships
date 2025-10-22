@@ -29142,5 +29142,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://www.clever.com/about/careers?gh_jid=7315275",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clever",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "01aab56b-d829-4f8a-a123-f0b8ec1de60c",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
