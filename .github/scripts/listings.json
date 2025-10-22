@@ -29482,5 +29482,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000089107316",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AECOM",
+        "title": "Data Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d5dc5a39-11cb-45bc-9c65-770544a3eaba",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
