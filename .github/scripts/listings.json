@@ -29567,5 +29567,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.lever.co/shieldai/b3e9f8bb-42dc-4daa-80ae-c5cefd9855c7",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Hardware Test Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9fff907b-2464-407c-b6b0-7189b10531f2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
