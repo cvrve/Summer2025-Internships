@@ -29721,5 +29721,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://seagatecareers.com/job/Bloomington-Wafer-Photo-Process-Engineering-Internship-Summer-2026-MN/1336336400/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Wafer Photo Process Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ebca9e8-5167-422f-b8b4-fb38aece08cd",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
