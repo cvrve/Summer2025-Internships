@@ -29670,5 +29670,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Design-Engineering-Intern_1192870",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Hardware Design Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a587da3d-ce18-4e34-b348-6c99dac3278e",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
