@@ -29584,5 +29584,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote---PA/Intern---Marketplace-Data-and-Operations_JR102234-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertex",
+        "title": "Marketplace Data and Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9650bf97-e7d8-4d6a-9ee3-fc10ab19d9fc",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
