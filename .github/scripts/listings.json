@@ -29704,5 +29704,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/AI-Engineering-Analyst-Intern_R103683",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LexisNexis Risk Solutions",
+        "title": "AI Engineering Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dcafba74-ed2e-4f39-955e-4d31c24d5756",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
