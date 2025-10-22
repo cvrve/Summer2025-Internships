@@ -29397,5 +29397,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089137803",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09d1c68a-db14-47ce-998e-23b47918a2da",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
