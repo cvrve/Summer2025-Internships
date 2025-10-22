@@ -29601,5 +29601,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900607",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Systems For Efficient AI",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4fffcb6a-83b1-46a0-a91e-8999e395c7b4",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
