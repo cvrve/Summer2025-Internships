@@ -29653,5 +29653,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900381",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Computer Vision and Deep Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac358ecf-12d8-49d3-9c5c-cdc674f76569",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
