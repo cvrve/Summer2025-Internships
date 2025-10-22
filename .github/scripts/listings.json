@@ -29380,5 +29380,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089133739",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "87107041-b7ae-4fdc-a12a-259586a0fee0",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
