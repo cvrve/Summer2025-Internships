@@ -29414,5 +29414,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000089140956",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Experian",
+        "title": "Full Stack SWE Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebe6022b-91a3-4e1f-9b23-9f0bef0fb802",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
