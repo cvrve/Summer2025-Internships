@@ -22340,13 +22340,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1761176490,
         "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Tudor Group",
         "title": "Quantitative Developer Intern (Pipeline Team)",
         "season": "Summer",
@@ -28733,13 +28733,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018273,
+        "date_updated": 1761176492,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341574",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Software Engineer Intern, Tools",
         "source": "vanshb03",
