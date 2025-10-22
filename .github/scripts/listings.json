@@ -29040,5 +29040,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761124856,
+        "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621107005",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestial AI",
+        "title": "Reliability Engineering Intern, Database Development",
+        "source": "vanshb03",
+        "id": "252bc18e-c3b5-459b-86e8-bf46e448be5b",
+        "date_posted": 1761124856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
