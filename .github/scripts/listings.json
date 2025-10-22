@@ -29636,5 +29636,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://job-boards.greenhouse.io/homechef/jobs/4917770008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Home Chef",
+        "title": "Operations Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4b585f8-929b-43db-a765-2a1a9fc3f933",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
