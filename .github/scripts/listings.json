@@ -29244,5 +29244,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Firmware-QA-Intern--Associate-Degree-_4062",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Badger Meter",
+        "title": "Firmware QA Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1537e640-c5bc-4f29-b0aa-db9be4b045d2",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
