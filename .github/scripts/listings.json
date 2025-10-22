@@ -29329,5 +29329,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715134609",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "GPU Compiler Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1ff8a9ac-b632-4283-95c1-645da04b9c75",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
