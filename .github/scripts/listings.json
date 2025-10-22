@@ -29516,5 +29516,22 @@
         "date_posted": 1761129845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761129845,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Industrial-Design-Intern_1192902",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Industrial Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8de2b6f5-427d-48f5-9427-d075bcf962dc",
+        "date_posted": 1761129845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
