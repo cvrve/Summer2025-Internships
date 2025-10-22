@@ -29091,5 +29091,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761124884,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4611748006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Helix AI Intern, Speech",
+        "source": "vanshb03",
+        "id": "3ed34ffe-8609-494c-977c-242d0aeb2cae",
+        "date_posted": 1761124884,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
