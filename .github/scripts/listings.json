@@ -29998,5 +29998,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761178899,
+        "url": "https://scale.com/careers/4611533005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Technical Advisor Intern, GenAI",
+        "source": "vanshb03",
+        "id": "425746b8-6507-432d-a8df-595fd1eff4eb",
+        "date_posted": 1761178899,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
