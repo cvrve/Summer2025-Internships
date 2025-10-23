@@ -29980,5 +29980,23 @@
         "date_posted": 1761489684,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761125707,
+        "url": "https://www.workatastartup.com/jobs/83826",
+        "locations": [
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fizz",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "0199b1b6-4fe3-4db4-8ee2-fb66e6ed04af",
+        "date_posted": 1761125707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
