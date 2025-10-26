@@ -30032,5 +30032,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761489233,
+        "url": "https://www.workatastartup.com/jobs/79941",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Silimate",
+        "title": "EDA QA/Testing Intern",
+        "source": "vanshb03",
+        "id": "286048e1-aa30-43cf-ad89-b4983f21054f",
+        "date_posted": 1761489233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
