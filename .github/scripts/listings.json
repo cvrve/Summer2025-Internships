@@ -30066,5 +30066,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490101,
+        "url": "https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Engineering Intern, Embedded Software",
+        "source": "vanshb03",
+        "id": "5efaf56b-8b93-4f63-9ed5-24aea00bd78b",
+        "date_posted": 1761490101,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
