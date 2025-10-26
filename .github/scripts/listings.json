@@ -30168,5 +30168,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490216,
+        "url": "https://careers.nintendo.com/job-openings/listing/25000000EM.html",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, CPU Profiling Tool\u2019s Team",
+        "source": "vanshb03",
+        "id": "5d290d3d-9a33-412b-941d-594d55016945",
+        "date_posted": 1761490216,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
