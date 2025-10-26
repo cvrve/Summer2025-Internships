@@ -30185,5 +30185,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490224,
+        "url": "https://jobs.ericsson.com/careers/job/563121772567101",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "AI Software Development Intern",
+        "source": "vanshb03",
+        "id": "23229ebc-0801-4562-a3c2-7cea9ddb1d18",
+        "date_posted": 1761490224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
