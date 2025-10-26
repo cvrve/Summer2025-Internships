@@ -29929,5 +29929,22 @@
         "date_posted": 1761489602,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489642,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "General Motors Financial",
+        "title": "Enterprise Architecture Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "3fa49af2-5077-4e15-ba16-1e1eb6a24a75",
+        "date_posted": 1761489642,
+        "company_url": "",
+        "is_visible": true
     }
 ]
