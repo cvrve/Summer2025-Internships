@@ -29895,5 +29895,22 @@
         "date_posted": 1761489543,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489568,
+        "url": "https://careers.spglobal.com/jobs/321766?lang=en-us",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b0b29772-146c-499f-90db-92c173534174",
+        "date_posted": 1761489568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
