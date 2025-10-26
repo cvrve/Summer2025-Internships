@@ -29912,5 +29912,22 @@
         "date_posted": 1761489568,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489602,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/New-York-NY/Data-Engineer-Intern_321891-1/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "efc3ed34-9851-42f9-ad63-8cba6b786334",
+        "date_posted": 1761489602,
+        "company_url": "",
+        "is_visible": true
     }
 ]
