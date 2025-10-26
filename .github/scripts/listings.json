@@ -30083,5 +30083,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490124,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202568804/software-engineering-intern-burlington-vt-summer-2026/",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cox Enterprises",
+        "title": "Software Engineering Intern, Burlington, VT",
+        "source": "vanshb03",
+        "id": "2789c76f-9912-47a3-8c91-3ab8b46992b0",
+        "date_posted": 1761490124,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
