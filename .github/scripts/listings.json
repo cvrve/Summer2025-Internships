@@ -30134,5 +30134,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490166,
+        "url": "https://careers.viasat.com/jobs/5294/job",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3266986e-03f3-49c8-a853-32eaf7af53d6",
+        "date_posted": 1761490166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
