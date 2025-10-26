@@ -30049,5 +30049,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490098,
+        "url": "https://www.lumafield.com/careers/job?id=f4301925-6a92-458c-961e-f9560f058df8",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumafield",
+        "title": "Engineering Intern, Process",
+        "source": "vanshb03",
+        "id": "57a0cc33-d18c-4bf0-8c9f-b7aa744b0452",
+        "date_posted": 1761490098,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
