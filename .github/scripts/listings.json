@@ -30100,5 +30100,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490157,
+        "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Summer-Intern-2026-OR-97006/1319944600/",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Audio AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "59acef53-b83f-48fe-8708-db4032126463",
+        "date_posted": 1761490157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
