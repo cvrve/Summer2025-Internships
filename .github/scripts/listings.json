@@ -29859,5 +29859,24 @@
         "date_posted": 1761489463,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489517,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=uberfreight&token=4961311008",
+        "locations": [
+            "San Francisco, CA",
+            "Chicago, IL",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber Freight",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "c49ea979-c504-42ec-9afb-859cf0938095",
+        "date_posted": 1761489517,
+        "company_url": "",
+        "is_visible": true
     }
 ]
