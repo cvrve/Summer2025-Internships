@@ -30015,5 +30015,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1761489227,
+        "url": "https://www.workatastartup.com/jobs/84053",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tasker AI",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "06e5edbf-772c-42e2-844a-80977bba3e08",
+        "date_posted": 1761489227,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
