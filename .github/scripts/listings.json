@@ -3617,13 +3617,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391676,
+        "date_updated": 1761489912,
         "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -3651,13 +3651,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751391756,
+        "date_updated": 1761489912,
         "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
         "locations": [
             "Washington, D.C."
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Palantir",
         "title": "Forward Deployed Software Engineer Intern, US Government",
         "season": "Summer",
@@ -11295,13 +11295,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756225540,
+        "date_updated": 1761489913,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nuro",
         "title": "Software Engineering Intern, Mapping & Localization",
         "source": "vanshb03",
@@ -17695,13 +17695,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757733680,
+        "date_updated": 1761489913,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246003",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Market Risk Intern",
         "source": "vanshb03",
@@ -20948,13 +20948,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758724273,
+        "date_updated": 1761489914,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bracebridge Capital",
         "title": "Software Engineer Co-op",
         "season": "Summer",
@@ -22186,13 +22186,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759320959,
+        "date_updated": 1761489914,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1884627",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Explore Program Intern",
         "source": "vanshb03",
@@ -24795,14 +24795,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759768915,
+        "date_updated": 1761489914,
         "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7191000",
         "locations": [
             "Summit, NJ",
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles River Associates (CRA)",
         "title": "Data Analytics Consulting Analyst/Associate Intern, Life Sciences/Analytics",
         "season": "Summer",
