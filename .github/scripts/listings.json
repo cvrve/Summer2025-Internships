@@ -30117,5 +30117,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490161,
+        "url": "https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications",
+        "locations": [
+            "Carpentersville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OTTO Engineering",
+        "title": "Firmware/Embedded Engineer Intern, Communications",
+        "source": "vanshb03",
+        "id": "f88b348f-c46c-4d21-8cea-fd490b5fb38d",
+        "date_posted": 1761490161,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
