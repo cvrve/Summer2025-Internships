@@ -30202,5 +30202,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490229,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Application-Developer-%28OH%29-WA-98033/1260990901/",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PACCAR",
+        "title": "Application Developer Intern",
+        "source": "vanshb03",
+        "id": "0961117b-1710-4d50-90e6-22671d211618",
+        "date_posted": 1761490229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
