@@ -29946,5 +29946,22 @@
         "date_posted": 1761489642,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489665,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1068",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "General Motors Financial",
+        "title": "Software Development Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "eb1e6617-fd45-4ec2-bf66-a2281a09423f",
+        "date_posted": 1761489665,
+        "company_url": "",
+        "is_visible": true
     }
 ]
