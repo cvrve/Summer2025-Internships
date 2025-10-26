@@ -29878,5 +29878,22 @@
         "date_posted": 1761489517,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489543,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-us/SPGI_Careers/job/Princeton-NJ/Software-Engineer-Intern--Early-Career-_321759-1/apply",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a98582a2-ed7a-4d1b-b3b0-b6142a7d9071",
+        "date_posted": 1761489543,
+        "company_url": "",
+        "is_visible": true
     }
 ]
