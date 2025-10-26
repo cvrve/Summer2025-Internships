@@ -29842,5 +29842,22 @@
         "date_posted": 1761489420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489463,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5760872003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Software Engineering intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7d5632bc-f310-4959-8277-e010ef42a16c",
+        "date_posted": 1761489463,
+        "company_url": "",
+        "is_visible": true
     }
 ]
