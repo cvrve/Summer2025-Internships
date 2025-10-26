@@ -29963,5 +29963,22 @@
         "date_posted": 1761489665,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489684,
+        "url": "https://jobs.baesystems.com/global/en/job/117632BR/Cyber-Security-Software-Developer-Part-Time-Intern",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Cyber Security Software Developer Part Time Intern",
+        "season": "Fall",
+        "source": "economicherb",
+        "id": "f90883ac-401b-48f7-a662-e85560bee569",
+        "date_posted": 1761489684,
+        "company_url": "",
+        "is_visible": true
     }
 ]
