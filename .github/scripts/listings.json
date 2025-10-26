@@ -30151,5 +30151,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761490212,
+        "url": "https://careers.nintendo.com/job-openings/listing/25000000DX.html",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo of America",
+        "title": "IT Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1cbd1496-70c1-49f4-8e28-30cc15983a3a",
+        "date_posted": 1761490212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
