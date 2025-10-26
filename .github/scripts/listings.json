@@ -29825,5 +29825,22 @@
         "date_posted": 1761174998,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761489420,
+        "url": "https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Operational Automation Engineer Intern",
+        "season": "Spring",
+        "source": "andychen482",
+        "id": "9301548c-b188-4a93-b890-321d1f294894",
+        "date_posted": 1761489420,
+        "company_url": "",
+        "is_visible": true
     }
 ]
