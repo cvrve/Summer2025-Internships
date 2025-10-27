@@ -4222,13 +4222,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1751851167,
+        "date_updated": 1761583597,
         "url": "https://www.ycombinator.com/companies/vly-ai-2/jobs/5xe004o-full-stack-applied-ai-software-engineering-intern",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "vly.ai",
         "title": "Full-Stack + Applied AI Software Engineering Intern",
         "source": "vanshb03",
@@ -29861,7 +29861,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761489517,
+        "date_updated": 1761583605,
         "url": "https://boards.greenhouse.io/embed/job_app?for=uberfreight&token=4961311008",
         "locations": [
             "San Francisco, CA",
@@ -29869,7 +29869,7 @@
             "Frisco, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber Freight",
         "title": "Software Engineering Intern",
         "season": "Summer",
