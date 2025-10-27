@@ -30253,5 +30253,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1761583487,
+        "url": "https://c3aerollc.applytojob.com/apply/pi96dx7tgr/Software-Engineering-Intern-Spring-2026",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C3Aero",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c250b047-823e-4ca3-bb99-b7640ad24265",
+        "date_posted": 1761583487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
