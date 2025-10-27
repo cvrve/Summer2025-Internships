@@ -30236,5 +30236,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1761583481,
+        "url": "https://c3aerollc.applytojob.com/apply/bUoUYU47j0/Network-Engineering-Intern-Spring-2026",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C3Aero",
+        "title": "Network Engineering Intern",
+        "source": "vanshb03",
+        "id": "66bbc9c8-6fe1-4dd3-af4f-a7be4d5988f7",
+        "date_posted": 1761583481,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
