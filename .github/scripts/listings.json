@@ -30338,5 +30338,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761583659,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5686977004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7b6c4155-5e74-4fe4-9ef4-3b2c5cebd91e",
+        "date_posted": 1761583659,
+        "company_url": "",
+        "is_visible": true
     }
 ]
