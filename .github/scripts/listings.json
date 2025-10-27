@@ -30270,5 +30270,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1761583516,
+        "url": "https://jobs.disneycareers.com/job/glendale/the-walt-disney-studios-software-engineering-intern-summer-2026/391/87730962160?codes=INDEED",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Studios",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d7eb751b-3480-4a3f-a07b-d1e9dbd03670",
+        "date_posted": 1761583516,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
