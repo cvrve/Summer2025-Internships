@@ -30219,5 +30219,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761583472,
+        "url": "https://c3aerollc.applytojob.com/apply/n0zfC1p2Dc/Cybersecurity-Intern-Spring-2026",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C3Aero",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "8ffd4818-6996-4b6e-8a64-153299aa09c7",
+        "date_posted": 1761583472,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
