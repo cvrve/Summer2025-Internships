@@ -30304,5 +30304,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1761584125,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-Utah-Roy/XMLNAME-2026-Software-Engineering-Intern---Roy-UT_R10212323",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4a9150e5-b959-4131-9a36-f51eba5cf20b",
+        "date_posted": 1761584125,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
