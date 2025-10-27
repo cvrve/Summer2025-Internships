@@ -30287,5 +30287,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761584088,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/4954012007",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Toshiba Global Commerce Solutions",
+        "title": "Innovation Development Intern",
+        "source": "vanshb03",
+        "id": "69726f3b-38e6-46b5-a38a-432916ebe0ff",
+        "date_posted": 1761584088,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
