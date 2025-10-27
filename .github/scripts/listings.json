@@ -30321,5 +30321,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761584141,
+        "url": "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=df8da3fd-cd4d-48ac-a5fa-b519199f9389",
+        "locations": [
+            "Leawood, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ascend Learning",
+        "title": "Software Engineer Intern, Enterprise Architecture",
+        "source": "vanshb03",
+        "id": "732c76c9-850d-4076-99a7-39f1de6acccd",
+        "date_posted": 1761584141,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
