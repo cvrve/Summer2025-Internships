@@ -43,7 +43,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Toshiba Global Commerce Solutions | Innovation Development Intern 🛂 | Frisco, TX | <a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/4954012007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | C3Aero | Software Engineering Intern | Burlington, MA | <a href="https://c3aerollc.applytojob.com/apply/pi96dx7tgr/Software-Engineering-Intern-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Network Engineering Intern | Burlington, MA | <a href="https://c3aerollc.applytojob.com/apply/bUoUYU47j0/Network-Engineering-Intern-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Cybersecurity Intern | Burlington, MA | <a href="https://c3aerollc.applytojob.com/apply/n0zfC1p2Dc/Cybersecurity-Intern-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -197,6 +196,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Performance Modeling Engineer Intern, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242661?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Cohere | Software Engineer Intern/Co-op - Fall | Canada</br>United States | <a href="https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
+| Toshiba Global Commerce Solutions | Innovation Development Intern 🛂 | Frisco, TX | 🔒 | Oct 27 |
 | Figure | Firmware Engineer Intern | San Jose, CA | 🔒 | Sep 15 |
 | Workiva | Product & Application Security Intern 🛂 | Remote | 🔒 | Sep 12 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
