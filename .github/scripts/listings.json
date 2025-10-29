@@ -30418,5 +30418,22 @@
         "date_posted": 1761621996,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761722726,
+        "url": "https://githubinc.jibeapply.com/jobs/4640",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GitHub",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "canon-robins",
+        "id": "2984e18c-1906-4a9a-9c95-8f4cd41e50af",
+        "date_posted": 1761722726,
+        "company_url": "",
+        "is_visible": true
     }
 ]
