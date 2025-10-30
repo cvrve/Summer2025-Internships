@@ -30349,5 +30349,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833347,
+        "url": "https://retailcareers.staples.com//job/-/-/49589/87839758768",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "26ba2bdb-e9aa-44e2-9811-16666da9fb5e",
+        "date_posted": 1761833347,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
