@@ -30674,5 +30674,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Valparaiso-FL/Data-Science-Intern_R-00169271",
+        "locations": [
+            "Valparaiso, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "71527544-78f0-4200-9f22-057881d6a0d0",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
