@@ -30760,5 +30760,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "79649b95-bea6-42e2-90b5-a290149c38f9",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
