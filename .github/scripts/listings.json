@@ -30298,5 +30298,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833278,
+        "url": "https://careers.jackhenry.com/job/-/-/42859/87787419520",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0055e6b-ddac-432a-b195-6389914976ee",
+        "date_posted": 1761833278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
