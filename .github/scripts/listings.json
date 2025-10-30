@@ -30486,5 +30486,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://ryan.wd1.myworkdayjobs.com/en-US/RyanCareers/job/Plano/Summer-2026-Intern--Data-Science_R0017876-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ryan",
+        "title": "Intern, Data Science",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "31b45441-1b54-4f3b-b8fc-c24ac75a8ac1",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
