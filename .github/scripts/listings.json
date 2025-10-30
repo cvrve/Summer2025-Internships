@@ -30247,5 +30247,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761828915,
+        "url": "https://ptc.eightfold.ai/careers/job/137477482427",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7380fcd5-9e2c-4d0b-bf53-7f026e22a7c0",
+        "date_posted": 1761828915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
