@@ -30179,5 +30179,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761828905,
+        "url": "https://www.tesla.com/careers/search/job/254611",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Service Engineering",
+        "source": "vanshb03",
+        "id": "9057193a-90f9-44b1-a340-55afc5e35804",
+        "date_posted": 1761828905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
