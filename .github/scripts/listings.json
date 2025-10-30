@@ -30829,5 +30829,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Business-Data-Engineer-Intern_JR104161",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Business Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "269648ba-99e6-4950-b84c-2c34c28eddb3",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
