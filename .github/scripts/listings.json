@@ -30657,5 +30657,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://www.skydio.com/jobs/7506906003?gh_jid=7506906003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "763a753b-0ddb-43d2-ba3a-a13936997df2",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
