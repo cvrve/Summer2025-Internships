@@ -30366,5 +30366,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833381,
+        "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
+        "locations": [
+            "Denver, CO",
+            "Montvale, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "KPMG",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "123749a2-ecc2-4b95-aec4-1a4ab6ce2574",
+        "date_posted": 1761833381,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
