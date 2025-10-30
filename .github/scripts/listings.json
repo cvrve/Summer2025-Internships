@@ -30162,5 +30162,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761828902,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/jr-44068/software-engineering-intern-summer-2026/",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Northwestern Mutual",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "19449414-5143-4ab7-8a74-743f42a403b2",
+        "date_posted": 1761828902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
