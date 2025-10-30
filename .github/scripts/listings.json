@@ -30213,5 +30213,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1761828910,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-25-14747",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ae8f8dbe-f905-4683-bf86-d0c05c80fbe6",
+        "date_posted": 1761828910,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
