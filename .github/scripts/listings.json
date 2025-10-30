@@ -30264,5 +30264,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761828917,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, OTA Integration",
+        "source": "vanshb03",
+        "id": "583948eb-4c1f-49c8-b891-a2c4d5b5d947",
+        "date_posted": 1761828917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
