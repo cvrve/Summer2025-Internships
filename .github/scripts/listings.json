@@ -30605,5 +30605,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Software-Engineering-Intern--Summer-2026_10131104",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9e82b4b-9271-4c02-8362-322e20ed800c",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
