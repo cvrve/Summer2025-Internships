@@ -30469,5 +30469,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Cloud-Engineering-Intern_J2429234",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Cloud Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f0c5eb2e-5d2d-4c39-af14-008a149c04c9",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
