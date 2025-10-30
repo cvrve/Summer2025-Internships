@@ -30708,5 +30708,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1",
+        "locations": [
+            "Pella, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vermeer",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "811dc279-194f-4431-8078-0690d4500d96",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
