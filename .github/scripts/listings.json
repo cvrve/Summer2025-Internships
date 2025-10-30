@@ -30743,5 +30743,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Fire-Investigative-Intern_R-47583",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Travelers Companies",
+        "title": "Fire Investigative Intern -",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5bdd8307-6245-4f13-ab4f-7b9925fa7b9d",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
