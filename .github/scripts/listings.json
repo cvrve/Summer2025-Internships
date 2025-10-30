@@ -30639,5 +30639,23 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229",
+        "locations": [
+            "San Diego, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "RSM",
+        "title": "Advanced Analytics and Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a481aa4c-fad7-4a44-a847-0dee4939b2f1",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
