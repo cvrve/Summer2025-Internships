@@ -30452,5 +30452,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-COE-DevSevOps-Intern_JR104215",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "AI COE/DevSevOps Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e5488831-b9ea-414c-85d6-de95d38c449d",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
