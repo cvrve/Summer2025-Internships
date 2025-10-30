@@ -30554,5 +30554,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7510017003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern, Machine Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f820c1d-8342-44fd-833f-6d31274a7d78",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
