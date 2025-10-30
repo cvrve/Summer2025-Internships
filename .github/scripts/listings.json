@@ -30503,5 +30503,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI-Machine-Learning-Development-Engineer_R-8741",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Internship - AI-Machine Learning Development Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2926da88-9d3b-425b-aa7b-eadaa47156ea",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
