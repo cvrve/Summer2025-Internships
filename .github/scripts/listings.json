@@ -30281,5 +30281,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1761828927,
+        "url": "https://jobs.lever.co/tri/eef0e312-6b25-44e4-b2df-0d3a4ee3533e",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Human Interactive Driving Intern, Uncertainty-Aware Control",
+        "source": "vanshb03",
+        "id": "58aafe50-17ee-4d31-84e2-15dfd823ca9d",
+        "date_posted": 1761828927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
