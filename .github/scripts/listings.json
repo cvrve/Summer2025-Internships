@@ -30315,5 +30315,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833339,
+        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2026-IEF-Software-Engineering-College-Intern-GA-31401/1320817800/",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gulfstream Aerospace Corporation",
+        "title": "Software Engineering College Intern",
+        "source": "vanshb03",
+        "id": "516ce320-b305-4c85-8605-2b03f9fd2bb2",
+        "date_posted": 1761833339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
