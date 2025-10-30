@@ -30401,5 +30401,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1761833410,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Software Engineering Intern, Automation",
+        "source": "vanshb03",
+        "id": "a9f4c7e8-df6a-485a-8220-44ea6647670d",
+        "date_posted": 1761833410,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
