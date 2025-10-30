@@ -30537,5 +30537,22 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/C131A026F1/",
+        "locations": [
+            "Bensenville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer - Summer Internship 2026",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "086b1aea-58f8-42d1-aa6b-578e6e595d02",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
