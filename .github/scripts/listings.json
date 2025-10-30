@@ -30230,5 +30230,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761828913,
+        "url": "https://ptc.eightfold.ai/careers/job/137477472164",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d23d937a-6d72-4cb9-aeba-debcd91b7d91",
+        "date_posted": 1761828913,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
