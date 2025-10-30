@@ -30145,5 +30145,22 @@
         "date_posted": 1761722726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761828758,
+        "url": "https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AnySignal",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "be68a13c-08f2-4734-a668-cf2432de542b",
+        "date_posted": 1761828758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
