@@ -30384,5 +30384,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833385,
+        "url": "https://www.careers.signify.com/global/en/job/361448/Software-Engineering-Intern-Cooper-Lighting-Solutions-Spring-2026",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signify",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6ad3f40d-d90d-4515-b293-08207812667d",
+        "date_posted": 1761833385,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
