@@ -30435,5 +30435,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761839541,
+        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500612003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6998638e-c8fb-4998-8678-1f172526c281",
+        "date_posted": 1761839541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
