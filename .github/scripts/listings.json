@@ -30332,5 +30332,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761833343,
+        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2026-Application-Developer-College-Intern-GA-31401/1331621900/",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Gulfstream Aerospace Corporation",
+        "title": "Application Developer College Intern",
+        "source": "vanshb03",
+        "id": "1d1dd185-4a50-47ab-b6b4-3cc98a565356",
+        "date_posted": 1761833343,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
