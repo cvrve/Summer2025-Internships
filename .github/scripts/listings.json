@@ -30846,5 +30846,24 @@
         "date_posted": 1761839541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761933983,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1",
+        "locations": [
+            "Bellevue, WA",
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern, Security/Government",
+        "source": "vanshb03",
+        "id": "cbc50cbc-483a-411c-945e-23c12f344f72",
+        "date_posted": 1761933983,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
