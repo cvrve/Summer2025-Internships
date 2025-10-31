@@ -30865,5 +30865,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761934035,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---ML-Data-Engineer--Internship--Full-Time--Jan---June-2026--Internship_R-779528",
+        "locations": [
+            "Quincy, MA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Intern, ML/Data Engineer",
+        "source": "vanshb03",
+        "id": "68644e26-5d3d-4482-a88b-d73f6dfa1da3",
+        "date_posted": 1761934035,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
