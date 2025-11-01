@@ -30986,5 +30986,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624587005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Frontend Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1e561ec5-bc89-42f1-8abe-12f67c37d8b4",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
