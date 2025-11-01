@@ -31021,5 +31021,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209",
+        "locations": [
+            "San Francisco, CA, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prologis",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "864b3746-fe9b-490d-8238-9014cbd13e37",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
