@@ -31225,5 +31225,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2532385-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6369472a-b668-41e7-ad88-34d2926f0d02",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
