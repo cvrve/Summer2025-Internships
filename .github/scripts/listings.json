@@ -31259,5 +31259,23 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241-1",
+        "locations": [
+            "Austin, TX",
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer (AI/ML) Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "23c1baf6-cac3-48b1-ac36-af9f009b312d",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
