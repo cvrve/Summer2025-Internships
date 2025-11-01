@@ -31106,5 +31106,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500619003",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Credit Karma",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cfbdde3e-0a57-4ab9-bb77-4db3eda81435",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
