@@ -30901,5 +30901,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762018160,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27279/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineer Intern, 3D",
+        "source": "vanshb03",
+        "id": "95dd04e5-c6f0-42da-8eda-b1c4cca1e826",
+        "date_posted": 1762018160,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
