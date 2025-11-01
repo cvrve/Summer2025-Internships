@@ -31174,5 +31174,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Software-Engineer-Intern---Buffalo-NY_R10212874",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "716888ad-1c98-43b3-b8b5-b92779c26a27",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
