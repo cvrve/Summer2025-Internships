@@ -31191,5 +31191,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956555008?gh_jid=4956555008",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Inspire Medical Systems",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "58ba0e94-2344-43f9-9af7-54570e4a0e68",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
