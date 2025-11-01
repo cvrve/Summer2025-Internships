@@ -30883,5 +30883,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762017640,
+        "url": "https://www.workatastartup.com/jobs/84385",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nixo",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "0cd2bf9b-8362-4986-950e-337c01ff04ab",
+        "date_posted": 1762017640,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
