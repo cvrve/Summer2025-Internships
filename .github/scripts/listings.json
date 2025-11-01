@@ -31123,5 +31123,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "EQT Corporation",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5e473ad1-cd7b-453c-bd2d-b0a0f4992c67",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
