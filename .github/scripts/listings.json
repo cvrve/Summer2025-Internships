@@ -30918,5 +30918,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1762018164,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Engineering Intern, Embedded Hardware, Vehicle Networking & Audio",
+        "source": "vanshb03",
+        "id": "b39a9f8c-0245-43fb-bb21-0332bc61e8ad",
+        "date_posted": 1762018164,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
