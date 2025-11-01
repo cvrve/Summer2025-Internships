@@ -31055,5 +31055,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256900",
+        "locations": [
+            "New Albany, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Hardware Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "44032283-3fe2-4a78-82e7-83fa9cc4a8dc",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
