@@ -30952,5 +30952,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "de41db36-f53a-46fc-898f-70a41cc839e5",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
