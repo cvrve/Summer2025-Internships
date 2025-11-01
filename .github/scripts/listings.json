@@ -31089,5 +31089,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "SAS",
+        "title": "AI & IoT Solution Advisor Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2e81320d-f57a-46e1-afbb-7c1ec49a41c2",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
