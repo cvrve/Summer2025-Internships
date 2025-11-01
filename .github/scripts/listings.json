@@ -31072,5 +31072,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113495",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e267d266-032f-4f92-b757-eefd9d677cc2",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
