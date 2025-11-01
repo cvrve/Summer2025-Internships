@@ -30969,5 +30969,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Research Internship, Reinforcement Learning for Large Foundation Models",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e7c06cd1-4cc3-4ba9-a62a-5210a4099493",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
