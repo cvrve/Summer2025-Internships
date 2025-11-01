@@ -30935,5 +30935,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1762018230,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7512164003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Intern, AI/ML Compiler Research Engineer",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "418e500b-6341-4e6c-82fb-37743fd1c02e",
+        "date_posted": 1762018230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
