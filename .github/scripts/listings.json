@@ -31345,5 +31345,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762196181,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US117172BREXTERNAL/Technical-Intern-Software-Systems-Engineer-Summer-2026",
+        "locations": [
+            "Broomfield, CO",
+            "Boulder, CO",
+            "Westminister, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Software Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "74a84d29-8900-48a4-9f1c-0359360ccba6",
+        "date_posted": 1762196181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
