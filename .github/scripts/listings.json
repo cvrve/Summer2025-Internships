@@ -31571,5 +31571,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://aurora.tech/careers/8227393002?gh_jid=8227393002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "90a51896-f00c-43bd-b4d8-6994effe81e7",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
