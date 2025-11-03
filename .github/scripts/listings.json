@@ -31328,5 +31328,22 @@
         "date_posted": 1762018230,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762191877,
+        "url": "https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lambda",
+        "title": "Machine Learning Research Intern",
+        "source": "vanshb03",
+        "id": "9c20eb41-bffb-46d4-a94b-8c8999c15e54",
+        "date_posted": 1762191877,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
