@@ -31536,5 +31536,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Cell-Line-Development-Data-Science-Intern_R0166327",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Takeda",
+        "title": "Cell Line Development Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0f3146ea-b9b2-4a7f-992e-e273b32d5be7",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
