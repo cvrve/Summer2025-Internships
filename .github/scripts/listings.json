@@ -31588,5 +31588,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196537,
+        "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Applications-Development-Intern_2532279",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Applications Development Intern",
+        "source": "vanshb03",
+        "id": "64f96324-6b7a-437c-8b44-b54908787ab4",
+        "date_posted": 1762196537,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
