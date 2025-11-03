@@ -31553,5 +31553,23 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2026-Intern---Product-Management_JR316365-2",
+        "locations": [
+            "New York, NY",
+            "San Fransisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Product Management Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "25ec3d03-235c-4cba-8415-120aa7269f31",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
