@@ -31468,5 +31468,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/AI-Intern_R7371",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars Enterprises",
+        "title": "AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e2984d19-a8d9-4303-bc98-be0b64ad3443",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
