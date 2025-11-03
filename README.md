@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Lambda | Machine Learning Research Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Zip | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/zip/ff6e6e25-e0e0-4d81-b1f6-be75a7a0511d?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Vertiv | Hardware Design Intern | New Albany, OH | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256900?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Thermo Fisher Scientific | AI & Automation Intern | Pittsburgh, PA | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
