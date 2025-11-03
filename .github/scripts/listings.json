@@ -31400,5 +31400,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://careers-sas.icims.com/jobs/40757/summer-2026-%E2%80%93-trustworthy-ai-intern/job",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "SAS",
+        "title": "Trustworthy AI Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7eac6e9d-0cac-4e82-8715-377a89326a4f",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
