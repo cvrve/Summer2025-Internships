@@ -8447,13 +8447,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755162394,
+        "date_updated": 1762191939,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Software Engineer Intern, Fullstack",
         "source": "vanshb03",
@@ -24031,13 +24031,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1759596944,
+        "date_updated": 1762191940,
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4918224007",
         "locations": [
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid",
         "title": "Embedded Software Intern, Summer 2026",
         "source": "vanshb03",
@@ -25871,14 +25871,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1762191940,
         "url": "https://job-boards.greenhouse.io/godaddyemployeereferrals/jobs/6645311003",
         "locations": [
             "Remote in USA",
             "Tempe, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GoDaddy",
         "title": "Tech Internship 2026 - General Referral",
         "season": "Summer",
@@ -26352,13 +26352,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1762191941,
         "url": "https://jobs.lever.co/rhombus-systems/f0dbe3f9-aca0-4221-879d-4f1047931d62",
         "locations": [
             "Sacramento, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rhombus",
         "title": "Engineering Intern",
         "season": "Summer",
@@ -28511,13 +28511,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018384,
+        "date_updated": 1762191941,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341756",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Software Verification & Validation Engineering Intern",
         "source": "vanshb03",
@@ -28528,13 +28528,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018387,
+        "date_updated": 1762191941,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342038",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Systems Engineering Intern, El Segundo",
         "source": "vanshb03",
@@ -28545,13 +28545,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018392,
+        "date_updated": 1762191941,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342074",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Systems Test Engineering Intern",
         "source": "vanshb03",
@@ -28647,13 +28647,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018415,
+        "date_updated": 1762191941,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342085",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Flight Performance Engineering Intern, AI",
         "source": "vanshb03",
@@ -28769,13 +28769,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761124856,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621107005",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestial AI",
         "title": "Reliability Engineering Intern, Database Development",
         "source": "vanshb03",
@@ -28786,13 +28786,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761124866,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621109005",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestial AI",
         "title": "Reliability Engineering Intern, Datacenter RAS",
         "source": "vanshb03",
@@ -28803,13 +28803,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761124874,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/celestialai/jobs/4621108005",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestial AI",
         "title": "Reliability Engineering Intern, Silicon Photonics",
         "source": "vanshb03",
@@ -28837,13 +28837,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7342994",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Relay",
         "title": "Product Engineering Intern",
         "season": "Summer",
@@ -30573,13 +30573,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761839541,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The New York Times",
         "title": "Backend Engineering Intern",
         "season": "Summer",
@@ -30988,13 +30988,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1762191942,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624587005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The New York Times",
         "title": "Frontend Engineering Intern",
         "season": "Summer",
