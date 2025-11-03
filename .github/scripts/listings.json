@@ -31519,5 +31519,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Quantitative-Clinical-Pharmacology--QCP--AI-RAG-Intern_R0165988",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Takeda",
+        "title": "Quantitative Clinical Pharmacology (QCP) AI/RAG Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "486fa1b0-2c08-4929-beee-b508eeaa21c8",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
