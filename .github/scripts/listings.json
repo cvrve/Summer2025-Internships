@@ -31417,5 +31417,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--Master-s-Degree_2502453",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "AI Infrastructure Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cdccdc09-ea62-40a7-aa8f-13e4a599f04d",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
