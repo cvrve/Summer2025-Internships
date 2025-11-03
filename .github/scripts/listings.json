@@ -31502,5 +31502,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2026-Reimbursement-Data-Engineer-Undergraduate-Intern_J270586",
+        "locations": [
+            "Pittsburgh PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Reimbursement Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ec315bd8-790e-44a4-9964-ca64e3a90aae",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
