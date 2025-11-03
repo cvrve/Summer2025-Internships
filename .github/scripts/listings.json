@@ -31381,5 +31381,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762196198,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US117168BREXTERNAL/Technical-Intern-Embedded-Software-Engineer-Summer-2026",
+        "locations": [
+            "Boulder, CO",
+            "Broomfield, CO",
+            "Westminister, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "Technical Intern, Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "7e268a4f-3ef0-4c98-8349-ccfd07164e15",
+        "date_posted": 1762196198,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
