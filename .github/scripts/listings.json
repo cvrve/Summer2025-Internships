@@ -31364,5 +31364,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762196186,
+        "url": "https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L.L.Bean",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "54f1964a-0c0c-496b-be00-349a74f2b147",
+        "date_posted": 1762196186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
