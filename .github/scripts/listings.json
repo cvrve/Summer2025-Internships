@@ -31485,5 +31485,22 @@
         "date_posted": 1762196244,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762196244,
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/Cambridge-MA/XMLNAME-2026-US-Summer-Internship-Program--AI-Solution-Developer---ShinrAI-Center-for-AI-ML_R0166470",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Takeda",
+        "title": "AI Solution Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8be26cfc-e6c5-4ea6-906e-1c44473fd7f9",
+        "date_posted": 1762196244,
+        "company_url": "",
+        "is_visible": true
     }
 ]
