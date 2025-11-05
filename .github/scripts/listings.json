@@ -31635,5 +31635,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762349161,
+        "url": "https://jobs.lumen.com/global/en/job/340224/Intern-Engineer-Summer-2026",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a3b46481-85ca-4e5a-9109-09ef9821d566",
+        "date_posted": 1762349161,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
