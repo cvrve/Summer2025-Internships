@@ -31907,5 +31907,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351630,
+        "url": "https://jobs.keysight.com/external/jobs/50038?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Application Engineer Intern, Signal Processing",
+        "source": "vanshb03",
+        "id": "1b43ef3c-6aba-48d0-bad6-5fc9f4528df3",
+        "date_posted": 1762351630,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
