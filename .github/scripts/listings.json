@@ -31549,5 +31549,22 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7840",
+        "locations": [
+            "Everett, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fortive",
+        "title": "Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3186c92d-f044-4fca-9993-039ceb15c30f",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
