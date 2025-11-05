@@ -31652,5 +31652,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351421,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830565007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e1310ba4-7e7e-434b-ac42-2ddf82a302b0",
+        "date_posted": 1762351421,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
