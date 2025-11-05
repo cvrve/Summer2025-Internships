@@ -31669,5 +31669,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351428,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "381fcbc3-969c-437e-b391-df4f3f41fa12",
+        "date_posted": 1762351428,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
