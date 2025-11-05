@@ -31924,5 +31924,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351639,
+        "url": "https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Saviynt LABS",
+        "title": "Software Engineering Intern, R&D",
+        "source": "vanshb03",
+        "id": "08a2e725-0d0a-4da9-871c-89b80a261aba",
+        "date_posted": 1762351639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
