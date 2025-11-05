@@ -31618,5 +31618,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762348933,
+        "url": "https://jobs.keysight.com/external/jobs/50043/job",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9cafaa17-fc54-439a-ab0c-99b58a1a537c",
+        "date_posted": 1762348933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
