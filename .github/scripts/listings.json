@@ -31805,5 +31805,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351491,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Engineer-Summer-2026/1340113700/",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Engineer Intern",
+        "source": "vanshb03",
+        "id": "00a15a8e-4911-419e-966a-a4b0c9afbb04",
+        "date_posted": 1762351491,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
