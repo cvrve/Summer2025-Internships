@@ -31532,5 +31532,22 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "AI/ML Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ccb71070-df29-474b-99df-c13857d348f4",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
