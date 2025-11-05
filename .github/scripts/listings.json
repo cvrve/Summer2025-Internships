@@ -31566,5 +31566,22 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1595642",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "eac161dc-70fd-4435-aa04-6fad670cecbc",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
