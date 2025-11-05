@@ -136,7 +136,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://www.tesla.com/careers/search/job/244845?source=Indeed&source=Indeed&tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | ↳ | Software Engineer Intern, Factory Software | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/247304?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | JP Morgan Chase | 2025 Code For Good Hackathon | <details><summary>**10 locations**</summary>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Tampa, FL</br>Wilmington, DE</details> | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648143?fbclid=PAZXh0bgNhZW0CMTEAAafs8h7ZW-wLDtcZKkJDqEFaZ969cXoLf1DOLz_z143P1j_0TvRk8lT9hD-5BA_aem_eKYVJjFyiwkfX46J6xkMgA&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
-| Method | Software Engineer Intern | Austin, TX</br>New York, NY | <a href="https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | BMW | Product Development Intern, Telematics & ConnectedDrive Services | Woodcliff Lake, NJ | <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | SAP | SAP iXp Intern, Joule Full-Stack Developer | Palo Alto, CA | <a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Joule-Full-Stack-Developer-Palo-Alto%2C-CA-CA-94304/1195716901/?feedId=118200&utm_source=Indeed&utm_campaign=SAP_Indeed&jobPipeline=Indeed&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | L3Harris | Software Engineer Intern, Tulsa 🇺🇸 | Tulsa, OK | <a href="https://careers.l3harris.com/en/job/-/-/4832/84133135648?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -328,8 +327,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern, AI Storage Infrastructure - Fall | Santa Clara, CA | 🔒 | Apr 25 |
 | ↳ | Software Engineering Intern, Deep Learning Accelerator - Fall | Santa Clara, CA | 🔒 | Apr 25 |
 | ↳ | Software Engineering Intern, GPU Communications and Networking - Fall | Santa Clara, CA | 🔒 | Apr 25 |
-| Tesla | Android Engineer, Mobile Software Intern - Fall | Palo Alto, CA | 🔒 | Apr 15 |
-| ↳ | Fullstack C++ Engineer, Vehicle User Interface Intern - Fall | Palo Alto, CA | 🔒 | Apr 15 |
+| Tesla | Fullstack C++ Engineer, Vehicle User Interface Intern - Fall | Palo Alto, CA | 🔒 | Apr 15 |
 | Tesla | Haskell Software Developer, Vehicle Firmware Intern - Fall | Palo Alto, CA | 🔒 | Apr 10 |
 | ↳ | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | 🔒 | Apr 10 |
 | ↳ | Software Controls Engineer Intern, Optimus - Fall | Palo Alto, CA | 🔒 | Apr 10 |
