@@ -31601,5 +31601,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762348903,
+        "url": "https://www.metacareers.com/jobs/2659361741072293/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meta",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5a6461d4-76f5-4762-b217-c1ee482eeb09",
+        "date_posted": 1762348903,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
