@@ -31890,5 +31890,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351625,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Cloud-Native-Developer-Undergrad-Intern_R013988",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Cloud Native Developer Intern",
+        "source": "vanshb03",
+        "id": "e4e4e8d8-5328-4d66-8386-cea2cbc1a89a",
+        "date_posted": 1762351625,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
