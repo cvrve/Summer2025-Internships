@@ -31737,5 +31737,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351472,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Intern---Software-Engineering-Intern-MI---Onsite--TX-_01802957",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineering Intern, MI",
+        "source": "vanshb03",
+        "id": "c1f36563-f88e-4cc3-b868-81ada1262056",
+        "date_posted": 1762351472,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
