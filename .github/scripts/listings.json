@@ -5333,7 +5333,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753215757,
+        "date_updated": 1762301438,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
         "locations": [
             "Boulder, CO",
@@ -5343,7 +5343,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Trade Desk",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -26398,13 +26398,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760408468,
+        "date_updated": 1762301441,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309530",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Analytics Engineer Intern",
         "source": "vanshb03",
@@ -26415,13 +26415,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760408939,
+        "date_updated": 1762301441,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309526",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -26450,13 +26450,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409157,
+        "date_updated": 1762301442,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7309504",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -28266,13 +28266,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760841546,
+        "date_updated": 1762301442,
         "url": "https://www.ycombinator.com/companies/stratus-aviation/jobs/3uZVkok-embedded-software-engineer-intern",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Stratus Aviation",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
