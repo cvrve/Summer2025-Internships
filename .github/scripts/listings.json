@@ -31686,5 +31686,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351432,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "Application Engineer Co-op",
+        "source": "vanshb03",
+        "id": "d00ea0d6-c963-4a2b-92b8-a3b32050eea7",
+        "date_posted": 1762351432,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
