@@ -31839,5 +31839,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351598,
+        "url": "https://careers-gdms.icims.com/jobs/68767/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineering Intern, C++ Development",
+        "source": "vanshb03",
+        "id": "f573810f-1c04-46ae-bac5-5e961cf6635c",
+        "date_posted": 1762351598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
