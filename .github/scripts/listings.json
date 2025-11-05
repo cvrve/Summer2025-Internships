@@ -31720,5 +31720,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351461,
+        "url": "https://jobs.lever.co/nimblerx/ceea467c-75bb-4822-b5d5-4c2fae2c3264",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nimble",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bf26fa9b-98e5-4796-8b6c-ae5b79e3981f",
+        "date_posted": 1762351461,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
