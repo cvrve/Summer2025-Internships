@@ -31481,5 +31481,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2026-Blackstone-Data-Science-Summer-Analyst_39996",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackstone",
+        "title": "Data Science Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "59c16a3a-d99a-4d9f-967a-fc54940feac4",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
