@@ -31515,5 +31515,22 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Intern--Undergraduate---Summer-_1593818",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene",
+        "title": "Business Intelligence Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e62862ff-fa78-4862-bed2-1e8664d063cb",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
