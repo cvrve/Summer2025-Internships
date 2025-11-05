@@ -31583,5 +31583,23 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762348621,
+        "url": "https://careers.jackhenry.com/job/springfield/devops-engineer-intern-summer-2026-springfield-mo/42859/",
+        "locations": [
+            "Springfield, MO",
+            "Monett, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Jack Henry",
+        "title": "DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "3af9c8a9-05de-44fc-a4db-8d7b2a804532",
+        "date_posted": 1762348621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
