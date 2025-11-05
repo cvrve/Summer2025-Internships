@@ -31498,5 +31498,22 @@
         "date_posted": 1762301651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762301651,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2025-18557",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8ef2e5ca-71a9-4dab-b283-d543eabd7687",
+        "date_posted": 1762301651,
+        "company_url": "",
+        "is_visible": true
     }
 ]
