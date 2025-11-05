@@ -31584,5 +31584,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762348634,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---Portsmouth-NH/Software-Engineering-Intern---Summer-2026_R52277",
+        "locations": [
+            "Portsmouth, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f77f2bbd-af61-4078-a186-6f25a48c620a",
+        "date_posted": 1762348634,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
