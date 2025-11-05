@@ -31788,5 +31788,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351487,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523685-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4043f77c-4866-4028-a40d-7737860787e0",
+        "date_posted": 1762351487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
