@@ -31822,5 +31822,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762351559,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/HQ-Office-San-Francisco-CA-USA/FIT-Intern-Web-Engineer_R-0144964",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Levi Strauss & Co.",
+        "title": "Web Engineer Intern, F.I.T.",
+        "source": "vanshb03",
+        "id": "ab85d495-c193-4c0a-867b-bf96eeb55ecd",
+        "date_posted": 1762351559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
