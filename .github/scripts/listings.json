@@ -31941,5 +31941,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762616282,
+        "url": "https://www.awardco.com/position?gh_jid=5458149004",
+        "locations": [
+            "Lindon, Utah"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "1aa67713-48f2-4e2f-9a68-a5c2c74c5086",
+        "date_posted": 1762616282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
