@@ -31992,5 +31992,22 @@
         "date_posted": 1762616342,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762616418,
+        "url": "https://www.awardco.com/position?gh_jid=4136568004",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Software Test Engineer Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "fc246013-f79c-43ea-ab40-21735ea42560",
+        "date_posted": 1762616418,
+        "company_url": "",
+        "is_visible": true
     }
 ]
