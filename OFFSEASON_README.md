@@ -72,7 +72,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Snowflake | Software Engineer Intern, Infrastructure Automation | Menlo Park, CA</br>Bellevue, WA | <a href="https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | ↳ | Software Engineer Intern, Core Engineering | Menlo Park, CA</br>Bellevue, WA | <a href="https://careers.snowflake.com/us/en/job/SNCOUS4C6519509550483990BBE831D97EC14DEXTERNALENUS1BDB0EA7A7F444999F846B35FDD488EA/Software-Engineer-Intern-Core-Engineering-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | ↳ | Software Engineer Intern (AI/ML) | Menlo Park, CA</br>Bellevue, WA | <a href="https://careers.snowflake.com/us/en/job/SNCOUSFEFE11DFA95346F5B7E806BB23C91960EXTERNALENUS075C4CB06B1A4F3A8117637BE356CD45/Software-Engineer-Intern-AI-ML-Spring-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
-| Relativity Space | Software Engineer Intern 🇺🇸 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rsinternboard/jobs/8143420002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
 | Vercel | Engineering Spring Intern | New York, NY</br>San Fransisco, CA</br>Remote | <a href="https://vercel.com/careers/engineering-spring-intern-5628286004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Plexus | Software Engineer Intern | Neenah, WI | <a href="https://jobs.plexus.com/careers/job/1099542548960?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Gale | Software Engineer Intern | CA</br>US</br>Remote | <a href="https://www.workatastartup.com/jobs/80843?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -204,6 +203,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Entegris | Data Scientist Co-Op 🛂 | Colorado Springs, CO | 🔒 | Sep 15 |
 | Workiva | Product & Application Security Intern 🛂 | Remote | 🔒 | Sep 12 |
 | RTX | Software Engineering Co-Op 🇺🇸 | Richardson, TX | 🔒 | Sep 07 |
+| Relativity Space | Software Engineer Intern 🇺🇸 | Long Beach, CA | 🔒 | Sep 07 |
 | Brunswick | Software Engineering Intern | <details><summary>**4 locations**</summary>Lowell, MI</br>Menomonee Falls, WI</br>Fond du Lac, WI</br>Mettawa, IL</details> | 🔒 | Sep 02 |
 | Descript | SWE Intern | San Francisco, CA | 🔒 | Aug 30 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
