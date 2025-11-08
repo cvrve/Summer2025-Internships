@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Awardco | Product Manager Intern 🛂 | Lindon, Utah | <a href="https://www.awardco.com/position?gh_jid=5458149004&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| Awardco | Back-End Software Engineer Intern 🛂 | Lindon, UT | <a href="https://www.awardco.com/position?gh_jid=4322220004&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| ↳ | Product Manager Intern 🛂 | Lindon, Utah | <a href="https://www.awardco.com/position?gh_jid=5458149004&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Zoox | Systems Engineering Intern | Foster City, CA | <a href="https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Trimble | Software Engineering Intern | Portsmouth, NH | <a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---Portsmouth-NH/Software-Engineering-Intern---Summer-2026_R52277?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | The Aerospace Corporation | Cloud Native Developer Intern 🇺🇸 | Colorado Springs, CO | <a href="https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Cloud-Native-Developer-Undergrad-Intern_R013988?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
