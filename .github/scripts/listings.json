@@ -7838,14 +7838,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748090,
+        "date_updated": 1762635776,
         "url": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c",
         "locations": [
             "Chicago, IL",
             "Boulder, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Belvedere Trading",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -15023,13 +15023,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757250372,
+        "date_updated": 1762635777,
         "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8143420002",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Relativity Space",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -19263,13 +19263,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758343770,
+        "date_updated": 1762635777,
         "url": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Robotics Intern, Mobile Manipulation, Behaviors",
         "source": "vanshb03",
@@ -19480,13 +19480,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1762635777,
         "url": "https://boards.greenhouse.io/rsinternboard/jobs/8173412002",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Relativity Space",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -29413,13 +29413,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761489463,
+        "date_updated": 1762635780,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5760872003",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Credit Karma",
         "title": "Software Engineering intern",
         "season": "Summer",
@@ -30279,13 +30279,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761839541,
+        "date_updated": 1762635780,
         "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500612003",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Credit Karma",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -30466,13 +30466,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761839541,
+        "date_updated": 1762635780,
         "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8224498002?gh_jid=8224498002",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Relativity Space",
         "title": "Flight Software Engineer Intern",
         "season": "Summer",
@@ -30950,13 +30950,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1762635780,
         "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500619003",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Credit Karma",
         "title": "Machine Learning Intern",
         "season": "Summer",
@@ -31705,13 +31705,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1762351438,
+        "date_updated": 1762635781,
         "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brilliant",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
