@@ -31975,5 +31975,22 @@
         "date_posted": 1762616321,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762616342,
+        "url": "https://www.awardco.com/position?gh_jid=4136562004",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Front-End Software Engineer Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "a941ef28-4158-4d9d-9cd5-e8b60d4dc3ea",
+        "date_posted": 1762616342,
+        "company_url": "",
+        "is_visible": true
     }
 ]
