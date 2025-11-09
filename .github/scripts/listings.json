@@ -32130,5 +32130,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706920,
+        "url": "https://jobs.lever.co/zoox/5b8ec01c-fdc6-4e05-b077-051f28384b6f",
+        "locations": [
+            "San Diego, CA",
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Firmware and C++ Development Intern",
+        "source": "vanshb03",
+        "id": "bd9589ef-c7f2-4c13-a466-3c68d87edcb1",
+        "date_posted": 1762706920,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
