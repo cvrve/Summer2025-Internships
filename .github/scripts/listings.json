@@ -32077,5 +32077,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706924,
+        "url": "https://jobs.lever.co/zoox/fd2be6ec-162d-4955-802f-fb8d2de8b3c0",
+        "locations": [
+            "Foster City, CA",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Automation & DevOps Tooling Intern",
+        "source": "vanshb03",
+        "id": "9b682e9e-b549-4d20-bb2c-759a50a22154",
+        "date_posted": 1762706924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
