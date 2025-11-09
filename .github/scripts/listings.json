@@ -32009,5 +32009,22 @@
         "date_posted": 1762616418,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762706576,
+        "url": "https://www.mongodb.com/careers/jobs/7239047",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "UI Engineering Intern",
+        "source": "vanshb03",
+        "id": "a33dd5a2-29fc-4342-92d7-6334dbc4e380",
+        "date_posted": 1762706576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
