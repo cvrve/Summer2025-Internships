@@ -32182,5 +32182,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706933,
+        "url": "https://jobs.lever.co/zoox/3a7c0c4b-4f23-4136-99a9-df64b341a0fd",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Test Automation & QA Systems Intern",
+        "source": "vanshb03",
+        "id": "e4eb9f92-465f-4d01-9374-e4a78769421a",
+        "date_posted": 1762706933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
