@@ -32165,5 +32165,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706931,
+        "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "34ce207c-9b60-4c6e-8dc1-2ac5b7997a3a",
+        "date_posted": 1762706931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
