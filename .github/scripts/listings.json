@@ -32148,5 +32148,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706926,
+        "url": "https://jobs.lever.co/zoox/07ac26ee-0594-41d8-928e-7cf1e373e2dd",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "HIL & System Validation Intern",
+        "source": "vanshb03",
+        "id": "4d7d983d-3d27-45af-bd32-02f8ffd4cf5b",
+        "date_posted": 1762706926,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
