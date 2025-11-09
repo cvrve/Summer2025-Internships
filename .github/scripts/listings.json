@@ -32095,5 +32095,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706929,
+        "url": "https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f",
+        "locations": [
+            "Foster City, CA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Mapping Software Intern",
+        "source": "vanshb03",
+        "id": "adcc4f26-4691-4934-9749-dc4f64afd2af",
+        "date_posted": 1762706929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
