@@ -32026,5 +32026,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706639,
+        "url": "https://job-boards.greenhouse.io/singlestore/jobs/7118095",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SingleStore",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "990abe48-7349-4c3f-877f-f8524584c20c",
+        "date_posted": 1762706639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
