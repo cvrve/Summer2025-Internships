@@ -31756,23 +31756,6 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762351481,
-        "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
-        "locations": [
-            "Foster City, CA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Zoox",
-        "title": "Systems Engineering Intern",
-        "source": "vanshb03",
-        "id": "a982db88-7aab-4a99-a5b3-559486dabf1f",
-        "date_posted": 1762351481,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1762351484,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523686-1",
         "locations": [
@@ -32196,6 +32179,23 @@
         "source": "vanshb03",
         "id": "e4eb9f92-465f-4d01-9374-e4a78769421a",
         "date_posted": 1762706933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762707253,
+        "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Software-Engineering-Intern_R2576-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a1506ab3-f7c1-4d3f-af89-563d0c8a734e",
+        "date_posted": 1762707253,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
