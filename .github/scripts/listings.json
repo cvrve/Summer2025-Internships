@@ -32060,5 +32060,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706785,
+        "url": "https://seagatecareers.com/job/Shakopee-FPGA-System-Developer-Intern-MN/1324226500/",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "FPGA System Developer Intern",
+        "source": "vanshb03",
+        "id": "53c352e0-dfdd-431a-8349-3009720f4c6e",
+        "date_posted": 1762706785,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
