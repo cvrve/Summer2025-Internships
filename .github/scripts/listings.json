@@ -32113,5 +32113,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762706909,
+        "url": "https://jobs.lever.co/zoox/b9fb6f1d-31db-4a79-b70b-9396bf01b117",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "b6752deb-ed46-439e-89a6-2e37e846a093",
+        "date_posted": 1762706909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
