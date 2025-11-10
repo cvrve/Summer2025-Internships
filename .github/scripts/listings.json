@@ -32268,5 +32268,23 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/125981",
+        "locations": [
+            "Houston, TX",
+            "Des Plaines, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Product Management Intern, Master's",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "80130266-e9e9-4fc1-b5ac-fcda3ec4d5c6",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
