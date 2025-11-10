@@ -32303,5 +32303,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://careers.formlabs.com/job/7384134/apply/?gh_jid=7384134",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Print Optimization Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e929db82-cd5e-4e00-a684-410cedb73b3b",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
