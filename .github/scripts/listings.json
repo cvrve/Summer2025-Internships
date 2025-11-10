@@ -32371,5 +32371,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AL200-401-Jan-Davis-Drive-Huntsville-401-Jan-Davis-Drive---Huntsville-AL-35806-USA/XMLNAME-2026-Systems-Engineering-Intern---Onsite---Huntsville--AL_01804908",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Systems Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f8d5b5b0-e880-417c-9d79-08dadd2857e8",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
