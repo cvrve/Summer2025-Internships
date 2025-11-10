@@ -32422,5 +32422,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Signal-Engineering-Software_R0105930",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi Energy",
+        "title": "Signal Engineering Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a7b93409-ef3c-47b3-a43c-b49b2eae1f1b",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
