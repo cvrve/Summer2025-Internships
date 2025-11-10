@@ -32549,5 +32549,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Software-Engineer---Summer-2026_J-00329977",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "361a1553-d6d4-4336-b624-65c9557e4b67",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
