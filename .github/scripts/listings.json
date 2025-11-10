@@ -32354,5 +32354,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Data-Science-Intern_R0046552",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Data Science Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d36e1e78-ebc1-4d40-879a-62a6210b5486",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
