@@ -32405,5 +32405,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380787",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth",
+        "title": "Software Development Intern, Numbers",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "720dcf48-4025-481a-bed8-7360830c20d5",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
