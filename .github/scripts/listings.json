@@ -32286,5 +32286,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Port-Arthur-Texas-US/Application-Engineer-Co-op-Intern_R-16739",
+        "locations": [
+            "Beaumont, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flowserve",
+        "title": "Application Engineer Co-op/Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "93cad55b-cc6d-48ee-9f7e-dba276322b0e",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
