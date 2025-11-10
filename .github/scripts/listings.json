@@ -32233,5 +32233,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1/application",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern, Forward Deployed",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9f88e4e8-db09-43bb-887c-1ed92a2a1f4a",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
