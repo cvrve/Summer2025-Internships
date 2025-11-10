@@ -32337,5 +32337,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://jobs.lever.co/zoox/ab805ec5-1d08-420c-9606-f91825e6a1f9/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Scientist Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6bda79b4-68b1-4347-8561-43ca7c61f978",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
