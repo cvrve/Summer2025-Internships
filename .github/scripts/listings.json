@@ -32199,5 +32199,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://reingoldinc.applytojob.com/apply/dP3il6V8NJ/AI-Solutions-Internship",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reingold",
+        "title": "AI Solutions Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "13f457f1-082e-4cad-b6f4-3204da86731d",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
