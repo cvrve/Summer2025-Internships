@@ -32216,5 +32216,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://boards.greenhouse.io/braze/jobs/7383721",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Braze",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "51a474f6-8cea-4ad2-b70e-1ac531b923a6",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
