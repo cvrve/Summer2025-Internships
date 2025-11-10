@@ -32515,5 +32515,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://careers-gdms.icims.com/jobs/67921/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern, Software Engineering",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f8f45192-a9de-45e0-9876-0ffde9bef342",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
