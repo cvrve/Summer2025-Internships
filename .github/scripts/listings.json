@@ -32250,5 +32250,23 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4973823007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Platform Software Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0b990bb5-296a-4222-9714-55fa5120484d",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
