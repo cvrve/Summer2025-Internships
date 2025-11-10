@@ -32498,5 +32498,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762780834,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523578003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "AI/ML Graduate Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d9ee9f34-b589-4cc3-9cd2-2670c5820626",
+        "date_posted": 1762780834,
+        "company_url": "",
+        "is_visible": true
     }
 ]
