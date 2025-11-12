@@ -32719,5 +32719,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977965,
+        "url": "https://www.mongodb.com/careers/jobs/7335932",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineer Intern, Internal Engineering",
+        "source": "vanshb03",
+        "id": "a8677b66-82b0-4d66-a8aa-cda0abe85849",
+        "date_posted": 1762977965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
