@@ -32787,5 +32787,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762985655,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8286208002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FutureFocus Tech, Fasttrack for Software Engineering Intern 2027",
+        "source": "vanshb03",
+        "id": "dcf4664f-7ced-4be6-b7af-9163a6ddaff7",
+        "date_posted": 1762985655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
