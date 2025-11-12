@@ -32702,5 +32702,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977604,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092763177-peacock-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a1d9c826-c553-4351-b820-7f50ce1e1cc7",
+        "date_posted": 1762977604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
