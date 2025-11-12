@@ -32566,5 +32566,22 @@
         "date_posted": 1762780834,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1762963539,
+        "url": "https://jobs.smartrecruiters.com/sandisk/744000093026280-genai-ai-ml-engineering-intern",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sandisk",
+        "title": "GenAI & AI/ML Engineering Intern",
+        "source": "vanshb03",
+        "id": "cb464f2e-7027-4b6a-8f12-5d475233f036",
+        "date_posted": 1762963539,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
