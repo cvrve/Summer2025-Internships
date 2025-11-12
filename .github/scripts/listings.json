@@ -4925,13 +4925,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752691362,
+        "date_updated": 1762978011,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Five Rings",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -19246,13 +19246,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758343766,
+        "date_updated": 1762978013,
         "url": "https://jobs.lever.co/tri/a5a628cd-44a9-4ff6-aeba-c775c516dfd2",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Robotics Intern, Mobile Manipulation, Perception",
         "source": "vanshb03",
@@ -21205,13 +21205,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914890,
+        "date_updated": 1762978013,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7119071003",
         "locations": [
             "Essex, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rocket Lab USA",
         "title": "Security Analyst Intern",
         "season": "Summer",
