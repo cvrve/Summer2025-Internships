@@ -32753,5 +32753,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762978329,
+        "url": "https://jobs.smartrecruiters.com/ni/Solidigm/4a9d87fd-e7af-42bc-9a12-6d085428b40d-ai-software-engineering-intern",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solidigm",
+        "title": "AI/Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "12d83abf-db91-4246-83a8-2c01393f4f2c",
+        "date_posted": 1762978329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
