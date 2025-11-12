@@ -32651,5 +32651,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977469,
+        "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8244328002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "iCapital",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "be79df96-4580-478f-9361-f731a263b24c",
+        "date_posted": 1762977469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
