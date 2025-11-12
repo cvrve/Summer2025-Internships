@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Full Stack Engineer Intern | Foster City, CA | <a href="https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Solidigm | AI/Software Engineering Intern | Rancho Cordova, CA | <a href="https://jobs.smartrecruiters.com/ni/Solidigm/4a9d87fd-e7af-42bc-9a12-6d085428b40d-ai-software-engineering-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Sandisk | GenAI & AI/ML Engineering Intern | Milpitas, CA | <a href="https://jobs.smartrecruiters.com/sandisk/744000093026280-genai-ai-ml-engineering-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | NBCUniversal | Software Engineer Intern 🛂 | New York, NY | <a href="https://jobs.smartrecruiters.com/nbcuniversal3/744000092763177-peacock-software-engineering-internships-summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Technology Intern 🛂 | New York, NY | <a href="https://jobs.smartrecruiters.com/nbcuniversal3/744000092732895-nbc-news-technology-internships-summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
