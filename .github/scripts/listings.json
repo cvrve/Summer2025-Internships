@@ -32770,5 +32770,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762985644,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8175264002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "FutureFocus Quants, Fasttrack for Trading & Research Intern 2027",
+        "source": "vanshb03",
+        "id": "f987f01f-84ca-461b-b202-9d3102af25a2",
+        "date_posted": 1762985644,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
