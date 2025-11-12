@@ -147,7 +147,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Massachusetts Bay Transportation Authority | Software Engineer Intern | Boston, MA | <a href="https://www.governmentjobs.com/careers/mbta/jobs/5008638/software-engineer-intern-undergrad-students?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Leonardo DRS | Software Engineering Intern 🇺🇸 | Melbourne, FL | <a href="https://careers.leonardodrs.com/job/Melbourne-Fall-2025-Software-Engineering-Intern-%28MLB%2C-FL%29-FL-32935/1308605900/?jobPipeline=Indeed&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Whatnot | Software Engineer Intern | Remote | <a href="https://jobs.ashbyhq.com/whatnot/d401d83d-e22f-4cfa-be83-19102767d89d?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
-| Five Rings | Software Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4634686008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Honeywell | Co-Op - Bachelors Software Eng | Mason, OH | <a href="https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Tesla | Software Machine Learning Engineer, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/en_IE/careers/search/job/internship-software-machine-learning-engineer-reliability-energy-engineering-fall-2025-242665?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Peak Nano | Software Engineer Intern 🇺🇸 | Macedonia, OH | <a href="https://www.peaknano.com/careers/software-engineer-intern-spring-26?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
@@ -228,6 +227,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Schweitzer Engineering Laboratories (SEL) | Software Application Engineer Intern | Pullman, WA | 🔒 | Jul 22 |
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | Jul 21 |
 | Oracle Health | Software Engineer Intern | Remote | 🔒 | Jul 20 |
+| Five Rings | Software Developer Intern | New York, NY | 🔒 | Jul 16 |
 | Belvedere Trading | Quantitative Trading Intern 🛂 | Chicago, IL | 🔒 | Jul 14 |
 | Pinterest | Software Engineering Intern | Toronto, Canada | 🔒 | Jul 11 |
 | The Mosaic Company | Data Analyst Intern, Co-op | Tampa, FL | 🔒 | Jul 10 |

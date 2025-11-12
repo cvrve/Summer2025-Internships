@@ -505,8 +505,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Uber | Software Engineer Intern | San Francisco, CA | <a href="https://university-uber.icims.com/jobs/149140/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Veritiv Corporation | Business Analytics Intern | Sandy Springs, GA | <a href="https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Business-Analytics-Intern_R29857?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | TikTok | Product Manager Intern | San Jose, CA | <a href="https://lifeattiktok.com/search/7552972859305265415?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
-| Rocket Lab USA | Security Analyst Intern | Essex, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7119071003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
-| ↳ | Security Analyst Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7478737003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| Rocket Lab USA | Security Analyst Intern | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7478737003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | RESPEC | Software Engineering Intern | Richardson, TX | <a href="https://jobs.smartrecruiters.com/RESPECInc/744000083769455?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Qualcomm | Intern - And Sensors Subsystem Engineering Internship | Markham, ON, Canada | <a href="https://qualcomm.eightfold.ai/careers/job/446714867461?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Pinterest | Data Science Intern | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>NYC</details> | <a href="https://www.pinterestcareers.com/job-form?gh_jid=7241588&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
@@ -600,7 +599,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Voloridge Health | Health DevOps Engineer Intern | Jupiter, FL | <a href="https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ↳ | Health Software Engineer Intern | Jupiter, FL | <a href="https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Universal Orlando Resort | Software Development Intern, Resort Accessibility And Compliance | Orlando, FL | <a href="https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| Toyota Research Institute | Robotics Intern, Mobile Manipulation, Perception | Los Altos, CA | <a href="https://jobs.lever.co/tri/a5a628cd-44a9-4ff6-aeba-c775c516dfd2?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | ThermoAnalytics, Inc. | Software Development Intern 🛂 | Calumet, MI</br>Novi, MI | <a href="https://tai.hirescore.com/job/sdi-novi-4/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Skyworks | IC Development (Software) Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-IC-Development-%28Software%29-Summer-Intern-%28May-'26-Aug-'26%29-TX-73301/1318385200/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | SharkNinja | Mobile App Developer Intern | Needham, MA | <a href="https://careers.sharkninja.com/job/-/-/47204/86214487568?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
@@ -1365,6 +1363,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Embedded Software Engineering Intern | Cedar Rapids, IA | 🔒 | Sep 26 |
 | ↳ | Software Engineer Intern | Annapolis, MD | 🔒 | Sep 26 |
 | Rockwell Automation | Software Engineer Intern | Phoenix, AZ | 🔒 | Sep 26 |
+| Rocket Lab USA | Security Analyst Intern | Essex, MD | 🔒 | Sep 26 |
 | Pendo | Software Engineer Intern | Raleigh, NC | 🔒 | Sep 26 |
 | ↳ | Security Engineer Intern | Raleigh, NC | 🔒 | Sep 26 |
 | Oshkosh | Machine Learning Intern | Oshkosh, WI | 🔒 | Sep 26 |
@@ -1411,7 +1410,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Scientist Co-op | Toronto, ON, Canada | 🔒 | Sep 23 |
 | CAI | Business Analyst AI Intern 🛂 | Remote | 🔒 | Sep 23 |
 | Allegion | Software Engineer Intern | Golden, CO | 🔒 | Sep 23 |
-| Toyota Research Institute | Robotics Intern, Mobile Manipulation, Behaviors | Los Altos, CA | 🔒 | Sep 19 |
+| Toyota Research Institute | Robotics Intern, Mobile Manipulation, Perception | Los Altos, CA | 🔒 | Sep 19 |
+| ↳ | Robotics Intern, Mobile Manipulation, Behaviors | Los Altos, CA | 🔒 | Sep 19 |
 | QuantCo | Software Engineering Intern | USA | 🔒 | Sep 19 |
 | Philips | System Test Automation Engineer Intern, San Diego 🛂 | San Diego, CA | 🔒 | Sep 19 |
 | Marvell | Software Engineer Intern, Master's Degree | Santa Clara, CA | 🔒 | Sep 19 |
