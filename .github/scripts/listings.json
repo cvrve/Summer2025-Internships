@@ -32617,5 +32617,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977446,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c97cb545-1e3a-4a4e-be59-0477cc80f619",
+        "date_posted": 1762977446,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
