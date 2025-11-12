@@ -32685,5 +32685,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977598,
+        "url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092732895-nbc-news-technology-internships-summer-2026",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "31632b8c-68bd-49c0-b1ab-d7a23b0e9501",
+        "date_posted": 1762977598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
