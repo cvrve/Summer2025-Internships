@@ -32668,5 +32668,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762977891,
+        "url": "https://careers.datadoghq.com/detail/7367016/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Datadog",
+        "title": "Software Engineering Intern, SRE",
+        "source": "vanshb03",
+        "id": "c5b906d0-d29c-4ce1-9f3a-fc909cdb2bc6",
+        "date_posted": 1762977891,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
