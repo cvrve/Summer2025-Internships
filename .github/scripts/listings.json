@@ -32736,5 +32736,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762978292,
+        "url": "https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Full Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "e0de1ccf-1b4a-4351-9ead-5793c39dccc8",
+        "date_posted": 1762978292,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
