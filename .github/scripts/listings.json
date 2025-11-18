@@ -33042,5 +33042,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444951,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineering-Intern--Summer-2026_10135265",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "Santa Monica, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney Entertainment & ESPN Technology",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b275ff2-9078-4a9a-8f2d-83e83a8c9a80",
+        "date_posted": 1763444951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
