@@ -15458,13 +15458,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757346993,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/vast/jobs/4594952006",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Vast",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -17829,13 +17829,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1757962716,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Full-stack Software Engineer Intern",
         "source": "vanshb03",
@@ -20372,13 +20372,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418443003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Machine Learning Engineer Intern",
         "season": "Summer",
@@ -20774,13 +20774,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758724289,
+        "date_updated": 1763445070,
         "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7418442003",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "AI Engineer Intern",
         "season": "Summer",
@@ -21171,13 +21171,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914069,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1882694",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Robot Learning",
         "season": "Summer",
@@ -25609,13 +25609,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892421",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Networking Research Group",
         "season": "Summer",
@@ -25643,13 +25643,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892565",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Future Agent Systems",
         "season": "Summer",
@@ -25677,7 +25677,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1763445071,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1892617",
         "locations": [
             "Madison, WI",
@@ -25685,7 +25685,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Gray Systems Lab",
         "season": "Summer",
@@ -27167,13 +27167,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1897207",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Audio and Acoustics",
         "season": "Summer",
@@ -27201,13 +27201,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1897214",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern - Brain-Computer Interfaces",
         "season": "Summer",
@@ -27818,13 +27818,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760646792,
+        "date_updated": 1763445071,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7498520003",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung Semiconductor",
         "title": "Multimedia Software Engineer Intern",
         "source": "vanshb03",
@@ -27940,13 +27940,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647118,
+        "date_updated": 1763445073,
         "url": "https://jobs.lever.co/zushealth/ac5f2a7f-7355-42bc-9efd-fc20fa9666f1",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus",
         "title": "Data Platform Software Engineering Co-op",
         "source": "vanshb03",
@@ -28540,13 +28540,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761042031,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, AI Hardware",
         "source": "vanshb03",
@@ -28557,13 +28557,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761045828,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Machine Learning and Statistics",
         "source": "vanshb03",
@@ -28849,13 +28849,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1899706",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Data Systems",
         "season": "Summer",
@@ -29172,13 +29172,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445072,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900607",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Systems For Efficient AI",
         "season": "Summer",
@@ -29224,13 +29224,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1763445073,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1900381",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern, Computer Vision and Deep Learning",
         "season": "Summer",
@@ -32252,14 +32252,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1763445073,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4973823007",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Platform Software Intern",
         "season": "Summer",
