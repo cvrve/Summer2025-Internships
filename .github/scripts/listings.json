@@ -33095,5 +33095,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444963,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Cash-_JR103863",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bfd36900-b1a0-4768-93dd-d13a68089473",
+        "date_posted": 1763444963,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
