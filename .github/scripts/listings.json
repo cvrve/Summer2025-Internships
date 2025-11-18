@@ -32974,5 +32974,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1763444902,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Co-op--Software-Engineer_R25-8315",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "b9f3272b-b379-4c1e-b65c-3f423bad69eb",
+        "date_posted": 1763444902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
