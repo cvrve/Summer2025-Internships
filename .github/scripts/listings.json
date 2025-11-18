@@ -33147,5 +33147,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763445046,
+        "url": "https://uscareers-docusign.icims.com/jobs/28187/software-engineer-intern/job",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "922a2eb0-6ea7-4795-91d6-f303cb152d6e",
+        "date_posted": 1763445046,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
