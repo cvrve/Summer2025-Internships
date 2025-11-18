@@ -33078,5 +33078,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444958,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Software-Engineering-Intern--Securities-Lending-_JR103862",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Software Engineering Intern, Securities Lending",
+        "source": "vanshb03",
+        "id": "b1ff72a6-2163-42b4-8c0e-d86940d6aeaa",
+        "date_posted": 1763444958,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
