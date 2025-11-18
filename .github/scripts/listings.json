@@ -33061,5 +33061,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444954,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveTime Family of Brands",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "45347828-c958-4e9f-8a15-71223e325db6",
+        "date_posted": 1763444954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
