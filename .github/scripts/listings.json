@@ -32821,5 +32821,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444789,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Software-Developer-Engineer-Intern---2026-Summer-Internship_R0024173",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Software Developer/Engineer Intern, Core Analytics",
+        "source": "vanshb03",
+        "id": "c13f7eaa-3638-43e4-81a7-2167d37ab432",
+        "date_posted": 1763444789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
