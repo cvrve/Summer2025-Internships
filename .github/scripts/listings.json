@@ -33112,5 +33112,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444967,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Front-End-Engineering-Intern_JR103860",
+        "locations": [
+            "Chicago, IL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "Front End Engineering Intern",
+        "source": "vanshb03",
+        "id": "9c37a4cd-b738-4993-8b5a-20591ac2a3a9",
+        "date_posted": 1763444967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
