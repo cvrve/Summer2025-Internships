@@ -32855,5 +32855,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444820,
+        "url": "https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-&apos;26-Aug-&apos;26)-TX-73301/75987-en_US/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "IC Development (Software) Intern",
+        "source": "vanshb03",
+        "id": "3df0a4de-61a9-4801-a09c-2d870115c918",
+        "date_posted": 1763444820,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
