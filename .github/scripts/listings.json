@@ -32804,5 +32804,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444763,
+        "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Dublin-CA/Software-Engineering-Intern_JR_1045473",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ZEISS",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6b1f7e40-0795-4060-9de1-d306192bf19c",
+        "date_posted": 1763444763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
