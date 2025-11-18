@@ -32940,5 +32940,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444854,
+        "url": "https://careers.peak6.com/jobs/business-operation-services/austin-texas-united-states-of-america/swe-intern-front-end-/JR103893",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "SWE Intern, Front End",
+        "source": "vanshb03",
+        "id": "d6b3bd24-ef01-4e2f-a781-70a8bcd78de5",
+        "date_posted": 1763444854,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
