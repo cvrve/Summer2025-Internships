@@ -33008,5 +33008,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444974,
+        "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Intern--Winter-2026-_R028815",
+        "locations": [
+            "Atlanta"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "WaveLogic Software Intern",
+        "source": "vanshb03",
+        "id": "9576ccb9-7972-4b0e-8a84-54886d42b933",
+        "date_posted": 1763444974,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
