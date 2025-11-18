@@ -32889,5 +32889,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444835,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Software-Process-and-Architecture-Grad-Intern_R014035",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Software Process and Architecture Intern",
+        "source": "vanshb03",
+        "id": "c4571b75-c55a-4c3a-b967-4a71a3d88a94",
+        "date_posted": 1763444835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
