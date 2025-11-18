@@ -32872,5 +32872,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444828,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Software-Test-Engineer-Intern_JR104283",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "517d78bd-7afc-4904-bc5b-1edb399b4671",
+        "date_posted": 1763444828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
