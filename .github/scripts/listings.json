@@ -33025,5 +33025,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1763444947,
+        "url": "https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Atlanta-GA/Software-AI-Engineer-Intern_JR8300",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PulteGroup",
+        "title": "Software/AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "c3eee134-a293-47a9-80bd-c764317f78c5",
+        "date_posted": 1763444947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
