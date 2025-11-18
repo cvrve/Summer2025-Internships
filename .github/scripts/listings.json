@@ -32838,5 +32838,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444810,
+        "url": "https://www.proception.ai/contact?subject=internship&position=%F0%9F%8D%80%20Firmware%20Engineering%20Intern%20(6-12%20months)&audience=public",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Proception AI",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "d352586a-6811-49b4-a491-c5efd989ede8",
+        "date_posted": 1763444810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
