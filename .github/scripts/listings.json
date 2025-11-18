@@ -32906,5 +32906,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444843,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504204",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "onsemi",
+        "title": "Applications Intern",
+        "source": "vanshb03",
+        "id": "d185c26a-1c94-4df2-8edd-a7a323e1e7ff",
+        "date_posted": 1763444843,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
