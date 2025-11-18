@@ -33130,5 +33130,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763444970,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Front-End-_JR103893",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Fintech Solutions",
+        "title": "SWE Intern, Front End",
+        "source": "vanshb03",
+        "id": "b197e052-2edc-4fcd-9473-3f58d525f42c",
+        "date_posted": 1763444970,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
