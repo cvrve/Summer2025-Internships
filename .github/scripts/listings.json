@@ -33164,5 +33164,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763445438,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4976514007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Software Engineering Intern, Scaleout Software (Distributed Systems & Infrastructure)",
+        "source": "vanshb03",
+        "id": "cea93d4b-640b-470d-b83c-7880085cdf2e",
+        "date_posted": 1763445438,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
