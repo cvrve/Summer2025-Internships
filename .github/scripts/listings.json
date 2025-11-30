@@ -33216,5 +33216,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1764545807,
+        "url": "https://www.workatastartup.com/jobs/86084",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "TraceRoot.AI",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "99ac462f-be8b-473e-9561-21ed800f20c3",
+        "date_posted": 1764545807,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
