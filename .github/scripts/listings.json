@@ -33181,5 +33181,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1763445781,
+        "url": "https://www.workatastartup.com/jobs/85257",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sixtyfour (X25)",
+        "title": "Full-Stack Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "84367af2-83ed-47f7-a231-2418fae3f83d",
+        "date_posted": 1763445781,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
