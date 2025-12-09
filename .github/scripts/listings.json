@@ -33319,5 +33319,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307362,
+        "url": "https://www.tesla.com/careers/search/job/257414?tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Firmware Platforms",
+        "source": "vanshb03",
+        "id": "65a84bb2-eac5-4bb0-b583-2b5176322022",
+        "date_posted": 1765307362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
