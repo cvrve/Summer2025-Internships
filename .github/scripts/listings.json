@@ -33438,5 +33438,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765308053,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "PlayStation",
+        "title": "Graphics Programming Intern",
+        "source": "vanshb03",
+        "id": "3647f811-ae94-42d5-a80d-66ea26598dfb",
+        "date_posted": 1765308053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
