@@ -33421,5 +33421,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307559,
+        "url": "https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ETCHED",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "be8079d2-1ed2-4921-8abb-5b9f6737618d",
+        "date_posted": 1765307559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
