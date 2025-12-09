@@ -33353,5 +33353,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307433,
+        "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?codes=IND",
+        "locations": [
+            "Shoreview, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westinghouse Electric Co",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "adef32ac-4b1c-4a7e-8b38-df5a7672b55e",
+        "date_posted": 1765307433,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
