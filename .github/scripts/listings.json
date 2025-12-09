@@ -33370,5 +33370,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307514,
+        "url": "https://careers.viasat.com/jobs/5417?lang=en-us",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern, Product Development",
+        "source": "vanshb03",
+        "id": "a63fa362-e2a0-44a6-b19c-d4c84d451d0e",
+        "date_posted": 1765307514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
