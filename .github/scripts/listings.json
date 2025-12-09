@@ -33285,5 +33285,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307321,
+        "url": "https://jobs.commscope.com/job/Catawba-Intern%2C-IMS-Software-Engineering-Nort/1347995900/?feedId=221800",
+        "locations": [
+            "Catawba, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "IMS Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c89b2ce6-02da-4392-ac1a-0b44f8de8161",
+        "date_posted": 1765307321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
