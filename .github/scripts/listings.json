@@ -33523,5 +33523,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1765308345,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
+        "locations": [
+            "Oakville, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Application Engineering Intern",
+        "source": "vanshb03",
+        "id": "8b55f0e1-0b62-40bf-9635-cc46a6bf45e2",
+        "date_posted": 1765308345,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
