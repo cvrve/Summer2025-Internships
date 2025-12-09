@@ -33234,5 +33234,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307179,
+        "url": "https://www.workatastartup.com/jobs/86239",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EdgeTrace",
+        "title": "AI Full-Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4334d6b-d66c-4f44-ae17-52fb24e1bae9",
+        "date_posted": 1765307179,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
