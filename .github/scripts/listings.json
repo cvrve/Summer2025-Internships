@@ -33455,5 +33455,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765308058,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Security-Software-Engineer-Intern/210837",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Security Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "a6f5625b-be03-4752-b8e2-40c474e0b669",
+        "date_posted": 1765308058,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
