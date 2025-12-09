@@ -33506,5 +33506,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1765308339,
+        "url": "https://careers-gdms.icims.com/jobs/68446/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "183b1fc8-d3ac-4025-b5fc-95b9ca42e71c",
+        "date_posted": 1765308339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
