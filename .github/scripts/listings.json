@@ -33268,5 +33268,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307313,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Development-Engineering-Intern-Summer-2026-CO-80501/1348189200/?feedId=325900",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Development Engineering Intern",
+        "source": "vanshb03",
+        "id": "fc39a1d3-9641-406c-8788-440504a32292",
+        "date_posted": 1765307313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
