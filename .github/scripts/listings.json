@@ -1235,13 +1235,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748137378,
+        "date_updated": 1765306323,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aquatic Capital Management",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2633,13 +2633,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749595407,
+        "date_updated": 1765306323,
         "url": "https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us",
         "locations": [
             "Old Greenwich, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WorldQuant",
         "title": "Software Engineer Intern, AI/LLM Initiative",
         "season": "Fall",
@@ -4101,14 +4101,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751584862,
+        "date_updated": 1765306324,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5562040004",
         "locations": [
             "Remote",
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Whatnot",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -5593,14 +5593,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753383599,
+        "date_updated": 1765306324,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
         "locations": [
             "Austin, TX",
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Virtu",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -8134,7 +8134,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754939799,
+        "date_updated": 1765306324,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
         "locations": [
             "Atlanta, GA",
@@ -8145,7 +8145,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Anduril",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -9156,13 +9156,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755436318,
+        "date_updated": 1765306324,
         "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7158038",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PDT Partners",
         "title": "Systems Engineering Intern",
         "source": "vanshb03",
@@ -9190,13 +9190,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755436894,
+        "date_updated": 1765306325,
         "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WeRide",
         "title": "Vehicle Embedded Engineer Intern, DBW",
         "source": "vanshb03",
@@ -19874,13 +19874,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758626279,
+        "date_updated": 1765306325,
         "url": "https://job-boards.greenhouse.io/robinhood/jobs/7161061",
         "locations": [
             "Menlo Park, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Robinhood",
         "title": "Security Risk Management Intern",
         "source": "vanshb03",
@@ -20355,13 +20355,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1765306325,
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4024632009",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kodiak Robotics",
         "title": "Perception Intern",
         "season": "Summer",
@@ -20531,13 +20531,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758685988,
+        "date_updated": 1765306325,
         "url": "https://job-boards.greenhouse.io/muonspace/jobs/4917290007",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Muon Space",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -21222,13 +21222,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758914890,
+        "date_updated": 1765306325,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7478737003",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rocket Lab USA",
         "title": "Security Analyst Intern",
         "season": "Summer",
@@ -25401,13 +25401,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1765306325,
         "url": "https://jobs.lever.co/arrivelogistics/8e6c4bb0-8d63-454d-bc57-4ecf7da5ba62",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arrive Logistics",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -25418,13 +25418,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1765306325,
         "url": "https://jobs.lever.co/arrivelogistics/df8adaa4-4b3e-4300-8b8e-e6193c767742",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arrive Logistics",
         "title": "Data Science Intern",
         "season": "Summer",
@@ -25799,13 +25799,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1765306325,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492410003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Intern - Compiler Engineer",
         "season": "Summer",
@@ -26228,13 +26228,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1765306325,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4828939007",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anduril",
         "title": "Mission Operations Engineer Intern",
         "season": "Summer",
@@ -26347,13 +26347,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760352751,
+        "date_updated": 1765306326,
         "url": "https://jobs.lever.co/WealthFinancialTechnologies/a4fe7c66-0e2a-4e06-a029-2f70c30a8e0a",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Wealth.com",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26980,13 +26980,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492746003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Test AI Engineer Intern",
         "season": "Summer",
@@ -27287,13 +27287,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/7634935002",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "XPENG Motors",
         "title": "Computer Vision Intern",
         "season": "Summer",
@@ -27920,7 +27920,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647106,
+        "date_updated": 1765306326,
         "url": "https://jobs.lever.co/zushealth/54557977-eaa9-4ae9-aadd-9a1ac9551575",
         "locations": [
             "Boston, MA",
@@ -27929,7 +27929,7 @@
             "Portland, ME"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus Health",
         "title": "Data Platform Software Engineering Co-op",
         "source": "vanshb03",
@@ -27957,13 +27957,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647121,
+        "date_updated": 1765306326,
         "url": "https://jobs.lever.co/zushealth/8b4788c9-dce7-41a0-b9dc-c44a63fc0c14",
         "locations": [
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus",
         "title": "Data Platform Software Engineering Co-op",
         "source": "vanshb03",
@@ -28404,13 +28404,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018395,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345049",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Vehicle Design Intern",
         "source": "vanshb03",
@@ -28421,13 +28421,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018397,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7345041",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Visualization Design Intern",
         "source": "vanshb03",
@@ -28438,13 +28438,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018400,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341607",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Guidance, Navigation, and Control Engineering Intern",
         "source": "vanshb03",
@@ -28455,13 +28455,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018405,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341514",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Flight Test Instrumentation Intern",
         "source": "vanshb03",
@@ -28506,13 +28506,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018490,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341625",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Electrical Engineering Intern, El Segundo",
         "source": "vanshb03",
@@ -28662,13 +28662,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761124884,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4611748006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Helix AI Intern, Speech",
         "source": "vanshb03",
@@ -29309,13 +29309,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1765306326,
         "url": "https://boards.greenhouse.io/inflectionai/jobs/4611934006",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Inflection",
         "title": "Technical Intern",
         "season": "Summer",
@@ -29892,13 +29892,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761583659,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5686977004",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Two Six Technologies",
         "title": "Research Intern",
         "season": "Summer",
@@ -30779,13 +30779,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7512164003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Intern, AI/ML Compiler Research Engineer",
         "season": "Summer",
@@ -31671,13 +31671,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762351428,
+        "date_updated": 1765306326,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anduril Industries",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -32150,13 +32150,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706931,
+        "date_updated": 1765306327,
         "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Systems Engineering Intern",
         "source": "vanshb03",
@@ -32738,13 +32738,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762978292,
+        "date_updated": 1765306328,
         "url": "https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Full Stack Engineer Intern",
         "source": "vanshb03",
