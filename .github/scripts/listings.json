@@ -33336,5 +33336,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307367,
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2026-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1348445200/?feedId=320000&codes=WBIND",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1beee003-f6b7-40f7-84da-bf98d9575712",
+        "date_posted": 1765307367,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
