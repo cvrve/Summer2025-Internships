@@ -33387,5 +33387,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307538,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/89103818640?codes=INDEED",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern, B2B Products",
+        "source": "vanshb03",
+        "id": "a72f51fd-0e19-42af-aa6a-715212dbbf21",
+        "date_posted": 1765307538,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
