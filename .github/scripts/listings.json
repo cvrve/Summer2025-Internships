@@ -33557,5 +33557,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765531505,
+        "url": "https://careers.leonardodrs.com/job/Huntsville-Software-Engineering-Intern-%28Spring-2026%29-AL-35808/1349312000/?jobPipeline=Indeed",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2c0ce819-876b-46c8-b795-d48fdf3efead",
+        "date_posted": 1765531505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
