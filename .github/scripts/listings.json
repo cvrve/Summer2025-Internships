@@ -33591,5 +33591,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765531514,
+        "url": "https://careers.teradata.com/jobs/219629/software-engineering-intern?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=116278&rx_id=1939c199-d5f3-11f0-ac97-2324b6a741c8&rx_job=219629&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20251212T080401Z&rx_vp=cpc&rx_p=GGAJDG6RO1&rx_viewer=d4ccff91228311f084244d5a84b6abced216051a192840a08f1888a15d5312b4",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Teradata",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "74cf2e83-5893-4070-86cd-252d6cae82e0",
+        "date_posted": 1765531514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
