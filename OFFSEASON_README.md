@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Leonardo DRS | Software Engineering Intern 🇺🇸 | Huntsville, AL | <a href="https://careers.leonardodrs.com/job/Huntsville-Software-Engineering-Intern-%28Spring-2026%29-AL-35808/1349312000/?jobPipeline=Indeed&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 12 |
 | Veolia | Application Engineering Intern | Oakville, Canada | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | General Dynamics Mission Systems, Inc. | Engineering Intern 🇺🇸 | Scottsdale, AZ | <a href="https://careers-gdms.icims.com/jobs/68446/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | EdgeTrace | AI Full-Stack Engineering Intern | San Mateo, CA | <a href="https://www.workatastartup.com/jobs/86239?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
