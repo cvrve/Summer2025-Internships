@@ -568,7 +568,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ServiceNow | AI for Security Operations Engineering Intern | San Diego, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000083014485?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Robinhood | Software Engineering Intern, Web 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239280?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Engineering Intern, iOS 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239268?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| ↳ | Software Engineering Intern, Backend 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239236?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Engineering Intern, Android | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239199?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Developer Intern, Web | Toronto, Canada | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7238998?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Developer Intern, Backend | Toronto, Canada | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7235228?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
@@ -1428,7 +1427,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TransPerfect | Operations Intern, Data Analytics | NYC | 🔒 | Sep 23 |
 | T. Rowe Price | Quantitative Investing Intern 🛂 | Baltimore, MD | 🔒 | Sep 23 |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | 🔒 | Sep 23 |
-| Robinhood | Security Risk Management Intern | Menlo Park, CA | 🔒 | Sep 23 |
+| Robinhood | Software Engineering Intern, Backend 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
+| ↳ | Security Risk Management Intern | Menlo Park, CA | 🔒 | Sep 23 |
 | ↳ | Offensive Security Intern | Toronto, Canada | 🔒 | Sep 23 |
 | ↳ | Machine Learning Engineer Intern, Applied ML 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
 | ↳ | Vulnerability Management Intern | Toronto, Canada | 🔒 | Sep 23 |
