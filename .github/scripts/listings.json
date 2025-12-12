@@ -33574,5 +33574,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1765531511,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1449",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "c5fe8771-b568-46f3-8049-6a2d2f751a2e",
+        "date_posted": 1765531511,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
