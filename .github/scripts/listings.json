@@ -33625,5 +33625,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1766242307,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
+        "locations": [
+            "Mountain View CA",
+            "Redmond WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft AI",
+        "title": "Software Engineer: AI/ML Intern",
+        "season": "Summer",
+        "source": "wgervasio",
+        "id": "89c523bf-cf93-432a-aac3-93ea121548f0",
+        "date_posted": 1766242307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
