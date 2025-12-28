@@ -58,7 +58,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/257413?tags=organicjob&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Teradyne | Software Engineering Intern 🛂 | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2026-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1348445200/?feedId=320000&codes=WBIND&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Seagate | Firmware Development Engineering Intern | Longmont, CO | <a href="https://seagatecareers.com/job/Longmont-Firmware-Development-Engineering-Intern-Summer-2026-CO-80501/1348189200/?feedId=325900&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
-| PlayStation | Graphics Programming Intern 🇺🇸 | San Diego, CA | <a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | OTTO Engineering | Firmware/Embedded Engineer Intern, Communications | Carpentersville, IL | <a href="https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications?ittk=G2W5Y90D9Y&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | NVIDIA | Software Engineering Intern, Omniverse Replicator | Toronto, Canada | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | ETCHED | Software Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
@@ -192,12 +191,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI/ML Intern 🛂 | San Jose, CA | <a href="https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Domino Data Lab | Forward Deployed Engineer Intern | New York, NY | <a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7296515?gh_jid=7296515&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ByteDance | Software Engineer Intern, Masters | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7417891515852900617/detail?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| Arcesium | Software Engineer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | State Street | Software Engineer Intern, ML/Data Engineer | Quincy, MA</br>Boston, MA | <a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---ML-Data-Engineer--Internship--Full-Time--Jan---June-2026--Internship_R-779528?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Salesforce | Software Engineer Intern, Security/Government 🇺🇸 | Bellevue, WA</br>Seattle, WA</br>San Francisco, CA | <a href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | VSP Vision | Internship - AI-Machine Learning Development Engineer | Remote in USA | <a href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI-Machine-Learning-Development-Engineer_R-8741?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Vermeer | Data Engineer Intern | Pella, IA | <a href="https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Toyota Research Institute | Human Interactive Driving Intern, Uncertainty-Aware Control | Los Altos, CA | <a href="https://jobs.lever.co/tri/eef0e312-6b25-44e4-b2df-0d3a4ee3533e?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Thermo Fisher Scientific | Data Science Intern | Remote in USA | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Durham-North-Carolina-USA/Data-Science-Intern_R-01328092?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | The Walt Disney Company | Software Engineering Intern 🛂 | Burbank, CA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/The-Walt-Disney-Studios--Software-Engineering-Intern--Summer-2026_10135086-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineering Intern 🛂 | Burbank, CA | <a href="https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Software-Engineering-Intern--Summer-2026_10131104?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -254,7 +251,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Vizient | Data Digital Managed Services Intern | Chicago, IL | <a href="https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Data-Digital-Managed-Services_31850R?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Stifel | Technology Product Development Analyst Intern | St. Louis, MO | <a href="https://careers-stifel.icims.com/jobs/8188/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Technology Product Development Developer Intern | St. Louis, MO | <a href="https://careers-stifel.icims.com/jobs/8210/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Shield AI | Hardware Test Engineering Intern | Dallas, TX | <a href="https://jobs.lever.co/shieldai/b3e9f8bb-42dc-4daa-80ae-c5cefd9855c7?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Second Dinner | Product Manager Intern | Irvine, CA</br>Remote | <a href="https://jobs.ashbyhq.com/SecondDinner/15d9eea6-8ab6-486d-84ac-9de05be54901?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Seagate Technology | Wafer Photo Process Engineering Intern | Bloomington, MN | <a href="https://seagatecareers.com/job/Bloomington-Wafer-Photo-Process-Engineering-Internship-Summer-2026-MN/1336336400/?ats=successfactors&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Robert Bosch Venture Capital | Software Engineering Intern | Simpsonville, SC | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000089131715?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -299,8 +295,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Arthrex | SAP Global Release Management Intern | Naples, FL</br>Fort Myers, FL | <a href="https://careers.arthrex.com/NorthAmerica/job/Naples-SAP-Global-Release-Management-Intern-FL-34108/1335816400/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Custom Dev .NET Intern | Naples, FL | <a href="https://careers.arthrex.com/NorthAmerica/job/Naples-Custom-Dev-_NET-Intern-FL-34108/1335818300/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Amazon | Software Engineer Intern | San Francisco, CA | <a href="https://www.amazon.jobs/en/jobs/3111792/software-eng-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| Zus | Software Engineering Co-op | New York, NY | <a href="https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
-| ↳ | Fullstack Software Engineering Co-op | Boston, MA | <a href="https://jobs.lever.co/zushealth/de5e65c1-c88a-4adc-8041-c971a3c2c44a?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Visa | Site Reliability Engineering Intern 🛂 | Austin, TX | <a href="https://jobs.smartrecruiters.com/visa/744000088193335-site-reliability-engineering-intern-summer-2026-austin?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | TheGuarantors | Software Engineering Intern | New York, NY | <a href="https://ats.rippling.com/en-GB/theguarantors-open-positions/jobs/f5580a3b-ef6b-4bb7-93f6-39e4910060fd?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Skydio | Middleware Software Engineer Intern, Device Platform | San Mateo, CA | <a href="https://www.skydio.com/jobs/7493238003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -571,8 +565,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | State Street | Enterprise Reference Data Analyst Co-Op | Quincy, MA | <a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Enterprise-Reference-Data-Analyst--CO-OP_R-778189?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Sift | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ServiceNow | AI for Security Operations Engineering Intern | San Diego, CA | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000083014485?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| Robinhood | Software Engineering Intern, Web 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239280?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| ↳ | Software Engineering Intern, iOS 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239268?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| Robinhood | Software Engineering Intern, iOS 🛂 | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239268?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Engineering Intern, Android | Menlo Park, CA | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7239199?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Developer Intern, Web | Toronto, Canada | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7238998?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Software Developer Intern, Backend | Toronto, Canada | <a href="https://job-boards.greenhouse.io/robinhood/jobs/7235228?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
@@ -905,7 +898,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aluminum Dynamics | Software Engineer Intern | Columbus, MS | <a href="https://careers-aluminumdynamics.icims.com/jobs/6351/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | 14.ai | Full Stack Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/75639?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | Verkada | Backend Software Engineering Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4836993007?gh_src=cda0ce657us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| ↳ | Frontend Software Engineering Intern | San Mateo, CA | <a href="https://job-boards.greenhouse.io/verkada/jobs/4840368007?gh_src=cda0ce657us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Qorvo | Software Developer Intern 🛂 | Greensboro, NC | <a href="https://careers.qorvo.com/job/Greensboro-Software-Developer-Intern-NC-27409/1320964700/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Oracle | Advanced Degree Software Engineer Intern, Database Technologies | Redwood Shores, CA | <a href="https://careers.oracle.com/en/sites/jobsearch/job/306080/?keyword=Intern&lastSelectedFacet=AttributeChar4&mode=location&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Advanced Degree Software Engineer Intern, Fusion | Redwood City, CA</br>Pleasanton, CA</br>Santa Clara, CA | <a href="https://careers.oracle.com/en/sites/jobsearch/job/305903/?keyword=Intern&mode=location&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
@@ -988,8 +980,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Systems Development Engineer Intern | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | Seagate | Software Engineer Intern | Shakopee, MN | <a href="https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Qorvo | Software Characterization Engineering Intern 🛂 | Greensboro, NC | <a href="https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| Figma | Product Design Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5616453004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| ↳ | Data Science Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5614980004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Figma | Data Science Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5614980004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://job-boards.greenhouse.io/figma/jobs/5602159004?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Cargill | Software Engineer Intern | Atlanta, GA | <a href="https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | ByteDance | Machine Learning Engineer Intern, Global E-commerce Risk Control | Seattle, WA | <a href="https://joinbytedance.com/search/7535953226975054098?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
@@ -1002,7 +993,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Freddie Mac | Technology Intern | McLean, VA | <a href="https://careers.freddiemac.com/us/en/job/JR16008/Technology-Intern-Summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Datadog | Product Management Intern | New York, NY | <a href="https://careers.datadoghq.com/detail/7127832/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
 | Uline | DevOps Engineer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256306&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
-| PDT Partners | Software Engineering Intern | New York, NY | <a href="https://job-boards.greenhouse.io/pdtpartners/jobs/7073180?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
 | Uline | Software Developer Intern | Pleasant Prairie, WI | <a href="https://www.uline.jobs/JobDetails?jobid=R256032&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | TransPerfect | Software Engineer Intern | New York, NY | <a href="https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | TikTok | Backend Software Engineer Intern, Media Platform | San Jose, CA | <a href="https://lifeattiktok.com/search/7538301580093720840?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
@@ -1222,6 +1212,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BNP Paribas | Summer Analyst Intern | Jersey City, NJ | <a href="https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Blackrock | 2026 Summer Intern | <details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details> | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
+| PlayStation | Graphics Programming Intern 🇺🇸 | San Diego, CA | 🔒 | Dec 09 |
 | Zoox | Full Stack Engineer Intern | Foster City, CA | 🔒 | Nov 12 |
 | Tenstorrent | Platform Software Intern | Austin, TX</br>Santa Clara, CA | 🔒 | Nov 10 |
 | Zoox | Systems Engineering Intern | Foster City, CA | 🔒 | Nov 09 |
@@ -1233,6 +1224,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Firmware Engineering Intern 🛂 | Minneapolis, MN | 🔒 | Nov 01 |
 | EQT Corporation | AI Intern 🛂 | Remote in USA | 🔒 | Nov 01 |
 | Credit Karma | Machine Learning Intern 🛂 | Charlotte, NC | 🔒 | Nov 01 |
+| Arcesium | Software Engineer Intern | New York, NY | 🔒 | Nov 01 |
+| Toyota Research Institute | Human Interactive Driving Intern, Uncertainty-Aware Control | Los Altos, CA | 🔒 | Oct 30 |
 | The New York Times | Backend Engineering Intern | New York, NY | 🔒 | Oct 30 |
 | Relativity Space | Flight Software Engineer Intern | Long Beach, CA | 🔒 | Oct 30 |
 | Credit Karma | Data Science Intern | Charlotte, NC | 🔒 | Oct 30 |
@@ -1241,6 +1234,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Credit Karma | Software Engineering intern 🛂 | Charlotte, NC | 🔒 | Oct 26 |
 | Vertex | Marketplace Data and Operations Intern | Remote | 🔒 | Oct 22 |
 | Silicon Laboratories | Design Engineering Intern | Austin, TX | 🔒 | Oct 22 |
+| Shield AI | Hardware Test Engineering Intern | Dallas, TX | 🔒 | Oct 22 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Charlotte, NC | 🔒 | Oct 22 |
 | Relay | Product Engineering Intern | Raleigh, NC | 🔒 | Oct 22 |
 | Microsoft | Research Intern, Data Systems | Redmond, WA | 🔒 | Oct 22 |
@@ -1271,7 +1265,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Microsoft | Software Engineer Intern, Azure Data | Austin, TX | 🔒 | Oct 18 |
 | Cognex | Software Engineering Intern | Wauwatosa, WI | 🔒 | Oct 18 |
 | Zus Health | Data Platform Software Engineering Co-op | <details><summary>**4 locations**</summary>Boston, MA</br>Dallas, TX</br>Philadelphia, PA</br>Portland, ME</details> | 🔒 | Oct 16 |
-| Zus | Data Platform Software Engineering Co-op | Philadelphia, PA | 🔒 | Oct 16 |
+| Zus | Fullstack Software Engineering Co-op | Boston, MA | 🔒 | Oct 16 |
+| ↳ | Software Engineering Co-op | New York, NY | 🔒 | Oct 16 |
+| ↳ | Data Platform Software Engineering Co-op | Philadelphia, PA | 🔒 | Oct 16 |
 | ↳ | Data Platform Software Engineering Co-op | Dallas, TX | 🔒 | Oct 16 |
 | Samsung Semiconductor | Multimedia Software Engineer Intern | San Diego, CA | 🔒 | Oct 16 |
 | Northrop Grumman | Software Quality Engineer Intern 🇺🇸 | Oklahoma City, OK | 🔒 | Oct 16 |
@@ -1432,7 +1428,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TransPerfect | Operations Intern, Data Analytics | NYC | 🔒 | Sep 23 |
 | T. Rowe Price | Quantitative Investing Intern 🛂 | Baltimore, MD | 🔒 | Sep 23 |
 | RTX | Software Engineering Intern | Cedar Rapids, IA | 🔒 | Sep 23 |
-| Robinhood | Software Engineering Intern, Backend 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
+| Robinhood | Software Engineering Intern, Web 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
+| ↳ | Software Engineering Intern, Backend 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
 | ↳ | Security Risk Management Intern | Menlo Park, CA | 🔒 | Sep 23 |
 | ↳ | Offensive Security Intern | Toronto, Canada | 🔒 | Sep 23 |
 | ↳ | Machine Learning Engineer Intern, Applied ML 🛂 | Menlo Park, CA | 🔒 | Sep 23 |
@@ -1540,6 +1537,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Charles Schwab | Software Engineering Intern | <details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details> | 🔒 | Aug 30 |
 | DraftKings | Software Engineer Intern | Boston, MA | 🔒 | Aug 29 |
 | Mantech | CNO Developer Intern 🇺🇸 | San Antonio, TX | 🔒 | Aug 28 |
+| Verkada | Frontend Software Engineering Intern | San Mateo, CA | 🔒 | Aug 27 |
 | Newrez LLC | Software Engineering Intern | Coppell, TX | 🔒 | Aug 27 |
 | Microsoft | Data Engineer Intern | Redmond, WA | 🔒 | Aug 27 |
 | ↳ | Software Quality Engineer Intern | Redmond, WA | 🔒 | Aug 27 |
@@ -1569,9 +1567,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Site Reliability Engineering Intern | Greensboro, NC | 🔒 | Aug 21 |
 | ↳ | Database Engineering Intern | Greensboro, NC | 🔒 | Aug 21 |
 | Arch Capital Group | Online Portals & Next Gen Platforms (OPNG) Intern | Greensboro, NC | 🔒 | Aug 21 |
-| Figma | Data Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 19 |
+| Figma | Product Design Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 19 |
+| ↳ | Data Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 19 |
 | ↳ | Product Research Intern | San Francisco, CA | 🔒 | Aug 19 |
-| PDT Partners | Systems Engineering Intern | New York, NY | 🔒 | Aug 17 |
+| PDT Partners | Software Engineering Intern | New York, NY | 🔒 | Aug 17 |
+| ↳ | Systems Engineering Intern | New York, NY | 🔒 | Aug 17 |
 | Skyworks | Applications Engineer Intern, Power Access | Austin, TX | 🔒 | Aug 15 |
 | Motorola Solutions | Supply Chain AI Intern | Chicago, IL</br>Schaumburg, IL | 🔒 | Aug 15 |
 | Mitsubishi UFJ Financial Group (MUFG) | Summer Analyst Intern, Information Technology 🛂 | Tampa, FL | 🔒 | Aug 15 |
