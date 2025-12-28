@@ -9173,13 +9173,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755436323,
+        "date_updated": 1766891501,
         "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PDT Partners",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -9467,14 +9467,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755624355,
+        "date_updated": 1766891501,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5616453004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Product Design Intern",
         "source": "vanshb03",
@@ -11434,13 +11434,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341123,
+        "date_updated": 1766891501,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4840368007?gh_src=cda0ce657us",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Frontend Software Engineering Intern",
         "season": "Summer",
@@ -19821,13 +19821,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758626080,
+        "date_updated": 1766891501,
         "url": "https://job-boards.greenhouse.io/robinhood/jobs/7239280",
         "locations": [
             "Menlo Park, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Robinhood",
         "title": "Software Engineering Intern, Web",
         "source": "vanshb03",
@@ -27974,13 +27974,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647124,
+        "date_updated": 1766891503,
         "url": "https://jobs.lever.co/zushealth/de5e65c1-c88a-4adc-8041-c971a3c2c44a",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus",
         "title": "Fullstack Software Engineering Co-op",
         "source": "vanshb03",
@@ -27991,13 +27991,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760647127,
+        "date_updated": 1766891503,
         "url": "https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zus",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -29138,13 +29138,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761129845,
+        "date_updated": 1766891503,
         "url": "https://jobs.lever.co/shieldai/b3e9f8bb-42dc-4daa-80ae-c5cefd9855c7",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Hardware Test Engineering Intern",
         "season": "Summer",
@@ -30125,13 +30125,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1761828927,
+        "date_updated": 1766891503,
         "url": "https://jobs.lever.co/tri/eef0e312-6b25-44e4-b2df-0d3a4ee3533e",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Human Interactive Driving Intern, Uncertainty-Aware Control",
         "source": "vanshb03",
@@ -30796,13 +30796,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1766891503,
         "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/4958459007",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arcesium",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -33440,13 +33440,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1765308053,
+        "date_updated": 1766891504,
         "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "PlayStation",
         "title": "Graphics Programming Intern",
         "source": "vanshb03",
