@@ -33764,5 +33764,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283380,
+        "url": "https://jobs.ashbyhq.com/sentra/eb51547f-e234-42f7-ab75-ab93717579d9",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sentra",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "957eeafe-02ba-4995-b8e4-5ba41bd11fad",
+        "date_posted": 1767283380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
