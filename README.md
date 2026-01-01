@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Voltair | Software Engineering Intern 🛂 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/87861?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Under Armour | Engineering Intern | Remote, US | <a href="https://careers.underarmour.com/job/Remote-Summer-2026-Internship%2C-Engineering/1330072600/?feedId=347800&jobPipeline=Indeed&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | TTM Technologies | Software Engineer Intern 🇺🇸 | Farmingdale, NY | <a href="https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R13823?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
 | Shield AI | C++ Software Engineering Intern | San Diego, CA | <a href="https://jobs.lever.co/shieldai/7dc3bb94-9590-4b6b-b292-b4effbb4fa91?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 01 |
