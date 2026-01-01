@@ -33694,5 +33694,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283366,
+        "url": "https://jobs.lever.co/shieldai/7dc3bb94-9590-4b6b-b292-b4effbb4fa91",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "C++ Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "15b2044a-627e-4786-a11a-549883761cc5",
+        "date_posted": 1767283366,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
