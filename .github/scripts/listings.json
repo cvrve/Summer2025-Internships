@@ -33849,5 +33849,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283487,
+        "url": "https://careers.underarmour.com/job/Remote-Summer-2026-Internship%2C-Engineering/1330072600/?feedId=347800&jobPipeline=Indeed",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Under Armour",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "33eb4630-f71d-46b7-bc80-a4c295119865",
+        "date_posted": 1767283487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
