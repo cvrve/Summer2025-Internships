@@ -33728,5 +33728,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283371,
+        "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?__tx_annotation=false&rb=INDEED&reqId=5001168031600",
+        "locations": [
+            "San Jose, CA",
+            "South Plainfield, NJ",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Advantest America Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d5dc9b71-8428-4263-b67b-8c055324e83b",
+        "date_posted": 1767283371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
