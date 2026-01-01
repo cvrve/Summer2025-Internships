@@ -33643,5 +33643,22 @@
         "date_posted": 1766242307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767283349,
+        "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R13823",
+        "locations": [
+            "Farmingdale, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "TTM Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5d917fb1-5850-41aa-919a-08375ad5b5f8",
+        "date_posted": 1767283349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
