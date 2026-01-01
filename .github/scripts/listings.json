@@ -33832,5 +33832,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283479,
+        "url": "https://careers.micron.com/careers/job/39424002?domain=micron.com",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f53bac99-1bc1-4d86-a92e-991067dee585",
+        "date_posted": 1767283479,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
