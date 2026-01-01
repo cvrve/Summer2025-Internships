@@ -33711,5 +33711,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283368,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R51989-1?Indeed=",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "95a66dc8-43ed-47a8-a363-ce30e1bfe010",
+        "date_posted": 1767283368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
