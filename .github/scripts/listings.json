@@ -33660,5 +33660,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283357,
+        "url": "https://appliedconcepts.prevueaps.com/jobs/324827-7929.html",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Applied Concepts, Inc.",
+        "title": "Web Applications Developer Intern",
+        "source": "vanshb03",
+        "id": "2eaff36a-bab7-4fb2-aa18-6f70c8ccc8fd",
+        "date_posted": 1767283357,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
