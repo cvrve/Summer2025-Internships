@@ -75,7 +75,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Proception AI | Firmware Engineering Intern | Palo Alto, CA | <a href="https://www.proception.ai/contact?subject=internship&position=%F0%9F%8D%80%20Firmware%20Engineering%20Intern%20(6-12%20months)&audience=public&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Nasdaq | Software Developer/Engineer Intern, Core Analytics | Atlanta, GA | <a href="https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Software-Developer-Engineer-Intern---2026-Summer-Internship_R0024173?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | JM Family | Software Test Engineer Intern | Deerfield Beach, FL | <a href="https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Software-Test-Engineer-Intern_JR104283?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Figure | Firmware Engineer Intern | San Jose, CA | <a href="https://job-boards.greenhouse.io/figureai/jobs/4618805006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | DriveTime Family of Brands | Software Engineering Intern | Tempe, AZ | <a href="https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Software Engineering Intern | Tempe, AZ | <a href="https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Docusign | Software Engineer Intern | Seattle, WA | <a href="https://uscareers-docusign.icims.com/jobs/28187/software-engineer-intern/job?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -365,7 +364,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sephora | IT Warehouse & Distribution Automation Intern | Remote | <a href="https://join.sephora.com/careers/job/790312348148?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Seagate Technology  | Wafer Manufacturing Intern | Bloomington, MN | <a href="https://seagatecareers.com/job/Bloomington-Wafer-Manufacturing-Intern-MN/1333017700/?ats=successfactors&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Seagate Technology | Wafer Metrology Intern | Bloomington, MN | <a href="https://seagatecareers.com/job/Bloomington-Wafer-Metrology-Internship-Summer-2026-MN/1333345600/?ats=successfactors&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| Samsung | Intern – Architecture Research Engineer | San Jose, CA | <a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492430003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | RaceTrac | Asset Protection Intern | Atlanta, GA | <a href="https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Asset-Protection-Intern--Summer-2026-_R00342996?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Qorvo | Data Engineering Intern | Richardson, TX | <a href="https://careers.qorvo.com/job/Richardson-Data-Engineering-Intern-TX-75081/1333265100/?ats=successfactors&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | Paccar | Intern - IT Applications | Tukwila, WA | <a href="https://jobs.paccar.com/job/Renton-Summer-Internship-IT-Applications-WA-98055/1256156801/?ats=successfactors&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
@@ -1213,6 +1211,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Blackrock | 2026 Summer Intern | <details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details> | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 04 |
 | PlayStation | Graphics Programming Intern 🇺🇸 | San Diego, CA | 🔒 | Dec 09 |
+| Figure | Firmware Engineer Intern | San Jose, CA | 🔒 | Nov 17 |
 | Zoox | Full Stack Engineer Intern | Foster City, CA | 🔒 | Nov 12 |
 | Tenstorrent | Platform Software Intern | Austin, TX</br>Santa Clara, CA | 🔒 | Nov 10 |
 | Zoox | Systems Engineering Intern | Foster City, CA | 🔒 | Nov 09 |
@@ -1302,7 +1301,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Boeing Company | Data Science Business Operations Intern - Data Science and Analytics | Richmond, BC, Canada | 🔒 | Oct 11 |
 | ↳ | Data Engineering Intern | Richmond, BC, Canada | 🔒 | Oct 11 |
 | Sigma Computing | AI/ML Graduate Engineering Intern | SF | 🔒 | Oct 11 |
-| Samsung | Intern - Compiler Engineer | San Jose, CA | 🔒 | Oct 11 |
+| Samsung | Intern – Architecture Research Engineer | San Jose, CA | 🔒 | Oct 11 |
+| ↳ | Intern - Compiler Engineer | San Jose, CA | 🔒 | Oct 11 |
 | Rhombus | Engineering Intern | Sacramento, CA | 🔒 | Oct 11 |
 | Otis Worldwide | Digital Technology Data Product Analyst Intern - Data Product Analyst | Farmington, CT | 🔒 | Oct 11 |
 | Northrop Grumman | Data Analytics Intern - Strategic Space Systems Division | El Segundo, CA | 🔒 | Oct 11 |

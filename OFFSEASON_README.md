@@ -147,7 +147,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Impulse Space | Flight/Embedded Software Engineer Intern 🇺🇸 | Redondo Beach, CA | <a href="https://impulsespace.pinpointhq.com/en/postings/5df86c9c-8f1a-4ba4-81a7-5de09800cb4f?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | Sony Pictures | Security Technology AI Intern, Facilities/S3 | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376960?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | ↳ | Information Systems Intern, Financial Source-to-Pay | Culver City, CA | <a href="https://www.sonypicturesjobs.com/job/-/-/22978/83913376064?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
-| Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
 | TikTok | Machine Learning Engineer Intern, TikTok-Recommendation | Seattle, WA | <a href="https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | MTA | Software Development Intern | New York, NY | <a href="https://careers.mta.org/jobs/16438894-software-analyst-slash-developer-fleet-technologies-group-emerging-talent-intern?tm_job=12316&tm_event=view&tm_company=47560&HRS_SUBSOURCE_ID=1341&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | Method Financial | Software Engineer Intern | Austin, TX</br>New York City, NY | <a href="https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
@@ -232,6 +231,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Arcade | Software Engineer Intern | Presidio, CA | 🔒 | Jul 28 |
 | Arcade | Associate Product Manager Intern | Presidio, CA | 🔒 | Jul 25 |
 | Schweitzer Engineering Laboratories (SEL) | Software Application Engineer Intern | Pullman, WA | 🔒 | Jul 22 |
+| Nowadays | Product Engineer Intern 🇺🇸 | San Francisco, CA | 🔒 | Jul 21 |
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | Jul 21 |
 | Oracle Health | Software Engineer Intern | Remote | 🔒 | Jul 20 |
 | Five Rings | Software Developer Intern | New York, NY | 🔒 | Jul 16 |
