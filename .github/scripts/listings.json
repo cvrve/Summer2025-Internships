@@ -33815,5 +33815,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1767283474,
+        "url": "https://seagatecareers.com/job/Shakopee-FirmwareSoftware-Internship-Summer-2026-MN/1345559200/?feedId=325900",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware/Software Intern",
+        "source": "vanshb03",
+        "id": "b3fb8ee6-8f58-4819-906f-0d8f6c2dfbca",
+        "date_posted": 1767283474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
