@@ -33798,5 +33798,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283391,
+        "url": "https://jobs.ashbyhq.com/apex-technology-inc/2da33053-0f08-48cf-9d4f-f2d418fa8c5d",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "281f2783-94f0-4d7a-a658-7d4eefdd6f0f",
+        "date_posted": 1767283391,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
