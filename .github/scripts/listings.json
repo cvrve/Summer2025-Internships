@@ -33747,5 +33747,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283377,
+        "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002?gh_src=mhw8k5d02us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MCG",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f145b0c1-e569-4742-a18a-dab24be0dc09",
+        "date_posted": 1767283377,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
