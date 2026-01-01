@@ -5138,13 +5138,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753108243,
+        "date_updated": 1767283060,
         "url": "https://www.ycombinator.com/companies/nowadays/jobs/iRSGsmg-product-engineer-intern",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nowadays",
         "title": "Product Engineer Intern",
         "source": "vanshb03",
@@ -25782,13 +25782,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1767283061,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492430003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Intern \u2013 Architecture Research Engineer",
         "season": "Summer",
@@ -32993,13 +32993,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1763444906,
+        "date_updated": 1767283061,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
