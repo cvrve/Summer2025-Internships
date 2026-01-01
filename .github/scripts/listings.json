@@ -33781,5 +33781,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767283382,
+        "url": "https://www.calicolabs.com/careers/?gh_jid=8326850002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calico",
+        "title": "Bioinformatics Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "8b77e9e2-9f9b-4726-ad16-bb1337f432cb",
+        "date_posted": 1767283382,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
