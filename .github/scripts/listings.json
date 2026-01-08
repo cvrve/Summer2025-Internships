@@ -33883,5 +33883,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767835051,
+        "url": "https://www.sofi.com/careers/sofi-university/?gh_jid=7575833003&gh_src=d50e8f9b3us",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SoFi",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5d603947-3542-499e-8e8d-82f4aedce1df",
+        "date_posted": 1767835051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
