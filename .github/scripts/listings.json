@@ -33900,5 +33900,22 @@
         "date_posted": 1767835051,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1767746473,
+        "url": "https://careers.docusign.com/jobs/28427?lang=en-us&previousLocale=en-US",
+        "locations": [
+            "Seattle, Washington"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1cda464f-d7c5-490f-90d1-c504a89b8772",
+        "date_posted": 1767746473,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
