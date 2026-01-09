@@ -34464,5 +34464,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767995117,
+        "url": "https://www.amentumcareers.com/jobs/spring-2026-internship-software-engineering-intern-houston-texas-united-states",
+        "locations": [
+            "Houston, Texas, United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amentum",
+        "title": "Software Engineering Intern, Spring",
+        "source": "vanshb03",
+        "id": "bb05c8e8-a1cf-4918-8b6d-2b9fa1e94622",
+        "date_posted": 1767995117,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
