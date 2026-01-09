@@ -33992,5 +33992,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993658,
+        "url": "https://www.tesla.com/careers/search/job/258198",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Quality Assurance Analyst Intern, Robotaxi",
+        "source": "vanshb03",
+        "id": "d32e9fe1-d3ca-4d30-8607-e6f012ca1253",
+        "date_posted": 1767993658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
