@@ -34145,5 +34145,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993794,
+        "url": "https://www.tesla.com/careers/search/job/258954",
+        "locations": [
+            "Fremont, CA",
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Site Reliability Engineer Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "2a8101f2-dac8-4aa3-8c4d-c0a3cc483b23",
+        "date_posted": 1767993794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
