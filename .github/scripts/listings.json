@@ -34549,5 +34549,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996930,
+        "url": "https://lifeattiktok.com/search/7589499857627498757?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Strategy Project Intern, TikTok-Product-Business Analytics",
+        "source": "vanshb03",
+        "id": "4f543a23-b739-4c62-b327-bb53e29f8932",
+        "date_posted": 1767996930,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
