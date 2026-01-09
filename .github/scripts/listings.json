@@ -34077,5 +34077,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993773,
+        "url": "https://www.tesla.com/careers/search/job/258199",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern, Build Infrastructure",
+        "source": "vanshb03",
+        "id": "66c69dbe-8325-42cd-ac75-23ca48ebfb1c",
+        "date_posted": 1767993773,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
