@@ -34043,5 +34043,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993768,
+        "url": "https://www.tesla.com/careers/search/job/258191",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "System Software Engineer Intern, Graphics",
+        "source": "vanshb03",
+        "id": "37a98831-ed6c-48bd-a400-c5a024daf808",
+        "date_posted": 1767993768,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
