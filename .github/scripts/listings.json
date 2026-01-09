@@ -34600,5 +34600,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996942,
+        "url": "https://lifeattiktok.com/search/7593108760621779253?spread=5MWH5CQ",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Campaign Operations Project Intern",
+        "source": "vanshb03",
+        "id": "f93416b8-d519-4b76-9414-18843b8d27a8",
+        "date_posted": 1767996942,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
