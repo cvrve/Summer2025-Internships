@@ -34310,5 +34310,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1767994167,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556657567",
+        "locations": [
+            "United States, Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Silicon Engineering Intern",
+        "source": "vanshb03",
+        "id": "08919f3d-bd42-4238-a10c-48a873c0d503",
+        "date_posted": 1767994167,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
