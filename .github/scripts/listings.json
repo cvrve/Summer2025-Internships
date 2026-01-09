@@ -34111,5 +34111,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993780,
+        "url": "https://careers.garmin.com/jobs/17728",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin International",
+        "title": "Aircraft Systems Engineer Intern, Electrical/Systems",
+        "source": "vanshb03",
+        "id": "08d973d1-0395-4ff4-96f5-69164ad579fc",
+        "date_posted": 1767993780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
