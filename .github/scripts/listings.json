@@ -33917,5 +33917,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767753494,
+        "url": "https://jobs.ashbyhq.com/GigaML/aa903645-854f-4404-9d49-8a96f0dcc2cc",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIGA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "277c8c83-d20b-43e3-b247-c6dc37fae9f9",
+        "date_posted": 1767753494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
