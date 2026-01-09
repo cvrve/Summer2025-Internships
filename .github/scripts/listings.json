@@ -34447,5 +34447,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767995011,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641978",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Penetration Tester Intern",
+        "source": "vanshb03",
+        "id": "81180ef2-d077-4628-8d1c-f135af645b61",
+        "date_posted": 1767995011,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
