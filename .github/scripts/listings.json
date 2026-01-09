@@ -34094,5 +34094,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993776,
+        "url": "https://www.tesla.com/careers/search/job/258193",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
+        "source": "vanshb03",
+        "id": "68ddbe7d-38bb-4278-9b0e-e53c0d1981da",
+        "date_posted": 1767993776,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
