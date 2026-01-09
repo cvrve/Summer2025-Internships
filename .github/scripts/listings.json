@@ -34481,5 +34481,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1767995136,
+        "url": "https://jobs.keysight.com/external/jobs/51216/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "39c152ad-1843-4fb7-a5fc-c1ae97e91b9c",
+        "date_posted": 1767995136,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
