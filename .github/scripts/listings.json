@@ -34214,5 +34214,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993804,
+        "url": "https://www.tesla.com/careers/search/job/259001",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Foundation Inference Infrastructure",
+        "source": "vanshb03",
+        "id": "44a7df95-acbf-4536-b682-0b699450fab6",
+        "date_posted": 1767993804,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
