@@ -34009,5 +34009,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993760,
+        "url": "https://www.tesla.com/careers/search/job/258182",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Android Engineer Intern, Mobile Software",
+        "source": "vanshb03",
+        "id": "ae526144-225e-4e55-a902-b70bd727d6cd",
+        "date_posted": 1767993760,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
