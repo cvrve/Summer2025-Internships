@@ -34231,5 +34231,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993806,
+        "url": "https://www.tesla.com/careers/search/job/258956",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Network Engineer Intern, Infrastructure Engineering",
+        "source": "vanshb03",
+        "id": "8d17a7b7-073a-4ae0-ae97-bb795c4c4b22",
+        "date_posted": 1767993806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
