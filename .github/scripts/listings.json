@@ -34566,5 +34566,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996936,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556641980",
+        "locations": [
+            "United States, Multiple Locations"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Technical Program Manager Intern",
+        "source": "vanshb03",
+        "id": "9598e172-d85b-4f87-b913-f5e9da6e9bcb",
+        "date_posted": 1767996936,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
