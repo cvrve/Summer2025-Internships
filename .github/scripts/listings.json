@@ -34197,5 +34197,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993802,
+        "url": "https://www.tesla.com/careers/search/job/259064",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineering Intern, Recruiting",
+        "source": "vanshb03",
+        "id": "b100175b-9db1-4f28-8746-ce406f4831fa",
+        "date_posted": 1767993802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
