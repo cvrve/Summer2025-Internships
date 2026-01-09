@@ -34429,5 +34429,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767994915,
+        "url": "https://www.tesla.com/careers/search/job/259253",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+        "source": "vanshb03",
+        "id": "272186ed-f460-4a51-9c4e-ccb9e9df9cbb",
+        "date_posted": 1767994915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
