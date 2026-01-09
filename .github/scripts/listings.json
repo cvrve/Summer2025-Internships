@@ -33970,5 +33970,27 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767753510,
+        "url": "https://careers.amd.com/careers-home/jobs/77045",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Rochester, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op",
+        "source": "vanshb03",
+        "id": "4d7aa488-8805-479d-a0b2-85da3c768cf3",
+        "date_posted": 1767753510,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
