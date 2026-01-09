@@ -34163,5 +34163,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993797,
+        "url": "https://www.tesla.com/careers/search/job/258953",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Frontend Engineer Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "d4c7494a-3ccc-4022-a8da-76ebda0117fd",
+        "date_posted": 1767993797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
