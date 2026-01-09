@@ -34060,5 +34060,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993770,
+        "url": "https://www.tesla.com/careers/search/job/258184",
+        "locations": [
+            "PALO ALTO, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Linux Update Systems",
+        "source": "vanshb03",
+        "id": "8f91733f-d550-4804-8a94-ecdb6df027ed",
+        "date_posted": 1767993770,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
