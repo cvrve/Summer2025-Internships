@@ -34180,5 +34180,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993799,
+        "url": "https://www.tesla.com/careers/search/job/258952",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer Intern, Infrastructure Engineering",
+        "source": "vanshb03",
+        "id": "857d410a-a5f4-490c-9307-1dd2d32e6b5a",
+        "date_posted": 1767993799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
