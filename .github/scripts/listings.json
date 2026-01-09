@@ -34515,5 +34515,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996872,
+        "url": "https://explore.jobs.netflix.net/careers/job/790313344084-security-technical-program-manager-intern-summer-2026--los-gatos-california-united-states-of-america?domain=netflix.com&microsite=netflix.com",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netflix",
+        "title": "Security Technical Program Manager Intern",
+        "source": "vanshb03",
+        "id": "5cdbd9d7-cfc7-4f96-ad5f-21e539c54923",
+        "date_posted": 1767996872,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
