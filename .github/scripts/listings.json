@@ -34026,5 +34026,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993765,
+        "url": "https://www.tesla.com/careers/search/job/257753",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software QA Engineer Intern, Vehicle Software",
+        "source": "vanshb03",
+        "id": "2e7523d8-716a-4dca-a114-9fe8ff18ad7c",
+        "date_posted": 1767993765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
