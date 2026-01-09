@@ -34617,5 +34617,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996950,
+        "url": "https://www.tesla.com/careers/search/job/259268",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Intern, Vehicle Parts Project Manager, Vehicle Firmware",
+        "source": "vanshb03",
+        "id": "2caed595-296d-4327-82af-74ba8681c031",
+        "date_posted": 1767996950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
