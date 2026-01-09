@@ -34498,5 +34498,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767995143,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/All-Remote-Locations/Software-Engineer-Intern_HR101940",
+        "locations": [
+            "All Remote Locations"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3badb4d9-fb99-4fe5-a51d-18678d0ad530",
+        "date_posted": 1767995143,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
