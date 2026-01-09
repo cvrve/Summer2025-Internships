@@ -34327,5 +34327,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767994244,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "441620ef-f934-483d-89fd-7596f2e5d7b3",
+        "date_posted": 1767994244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
