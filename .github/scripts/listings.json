@@ -34583,5 +34583,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767996940,
+        "url": "https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Platform Campaign Project Intern",
+        "source": "vanshb03",
+        "id": "ce9837b5-79ee-433e-99aa-0640e3e5a12d",
+        "date_posted": 1767996940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
