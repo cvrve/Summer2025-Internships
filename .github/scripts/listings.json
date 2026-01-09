@@ -34292,5 +34292,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1767993944,
+        "url": "https://www.workatastartup.com/jobs/88369",
+        "locations": [
+            "Los Angeles, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Wardstone",
+        "title": "Engineering Intern, Space and Missile Defense",
+        "source": "vanshb03",
+        "id": "41a5f0d6-73fa-45b2-8cf0-05de8ed96e62",
+        "date_posted": 1767993944,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
