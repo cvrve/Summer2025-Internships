@@ -3088,13 +3088,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750976744,
+        "date_updated": 1768075183,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7842108002",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Radix Trading",
         "title": "Quantitative Technologist Intern",
         "season": "Summer",
@@ -6816,13 +6816,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754199945,
+        "date_updated": 1768075184,
         "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003?gh_src=9yscuffh3us",
         "locations": [
             "Needham, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "HPR",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -24809,7 +24809,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759786472,
+        "date_updated": 1768075184,
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7262223",
         "locations": [
             "New York, NY",
@@ -24819,7 +24819,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DoorDash",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26861,13 +26861,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760594094,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/4954855008",
         "locations": [
             "Carson, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arc",
         "title": "Electrical Hardware Engineering Intern",
         "season": "Summer",
@@ -28043,14 +28043,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760784590,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -30398,13 +30398,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761839541,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7510017003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Intern, Machine Learning",
         "season": "Summer",
@@ -31654,13 +31654,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762351421,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830565007",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anduril Industries",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -32500,13 +32500,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7523578003",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sigma Computing",
         "title": "AI/ML Graduate Engineering Intern",
         "season": "Summer",
@@ -33696,13 +33696,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767283366,
+        "date_updated": 1768075186,
         "url": "https://jobs.lever.co/shieldai/7dc3bb94-9590-4b6b-b292-b4effbb4fa91",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "C++ Software Engineering Intern",
         "source": "vanshb03",
@@ -34130,13 +34130,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767993787,
+        "date_updated": 1768075185,
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953704007",
         "locations": [
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid",
         "title": "Test Engineer, Model Based Design, Controls Software Engineer Intern",
         "source": "vanshb03",
@@ -34312,13 +34312,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1767994167,
+        "date_updated": 1768075186,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556657567",
         "locations": [
             "United States, Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Silicon Engineering Intern",
         "source": "vanshb03",
@@ -34329,13 +34329,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994244,
+        "date_updated": 1768075186,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Research Intern",
         "source": "vanshb03",
@@ -34449,13 +34449,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767995011,
+        "date_updated": 1768075186,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556641978",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Penetration Tester Intern",
         "source": "vanshb03",
@@ -34568,13 +34568,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767996936,
+        "date_updated": 1768075186,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556641980",
         "locations": [
             "United States, Multiple Locations"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microsoft",
         "title": "Technical Program Manager Intern",
         "source": "vanshb03",
