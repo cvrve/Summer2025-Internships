@@ -34668,5 +34668,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1768075117,
+        "url": "https://www.tesla.com/careers/search/job/259034",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA",
+            "Austin, TX",
+            "Robstown, TX",
+            "Reno, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Technical Program Manager Intern, Cell Manufacturing",
+        "source": "vanshb03",
+        "id": "c3782539-5fdc-4dd5-9842-04accac7f73c",
+        "date_posted": 1768075117,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
