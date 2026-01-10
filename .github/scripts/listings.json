@@ -34706,5 +34706,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768075271,
+        "url": "https://www.exiger.com/careers/?gh_jid=5751719004",
+        "locations": [
+            "Mclean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exiger",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ab397191-8f72-4c19-baa4-39163da48ed3",
+        "date_posted": 1768075271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
