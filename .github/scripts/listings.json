@@ -34689,5 +34689,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768075153,
+        "url": "https://www.exiger.com/careers/?gh_jid=5751662004",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exiger",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "2fba547d-137e-4b2f-a735-9e04d0b5c539",
+        "date_posted": 1768075153,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
