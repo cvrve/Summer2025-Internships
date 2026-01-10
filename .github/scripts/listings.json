@@ -34634,5 +34634,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768075105,
+        "url": "https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crusoe",
+        "title": "Product Security Applied AI Intern",
+        "source": "vanshb03",
+        "id": "11c1fb7b-2399-4cbd-9639-3a96c0fb4b6a",
+        "date_posted": 1768075105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
