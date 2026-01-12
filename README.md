@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Capital One | Technology Internship Program | Richmond, VA</br>Plano, TX | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Technology-Internship-Program---Summer-2026_R218710-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 12 |
 | Tesla | Technical Program Manager Intern, Cell Manufacturing | <details><summary>**5 locations**</summary>Palo Alto, CA</br>Fremont, CA</br>Austin, TX</br>Robstown, TX</br>Reno, NV</details> | <a href="https://www.tesla.com/careers/search/job/259034?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | Exiger | Software Engineering Intern | Mclean, VA | <a href="https://www.exiger.com/careers/?gh_jid=5751719004&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | ↳ | Cybersecurity Intern | New York, NY | <a href="https://www.exiger.com/careers/?gh_jid=5751662004&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |

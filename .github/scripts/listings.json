@@ -34723,5 +34723,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768252806,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Technology-Internship-Program---Summer-2026_R218710-1",
+        "locations": [
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Technology Internship Program",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a1a4b54c-9df8-44bb-bd8f-72861453080f",
+        "date_posted": 1768252806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
