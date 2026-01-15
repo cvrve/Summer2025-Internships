@@ -34912,5 +34912,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502919,
+        "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4640131005?gh_src=402406h25us",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crystal Dynamics",
+        "title": "Gameplay Engineer Intern",
+        "source": "vanshb03",
+        "id": "060de246-56f1-44b8-96bd-f610abfe39f9",
+        "date_posted": 1768502919,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
