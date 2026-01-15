@@ -34827,5 +34827,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502887,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2026_REQ-1000045296?codes=IND",
+        "locations": [
+            "Towson, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stanley Black & Decker",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bec7e729-2acf-4996-9723-a87be18db306",
+        "date_posted": 1768502887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
