@@ -34776,5 +34776,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502577,
+        "url": "https://www.workatastartup.com/jobs/88690",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Speak",
+        "title": "iOS Engineering Intern",
+        "source": "vanshb03",
+        "id": "31ec419f-b781-4fe5-868e-b2c3ad895f57",
+        "date_posted": 1768502577,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
