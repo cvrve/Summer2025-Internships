@@ -34878,5 +34878,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502904,
+        "url": "https://jobs.johnsoncontrols.com/job/WD30258854?ccuid=68244445570&ittk=3XH3IR0E9M",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson Controls",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0cf37cce-dc1e-424b-a12a-1ee078810d61",
+        "date_posted": 1768502904,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
