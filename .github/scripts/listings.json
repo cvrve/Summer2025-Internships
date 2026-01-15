@@ -34844,5 +34844,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502891,
+        "url": "https://careers.docusign.com/jobs/28491?lang=en-us&previousLocale=en-US",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern, Developer Experiences and Extensibility Platform",
+        "source": "vanshb03",
+        "id": "d72a3707-d45f-454f-a155-28035b1ebc09",
+        "date_posted": 1768502891,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
