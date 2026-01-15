@@ -34929,5 +34929,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502932,
+        "url": "https://jobs.coxenterprises.com/en/jobs/r202671816/software-engineering-intern-draper-ut-summer-2026",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cox Enterprises",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0f0fd7f9-6661-4812-bcf9-b8aec0499397",
+        "date_posted": 1768502932,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
