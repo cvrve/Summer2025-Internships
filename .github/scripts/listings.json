@@ -34895,5 +34895,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502909,
+        "url": "https://www.jolera.com/careers/?jobId=mQ_8xXOp_PHw",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jolera",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b08a228a-1553-41b3-b298-1b29d43f32e6",
+        "date_posted": 1768502909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
