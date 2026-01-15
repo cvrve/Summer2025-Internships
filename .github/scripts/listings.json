@@ -34861,5 +34861,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502901,
+        "url": "https://ats.rippling.com/es-419/redaspen-careers/jobs/a7c49185-bdf4-412d-8a98-96a71d479b5e",
+        "locations": [
+            "Meridian, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Red Aspen",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "522115ce-ce3b-4d9b-b993-b9b178c83047",
+        "date_posted": 1768502901,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
