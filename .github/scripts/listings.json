@@ -24274,23 +24274,6 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1759768173,
-        "url": "https://www.workatastartup.com/jobs/82822",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "company_name": "Speak (W17)",
-        "title": "Full-stack Engineer Intern",
-        "source": "vanshb03",
-        "id": "a5196385-9dbe-430b-be40-51b4e61869f8",
-        "date_posted": 1759768173,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
         "date_updated": 1759768175,
         "url": "https://www.workatastartup.com/jobs/82607",
         "locations": [
@@ -34807,6 +34790,23 @@
         "source": "vanshb03",
         "id": "3f9b0c4b-724d-4ad6-9f6b-2484453fde20",
         "date_posted": 1768502581,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1768502592,
+        "url": "https://careers.merzaesthetics.com/us/en/job/SALES004499/Salesforce-Developer-Internship-2026",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merz",
+        "title": "Salesforce Developer Intern",
+        "source": "vanshb03",
+        "id": "f4bd57a8-5bce-4e3d-b641-4a38f8906330",
+        "date_posted": 1768502592,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
