@@ -34810,5 +34810,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502880,
+        "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/490356?jobPipeline=Vansh",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Associate Software Engineering Intern, Business Operations",
+        "source": "vanshb03",
+        "id": "9db04a83-9a2e-4fd2-88d6-d8ebd9968b22",
+        "date_posted": 1768502880,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
