@@ -34793,5 +34793,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502581,
+        "url": "https://www.workatastartup.com/jobs/82822",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Speak",
+        "title": "Full-stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "3f9b0c4b-724d-4ad6-9f6b-2484453fde20",
+        "date_posted": 1768502581,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
