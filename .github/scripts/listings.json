@@ -34963,5 +34963,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502960,
+        "url": "https://lifeattiktok.com/search/7595306554946193717?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+        "source": "vanshb03",
+        "id": "d2657762-ef94-4db3-a2ad-4d0efb14832e",
+        "date_posted": 1768502960,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
