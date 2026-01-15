@@ -34741,5 +34741,22 @@
         "date_posted": 1768252806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1768502567,
+        "url": "https://www.workatastartup.com/jobs/88542",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Guardian RF",
+        "title": "Front End and UI Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "818b28ab-48b3-4b95-b4c0-94f0d7f97316",
+        "date_posted": 1768502567,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
