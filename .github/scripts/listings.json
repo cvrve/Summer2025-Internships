@@ -34980,5 +34980,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768509523,
+        "url": "https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenAI",
+        "title": "Software Engineer Intern(Fall 2026)",
+        "source": "vanshb03",
+        "id": "001bebeb-9026-4dcf-a08b-21433febfb1e",
+        "date_posted": 1768509523,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
