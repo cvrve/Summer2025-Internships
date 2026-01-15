@@ -34946,5 +34946,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1768502952,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR162228EXTERNALENUS/2026-Intern-Machine-Learning-Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "2026 Intern - Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "0d5e4d32-7de0-493f-bfb7-99d4b122551b",
+        "date_posted": 1768502952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
