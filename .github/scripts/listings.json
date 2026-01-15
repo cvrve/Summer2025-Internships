@@ -9449,14 +9449,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755624349,
+        "date_updated": 1768502643,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -22046,13 +22046,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1768502643,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7478636003",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung",
         "title": "Intern - System Software Engineer - CXL",
         "season": "Summer",
@@ -25575,13 +25575,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1768502643,
         "url": "https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/6176718",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Businessolver",
         "title": "Software Engineer Intern - Java - SQL",
         "season": "Summer",
@@ -32653,13 +32653,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762977469,
+        "date_updated": 1768502644,
         "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8244328002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "iCapital",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
