@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| OpenAI | Software Engineer Intern(Fall 2026) | San Francisco, CA | <a href="https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711/application?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
 | Podium | Product Management Intern | Lehi, UT | <a href="https://job-boards.greenhouse.io/podium81/jobs/7528061?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | Wardstone | Engineering Intern, Space and Missile Defense 🇺🇸 | Los Angeles, CA</br>San Francisco, CA | <a href="https://www.workatastartup.com/jobs/88369?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | Amentum | Software Engineering Intern, Spring 🇺🇸 | Houston, Texas, United States | <a href="https://www.amentumcareers.com/jobs/spring-2026-internship-software-engineering-intern-houston-texas-united-states?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
