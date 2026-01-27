@@ -35084,5 +35084,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554278,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636?indeed_organic=",
+        "locations": [
+            "Redmond, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f768de98-6de5-4ead-9e86-fc17e7b8c80f",
+        "date_posted": 1769554278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
