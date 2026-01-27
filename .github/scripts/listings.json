@@ -35033,5 +35033,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554251,
+        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Windows-Software-Engineer-Intern-Summer-2026/74268",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "Windows Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "36eab471-5960-4816-9f03-34e8e4236397",
+        "date_posted": 1769554251,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
