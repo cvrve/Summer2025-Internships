@@ -35239,5 +35239,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554518,
+        "url": "https://jobs.smartrecruiters.com/intuitive/744000105233605-camera-image-processing-algorithm-intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Camera Image Processing Algorithm Intern",
+        "source": "vanshb03",
+        "id": "f31e01b1-0686-4209-8593-816a4f5dc2ef",
+        "date_posted": 1769554518,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
