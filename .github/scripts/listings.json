@@ -35119,5 +35119,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554487,
+        "url": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---AI-Agent-Development_JR82274",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "AI Agent Development Intern",
+        "source": "vanshb03",
+        "id": "21cdc9a8-216c-4518-a78b-39c1d21a5088",
+        "date_posted": 1769554487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
