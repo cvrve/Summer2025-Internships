@@ -35256,5 +35256,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554522,
+        "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveServer-Software-Developer-Co-op_R029213",
+        "locations": [
+            "Atlanta"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Developer Intern, Waveserver",
+        "source": "vanshb03",
+        "id": "f0c423c7-307b-4bb8-8c34-039dde3a1c5e",
+        "date_posted": 1769554522,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
