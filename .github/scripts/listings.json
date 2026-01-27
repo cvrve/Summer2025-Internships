@@ -34997,5 +34997,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1769554224,
+        "url": "https://premierinc.wd1.myworkdayjobs.com/en-US/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008140",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Premier, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ec1328ce-5240-4007-9972-5ebee14b19d2",
+        "date_posted": 1769554224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
