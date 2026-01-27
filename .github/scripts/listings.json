@@ -35171,5 +35171,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554501,
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=555080",
+        "locations": [
+            "Hollywood, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Platform Aerospace",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3b1f51e7-9e4a-47e7-a395-9db0aa7e83a9",
+        "date_posted": 1769554501,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
