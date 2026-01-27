@@ -35222,5 +35222,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1769554511,
+        "url": "https://jobs.ashbyhq.com/flock%20safety/88a80dbf-1627-420a-a087-1bc8edc894e0",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flock Safety",
+        "title": "Device Software Intern",
+        "source": "vanshb03",
+        "id": "b824afab-b745-42e2-8758-049cf4d4a6fb",
+        "date_posted": 1769554511,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
