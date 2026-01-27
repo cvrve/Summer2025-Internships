@@ -4257,13 +4257,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751915338,
+        "date_updated": 1769525781,
         "url": "https://job-boards.greenhouse.io/drweng/jobs/6926715",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "DRW",
         "title": "Software Developer Intern",
         "season": "Summer",
@@ -11451,13 +11451,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756341138,
+        "date_updated": 1769525782,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4836993007?gh_src=cda0ce657us",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Backend Software Engineering Intern",
         "season": "Summer",
@@ -23448,13 +23448,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1769525782,
         "url": "https://job-boards.greenhouse.io/gofundme/jobs/7280698",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GoFundMe",
         "title": "Data and Analytics Intern, Data and Decision Science",
         "season": "Summer",
@@ -31705,13 +31705,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762351461,
+        "date_updated": 1769525783,
         "url": "https://jobs.lever.co/nimblerx/ceea467c-75bb-4822-b5d5-4c2fae2c3264",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nimble",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -31994,13 +31994,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706639,
+        "date_updated": 1769525783,
         "url": "https://job-boards.greenhouse.io/singlestore/jobs/7118095",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SingleStore",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -32201,13 +32201,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1769525783,
         "url": "https://boards.greenhouse.io/braze/jobs/7383721",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Braze",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -32305,13 +32305,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1769525783,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380742",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Voice",
         "season": "Summer",
@@ -32373,13 +32373,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1769525783,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380729",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Messaging",
         "season": "Summer",
@@ -33149,13 +33149,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1763445438,
+        "date_updated": 1769525784,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4976514007",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Software Engineering Intern, Scaleout Software (Distributed Systems & Infrastructure)",
         "source": "vanshb03",
@@ -34346,13 +34346,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994896,
+        "date_updated": 1769525784,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012785007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Security Engineer Intern",
         "source": "vanshb03",
@@ -34363,13 +34363,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994906,
+        "date_updated": 1769525784,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012768007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
