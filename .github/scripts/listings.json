@@ -35014,5 +35014,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554240,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
+        "locations": [
+            "Spring, TX",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HP, Inc",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "1e821bb7-a4d5-4271-bc20-b05f542316d8",
+        "date_posted": 1769554240,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
