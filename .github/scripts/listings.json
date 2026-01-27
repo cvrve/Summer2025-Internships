@@ -35137,5 +35137,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554492,
+        "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Intelligent-Automation_R1012116",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bread Financial",
+        "title": "Intelligent Automation Intern",
+        "source": "vanshb03",
+        "id": "8dd62540-2601-44d1-8cc4-1d0612aa7159",
+        "date_posted": 1769554492,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
