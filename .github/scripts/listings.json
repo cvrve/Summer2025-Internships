@@ -35102,5 +35102,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554283,
+        "url": "https://www.tesla.com/careers/search/job/261076?tags=organicjob",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Applications Engineering",
+        "source": "vanshb03",
+        "id": "1cb40131-dfaf-49b7-b616-6b6a077e8773",
+        "date_posted": 1769554283,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
