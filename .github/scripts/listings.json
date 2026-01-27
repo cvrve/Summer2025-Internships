@@ -35050,5 +35050,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554256,
+        "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Software-Intern_R-2026-44552?codes=IND",
+        "locations": [
+            "Lake Forest, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "de624507-0c50-4c34-9cb3-da689ca52bed",
+        "date_posted": 1769554256,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
