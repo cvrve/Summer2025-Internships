@@ -35067,5 +35067,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554264,
+        "url": "https://careers.labcorp.com/global/en/job/2541037?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=442132&rx_id=5f15e17a-f94e-11f0-bec0-c58af894e0a0&rx_job=2541037&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20260127T220434Z&rx_vp=cpc&rx_p=ILLXIAAPOK&rx_viewer=d4ccff91228311f084244d5a84b6abced216051a192840a08f1888a15d5312b4",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Labcorp",
+        "title": "Intern, Test Automation Engineer",
+        "source": "vanshb03",
+        "id": "ad71a4bb-a09b-422a-bae9-cbdb27f8bfbf",
+        "date_posted": 1769554264,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
