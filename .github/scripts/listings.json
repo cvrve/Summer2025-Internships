@@ -35154,5 +35154,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769554496,
+        "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Plano-TX/Intern---Platform-Automations_R1012114",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bread Financial",
+        "title": "Platform Automation Engineering Intern",
+        "source": "vanshb03",
+        "id": "8972be38-c514-43df-863c-00fecf1a5bd1",
+        "date_posted": 1769554496,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
