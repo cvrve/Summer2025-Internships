@@ -35205,5 +35205,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1769554508,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784-1",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Computer Science / Computer Engineering Intern",
+        "source": "vanshb03",
+        "id": "dd3e8201-0444-4946-af1f-a09f3fe66cc0",
+        "date_posted": 1769554508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
