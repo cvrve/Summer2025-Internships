@@ -824,14 +824,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746749561,
+        "date_updated": 1769639051,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
         "locations": [
             "Chicago, IL"
         ],
         "season": "Summer",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aquatic Capital Management",
         "title": "Quantitative Researcher Intern",
         "source": "vanshb03",
