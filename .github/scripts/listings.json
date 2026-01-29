@@ -35365,5 +35365,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "null"
+    },
+    {
+        "date_updated": 1769658453,
+        "url": "https://careers.t-mobile.com/summer-2026-software-engineering-internship/job/D49B75C7BCA353BDE11EB70C9E2F07BB?codes=1-INDEED",
+        "locations": [
+            "Overland Park, KS",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "T-Mobile USA, Inc.",
+        "title": "Software Engineer Intern, Device Insurance Technology",
+        "source": "vanshb03",
+        "id": "e5c6f5bf-b903-4891-873a-47724637b62c",
+        "date_posted": 1769658453,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
