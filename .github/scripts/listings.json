@@ -35400,5 +35400,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658466,
+        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26173&siteid=5197&jobid=1382197&codes=IND#jobDetails=1382197_5197",
+        "locations": [
+            "Lakeland, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Publix",
+        "title": "Intern - Software Engineer",
+        "source": "vanshb03",
+        "id": "7be3ecb5-65ef-430f-aec7-710f6bae36df",
+        "date_posted": 1769658466,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
