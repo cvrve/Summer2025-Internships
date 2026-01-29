@@ -35290,5 +35290,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658422,
+        "url": "https://calix.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis/Software-Engineering-Intern--PON_R-11392?mode=job&iis=Indeed&iisn=Indeed.com",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calix",
+        "title": "Software Engineering Intern, PON",
+        "source": "vanshb03",
+        "id": "2f3dfad6-77d5-4a43-a14e-64e213c06c82",
+        "date_posted": 1769658422,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
