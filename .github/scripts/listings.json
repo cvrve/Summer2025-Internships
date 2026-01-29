@@ -35347,5 +35347,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658439,
+        "url": "https://jobs.keysight.com/external/jobs/51418/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+        "locations": [
+            "Calabasas, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight",
+        "title": "R&D Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0c5fbc7d-7e92-40eb-90b1-c7177de97c6f",
+        "date_posted": 1769658439,
+        "company_url": "",
+        "is_visible": true,
+        "season": "null"
     }
 ]
