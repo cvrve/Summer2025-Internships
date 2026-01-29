@@ -35383,5 +35383,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658457,
+        "url": "https://careers.t-mobile.com/summer-2026-software-engineering-intern/job/B0597F0D0BB836D87F42BA84AADBAC96?codes=1-INDEED",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "T-Mobile USA, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3757e7cc-88d1-4d99-9706-85d9eca0f66a",
+        "date_posted": 1769658457,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
