@@ -35417,5 +35417,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658476,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---Roseville/Intern---Engineering--Applications-_R383-26",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology Inc",
+        "title": "Intern - Engineering (Applications)",
+        "source": "vanshb03",
+        "id": "e51314b3-db24-4b0f-b764-2a9a768bce9e",
+        "date_posted": 1769658476,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
