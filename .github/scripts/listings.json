@@ -35325,5 +35325,27 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658432,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/DevOps-Software---2026-Summer-Internship_R61381",
+        "locations": [
+            "Culver City, CA",
+            "Los Angeles, CA",
+            "Norcross, GA",
+            "Morrisville, NC",
+            "Newington, VA",
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "DevOps Software Intern",
+        "source": "vanshb03",
+        "id": "4462230b-75d2-478d-806a-53ad6c8d512e",
+        "date_posted": 1769658432,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
