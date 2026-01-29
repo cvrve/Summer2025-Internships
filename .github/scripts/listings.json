@@ -35307,5 +35307,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658427,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2026-Summer-Internship_R61268",
+        "locations": [
+            "West Valley City, UT",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5c98ac07-e21b-440c-a08d-83304ffcb0b3",
+        "date_posted": 1769658427,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
