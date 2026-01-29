@@ -35434,5 +35434,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658537,
+        "url": "https://jobs.ashbyhq.com/simple-ai/63d1ef98-a304-4a5f-90de-869eb4b9b220",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simple AI",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f6dc7e31-ea58-447c-ae37-8b4d5ce58863",
+        "date_posted": 1769658537,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
