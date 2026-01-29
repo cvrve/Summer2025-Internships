@@ -35485,5 +35485,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658679,
+        "url": "https://www.vrad.com/team-job/software-engineer-intern-hybrid/",
+        "locations": [
+            "Edina, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "vRad",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6c04ce0c-25ee-4660-9439-d3b578e192e9",
+        "date_posted": 1769658679,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
