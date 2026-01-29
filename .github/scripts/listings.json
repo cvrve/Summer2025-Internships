@@ -35468,5 +35468,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658570,
+        "url": "https://www.kaiserpermanentejobs.org/job/-/-/641/91078325456",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kaiser Permanente",
+        "title": "Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "07ccba6f-98ff-490a-a1d1-269af2aeaa7e",
+        "date_posted": 1769658570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
