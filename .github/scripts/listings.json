@@ -35502,5 +35502,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658682,
+        "url": "https://jobs.ericsson.com/careers/job/563121772745904?domain=ericsson.com&jobPipeline=Indeed",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Baseband Software Developer Intern",
+        "source": "vanshb03",
+        "id": "b7c46b12-b0c4-4b30-b594-a499922d3b35",
+        "date_posted": 1769658682,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
