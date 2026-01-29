@@ -35451,5 +35451,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658558,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/543579ed-fd2f-435d-b84e-420992decc44",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "d-Matrix",
+        "title": "Software Engineering Intern, Developer and Qualification Tools",
+        "source": "vanshb03",
+        "id": "bef32797-8b8b-41e8-a363-4658c449d4db",
+        "date_posted": 1769658558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
