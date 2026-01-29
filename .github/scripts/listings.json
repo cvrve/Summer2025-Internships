@@ -35273,5 +35273,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769658392,
+        "url": "https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Empower",
+        "title": "Software Engineer Intern, Technology Modernization",
+        "source": "vanshb03",
+        "id": "e3e39534-6228-49fa-9f50-79d9ae0d5ff0",
+        "date_posted": 1769658392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
