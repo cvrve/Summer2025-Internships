@@ -35570,5 +35570,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769923909,
+        "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parspec",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "df227e40-a6ce-4960-b246-b0768778cd0c",
+        "date_posted": 1769923909,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
