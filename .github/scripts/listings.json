@@ -35587,5 +35587,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769923931,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Salesforce-Software-Engineering-Intern---Summer-2026_R-081500",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "178d8bf3-6506-42a8-a5c5-8dd8cd282b75",
+        "date_posted": 1769923931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
