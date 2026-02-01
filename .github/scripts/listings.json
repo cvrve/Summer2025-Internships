@@ -35621,5 +35621,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769963103,
+        "url": "https://jobs.ashbyhq.com/ironcladhq/95ae3b0a-a061-4323-926a-7fa308b59387",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ironclad",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "687a9bdb-7fc5-4bdc-82e8-969168b8596f",
+        "date_posted": 1769963103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
