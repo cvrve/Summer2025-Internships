@@ -35553,5 +35553,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769923905,
+        "url": "https://jobs.smartrecruiters.com/renesaselectronics/744000106536395-software-engineering-intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "16c01408-cd67-461a-9b5e-341e081b1c1b",
+        "date_posted": 1769923905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
