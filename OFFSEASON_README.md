@@ -43,7 +43,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Keysight | R&D Software Engineering Intern 🛂 | Calabasas, CA</br>Austin, TX | <a href="https://jobs.keysight.com/external/jobs/51418/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 28 |
 | The Walt Disney Company | Computer Science / Computer Engineering Intern | Lake Buena Vista, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 27 |
 | Disney | System Software Engineering Intern | Glendale, CA | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 27 |
 | OpenAI | Software Engineer Intern(Fall 2026) | San Francisco, CA | <a href="https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711/application?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 15 |
