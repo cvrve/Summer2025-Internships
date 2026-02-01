@@ -35536,5 +35536,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769923903,
+        "url": "https://jobs.smartrecruiters.com/intuitive/744000106572190-software-engineering-intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f208a799-dd11-45e4-99b4-78bb03152e79",
+        "date_posted": 1769923903,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
