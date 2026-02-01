@@ -9431,14 +9431,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755624342,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -13193,13 +13193,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756535122,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7201615",
         "locations": [
             "McLean, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Appian",
         "title": "Quality Engineer Intern",
         "season": "Summer",
@@ -23465,13 +23465,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759321007,
+        "date_updated": 1769923570,
         "url": "https://job-boards.greenhouse.io/gofundme/jobs/7284112",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GoFundMe",
         "title": "Product Management Intern",
         "season": "Summer",
@@ -34329,13 +34329,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994265,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015203007",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Systems Research Engineer Intern, GPU Programming",
         "source": "vanshb03",
@@ -34380,13 +34380,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994909,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5014291007",
         "locations": [
             "San Francisco"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Inference",
         "source": "vanshb03",
@@ -34397,13 +34397,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767994913,
+        "date_updated": 1769923572,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015074007",
         "locations": [
             "San Francisco, Amsterdam"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Model Shaping",
         "source": "vanshb03",
