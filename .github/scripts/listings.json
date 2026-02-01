@@ -35604,5 +35604,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1769923938,
+        "url": "https://amazon.jobs/en/jobs/3168855/system-development-engineer-internship-2026-us-project-leo",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "System Development Engineer Intern, Project Leo",
+        "source": "vanshb03",
+        "id": "b1e684e4-cd38-46af-a83c-04455db5a2ce",
+        "date_posted": 1769923938,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
