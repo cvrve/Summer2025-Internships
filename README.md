@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Ironclad | Software Engineer Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/ironcladhq/95ae3b0a-a061-4323-926a-7fa308b59387?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
+| Box | Software Engineering Intern | Redwood City, CA | <a href="https://job-boards.greenhouse.io/boxinc/jobs/7553772?gh_src=vanshb03&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 01 |
 | Rocket | Software Engineering Intern | Detroit, MI | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Salesforce-Software-Engineering-Intern---Summer-2026_R-081500?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 31 |
 | Renesas Electronics | Software Engineering Intern | Austin, TX | <a href="https://jobs.smartrecruiters.com/renesaselectronics/744000106536395-software-engineering-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 31 |
 | Parspec | Applied AI Engineer Intern | San Mateo, CA | <a href="https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 31 |

@@ -35638,5 +35638,22 @@
         "date_posted": 1769963103,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1769968436,
+        "url": "https://job-boards.greenhouse.io/boxinc/jobs/7553772?gh_src=vanshb03",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Box",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "27060319-0d0c-437f-931c-8875ca354339",
+        "date_posted": 1769968436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
