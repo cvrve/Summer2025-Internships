@@ -35655,5 +35655,22 @@
         "date_posted": 1769968436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770008162,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/182448?source=E_VANSHB03",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Molex",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "fb87f079-a7dc-44bf-a400-81b8d8214a91",
+        "date_posted": 1770008162,
+        "company_url": "",
+        "is_visible": true
     }
 ]
