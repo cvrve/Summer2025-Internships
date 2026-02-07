@@ -35860,5 +35860,22 @@
         "date_posted": 1770495363,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495419,
+        "url": "https://www.bequad.com/job/-/-/11056/91444506416?src=JB-10101",
+        "locations": [
+            "Sussex, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quad",
+        "title": "Software Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1047c24c-3985-4e53-a359-8fc1f7f0e360",
+        "date_posted": 1770495419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
