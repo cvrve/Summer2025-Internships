@@ -35757,5 +35757,22 @@
         "date_posted": 1770495171,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495194,
+        "url": "https://job-boards.greenhouse.io/impinjexternal/jobs/4657773005?gh_src=4l303b5j5us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impinj",
+        "title": "DevOps Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dbf1b28f-a35e-407b-a74a-0047aa4e97fb",
+        "date_posted": 1770495194,
+        "company_url": "",
+        "is_visible": true
     }
 ]
