@@ -35809,5 +35809,22 @@
         "date_posted": 1770495271,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495299,
+        "url": "https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "Core SWE Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a728859e-bd15-4e41-9bea-fc00ffe0cb7f",
+        "date_posted": 1770495299,
+        "company_url": "",
+        "is_visible": true
     }
 ]
