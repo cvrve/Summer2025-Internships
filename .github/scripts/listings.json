@@ -35877,5 +35877,22 @@
         "date_posted": 1770495419,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495460,
+        "url": "https://careers.thredup.com/us/en/job/THRTHRUS1334EXTERNALENUS/Machine-Learning-Engineer-Intern",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ThredUp",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ac462e17-adc8-4cd8-9e50-e26b5939f021",
+        "date_posted": 1770495460,
+        "company_url": "",
+        "is_visible": true
     }
 ]
