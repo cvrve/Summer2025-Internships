@@ -35791,5 +35791,23 @@
         "date_posted": 1770495224,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495271,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/AI-Developer-Intern_R22276",
+        "locations": [
+            "Lincoln, NE",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "AI Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "02091b4b-ad18-4bd9-b8eb-a9849463c03e",
+        "date_posted": 1770495271,
+        "company_url": "",
+        "is_visible": true
     }
 ]
