@@ -35689,5 +35689,22 @@
         "date_posted": 1770252864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495002,
+        "url": "https://jobs.bombardier.com/job/Wichita-Software-Engineer-Intern-Fall-2026-KS-67209/1281175401/?feedId=383233",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "44714a4c-ce0f-47c2-a5b4-3477ea5685a4",
+        "date_posted": 1770495002,
+        "company_url": "",
+        "is_visible": true
     }
 ]
