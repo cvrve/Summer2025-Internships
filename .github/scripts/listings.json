@@ -35723,5 +35723,22 @@
         "date_posted": 1770495045,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495144,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern--Summer-2026-_20732",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Clorox Company",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f48799b2-3b8f-476c-a2d4-cea8276c766d",
+        "date_posted": 1770495144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
