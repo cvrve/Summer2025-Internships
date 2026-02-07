@@ -35843,5 +35843,22 @@
         "date_posted": 1770495332,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495363,
+        "url": "https://careers.thrivent.com/jobs/44296/associate-software-engineer-intern-summer-2026",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thrivent",
+        "title": "Associate Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d5d8ad59-462c-4de4-b8e1-0e2cf9b7f5b4",
+        "date_posted": 1770495363,
+        "company_url": "",
+        "is_visible": true
     }
 ]
