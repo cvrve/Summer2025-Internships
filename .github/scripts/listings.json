@@ -35740,5 +35740,22 @@
         "date_posted": 1770495144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495171,
+        "url": "https://job-boards.greenhouse.io/impinjexternal/jobs/4657775005?gh_src=1pzxwek65us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impinj",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1f5b9936-fc29-46b5-ba47-f16456bb9bae",
+        "date_posted": 1770495171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
