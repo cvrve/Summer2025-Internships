@@ -35706,5 +35706,22 @@
         "date_posted": 1770495002,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495045,
+        "url": "https://pluralsight.wd1.myworkdayjobs.com/en-US/Careers/job/Hybrid---Texas-Westlake/Software-Engineer-Intern_R0013960",
+        "locations": [
+            "Westlake, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pluralsight",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "45c4eb7d-171e-4bf3-9360-6166995644a8",
+        "date_posted": 1770495045,
+        "company_url": "",
+        "is_visible": true
     }
 ]
