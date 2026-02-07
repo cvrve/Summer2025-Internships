@@ -35826,5 +35826,22 @@
         "date_posted": 1770495299,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495332,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/R-D-Intern--Software-Electrical--Andover--MA-_R87990",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Software/Electrical R&D Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5a4ef27a-2359-4f7e-b676-5dd4c9a0fa9c",
+        "date_posted": 1770495332,
+        "company_url": "",
+        "is_visible": true
     }
 ]
