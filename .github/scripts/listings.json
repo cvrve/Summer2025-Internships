@@ -35774,5 +35774,22 @@
         "date_posted": 1770495194,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1770495224,
+        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Server-Hardware-Development-Intern-Summer-2026/74651",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lenovo",
+        "title": "Server Hardware Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bde8bdfa-b89f-4fbd-ac8a-9129fa6920b3",
+        "date_posted": 1770495224,
+        "company_url": "",
+        "is_visible": true
     }
 ]
