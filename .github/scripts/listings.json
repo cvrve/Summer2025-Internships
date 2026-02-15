@@ -6638,13 +6638,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754173868,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005?gh_src=5734qado5us",
         "locations": [
             "New York"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DV Commodities",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -6972,13 +6972,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1754342028,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DV Group",
         "title": "Software Development Intern, DV Commodities",
         "source": "vanshb03",
@@ -32098,14 +32098,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706920,
+        "date_updated": 1771169396,
         "url": "https://jobs.lever.co/zoox/5b8ec01c-fdc6-4e05-b077-051f28384b6f",
         "locations": [
             "San Diego, CA",
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Firmware and C++ Development Intern",
         "source": "vanshb03",
@@ -32390,13 +32390,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380787",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Numbers",
         "season": "Summer",
@@ -34636,13 +34636,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1768075111,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/podium81/jobs/7528061",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Podium",
         "title": "Product Management Intern",
         "source": "vanshb03",
@@ -35674,13 +35674,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1770252864,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7401643",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zocdoc",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -35742,13 +35742,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1770495171,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/impinjexternal/jobs/4657775005?gh_src=1pzxwek65us",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Impinj",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -35759,13 +35759,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1770495194,
+        "date_updated": 1771169396,
         "url": "https://job-boards.greenhouse.io/impinjexternal/jobs/4657773005?gh_src=4l303b5j5us",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Impinj",
         "title": "DevOps Engineering Intern",
         "season": "Summer",
