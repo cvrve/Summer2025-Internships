@@ -35894,5 +35894,22 @@
         "date_posted": 1770495460,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1771535811,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Quantitative Trader Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "fd20b46e-a098-4664-b5b1-c54a3381c47c",
+        "date_posted": 1771535811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
