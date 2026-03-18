@@ -35911,5 +35911,22 @@
         "date_posted": 1771535811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773847210,
+        "url": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Year at Palantir, Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7c2e1f71-37d5-402c-877a-94bf81057dc5",
+        "date_posted": 1773847210,
+        "company_url": "",
+        "is_visible": true
     }
 ]

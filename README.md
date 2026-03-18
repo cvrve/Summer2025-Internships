@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Palantir | Year at Palantir, Intern | New York, NY | <a href="https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 18 |
 | Thrivent | Associate Software Engineer Intern | Remote | <a href="https://careers.thrivent.com/jobs/44296/associate-software-engineer-intern-summer-2026?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 07 |
 | ThredUp | Machine Learning Engineer Intern | Scottsdale, AZ | <a href="https://careers.thredup.com/us/en/job/THRTHRUS1334EXTERNALENUS/Machine-Learning-Engineer-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 07 |
 | The Clorox Company | Machine Learning Engineer Intern | Durham, NC | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern--Summer-2026-_20732?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 07 |
