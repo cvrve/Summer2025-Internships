@@ -2028,13 +2028,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748717073,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594261003",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neuralink",
         "title": "Machine Learning Engineer Intern",
         "season": "Fall",
@@ -4874,13 +4874,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752691346,
+        "date_updated": 1774442904,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Five Rings",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -4891,13 +4891,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1752691352,
+        "date_updated": 1774442904,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Five Rings",
         "title": "Quantitative Trader Intern",
         "source": "vanshb03",
@@ -19753,13 +19753,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1758626072,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/robinhood/jobs/7238998",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Robinhood",
         "title": "Software Developer Intern, Web",
         "source": "vanshb03",
@@ -20150,13 +20150,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758641907,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5656952004",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Truveta",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -24741,13 +24741,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759771647,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8174019002",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Undergrad Software Engineering Intern",
         "season": "Summer",
@@ -25490,13 +25490,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760209105,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5674245004",
         "locations": [
             "NYC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garner Health",
         "title": "Full Stack Engineering Intern",
         "season": "Summer",
@@ -26296,13 +26296,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760352569,
+        "date_updated": 1774442905,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7298481",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SeatGeek",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26398,14 +26398,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409620,
+        "date_updated": 1774442905,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7268895&for=coinbase&gh_jid=7268895",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26433,13 +26433,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409191,
+        "date_updated": 1774442905,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7294075",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Machine Learning Engineer Intern",
         "source": "vanshb03",
@@ -26450,14 +26450,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409200,
+        "date_updated": 1774442905,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7269743",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Product Manager Intern",
         "source": "vanshb03",
@@ -28455,13 +28455,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1761018410,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/skyryse/jobs/7341502",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyryse",
         "title": "Flight Test Engineering Intern",
         "source": "vanshb03",
@@ -32011,13 +32011,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706771,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380793",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Identity",
         "source": "vanshb03",
@@ -32045,14 +32045,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706924,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/fd2be6ec-162d-4955-802f-fb8d2de8b3c0",
         "locations": [
             "Foster City, CA",
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Automation & DevOps Tooling Intern",
         "source": "vanshb03",
@@ -32063,14 +32063,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706929,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f",
         "locations": [
             "Foster City, CA",
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Mapping Software Intern",
         "source": "vanshb03",
@@ -32081,13 +32081,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706909,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/b9fb6f1d-31db-4a79-b70b-9396bf01b117",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -32116,13 +32116,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706926,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/07ac26ee-0594-41d8-928e-7cf1e373e2dd",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "HIL & System Validation Intern",
         "source": "vanshb03",
@@ -32150,13 +32150,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1762706933,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/3a7c0c4b-4f23-4136-99a9-df64b341a0fd",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Test Automation & QA Systems Intern",
         "source": "vanshb03",
@@ -32322,13 +32322,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1774442905,
         "url": "https://jobs.lever.co/zoox/ab805ec5-1d08-420c-9606-f91825e6a1f9/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Data Scientist Intern",
         "season": "Summer",
@@ -32449,13 +32449,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380737",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Billing",
         "season": "Summer",
@@ -32466,13 +32466,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762780834,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380723",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bandwidth",
         "title": "Software Development Intern, Emergency Services",
         "season": "Summer",
@@ -33732,13 +33732,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1767283377,
+        "date_updated": 1774442906,
         "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002?gh_src=mhw8k5d02us",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MCG",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -34914,13 +34914,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1768502919,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4640131005?gh_src=402406h25us",
         "locations": [
             "San Carlos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Crystal Dynamics",
         "title": "Gameplay Engineer Intern",
         "source": "vanshb03",
@@ -35640,13 +35640,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769968436,
+        "date_updated": 1774442905,
         "url": "https://job-boards.greenhouse.io/boxinc/jobs/7553772?gh_src=vanshb03",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Box",
         "title": "Software Engineering Intern",
         "season": "Summer",
