@@ -35928,5 +35928,60 @@
         "date_posted": 1773847210,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776617698,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "3dcc8f0b-f7f0-49db-800f-487fa5be8b4f",
+        "date_posted": 1776617698,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776617702,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "27cdff11-8ec9-4c5c-9919-a4c6c5585824",
+        "date_posted": 1776617702,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776617707,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Chicago, IL",
+            "West Palm Beach, FL",
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Investment Analyst Intern, Point72 Academy",
+        "source": "vanshb03",
+        "id": "2d295ad5-b2e7-4771-98ad-e40ef675596e",
+        "date_posted": 1776617707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
