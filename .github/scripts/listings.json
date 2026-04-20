@@ -36321,5 +36321,61 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1776727656,
+        "url": "https://www.pathai.com/career/job-post?gh_jid=8202342002",
+        "locations": [
+            "Boston, MA",
+            "New York, NY",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PathAI",
+        "title": "Machine Learning Intern, AI Product and ML Core",
+        "source": "vanshb03",
+        "id": "c5b7e827-3448-42e4-9b8b-73daad336373",
+        "date_posted": 1776727656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727676,
+        "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4201825009?gh_src=3ntpny1l9us&jr_id=69c59d611818a24cd84b8457",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cartesian",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8aa4ec46-d9a3-4c87-a8ee-1b54d784d32b",
+        "date_posted": 1776727676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727688,
+        "url": "https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?jr_id=69e683219b6eb37e26f80c4f&gh_jid=7255640",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Machine Learning Intern, PhD",
+        "source": "vanshb03",
+        "id": "a1c939ef-c882-448c-80e0-e32498076b69",
+        "date_posted": 1776727688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
