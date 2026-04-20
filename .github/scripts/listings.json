@@ -36377,5 +36377,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1776727835,
+        "url": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Recommendation Infrastructure",
+        "source": "vanshb03",
+        "id": "4558b1fa-f289-47fa-9640-23678e537355",
+        "date_posted": 1776727835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776727865,
+        "url": "https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106",
+        "locations": [
+            "Palo Alto, CA",
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Vehicle Engineering",
+        "source": "vanshb03",
+        "id": "0babc28a-266b-45dc-bd63-3be553ec8bd4",
+        "date_posted": 1776727865,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
