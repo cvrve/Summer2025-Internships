@@ -36116,5 +36116,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1776726844,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "181010e7-9a06-4910-b76b-4bd2594be51e",
+        "date_posted": 1776726844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726849,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "556c1091-31ca-47ab-8cdb-09e98cfe8fd2",
+        "date_posted": 1776726849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726852,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "fdb2c607-14e1-40eb-affe-d200f49fba8c",
+        "date_posted": 1776726852,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726863,
+        "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Hermeus",
+        "title": "Modeling & Simulation Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cbbbba0c-1096-4182-8210-d2ec331ef01b",
+        "date_posted": 1776726863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726875,
+        "url": "https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7abd2359-68c7-498a-8838-276037988ecc",
+        "date_posted": 1776726875,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
