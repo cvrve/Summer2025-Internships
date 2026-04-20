@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| General Dynamics Mission Systems, Inc. | Software Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://careers-gdms.icims.com/jobs/72143/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
+| ↳ | Software Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://careers-gdms.icims.com/jobs/72142/job?mobile=true&needsRedirect=false&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Five Rings | Quantitative Trader Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 19 |
 | Bombardier | Software Engineer Intern | Wichita, KS | <a href="https://jobs.bombardier.com/job/Wichita-Software-Engineer-Intern-Fall-2026-KS-67209/1281175401/?feedId=383233&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 07 |
 | The Walt Disney Company | Computer Science / Computer Engineering Intern | Lake Buena Vista, FL | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 27 |
