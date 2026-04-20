@@ -36235,5 +36235,91 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1776727395,
+        "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "9104b892-1b72-4bba-9fe5-ca7a7e689b94",
+        "date_posted": 1776727395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727430,
+        "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "441c3320-0e5d-4bed-8a21-50d639712283",
+        "date_posted": 1776727430,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727513,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TETRAMEM",
+        "title": "Software Engineer Intern, Embedded",
+        "source": "vanshb03",
+        "id": "8c4e6050-7530-4d4b-9dd4-67432c5f536c",
+        "date_posted": 1776727513,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727516,
+        "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc.",
+        "title": "Artificial Intelligence, Data & Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "dc1a0aba-b671-4f48-ae78-d8b7fabe5d03",
+        "date_posted": 1776727516,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727525,
+        "url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173",
+        "locations": [
+            "Los Angeles, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Avanade",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b509f9d0-178f-4d05-b31d-8486fed00ae4",
+        "date_posted": 1776727525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
