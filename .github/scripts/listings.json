@@ -36068,5 +36068,53 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1776726755,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
+        "locations": [
+            "Bastrop, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Starbase, TX",
+            "Vandenberg, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "8c03beaa-dd8b-4e9e-914b-feafb93b9a16",
+        "date_posted": 1776726755,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776726759,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002",
+        "locations": [
+            "Bastrop, TX",
+            "Cape Canaveral, FL",
+            "Hawthorne, CA",
+            "Irvine, CA",
+            "McGregor, TX",
+            "Redmond, WA",
+            "Starbase, TX",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "677a2234-1c91-448f-8b47-bb8aea8008af",
+        "date_posted": 1776726759,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
