@@ -36201,5 +36201,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1776727199,
+        "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABC News",
+        "title": "Product Management and Engineering Intern",
+        "source": "vanshb03",
+        "id": "411eb513-344a-4841-864d-154112a6f7ac",
+        "date_posted": 1776727199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776727236,
+        "url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyworks",
+        "title": "Analog IC Design Co-op",
+        "source": "vanshb03",
+        "id": "44104ee9-5f26-4f8c-8930-f566b6c5812b",
+        "date_posted": 1776727236,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
