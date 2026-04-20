@@ -35983,5 +35983,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1776636546,
+        "url": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Software-Engineer---Intern_REQ-1246",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ABC Fitness",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "848b2fa2-3a01-449a-9678-3419d433b3d9",
+        "date_posted": 1776636546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776636591,
+        "url": "https://job-boards.greenhouse.io/northspyre/jobs/7704668003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northspyre",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "aacaa68e-1f91-403b-9b6b-67e974dd38d9",
+        "date_posted": 1776636591,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776715571,
+        "url": "https://careers-gdms.icims.com/jobs/72142/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b9914a06-00d9-4299-8206-b2c637f83029",
+        "date_posted": 1776715571,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1776715576,
+        "url": "https://careers-gdms.icims.com/jobs/72143/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2ad78e02-76da-47a1-9270-c59335279a59",
+        "date_posted": 1776715576,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1776715588,
+        "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Poshmark",
+        "title": "Cloud Platform Engineer Intern, Growth",
+        "source": "vanshb03",
+        "id": "ba604553-3741-4561-a3c6-20275c29aee5",
+        "date_posted": 1776715588,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
