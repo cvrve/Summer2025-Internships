@@ -36412,5 +36412,75 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1776894207,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Robot-Learning-Platform---Fall-2026_JR2015575?jr_id=69e82017f8fa2f3ec32ab97c",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineer Intern, Robot Learning Platform",
+        "source": "vanshb03",
+        "id": "e1029320-5486-4836-91fb-a58ea85d0275",
+        "date_posted": 1776894207,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776894212,
+        "url": "https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Atomic Semi",
+        "title": "Software Engineering Intern, Fab",
+        "source": "vanshb03",
+        "id": "7dc12db6-b846-4319-a1f0-ce521dd0dbd5",
+        "date_posted": 1776894212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776894215,
+        "url": "https://jobs.ashbyhq.com/AtomicSemi/867c67f7-20b5-4726-b9da-85a760d3851e/application?jr_id=69e8eecae0cd471b2f138f47",
+        "locations": [
+            "San Francisco, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atomic Semi",
+        "title": "Infrastructure Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "62ac4d70-6428-4210-b204-13ee51d1248b",
+        "date_posted": 1776894215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1776894261,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006?jr_id=69e82790e0cd471b2f12fc60",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "74de7d1a-1b7b-44f2-8c09-adc0b4b8d0d0",
+        "date_posted": 1776894261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
