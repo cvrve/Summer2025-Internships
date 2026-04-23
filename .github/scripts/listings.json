@@ -36482,5 +36482,75 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1776914894,
+        "url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb",
+        "locations": [
+            "Cayman",
+            "Denver",
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ether.fi",
+        "title": "GTM Engineer Intern",
+        "source": "vanshb03",
+        "id": "9f07a128-2de0-4118-ab14-8b39c835dfa4",
+        "date_posted": 1776914894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776914902,
+        "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "H&CO",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "28bb78f3-56ce-4349-bc48-5990025540af",
+        "date_posted": 1776914902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1776915429,
+        "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4230723009",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SK Hynix Memory Solution",
+        "title": "Product Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "f2136905-9bf4-4e2e-9259-edcf11fc5392",
+        "date_posted": 1776915429,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1776915435,
+        "url": "https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASM",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6ebc87c4-a217-4a27-9ba5-96423dca7e58",
+        "date_posted": 1776915435,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
