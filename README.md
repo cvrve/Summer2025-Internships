@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| H&CO | Software Development Intern | Coral Gables, FL | <a href="https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 22 |
+| Ether.fi | GTM Engineer Intern | Cayman</br>Denver</br>New York | <a href="https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 22 |
 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | <a href="https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Skyworks | Analog IC Design Co-op | Irvine, CA | <a href="https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Poshmark | Cloud Platform Engineer Intern, Growth 🛂 | Redwood City, CA | <a href="https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
