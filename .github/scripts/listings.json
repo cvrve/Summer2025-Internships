@@ -36603,5 +36603,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1777070962,
+        "url": "https://www.asm.com/open-vacancies/software-engineering-intern-spring-2027-4830113101?gh_jid=4830113101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASM",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cd45a75b-2f15-4335-ad48-c355b94c34b9",
+        "date_posted": 1777070962,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1777071076,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/",
+        "locations": [
+            "Bensenville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "2b0b7d78-f588-4c81-b82f-18f1a0c37f28",
+        "date_posted": 1777071076,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777071097,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/assetmark_careers/job/Austin-TX/Software-Engineering-Intern_Req-003804",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AssetMark",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "331907d3-c835-4eea-8239-155ac39a9aa8",
+        "date_posted": 1777071097,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777071143,
+        "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "85b7f3fa-5e2f-4ace-9996-537baf4b7077",
+        "date_posted": 1777071143,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1777071148,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Frontend Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d43b346-3810-4720-b35b-4e8c43e3cc93",
+        "date_posted": 1777071148,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1777071153,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/5099596007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5d20293f-c698-455d-937c-b65bb871bb12",
+        "date_posted": 1777071153,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1777071158,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Backend Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2a341560-bbef-4586-8fbd-0f9c3c22f862",
+        "date_posted": 1777071158,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
