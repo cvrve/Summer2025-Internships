@@ -36552,5 +36552,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1777069927,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Cincinnati/Software-Engineer-Intern_R0325488-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thales",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6f961e5d-6c98-401f-92c8-54bd11389d8e",
+        "date_posted": 1777069927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777070468,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern_R54365-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9333999b-0b01-4c38-99ab-1db006f77235",
+        "date_posted": 1777070468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777070472,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "Software Engineer Intern, Circuit Simulation Infrastructure",
+        "source": "vanshb03",
+        "id": "ddcac622-85c0-4551-a885-ca3b7fa25d18",
+        "date_posted": 1777070472,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
