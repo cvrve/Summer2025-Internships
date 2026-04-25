@@ -36722,5 +36722,125 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1777084402,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, JAX",
+        "source": "vanshb03",
+        "id": "c522967f-6f76-4dca-aa95-3ac693ac5fc4",
+        "date_posted": 1777084402,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1777084411,
+        "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R52571",
+        "locations": [
+            "Richmond Hill, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineer Intern, Firmware",
+        "source": "vanshb03",
+        "id": "158aab4c-0663-4620-b64a-54522c8a19e7",
+        "date_posted": 1777084411,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1777084432,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "KBR",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "247b4f1d-b911-4faa-a49e-f673d17a8425",
+        "date_posted": 1777084432,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1777084442,
+        "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/XMLNAME-2026-Summer-Intern--Appian-Developer_R2601122",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Appian Developer Intern",
+        "source": "vanshb03",
+        "id": "ad87ea17-2ec1-4c6c-b79b-9eb689d37482",
+        "date_posted": 1777084442,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777084447,
+        "url": "https://lifeattiktok.com/search/7631599293708126517",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "LLM Post-training Engineer Intern, Research & Product",
+        "source": "vanshb03",
+        "id": "6cfa7517-e379-4ee9-b797-46bd8660d50a",
+        "date_posted": 1777084447,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1777084458,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "AI Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cf52cf4a-37b5-43d6-85ca-9b33b0696d53",
+        "date_posted": 1777084458,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1777084585,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7850821",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Twilio",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e801d38a-0af4-40f6-9e67-5dfc5c92d80c",
+        "date_posted": 1777084585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
