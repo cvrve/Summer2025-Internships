@@ -36842,5 +36842,91 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1777366757,
+        "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5982336004",
+        "locations": [
+            "Springfield, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Horace Mann",
+        "title": "Cybersecurity SOC Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1c65f2c9-9b08-4938-8620-9183f06fca82",
+        "date_posted": 1777366757,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777366779,
+        "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
+        "locations": [
+            "Houston, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Homebase",
+        "title": "Forward Deployed Engineering Intern, AI-Native",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "54f1c8a5-bef7-404a-a9c7-87ce94f6f777",
+        "date_posted": 1777366779,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777366789,
+        "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5982339004",
+        "locations": [
+            "Springfield, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Horace Mann",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f5aefd1d-f986-42dd-af1d-4938da6cb020",
+        "date_posted": 1777366789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777366795,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/QA-Engineering-Intern_Req-003753",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AssetMark",
+        "title": "QA Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4d206402-22fa-46bd-8ce1-4eb506e90b5f",
+        "date_posted": 1777366795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777366815,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Reverse-Engineer-Intern_R2122629",
+        "locations": [
+            "Beavercreek Township, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "KBR",
+        "title": "Reverse Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a88f9f1a-7349-4371-bc50-12bdcdddd1a4",
+        "date_posted": 1777366815,
+        "company_url": "",
+        "is_visible": true
     }
 ]
