@@ -36928,5 +36928,39 @@
         "date_posted": 1777366815,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777474528,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Data Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "268e2970-aee4-4463-a328-cf4c55bf19dc",
+        "date_posted": 1777474528,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777474641,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10388735",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Application Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "831450ff-f425-4f67-8661-3955c3143989",
+        "date_posted": 1777474641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
