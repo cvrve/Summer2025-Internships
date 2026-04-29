@@ -36962,5 +36962,23 @@
         "date_posted": 1777474641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1777480877,
+        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Intel",
+        "title": "AI Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "5b631d88-6881-4181-acea-ff000920ea87",
+        "date_posted": 1777480877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
