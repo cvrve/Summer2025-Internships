@@ -36980,5 +36980,96 @@
         "date_posted": 1777480877,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1778311144,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "New York, NY",
+            "Seattle, WA",
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern(Futureforce Summer 2027)",
+        "source": "vanshb03",
+        "id": "d5070448-480e-4902-91fd-3bc77c000ace",
+        "date_posted": 1778311144,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778311204,
+        "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "186e4d6a-9d88-4c8a-b6fa-ec5d32b8791c",
+        "date_posted": 1778311204,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311276,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Database Engineering",
+        "source": "vanshb03",
+        "id": "a2669f25-69ee-46bf-ac90-d16ea9026103",
+        "date_posted": 1778311276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311293,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Infrastructure Automation",
+        "source": "vanshb03",
+        "id": "b3f3348e-df18-4d47-8d61-e1f360708378",
+        "date_posted": 1778311293,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311310,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core Engineering)",
+        "source": "vanshb03",
+        "id": "0022a0b8-1f49-4fc1-9915-e9765f2af0a4",
+        "date_posted": 1778311310,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
