@@ -37071,5 +37071,218 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1778311951,
+        "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, AWS Data Services",
+        "source": "vanshb03",
+        "id": "b066ec62-2588-4e06-bbcd-2b0a5a86967c",
+        "date_posted": 1778311951,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778311967,
+        "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
+        "locations": [
+            "Sunnyvale, CA",
+            "North Reading, MA",
+            "Westboro, MA",
+            "Nashville, TN",
+            "Austin, TX",
+            "Arlington, VA",
+            "Bellevue, WA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Robotics - Software Development Engineer Intern/Co-op",
+        "source": "vanshb03",
+        "id": "3afa0d8c-0e35-4e81-8237-c9385920a417",
+        "date_posted": 1778311967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778311999,
+        "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us?no_int_redir=1",
+        "locations": [
+            "Sunnyvale, CA",
+            "Redmond, WA",
+            "Northridge, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, Amazon Leo",
+        "source": "vanshb03",
+        "id": "f706d605-732f-43b8-9208-f55bd7370284",
+        "date_posted": 1778311999,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312442,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeam Software",
+        "title": "Software Engineering Intern, Platform, Security & AI",
+        "source": "vanshb03",
+        "id": "6e774273-b1d2-40b1-9be7-02f49e4aafd8",
+        "date_posted": 1778312442,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312558,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeam Software",
+        "title": "Software Engineering Intern, Policy Engineering",
+        "source": "vanshb03",
+        "id": "ac03b5ba-a4b7-46cb-9584-489169070127",
+        "date_posted": 1778312558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778312578,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Developer Intern, Integration Platforms",
+        "source": "vanshb03",
+        "id": "a743ba28-6815-46b0-9192-d68c835f918e",
+        "date_posted": 1778312578,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313296,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Vehicle UI Development",
+        "source": "vanshb03",
+        "id": "cd8d84fc-f8ea-4370-ae76-d4d6aa75fe98",
+        "date_posted": 1778313296,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313299,
+        "url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Keys & Authentication",
+        "source": "vanshb03",
+        "id": "b7ad5b92-fa01-40ad-aeea-cc704789edaf",
+        "date_posted": 1778313299,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313304,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Navigation Validation",
+        "source": "vanshb03",
+        "id": "66255d25-16a2-4d86-b9f2-b8cba746694f",
+        "date_posted": 1778313304,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313307,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-update-systems-fall-2026-267002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Update Systems",
+        "source": "vanshb03",
+        "id": "2829b424-7176-4f4c-af90-3a1f330a7902",
+        "date_posted": 1778313307,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313319,
+        "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, AWS Data Services",
+        "source": "vanshb03",
+        "id": "0b37a993-7095-410c-8e61-c3b6fb80ca51",
+        "date_posted": 1778313319,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1778313324,
+        "url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8e3ac82d-ed8b-4b2c-a72a-f81c72943e72",
+        "date_posted": 1778313324,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
