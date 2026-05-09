@@ -37284,5 +37284,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1778324469,
+        "url": "https://www.workatastartup.com/jobs/94400",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Dedalus Labs",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "5e3b1829-382a-4d6d-bfc5-a9d7c42323a3",
+        "date_posted": 1778324469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324474,
+        "url": "https://www.workatastartup.com/jobs/94211",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "DimeHealth AI",
+        "title": "Forward Deployed Engineering Intern",
+        "source": "vanshb03",
+        "id": "7a75a616-e61d-470a-9a5a-073977fbb898",
+        "date_posted": 1778324474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324484,
+        "url": "https://www.workatastartup.com/jobs/94206",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Astronautics",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "3db09e2f-fe2b-464b-96d1-7bdd99d7c4d8",
+        "date_posted": 1778324484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778324488,
+        "url": "https://www.workatastartup.com/jobs/93642",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Paragon",
+        "title": "Forward Deployed Engineer (FDE) Intern",
+        "source": "vanshb03",
+        "id": "e38e962d-3f90-4159-9843-d76feda85a50",
+        "date_posted": 1778324488,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
