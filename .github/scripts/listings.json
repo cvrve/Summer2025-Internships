@@ -37352,5 +37352,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1778525954,
+        "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
+        "locations": [
+            "Los Angeles"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Technology, Inc.",
+        "title": "Software Engineering Intern, Embedded Systems",
+        "source": "vanshb03",
+        "id": "26f88c07-a2f8-49b8-9a79-5a4c8c540aa5",
+        "date_posted": 1778525954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778526048,
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Service Engineering",
+        "source": "vanshb03",
+        "id": "05b29a0e-a42b-46a9-bb3f-1aa15c38d42c",
+        "date_posted": 1778526048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
