@@ -37386,5 +37386,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1778576431,
+        "url": "https://job-boards.greenhouse.io/apptronik/jobs/5993905004?gh_jid=5993905004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apptronik",
+        "title": "Software Engineer Intern, ML Ops",
+        "source": "vanshb03",
+        "id": "7119c623-a62b-4890-b83f-8928e42e3288",
+        "date_posted": 1778576431,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778576437,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMO",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "e32f9906-604b-4675-a090-4a175e09bfd5",
+        "date_posted": 1778576437,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
