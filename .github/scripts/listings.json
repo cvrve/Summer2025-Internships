@@ -37420,5 +37420,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1778578530,
+        "url": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Platform Intelligence Intern",
+        "source": "vanshb03",
+        "id": "dc436321-255d-47c6-a34d-1082dec4ae93",
+        "date_posted": 1778578530,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778578533,
+        "url": "https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GoodRx",
+        "title": "AI Agent Developer Intern",
+        "source": "vanshb03",
+        "id": "a2dce597-620e-4dde-bddf-a1a9603a1f88",
+        "date_posted": 1778578533,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
