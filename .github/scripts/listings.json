@@ -37454,5 +37454,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1778578822,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Member Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d9e88310-a178-45b6-8254-cd51ef24581c",
+        "date_posted": 1778578822,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778578835,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WSP",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "65f57b05-3453-432e-8874-c22e99f13c8f",
+        "date_posted": 1778578835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
