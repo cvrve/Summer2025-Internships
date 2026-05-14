@@ -37488,5 +37488,75 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1778752839,
+        "url": "https://www.workatastartup.com/jobs/94620",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Trata",
+        "title": "Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "565fa359-8072-441c-92f5-84176260d817",
+        "date_posted": 1778752839,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778752850,
+        "url": "https://www.workatastartup.com/jobs/94631",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Terranox AI",
+        "title": "Summer Intern - AI/ML Engineering",
+        "source": "vanshb03",
+        "id": "a448ff8b-1718-4140-af05-4fa5548d82b1",
+        "date_posted": 1778752850,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778752853,
+        "url": "https://www.workatastartup.com/jobs/94634",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Abundant",
+        "title": "Software Engineering Intern, Research Focused",
+        "source": "vanshb03",
+        "id": "be8a32ae-5fd1-4286-9558-350522401001",
+        "date_posted": 1778752853,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778752855,
+        "url": "https://www.workatastartup.com/jobs/94647",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Naïve",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a1aa0c6-4cf5-4223-ba75-fae2a979699a",
+        "date_posted": 1778752855,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
