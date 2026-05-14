@@ -37558,5 +37558,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1778752945,
+        "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Nampa-Idaho/Summer-2026-Engineer-Intern--McCall---Pocatello--ID-_R0000007323",
+        "locations": [
+            "Nampa, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Granite Construction",
+        "title": "Summer 2026 Engineer Intern",
+        "source": "vanshb03",
+        "id": "18487b5d-77c6-4304-9fe3-f091d4a1245f",
+        "date_posted": 1778752945,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1778752952,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Systems Software Engineer Intern, Metropolis",
+        "source": "vanshb03",
+        "id": "fc6a9239-18b8-4ba6-9b77-6f1e75488e78",
+        "date_posted": 1778752952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
