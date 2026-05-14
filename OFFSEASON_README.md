@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| NVIDIA | Systems Software Engineer Intern, Metropolis | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
 | GoodRx | AI Agent Developer Intern | New York City, NY | <a href="https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 12 |
 | BMO | Machine Learning Intern | Chicago, IL | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 12 |
 | Tesla | Software Engineer Intern, Service Engineering | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 11 |
