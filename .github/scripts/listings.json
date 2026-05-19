@@ -37592,5 +37592,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1779203170,
+        "url": "https://www.workatastartup.com/jobs/95003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "StarSling",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bf0808d0-ffbf-49f0-b1a5-04214c6193f7",
+        "date_posted": 1779203170,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1779203174,
+        "url": "https://www.workatastartup.com/jobs/94993",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nash",
+        "title": "Full Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "18b7d350-1f9a-4ab2-ad4b-0027c482ff67",
+        "date_posted": 1779203174,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1779204617,
+        "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Podium",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7be94a3e-c745-4858-ad04-050d0af7e0d2",
+        "date_posted": 1779204617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1779204629,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Quantum Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "619838cc-092d-44fb-b948-0a6eb72a311b",
+        "date_posted": 1779204629,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
