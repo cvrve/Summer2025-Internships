@@ -2975,5 +2975,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779486118,
+        "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineering Intern, Masters",
+        "source": "vanshb03",
+        "id": "af728c56-641d-4f4e-9ae0-8adb5e9b2fef",
+        "date_posted": 1779486118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
