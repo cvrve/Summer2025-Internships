@@ -2788,5 +2788,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779485693,
+        "url": "https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "3235186c-eff9-4b7d-83fe-ab45c97ec224",
+        "date_posted": 1779485693,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
