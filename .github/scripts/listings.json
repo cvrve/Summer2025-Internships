@@ -2873,5 +2873,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779485843,
+        "url": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "Inference Intern, Architecture",
+        "source": "vanshb03",
+        "id": "d000bb56-6954-4bb9-880b-8f16698360f7",
+        "date_posted": 1779485843,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
