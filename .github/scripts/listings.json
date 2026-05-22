@@ -2907,5 +2907,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1779486020,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveRamp",
+        "title": "Software Engineer Intern, Pixel Serving",
+        "source": "vanshb03",
+        "id": "929e0724-f0e2-4afe-97ae-bd4f93437c7e",
+        "date_posted": 1779486020,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
