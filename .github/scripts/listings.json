@@ -2992,5 +2992,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779486282,
+        "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer Intern, Undergrad",
+        "source": "vanshb03",
+        "id": "327cf819-c7a4-4249-a175-28aba3d98638",
+        "date_posted": 1779486282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
