@@ -2703,5 +2703,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1779484585,
+        "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Trading System Engineering Intern",
+        "source": "vanshb03",
+        "id": "145fb048-0a45-44ab-930d-4317ee8797d1",
+        "date_posted": 1779484585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
