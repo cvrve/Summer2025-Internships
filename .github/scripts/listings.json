@@ -2839,5 +2839,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1779485825,
+        "url": "https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "Firmware Intern",
+        "source": "vanshb03",
+        "id": "346f8422-6e13-4ae7-9cfa-1e345f0c418c",
+        "date_posted": 1779485825,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
