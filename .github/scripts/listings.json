@@ -2737,5 +2737,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779485542,
+        "url": "https://jobs.ashbyhq.com/Etched/20f77518-1699-4184-ac8e-9fa2f614d6fb",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "Supercomputing Intern",
+        "source": "vanshb03",
+        "id": "4de97e32-605a-4de3-9488-de44eb5fc812",
+        "date_posted": 1779485542,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
