@@ -2890,5 +2890,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779486016,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Rocket Lab",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "2aee392e-00ea-4b91-85aa-632248af022a",
+        "date_posted": 1779486016,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
