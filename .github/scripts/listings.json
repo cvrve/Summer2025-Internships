@@ -2941,5 +2941,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779486107,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f9266a31-20f7-4a08-9607-c279786e68bc",
+        "date_posted": 1779486107,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
