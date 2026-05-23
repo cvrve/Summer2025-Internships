@@ -3009,5 +3009,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779501421,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge Investment Management",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "3f644cc1-b1f1-40cd-8910-1841cdcdee2e",
+        "date_posted": 1779501421,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
