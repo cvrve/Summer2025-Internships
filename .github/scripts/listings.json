@@ -3060,5 +3060,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1779504102,
+        "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cubist Systematic Strategies",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "5bd58bec-b6a9-4cbf-9590-2c8ea6db2432",
+        "date_posted": 1779504102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
