@@ -2465,13 +2465,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1778578530,
+        "date_updated": 1780490154,
         "url": "https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Platform Intelligence Intern",
         "source": "vanshb03",
