@@ -3167,5 +3167,22 @@
         "date_posted": 1783425885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783425923,
+        "url": "https://www.imc.com/us/careers/jobs/4823924101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "80f8fd77-fdad-4f63-8533-00c6e2d3f9a2",
+        "date_posted": 1783425923,
+        "company_url": "",
+        "is_visible": true
     }
 ]
