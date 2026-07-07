@@ -3218,5 +3218,22 @@
         "date_posted": 1783427123,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783427706,
+        "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DE Shaw",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "d9afb286-3ab9-41bd-bea3-d54207ec3a07",
+        "date_posted": 1783427706,
+        "company_url": "",
+        "is_visible": true
     }
 ]
