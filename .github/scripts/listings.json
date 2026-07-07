@@ -3077,5 +3077,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1783425669,
+        "url": "https://tower-research.com/open-positions/?gh_jid=8044334",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tower Research",
+        "title": "Quantitative Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "41ca28b6-8ea0-426d-913d-f69aa73ddc0c",
+        "date_posted": 1783425669,
+        "company_url": "",
+        "is_visible": true
     }
 ]
