@@ -3095,5 +3095,23 @@
         "date_posted": 1783425669,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783425735,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Product Development Internship Program",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "64b46b75-5ba5-4745-91d5-5ccc1109e63e",
+        "date_posted": 1783425735,
+        "company_url": "",
+        "is_visible": true
     }
 ]
