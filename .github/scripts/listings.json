@@ -3150,5 +3150,22 @@
         "date_posted": 1783425820,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783425885,
+        "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna Investment Group",
+        "title": "Quantitative Strategy Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "2cfe2e3b-2886-49fe-8dcb-868f6cf20150",
+        "date_posted": 1783425885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
