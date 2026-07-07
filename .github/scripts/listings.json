@@ -3257,5 +3257,22 @@
         "date_posted": 1783427800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783428054,
+        "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a067ab42-1f1c-43ce-af5a-93749ee307ca",
+        "date_posted": 1783428054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
