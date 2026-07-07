@@ -3184,5 +3184,22 @@
         "date_posted": 1783425923,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783426662,
+        "url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "07823e02-de3a-4a2e-8024-cfd38554f423",
+        "date_posted": 1783426662,
+        "company_url": "",
+        "is_visible": true
     }
 ]
