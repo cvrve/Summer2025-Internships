@@ -3133,5 +3133,22 @@
         "date_posted": 1783425771,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783425820,
+        "url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472",
+        "locations": [
+            "Mclean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Data Analyst Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "ee561d03-0a2f-4dc5-b2ef-c3dace7ea1d6",
+        "date_posted": 1783425820,
+        "company_url": "",
+        "is_visible": true
     }
 ]
