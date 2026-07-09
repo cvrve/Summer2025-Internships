@@ -1,4 +1,4 @@
-# Summer 2026 Tech Internships by Vansh & Ouckah
+# Summer 2027 Tech Internships by Vansh & Ouckah
 
 The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2027**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
 
