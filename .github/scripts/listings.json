@@ -2174,7 +2174,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778311999,
+        "date_updated": 1783638402,
         "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us?no_int_redir=1",
         "locations": [
             "Sunnyvale, CA",
@@ -2182,7 +2182,7 @@
             "Northridge, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Engineer Intern, Amazon Leo",
         "source": "vanshb03",
