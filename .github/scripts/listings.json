@@ -3309,5 +3309,22 @@
         "date_posted": 1783638143,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783638501,
+        "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7c6cb84c-1fcc-4634-b671-50e75e7dbcac",
+        "date_posted": 1783638501,
+        "company_url": "",
+        "is_visible": true
     }
 ]
