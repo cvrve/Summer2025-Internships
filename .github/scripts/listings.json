@@ -3291,5 +3291,23 @@
         "date_posted": 1783638043,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783638143,
+        "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "5d9a43f8-7e38-40ad-8d88-41ac71297a4f",
+        "date_posted": 1783638143,
+        "company_url": "",
+        "is_visible": true
     }
 ]
