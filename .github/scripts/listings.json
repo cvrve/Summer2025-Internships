@@ -3274,5 +3274,22 @@
         "date_posted": 1783428054,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783638043,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
+        "locations": [
+            "San Mateo, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rakuten International",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "Rikkayyy",
+        "id": "502349f4-deb0-4f53-b0ba-4d095bfce02a",
+        "date_posted": 1783638043,
+        "company_url": "",
+        "is_visible": true
     }
 ]
