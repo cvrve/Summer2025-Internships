@@ -3343,5 +3343,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1783638621,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Performance Engineer Intern, Systems Software",
+        "source": "vanshb03",
+        "id": "94708b11-2a87-4fad-a88c-c6aa462158d2",
+        "date_posted": 1783638621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
