@@ -1561,13 +1561,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776894261,
+        "date_updated": 1783642756,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006?jr_id=69e82790e0cd471b2f12fc60",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Embedded Software Intern",
         "source": "vanshb03",
@@ -1733,13 +1733,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1777071148,
+        "date_updated": 1783642756,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Frontend Software Engineer Intern",
         "source": "vanshb03",
@@ -1750,13 +1750,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1777071153,
+        "date_updated": 1783642756,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5099596007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -1767,13 +1767,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1777071158,
+        "date_updated": 1783642757,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "Backend Software Engineer Intern",
         "source": "vanshb03",
@@ -1869,13 +1869,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1777084458,
+        "date_updated": 1783642756,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/5117760007",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Verkada",
         "title": "AI Software Engineer Intern",
         "source": "vanshb03",
