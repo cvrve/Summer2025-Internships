@@ -3360,5 +3360,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1783642646,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amgen",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "413c4ddb-6cef-4485-8fa1-7f32b85aeb2e",
+        "date_posted": 1783642646,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
