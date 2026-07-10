@@ -3446,5 +3446,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1783642975,
+        "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jump Trading",
+        "title": "Campus Systems Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "03443f37-7b10-4753-8828-2d9bcc2e4f2d",
+        "date_posted": 1783642975,
+        "company_url": "",
+        "is_visible": true
     }
 ]
