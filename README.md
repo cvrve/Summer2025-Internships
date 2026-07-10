@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Rakuten International | Software Engineer Intern | San Mateo, California | <a href="https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
+| Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/hr/job?gh_jid=8003019&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Jump Trading | Software Engineer Intern | Chicago, IL | <a href="https://www.jumptrading.com/hr/job?gh_jid=8002989&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | ↳ | Quantitative Trader Intern | Chicago, IL</br>New York, NY | <a href="https://www.jumptrading.com/hr/job?gh_jid=7848371&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Tower Research | Quantitative Developer Intern | Chicago, IL</br>New York, NY | <a href="https://tower-research.com/open-positions/?gh_jid=8044334&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
