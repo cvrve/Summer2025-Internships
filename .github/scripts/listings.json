@@ -3429,5 +3429,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1783642670,
+        "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VITAL LYFE",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "70a41d94-ef6b-45b2-a99b-13880f6679ee",
+        "date_posted": 1783642670,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
