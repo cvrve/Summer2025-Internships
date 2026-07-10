@@ -3394,5 +3394,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1783642656,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
+        "locations": [
+            "Alpharetta, GA",
+            "Lombard, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Application Engineering Intern",
+        "source": "vanshb03",
+        "id": "ffd02117-6e1f-46af-837a-270cbfbb64af",
+        "date_posted": 1783642656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
