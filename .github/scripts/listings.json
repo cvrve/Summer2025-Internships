@@ -3412,5 +3412,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1783642660,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4cbce0ea-5dd0-4ad2-a871-b11689edebf4",
+        "date_posted": 1783642660,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
