@@ -3326,5 +3326,22 @@
         "date_posted": 1783638501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1783638615,
+        "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Jump Trading Group",
+        "title": "Campus UI Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6f2fd56d-e37c-42ba-8d10-d0d152a365f7",
+        "date_posted": 1783638615,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
