@@ -82,7 +82,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Terranox AI | Summer Intern - AI/ML Engineering 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/94631?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
 | Naïve | Software Engineer Intern 🇺🇸 | San Francisco, CA</br>Remote | <a href="https://www.workatastartup.com/jobs/94647?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
 | Abundant | Software Engineering Intern, Research Focused 🇺🇸 | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/94634?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 14 |
-| Zoox | Platform Intelligence Intern | Foster City, CA | <a href="https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 12 |
 | WSP | Software Developer Intern | Dallas, TX | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 12 |
 | Apex Technology, Inc. | Software Engineering Intern, Embedded Systems | Los Angeles | <a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 11 |
 | Veeam Software | Software Engineering Intern, Policy Engineering | San Jose, CA | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
@@ -110,6 +109,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quantitative Researcher Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | ↳ | Quantitative Developer Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | Granite Construction | Summer 2026 Engineer Intern | Nampa, ID | 🔒 | May 14 |
+| Zoox | Platform Intelligence Intern | Foster City, CA | 🔒 | May 12 |
 | Member Solutions | Software Engineering Intern | Remote | 🔒 | May 12 |
 | Apptronik | Software Engineer Intern, ML Ops | Austin, TX | 🔒 | May 12 |
 | Amazon | Software Development Engineer Intern, Amazon Leo 🇺🇸 | Sunnyvale, CA</br>Redmond, WA</br>Northridge, CA | 🔒 | May 09 |
