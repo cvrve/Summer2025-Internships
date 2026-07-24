@@ -4634,5 +4634,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784884047,
+        "url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Development & Strategy Intern",
+        "source": "vanshb03",
+        "id": "2f65bb66-a69c-4a85-8d11-e8d64d862bc2",
+        "date_posted": 1784884047,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
