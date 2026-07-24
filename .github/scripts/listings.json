@@ -4651,5 +4651,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784884053,
+        "url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Research Intern",
+        "source": "vanshb03",
+        "id": "1388d27b-abcf-4c16-8467-f5f2b7b8b950",
+        "date_posted": 1784884053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
