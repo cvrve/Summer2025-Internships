@@ -3543,5 +3543,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784878899,
+        "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netic",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "380a517f-7ba1-4690-8922-d3ca051358f2",
+        "date_posted": 1784878899,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
