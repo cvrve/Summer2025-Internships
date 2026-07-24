@@ -3560,5 +3560,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1784878908,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "4b8ca79c-b960-40bb-91f5-635de8e52635",
+        "date_posted": 1784878908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
