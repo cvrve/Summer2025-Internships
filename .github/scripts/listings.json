@@ -3526,5 +3526,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784878893,
+        "url": "https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Localization Specialist Intern",
+        "source": "vanshb03",
+        "id": "d11b6c02-9ef6-40fb-8d73-7078cd221716",
+        "date_posted": 1784878893,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
