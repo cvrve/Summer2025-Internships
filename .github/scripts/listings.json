@@ -3698,5 +3698,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878958,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Intern",
+        "source": "vanshb03",
+        "id": "d06229af-044b-4327-ad8c-30be762c38cd",
+        "date_posted": 1784878958,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
