@@ -3749,5 +3749,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879087,
+        "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ShyftLabs",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "e9084a49-45a2-4146-bfb0-4c692703ecde",
+        "date_posted": 1784879087,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
