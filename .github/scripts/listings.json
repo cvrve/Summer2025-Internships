@@ -4532,5 +4532,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784882350,
+        "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Production Infrastructure",
+        "source": "vanshb03",
+        "id": "75f28f5a-4ac9-4bab-894f-4175ba430e77",
+        "date_posted": 1784882350,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
