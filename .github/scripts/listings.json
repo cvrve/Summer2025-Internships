@@ -4600,5 +4600,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784883371,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walleye Capital",
+        "title": "Equity Volatility Quant Researcher Intern",
+        "source": "vanshb03",
+        "id": "b9d13223-3ff9-4677-921d-cb82fa398158",
+        "date_posted": 1784883371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
