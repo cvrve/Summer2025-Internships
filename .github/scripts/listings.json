@@ -4668,5 +4668,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784884093,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Quantitative Trader Intern",
+        "source": "vanshb03",
+        "id": "e57189fc-b978-4fdc-a220-0fbcda433718",
+        "date_posted": 1784884093,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
