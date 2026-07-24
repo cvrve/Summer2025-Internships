@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TransMarket Group | DevOps/SRE Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Tesla | Localization Specialist Intern | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | SpreeAI | Mobile Software Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern, AI Infrastructure / Training / Inference | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
