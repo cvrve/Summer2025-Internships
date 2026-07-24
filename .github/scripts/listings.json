@@ -4719,5 +4719,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784884977,
+        "url": "https://www.imc.com/us/careers/jobs/4907400101",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Research Intern (PHD)",
+        "source": "vanshb03",
+        "id": "520c760c-986a-4f06-9aba-4d2b3a17537c",
+        "date_posted": 1784884977,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
