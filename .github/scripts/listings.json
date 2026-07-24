@@ -4277,5 +4277,22 @@
         "date_posted": 1784882147,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1784882282,
+        "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Forward Deployed Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "a7abcc46-052a-42b3-a1b9-4ebc6d07ecb3",
+        "date_posted": 1784882282,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
