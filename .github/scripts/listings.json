@@ -4770,5 +4770,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784916684,
+        "url": "https://careers.appian.com/jobs/8041243-product-manager-intern-",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Appian",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "1a10ea70-7d94-49ca-9c63-d6cd5dcdfdb1",
+        "date_posted": 1784916684,
+        "company_url": "",
+        "is_visible": true
     }
 ]
