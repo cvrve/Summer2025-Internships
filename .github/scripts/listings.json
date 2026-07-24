@@ -4617,5 +4617,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784883374,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walleye Capital",
+        "title": "Investment Data Science Intern",
+        "source": "vanshb03",
+        "id": "46a9b33c-0918-4965-b8d6-e861a5c6a372",
+        "date_posted": 1784883374,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
