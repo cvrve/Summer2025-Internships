@@ -3732,5 +3732,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879075,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineer Intern, Fleet Health Instrumentation",
+        "source": "vanshb03",
+        "id": "8b1809f4-f589-4ac0-954f-daec0e2f1f37",
+        "date_posted": 1784879075,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
