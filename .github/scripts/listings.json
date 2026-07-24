@@ -3594,5 +3594,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878917,
+        "url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "155999af-8a99-47c2-8979-8c419c71ebbf",
+        "date_posted": 1784878917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
