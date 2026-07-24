@@ -3662,5 +3662,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878929,
+        "url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern, C# .NET Desktop",
+        "source": "vanshb03",
+        "id": "a2a0252c-cef2-4e59-bd6c-40f63824ab65",
+        "date_posted": 1784878929,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
