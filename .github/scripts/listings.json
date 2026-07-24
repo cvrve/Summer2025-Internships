@@ -3715,5 +3715,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784879071,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Later",
+        "title": "Software Development Co-op",
+        "source": "vanshb03",
+        "id": "bd3245ad-1721-415e-ad1d-c46bb3b68807",
+        "date_posted": 1784879071,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
