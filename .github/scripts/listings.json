@@ -4413,5 +4413,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784882314,
+        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "62ec68a4-2c66-4687-b3ba-018b1caa6437",
+        "date_posted": 1784882314,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
