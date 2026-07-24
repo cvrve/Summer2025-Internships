@@ -4430,5 +4430,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784882318,
+        "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "def1cdde-d5df-4c40-93e0-d17693c324cc",
+        "date_posted": 1784882318,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
