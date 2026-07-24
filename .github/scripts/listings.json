@@ -4702,5 +4702,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784884849,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Old Mission",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "194a9d5d-1360-4253-bf77-8c6d58801e48",
+        "date_posted": 1784884849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
