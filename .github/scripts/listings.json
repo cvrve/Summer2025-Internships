@@ -3902,5 +3902,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784881161,
+        "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Radix Trading",
+        "title": "Quantitative Technologist Intern, C++",
+        "season": "Summer",
+        "source": "katie0014",
+        "id": "f43b4694-cfbc-460d-bd8b-c7a99214ad95",
+        "date_posted": 1784881161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
