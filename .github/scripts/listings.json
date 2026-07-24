@@ -3645,5 +3645,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878926,
+        "url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern, Full Stack Web",
+        "source": "vanshb03",
+        "id": "edb9ce9b-f37c-4252-838f-c4a4111fab95",
+        "date_posted": 1784878926,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
