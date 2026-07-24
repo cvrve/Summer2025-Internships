@@ -3783,5 +3783,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879097,
+        "url": "https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpreeAI",
+        "title": "Mobile Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0930f14d-38f7-4257-a5cc-36bb622462d1",
+        "date_posted": 1784879097,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
