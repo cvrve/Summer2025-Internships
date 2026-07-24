@@ -3817,5 +3817,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879109,
+        "url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NeoSigma",
+        "title": "Member of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "6d5d5617-45c7-4284-9e9b-12007059a498",
+        "date_posted": 1784879109,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
