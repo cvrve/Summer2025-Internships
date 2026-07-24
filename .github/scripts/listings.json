@@ -3834,5 +3834,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879113,
+        "url": "https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mobius Renewables",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "97b0cba0-dd39-418f-ad24-32e4f39d8f32",
+        "date_posted": 1784879113,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
