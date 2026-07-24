@@ -3919,5 +3919,23 @@
         "date_posted": 1784881161,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1784881730,
+        "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Deepgram",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "ChristianHirschey",
+        "id": "9d6696b7-37a8-4591-bd0c-3188d7029a5c",
+        "date_posted": 1784881730,
+        "company_url": "",
+        "is_visible": true
     }
 ]
