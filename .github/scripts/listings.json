@@ -3679,5 +3679,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878933,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d141c64b-9fdf-4d81-9216-84b5898e46d5",
+        "date_posted": 1784878933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
