@@ -4753,5 +4753,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784885006,
+        "url": "https://www.imc.com/us/careers/jobs/4823945101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Hardware Engineer Intern",
+        "source": "vanshb03",
+        "id": "f54eae4a-2d0d-4122-99d8-ed17feddf8c8",
+        "date_posted": 1784885006,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
