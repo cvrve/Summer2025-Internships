@@ -4209,5 +4209,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784881857,
+        "url": "https://www.janestreet.com/join-jane-street/position/8621450002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Trading Desk Operations Engineer Intern",
+        "source": "vanshb03",
+        "id": "0484ebb0-7ca8-4df1-80e7-235738d4c3dc",
+        "date_posted": 1784881857,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
