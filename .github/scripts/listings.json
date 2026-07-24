@@ -3628,5 +3628,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878923,
+        "url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Python Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5e47efa2-4159-44df-abf1-0fec93cb6b76",
+        "date_posted": 1784878923,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
