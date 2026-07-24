@@ -3509,5 +3509,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878764,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Software Engineer Intern, Enterprise Systems",
+        "source": "vanshb03",
+        "id": "6e65fab0-601b-478c-bd23-296d687da4d3",
+        "date_posted": 1784878764,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
