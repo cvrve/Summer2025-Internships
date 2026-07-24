@@ -3766,5 +3766,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784879091,
+        "url": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "SPREEAI",
+        "title": "Software Engineer Intern, AI Infrastructure / Training / Inference",
+        "source": "vanshb03",
+        "id": "6ef0f727-caa3-42c0-b39e-34cc7dd572f8",
+        "date_posted": 1784879091,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
