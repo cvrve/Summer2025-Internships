@@ -3611,5 +3611,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878920,
+        "url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Hardware Engineer Intern",
+        "source": "vanshb03",
+        "id": "fa59ddd3-89e0-4cf9-92cb-d81845723939",
+        "date_posted": 1784878920,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
