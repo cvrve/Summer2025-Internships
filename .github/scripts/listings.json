@@ -4056,5 +4056,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784881814,
+        "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Machine Learning Researcher Intern",
+        "source": "vanshb03",
+        "id": "9614e1a9-8e62-4e79-b979-0125c1fbaec7",
+        "date_posted": 1784881814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
