@@ -1784,13 +1784,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1777084402,
+        "date_updated": 1784881416,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern, JAX",
         "source": "vanshb03",
@@ -2024,14 +2024,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777480877,
+        "date_updated": 1784881419,
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
         "locations": [
             "Hillsboro, OR",
             "Folsom, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "AI Software Engineering Intern",
         "season": "Fall",
@@ -2042,7 +2042,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778311144,
+        "date_updated": 1784881422,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
         "locations": [
             "San Francisco, CA",
@@ -2052,7 +2052,7 @@
             "Burlington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Software Engineer Intern(Futureforce Summer 2027)",
         "source": "vanshb03",
@@ -2448,13 +2448,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778576437,
+        "date_updated": 1784881425,
         "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BMO",
         "title": "Machine Learning Intern",
         "source": "vanshb03",
@@ -2688,13 +2688,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779204629,
+        "date_updated": 1784881428,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Quantum Research Scientist Intern",
         "source": "vanshb03",
@@ -2909,13 +2909,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1779486020,
+        "date_updated": 1784881431,
         "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LiveRamp",
         "title": "Software Engineer Intern, Pixel Serving",
         "source": "vanshb03",
@@ -2926,13 +2926,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779486105,
+        "date_updated": 1784881433,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714",
         "locations": [
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -2943,13 +2943,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779486107,
+        "date_updated": 1784881436,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721",
         "locations": [
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -2960,13 +2960,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779486110,
+        "date_updated": 1784881438,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707",
         "locations": [
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -3097,14 +3097,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783425735,
+        "date_updated": 1784881441,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
         "locations": [
             "Mclean, VA",
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Product Development Internship Program",
         "season": "Summer",
@@ -3282,7 +3282,7 @@
             "San Mateo, California"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rakuten International",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -3379,13 +3379,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1783642651,
+        "date_updated": 1784881448,
         "url": "https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Datasite",
         "title": "Forward Deployed Engineer Intern",
         "source": "vanshb03",
@@ -3414,13 +3414,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1783642660,
+        "date_updated": 1784881454,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
         "locations": [
             "Jessup, MD"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
