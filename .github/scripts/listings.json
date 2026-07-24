@@ -3577,5 +3577,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784878914,
+        "url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer Intern, C++",
+        "source": "vanshb03",
+        "id": "d6cc616f-fce5-49e4-8bc9-86c7aa74213f",
+        "date_posted": 1784878914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
