@@ -4515,5 +4515,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1784882344,
+        "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Infrastructure",
+        "source": "vanshb03",
+        "id": "7df0afda-c7d5-4b89-ae2e-d90be7286f68",
+        "date_posted": 1784882344,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
