@@ -3937,5 +3937,22 @@
         "date_posted": 1784881730,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1784880677,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bc3f3e20-e320-44eb-8cc0-534519cb91c5",
+        "date_posted": 1784880677,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
