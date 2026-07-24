@@ -4005,5 +4005,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1784881800,
+        "url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Quantitative Trader Intern",
+        "source": "vanshb03",
+        "id": "da4804e5-799e-4dad-9c6f-b29d6ab45cc2",
+        "date_posted": 1784881800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
