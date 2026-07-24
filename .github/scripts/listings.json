@@ -3988,5 +3988,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1784880696,
+        "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netic",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "4088bfd2-a590-47cc-b01f-84cfb13e767a",
+        "date_posted": 1784880696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
