@@ -4481,5 +4481,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1784882336,
+        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Defense Tech",
+        "source": "vanshb03",
+        "id": "627e89a9-d3c2-49e9-8c6e-5757d9dc5fb9",
+        "date_posted": 1784882336,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
