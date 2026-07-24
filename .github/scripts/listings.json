@@ -3971,5 +3971,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1784880689,
+        "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netic",
+        "title": "Full-Stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a8b122cc-6088-4dbe-b7cf-2d34262b0b49",
+        "date_posted": 1784880689,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
