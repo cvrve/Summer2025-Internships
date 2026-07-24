@@ -2671,13 +2671,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779204617,
+        "date_updated": 1784878506,
         "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Podium",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -2892,13 +2892,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779486016,
+        "date_updated": 1784878506,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
         "locations": [
             "Albuquerque, NM"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Rocket Lab",
         "title": "Software Intern",
         "source": "vanshb03",
