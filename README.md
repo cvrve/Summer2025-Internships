@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Northrop Grumman | Software Engineer Intern | Melbourne, FL | <a href="https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 25 |
 | Walleye Capital | Investment Data Science Intern | New York, NY | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Equity Volatility Quant Researcher Intern | Miami, FL | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Technology Intern | New York, NY | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |

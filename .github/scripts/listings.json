@@ -4804,5 +4804,22 @@
         "date_posted": 1784916800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785007755,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "DereC4",
+        "id": "3043f9a3-7ac2-4a59-aa99-61477f65c55b",
+        "date_posted": 1785007755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
