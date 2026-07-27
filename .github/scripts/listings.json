@@ -5250,5 +5250,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785180797,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Architecture AI Co-op",
+        "source": "vanshb03",
+        "id": "18d446de-d816-4a3b-a9ba-f5da1195047b",
+        "date_posted": 1785180797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
