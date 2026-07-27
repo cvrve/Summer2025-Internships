@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Intel Corporation | AI Software Engineering PhD Intern | Hillsboro, OR | <a href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| Appian | Information Security Engineer Intern 🛂 | McLean, VA | <a href="https://job-boards.greenhouse.io/appian/jobs/8088496?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Virtu Financial | Software Engineer Intern | Austin, TX</br>New York | <a href="https://job-boards.greenhouse.io/virtu/jobs/8624410002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Virtu | Quantitative Trading Intern | Austin, TX</br>Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/virtu/jobs/8624408002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | <a href="https://job-boards.greenhouse.io/scm/jobs/721895?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
