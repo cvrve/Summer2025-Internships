@@ -5199,5 +5199,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785180762,
+        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Mosaic Company",
+        "title": "Cybersecurity Co-Op/Intern",
+        "source": "vanshb03",
+        "id": "97da7bda-802d-4358-b95a-1980667d5441",
+        "date_posted": 1785180762,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
