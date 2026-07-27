@@ -5267,5 +5267,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785180800,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "Agentic AI Intern",
+        "source": "vanshb03",
+        "id": "ee0d6dd8-c399-4874-965a-5eb9a7006c29",
+        "date_posted": 1785180800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
