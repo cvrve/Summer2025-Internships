@@ -5062,5 +5062,90 @@
         "date_posted": 1785129703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785147483,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "94c066cb-7a39-42ea-b93a-278ec82a0fba",
+        "date_posted": 1785147483,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785147487,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "Project Management & AI Automation Intern",
+        "source": "vanshb03",
+        "id": "3c08dcce-eb6e-488a-b65c-0d28d616fca1",
+        "date_posted": 1785147487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785147492,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "Agentic Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3fd7a6f2-433d-466a-a4c3-932a3a905fe0",
+        "date_posted": 1785147492,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785147499,
+        "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Core & Main",
+        "title": "AI/ML Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "42d795b7-ff8e-457a-9d85-632e33a49593",
+        "date_posted": 1785147499,
+        "company_url": "",
+        "is_visible": true,
+        "season": null
+    },
+    {
+        "date_updated": 1785147502,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Robert Bosch LLC",
+        "title": "Software Engineer Intern, Autonomous Driving",
+        "source": "vanshb03",
+        "id": "e7805292-5034-4597-ae35-8d01de630c0c",
+        "date_posted": 1785147502,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
