@@ -5182,5 +5182,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785180712,
+        "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GRITT ROBOTICS INC",
+        "title": "ML & Cloud Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "fcc33c5d-81c1-4afd-94e9-6d6646affeba",
+        "date_posted": 1785180712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
