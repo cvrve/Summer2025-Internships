@@ -5233,5 +5233,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785180794,
+        "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Intel Corporation",
+        "title": "AI Software Engineering PhD Intern",
+        "source": "vanshb03",
+        "id": "14d2f761-5544-4430-96fd-760ab3b53b2a",
+        "date_posted": 1785180794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
