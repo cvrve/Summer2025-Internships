@@ -5045,5 +5045,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785129703,
+        "url": "https://job-boards.greenhouse.io/scm/jobs/721895",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stevens Capital Management",
+        "title": "Quantitative Research Analyst Internship",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b0944d26-53d0-412d-a5f5-146e82e3e29d",
+        "date_posted": 1785129703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
