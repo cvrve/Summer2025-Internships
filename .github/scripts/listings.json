@@ -5130,5 +5130,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785161049,
+        "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Atomic Semi",
+        "title": "Software Engineer Intern, Chip Design Tools",
+        "source": "vanshb03",
+        "id": "8c00c554-8575-403a-879e-18b1d7ee0ce3",
+        "date_posted": 1785161049,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
