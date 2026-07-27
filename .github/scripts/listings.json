@@ -4821,5 +4821,229 @@
         "date_posted": 1785007755,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785124648,
+        "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PDT Partners",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a2f1a704-2ce0-4f89-abbb-6a783383b1fa",
+        "date_posted": 1785124648,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124659,
+        "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadrillion Labs",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bed160fc-23f7-474e-8720-7a84be2521a9",
+        "date_posted": 1785124659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124669,
+        "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Anthelion Capital",
+        "title": "Quant Developer / Quant Research Intern",
+        "source": "vanshb03",
+        "id": "f1171acb-b43c-460e-bbdf-ae21af04f68c",
+        "date_posted": 1785124669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785124675,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Appian",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a60271ea-7078-4054-8e37-a8781826a8dd",
+        "date_posted": 1785124675,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124679,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Software Engineering Intern, Power Modeling & AI Tools",
+        "source": "vanshb03",
+        "id": "68201ad5-0623-48af-aead-b982c4eab504",
+        "date_posted": 1785124679,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785124692,
+        "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pony.ai",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "18407a46-9633-4ef5-8c21-c8e8c924a51d",
+        "date_posted": 1785124692,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785124697,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "088d0c0f-0e47-4bd0-944e-1b85da04c393",
+        "date_posted": 1785124697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785124708,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+        "locations": [
+            "Austin, TX",
+            "New York"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virtu Financial",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "96cc5998-c8cc-40eb-a815-7ae9739af769",
+        "date_posted": 1785124708,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124718,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virtu",
+        "title": "Quantitative Trading Intern",
+        "source": "vanshb03",
+        "id": "28be5b3d-d4a6-4a6f-8f9a-66e5f8e93a62",
+        "date_posted": 1785124718,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124738,
+        "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pony.ai",
+        "title": "Research Intern - Deep Learning",
+        "source": "vanshb03",
+        "id": "e64f6802-73e9-4da0-9d50-c2b85a8403bd",
+        "date_posted": 1785124738,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785124742,
+        "url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hirevue Inc",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "7f55ee80-4023-47e5-b0f8-5f581d374e1a",
+        "date_posted": 1785124742,
+        "company_url": "",
+        "is_visible": true,
+        "season": "null"
+    },
+    {
+        "date_updated": 1785124745,
+        "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HyperLight",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2fd30eaf-8918-48b4-9fab-e967b4af65fd",
+        "date_posted": 1785124745,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785124772,
+        "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
+        "locations": [
+            "Virginia Beach, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sentara Health",
+        "title": "Data & AI Finance Strategy Intern",
+        "source": "vanshb03",
+        "id": "a2797995-7280-48d1-a24c-d7980dc01078",
+        "date_posted": 1785124772,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
