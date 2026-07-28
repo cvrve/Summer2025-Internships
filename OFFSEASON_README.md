@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Touchdown Labs | Member of Technical Staff Intern | San Francisco, CA | <a href="https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Toshiba Commerce Solutions | Agentic Software Engineering Intern 🛂 | Durham, NC | <a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | Project Management & AI Automation Intern 🛂 | Frisco, TX | <a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | ↳ | AI Engineering Intern 🛂 | Frisco, TX | <a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
