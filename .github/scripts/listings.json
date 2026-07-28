@@ -5403,5 +5403,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785254061,
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Rendezvous Robotics",
+        "title": "Software Engineering Intern, Spring 2027",
+        "source": "vanshb03",
+        "id": "54743b8f-2366-4655-a083-483baf96593c",
+        "date_posted": 1785254061,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
