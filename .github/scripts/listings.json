@@ -4789,13 +4789,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785007755,
+        "date_updated": 1785252404,
         "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -5235,13 +5235,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785180794,
+        "date_updated": 1785252419,
         "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
         "locations": [
             "Hillsboro, OR"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Intel Corporation",
         "title": "AI Software Engineering PhD Intern",
         "source": "vanshb03",
