@@ -5420,5 +5420,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1785260118,
+        "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nightwing",
+        "title": "Software / Hardware Engineering Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "c6978d45-2433-4aa5-ad00-1fe6380c0c47",
+        "date_posted": 1785260118,
+        "company_url": "",
+        "is_visible": true
     }
 ]
