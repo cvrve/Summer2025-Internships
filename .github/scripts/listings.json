@@ -5369,5 +5369,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785253863,
+        "url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apptronik",
+        "title": "Software Engineer Intern, ML Systems",
+        "source": "vanshb03",
+        "id": "87008b8b-0df3-4e30-92d0-be13810ff9fe",
+        "date_posted": 1785253863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
