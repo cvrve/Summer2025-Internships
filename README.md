@@ -152,7 +152,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Intercontinental Exchange, Inc. | Artificial Intelligence, Data & Machine Learning Intern | New York, NY | <a href="https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Fiserv | Application Development Intern 🛂 | Alpharetta, GA | <a href="https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Technology Intern 🛂 | Columbus, OH | <a href="https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
-| Avanade | Software Engineering Intern | Los Angeles, CA</br>Seattle, WA | <a href="https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Point72 | Investment Analyst Intern, Point72 Academy | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details> | <a href="https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | ↳ | Quantitative Researcher Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | ↳ | Quantitative Developer Intern | New York, NY | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
@@ -190,6 +189,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SK Hynix Memory Solution | Product Application Engineer Intern | San Jose, CA | 🔒 | Apr 22 |
 | General Dynamics Mission Systems, Inc. | Software Engineer Intern 🇺🇸 | Pittsburgh, PA | 🔒 | Apr 20 |
 | ↳ | Software Engineer Intern 🇺🇸 | Pittsburgh, PA | 🔒 | Apr 20 |
+| Avanade | Software Engineering Intern | Los Angeles, CA</br>Seattle, WA | 🔒 | Apr 20 |
 | ABC News | Product Management and Engineering Intern | New York, NY | 🔒 | Apr 20 |
 | Northspyre | AI Engineer Intern | Atlanta, GA | 🔒 | Apr 19 |
 | ABC Fitness | Software Engineer Intern 🛂 | Frisco, TX | 🔒 | Apr 19 |
