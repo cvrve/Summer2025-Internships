@@ -1297,13 +1297,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776727199,
+        "date_updated": 1785395311,
         "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABC News",
         "title": "Product Management and Engineering Intern",
         "source": "vanshb03",
