@@ -5437,5 +5437,22 @@
         "date_posted": 1785260118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785449184,
+        "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
+        "locations": [
+            "Albany, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a02b12ad-98b2-4614-9f9f-9cbe081d9f24",
+        "date_posted": 1785449184,
+        "company_url": "",
+        "is_visible": true
     }
 ]
