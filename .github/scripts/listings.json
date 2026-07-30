@@ -1263,13 +1263,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776726863,
+        "date_updated": 1785422147,
         "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Hermeus",
         "title": "Modeling & Simulation Software Engineering Intern",
         "source": "vanshb03",
@@ -3870,13 +3870,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784879147,
+        "date_updated": 1785422181,
         "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Copart",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -3922,13 +3922,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1784880677,
+        "date_updated": 1785422183,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schweitzer Engineering Laboratories",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -4908,13 +4908,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785124697,
+        "date_updated": 1785422186,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
         "locations": [
             "Buffalo, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Moog",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
