@@ -65,7 +65,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sentara Health | Data & AI Finance Strategy Intern | Virginia Beach, VA | <a href="https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Pony.ai | Research Intern - Deep Learning | Fremont, CA | <a href="https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | ↳ | Software Engineer Intern | Fremont, CA | <a href="https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
-| Moog | Software Engineer Intern | Buffalo, NY | <a href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Hirevue Inc | Data Science Intern | Remote | <a href="https://jobs.smartrecruiters.com/HireVue/744000138728139?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Anthelion Capital | Quant Developer / Quant Research Intern 🇺🇸 | New York City, NY | <a href="https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | TransMarket Group | DevOps/SRE Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -129,7 +128,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://www.pathai.com/career/job-post?gh_jid=8202342002&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | NBCUniversal | Software Engineering Intern 🛂 | New York, NY | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineering Intern 🛂 | Universal City, CA | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
-| Hermeus | Modeling & Simulation Software Engineering Intern 🇺🇸 | Los Angeles, CA | <a href="https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Electronic Arts | Software Engineer Intern 🛂 | Vancouver, Canada | <a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | EdgeTrace | AI Full-Stack Engineering Intern | San Mateo, CA | <a href="https://www.workatastartup.com/jobs/86239?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | Sixtyfour (X25) | Full-Stack Software Engineering Intern | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/85257?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -172,6 +170,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rippling | Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Machine Learning Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
+| Moog | Software Engineer Intern | Buffalo, NY | 🔒 | Jul 26 |
 | Palantir Technologies | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | Washington, D.C. | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | New York, NY | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA | 🔒 | Jul 24 |
@@ -190,6 +189,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Software Engineering Intern, JAX | Santa Clara, CA | 🔒 | Apr 24 |
 | NVIDIA | Software Engineer Intern, Robot Learning Platform | Santa Clara, CA | 🔒 | Apr 22 |
 | Figure | Embedded Software Intern | San Jose, CA | 🔒 | Apr 22 |
+| Hermeus | Modeling & Simulation Software Engineering Intern 🇺🇸 | Los Angeles, CA | 🔒 | Apr 20 |
 | Cartesian | Software Engineering Intern | Cambridge, MA | 🔒 | Apr 20 |
 | Five Rings | Quantitative Trader Intern | New York, NY | 🔒 | Feb 19 |
 | Podium | Product Management Intern | Lehi, UT | 🔒 | Jan 10 |
