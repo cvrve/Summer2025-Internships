@@ -5454,5 +5454,22 @@
         "date_posted": 1785449184,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785449227,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virtu Financial",
+        "title": "Frontend & User Experience Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "4b39cb32-9528-407a-a747-cd099b419e7f",
+        "date_posted": 1785449227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
