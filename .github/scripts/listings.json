@@ -5471,5 +5471,23 @@
         "date_posted": 1785449227,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785516133,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
+        "locations": [
+            "Stamford, CT",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Full-Stack Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f1b97127-97a2-4392-9ed1-daf8b1b33d42",
+        "date_posted": 1785516133,
+        "company_url": "",
+        "is_visible": true
     }
 ]
