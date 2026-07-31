@@ -5692,5 +5692,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785516753,
+        "url": "https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Embedded Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "b2ac92ca-6eb1-46f1-9b80-cc6541e59b8f",
+        "date_posted": 1785516753,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785516765,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineer Intern, Embedded Platforms",
+        "source": "vanshb03",
+        "id": "515fddf8-0310-463b-9688-e0b712daa48e",
+        "date_posted": 1785516765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
