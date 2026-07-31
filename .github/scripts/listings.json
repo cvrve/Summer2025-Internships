@@ -5064,13 +5064,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785147487,
+        "date_updated": 1785529691,
         "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
         "locations": [
             "Frisco, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "Project Management & AI Automation Intern",
         "source": "vanshb03",
@@ -5081,13 +5081,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785147492,
+        "date_updated": 1785529691,
         "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
         "locations": [
             "Durham, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "Agentic Software Engineering Intern",
         "source": "vanshb03",
@@ -5371,13 +5371,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785253863,
+        "date_updated": 1785529691,
         "url": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004&gh_src=rwa9v6mw4us",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apptronik",
         "title": "Software Engineer Intern, ML Systems",
         "source": "vanshb03",
