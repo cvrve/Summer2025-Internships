@@ -5637,5 +5637,60 @@
         "date_posted": 1785516451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1785516558,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+        "locations": [
+            "Stamford, CT",
+            "Houston, TX",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Data Science Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "2bfc6a20-b665-4ef1-babd-d4d1e59995aa",
+        "date_posted": 1785516558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785516564,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+        "locations": [
+            "Stamford, CT",
+            "Houston, TX",
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "d345fabb-0ebc-425b-8916-18608621309c",
+        "date_posted": 1785516564,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785516648,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Old Mission",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0c2f1f8-342e-4b18-9eab-3ca6b38ba57d",
+        "date_posted": 1785516648,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
