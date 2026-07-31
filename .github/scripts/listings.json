@@ -5539,7 +5539,7 @@
         "date_updated": 1785516218,
         "url": "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
         "locations": [
-            "Montréal"
+            "Montr\u00e9al"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -5608,7 +5608,7 @@
         "date_updated": 1785516227,
         "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
         "locations": [
-            "Montréal"
+            "Montr\u00e9al"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -5620,5 +5620,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785516451,
+        "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DRW",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "01c1fcb9-0733-4c21-b3ce-0e4909dd74f9",
+        "date_posted": 1785516451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
