@@ -4551,13 +4551,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784883351,
+        "date_updated": 1785773278,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Risk Technology Analyst Intern",
         "source": "vanshb03",
@@ -4568,13 +4568,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784883360,
+        "date_updated": 1785773278,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Technology Intern",
         "source": "vanshb03",
@@ -4602,13 +4602,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784883374,
+        "date_updated": 1785773278,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Investment Data Science Intern",
         "source": "vanshb03",
@@ -4996,13 +4996,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785124772,
+        "date_updated": 1785773303,
         "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
         "locations": [
             "Virginia Beach, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sentara Health",
         "title": "Data & AI Finance Strategy Intern",
         "source": "vanshb03",
@@ -5030,13 +5030,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785147483,
+        "date_updated": 1785773282,
         "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
         "locations": [
             "Frisco, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "AI Engineering Intern",
         "source": "vanshb03",
