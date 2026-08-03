@@ -5853,5 +5853,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785791371,
+        "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, CoreAI",
+        "source": "vanshb03",
+        "id": "c81be192-aa12-4a7c-bcfb-0c29b79d282e",
+        "date_posted": 1785791371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
