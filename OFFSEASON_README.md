@@ -43,6 +43,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Postman | AI Engineer Intern | Berkeley, CA | <a href="https://job-boards.greenhouse.io/postman/jobs/7823417003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| Copart | Software Engineering Intern 🇺🇸 | Dallas, TX | <a href="https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| Astera | Software Engineering Intern, Neuro & AGI 🛂 | Emeryville, CA | <a href="https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern, Embedded Platforms | Palo Alto, CA</br>Irvine, CA | <a href="https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Cirrus Logic | Embedded Software Test Engineer Intern | Austin, TX | <a href="https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Touchdown Labs | Member of Technical Staff Intern | San Francisco, CA | <a href="https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
