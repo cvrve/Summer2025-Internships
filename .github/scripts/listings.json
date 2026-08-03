@@ -1164,7 +1164,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1776726755,
+        "date_updated": 1785784511,
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
         "locations": [
             "Bastrop, TX",
@@ -1177,7 +1177,7 @@
             "Vandenberg, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "SpaceX",
         "title": "Engineering Intern",
         "source": "vanshb03",
@@ -1188,7 +1188,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776726759,
+        "date_updated": 1785784511,
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002",
         "locations": [
             "Bastrop, TX",
@@ -1201,7 +1201,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "SpaceX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -3345,13 +3345,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1783638621,
+        "date_updated": 1785784521,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
         "locations": [
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Performance Engineer Intern, Systems Software",
         "source": "vanshb03",
@@ -5184,13 +5184,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785180762,
+        "date_updated": 1785784533,
         "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
         "locations": [
             "Tampa, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "The Mosaic Company",
         "title": "Cybersecurity Co-Op/Intern",
         "source": "vanshb03",
