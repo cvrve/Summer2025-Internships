@@ -5799,5 +5799,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785742591,
+        "url": "https://www.tesla.com/careers/search/job/278847",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Compiler Engineer Intern, AI Inference",
+        "source": "vanshb03",
+        "id": "ecb520b6-8106-4e82-b7d4-9956d146a14a",
+        "date_posted": 1785742591,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
