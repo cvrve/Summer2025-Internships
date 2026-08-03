@@ -5727,5 +5727,111 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785741362,
+        "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Postman",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "e0f84d61-d2f8-4c4e-9b57-ec1234f81b35",
+        "date_posted": 1785741362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785741368,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+        "locations": [
+            "Fridley, MN",
+            "Tempe, AZ",
+            "Eatontown, NJ",
+            "Santa Rosa, CA",
+            "Lafayette, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "06bf9b10-6afc-472b-830d-6b8e03bd5296",
+        "date_posted": 1785741368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785741371,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HPR",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e563fe75-dbf7-4799-9d0c-f3586112ce97",
+        "date_posted": 1785741371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1785741377,
+        "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Astera",
+        "title": "Software Engineering Intern, Neuro & AGI",
+        "source": "vanshb03",
+        "id": "2c11c91c-786c-4aa6-8547-b795f5a8047b",
+        "date_posted": 1785741377,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1785741381,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "fa2379bf-973d-4204-9233-09a01f02d1d3",
+        "date_posted": 1785741381,
+        "company_url": "",
+        "is_visible": true,
+        "season": "null"
+    },
+    {
+        "date_updated": 1785741445,
+        "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Heliux",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6ca75b17-424f-471f-a303-71bab2644e24",
+        "date_posted": 1785741445,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
