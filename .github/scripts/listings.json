@@ -6398,5 +6398,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853278,
+        "url": "https://lifeattiktok.com/search/7667935565120112949",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, Social Foundation",
+        "source": "vanshb03",
+        "id": "6a30baf8-bf9f-4a0e-8369-1e5dc04dd0b3",
+        "date_posted": 1785853278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
