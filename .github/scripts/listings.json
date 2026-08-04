@@ -6432,5 +6432,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853283,
+        "url": "https://lifeattiktok.com/search/7667934302872537397",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+        "source": "vanshb03",
+        "id": "35644c35-f1fd-4fcc-b689-46ede931ce3f",
+        "date_posted": 1785853283,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
