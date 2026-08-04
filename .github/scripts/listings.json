@@ -6126,5 +6126,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852918,
+        "url": "https://joinbytedance.com/search/7668374190764050741",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+        "source": "vanshb03",
+        "id": "c882fbbe-ca27-423f-9393-a0165c9a7515",
+        "date_posted": 1785852918,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
