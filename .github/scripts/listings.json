@@ -6006,5 +6006,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785852846,
+        "url": "https://joinbytedance.com/search/7668212952030841093",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, AI Platform",
+        "source": "vanshb03",
+        "id": "0b35498a-b0e7-4a64-b3be-2a7c36487857",
+        "date_posted": 1785852846,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
