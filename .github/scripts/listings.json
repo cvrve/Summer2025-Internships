@@ -6160,5 +6160,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853216,
+        "url": "https://lifeattiktok.com/search/7667935150530840837",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Global Live-Foundation",
+        "source": "vanshb03",
+        "id": "87c2a369-995b-4331-913a-0dcebd8c7fe9",
+        "date_posted": 1785853216,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
