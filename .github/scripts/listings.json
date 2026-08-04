@@ -6517,5 +6517,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853307,
+        "url": "https://lifeattiktok.com/search/7667935739300792629",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Frontend Engineer Intern, TikTok-Open Platform",
+        "source": "vanshb03",
+        "id": "050c9508-f0be-4ba0-9d15-862ab3d54008",
+        "date_posted": 1785853307,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
