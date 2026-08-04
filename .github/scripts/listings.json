@@ -5904,5 +5904,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852648,
+        "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, AI/ML & LLM",
+        "source": "vanshb03",
+        "id": "0d25edcf-4b13-487c-9567-7ca21a9b042b",
+        "date_posted": 1785852648,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
