@@ -6619,5 +6619,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853338,
+        "url": "https://lifeattiktok.com/search/7668642761473902901",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+        "source": "vanshb03",
+        "id": "3f1b077a-75eb-45d3-8750-93ee20e42f9f",
+        "date_posted": 1785853338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
