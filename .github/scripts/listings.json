@@ -6279,5 +6279,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853255,
+        "url": "https://lifeattiktok.com/search/7668834837268138293",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, Global E-Commerce",
+        "source": "vanshb03",
+        "id": "6fd62f81-6053-491d-8461-b5f0b468d379",
+        "date_posted": 1785853255,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
