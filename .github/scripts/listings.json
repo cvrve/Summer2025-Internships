@@ -6330,5 +6330,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853266,
+        "url": "https://lifeattiktok.com/search/7668921505254410549",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Shoot Experience Optimization",
+        "source": "vanshb03",
+        "id": "c40c8751-c427-4db4-bafe-013d36e70014",
+        "date_posted": 1785853266,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
