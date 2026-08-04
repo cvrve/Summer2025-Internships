@@ -6602,5 +6602,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853334,
+        "url": "https://lifeattiktok.com/search/7668584916620527925",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Business Integrity",
+        "source": "vanshb03",
+        "id": "76b7d704-a923-40b1-b048-179cb4ea0cc8",
+        "date_posted": 1785853334,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
