@@ -6194,5 +6194,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853222,
+        "url": "https://lifeattiktok.com/search/7669712589169117445",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+        "source": "vanshb03",
+        "id": "769d0101-712d-4e54-926c-1d43d669b379",
+        "date_posted": 1785853222,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
