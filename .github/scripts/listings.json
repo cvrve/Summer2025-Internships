@@ -6040,5 +6040,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring/Summer 2027"
+    },
+    {
+        "date_updated": 1785852867,
+        "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Modal",
+        "title": "ML Research Intern",
+        "source": "vanshb03",
+        "id": "ee0e5fdf-b382-4676-b4cd-7bfed2f19951",
+        "date_posted": 1785852867,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
