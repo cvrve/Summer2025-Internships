@@ -6738,5 +6738,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853490,
+        "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GoDaddy",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "6a4f27bf-f0e3-4c57-ab25-da081cb48e5d",
+        "date_posted": 1785853490,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
