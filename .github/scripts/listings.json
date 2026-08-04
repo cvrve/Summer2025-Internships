@@ -6075,5 +6075,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852884,
+        "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a846c62b-3c4e-42b7-bd96-38b98b968af0",
+        "date_posted": 1785852884,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
