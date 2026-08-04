@@ -5938,5 +5938,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852658,
+        "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+        "locations": [
+            "Multiple Locations, United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Fullstack Product (Web + Services)",
+        "source": "vanshb03",
+        "id": "12243e5c-7c64-4d17-9472-840926a226d2",
+        "date_posted": 1785852658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
