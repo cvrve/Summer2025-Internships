@@ -5870,5 +5870,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852636,
+        "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Data Platform/Analytics",
+        "source": "vanshb03",
+        "id": "adea9c62-2047-4e4f-aebb-a218d42035ee",
+        "date_posted": 1785852636,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
