@@ -6143,5 +6143,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852925,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "fc6b4891-c7cc-4215-9a60-59ca673a18b7",
+        "date_posted": 1785852925,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
