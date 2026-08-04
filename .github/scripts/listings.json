@@ -6653,5 +6653,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853357,
+        "url": "https://lifeattiktok.com/search/7668582086899763461",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Data Arch - E-commerce",
+        "source": "vanshb03",
+        "id": "734ca3e4-426c-48f4-a651-4590a778a3d7",
+        "date_posted": 1785853357,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
