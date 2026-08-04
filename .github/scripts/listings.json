@@ -6211,5 +6211,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853224,
+        "url": "https://lifeattiktok.com/search/7668862422178318597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Intelligent Creation-Camera",
+        "source": "vanshb03",
+        "id": "80b7846f-2964-427e-baa2-a3366102923d",
+        "date_posted": 1785853224,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
