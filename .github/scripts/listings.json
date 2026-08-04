@@ -6023,5 +6023,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852859,
+        "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Melius",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6647eb8f-3baf-4822-9916-eaf8780a466e",
+        "date_posted": 1785852859,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring/Summer 2027"
     }
 ]
