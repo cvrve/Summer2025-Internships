@@ -6585,5 +6585,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853325,
+        "url": "https://lifeattiktok.com/search/7668445566565321013",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
+        "source": "vanshb03",
+        "id": "3379d87c-1b86-4ac7-8826-4a33a032f624",
+        "date_posted": 1785853325,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
