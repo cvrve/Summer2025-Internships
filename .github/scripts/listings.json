@@ -6347,5 +6347,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853269,
+        "url": "https://lifeattiktok.com/search/7669711844487399685",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Global CRM",
+        "source": "vanshb03",
+        "id": "f9236f63-25ee-4976-924d-a6755e49a7b6",
+        "date_posted": 1785853269,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
