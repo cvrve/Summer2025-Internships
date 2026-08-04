@@ -6177,5 +6177,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853220,
+        "url": "https://lifeattiktok.com/search/7669711026846058757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Frontend Engineer Intern, Global CRM",
+        "source": "vanshb03",
+        "id": "1e2bc422-b7b2-42b7-b69f-7e876919ed49",
+        "date_posted": 1785853220,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
