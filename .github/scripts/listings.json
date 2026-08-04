@@ -6296,5 +6296,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853260,
+        "url": "https://lifeattiktok.com/search/7668834837268416821",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer Intern, Global E-Commerce",
+        "source": "vanshb03",
+        "id": "584f85e6-569f-4917-aedb-3ed5791ed65c",
+        "date_posted": 1785853260,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
