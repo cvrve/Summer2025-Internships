@@ -6381,5 +6381,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853275,
+        "url": "https://lifeattiktok.com/search/7662684280234232117",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Trust and Safety-Engineering",
+        "source": "vanshb03",
+        "id": "100da4c0-808a-436e-82a2-995eee57976e",
+        "date_posted": 1785853275,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
