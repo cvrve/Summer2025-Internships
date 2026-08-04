@@ -6551,5 +6551,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853316,
+        "url": "https://lifeattiktok.com/search/7667935738376227077",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Code Graph and Quality Validation",
+        "source": "vanshb03",
+        "id": "ad414d77-c548-4f3b-8594-3ec4c5b1bd4e",
+        "date_posted": 1785853316,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
