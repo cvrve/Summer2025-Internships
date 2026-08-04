@@ -6364,5 +6364,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853272,
+        "url": "https://lifeattiktok.com/search/7662700594251958581",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Trust and Safety-Engineering",
+        "source": "vanshb03",
+        "id": "e5e5e861-a0f4-4983-bdb8-12c509ec53f6",
+        "date_posted": 1785853272,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
