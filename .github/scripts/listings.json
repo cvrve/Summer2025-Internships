@@ -5955,5 +5955,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852828,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "136c3438-c630-48ee-a19c-f7ea4aed7061",
+        "date_posted": 1785852828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
