@@ -5921,5 +5921,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852653,
+        "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Cloud & Distributed Backend",
+        "source": "vanshb03",
+        "id": "e8cdd6c9-273d-4f50-af44-c49ab843704f",
+        "date_posted": 1785852653,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
