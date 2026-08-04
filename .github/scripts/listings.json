@@ -6109,5 +6109,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1785852915,
+        "url": "https://joinbytedance.com/search/7668373268886161669",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+        "source": "vanshb03",
+        "id": "144e2a0e-b835-4a36-811c-92e04d055e78",
+        "date_posted": 1785852915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
