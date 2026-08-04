@@ -6092,5 +6092,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852911,
+        "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Yotta Labs",
+        "title": "Research Engineer Intern",
+        "source": "vanshb03",
+        "id": "778cea1e-13dc-4211-bb6c-74198f9271bf",
+        "date_posted": 1785852911,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
