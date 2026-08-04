@@ -5989,5 +5989,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852841,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bot Auto",
+        "title": "Deep Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "dd438ca4-d74b-48fe-8a6d-0ea6fd5cc591",
+        "date_posted": 1785852841,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
