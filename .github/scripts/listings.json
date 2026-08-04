@@ -6415,5 +6415,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853281,
+        "url": "https://lifeattiktok.com/search/7667934860750063925",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, Growth Innovation",
+        "source": "vanshb03",
+        "id": "abda1495-311a-45b6-aad7-1d3d86bf1c6e",
+        "date_posted": 1785853281,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
