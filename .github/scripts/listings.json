@@ -6687,5 +6687,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853363,
+        "url": "https://lifeattiktok.com/search/7668675500744837381",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+        "source": "vanshb03",
+        "id": "44454f62-101e-4c52-abfd-a58e0c690831",
+        "date_posted": 1785853363,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
