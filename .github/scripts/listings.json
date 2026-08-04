@@ -6500,5 +6500,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853304,
+        "url": "https://lifeattiktok.com/search/7667933770819897605",
+        "locations": [
+            "San Jose"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern, PGC Creator Strategy",
+        "source": "vanshb03",
+        "id": "dea9de5a-e36d-4863-a896-f5532d3b70af",
+        "date_posted": 1785853304,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
