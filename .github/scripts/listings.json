@@ -6058,5 +6058,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785852872,
+        "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Netsmart",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8d0460ab-6543-4eb5-b0dd-2e3d5ab6b65b",
+        "date_posted": 1785852872,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
