@@ -6721,5 +6721,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1785853484,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Intern, Fleet Health Instrumentation",
+        "source": "vanshb03",
+        "id": "df8d3fe7-c018-495f-95dc-b50e8f030c0d",
+        "date_posted": 1785853484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
