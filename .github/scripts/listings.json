@@ -6802,5 +6802,22 @@
     "company_url": "",
     "is_visible": true,
     "season": "Summer"
-}
+    },
+    {
+    "date_updated": 1785965318,
+    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us",
+    "locations": [
+        "San Mateo, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Roblox",
+    "title": "Software Engineer Intern",
+    "source": "vanshb03",
+    "id": "516fc19f-aadc-4ffe-8d15-aea277fef78b",
+    "date_posted": 1785965318,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer"
+    }
 ]
