@@ -6989,5 +6989,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1786024349,
+        "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shopify",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "12011286-0eca-4688-8c69-aa283024575d",
+        "date_posted": 1786024349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
