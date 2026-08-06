@@ -6887,5 +6887,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1786024271,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "Quant Trading Intern",
+        "source": "vanshb03",
+        "id": "0aafe188-f297-42d5-a9af-a9e537e53cea",
+        "date_posted": 1786024271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
