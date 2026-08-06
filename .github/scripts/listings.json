@@ -7006,5 +7006,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1786024702,
+        "url": "https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4",
+        "locations": [
+            "Remote",
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CNO Financial Group",
+        "title": "Cyber Security IT Intern",
+        "season": "Summer",
+        "source": "AMcSo1000",
+        "id": "4288f0c5-7ad1-4c64-a0ee-d87d8a1f93e2",
+        "date_posted": 1786024702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
