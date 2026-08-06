@@ -6955,5 +6955,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1786024328,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947",
+        "locations": [
+            "Calgary, AB"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canadian Tire Corporation, Limited",
+        "title": "AI Automation Student",
+        "source": "vanshb03",
+        "id": "b0d6cc8f-89bb-460c-9c0e-bf142486fc5b",
+        "date_posted": 1786024328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
