@@ -6904,5 +6904,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1786024274,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Group",
+        "title": "Quantitative Risk Intern",
+        "source": "vanshb03",
+        "id": "41aedd07-28e8-4be6-a6ad-0ffb8a16d770",
+        "date_posted": 1786024274,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
