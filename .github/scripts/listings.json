@@ -6938,5 +6938,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1786024318,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, Dynamo",
+        "source": "vanshb03",
+        "id": "8e13a875-b5b1-46d1-ada8-cdc1dfa8b485",
+        "date_posted": 1786024318,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
