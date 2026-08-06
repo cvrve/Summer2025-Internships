@@ -6836,5 +6836,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1786024261,
+        "url": "https://joinbytedance.com/search/7668464504736876853",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "GPU/AI Application System Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "050d8f29-405d-4cc1-90fc-e22d1fe78151",
+        "date_posted": 1786024261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
