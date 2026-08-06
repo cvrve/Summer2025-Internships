@@ -6921,5 +6921,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1786024313,
+        "url": "https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Redwood Materials",
+        "title": "Test Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "79567ab3-e9e0-4674-b4fd-69e074938ada",
+        "date_posted": 1786024313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
