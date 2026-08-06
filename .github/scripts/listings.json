@@ -6972,5 +6972,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1786024339,
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8621756002",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer Intern, Fleet Health Instrumentation",
+        "source": "vanshb03",
+        "id": "9602c975-7f35-4932-9b25-39983c85cffd",
+        "date_posted": 1786024339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
