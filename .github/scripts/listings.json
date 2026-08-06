@@ -6870,5 +6870,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1786024267,
+        "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canva",
+        "title": "PhD Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "ad16efe4-edab-4c1c-b35a-72ed02b5f2df",
+        "date_posted": 1786024267,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
