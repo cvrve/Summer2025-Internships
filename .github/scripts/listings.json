@@ -6853,5 +6853,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1786024264,
+        "url": "https://joinbytedance.com/search/7670009669494704437",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Applied Machine Learning Production Engineer Intern",
+        "source": "vanshb03",
+        "id": "d9c62743-b0d5-4a65-9696-3d4f8600d21d",
+        "date_posted": 1786024264,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
