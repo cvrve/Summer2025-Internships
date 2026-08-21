@@ -8201,5 +8201,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327731,
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Varda Space Industries",
+        "title": "Applications Engineer Intern",
+        "source": "vanshb03",
+        "id": "f01d2642-608b-4b6a-9a94-bcd2fc434e37",
+        "date_posted": 1787327731,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
