@@ -8184,5 +8184,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327728,
+        "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Hardware R&D Engineering Intern",
+        "source": "vanshb03",
+        "id": "af4b7f97-fb40-4eb9-af1c-83d4a4349ba0",
+        "date_posted": 1787327728,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
