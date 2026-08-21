@@ -8080,5 +8080,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327693,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Software Engineer Intern, Team Pickle",
+        "source": "vanshb03",
+        "id": "d6288825-2aef-4086-b1b6-f29bf66edfb8",
+        "date_posted": 1787327693,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
