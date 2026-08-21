@@ -8149,5 +8149,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1787327703,
+        "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Figma",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ab806a40-3173-438c-b929-7cb4e21780ed",
+        "date_posted": 1787327703,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
