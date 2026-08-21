@@ -2193,13 +2193,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778312442,
+        "date_updated": 1787326430,
         "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Veeam Software",
         "title": "Software Engineering Intern, Platform, Security & AI",
         "source": "vanshb03",
@@ -2210,13 +2210,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778312558,
+        "date_updated": 1787326430,
         "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Veeam Software",
         "title": "Software Engineering Intern, Policy Engineering",
         "source": "vanshb03",
@@ -3062,13 +3062,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779504102,
+        "date_updated": 1787326430,
         "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cubist Systematic Strategies",
         "title": "Quantitative Developer Intern",
         "source": "vanshb03",
@@ -5337,13 +5337,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785253445,
+        "date_updated": 1787326431,
         "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gemini",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
