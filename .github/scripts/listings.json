@@ -8167,5 +8167,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1787327704,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Power Systems Integration Intern",
+        "source": "vanshb03",
+        "id": "1ad039f9-d191-46e8-8949-933beb4efdbe",
+        "date_posted": 1787327704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
