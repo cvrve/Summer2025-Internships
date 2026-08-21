@@ -8029,5 +8029,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327684,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Reliability Test Intern",
+        "source": "vanshb03",
+        "id": "ff120d27-6dae-4fe6-91ab-20b8d3b4e29f",
+        "date_posted": 1787327684,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
