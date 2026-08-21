@@ -8063,5 +8063,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327690,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
+        "locations": [
+            "Camden, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Campbell Soup Company",
+        "title": "Data Engineer Intern, DA&AI Co-Op",
+        "source": "vanshb03",
+        "id": "546c4a60-2ac8-438f-ab80-a1426327fd62",
+        "date_posted": 1787327690,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
