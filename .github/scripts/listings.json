@@ -8046,5 +8046,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1787327688,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Campbell Soup Company",
+        "title": "Agentic AI Engineer Co-Op",
+        "source": "vanshb03",
+        "id": "40f1994b-331f-4836-b7e5-33e8197296d0",
+        "date_posted": 1787327688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
