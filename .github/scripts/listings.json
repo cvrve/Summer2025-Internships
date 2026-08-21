@@ -7976,5 +7976,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1787327675,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+        "locations": [
+            "Bellevue, Washington",
+            "Mountain View, California",
+            "San Francisco, California"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c045a1de-0845-4fb4-8d88-73b2d41f0ca4",
+        "date_posted": 1787327675,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
