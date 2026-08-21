@@ -7041,5 +7041,940 @@
         "date_posted": 1786934594,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1787326570,
+        "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Nuclear Company",
+        "title": "AI Applied Research Intern",
+        "source": "vanshb03",
+        "id": "c892c9e4-a343-43b2-93eb-b0212b89389f",
+        "date_posted": 1787326570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326577,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Teledyne Technologies Incorporated",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d6b0d4fb-dd47-478e-ad9b-2887f64a1645",
+        "date_posted": 1787326577,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326585,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "3bef4cb3-3926-43b5-95db-dd069491f8ea",
+        "date_posted": 1787326585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1787326595,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Monolithic Power Systems, Inc.",
+        "title": "Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "68e35590-dc7d-45d6-9c91-c6ac8fe60be1",
+        "date_posted": 1787326595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787326616,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "HPR",
+        "title": "FPGA Engineering Intern",
+        "source": "vanshb03",
+        "id": "6a6d4d9c-5866-4b37-984c-93f72b704f1d",
+        "date_posted": 1787326616,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326622,
+        "url": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004",
+        "locations": [
+            "Cary, United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Gameplay Programmer Intern",
+        "source": "vanshb03",
+        "id": "6ad34b8c-97ef-49cf-8230-cc2fd4d26258",
+        "date_posted": 1787326622,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326628,
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Embedded Quality & Fielded Systems Intern",
+        "source": "vanshb03",
+        "id": "bf684403-f4ad-4ae0-9c8c-ec117027b293",
+        "date_posted": 1787326628,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787326637,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Copart",
+        "title": "DevOps Engineering Intern",
+        "source": "vanshb03",
+        "id": "0a293944-e823-414b-8259-4f2086dc41ac",
+        "date_posted": 1787326637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "null"
+    },
+    {
+        "date_updated": 1787326641,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "QA Engineering Intern",
+        "source": "vanshb03",
+        "id": "40ee3e02-a678-438e-9f67-af1dae8d523a",
+        "date_posted": 1787326641,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326653,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "6ab65f25-0d37-49e1-93d6-98942a16db04",
+        "date_posted": 1787326653,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326657,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "bec160b4-77d9-4030-b9fd-c38a276c15cd",
+        "date_posted": 1787326657,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326660,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "9e5c3ecf-33a5-4ae3-9656-913717276941",
+        "date_posted": 1787326660,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326669,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "04fc6cfb-0ae3-4932-9cb7-aeb19388b7f8",
+        "date_posted": 1787326669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326673,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "320488d0-3f3a-4e42-9ec4-ff5c7c02256e",
+        "date_posted": 1787326673,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326677,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "bdd6e13b-35b7-4758-9ef1-132e6e16276e",
+        "date_posted": 1787326677,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326680,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "320b7436-80dd-4f33-bbcd-0b353d412891",
+        "date_posted": 1787326680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326683,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "b38f6485-9091-4a07-8513-a24e8661a2fd",
+        "date_posted": 1787326683,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326685,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern, Technology",
+        "source": "vanshb03",
+        "id": "1ce4df84-c0d1-4792-ba81-56d45a7bc515",
+        "date_posted": 1787326685,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326688,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "23aee8ac-1ab5-4a85-a254-c28db1d84325",
+        "date_posted": 1787326688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326691,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "1ff80e59-ef9d-4a5b-80d5-87927f61c3c5",
+        "date_posted": 1787326691,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326694,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "eb899fc3-9230-41ca-903c-d137b5ab6bf5",
+        "date_posted": 1787326694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326697,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "4433d78a-5e4d-4d06-b73b-7d3165bac7f6",
+        "date_posted": 1787326697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326701,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "849bf222-8bc8-4eab-bd4a-5902e9e3aea1",
+        "date_posted": 1787326701,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326708,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "32664967-8bcb-4444-845d-2efe9b3907f6",
+        "date_posted": 1787326708,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326716,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "f991cb15-5a62-4915-b2c9-1913563fa5a7",
+        "date_posted": 1787326716,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326721,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "df2f8e19-df77-49e3-849c-57f759fef730",
+        "date_posted": 1787326721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326751,
+        "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Humana",
+        "title": "Software Engineer Intern, CenterWell and Humana Military",
+        "source": "vanshb03",
+        "id": "07c77413-1e32-4032-a14a-8c57dd1225c1",
+        "date_posted": 1787326751,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326771,
+        "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Verition Fund Management LLC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "835cac0f-ad17-450e-984c-ac7973199416",
+        "date_posted": 1787326771,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787326787,
+        "url": "https://career.mlp.com/careers/job/755957778848",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "5023bac8-bf1b-4d54-9b1a-de70b35bf0f6",
+        "date_posted": 1787326787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326901,
+        "url": "https://career.mlp.com/careers/job/755957819661",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "0a47953e-2eb5-47d3-9a42-056ae1863d31",
+        "date_posted": 1787326901,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787326904,
+        "url": "https://career.mlp.com/careers/job/755957778821",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Millennium",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "9d6bf754-a9b4-4175-a689-79099306456f",
+        "date_posted": 1787326904,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787326908,
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "f5f5bdd2-3872-4666-a6f1-8f3db5fe1b3e",
+        "date_posted": 1787326908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787326911,
+        "url": "https://careers.amd.com/careers-home/jobs/91180",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Rochester, NY",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f1fb259b-d4f0-4533-bff6-ab51a408a4db",
+        "date_posted": 1787326911,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring/Summer"
+    },
+    {
+        "date_updated": 1787326915,
+        "url": "https://careers.amd.com/careers-home/jobs/91176",
+        "locations": [
+            "Santa Clara, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineer Intern, Co-op",
+        "source": "vanshb03",
+        "id": "10650a14-859e-42bd-9fa4-ac96e0758dbf",
+        "date_posted": 1787326915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring/Summer"
+    },
+    {
+        "date_updated": 1787326917,
+        "url": "https://careers.amd.com/careers-home/jobs/90947",
+        "locations": [
+            "Austin, TX",
+            "Boxborough, MA",
+            "Fort Collins, CO",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Rochester, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "afac265d-dc35-498a-8bac-6a28e4faffba",
+        "date_posted": 1787326917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring/Summer"
+    },
+    {
+        "date_updated": 1787326921,
+        "url": "https://careers.amd.com/careers-home/jobs/90891",
+        "locations": [
+            "Santa Clara, CA",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "751faa08-c8c5-46d1-83bb-abf4b0f8c8aa",
+        "date_posted": 1787326921,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring/Summer"
+    },
+    {
+        "date_updated": 1787327021,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "Data Analytics Developer Intern",
+        "source": "vanshb03",
+        "id": "e9677871-f272-4634-ae22-2d8ad3b9846f",
+        "date_posted": 1787327021,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787327025,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freeform",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7d6562a8-d601-4168-aeb8-aca66ee1af7f",
+        "date_posted": 1787327025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327028,
+        "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hypercubic",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "434df1f4-3a94-4a13-b2b3-74fbd410e6d7",
+        "date_posted": 1787327028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327032,
+        "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Exa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a6a6d90e-88fb-4d03-a660-25f1dedd54bd",
+        "date_posted": 1787327032,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327039,
+        "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Replit",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4ac6a461-c589-4244-b5f7-7f6ba22667bb",
+        "date_posted": 1787327039,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327046,
+        "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b0a5003e-7eaf-4778-a4d1-c1cb4dbc92a4",
+        "date_posted": 1787327046,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327051,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a71550ac-6e75-4881-b106-840c35fe20a4",
+        "date_posted": 1787327051,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1787327057,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Product Management Intern, Global Merchant & Network Services",
+        "source": "vanshb03",
+        "id": "6588ee96-42b8-4a2c-877a-cd5bb2d57efa",
+        "date_posted": 1787327057,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327064,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002",
+        "locations": [
+            "Multiple Locations Available"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "ML PhD Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cce8b4d4-483a-4493-bfa0-b352d4800928",
+        "date_posted": 1787327064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1787327067,
+        "url": "https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Machine Learning Research Intern",
+        "source": "vanshb03",
+        "id": "32718fdd-adb4-4893-91ca-d2be3c252a3e",
+        "date_posted": 1787327067,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327075,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "dba510a2-11fc-4843-b6a4-dbd667e2e382",
+        "date_posted": 1787327075,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327082,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Product Management Intern, MBA",
+        "source": "vanshb03",
+        "id": "06b7c10d-2d3a-43d5-815b-c286d9c4bfc6",
+        "date_posted": 1787327082,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327085,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "5b482038-953b-4819-b8b0-1ff7aac40dab",
+        "date_posted": 1787327085,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327091,
+        "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kastle",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "402dc9c0-a793-4251-91f2-671f344534d0",
+        "date_posted": 1787327091,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327113,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Group",
+        "title": "Software Engineer Intern, Commodities",
+        "source": "vanshb03",
+        "id": "7b2a02cc-3617-4263-b478-bbfbe59374be",
+        "date_posted": 1787327113,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327116,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "JPMorgan Chase",
+        "title": "Quantitative Research, Markets, Summer Internship - Analyst",
+        "source": "vanshb03",
+        "id": "6e48df66-36ea-44aa-bbf9-3812ac6e8d68",
+        "date_posted": 1787327116,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327122,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "JPMorgan Chase",
+        "title": "Quantitative Research, Asset Management Summer Analyst",
+        "source": "vanshb03",
+        "id": "cede35ac-5bdd-4532-bd54-fef251d977a8",
+        "date_posted": 1787327122,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1787327126,
+        "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+        "locations": [
+            "New York, NY",
+            "Seattle, WA",
+            "Los Angeles, CA",
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b2edd378-9d95-4295-a2b7-849e12c932aa",
+        "date_posted": 1787327126,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
