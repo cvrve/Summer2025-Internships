@@ -59,7 +59,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Touchdown Labs | Member of Technical Staff Intern | San Francisco, CA | <a href="https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Rendezvous Robotics | Software Engineering Intern, Spring 2027 🇺🇸 | Golden, CO | <a href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | ↳ | Software Engineering Intern 🇺🇸 | Golden, CO | <a href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| Gemini | Software Engineering Intern | New York, NY | <a href="https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Robert Bosch LLC | Software Engineer Intern, Autonomous Driving | Sunnyvale, CA | <a href="https://jobs.smartrecruiters.com/BoschGroup/744000139649345?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Nokia | Architecture AI Co-op 🇺🇸 | Naperville, IL | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -173,6 +172,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Machine Learning Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | Postman | AI Engineer Intern | Berkeley, CA | 🔒 | Aug 03 |
+| Gemini | Software Engineering Intern | New York, NY | 🔒 | Jul 28 |
 | Apptronik | Software Engineer Intern, ML Systems | Austin, TX | 🔒 | Jul 28 |
 | Toshiba Commerce Solutions | AI Engineering Intern 🛂 | Frisco, TX | 🔒 | Jul 27 |
 | ↳ | Project Management & AI Automation Intern 🛂 | Frisco, TX | 🔒 | Jul 27 |
