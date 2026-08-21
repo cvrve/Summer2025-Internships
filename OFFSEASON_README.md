@@ -52,7 +52,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Yotta Labs | Research Engineer Intern | Remote | <a href="https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Bot Auto | Deep Learning Engineer Intern | Houston, TX | <a href="https://job-boards.greenhouse.io/botauto/jobs/5289440008?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Tesla | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/278847?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
-| Postman | AI Engineer Intern | Berkeley, CA | <a href="https://job-boards.greenhouse.io/postman/jobs/7823417003?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Astera | Software Engineering Intern, Neuro & AGI 🛂 | Emeryville, CA | <a href="https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | <a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern, Embedded Platforms | Palo Alto, CA</br>Irvine, CA | <a href="https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
@@ -103,7 +102,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Astranis | Software Engineer Intern, Enterprise Systems 🇺🇸 | San Francisco, CA | <a href="https://job-boards.greenhouse.io/astranis/jobs/4699071006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | VITAL LYFE | Software Engineering Intern | Los Angeles, CA | <a href="https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Amgen | Software Engineer Intern | Burnaby, Canada | <a href="https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
-| ABB | Application Engineering Intern 🇺🇸 | Alpharetta, GA</br>Lombard, IL | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Etched | Firmware Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | ↳ | Firmware Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | ↳ | Infrastructure Intern | San Jose, CA | <a href="https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
@@ -174,6 +172,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rippling | Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Machine Learning Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
+| Postman | AI Engineer Intern | Berkeley, CA | 🔒 | Aug 03 |
 | Apptronik | Software Engineer Intern, ML Systems | Austin, TX | 🔒 | Jul 28 |
 | Toshiba Commerce Solutions | AI Engineering Intern 🛂 | Frisco, TX | 🔒 | Jul 27 |
 | ↳ | Project Management & AI Automation Intern 🛂 | Frisco, TX | 🔒 | Jul 27 |
@@ -187,6 +186,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Performance Engineer Intern, Systems Software | St. Louis, MO | 🔒 | Jul 09 |
 | Datasite | Forward Deployed Engineer Intern | New York, NY | 🔒 | Jul 09 |
 | CACI | Software Engineering Intern 🛂 | Jessup, MD | 🔒 | Jul 09 |
+| ABB | Application Engineering Intern 🇺🇸 | Alpharetta, GA</br>Lombard, IL | 🔒 | Jul 09 |
 | Rocket Lab | Software Intern 🇺🇸 | Albuquerque, NM | 🔒 | May 22 |
 | NVIDIA | Quantum Research Scientist Intern | Santa Clara, CA | 🔒 | May 19 |
 | NVIDIA | Systems Software Engineer Intern, Metropolis | Santa Clara, CA | 🔒 | May 14 |
