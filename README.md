@@ -6,6 +6,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
 
 🙏 **Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
+You can also [search and filter the jobs from this repository on openings.dev](https://openings.dev/communities/vanshb03/Summer2027-Internships). Each result links back to the original issue for current details and application instructions.
+
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
 ---
